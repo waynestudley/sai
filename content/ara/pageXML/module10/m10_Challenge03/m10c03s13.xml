@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[طلب أحد العملاء من كارلوس القيام بأعمال إضافية. فكيف برأيك يجب عليه أن يرد؟ حدد خيارًا واحدًا؛ ثم انقر على "موافق".]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[فما الذي ينبغي أن يفعله كارلوس؟]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[الموافقة على العمل، وجعل ديفيد يقسم على الحفاظ على سرية الأمر، وإكمال العمل معًا قبل المغادرة.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[إخبار ديفيد بأن يقوم بالعمل إذا كان يرغب في ذلك، إلا أنه لن يشارك في هذا الأمر.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[التوضيح للعميل بشكل مهذب أنهما لا يمكنهما قبول الأمر، حيث إن ذلك يعد بمثابة اقتناص للعمل من شركة Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[يكمل كارلوس وديفيد العمل قبل المغادرة. الأمر في غاية السهولة! كما أنهما يحملان دائمًا معهما أجهزة استشعار إضافية قليلة، وبالتالي، فإن شركة Johnson Controls لن تشعر بشيء.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[يوافق ديفيد على تنفيذ المهمة كمهمة جانبية.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[يتصل كارلوس بمديره، الذي يخبر فريق المبيعات، ويقوموا بعمل عرض أسعار للعمل الإضافي. يتم توجيه العمل إلى شركة Johnson Controls وليس إلى كارلوس أو ديفيد بشكل شخصي.]]></text>
+		</correct>
+	</feedback>
+</contents>

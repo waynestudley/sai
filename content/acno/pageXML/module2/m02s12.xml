@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[Verifique su comprensión de lo que es aceptable y lo que no cuando se trata de entretenimiento. Seleccione Aceptable o Inaceptable para estas opciones y, luego, haga clic en Enviar.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[Un mesero que trae la cuenta]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;right: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Decida si estas acciones son aceptables o inaceptables.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Seleccione Aceptable o Inaceptable para cada opción y, luego, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img01.png"><![CDATA[Cuatro entradas para un evento deportivo]]></img>
+			<text style="width: 356px;"><![CDATA[Un proveedor le ofrece cuatro entradas para asistir a un evento deportivo importante con él. Las entradas valen alrededor de USD 100 cada una, así que, antes de aceptar, usted informa el ofrecimiento.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img02.png"><![CDATA[Un empleado revisando un ofrecimiento]]></img>
+			<text style="width: 356px;"><![CDATA[Si bien descubre que hay una licitación abierta con este proveedor, como usted no está directamente involucrado, decide aceptar las entradas.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img04.png"><![CDATA[Un empleado y un proveedor hablando]]></img>	
+			<text style="width: 356px;"><![CDATA[Otro proveedor que no participa en una licitación activa le ofrece entradas alternativas a un evento más pequeño, de un valor de USD 20 cada una. Las rechaza a favor de las entradas para el evento importante.]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[Aceptable]]></text>
+		<text styleWidth="width:110px;"><![CDATA[Inaceptable]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[La respuesta es correcta.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[<ul> <li>Dado que el valor de las entradas para el evento importante supera los USD 200, estas se deben informar.</li> <li>Nunca debe entregar o aceptar regalos o actividades de entretenimiento con clientes o proveedores durante un período en el que se estén negociando contratos o licitaciones.</li><li>El valor de estas entradas es más apropiado, pero incluso esta actividad de entretenimiento sería inapropiada si implicara cualquier intento de influenciarlo de manera indebida.</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[La respuesta no es correcta.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[<ul> <li>Dado que el valor de las entradas para el evento importante supera los USD 200, estas se deben informar.</li> <li>Nunca debe entregar o aceptar regalos o actividades de entretenimiento con clientes o proveedores durante un período en el que se estén negociando contratos o licitaciones.</li><li>El valor de estas entradas es más apropiado, pero incluso esta actividad de entretenimiento sería inapropiada si implicara cualquier intento de influenciarlo de manera indebida.</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

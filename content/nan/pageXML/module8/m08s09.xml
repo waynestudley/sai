@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s09">
+	<transcript>
+		<text path="audio/module8/m08s09" id="0"><![CDATA[您可以做一些重要的事情來協助維護資訊安全。 按一下每個「顯示」按鈕以瞭解詳情。]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[培養這些習慣：]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s09/contentBackground.jpg" minwidth="769"><![CDATA[指紋]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[按一下每個「顯示」按鈕以瞭解詳情。 請捲動閱讀完整答案。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[顯示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module8/m08s09/img1.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[將資訊標示為機密]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[如果其他員工不知道這是機密，就不會刻意對其進行保護。 ]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module8/m08s09/img2.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[將機密資訊安全儲存 ]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[將實體資料鎖起來收好，並用安全度高的密碼來保護電子檔案和您的電腦。 切勿將密碼告訴任何人，避免多個檔案或應用程式共用同一個密碼。]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img3.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[出差時小心謹慎]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[行動電話或 USB 隨身碟很容易遺失或失竊。 審慎考慮是否有必要攜帶機密資訊出差，避免在有其他人可看到或聽到的地方處理或談論機密資訊。 ]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img4.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[基於「有知情必要」的原則來分享機密資訊]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[除非符合下列條件，否則請勿和客戶、合作夥伴、供應商、其他第三方或 Johnson Controls 的員工分享機密資訊： <ul> <li>確實有必要</li> <li>擁有適當的授權</li> <li>接收資訊的人知道這是機密資訊，並且擁有查閱該資訊的授權</li> <li>已簽署保護該資訊的法律協議 (如保密協議)。 即使如此，也只能分享該人員完成工作所需的資訊量</li> </ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img5.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[小心使用社交媒體]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[資訊一旦放上網路，您就無法控制他人要如何利用該資訊。]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

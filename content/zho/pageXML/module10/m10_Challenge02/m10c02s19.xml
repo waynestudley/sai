@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[汤姆拜托艾玛将 Johnson Controls 明星客户的地址给他。 汤姆提出，如果艾玛提供地址，便将挣到的钱分她一部分。 艾玛该怎么做？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后选择“确定”]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[明确告诉汤姆，她不要报酬，但还是将地址给他。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[婉言拒绝汤姆提供地址的请求，但不告诉其他人，以免他们认为自己也参与其中。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[婉言拒绝汤姆提供地址的请求，并将情况报告经理。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[当艾玛同意给汤姆地址时，即使她不分得报酬，亦将两人置于危险之中。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾玛拒绝汤姆提供地址的请求是正确的做法，但她应该认识到他的请求本身就有问题。]]></text>
+			<text><![CDATA[艾玛应该向经理或法律部门报告此事，如果汤姆继续纠缠，可能会为公司造成隐私风险。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾玛做出正确的决定，拒绝为汤姆提供地址，并将该请求报告她的经理。 如果她向汤姆提供此信息，便会侵犯客户的隐私。 而且，勇于直言则帮助公司避免此情况发生。]]></text>
+		</correct>
+	</feedback>
+</contents>

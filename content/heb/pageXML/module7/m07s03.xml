@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[מה אתה כבר יודע על הסיכונים החלים על קניין רוחני? חקור את המצב של דורית, בחר את כל התגובות המתאימות ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[דורית התחילה לעבוד ב- Johnson Controls לפני כמה חודשים, והייתה מעורבת בהשקה של מוצר חדש, שעורר התלהבות בתעשייה.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[חבר של דורית, עמית, שעובד בתעשייה דומה, שואל אותה איך הולך לה בעבודה ומתחיל לשאול שאלות ספציפיות על המוצר החדש.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[כיצד דורית צריכה להגיב?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA[דורית ועמית]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;left: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;">
+		<text><![CDATA[בחר את כל התגובות המתאימות ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[ייתכן שיש יותר מתשובה אחת נכונה.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[עליה להוציא מעמית הבטחה שהוא לא יגלה שום דבר שהיא עומדת לספר לו לפני שהיא מתארת בפניו את פרטי המוצר וההשקה]]></option>	
+		<option><![CDATA[עליה לספר לעמית איך היא מרגישה לגבי העבודה (לדוגמה, היא מרגשת, מאתגרת וכו') בלי לחשוף פרטים כלשהם על המוצר או ההשקה]]></option>	
+		<option><![CDATA[עליה לספר לעמית שהעבודה שהיא עושה סודית ולכן אין באפשרותה לחשוף בפניו את הפרטים]]></option>	
+		<option><![CDATA[עליה לדבר רק על הפרויקטים שלה ולשתף פרטים שאינם זמינים לקהל הרחב עם חברים ובני משפחה שעליהם היא סומכת]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-206px">
+			<text style=""><![CDATA[נכון.]]></text>
+			<text style=""><![CDATA[דורית יכולה לספר לעמית איך היא מרגישה ביחס לעבודתה, אך אינה רשאית לחשוף מידע סודי כלשהו של החברה - כולל פרטים על המוצר החדש או ההשקה שלו.]]></text>
+			<text style=""><![CDATA[הנקודה המרכזית שצריך לזכור היא שחל איסור מוחלט לחשוף סודות מסחריים או כל מידע סודי אחר עם אנשים לא מורשים מחוץ לחברה מכל סיבה שהיא.]]></text>
+			<text style="margin-bottom:70px;"><![CDATA[בשום מקרה אין לספר גם לחברים ובני משפחה אמינים סודות מסחריים שנמצאים בשימוש או קניין רוחני שפותח על-ידי Johnson Controls. ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-206px">
+			<text style=""><![CDATA[לא נכון.]]></text>
+			<text style=""><![CDATA[דורית יכולה לספר לעמית איך היא מרגישה ביחס לעבודתה, אך אינה רשאית לחשוף מידע סודי כלשהו של החברה - כולל פרטים על המוצר החדש או ההשקה שלו.]]></text>
+			<text style=""><![CDATA[הנקודה המרכזית שצריך לזכור היא שחל איסור מוחלט לחשוף סודות מסחריים או כל מידע סודי אחר עם אנשים לא מורשים מחוץ לחברה מכל סיבה שהיא.]]></text>
+			<text style="margin-bottom:70px;"><![CDATA[בשום מקרה אין לספר גם לחברים ובני משפחה אמינים סודות מסחריים שנמצאים בשימוש או קניין רוחני שפותח על-ידי Johnson Controls. ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

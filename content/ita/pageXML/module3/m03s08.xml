@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[I governi e gli enti di controllo trattano la corruzione severamente. Ecco perché è così importante che tutti svolgiamo un ruolo attivo per prevenirla. Puoi combinare l'azione della colonna di sinistra con le conseguenze a destra?]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Che cosa succede alle società che commettono atti di concussione e corruzione?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[Un ufficio]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<instructionText style="height:40px;">
+		<text><![CDATA[Seleziona un elemento nella prima colonna, poi trascina le frecce per collegarlo alla conseguenza corrispondente nella seconda colonna. Quando sei pronto, fai clic su Inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[L'AZIONE]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[Dipendente che assegna un tirocinio a qualcuno ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[I banchieri d’investimento JP Morgan dell’Asia Pacifico conducevano un programma che assegnava posti di lavoro e tirocini a familiari e amici dei potenziali clienti, tra cui i funzionari pubblici. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[Funzionario pubblico con in mano una tangente ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Le controllate di una grande società internazionale che produceva rame, alluminio e cavi per fibre ottiche, pagavano milioni di dollari ad agenti e a distributori di terze parti. Alcuni dei soldi furono impiegati per corrompere funzionari governativi al fine di ottenere lavoro, ricompensando la società con 51 milioni di dollari di guadagno.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[LE CONSEGUENZE]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[Alla società fu ordinato di pagare 76 milioni di dollari e due dirigenti, che erano a conoscenza delle tangenti, dovettero pagare milioni. ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[Giudice con il martelletto]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ Il governo degli Stati Uniti ritenne che la società era “coinvolta in uno schema di tangenti sistematico” che portava a notevoli vantaggi lavorativi. Alla società fu ordinato di pagare 264 milioni di dollari.]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[Il Campidoglio degli Stati Uniti visto dagli scalini del palazzo di giustizia]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[Le conseguenze della concussione e della corruzione possono essere serie, sia per un individuo sia per una società, e possono variare da una pena pecuniaria a una pena detentiva.  Johnson Controls conta su di te lungo tutto il percorso per impedire che siano compiuti atti di corruzione e per segnalare immediatamente qualsiasi attività sospetta di tale tipo.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[Le conseguenze della concussione e della corruzione possono essere serie, sia per un individuo sia per una società, e possono variare da una pena pecuniaria a una pena detentiva.  Johnson Controls conta su di te lungo tutto il percorso per impedire che siano compiuti atti di corruzione e per segnalare immediatamente qualsiasi attività sospetta di tale tipo.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

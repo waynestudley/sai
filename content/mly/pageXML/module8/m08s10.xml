@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m08s10" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module8/m08s10"><![CDATA[Jadi, mari kita gunakan ini kepada kehidupan sebenar. Bagaimanakah anda akan mengendalikan situasi berikut? Sambungkan setiap situasi di sebelah kiri ke penyelesaian yang betul di sebelah kanan dan klik Serah.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Tunjukkan yang anda tahu apa yang perlu dilakukan dalam setiap situasi ini. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module8/m08s10/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top: -15px;"><![CDATA[SERAH]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[Pilih item dari lajur pertama, kemudian seret anak panah ke penyelesaian yang sepadan dalam lajur kedua. Setelah anda selesai, klik serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="990" lineHolderH="250">
+		<leftSideTabs>
+			<heder><![CDATA[SITUASI]]></heder>
+			
+			<tab id="1" style="height:100px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 100px;">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img01.png"><![CDATA[Orang bekerja pada Komponen]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Anda bekerja dengan pembekal berpotensi yang membida untuk membekalkan komponen untuk produk baharu ]]></text>				
+			</tab>			
+			<tab id="2" style="height:100px" dragPosition="left:430px; top:119px;z-index:5;height:100px">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img02.png"><![CDATA[Orang memilih ikon untuk membuka e-mel]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Anda sedang bekerja pada dokumen yang anda perlu selesaikan, jadi anda mempertimbangkan untuk menghantar e-mel kepada diri anda sendiri di rumah]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[PENYELESAIAN]]></heder>
+			<tab id="2" style="height:100px" dropPosition="left: 528px;top: 8px;height: 100px;">
+				<text style=""><![CDATA[Cari cara lain untuk mengakses dokumen tersebut, kerana e-mel boleh hilang, digodam atau tersalah hala]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img04.png"><![CDATA[Ikon Folder]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:100px" dropPosition="left: 528px;top: 119px;height: 100px;">
+				<text><![CDATA[Minta mereka untuk menandatangani perjanjian tidak boleh dedah sebelum berkongsi sebarang maklumat produk baharu dan tandakannya sebagai sulit ]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img03.png"><![CDATA[Orang sedang menandatangani NDA]]></rightIcon>
+			</tab>	
+		</rightSideTabs>		
+		<feedback type="normal">
+			<correct id="1" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[Betul – anda telah memadankan semuanya dengan betul. ]]></text>
+			</correct>			
+			<incorrect id="2" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[Itu salah]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

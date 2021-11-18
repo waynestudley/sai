@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m08s03">
+	<transcript>
+		<text path="audio/module8/m08s03" id="0"><![CDATA[デビーはスマートフォンのメッセージを開きます。 各画像をクリックして詳細を学びましょう。]]></text>		
+	</transcript>
+	<pageTitle style="width: 354px;"></pageTitle>
+	<contentBg style="width: 500px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[デビーは同僚のキムからの通知を見つけました。]]></text>
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module8/m08s03/contentBackground.jpg" minwidth="769"><![CDATA[スマートフォンを持っている女性]]></img>
+	</contentBackground>	
+	<revelCollOut style="width: 235px;left: 0px;top: 135px;height: 355px;">		
+		<img path="content/images/ltr/module8/m08s03/img_03.png" minwidth="769"><![CDATA[]]></img>	
+		<text style="font-weight:bold;font-size: 16px"><![CDATA[差出人: キム・パーかー]]></text>
+		<text style="font-size: 14px"><![CDATA[Loving my 8 hours OT – woot woot<img src="content/images/ltr/module8/m08s03/icon.png"  style="height: 20px;margin-left: 4px;vertical-align: middle;"/> ]]></text>
+	</revelCollOut>
+	<revelCollOut style="width: 235px;left:260px;top: 135px;height: 355px;">		
+		<img path="content/images/ltr/module8/m08s03/img_04.png" minwidth="769"><![CDATA[]]></img>	
+		<text style="font-weight:bold;font-size: 16px"><![CDATA[Debbie]]></text> 		
+		<text style="font-size: 13px"><![CDATA[素晴らしい写真ですね、キム。しかし、背景にコンピュータの画面が映っている状態でなぜ撮影したのでしょうか？ 顧客サービスの依頼と顧客の請求情報を含むExcelシートが見えています。 私が見られるということは、全員が見られるということです！]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[それぞれの画像を選択し、さらに理解を深めてください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<RevealButton style="top:135px;left: 0px;width: 235px;height: 160px;position: absolute;">
+	
+		<buttonImg path="content/images/ltr/module8/m08s03/img_01.png" style=""><![CDATA[別の女性のサムネイル]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 235px;height: 160px;" txtStyle=""><![CDATA[差出人: キム・パーかー]]></buttonText>		
+	</RevealButton>	
+	
+	<RevealButton style="top:135px;left:260px;width: 235px;height: 160px;position: absolute;">
+		<buttonImg path="content/images/ltr/module8/m08s03/img_02.png" style="top:10px;left:0px;width:590px;">				<![CDATA[Debbie]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 235px;height: 160px;" txtStyle=""><![CDATA[Debbie]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

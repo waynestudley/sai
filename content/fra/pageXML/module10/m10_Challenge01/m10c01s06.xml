@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style=""></pageTitle>
+	<contentText style="line-height:18px;">
+		<text><![CDATA[L’opération de la femme de Jian est une réussite, mais les médecins la gardent une nuit en observation. Le lendemain, étant donné que le service informatique ne pourra pas lui fournir d’ordinateur de rechange avant la fin de la journée, Jian utilise son ordinateur personnel et travaille depuis la chambre de sa femme. Avec son ordinateur portable, il peut consulter les informations sur le fichier des fournisseurs.]]></text>
+		<text><![CDATA[Quelle est la meilleure façon de faire parvenir ces modifications à Holly ?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[Chambre d’hôpital de la femme de Jian]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="padding-bottom:8px;line-height:18px;">
+		<text><![CDATA[Sélectionnez votre réponse, puis cliquez sur « OK ».]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian se connecte au Wi-Fi public et envoie le fichier mis à jour par e-mail depuis la clé USB à l’aide de son compte de messagerie personnel.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian réalise qu’envoyer le fichier mis à jour à Holly pourrait poser problème puisque d’autres personnes ont pu modifier le fichier d’origine en son absence et ses mises à jour ont pu les remplacer. Alors qu’il déjeune à la cafétéria de l’hôpital, il appelle Holly et lui indique les modifications afin qu’elle les entre sur le fichier depuis le système de l’entreprise.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian demain à Holly de venir chercher la clé USB cryptée à l’hôpital.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:280px;line-height: 19px;" fcStyle="top: -205px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[Jian envoie les informations à Holly, mais le téléchargement du fichier génère un conflit avec la base de données actuelle des fournisseurs. L’équipe doit donc passer plusieurs heures à mettre à jour et confirmer les informations.]]></text>
+			<text style="font-size:15px;"><![CDATA[De fausses factures sont envoyées à l’entreprise de Jian, provenant prétendument de fournisseurs légitimes, mais elles contiennent les coordonnées de compte bancaire des personnes qui tentent d’escroquer l’entreprise. Plusieurs mois plus tard, l’escroquerie est découverte et les résultats de l’enquête indiquent une défaillance de sécurité de la base de données des fournisseurs à peu près à la même époque où Jian était à l’hôpital. Jian a des comptes à rendre !]]></text>
+			<text style="font-size:15px;"><![CDATA[L’option la plus rapide aurait été que Jian demande à Holly de récupérer la clé USB cryptée. Même si cela veut dire que l’équipe aurait dû passer des heures à combiner les modifications de Jian avec celles apportées directement à la base de données des fournisseurs, cela aurait garanti la protection des données sensibles.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:220px;" fcStyle="top: -190px;">
+			<text style="padding-top:25px;"><![CDATA[Holly peut mettre à jour le fichier des fournisseurs et ne fait que quelques erreurs qui seront plus tard détectées et corrigées.]]></text>
+			<text><![CDATA[Cependant, d’autres personnes déjeunant à la cafétéria de l’hôpital peuvent entendre chaque mot prononcé par Jian, exposant inutilement les informations des fournisseurs.]]></text>
+			<text><![CDATA[L’option la plus rapide aurait été que Jian demande à Holly de récupérer la clé USB cryptée. Cela aurait garanti la protection des données sensibles.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:265px;" fcStyle="top: -203px;">
+			<text style="padding-top:25px;"><![CDATA[Holly récupère la clé USB, mais pendant que Jian travaillait à distance sur sa copie, ses collègues ont modifié la version originale. Lorsqu’Holly charge la version de Jian, les modifications de ses collègues sont remplacées. L’équipe doit passer plusieurs heures à mettre à jour et confirmer les informations.]]></text>
+			<text><![CDATA[Jian est réprimandé pour avoir téléchargé le fichier de référence, mais au moins les informations sont en sécurité. Holly n’aurait pas dû télécharger le fichier révisé sans avoir préalablement demandé aux autres auteurs s’ils avaient fait des mises à jour pouvant être affectées.]]></text>
+			<text><![CDATA[Il s’agit de la mesure la plus sûre à prendre, car elle garantit la protection des données sensibles.]]></text>
+		</correct>
+	</feedback>
+</contents>

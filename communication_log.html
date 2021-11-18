@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+        <meta name="viewport" content="initial-scale = 1.0, user-scalable = no,maximum-scale=1.0,minimum-scale=1.0" />
+        <title>Communication Log</title>       
+        <link rel="stylesheet" href="framework/css/reset.css" />
+		
+        <script type="text/javascript" src="framework/lib/jquery-1.8.0.min.js"></script>
+		
+		<script type="text/javascript" >			
+			function addText(_str){	
+				_str=_str+"<br/><br/>"
+				$('.logtext').html(_str);
+			}
+			window.onunload  = function(){					
+				window.opener.closeInfoWin();
+			}
+			$(document).ready(function(){
+				$('.logtext').html(window.opener.infoText);
+			});
+		</script>
+		<style rel="stylesheet" type="text/css"  >
+			html, body{height:100%;width:100%; font-family:Arial, Helvetica, sans-serif;font-size: 14px;}
+			body{ overflow: hidden;}			
+			.logtext{height:95%; width:auto; overflow-x:hidden; overflow-y:auto; border:1px solid #c0c0c0; padding:5px}
+			.logtext p {width:100%; word-wrap: break-word;}
+			.failResult{color:red; font-weight:bold;}
+			.passResult{color:green;font-weight:bold;}
+			.valLable{color:black;font-weight:bold; margin-right:2px;}
+			.valdata{color:black;font-weight:normal;}
+			.botBorder{width:100%; height:5px;  border-bottom:1px dashed #333740; margin-bottom:10px;}
+		</style>
+    </head>
+    <body >    	  
+		<div class="logtext"></div>
+    </body>
+</html>

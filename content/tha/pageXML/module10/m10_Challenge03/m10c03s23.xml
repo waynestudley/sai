@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[คนกลุ่มนี้อยู่ที่สปอร์ตบาร์หลายชั่วโมงแล้ว หลังคริสจ่ายเครื่องดื่มสองรอบแรก เขาขอให้คริสจ่ายสำหรับรอบต่อไป คาร์ลอสควรตอบว่าอย่างไร]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[เปิดดูราคาและจ่ายสำหรับรอบอื่น ๆ อีกสองสามรอบ]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[จ่ายค่าอาหารเรียกน้ำย่อยแทนเครื่องดื่ม]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[คาร์ลอสซื้อเครื่องดื่มรอบอื่นอีกสองสามรอบ]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[คาร์ลอสเห็นว่าทั้งกลุ่มกำลังเมาและสั่งอาหารเต็มโต๊ะเพราะเขาเป็นคนจ่าย]]></text>
+			<text><![CDATA[ไม่นานนักเขาก็ขอตัวกลับบ้าน]]></text>
+		</correct>
+	</feedback>
+</contents>

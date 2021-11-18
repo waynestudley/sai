@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[ברק חושב כיצד עליו להגיב לדוא"ל שקיבל מהלקוח. האם אתה יודע מה נכון לעשות במצב זה? בחר אפשרות אחת ולאחר מכן שלח את תשובתך.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[אם תכתוב בחזרה ללקוח ותבקש מידע נוסף, כמו שם החברה שלו ותפקידו, האם הודעת הדוא"ל שלך תיחשב ליצוא והאם אתה יודע מדוע?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[עובד]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;left: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן שלח.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[כן, כל הודעת דוא"ל עשויה להיחשב ליצוא, מאחר שהשרתים יכולים להיות ממוקמים במדינות שונות, כך שההודעה שלך עשויה לחצות גבולות בינלאומיים רבים]]></option>	
+		<option><![CDATA[כן, כל הודעת דוא"ל שמבקשת מידע מאדם שנמצא במדינה אחרת נחשבת ליצוא מאחר שאתה מקבל מידע אישי]]></option>	
+		<option><![CDATA[לא, תשובה ללקוח עם בקשה לפרטים נוספים אינה נחשבת ליצוא]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[נכון.]]></text>
+			<text><![CDATA[כדי להבטיח שתציית לבקרות הסחר, עליך לכתוב ללקוח כדי לקבל מידע נוסף.]]></text>
+			<text><![CDATA[עם זאת, שליחה פשוטה של הודעת דוא"ל זו אינה מהווה יצוא, אלא אם שיתפת או צירפת גם שרטוטים של תכניות, טכנולוגיה או פרטי מוצר מבוקרים אחרים.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[מצטער, זה לא נכון.]]></text>
+			<text><![CDATA[כדי להבטיח שתציית לבקרות הסחר, עליך לכתוב ללקוח כדי לקבל מידע נוסף.]]></text>
+			<text><![CDATA[עם זאת, שליחה פשוטה של הודעת דוא"ל זו אינה מהווה יצוא, אלא אם שיתפת או צירפת גם שרטוטים של תכניות, טכנולוגיה או פרטי מוצר מבוקרים אחרים.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0" ><![CDATA[This scenario came up in real life for a Johnson Controls employee. What would you do in this situation? Select one option and then click on Submit.]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+	</transcript>
+	<contentText >
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[You’re a category manager in a routine meeting with a customer’s buyer. During the meeting, you open a confidential database of customer pricing and sales volume to answer the client’s questions. As the client looks over your shoulder, he insists that you send him the entire file. What do you do?]]></text>
+	</contentText>
+	<contentBackground >		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769" ><![CDATA[Category manager in meeting with a customer’s buyer]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;">
+		<text><![CDATA[Select one option and then click on Submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px">
+		<option ><![CDATA[Share the database with the client. Our clients’ success is our key priority]]></option>	
+		<option ><![CDATA[Explain that the database includes information pertaining to other customers, so you can’t share it. If the client insists, end the meeting and contact your manager or the Law team for guidance]]></option>	
+		<option ><![CDATA[Agree to share the database with the client but only after he signs a non-disclosure agreement]]></option>	
+		<option ><![CDATA[Contact a lawyer and initiate litigation against the client before he can use the proprietary information in his own business]]></option>	
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback >
+		<correct transcriptId="1" style="" fcStyle="top:-234px">
+			<text style="font-size:17px;"><![CDATA[That’s correct.]]></text>
+			<text><![CDATA[Customer data, such as contact and banking details, is always given to Johnson Controls with the expectation that we keep it confidential.]]></text>
+			<text><![CDATA[This type of proprietary customer data can never be shared with other Johnson Controls customers.]]></text>
+			<text><![CDATA[Some consequences of sharing this information could be: <ul> <li>we could be sued by customers whose information was released</li> <li>we could be accused of price fixing</li> <li>we could put our Intellectual Property rights to the database at risk</li> <li>we could jeopardize our ability to offer category management services to our customers</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-234px">
+			<text style="font-size:17px;"><![CDATA[That’s not correct.]]></text>
+			<text><![CDATA[Customer data, such as contact and banking details, is always given to Johnson Controls with the expectation that we keep it confidential.]]></text>
+			<text><![CDATA[This type of proprietary customer data can never be shared with other Johnson Controls customers.]]></text>
+			<text><![CDATA[Some consequences of sharing this information could be: <ul> <li>we could be sued by customers whose information was released</li> <li>we could be accused of price fixing</li> <li>we could put our Intellectual Property rights to the database at risk</li> <li>we could jeopardize our ability to offer category management services to our customers</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

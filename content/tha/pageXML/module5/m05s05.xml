@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0"><![CDATA[คุณจะตอบกลับไปอย่างไร เลือกหนึ่งตัวเลือกแล้วส่ง]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[หากคุณส่งแบบแปลนทางเทคนิคและข้อมูลการผสานระบบให้ตามคำขอนั้นถือเป็นการส่งออกหรือไม่]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s05/contentBackground.jpg" minwidth="769"><![CDATA[แบบแปลนทางเทคนิค]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือกแล้วส่ง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[ไม่ เพราะบุคคลนี้ถือเป็นผู้ซื้อของจอห์นสัน คอนโทรลส์]]></option>	
+		<option><![CDATA[ใช่ การส่งแบบแปลนทางเทคนิคและขั้นตอนการผสานระบบไปยังผู้ซื้อในฝรั่งเศสนั้นถือว่าเป้นการส่งออก]]></option>	
+		<option><![CDATA[ใช่เป็นการส่งออก ถ้าหากบุคคลนั้นอยู่ในประเทศที่ถูกห้ามเท่านั้น เช่น อิหร่าน]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[ถูกต้อง]]></text>
+			<text><![CDATA[การส่งออกข้อมูลทางเทคนิคที่มีการควบคุมนั้นรวมไปถึงภาพวาดผลิตภัณฑ์ หรือคำแนะนำการใช้ ไปยังผู้อื่นในต่างประเทศนั้นเป็นการส่งออกที่ต้องได้รับการอนุญาตก่อนล่วงหน้า]]></text>
+			<text><![CDATA[ด้วยเหตุนี้คุณจึงไม่ควรส่งข้อมูลไปก่อนที่คุณจะรู้ตัวตนและที่อยู่ของผู้ซื้ออย่างชัดเจน เพื่อที่คุณจะได้รู้ว่าต้องรับคำอนุญาตจากที่ใดเพื่อส่งออก]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[ขอโทษ คำตอบนี้ไม่ถูกต้อง]]></text>
+			<text><![CDATA[การส่งออกข้อมูลทางเทคนิคที่มีการควบคุมนั้นรวมไปถึงภาพวาดผลิตภัณฑ์ หรือคำแนะนำการใช้ ไปยังผู้อื่นในต่างประเทศนั้นเป็นการส่งออกที่ต้องได้รับการอนุญาตก่อนล่วงหน้า]]></text>
+			<text><![CDATA[ด้วยเหตุนี้คุณจึงไม่ควรส่งข้อมูลไปก่อนที่คุณจะรู้ตัวตนและที่อยู่ของผู้ซื้ออย่างชัดเจน เพื่อที่คุณจะได้รู้ว่าต้องรับคำอนุญาตจากที่ใดเพื่อส่งออก]]></text>
+		</incorrect>
+	</feedback>
+</contents>

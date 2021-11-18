@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[Seorang pelanggan telah meminta Carlos untuk melakukan kerja tambahan. Pada pendapat anda, bagaimanakah responsnya? Pilih satu pilihan; kemudian, klik OK.]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Apakah yang patut Carlos lakukan?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Bersetuju dengan kerja tersebut, bersumpah untuk merahsiakannya dengan David dan menyiapkan kerja tersebut bersama sebelum balik.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Menyuruh David melakukan kerja tersebut jika dia mahu, tetapi dia tidak akan terlibat.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Terangkan kepada pelanggan bahawa mereka tidak boleh menerimanya dengan sopan, memandangkan itu boleh mengalihkan perniagaan daripada Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos dan David menyiapkan kerja tersebut sebelum balik. Mudah sahaja! Dan mereka sentiasa membawa beberapa pengesan ganti untuk memudahkan kerja Johnson Controls.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[David bersetuju untuk mengambil kerja sampingan tersebut.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos menghubungi pengurusnya, yang telah memberitahu kepada pasukan jualan dan mereka mengeluarkan sebut harga untuk kerja tambahan. Kerja tersebut pergi ke Johnson Controls, dan bukannya dialihkan kepada Carlos dan David secara peribadi.]]></text>
+		</correct>
+	</feedback>
+</contents>

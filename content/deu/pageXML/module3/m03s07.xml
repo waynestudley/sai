@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[Es liegt an uns allen, Bestechung und Korruption in unserem Unternehmen zu vermeiden. Dazu können Sie einiges beitragen. Klicken Sie auf die Überschriften, um mehr zu erfahren.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Wir bei Johnson Controls sind verpflichtet, alle Gesetze zur Bekämpfung von Bestechung und Korruption einzuhalten. In der Praxis bedeutet dies Folgendes:]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[Checkliste]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Wählen Sie die einzelnen Überschriften aus, um mehr zu erfahren.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[Keine Bestechungsgelder anbieten]]></buttonText>
+			<popText style="">
+				<text style="line-height:18px;font-size:15px"><![CDATA[Bietet Sie einer Person, mit der Sie Geschäfte tätigen, niemals etwas von Wert an, um auf diese Weise die Entscheidungen dieser Person zu beeinflussen.]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[Genaue Aufzeichnungen führen ]]></buttonText>			
+			<popText style="">
+				<text style="line-height:18px;font-size:15px"><![CDATA[Versuchen Sie nicht, Ausgaben für Unterhaltungsangebote oder Geschenke zu verheimlichen oder falsch darzulegen – achten Sie darauf, dass Sie alle Transaktionen ehrlich und korrekt dokumentieren. Weitere Informationen finden Sie in unseren <a href="content/deu/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">Richtlinien für Reisen, Unterhaltungsangebote im Rahmen von Beziehungen zu Dritten</a>.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[Geschäftspartner in die Verantwortung nehmen]]></buttonText>
+			<popText style="">
+				<text style="line-height:18px;font-size:15px"><![CDATA[Weisen Sie alle Dritten, mit denen wir zusammenarbeiten, deutlich auf unsere Antikorruptionsstandards hin. Beobachten Sie die Aktivitäten Dritter und melden Sie jeglichen Verdacht auf Korruption. Verkehren Sie nicht mit Geschäftspartnern, die an korrupten Tätigkeiten teilhaben.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[Drittunternehmen genau kennen]]></buttonText>
+			<popText style="">
+				<text style="line-height:18px;font-size:15px"><![CDATA[Wenn Sie für den Umgang mit Dritten verantwortlich sind, vergewissern Sie sich, dass diese gemäß den Bestimmungen des Programms für Dritte von Johnson Controls uneingeschränkt zugelassen sind.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[Los gobiernos y los organismos reguladores tratan el soborno con severidad. Es por eso que es sumamente importante que todos desempeñemos un papel activo para prevenirlo. ¿Puede unir cada acción de la columna izquierda con las consecuencias que figuran a la derecha?]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[¿Qué sucede con las empresas que participan en sobornos y corrupción?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[Una oficina]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[Seleccione un elemento de la primera columna y, luego, arrastre las flechas para conectarlo con la consecuencia correspondiente de la segunda columna. Cuando termine, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[LA ACCIÓN]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[Un empleado otorgándole una pasantía a alguien ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Los banqueros de inversión en la región Asia-Pacífico de JP Morgan dirigieron un programa que otorgó empleos y pasantías a los familiares y amigos de clientes potenciales, incluidos funcionarios del gobierno. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[Un funcionario del gobierno sosteniendo un soborno ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Las subsidiarias de una gran empresa internacional que fabricaba alambres de cobre, aluminio y fibra óptica pagaron millones de dólares a agentes y distribuidores independientes. Parte del dinero se usó para sobornar a funcionarios del gobierno a fin de conseguir negocios, que dejaron una ganancia neta de USD 51 millones a la empresa.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[LAS CONSECUENCIAS]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[Se le ordenó a la empresa pagar USD 76 millones, y dos ejecutivos, que tenían conocimiento de los sobornos, tuvieron que devolver millones. ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[Juez con un martillo]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ El gobierno de los EE. UU. descubrió que la empresa “participaba en un plan sistemático de soborno” que derivó en importantes recompensas comerciales. Se le ordenó a la empresa pagar USD 264 millones.]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[Edificio del Capitolio de los Estados Unidos visto a través de los escalones del palacio de justicia]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[Las consecuencias del soborno pueden ser graves, tanto para una persona como para una empresa, y pueden abarcar desde multas hasta penas de prisión.  Johnson Controls cuenta con usted, a cada paso del camino, para evitar el soborno en todo momento e informar de inmediato cualquier actividad sospechosa en esta área.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[Las consecuencias del soborno pueden ser graves, tanto para una persona como para una empresa, y pueden abarcar desde multas hasta penas de prisión.  Johnson Controls cuenta con usted, a cada paso del camino, para evitar el soborno en todo momento e informar de inmediato cualquier actividad sospechosa en esta área.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

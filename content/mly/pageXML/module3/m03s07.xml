@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[Terpulang kepada kita semua untuk memastikan rasuah dan sogokan tidak berlaku di sini. Klik pada setiap tajuk untuk mengesahkan perkara yang anda boleh lakukan.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Di Johnson Controls, kami komited untuk mematuhi semua undang-undang rasuah dan antisogokan. Ini maksudnya dalam amalan:]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[Senarai semak]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Pilih setiap tajuk untuk mengetahui lebih lanjut.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[Jangan tawarkan rasuah]]></buttonText>
+			<popText style="">
+				<text style="line-height:20px"><![CDATA[Jangan tawarkan apa-apa yang bernilai kepada kenalan perniagaan dengan niat untuk mempengaruhi pertimbangan mereka.]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[Simpan rekod yang tepat ]]></buttonText>			
+			<popText style="">
+				<text style="line-height:20px"><![CDATA[Jangan cuba untuk menyembunyikan atau menyalahnyatakan perbelanjaan pada hiburan atau hadiah – rekodkan semua transaksi dengan jujur dan tepat. Lihat <a href="content/mly/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">Dasar Perjalanan, Hadiah dan Hiburan Pihak Ketiga</a> kami untuk maklumat lanjut.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[Anggap rakan perniagaan bertanggungjawab]]></buttonText>
+			<popText style="">
+				<text style="line-height:20px"><![CDATA[Lakukan standard antirasuah dengan jelas dengan pihak ketiga yang bekerja dengan kita. Pantau aktiviti mereka dan laporkan sebarang sogokan yang disyaki. Jangan bekerja dengan rakan perniagaan yang terlibat dalam amalan sogokan.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[Kenali pihak ketiga anda]]></buttonText>
+			<popText style="">
+				<text style="line-height:20px"><![CDATA[Jika anda bertanggungjawab untuk menguruskan pihak ketiga, pastikan mereka diluluskan sepenuhnya mengikut keperluan Program Pihak Ketiga Johnson Controls.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

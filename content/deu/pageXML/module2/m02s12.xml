@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m02s12">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[Zeigen Sie, dass Sie wissen, was in Bezug auf Unterhaltungsangebote zulässig ist und was nicht. Wählen Sie für jede Option „Zulässig“ oder „Unzulässig“ aus und klicken Sie dann auf „Übermitteln“.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[Kellner bringt die Rechnung]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;right: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Entscheiden Sie, ob diese Handlungen zulässig oder unzulässig sind.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Wählen Sie für jede Option „Zulässig“ oder „Unzulässig“ aus und klicken Sie dann auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img01.png"><![CDATA[4 Eintrittskarten für eine Sportveranstaltung]]></img>
+			<text style="width: 356px;"><![CDATA[Ein Anbieter lädt Sie ein, mit ihm eine Sportgroßveranstaltung zu besuchen und bietet Ihnen vier Eintrittskarten an. Da die Karten jeweils ungefähr 100 USD wert sind, melden Sie das Angebot, bevor Sie es annehmen.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img02.png"><![CDATA[Mitarbeiter überprüft Angebot]]></img>
+			<text style="width: 356px;"><![CDATA[Sie finden heraus, dass für diesen Anbieter ein offenes Angebot vorliegt, aber da Sie nicht direkt beteiligt sind, beschließen Sie, die Eintrittskarten anzunehmen.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img04.png"><![CDATA[Mitarbeiter und Kunde im Gespräch]]></img>	
+			<text style="width: 356px;"><![CDATA[Ein anderer Anbieter, der nicht aktiv an einer Ausschreibung beteiligt ist, bietet Ihnen alternativ Eintrittskarten für eine kleinere Veranstaltung im Wert von je 20 USD an. Sie schlagen dieses Angebot zugunsten der Großveranstaltung aus.]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[Zulässig]]></text>
+		<text styleWidth="width:110px;"><![CDATA[Unzulässig]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Das ist richtig.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[<ul> <li>Da der Wert der Eintrittskarten für die Großveranstaltung 200 USD übersteigt, sind diese meldepflichtig.</li> <li>Sie dürfen keine Geschenke oder Unterhaltungsangebote an Kunden oder Anbieter übergeben oder von diesen annehmen, wenn gerade Verträge oder Angebote verhandelt werden.</li><li>Der Wert dieser Eintrittskarten ist angemessener, doch selbst dieses Unterhaltungsangebot wäre unangemessen, wenn damit versucht würde, Sie unzulässig zu beeinflussen.</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Das stimmt leider nicht.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[<ul> <li>Da der Wert der Eintrittskarten für die Großveranstaltung 200 USD übersteigt, sind diese meldepflichtig.</li> <li>Sie dürfen keine Geschenke oder Unterhaltungsangebote an Kunden oder Anbieter übergeben oder von diesen annehmen, wenn gerade Verträge oder Angebote verhandelt werden.</li><li>Der Wert dieser Eintrittskarten ist angemessener, doch selbst dieses Unterhaltungsangebot wäre unangemessen, wenn damit versucht würde, Sie unzulässig zu beeinflussen.</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

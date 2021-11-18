@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m08s10" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module8/m08s10"><![CDATA[Итак, давайте применим это к реальной жизни. Как бы вы повели себя в следующих ситуациях? Соедините каждую ситуацию из числа представленных слева с верным решением из числа представленных справа и щелкните «Отправить».]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Давайте проверим, знаете ли вы, как поступить в каждой из представленных ситуаций. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module8/m08s10/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top: -15px;"><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<instructionText style="line-height:20px; height:40px;">
+		<text><![CDATA[Выберите ситуацию в первом столбце и перетащите стрелки, чтобы сопоставить эту ситуацию с ее решением во втором столбце. Когда все будет готово, щелкните «Отправить».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="990" lineHolderH="250">
+		<leftSideTabs>
+			<heder><![CDATA[СИТУАЦИЯ]]></heder>
+			
+			<tab id="1" style="height:100px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 100px;">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img01.png"><![CDATA[Человек, работающий над компонентами]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Вы работаете с потенциальными поставщиками, которые участвуют в тендере на поставку компонентов для нового продукта. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:100px" dragPosition="left:430px; top:119px;z-index:5;height:100px">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img02.png"><![CDATA[Человек выбирает значок, чтобы открыть электронное сообщение]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Вы работаете над документом, который нужно срочно закончить, поэтому вы решаете отправить его себе на личный электронный адрес.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[РЕШЕНИЕ]]></heder>
+			<tab id="2" style="height:100px" dropPosition="left: 528px;top: 8px;height: 100px;">
+				<text style=""><![CDATA[Найти другой способ доступа к документу, поскольку электронные сообщения могут быть утеряны, взломаны или ошибочно пересланы.]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img04.png"><![CDATA[Значок папки]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:100px" dropPosition="left: 528px;top: 119px;height: 100px;">
+				<text><![CDATA[Потребовать, чтобы они подписали соглашения о неразглашении, прежде чем передавать какую-либо информацию о новом продукте, и пометить эту информацию как конфиденциальную. ]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img03.png"><![CDATA[Человек подписывает соглашение о неразглашении]]></rightIcon>
+			</tab>	
+		</rightSideTabs>		
+		<feedback type="normal">
+			<correct id="1" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[Вы правильно сопоставили все ситуации и решения. ]]></text>
+			</correct>			
+			<incorrect id="2" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[Неверно.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

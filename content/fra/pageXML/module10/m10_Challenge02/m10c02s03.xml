@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Emma a un second emploi en tant que courtière pour la nouvelle agence de son beau-frère, mais son travail chez Johnson Controls en pâtit.]]></text>
+		<text><![CDATA[Selon vous, comment Emma devrait-elle agir ?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Sélectionnez votre réponse, puis cliquez sur « OK ».]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma garde ses deux emplois. Lorsqu’elle a trop de travail en tant que courtière, elle demande à ses collègues de la couvrir et prend des congés maladie chez Johnson Controls.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma garde ses deux emplois et fait de son mieux pour jongler avec ses responsabilités. Lorsque les choses sont calmes chez Johnson Controls, elle prend les appels liés à sa fonction de courtière et envoie des e-mails depuis son téléphone personnel.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma parle de sa situation à son responsable et ils envisagent ensemble des solutions afin que son emploi dans l’agence de son beau-frère reste séparé de son poste chez Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="top: -28px;">
+			<text style="padding-top:12px;"><![CDATA[La décision d’Emma de travailler pour l’agence immobilière de son beau-frère pourrait créer un conflit d’intérêts potentiel, car son activité complémentaire commence à nécessiter plus de temps et d’attention.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height:94px;" fcStyle="top: -27px;">
+			<text style="padding-top:25px;"><![CDATA[Emma pense toujours pouvoir jongler entre les deux afin que son nouvel emploi n’affecte pas ses responsabilités chez Johnson Controls. Mais est-elle réaliste ? Elle décide de parler à son responsable, au cas où.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:260px;" fcStyle="top: -228px;">
+			<text style="padding-top:25px;"><![CDATA[Emma parle de son activité secondaire à son responsable.]]></text>
+			<text><![CDATA[Son responsable lui explique ce qu’il attend d’elle au travail et que des activités secondaires ne sont pas interdites.<ul> <li>Cependant, elles ne peuvent interférer avec son travail chez Johnson Controls. </li> <li>Elle ne doit utiliser aucune ressource de l’entreprise pour son activité secondaire, notamment ses heures de travail chez Johnson Controls.</li> </ul>]]></text>
+			<text><![CDATA[Ils se mettent d’accord pour qu’elle ne mène pas son activité pendant ses heures de travail chez Johnson Controls et que si son travail en pâtit, ils devront en reparler.]]></text>
+		</correct>
+	</feedback>
+</contents>

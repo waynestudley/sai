@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s22">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="font-size:15px;line-height:20px;"><![CDATA[ジアンは、サプライヤーのエドゥアルドからと思われる（しかし確信はない）1本のワインを贈られました。 彼は、ワインの価値も知りません。]]></text>
+		<text style="font-size:15px;line-height:20px;"><![CDATA[彼はどうすべきですか？]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s22/contentBackground.jpg" minwidth="769"><![CDATA[レストランバーの背景]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[ワインを受け取ります。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[決断する前に、ワインの価格を聞きます。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[ワインを丁重に断ります。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[ジアンと彼の妻はディナーでワインを楽しみました。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[ジアンはソムリエにワインの価格を聞き、ワインがボトルではUSD$200で販売されていることを知りました。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[これは安全な選択です。]]></text>
+		</correct>
+	</feedback>
+</contents>

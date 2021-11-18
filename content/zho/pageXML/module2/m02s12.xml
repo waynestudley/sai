@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[针对招待，检查您对可接受及不可接受行为的了解程度。 请针对这些选项选择“可接受”或“不可接受”，然后单击“提交”。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[拿账单的服务员]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;right: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[确定这些行为属于“可接受”还是“不可接受”。]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[请针对各项选择“可接受”或“不可接受”，然后单击“提交”。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img01.png"><![CDATA[4 张体育比赛门票]]></img>
+			<text style="width: 356px;"><![CDATA[某位供应商向您提供 4 张门票，邀请您和他一起观看某场大型体育比赛。 每张门票价值 100 美元左右，接受前，您报告了他向您提供门票这项事实。]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img02.png"><![CDATA[员工正在查看竞标]]></img>
+			<text style="width: 356px;"><![CDATA[您发现公司正与该供应商开展公开竞标但您并未直接参与其中，所以您决定接受门票。]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img04.png"><![CDATA[员工与供应商正在谈话]]></img>	
+			<text style="width: 356px;"><![CDATA[另一位未参与竞标的供应商向您提供一场小型比赛的门票 - 每张价值 20 美元。 您拒绝了小型比赛的门票，转而接受大型比赛的门票。]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[可接受]]></text>
+		<text styleWidth="width:110px;"><![CDATA[不可接受]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 258px;height: 315px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[正确。]]></text>			
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>大型比赛门票的价值超出 200 美元，故必须予以报告。</li> <li>合同或竞标谈判期间，您不得向客户或供应商赠予礼品或招待，或接受其礼品或招待。</li><li>这些门票的价值更为恰当，但如果其意在对您造成不当影响，这类招待也属于不当行为。</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 258px;height: 315px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[错误。]]></text>	
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>大型比赛门票的价值超出 200 美元，故必须予以报告。</li> <li>合同或竞标谈判期间，您不得向客户或供应商赠予礼品或招待，或接受其礼品或招待。</li><li>这些门票的价值更为恰当，但如果其意在对您造成不当影响，这类招待也属于不当行为。</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

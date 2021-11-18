@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s03">
+	<transcript>
+		<text path="audio/module4/m04s03" id="0"><![CDATA[所以到底什麼是個人資料？ 讓我們一起來看看。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[什麼是個人資料？]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s03/contentBackground.jpg" minwidth="769"><![CDATA[電腦前若有所思的員工]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[選取每個標題。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:160px;">
+		<revealCallOut width="300px" height="174px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn1.png" minwidth="769"><![CDATA[個人資料]]></img>
+			<buttonText style="height: 40px;"><![CDATA[個人資料]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: -30px;width: 958px;">
+				<text><![CDATA[個人資料是指任何可用於識別個人身分的資訊，像是個人姓名或地址。]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="350px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn2.png" minwidth="769"><![CDATA[敏感個人資料]]></img>
+			<buttonText style="height: 40px;"><![CDATA[敏感個人資料]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 100px;top: -30px;width: 958px;">
+				<text><![CDATA[敏感個人資料是指一旦遺失或未經授權而外洩或披露後可能會嚴重傷害當事人、令其感到難堪、不便或因此遭受不公平待遇的資訊，像是個人健康狀況或其宗教信仰。]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s03/btn3.png" minwidth="769"><![CDATA[資料保護]]></img>
+			<buttonText style="height: 40px;"><![CDATA[資料保護]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -30px;width: 958px;">
+				<text><![CDATA[本公司必須保護員工、客戶和商業合作夥伴的所有個人資訊。 這是身為 Johnson Controls 員工最重要的職責之一。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[ถึงตาคุณแล้วที่จะพิสูจน์ว่าคุณรู้วิธีการนำกฎการปฏิบัติตามกฎทางการค้าไปปรับใช้ จับคู่แต่ละสถานการณ์ทางด้านซ้ายกับคำตอบทางด้านขวาและกด ส่ง]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[พิสูจน์ให้เห็นว่าคุณรู้ว่าต้องทำอะไรในแต่ละสถานการณ์ ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<instructionText style="line-height:20px;height:25px;">
+		<text><![CDATA[เลือกข้อมูลจากแถวแรก จากนั้นลากลูกศรไปเพื่อจับคู่กับวิธีแก้ปัญหาในแถวสอง เมื่อเสร็จแล้วให้คลิก “ส่ง”]]></text>
+		<text><![CDATA[คลิกที่เครื่องหมายคำถามเพื่อเรียนรู้เพิ่มเติม]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[สถานการณ์]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img01.png"><![CDATA[ปักกิ่ง]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[คุณกำลังมุ่งหน้าไปทำธุรกิจที่ปักกิ่ง หุ้นส่วนขอให้คุณนำผลิตภัณฑ์ตัวอย่างไปให้ผู้ติดต่อที่นั่น]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:553px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img02.png"><![CDATA[ภาพประเทศซีเรียระยะใกล้]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[คุณคือพลเมืองของสหราชอาณาจักรที่กำลังไปพบลูกค้าในสหภาพยุโรป คุณพบผู้จัดจำหน่ายชาวซีเรียและเขาขอผลิตภัณฑ์ตัวอย่าง]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:553px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img03.png"><![CDATA[ตัวแทนลูกค้าที่ซาอุดิอาระเบีย]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[ตัวแทนลูกค้าชาวซาอุดิอาระเบียโทรศัพท์มาถามเกี่ยวกับข้อตกลงการทดสอบและเทคโนโลยีการออกแบบที่ใช้กับหนึ่งในผลิตภัณฑ์ของเรา]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:553px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img04.png"><![CDATA[ทีมธุรกิจ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[ทีมของคุณร่วมงานกับลูกค้าทั่วโลกโดยใช้ OneDrive ผู้จัดการโครงการให้คุณอัปโหลดข้อมูลทางเทคนิคเพราะเขาไม่ได้รับอนุญาตให้ส่งเอกสารไปประเทศของลูกค้า]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[วิธีแก้ปัญหา]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 643px;top: 8px;height: 60px;">
+				<text style=""><![CDATA[ตรวจสอบดูว่าการดำเนินการนี้ได้รับอนุญาตและต้องมีใบอนุญาตก่อนดำเนินการใด ๆ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img05.png"><![CDATA[พนักงานกำลังคุยโทรศัพท์ ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 79px;height: 60px;">
+				<text><![CDATA[ปฏิเสธอย่างสุภาพ ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img06.png"><![CDATA[ภาพผู้ชายเคร่งเครียดระยะใกล้]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 643px;top: 150px;height: 60px;">
+				<text><![CDATA[ขอให้เลื่อนการสนทนาออกไป]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img07.png"><![CDATA[พนักงานกำลังคุยโทรศัพท์]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 221px;height: 60px;">
+				<text><![CDATA[ปฏิเสธที่จะทำ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img08.png"><![CDATA[พนักงานกำลังคุยโทรศัพท์]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[ใช่แล้ว คุณจับคู่ถูกทุกข้อเลย]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[ไม่ถูกต้อง คลิกที่วิธีแก้ไขปัญหาด้านล่างเพื่อเรียนรู้เพิ่มเติม]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top:192px;">
+				<text style=""><![CDATA[ในกรณีนี้ หากได้รับอนุญาต ควรจัดส่งตัวอย่างผลิตภัณฑ์ไปล่วงหน้า ถ้าได้รับอนุญาตจากผู้ที่ทำการค้าด้วยว่าสามารถขนส่งผลิตภัณฑ์ด้วยตัวเอง คุณควรแจ้งศุลกากรอย่างเหมาะสมว่าคุณนำสิ่งใดเข้าและออกจากประเทศ]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top:192px;">
+				<text style=""><![CDATA[คุณไม่สามารถแชร์ตัวอย่างผลิตภัณฑ์กับคนจากประเทศที่ถูกคว่ำบาตรได้ เช่น ซีเรีย ในกรณีนี้คุณควรปฏิเสธอย่างสุภาพ]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:192px;">
+				<text style=""><![CDATA[คุณต้องมีข้อมูลมากกว่านี้ก่อนที่จะแชร์ข้อมูลดังกล่าว ตรวจสอบอีกรอบกับผู้เชี่ยวชาญด้านการปฏิบัติตามกฎทางการค้าว่าควรแชร์ข้อมูลกับบุคคลนี้หรือไม่]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:192px;">
+				<text style=""><![CDATA[คุณควรปฏิเสธคำร้องขอ ถ้าคุณไม่ได้รับอนุญาตให้ส่งออกเอกสารเป็นกระดาษ การส่งออกเอกสารดังกล่าวทางอิเล็กทรอนิกส์ก็ใช้ข้อบังคับแบบเดียวกัน]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

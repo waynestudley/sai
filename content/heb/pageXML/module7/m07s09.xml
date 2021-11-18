@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[תרחיש זה צץ בחיים האמיתיים עבור עובד של Johnson Controls. מה היית עושה במצב כזה? בחר אפשרות ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[אתה נמצא כמנהל קטגוריה בפגישה שגרתית עם קונה של לקוח. במהלך הפגישה, אתה פותח מסד נתונים סודי של מחירים ונפח מכירות של לקוחות כדי להשיב על שאלות הלקוח. כאשר הלקוח מציץ מעבר לכתף שלך, הוא מתעקש שתשלח לו את הקובץ כולו. מה תעשה?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[מנהל קטגוריה בפגישה עם קונה של לקוח]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;left: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;">
+		<text><![CDATA[בחר אפשרות ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[תשתף את מסד הנתונים עם הלקוח. הצלחת הלקוחות שלנו עומדת בראש סדר העדיפויות שלנו]]></option>	
+		<option><![CDATA[הסבר כי מסד הנתונים כולל מידע שקשור ללקוחות אחרים, לכן אינך יכול לשתף אותו. אם הלקוח מתעכב, סיים את הפגישה וצור קשר עם המנהל או עם המחלקה המשפטית לקבלת הנחיות]]></option>	
+		<option><![CDATA[הסכם לשתף את מסד הנתונים עם הלקוח, רק לאחר שיחתום על הסכם סודיות]]></option>	
+		<option><![CDATA[פנה לעורך דין והתחל בהליך של תביעה משפטית נגד הלקוח לפני שהוא יתחיל להשתמש במידע הקנייני בעסק שלו]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-220px">
+			<text style="font-size:17px;"><![CDATA[נכון.]]></text>
+			<text><![CDATA[נתוני הלקוחות, כמו פרטי יצירת הקשר והפרטים הבנקאיים, תמיד ניתנים ל- Johnson Controls מתוך ציפייה שנשמור על הסודיות שלהם.]]></text>
+			<text><![CDATA[לעולם אסור לשתף סוג זה של נתונים קנייניים של הלקוח עם לקוחות אחרים של Johnson Controls.]]></text>
+			<text><![CDATA[חלק מההשלכות של שיתוף פרטים אלה עשויות להיות: <ul> <li>לקוחות שהנתונים שלהם הופצו עלולים לתבוע אותנו</li> <li>אנו עלולים להיות מואשמים בתיאום מחירים</li> <li>אנו עלולים לסכן את זכויות הקניין הרוחני שחלות על מסד הנתונים שלנו</li> <li>אנו עלולים לסכן את יכולתנו להציע שירותי ניהול קטגוריות ללקוחות שלנו</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-220px">
+			<text style="font-size:17px;"><![CDATA[לא נכון.]]></text>
+			<text><![CDATA[נתוני הלקוחות, כמו פרטי יצירת הקשר והפרטים הבנקאיים, תמיד ניתנים ל- Johnson Controls מתוך ציפייה שנשמור על הסודיות שלהם.]]></text>
+			<text><![CDATA[לעולם אסור לשתף סוג זה של נתונים קנייניים של הלקוח עם לקוחות אחרים של Johnson Controls.]]></text>
+			<text><![CDATA[חלק מההשלכות של שיתוף פרטים אלה עשויות להיות: <ul> <li>לקוחות שהנתונים שלהם הופצו עלולים לתבוע אותנו</li> <li>אנו עלולים להיות מואשמים בתיאום מחירים</li> <li>אנו עלולים לסכן את זכויות הקניין הרוחני שחלות על מסד הנתונים שלנו</li> <li>אנו עלולים לסכן את יכולתנו להציע שירותי ניהול קטגוריות ללקוחות שלנו</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

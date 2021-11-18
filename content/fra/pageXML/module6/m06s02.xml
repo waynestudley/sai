@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[Savez-vous ce que les lois sur la concurrence encouragent ? Sélectionnez toutes les options qui vous semblent correctes, puis cliquez sur Soumettre.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Quel est l’objectif des lois sur la concurrence ?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[Balance de la justice]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Sélectionnez toutes les réponses appropriées.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Plusieurs bonnes réponses sont possibles.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px;">
+		<option style="width:380px;"><![CDATA[Offrir davantage de choix au consommateur]]></option>	
+		<option style="width:380px;"><![CDATA[Instaurer des barrières commerciales]]></option>	
+		<option style="width:380px;"><![CDATA[Décourager la croissance dans certains secteurs]]></option>	
+		<option style="width:380px;"><![CDATA[Encourager des transactions commerciales équitables]]></option>	
+		<option style="width:380px;"><![CDATA[Récompenser l’innovation et l’amélioration continue]]></option>	
+		<option style="width:380px;"><![CDATA[Punir les entreprises qui ont trop de succès]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-245px">
+			<text><![CDATA[C’est exact.]]></text>
+			<text><![CDATA[Les lois sur la concurrence visent à garantir le succès des entreprises pour les bonnes raisons : car elles offrent les meilleurs produits, services et tarifs. Elles ne sont pas destinées à punir la réussite, ni à décourager la croissance ou à instaurer des barrières commerciales.]]></text>
+			<text><![CDATA[Les lois sur la concurrence affectent nos relations avec le monde extérieur, y compris nos concurrents, nos fournisseurs, nos distributeurs et nos clients.]]></text>
+			<text><![CDATA[Il est primordial que vous sachiez de quelle façon les lois sur la concurrence s'appliquent à vous et que vous les respectiez dans votre travail et vos activités. Dans cette formation, nous parlerons des principes et des pratiques liés aux lois sur la concurrence.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-245px">
+			<text><![CDATA[C’est faux.]]></text>
+			<text><![CDATA[Les lois sur la concurrence visent à garantir le succès des entreprises pour les bonnes raisons : car elles offrent les meilleurs produits, services et tarifs. Elles ne sont pas destinées à punir la réussite, ni à décourager la croissance ou à instaurer des barrières commerciales.]]></text>
+			<text><![CDATA[Les lois sur la concurrence affectent nos relations avec le monde extérieur, y compris nos concurrents, nos fournisseurs, nos distributeurs et nos clients.]]></text>
+			<text><![CDATA[Il est primordial que vous sachiez de quelle façon les lois sur la concurrence s'appliquent à vous et que vous les respectiez dans votre travail et vos activités. Dans cette formation, nous parlerons des principes et des pratiques liés aux lois sur la concurrence.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

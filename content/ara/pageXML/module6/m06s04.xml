@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[إلى أي مدى يمكنك التعرّف على المنافسة غير العادلة؟]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 16px;font-size:14px;"><![CDATA[إلى أي مدى يمكنك التعرّف على المنافسة غير العادلة؟ قم بتوصيل بعض نماذج المنافسة غير العادلة بنوع الاتفاق الذي يحدث.]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;right:785px;top:0px;"><![CDATA[إرسال]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/rtl/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;left: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 16px;">
+		<text><![CDATA[حدد عنصرًا من العمود الأول، ثم اسحب الأسهم إلى النوع المطابق من المنافسة غير العادلة في العمود الثاني. عندما تنتهي من مهمتك، انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر على علامات الاستفهام لمعرفة المزيد.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="height: 320px;position: absolute;width: 120px;right: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[السيناريو]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 299px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/rtl/module6/m06s04/img01.png"><![CDATA[منافسان يتناولان الغداء]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[منافسان يتناولان الغداء]]></dragIcon>
+				<text style=""><![CDATA[منافسان يجتمعان على الغداء. أحدهما يوافق على تركيز جهود المبيعات في شمال البلاد بينما سيركز الآخر على جنوبها.]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:299px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/rtl/module6/m06s04/img02.png"><![CDATA[ثلاثة متنافسين يتحدثون]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[ثلاثة متنافسين يتحدثون]]></dragIcon>
+				<text style=""><![CDATA[الجهات المتنافسة الثلاث التي تخدم السوق الصغير نفسه تجتمع معًا للتخطيط للعام المقبل. وتقوم بمراجعة العطاءات وتتفق على تناوب دور مقدم العطاء الأقل بينما يحافظ الآخران على رفع الأسعار إلى حد أكبر من أن يتم أخذه في الاعتبار.]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:299px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/rtl/module6/m06s04/img03.png"><![CDATA[كبار المديرين التنفيذيين لقسم المبيعات في مؤتمر تجاري]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[كبار المديرين التنفيذيين لقسم المبيعات في مؤتمر تجاري]]></dragIcon>
+				<text style=""><![CDATA[في مؤتمر تجاري، يناقش العديد من المسؤولين التنفيذين ذوي المناصب المرموقة في قسم المبيعات كيفية قيام المورّد الأكبر في السوق الذي يزاولون فيه أنشطتهم التجارية برفع الأسعار بطريقة غير عادلة. ويتفقون على تقليل طلبياتهم على نحو جوهري – أو سيلغونها تمامًا إذا أمكن – وسيبحثون عن مورّد آخر إلى أن تنخفض الأسعار مرةً أخرى.]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:299px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/rtl/module6/m06s04/img04.png"><![CDATA[مجموعة من علامات النسب المئوية]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[مجموعة من علامات النسب المئوية]]></dragIcon>
+				<text style=""><![CDATA[أبرمت مجموعة من الجهات المتنافسة في قطاع صناعي ترتفع فيه أسعار المواد الخام اتفاقًا غير رسمي يقضي بعدم السماح بتخفيضات العملاء التي تزيد عن 10%.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;right: 640px;">		
+			<heder><![CDATA[نوع من المنافسة غير العادلة]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 209px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[توزيع السوق]]></text>
+				<rightIcon style="height:70px" path="content/images/rtl/module6/m06s04/img05.png"><![CDATA[مخطط دائري]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 209px;top: 89px;height: 70px;">
+				<text><![CDATA[التلاعب في العطاءات]]></text>
+				<rightIcon style="height:70px" path="content/images/rtl/module6/m06s04/img06.png"><![CDATA[رجلا أعمال يتعاونان في عطاء]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 209px;top: 170px;height: 70px;">
+				<text><![CDATA[المقاطعة الجماعية]]></text>
+				<rightIcon style="height:70px" path="content/images/rtl/module6/m06s04/img07.png"><![CDATA[مجموعة تقرر مقاطعة عميل لعقابه]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 209px;top: 251px;height: 70px;">
+				<text><![CDATA[تثبيت الأسعار]]></text>
+				<rightIcon style="height:70px" path="content/images/rtl/module6/m06s04/img08.png"><![CDATA[جهتان متنافستان تثبتان سعرًا]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="right: 712px;top: 128px;width: 236px;">
+				<text style=""><![CDATA[يحدث تقسيم العملاء أو المناطق – المعروف باسم توزيع السوق – عند اتفاق الجهات المتنافسة على تقسيم العملاء أو المنتجات أو المناطق الجغرافية. سيؤدي هذا إلى تخفيف حدة المنافسة بين المناطق المحددة وسيقلل من الخيارات المتاحة للعميل.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="right: 712px;top: 128px;width: 236px;">
+				<text style=""><![CDATA[يحدث التلاعب بالعطاءات عند قيام جهات متنافسة بتنسيق عطاءاتهم للتأثير على نتيجة عملية تقديم العطاء.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="right: 712px;top: 128px;width: 236px;">
+				<text style=""><![CDATA[يحق للشركة التي تعمل منفردةً بصفة عامة اختيار الجهة التي ترغب في مزاولة النشاط التجاري معها. لكن عندما تتفق شركتان أو أكثر على عدم مزاولة النشاط التجاري مع شركة أخرى، فإن قيامهما بمقاطعتها يمثل انتهاكًا لقوانين حماية المنافسة.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="right: 712px;top: 128px;width: 236px;">
+				<text style=""><![CDATA[يشمل تثبيت الأسعار اتفاقًا تبرمه الجهات المتنافسة لتنسيق أسعارها أو الشروط التنافسية الأخرى بدلاً من منافسة بعضها بعضًا على نحو حر ومستقل.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

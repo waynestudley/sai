@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:20px;"><![CDATA[เอ็มม่าได้พยายามไม่ให้งานของเธอมารบกวนงานของเธอที่จอห์นสัน คอนโทรลส์ แต่ข่าวของเธอก็กระจายไปทั่วสำนักงาน และเวลานี้เอ็มม่ามีเพื่อนร่วมงานสามคนที่สนใจในอสังหาริมทรัพย์ใหม่ล่าสุดของเธอ!  ในขณะที่โทรศัพท์กับลูกค้า เอ็มม่าได้รับข้อความด่วนจากแซนดี้จากฝ่ายบัญชี]]></text>
+		<text style="font-size:15px;line-height:20px;"><![CDATA[<i>“สวัสดีจ้าเอ็มม่า ฉันอยากดูที่แถวถนนนิวเบอรี่ ลิงก์ที่เธอส่งมาน่าสนใจมาก เป็นแบบที่พวกเรามองหาอยู่พอดี คิดว่าวันนี้เธอเลิกงานเร็วหน่อยเพื่อจะได้เลี่ยงรถติด แล้วพาฉันไปดูทีหน่อยได้ไหม</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:8px;line-height:20px;">
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;line-height:20px;">
+		<option answer="0" feedbackId="1"><![CDATA[เอ็มม่าตกลงที่จะเลิกงานเร็วขึ้นเพื่อพาแซนดี้ไปดูอสังหาริมทรัพย์]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[เอ็มม่าบอกแซนดี้ว่าเธอต้องโทรศัพท์หาลูกค้าอีกหลายราย และมีงานเอกสารต้องทำให้เสร็จ และไม่สามารถเลิกเร็วได้ แต่เธอบอกว่าเธอมีรูปภาพและวิดีโอเพิ่มเติมในแล็ปท็อปของเธอ และแซนดี้สามารถแวะมาที่โต๊ะของเธอได้ตลอดเวลาวันนี้เพื่อดูและพูดคุยเพิ่มเติม]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[เอ็มม่าบอกแซนดี้ว่าเธอไม่สามารถแสดงอสังหาริมทรัพย์ได้ในเย็นนี้ แต่เธอจะส่งรูปภาพเพิ่มเติมให้หลังจากที่โทรศัพท์หาลูกค้าเสร็จ เธอขอให้แซนดี้โทรหาเธอที่บ้านเย็นนี้เพื่อพูดคุยเกี่ยวกับรายละเอียดเพิ่มเติม]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;line-height:20px;font-size:16px;"><![CDATA[นี่เป็นตัวเลือกที่มีความเสี่ยงมากที่สุด ลองดูสิ่งที่เกิดขึ้นกับเมื่อเอ็มม่าเลือกการตัดสินใจนี้]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;line-height:20px;"><![CDATA[แม้ว่าเอ็มม่าไม่ได้เลิกงานเร็ว เธอยังคงใช้ทรัพย์สินของจอห์นสัน คอนโทรลส์ และเวลาของบริษัทในการทำธุรกิจภายนอก ซึ่งเธอไม่ควรทำและเธอยังได้รบกวนสมาธิของเพื่อนร่วมงานคนอื่น ๆ ที่สนใจดูอสังหาริมทรัพย์]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top:-7px">
+			<text style="padding-top:25px;line-height:20px;"><![CDATA[เอ็มม่าใช้ขั้นตอนในการแยกงานสองอย่างของเธอออกจากกัน อย่างไรก็ตาม เธอไม่ควรใช้แล็ปท็อปที่ทำงาน ข้อความด่วน หรืออีเมลที่ทำงานสำหรับทำธุรกิจภายนอก และเธอยังได้รบกวนสมาธิของเพื่อนร่วมงานคนอื่น ๆ ที่สนใจดูอสังหาริมทรัพย์]]></text>
+		</correct>
+	</feedback>
+</contents>

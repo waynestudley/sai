@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[접대와 관련하여 허용되는 것과 그렇지 않은 것에 대한 여러분의 이해 수준을 확인하십시오. 다음의 보기에서 '허용 가능'이나 '허용 불가능'을 선택하고 '제출'을 클릭하십시오.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[계산서를 가져오는 웨이터]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;right: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[다음의 행동들이 허용 가능한지 불가능한지 결정하십시오.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[각 보기에서 '허용 가능'이나 '허용 불가능'을 선택하고 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img01.png"><![CDATA[4장의 스포츠 행사 관람권]]></img>
+			<text style="width: 356px;"><![CDATA[한 납품업자가 대형 스포츠 행사의 관람권 4장을 여러분에게 제공합니다. 그 관람권은 장당 약 미화 100달러의 가치가 있어서, 여러분은 그것을 받기 전에 보고합니다.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img02.png"><![CDATA[입찰을 심사 중인 직원]]></img>
+			<text style="width: 356px;"><![CDATA[여러분은 그 업체와 관련된 입찰이 진행 중임을 알게 되었지만 직접 관여하지 않으므로 그 관람권을 받기로 결정합니다.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img04.png"><![CDATA[이야기 중인 직원과 납품업자]]></img>	
+			<text style="width: 356px;"><![CDATA[현재 진행 중인 입찰에 참여하지 않는 다른 공급업자가 여러분에게 보다 규모가 작은 행사의 관람권을 제공합니다. 그 관람권은 장당 미화 20달러의 가치가 있습니다. 여러분은 대형 행사의 관람권을 받고 이것은 거절합니다.]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[허용 가능]]></text>
+		<text styleWidth="width:110px;"><![CDATA[허용 불가능]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[정답입니다.]]></text>			
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>대형 행사 관람권의 가치는 미화 200달러를 초과하므로 보고해야 합니다.</li> <li>계약이나 입찰이 협상 중인 동안에는 고객이나 납품업체와 선물이나 접대를 주고받아서는 안 됩니다.</li><li>이 관람권의 가치는 적절하지만 여러분에게 부적절하게 영향을 미치려는 시도가 있는 경우에는 이런 접대도 부적절합니다.</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[정답이 아닙니다.]]></text>	
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>대형 행사 관람권의 가치는 미화 200달러를 초과하므로 보고해야 합니다.</li> <li>계약이나 입찰이 협상 중인 동안에는 고객이나 납품업체와 선물이나 접대를 주고받아서는 안 됩니다.</li><li>이 관람권의 가치는 적절하지만 여러분에게 부적절하게 영향을 미치려는 시도가 있는 경우에는 이런 접대도 부적절합니다.</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessment isAnsShow="false">
+    <instructionText>
+        <text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+    </instructionText>
+	<contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/preAssessment/preassessment.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+    <buttonText>
+        <text><![CDATA[ODOSLAŤ]]></text>
+    </buttonText>
+    <qIcon><![CDATA[Ot.]]></qIcon>
+    <qNumber><![CDATA[Otázka # z/zo #]]></qNumber>
+    <module id="1" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Je vždy v rozpore so zásadami spoločnosti, ak máte okrem spoločnosti Johnson Controls aj iné zamestnanie?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Áno]]></option>
+                <option><![CDATA[Nie]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Ak máte druhé zamestnanie, nie je to vždy v rozpore so zásadami spoločnosti. V rozpore so zásadami je to vtedy, ak by vaše druhé zamestnanie bolo v rozpore s obchodnými záujmami spoločnosti Johnson Controls.  Musíte zabezpečiť, aby žiadna ďalšia práca nepredstavovala konflikt záujmov. Každé ďalšie zamestnanie musíte oznámiť prostredníctvom Formuláru o konflikte záujmov. O situácii musíte informovať aj vášho manažéra alebo nadriadeného.]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Ak máte druhé zamestnanie, nie je to vždy v rozpore so zásadami spoločnosti. V rozpore so zásadami je to vtedy, ak by vaše druhé zamestnanie bolo v rozpore s obchodnými záujmami spoločnosti Johnson Controls.  Musíte zabezpečiť, aby žiadna ďalšia práca nepredstavovala konflikt záujmov. Každé ďalšie zamestnanie musíte oznámiť prostredníctvom Formuláru o konflikte záujmov. O situácii musíte informovať aj vášho manažéra alebo nadriadeného.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Bývalá kolegyňa opustila spoločnosť Johnson Controls a začala podnikať. Teraz vás kontaktovala a chce sa stať subdodávateľom. Môžete najať jej spoločnosť? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Áno, má cenné skúsenosti]]></option>
+                <option><![CDATA[Možno, ale bude musieť podstúpiť štandardné výberové konanie a vy nesmiete prijímať žiadne rozhodnutia, ktoré sa týkajú jej najímania]]></option>
+                <option><![CDATA[Nie, nikdy nie je prijateľné najímať bývalých zamestnancov spoločnosti Johnson Controls do akejkoľvek pozície]]></option>
+            </options>
+            <feedback>
+                <correct style="">
+					<text><![CDATA[<b>Správne.</b> Zamestnanci spoločnosti Johnson Controls môžu povzbudiť priateľov alebo rodinných príslušníkov, aby sa stali dodávateľmi, ale musia dodržiavať správne výberové postupy. Ak by boli úspešní so svojimi ponukami, museli by ste zverejniť váš pomer prostredníctvom Formuláru o konflikte záujmov a zabezpečiť, aby ste sa nezúčastnili žiadneho rozhodovania, ktoré by mohlo ovplyvniť výšku cien alebo množstvo prác zadaných tomuto dodávateľovi.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Zamestnanci spoločnosti Johnson Controls môžu povzbudiť priateľov alebo rodinných príslušníkov, aby sa stali dodávateľmi, ale musia dodržiavať správne výberové postupy. Ak by boli úspešní so svojimi ponukami, museli by ste zverejniť váš pomer prostredníctvom Formuláru o konflikte záujmov a zabezpečiť, aby ste sa nezúčastnili žiadneho rozhodovania, ktoré by mohlo ovplyvniť výšku cien alebo množstvo prác zadaných tomuto dodávateľovi.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Môžete odporučiť rodinného príslušníka, ktorý by sa mohol stať zamestnancom v spoločnosti Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Áno, za predpokladu, že nie ste zapojení do náborového procesu.]]></option>
+                <option><![CDATA[Nie, nikdy nemôžete odporúčať rodinného príslušníka spoločnosti Johnson Controls.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Môžete odporučiť rodinného príslušníka ako zamestnanca za predpokladu, že nasmerujete vášho rodinného príslušníka na príslušný náborový kanál a nebudete sa aktívne zapájať do náborového procesu. Medzi vami a vaším rodinným príslušníkom nemôže existovať žiadny komunikačný kanál. Ak spoločnosť prijme vášho príbuzného, musíte vyplniť Formulár o konflikte záujmov.]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Môžete odporučiť rodinného príslušníka ako zamestnanca za predpokladu, že nasmerujete vášho rodinného príslušníka na príslušný náborový kanál a nebudete sa aktívne zapájať do náborového procesu. Medzi vami a vaším rodinným príslušníkom nemôže existovať žiadny komunikačný kanál. Ak spoločnosť prijme vášho príbuzného, musíte vyplniť Formulár o konflikte záujmov.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Umožňujú zásady spoločnosti Johnson Controls zamestnancom, aby požadovali peniaze na svoju obľúbenú charitu?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Áno]]></option>
+                <option><![CDATA[Nie]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Zháňanie darov na súkromné charity v práci nie je v spoločnosti Johnson Controls akceptovateľné. Vytvára sa tak atmosféra nátlaku, v ktorej sa ostatní cítia byť povinní prispievať, a tomu by sme chceli zabrániť. ]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Zháňanie darov na súkromné charity v práci nie je v spoločnosti Johnson Controls akceptovateľné. Vytvára sa tak atmosféra nátlaku, v ktorej sa ostatní cítia byť povinní prispievať, a tomu by sme chceli zabrániť. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Máte priateľa, ktorý chce spolupracovať so spoločnosťou Johnson Controls. Čo by ste mali urobiť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Ihneď zapojiť vášho priateľa do poskytovania služieb, pretože má fantastický produkt ]]></option>
+                <option><![CDATA[Povedať vášmu priateľovi, že to nie je možné, pretože to porušuje zásady spoločnosti Johnson Controls o konflikte záujmov]]></option>
+                <option><![CDATA[Povzbudiť vášho priateľa, aby sa stal jedným z preferovaných dodávateľov spoločnosti Johnson Controls tak, že sa zúčastní oficiálneho výberového konania dodávateľov]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Zamestnanci spoločnosti Johnson Controls môžu povzbudiť priateľov alebo rodinných príslušníkov, aby sa stali dodávateľmi, ale musia dodržiavať správne výberové postupy. Ak sú dodávateľmi, mali by ste ich povzbudiť k tomu, aby využili oficiálne výberové konanie na dodávateľov spoločnosti Johnson Controls.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Zamestnanci spoločnosti Johnson Controls môžu povzbudiť priateľov alebo rodinných príslušníkov, aby sa stali dodávateľmi, ale musia dodržiavať správne výberové postupy. Ak sú dodávateľmi, mali by ste ich povzbudiť k tomu, aby využili oficiálne výberové konanie na dodávateľov spoločnosti Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Práve ste sa dozvedeli, že vaša sestra získala vedúcu pozíciu u konkurenta spoločnosti Johnson Controls. Čo by ste mali urobiť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Kontaktujete ju, aby ste získali nejaké informácie o konkurencii, mohlo by to byť užitočné pre spoločnosť Johnson Controls]]></option>
+                <option><![CDATA[Vyplníte Formulár o konflikte záujmov, aby ste spoločnosť Johnson Controls upozornili na potenciálny konflikt]]></option>
+                <option><![CDATA[Nerobte nič, nie je dôležité, kde pracujú vaši rodinní príslušníci]]></option>	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Je nevyhnutné zabrániť potenciálnemu alebo skutočnému konfliktu záujmov. Malo by sa predchádzať už aj samotnému dojmu o existencii konfliktu. V tomto prípade by bolo dôležité oznámiť skutočnosť, že blízky člen rodiny pracuje na vedúcej pozícii u konkurencie.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Je nevyhnutné zabrániť potenciálnemu alebo skutočnému konfliktu záujmov. Malo by sa predchádzať už aj samotnému dojmu o existencii konfliktu. V tomto prípade by bolo dôležité oznámiť skutočnosť, že blízky člen rodiny pracuje na vedúcej pozícii u konkurencie.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[S dodávateľom ste pracovali niekoľko rokov a stali ste sa priateľmi. Tento dodávateľ je už prevereným externým dodávateľom. Dodávateľ vás požiada, aby ste sa za neho prihovorili u zamestnanca v inom podniku v rámci spoločnosti Johnson Controls. Čo by ste mali urobiť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0,0,0">
+               <option><![CDATA[Poviete mu, že by ste radi poskytli referencie, ale nie ste v pozícii, aby ste dávali odporúčania k výberovým rozhodnutiam]]></option>				
+                <option><![CDATA[Poviete mu, že pošlete odporúčanie, ale v skutočnosti to neurobíte]]></option>				
+                <option><![CDATA[Pošlete zamestnancovi e-mail s odporúčaním, aby ihneď zadal zákazku danému dodávateľovi]]></option>
+				<option><![CDATA[Žiadny z vyššie uvedených výrokov]]></option>               	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Napriek tomu, že ste si s dodávateľom vybudovali priateľský vzťah, vždy musíte konať v najlepšom záujme spoločnosti Johnson Controls. Môžete poskytnúť referencie, ale nesmiete sa priamo pokúšať o ovplyvňovanie výberového rozhodnutia v inom odvetví podnikania spoločnosti Johnson Controls. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Napriek tomu, že ste si s dodávateľom vybudovali priateľský vzťah, vždy musíte konať v najlepšom záujme spoločnosti Johnson Controls. Môžete poskytnúť referencie, ale nesmiete sa priamo pokúšať o ovplyvňovanie výberového rozhodnutia v inom odvetví podnikania spoločnosti Johnson Controls. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Nedávno ste investovali vaše peniaze do viacerých spoločností, ale práve ste si uvedomili, že niektoré zo spoločností sú konkurentmi spoločnosti Johnson Controls. Je to dovolené podľa zásad spoločnosti Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,0,1">                			
+                <option><![CDATA[Nie, nikdy nesmiete investovať do konkurencie spoločnosti Johnson Controls]]></option>				
+                <option><![CDATA[Je to prijateľné len vtedy, ak vlastníte konkurenčnú spoločnosť]]></option>				
+                <option><![CDATA[Áno, nikdy nebol žiadny problém s investovaním do konkurencie spoločnosti Johnson Controls]]></option>				
+                <option><![CDATA[Je to prijateľné, pokiaľ vaším investovaním nenadobudnete vlastnícky podiel v spoločnosti o veľkosti 1 % alebo viac]]></option>		
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Môžete investovať vaše peniaze do spoločnosti, ktorá je konkurentom, pokiaľ nebude výsledkom nadobudnutie vlastníckeho podielu v danej spoločnosti o veľkosti 1 % alebo viac. Ak máte stále pochybnosti, buďte transparentní a zašlite Formulár o konflikte záujmov na stránke <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com </a> tak, aby sa vaša situácia dala prehodnotiť.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Môžete investovať vaše peniaze do spoločnosti, ktorá je konkurentom, pokiaľ nebude výsledkom nadobudnutie vlastníckeho podielu v danej spoločnosti o veľkosti 1 % alebo viac. Ak máte stále pochybnosti, buďte transparentní a zašlite Formulár o konflikte záujmov na stránke <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com </a> tak, aby sa vaša situácia dala prehodnotiť.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Vaša suseda má obchod s limuzínami. Je spoľahlivá a jej ceny sú nižšie ako sú ceny preferovaných dodávateľov spoločnosti Johnson Controls. Veľa cestujete a využívanie jej služieb by bolo pre spoločnosť Johnson Controls úspornejšie. Môžete využiť služby vašej susedy? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,0,1">                		
+                <option><![CDATA[Áno, jej ceny sú nízke a od všetkých v spoločnosti Johnson Controls sa vyžaduje zníženie nákladov]]></option>				
+                <option><![CDATA[Áno, je to vaša kamarátka a využívanie služieb jej spoločnosti ušetrí spoločnosti peniaze a zároveň jej pomôže]]></option>				
+                <option><![CDATA[Nie, neponúka vám dostatočne veľkú zľavu]]></option>				
+                <option><![CDATA[Áno, za predpokladu, že sa stane schváleným dodávateľom]]></option>	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Ak sa spoločnosť vašej susedy stane preferovaným dodávateľom prostredníctvom riadneho výberového konania v spoločnosti Johnson Controls, môžete využívať jej služby.]]></text>
+					<text><![CDATA[Ak sa vaša suseda stane preferovaným dodávateľom, je dôležité poznamenať, že nebudete môcť prijať zľavu na súkromných cestách, pretože by sa to mohlo považovať za konflikt záujmov.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Ak sa spoločnosť vašej susedy stane preferovaným dodávateľom prostredníctvom riadneho výberového konania v spoločnosti Johnson Controls, môžete využívať jej služby.]]></text>
+					<text><![CDATA[Ak sa vaša suseda stane preferovaným dodávateľom, je dôležité poznamenať, že nebudete môcť prijať zľavu na súkromných cestách, pretože by sa to mohlo považovať za konflikt záujmov.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	
+	<module id="2" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Je dovolenková sezóna a vy a váš tím by ste chceli darovať darčeky svojim dodávateľom. Aké darčeky by boli vhodné?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[Najnovší prenosný počítač]]></option>
+                <option><![CDATA[Rámček na fotografiu za rozumnú cenu]]></option>
+                <option><![CDATA[Darčeková karta American Express]]></option>
+                <option><![CDATA[Víkendový pobyt v luxusných kúpeľoch]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Niektoré z tu uvedených možností sú príliš drahé a nevhodné na to, aby ste ich dali dodávateľovi. Peňažné dary alebo ich ekvivalenty, ako sú napríklad darčekové karty, sú výslovne zakázané. V tejto situácii by bol prijateľný rámček na fotografiu za rozumnú cenu. Je dôležité si uvedomiť, že sa nesmie poskytnúť nič hodnotné, ak existuje nejaká šanca, že by sa to mohlo vnímať ako úplatok.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Niektoré z tu uvedených možností sú príliš drahé a nevhodné na to, aby ste ich dali dodávateľovi. Peňažné dary alebo ich ekvivalenty, ako sú napríklad darčekové karty, sú výslovne zakázané. V tejto situácii by bol prijateľný rámček na fotografiu za rozumnú cenu. Je dôležité si uvedomiť, že sa nesmie poskytnúť nič hodnotné, ak existuje nejaká šanca, že by sa to mohlo vnímať ako úplatok.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Dodávateľ vám dal darček. Ktoré z nižšie uvedených darčekov by sa mali oznámiť pomocou Formuláru o oznamovaní darov spoločnosti Johnson Controls.]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,0,1">
+                <option><![CDATA[Nový Apple iPad]]></option>
+                <option><![CDATA[Malá izbová kvetina]]></option>
+                <option><![CDATA[Dva lístky do predného radu na medzinárodné športové podujatie]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Hodnota zariadenia iPad je o 200 USD väčšia ako hodnota lístkov. Musia sa oznámiť všetky darčeky, ktorých hodnota presahuje finančné limity uvedené v Zásadách pre cestovanie, dary a zábavu od tretích strán. Rastlina má nízku cenu a nedostali ste ju za tým účelom, aby vás ovplyvnila, preto je v poriadku ju prijať.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Hodnota zariadenia iPad je o 200 USD väčšia ako hodnota lístkov. Musia sa oznámiť všetky darčeky, ktorých hodnota presahuje finančné limity uvedené v Zásadách pre cestovanie, dary a zábavu od tretích strán. Rastlina má nízku cenu a nedostali ste ju za tým účelom, aby vás ovplyvnila, preto je v poriadku ju prijať.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Hodnota zariadenia iPad je o 200 USD väčšia ako hodnota lístkov. Musia sa oznámiť všetky darčeky, ktorých hodnota presahuje finančné limity uvedené v Zásadách pre cestovanie, dary a zábavu od tretích strán. Rastlina má nízku cenu a nedostali ste ju za tým účelom, aby vás ovplyvnila, preto je v poriadku ju prijať.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Vaša kancelária usporiadala pre zákazníka firemné podujatie, ale myslíte si, že zákazník by mohol byť „vládnym orgánom“. Čo by ste mali urobiť? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0,0,0">
+                <option><![CDATA[Obrátite sa na svojho oblastného právneho zástupcu alebo na právne oddelenie, pretože by vám mohli pomôcť ]]></option>
+                <option><![CDATA[Nič, status zákazníka nie je dôležitý ]]></option>
+                <option><![CDATA[Pokúsite sa zistiť, či je zákazník naozaj štátnym orgánom, aby ste ho mohli vziať na drahšie podujatie]]></option>
+                <option><![CDATA[Predpokladáte, že je štátnym orgánom a pre istotu vyplníte Protikorupčný formulár]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> So zákazníkom, ktorý je štátnym orgánom, musíme zaobchádzať odlišne ako s komerčným zákazníkom, a to obzvlášť vtedy, ak ide o dary a zábavu.]]></text>
+					<text><![CDATA[Ak si nie ste istý, či je váš zákazník štátnym orgánom alebo nie, obráťte sa na vášho oblastného právneho zástupcu alebo na právne oddelenie, aby vám pomohli. Môžu Vám nariadiť, čo máte robiť a čo nemáte robiť.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> So zákazníkom, ktorý je štátnym orgánom, musíme zaobchádzať odlišne ako s komerčným zákazníkom, a to obzvlášť vtedy, ak ide o dary a zábavu.]]></text>
+					<text><![CDATA[Ak si nie ste istý, či je váš zákazník štátnym orgánom alebo nie, obráťte sa na vášho oblastného právneho zástupcu alebo na právne oddelenie, aby vám pomohli. Môžu Vám nariadiť, čo máte robiť a čo nemáte robiť.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Práve ste uzavreli veľký obchod a zákazník to chce osláviť tak, že vás a vášho partnera vezme do divadla.  Ste presvedčený, že lístky stáli menej ako 200 USD. Musíte to oznámiť prostredníctvom stránky <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com</a>?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Nie, je to mimo pracovných hodín a keďže ide aj váš partner, nesúvisí to s prácou]]></option>
+                <option><![CDATA[Áno, ale stačí oznámiť len polovicu hodnoty tohto podujatia, pretože váš partner nie je zamestnancom spoločnosti Johnson Controls]]></option>
+                <option><![CDATA[Nie, pretože zákazník je v divadle s vami, takže je to obchodné podujatie]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Lístky do divadla sa zdajú byť v súlade s tým, čo je prijateľné z hľadiska obchodných podujatí. Ak máte nejaké obavy alebo ak existuje nejaký dôvod, pre ktorý by to mohlo vyzerať ako úplatok, mali by ste túto ponuku prediskutovať so svojím nadriadeným a ubezpečiť sa, že súhlasí s vaším rozhodnutím.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Lístky do divadla sa zdajú byť v súlade s tým, čo je prijateľné z hľadiska obchodných podujatí. Ak máte nejaké obavy alebo ak existuje nejaký dôvod, pre ktorý by to mohlo vyzerať ako úplatok, mali by ste túto ponuku prediskutovať so svojím nadriadeným a ubezpečiť sa, že súhlasí s vaším rozhodnutím.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Potenciálny dodávateľ sa u vás zastaví a ponúkne vám hotovostný bonus, ak mu pošlete ďalšie zákazky. Chápete, že to vyzerá byť úplatok a správne ponuku slušne odmietnete. Urobili ste všetko, čo je potrebné?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Áno, dar ste neprijali, pretože ide o hotovosť ]]></option>
+                <option><![CDATA[Nie, ponuku musíte zároveň oznámiť príslušnému oddeleniu v spoločnosti]]></option>
+                <option><![CDATA[Nie, dar ste mali prijať, pretože nechcete uraziť dodávateľa]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Ak sa dodávateľ alebo akákoľvek tretia strana, s ktorou spoločnosť Johnson Controls obchoduje, pokúsi poskytnúť vám dar alebo hotovosť, a ste presvedčený, že vám ich ponúka za tým účelom, aby vás ovplyvnil, tento dar musíte odmietnuť a oznámiť to právnemu oddeleniu alebo regionálnemu právnemu zástupcovi, ktorý vám prikáže vyplniť formulár. Môže to byť dodávateľ, s ktorým by sme nechceli obchodovať.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Ak sa dodávateľ alebo akákoľvek tretia strana, s ktorou spoločnosť Johnson Controls obchoduje, pokúsi poskytnúť vám dar alebo hotovosť, a ste presvedčený, že vám ich ponúka za tým účelom, aby vás ovplyvnil, tento dar musíte odmietnuť a oznámiť to právnemu oddeleniu alebo regionálnemu právnemu zástupcovi, ktorý vám prikáže vyplniť formulár. Môže to byť dodávateľ, s ktorým by sme nechceli obchodovať.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Vaša spoločnosť je vyzvaná, aby darovala ceny do tomboly na konferencii. Na konferencii sa zúčastnia dodávatelia a iné partnerské spoločnosti. Hodnota každej z cien je nižšia ako 200 USD. Musia sa dary oznámiť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Iba v prípade, že by sa v tombole nachádzal jeden z výrobkov spoločnosti Johnson Controls]]></option>
+                <option><![CDATA[Nie, toto sú obchodné výdavky a nikomu sa nedávajú priamo, ale konkrétny účastník ich vyhrá náhodou]]></option>
+                <option><![CDATA[Áno, tento dar by potenciálne mohol vyhrať aj štátny orgán]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Je úplne prijateľné, aby spoločnosť Johnson Controls darovala ceny týmto spôsobom. Neexistuje žiadny úmysel dať účastníkovi niečo priamo, či už ide o komerčného alebo štátneho zamestnanca a neexistuje ani úmysel ho ovplyvňovať.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Je úplne prijateľné, aby spoločnosť Johnson Controls darovala ceny týmto spôsobom. Neexistuje žiadny úmysel dať účastníkovi niečo priamo, či už ide o komerčného alebo štátneho zamestnanca a neexistuje ani úmysel ho ovplyvňovať.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Dostali ste drahý elektronický darček od dlhoročného, vysoko ceneného zákazníka. Zákazník oceňuje trvalo výnimočnú prácu, ktorú pre neho odvádza spoločnosť Johnson Controls a špeciálne vy. Chápete, že hodnota ďaleko prevyšuje hranicu pre oznamovanie darov vo výške 200 USD a môže sa dokonca považovať za štedrú. Ktoré z nasledujúcich spôsobov sú vhodné na zvládnutie situácie?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,1,1">
+                <option><![CDATA[Oznámiť darček a zdvorilo ho vrátiť s tým, že darček si naozaj ceníte, ale jeho hodnota ďaleko presahuje to, čo je prijateľné podľa zásad spoločnosti Johnson Controls]]></option>
+                <option><![CDATA[Úctivo prijať darček, oznámiť ho a prediskutovať s manažérom, či je prijateľné, aby ste si darček ponechali]]></option>
+                <option><![CDATA[Úctivo prijať darček, oznámiť ho a a darovať charite sponzorovanej spoločnosťou Johnson Controls]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Ktorýkoľvek z týchto spôsobov je prijateľný. Existujú okolnosti, za ktorých by ste nechceli uraziť zákazníka, či už kvôli miestnym zvykom, prípadne z dôvodu obchodného vzťahu. Ak je vám nepríjemné odmietnuť darček, úctivo ho prijmite, oznámte ho a v spolupráci s vaším manažérom, oddelením ľudských zdrojov a/alebo tímom pre dodržiavanie predpisov určite, ako najlepšie naložiť s darčekom.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Ktorýkoľvek z týchto spôsobov je prijateľný. Existujú okolnosti, za ktorých by ste nechceli uraziť zákazníka, či už kvôli miestnym zvykom, prípadne z dôvodu obchodného vzťahu. Ak je vám nepríjemné odmietnuť darček, úctivo ho prijmite, oznámte ho a v spolupráci s vaším manažérom, oddelením ľudských zdrojov a/alebo tímom pre dodržiavanie predpisov určite, ako najlepšie naložiť s darčekom.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Ktorýkoľvek z týchto spôsobov je prijateľný. Existujú okolnosti, za ktorých by ste nechceli uraziť zákazníka, či už kvôli miestnym zvykom, prípadne z dôvodu obchodného vzťahu. Ak je vám nepríjemné odmietnuť darček, úctivo ho prijmite, oznámte ho a v spolupráci s vaším manažérom, oddelením ľudských zdrojov a/alebo tímom pre dodržiavanie predpisov určite, ako najlepšie naložiť s darčekom.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Vy a váš tím v spoločnosti Johnson Controls by ste chceli osláviť sviatky a idete na obed, ktorý si bude platiť každý sám a nebude na účet spoločnosti Johnson Controls. Budete si tiež vymieňať darčeky. Platí aj v tomto prípade rovnaká hraničná hodnota 200 USD vzťahujúca sa na oznamovanie?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Áno, ak ide o darčeky, ktoré dávame a prijímame v mene spoločnosti, určite musíme dodržiavať rovnakú normu]]></option>
+                <option><![CDATA[Nie]]></option>
+                <option><![CDATA[Áno, ale len ak hodnota prekročí 200 USD]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Darčeky medzi zamestnancami sa nemusia oznamovať, ale vždy musia byť vkusné a ich účelom nesmie byť žiadne ovplyvňovanie iného zamestnanca.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Darčeky medzi zamestnancami sa nemusia oznamovať, ale vždy musia byť vkusné a ich účelom nesmie byť žiadne ovplyvňovanie iného zamestnanca.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	<module id="3" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Aby sa niečo mohlo považovať za úplatkárstvo, musí dôjsť k odovzdaniu hotovosti.]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> O úplatkárstvo sa jedná vtedy, keď niekto dostane čokoľvek cenné v snahe neoprávnene ovplyvniť jeho rozhodnutia alebo činy. ]]></text>
+					<text><![CDATA[Úplatkárstvo môže zahŕňať hotovosť, ale môže zahŕňať aj také veci, ako sú akcie, darčeky, pohostinnosť, neoprávnené zľavy alebo provízie, charitatívne príspevky, či pracovné miesta pre rodinu a priateľov.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> O úplatkárstvo sa jedná vtedy, keď niekto dostane čokoľvek cenné v snahe neoprávnene ovplyvniť jeho rozhodnutia alebo činy. ]]></text>
+					<text><![CDATA[Úplatkárstvo môže zahŕňať hotovosť, ale môže zahŕňať aj také veci, ako sú akcie, darčeky, pohostinnosť, neoprávnené zľavy alebo provízie, charitatívne príspevky, či pracovné miesta pre rodinu a priateľov.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Keď Reginald, zamestnanec spoločnosti Johnson Controls a občan Spojeného kráľovstva, navštívi štátne úrady v Hondurase a požiada o predĺženie svojich pracovných víz, úradník mu povie, že spracovanie jeho žiadosti bude trvať až tri týždne. Takýto časový rámec vystaví Reginalda riziku, že nebude schopný dokončiť dlhodobý projekt. Predĺženie potrebuje okamžite. Úradník Reginaldovi povie, že „za malý poplatok“ by mohol zabezpečiť, že Reginaldova žiadosť bude spracovaná za menej než hodinu. Mal by Reginald dať úradníkovi 20 USD v hotovosti?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Áno, pretože je to malá cena za to, že bude mať istotu, že dokáže dlhodobý projekt dokončiť.]]></option>
+                <option><![CDATA[Áno, pretože takýto poplatok si môže dovoliť.]]></option>
+                <option><![CDATA[Nie, pretože ide o „platbu za napomáhanie“, ktorá by bola v rozpore s právnymi predpismi a zásadami spoločnosti Johnson Controls.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Keby Reginald zaplatil štátnemu úradníkovi, aby tak urýchlil získanie pracovných víz, išlo by o platbu za napomáhanie. Podľa zásad spoločnosti Johnson Controls to nie je povolené <b>a v mnohých jurisdikciách je to podľa zákonov o boji proti korupcii nezákonné</b>.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Keby Reginald zaplatil štátnemu úradníkovi, aby tak urýchlil získanie pracovných víz, išlo by o platbu za napomáhanie. Podľa zásad spoločnosti Johnson Controls to nie je povolené <b>a v mnohých jurisdikciách je to podľa zákonov o boji proti korupcii nezákonné</b>.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Stephanie, zamestnankyňa spoločnosti Johnson Controls, obdrží od subdodávateľa projektu, ktorý Stephanie spravuje, obálku, v ktorej je 500 USD. Poznámka v obálke informuje Stephanie o tom, že subdodávateľ chce, aby sa o ňom v budúcnosti uvažovalo aj pri ďalších projektoch. Čo by mala Stephanie urobiť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Odmietnuť darček, vrátiť peniaze a oznámiť platbu svojmu nadriadenému a právnemu oddeleniu spoločnosti Johnson Controls]]></option>
+                <option><![CDATA[Prijať platbu a presne ju zaznamenať ako „darček“ od subdodávateľa vo Formulári o oznamovaní darov spoločnosti Johnson Controls ]]></option>
+                <option><![CDATA[Prijať platbu a neurobiť nič viac, pretože si môže byť istá, že to nebude mať vplyv na jej rozhodovanie v budúcnosti, takže sa nejedná o úplatok]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Peniaze v obálke boli pokusom o podplatenie Stephanie.  Ich prijatie by bolo neetické a v mnohých jurisdikciách aj nezákonné. Stephanie musí informovať svojho nadriadeného a právne oddelenie spoločnosti Johnson Controls o tom, že subdodávatelia sa pokúšajú zaplatiť úplatok. Od tohto okamihu by vedenie a právne oddelenie mali podniknúť príslušné kroky.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Peniaze v obálke boli pokusom o podplatenie Stephanie.  Ich prijatie by bolo neetické a v mnohých jurisdikciách aj nezákonné. Stephanie musí informovať svojho nadriadeného a právne oddelenie spoločnosti Johnson Controls o tom, že subdodávatelia sa pokúšajú zaplatiť úplatok. Od tohto okamihu by vedenie a právne oddelenie mali podniknúť príslušné kroky.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Mark, zamestnanec spoločnosti Johnson Controls, dostane obálku s 500 USD od subdodávateľa projektu, ktorý Mark riadi v Londýne v Anglicku. Poznámka v obálke hovorí o tom, že subdodávateľ chce, aby sa o ňom v budúcnosti uvažovalo aj pri ďalších projektoch. Ak Mark akceptuje platbu od subdodávateľa, tak on, ako aj subdodávateľ, môžu byť trestne stíhaní podľa zákona Spojeného kráľovstva o boji proti korupcii.]]></text>
+				<text><![CDATA[Je toto tvrdenie pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Podľa zákona Spojeného kráľovstva o boji proti korupcii by tak Mark, ako aj predajca, mohli byť trestne zodpovední, ak by korupcia prebehla v Spojenom kráľovstve alebo na akomkoľvek inom mieste, ktoré je „úzko spojené“ so Spojeným kráľovstvom. Zákon Spojeného kráľovstva o boji proti korupcii kriminalizuje obchodné úplatkárstvo (úplatkárstvo medzi súkromnými právnickými a fyzickými osobami), zatiaľ čo predpis FCPA kriminalizuje iba platenie úplatkov za účasti štátnych úradníkov mimo USA.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Podľa zákona Spojeného kráľovstva o boji proti korupcii by tak Mark, ako aj predajca, mohli byť trestne zodpovední, ak by korupcia prebehla v Spojenom kráľovstve alebo na akomkoľvek inom mieste, ktoré je „úzko spojené“ so Spojeným kráľovstvom. Zákon Spojeného kráľovstva o boji proti korupcii kriminalizuje obchodné úplatkárstvo (úplatkárstvo medzi súkromnými právnickými a fyzickými osobami), zatiaľ čo predpis FCPA kriminalizuje iba platenie úplatkov za účasti štátnych úradníkov mimo USA.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Taliansky štátny úradník informuje Justina, zamestnanca spoločnosti Johnson Controls z USA, že zaistí, aby spoločnosť Johnson Controls dostala v Taliansku významnú štátnu zákazku. Na oplátku požaduje od spoločnosti Johnson Controls príspevok vo výške 5000 USD na svoju obľúbenú charitu „Make a Better Choice Foundation“. Justin presvedčí spoločnosť Johnson Controls, aby dar poskytla a o 6 mesiacov neskôr spoločnosť Johnson Controls získa lukratívnu zmluvu s talianskou vládou, ako bolo sľúbené.]]></text>
+				<text><![CDATA[Ktoré z nasledujúcich tvrdení sú správne?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[Justin nezapríčinil, že spoločnosť Johnson Controls poskytla nezákonný úplatok, pretože taliansky štátny úradník nedostal žiadne peniaze.]]></option>
+                <option><![CDATA[Justin zapríčinil, že spoločnosť Johnson Controls poskytla nezákonný úplatok, hoci taliansky štátny úradník nedostal žiadne peniaze, pretože úplatkom je čokoľvek cenné, čo má vplyv na rozhodovanie.]]></option>
+                <option><![CDATA[Justin zapríčinil, že spoločnosť Johnson Controls poskytla nezákonný úplatok talianskemu štátnemu úradníkovi a na základe takéhoto konania môže v mnohých jurisdikciách čeliť hrozbe odňatia slobody.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Úplatkárstvo je dávanie alebo sľubovanie niečoho cenného v snahe ovplyvniť nezávislý úsudok alebo správanie niekoho, kto má dôveru. Úplatkárstvo je nezákonné a v spoločnosti Johnson Controls je prísne zakázané.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Úplatkárstvo je dávanie alebo sľubovanie niečoho cenného v snahe ovplyvniť nezávislý úsudok alebo správanie niekoho, kto má dôveru. Úplatkárstvo je nezákonné a v spoločnosti Johnson Controls je prísne zakázané.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Úplatkárstvo je dávanie alebo sľubovanie niečoho cenného v snahe ovplyvniť nezávislý úsudok alebo správanie niekoho, kto má dôveru. Úplatkárstvo je nezákonné a v spoločnosti Johnson Controls je prísne zakázané.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Prevažná väčšina trestných stíhaní podľa právnych predpisov zameraných na boj s korupciou zahŕňa sprostredkovateľov tretích strán, ako napríklad zástupcov, distribútorov a charitatívne organizácie, ktoré sa nachádzajú medzi platiteľom úplatku a jeho príjemcom.]]></text>
+				<text><![CDATA[Je toto tvrdenie pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0">
+                 <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Väčšina trestných stíhaní úplatkárstva zahŕňa sprostredkovateľov tretích strán, ako napríklad zástupcov, distribútorov a charitatívne organizácie. Preto je dôležité zabezpečiť, aby všetky zainteresované tretie strany boli registrované a spravované v našom programe 3P.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Väčšina trestných stíhaní úplatkárstva zahŕňa sprostredkovateľov tretích strán, ako napríklad zástupcov, distribútorov a charitatívne organizácie. Preto je dôležité zabezpečiť, aby všetky zainteresované tretie strany boli registrované a spravované v našom programe 3P.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Robert, zamestnanec spoločnosti Johnson Controls, začína rokovania s Alexom, zamestnancom spoločnosti Middleman Ltd., zamerané na to, aby spoločnosť Middleman pôsobila ako zástupca spoločnosti Johnson Controls. Alex povedal Robertovi, že má „skvelé kontakty na štátnych úradníkov“ a uvádza, že 30 % provízia, ktorú spoločnosť Middleman požaduje za získanie vládnych zákaziek pre spoločnosť Johnson Controls, je určená na to, aby „tí správni ľudia boli aj naďalej šťastní.”]]></text>
+				<text><![CDATA[Má Robert dôvod znepokojovať sa?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Nie, jeho prvoradým cieľom je maximalizovať zisky spoločnosti Johnson Controls, pričom kontakty spoločnosti Middleman na vládnych úradníkov sú dobrou obchodnou príležitosťou]]></option>
+                <option><![CDATA[Možno, spoločnosť Johnson Controls neplatí provízie, ktoré sú vyššie ako štandard na trhu a požiadavka spoločnosti Middleman vo výške 30 % je príliš vysoká]]></option>
+                <option><![CDATA[Áno, spoločnosť Middleman predstavuje významné riziko korupcie]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Robert by sa mal znepokojovať. Varovnými signálmi v tejto situácii sú:<ul><li>Keď Alex povedal, že má blízke kontakty na vládu.</li><li>Vysoká provízia požadovaná z predaja vládnemu zákazníkovi.</li></ul>]]></text>
+					<text><![CDATA[Robert si mal uvedomiť, že obidve skutočnosti predstavujú významné varovné signály, že spoločnosť Middleman môže získať zákazky pre spoločnosť Johnson Controls tým spôsobom, že zaplatí úplatky vládnym úradníkom.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Robert by sa mal znepokojovať. Varovnými signálmi v tejto situácii sú:<ul><li>Keď Alex povedal, že má blízke kontakty na vládu.</li><li>Vysoká provízia požadovaná z predaja vládnemu zákazníkovi.</li></ul>]]></text>
+					<text><![CDATA[Robert si mal uvedomiť, že obidve skutočnosti predstavujú významné varovné signály, že spoločnosť Middleman môže získať zákazky pre spoločnosť Johnson Controls tým spôsobom, že zaplatí úplatky vládnym úradníkom.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Ted, zamestnanec spoločnosti Johnson Controls, začína rokovania s Johnom, zamestnancom spoločnosti ABC Ltd., zamerané na to, aby spoločnosť ABC pôsobila ako zástupca spoločnosti Johnson Controls. John vysvetľuje, že roky strávil budovaním blízkych obchodných vzťahov s vládnymi úradníkmi, a preto žiada 30 % províziu za získanie zákaziek od vlády pre spoločnosť Johnson Controls. Ak John zaplatí časť provízie spoločnosti ABC vládnemu úradníkovi, Tedovi, Johnovi, spoločnosti Johnson Controls a spoločnosti ABC môže hroziť pokuta a/alebo trest odňatia slobody podľa zákonov o boji proti korupcii.]]></text>
+				<text><![CDATA[Je toto tvrdenie pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Všetky právnické a fyzické osoby podieľajúce sa na tejto korupčnej schéme, by boli trestne zodpovedné. ]]></text>
+					<text><![CDATA[V skutočnosti sa väčšina zákonov o boji proti korupcii, a to vrátane zákona o zahraničných korupčných praktikách (FCPA) a zákona Spojeného kráľovstva o boji proti korupcii, vzťahuje na právnické a fyzické osoby. Spoločnostiam a ľuďom stíhaným podľa zákonov o boji proti korupcii môže hroziť veľká pokuta a dokonca aj trest odňatia slobody.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Všetky právnické a fyzické osoby podieľajúce sa na tejto korupčnej schéme, by boli trestne zodpovedné. ]]></text>
+					<text><![CDATA[V skutočnosti sa väčšina zákonov o boji proti korupcii, a to vrátane zákona o zahraničných korupčných praktikách (FCPA) a zákona Spojeného kráľovstva o boji proti korupcii, vzťahuje na právnické a fyzické osoby. Spoločnostiam a ľuďom stíhaným podľa zákonov o boji proti korupcii môže hroziť veľká pokuta a dokonca aj trest odňatia slobody.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+    </module>
+	<module id="4" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Musíte poslať súbor programu Excel s citlivými alebo dôvernými informáciami kolegovi z iného regiónu. Aký je najlepší prístup k ochrane informácií počas ich odosielania?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Súbor pred jeho odoslaním zabezpečte heslom. Heslo priložte do rovnakého e-mailu, aby váš kolega mohol súbor otvoriť]]></option>
+                <option><![CDATA[Súbor pred jeho odoslaním zabezpečte heslom a potom odošlite heslo v e-maile s predmetom HESLO, aby ho váš kolega mohol ľahko nájsť]]></option>
+                <option><![CDATA[Súbor pred jeho odoslaním zabezpečte heslom a zavolajte vášmu kolegovi a povedzte mu heslo, aby mohol súbor otvoriť]]></option>
+				
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Je dôležité chrániť dôverné alebo citlivé údaje. Ochrana obsahu pomocou hesla je skvelý spôsob, ako to urobiť. Rovnako tak je dôležité, aby ste dávali pozor na to, ako sprístupníte heslo. Odoslanie hesla v rovnakom e-maile alebo aj v samostatnom e-maile s predmetom HESLO nie je bezpečné. Najbezpečnejší spôsob, ako oznámiť heslo, je telefónom. Či už hlasovou alebo textovou správou.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Je dôležité chrániť dôverné alebo citlivé údaje. Ochrana obsahu pomocou hesla je skvelý spôsob, ako to urobiť. Rovnako tak je dôležité, aby ste dávali pozor na to, ako sprístupníte heslo. Odoslanie hesla v rovnakom e-maile alebo aj v samostatnom e-maile s predmetom HESLO nie je bezpečné. Najbezpečnejší spôsob, ako oznámiť heslo, je telefónom. Či už hlasovou alebo textovou správou.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Colin musí poslať súbor programu Excel s dôvernými informáciami kolegovi z iného regiónu. Rozhodne sa chrániť súbor jeho zašifrovaním a pridaním hesla. Ktoré z nasledujúcich hesiel by bolo pre Colina najvhodnejšie?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,0,1">
+                <option><![CDATA[Colin123]]></option>
+                <option><![CDATA[123colin]]></option>
+                <option><![CDATA[C1o2l3in]]></option>
+                <option><![CDATA[!C1o2l3in]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Najsilnejšie heslo (také, čo sa najťažšie prekonáva) je to, ktoré obsahuje zmes symbolov, veľkých písmen, malých písmen a čísel.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Najsilnejšie heslo (také, čo sa najťažšie prekonáva) je to, ktoré obsahuje zmes symbolov, veľkých písmen, malých písmen a čísel.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Andrea je zaneprázdnená prácou s tlačenými dokumentmi, ktoré obsahujú osobné údaje zákazníkov, keď sa pozrie na hodiny a uvedomí si, že mešká na stretnutie týkajúce sa inej úlohy. Ako by mala s dokumentmi naložiť?]]></text>
+			</questionText>
+             <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[Nechať dokumenty na stole ]]></option>
+                <option><![CDATA[Uzamknúť dokumenty v kartotéke]]></option>
+                <option><![CDATA[Uložiť dokumenty do uzamykacej zásuvky v stole]]></option>
+			</options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Andrea vždy musí dbať na ochranu osobných údajov zákazníkov. Najbezpečnejší spôsob, ako uložiť dokumenty, keď ide na schôdzku, je zamknúť ich do kartotéky alebo ich uložiť do uzamykacej zásuvky v stole. ]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Andrea vždy musí dbať na ochranu osobných údajov zákazníkov. Najbezpečnejší spôsob, ako uložiť dokumenty, keď ide na schôdzku, je zamknúť ich do kartotéky alebo ich uložiť do uzamykacej zásuvky v stole. ]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Andrea vždy musí dbať na ochranu osobných údajov zákazníkov. Najbezpečnejší spôsob, ako uložiť dokumenty, keď ide na schôdzku, je zamknúť ich do kartotéky alebo ich uložiť do uzamykacej zásuvky v stole. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Marta pracuje na oddelení ľudských zdrojov a má prístup k osobným údajom všetkých zamestnancov v danej lokalite. Samantha chce zriadiť narodeninový klub, v ktorom sa zamestnanci stretnú na obede, aby vzájomne oslávili narodeniny. Požiada Martu o narodeninový zoznam zamestnancov. Čo by mala Marta urobiť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[Dať Samanthe narodeninový zoznam – klub posilní morálku zamestnancov]]></option>
+                <option><![CDATA[Odmietnuť dať Samanthe narodeninový zoznam]]></option>
+                <option><![CDATA[Navrhnúť Samanthe, aby pozvala zamestnancov, aby sa prihlásili do narodeninového klubu a poskytli jej sami dátumy svojich narodenín ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Marta nesmie dať Samanthe narodeninový zoznam zamestnancov. Prístup k osobným údajom smie mať len autorizovaný personál a dodávatelia s oprávnenou pracovnou potrebou. Hoci je Samanthin narodeninový klub peknou myšlienkou, nejde o prácu a ona nie je oprávnená prijímať informácie.]]></text>
+					<text><![CDATA[Marta by mohla Samanthe navrhnúť, aby pozvala zamestnancov, aby sa prihlásili do narodeninového klubu a poskytli jej sami dátumy svojich narodenín.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Marta nesmie dať Samanthe narodeninový zoznam zamestnancov. Prístup k osobným údajom smie mať len autorizovaný personál a dodávatelia s oprávnenou pracovnou potrebou. Hoci je Samanthin narodeninový klub peknou myšlienkou, nejde o prácu a ona nie je oprávnená prijímať informácie.]]></text>
+					<text><![CDATA[Marta by mohla Samanthe navrhnúť, aby pozvala zamestnancov, aby sa prihlásili do narodeninového klubu a poskytli jej sami dátumy svojich narodenín.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Marta nesmie dať Samanthe narodeninový zoznam zamestnancov. Prístup k osobným údajom smie mať len autorizovaný personál a dodávatelia s oprávnenou pracovnou potrebou. Hoci je Samanthin narodeninový klub peknou myšlienkou, nejde o prácu a ona nie je oprávnená prijímať informácie.]]></text>
+					<text><![CDATA[Marta by mohla Samanthe navrhnúť, aby pozvala zamestnancov, aby sa prihlásili do narodeninového klubu a poskytli jej sami dátumy svojich narodenín.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Esteban pracuje na oddelení pohľadávok a manažér jeho oddelenia si vyžiadal súhrnnú správu, v ktorej sú uvedené celkové sumy v dolároch, ktoré sú po splatnosti v každom regióne. Esteban má k dispozícii správu, v ktorej je zoznam zákazníkov s účtami po splatnosti v každom regióne, a to aj spolu s menami zákazníkov, fakturačnými adresami a telefónnymi číslami. Mal by ju Esteban poslať svojmu manažérovi? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Áno, pretože tak rýchlo poskytne svojmu manažérovi všetky informácie, ktoré môže potrebovať]]></option>
+                <option><![CDATA[Nie, pretože jeho manažér požadoval iba celkové sumy v dolároch ]]></option>
+                <option><![CDATA[Áno, pretože jeho manažér by nechcel, aby Esteban plytval časom na vytváranie novej správy, keď už existuje správa s potrebnými informáciami]]></option>				
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Esteban by mal manažérovi poskytnúť len celkové sumy v dolároch, ktoré požadoval. Zamestnanci môžu pomôcť chrániť osobné údaje zákazníka tým spôsobom, že obmedzia to, ktoré informácie zdieľajú a s kým ich zdieľajú. Zaslanie správy, ktorá obsahuje aj mená, adresy a telefónne čísla kontaktov na zákazníkov, môže zbytočne ohroziť ich osobné údaje.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Esteban by mal manažérovi poskytnúť len celkové sumy v dolároch, ktoré požadoval. Zamestnanci môžu pomôcť chrániť osobné údaje zákazníka tým spôsobom, že obmedzia to, ktoré informácie zdieľajú a s kým ich zdieľajú. Zaslanie správy, ktorá obsahuje aj mená, adresy a telefónne čísla kontaktov na zákazníkov, môže zbytočne ohroziť ich osobné údaje.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Spoločnosť Johnson Controls môže uchovávať informácie o <i><b>zákazníkoch</b></i> na dobu neurčitú.]]></text>
+				<text><![CDATA[Je toto tvrdenie pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+             <options answer="0,1">
+                 <option><![CDATA[Pravdivé – môžeme uchovávať údaje o zákazníkoch tak dlho, ako chceme.]]></option>
+                <option><![CDATA[Nepravdivé – údaje by sme mali uchovávať len tak dlho, kým to bude potrebné pre účel, na ktorý boli pôvodne zhromaždené a údaje musia byť správne a aktuálne.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Osobné údaje sa nesmú uchovávať dlhšie, ako je potrebné. Spoločnosť Johnson Controls je povinná údaje o zákazníkoch odstrániť, ak už nie sú potrebné na účely, na ktoré boli zhromaždené, a ako je predpísané v pláne uchovávania záznamov spoločnosti Johnson Controls. Nesprávne údaje sa musia opraviť a zákazníci môžu mať právo požadovať odstránenie osobných údajov v súlade s miestnymi právnymi predpismi. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Osobné údaje sa nesmú uchovávať dlhšie, ako je potrebné. Spoločnosť Johnson Controls je povinná údaje o zákazníkoch odstrániť, ak už nie sú potrebné na účely, na ktoré boli zhromaždené, a ako je predpísané v pláne uchovávania záznamov spoločnosti Johnson Controls. Nesprávne údaje sa musia opraviť a zákazníci môžu mať právo požadovať odstránenie osobných údajov v súlade s miestnymi právnymi predpismi. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Spoločnosť Johnson Controls môže uchovávať informácie o <i><b>zamestnancoch</b></i> na dobu neurčitú.]]></text>
+				<text><![CDATA[Je toto tvrdenie pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Pravdivé – môžeme uchovávať údaje o zamestnancoch tak dlho, ako chceme.]]></option>
+                <option><![CDATA[Nepravdivé – údaje by sme mali uchovávať len tak dlho, kým to bude potrebné a údaje musia byť správne a aktuálne.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Osobné údaje o zamestnancoch sa nesmú uchovávať dlhšie, ako je potrebné a ako je predpísané v pláne uchovávania záznamov spoločnosti Johnson Controls. Údaje o zamestnanosti sa smú uchovávať, pokiaľ existuje zákonná požiadavka na ich zachovanie. Okrem toho je potrebné opraviť nepresné údaje.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Osobné údaje o zamestnancoch sa nesmú uchovávať dlhšie, ako je potrebné a ako je predpísané v pláne uchovávania záznamov spoločnosti Johnson Controls. Údaje o zamestnanosti sa smú uchovávať, pokiaľ existuje zákonná požiadavka na ich zachovanie. Okrem toho je potrebné opraviť nepresné údaje.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Ktorý z nasledujúcich prístupov k zhromažďovaniu osobných údajov je najlepší?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Zhromaždiť čo najviac osobných údajov „len tak, pre istotu“]]></option>
+                <option><![CDATA[Nikdy nezhromažďovať žiadne osobné údaje]]></option>
+                <option><![CDATA[Zhromažďovať iba údaje potrebné pre vami požadovaný účel]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Keď zhromažďujete osobné údaje alebo údaje o jednotlivcovi, musíte sa <b>obmedziť</b> len na tie údaje, ktoré sú potrebné pre vami požadovaný účel. Neuchovávajte o osobe viac informácií, ako potrebujete. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Keď zhromažďujete osobné údaje alebo údaje o jednotlivcovi, musíte sa <b>obmedziť</b> len na tie údaje, ktoré sú potrebné pre vami požadovaný účel. Neuchovávajte o osobe viac informácií, ako potrebujete. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Informácie o zákazníkoch zhromaždené jedným subjektom spoločnosti Johnson Controls sa môžu zdieľať s akýmkoľvek ďalším subjektom spoločnosti Johnson Controls po celom svete.]]></text>
+				<text><![CDATA[Je toto tvrdenie pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1">
+                 <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Bez súhlasu príslušnej osoby by sa zhromaždené údaje nemali zdieľať s nikým iným, pokiaľ vám to neumožňuje výnimka podľa právnych predpisov.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Bez súhlasu príslušnej osoby by sa zhromaždené údaje nemali zdieľať s nikým iným, pokiaľ vám to neumožňuje výnimka podľa právnych predpisov.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[<b><i>Zákazník</i></b> vám dá povolenie na zdieľanie svojich osobných údajov. Môžete údaje zdieľať? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Áno, ak vám osoba dá súhlas a údaje sa zdieľajú v súlade s oznámením poskytnutým osobe a dodržiavajú sa zásady spoločnosti]]></option>
+                <option><![CDATA[Nie. Za žiadnych okolností nemôžete zdieľať osobné údaje tejto osoby, a to ani v prípade, že vám udelí súhlas]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> So súhlasom príslušnej osoby môžete zdieľať všetky údaje zhromaždené o tejto osobe, ak sa údaje zdieľajú v súlade s oznámením poskytnutým subjektu ochrany údajov a v súlade so zásadami spoločnosti. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> So súhlasom príslušnej osoby môžete zdieľať všetky údaje zhromaždené o tejto osobe, ak sa údaje zdieľajú v súlade s oznámením poskytnutým subjektu ochrany údajov a v súlade so zásadami spoločnosti. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	 <module id="5" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Váš miestny obchodný manažér je primárne zodpovedný za to, aby zabezpečil, že budete dodržiavať obchodné kontroly. ]]></text>
+				<text><![CDATA[Pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1">
+                 <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> V spoločnosti Johnson Controls každý zodpovedá za to, že pochopí, aký dopad má obchod na ich súvisiace povinnosti a zodpovednosti. A každý má povinnosť zabezpečovať, aby sme dodržiavali predpisy. ]]></text>
+					<text><![CDATA[Ak si niekedy nebudete istí, opýtajte sa odborníka. Môžete sa poradiť s:<ul> <li>vaším miestnym obchodným manažérom alebo obchodným koordinátorom;</li> <li>regionálnym alebo globálnym obchodným manažérom;</li> <li>obchodným riaditeľom obchodnej jednotky; alebo</li> <li>úradom pre dodržiavanie obchodných pravidiel.</li> </ul>]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> V spoločnosti Johnson Controls každý zodpovedá za to, že pochopí, aký dopad má obchod na ich súvisiace povinnosti a zodpovednosti. A každý má povinnosť zabezpečovať, aby sme dodržiavali predpisy. ]]></text>
+					<text><![CDATA[Ak si niekedy nebudete istí, opýtajte sa odborníka. Môžete sa poradiť s:<ul> <li>vaším miestnym obchodným manažérom alebo obchodným koordinátorom;</li> <li>regionálnym alebo globálnym obchodným manažérom;</li> <li>obchodným riaditeľom obchodnej jednotky; alebo</li> <li>úradom pre dodržiavanie obchodných pravidiel.</li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Mila si nesie svoj firemný prenosný počítač, keď cestuje zo Spojených štátov do Spojeného kráľovstva a potom do Dubaja v Spojených arabských emirátoch. ]]></text>
+				<text><![CDATA[Mala by mať nejaké špeciálne obavy o svoj počítač?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Áno — prenášanie počítača pri cestovaní do zahraničia si môže vyžadovať vývoznú licenciu]]></option>
+                <option><![CDATA[Nie — pokiaľ chráni počítač pred krádežou a má počítač stále pri sebe, všetko by malo byť v poriadku]]></option>
+            </options>
+            <feedback>
+                <correct style="top:35px">
+					<text><![CDATA[<b>Správne.</b> Ručné prenášanie zariadení spoločnosti počas pracovnej cesty do zahraničia sa považuje za dočasný vývoz a môže si vyžadovať vývoznú licenciu v závislosti od údajov uložených v zariadení.]]></text>
+					<text><![CDATA[Pri cestovaní do zahraničia si uvedomte, že na akékoľvek technické údaje alebo technológie, ktoré prenášate, sa môžu vzťahovať vývozné predpisy. Ktorákoľvek z nasledujúcich skutočností môže vyvolať požiadavku štátnej kontroly vývozu:<ul> <li>keď si vezmete firemný počítač do zahraničia,</li><li>prenášanie alebo prenos technických údajov alebo technológií na medzinárodnej úrovni a</li><li>prenos technických údajov počas stretnutí s cudzincami.</li> </ul>]]></text>
+					<text><![CDATA[Ak budete cestovať do zahraničia, nezabudnite s vaším manažérom alebo inou vhodnou osobou v spoločnosti prediskutovať kroky, ktoré musíte urobiť, pokiaľ ide o počítačové vybavenie.]]></text>
+				</correct>
+                <incorrect style="top:35px">
+					<text><![CDATA[<b>To nie je správne.</b> Ručné prenášanie zariadení spoločnosti počas pracovnej cesty do zahraničia sa považuje za dočasný vývoz a môže si vyžadovať vývoznú licenciu v závislosti od údajov uložených v zariadení.]]></text>
+					<text><![CDATA[Pri cestovaní do zahraničia si uvedomte, že na akékoľvek technické údaje alebo technológie, ktoré prenášate, sa môžu vzťahovať vývozné predpisy. Ktorákoľvek z nasledujúcich skutočností môže vyvolať požiadavku štátnej kontroly vývozu:<ul> <li>keď si vezmete firemný počítač do zahraničia,</li><li>prenášanie alebo prenos technických údajov alebo technológií na medzinárodnej úrovni a</li><li>prenos technických údajov počas stretnutí s cudzincami.</li> </ul>]]></text>
+					<text><![CDATA[Ak budete cestovať do zahraničia, nezabudnite s vaším manažérom alebo inou vhodnou osobou v spoločnosti prediskutovať kroky, ktoré musíte urobiť, pokiaľ ide o počítačové vybavenie.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Ktorá z nasledovných možností je vývozom?]]></text>				
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,1,0,1,1">
+                <option><![CDATA[Poskytovanie služieb v zahraničí, ako napríklad opravy alebo inštalácie určitých položiek]]></option>
+                <option><![CDATA[Zverejňovanie technických dokumentov na internete]]></option>
+                <option><![CDATA[Rozhovor s osobou z inej krajiny]]></option>
+                <option><![CDATA[Cestovanie do inej krajiny s vaším telefónom]]></option>
+                <option><![CDATA[Poskytnutie daru osobe z inej krajiny]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Existuje veľa situácií, ktoré predstavujú príležitosti na vývozy, ku ktorým je potrebné dôkladne pristupovať, a to vrátane:<ul> <li>Odosielania alebo zobratia veci do inej krajiny;</li><li>Prevodu registrácie, kontroly alebo vlastníctva veci na subjekt z inej krajiny;</li><li>Ústneho alebo vizuálneho sprístupnenia technických informácií osobe z inej krajiny bez ohľadu na miesto; a</li><li>Poskytovanie technickej pomoci alebo služieb. </li> </ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Existuje veľa situácií, ktoré predstavujú príležitosti na vývozy, ku ktorým je potrebné dôkladne pristupovať, a to vrátane:<ul> <li>Odosielania alebo zobratia veci do inej krajiny;</li><li>Prevodu registrácie, kontroly alebo vlastníctva veci na subjekt z inej krajiny;</li><li>Ústneho alebo vizuálneho sprístupnenia technických informácií osobe z inej krajiny bez ohľadu na miesto; a</li><li>Poskytovanie technickej pomoci alebo služieb. </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Existuje veľa situácií, ktoré predstavujú príležitosti na vývozy, ku ktorým je potrebné dôkladne pristupovať, a to vrátane:<ul> <li>Odosielania alebo zobratia veci do inej krajiny;</li><li>Prevodu registrácie, kontroly alebo vlastníctva veci na subjekt z inej krajiny;</li><li>Ústneho alebo vizuálneho sprístupnenia technických informácií osobe z inej krajiny bez ohľadu na miesto; a</li><li>Poskytovanie technickej pomoci alebo služieb. </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Všetky vývozy si vyžadujú regulačné povolenie.  Je toto tvrdenie pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+				<correct>
+					<text><![CDATA[<b>Správne.</b> Všetky vývozy výrobkov, technológie, softvéru a služieb si vyžadujú povolenie. Typ povolenia sa môže líšiť v závislosti od veci a súvisiacich kontrol, avšak povolenie sa vyžaduje vždy a musí byť deklarované alebo zdokumentované. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Všetky vývozy výrobkov, technológie, softvéru a služieb si vyžadujú povolenie. Typ povolenia sa môže líšiť v závislosti od veci a súvisiacich kontrol, avšak povolenie sa vyžaduje vždy a musí byť deklarované alebo zdokumentované. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Ak zistíte potenciálne porušenie vývozu alebo sa o ňom dozviete, aké opatrenia musíte vykonať?]]></text>
+			</questionText>
+             <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,0,1,0">
+                <option><![CDATA[Pokúsiť sa zastaviť porušovanie alebo zabrániť jeho pokračovaniu]]></option>
+                <option><![CDATA[Vyšetriť]]></option>
+                <option><![CDATA[Oznámiť to členovi tímu pre dodržiavanie obchodných predpisov alebo právneho tímu]]></option>
+                <option><![CDATA[Ignorovať to, pretože si nie ste istí, že ide o problém]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Každý zamestnanec spoločnosti Johnson Controls, ktorý je svedkom konania zahŕňajúceho potenciálne porušenie obchodných požiadaviek, je povinný vykonať potrebné a primerané opatrenia za účelom zastavenia takýchto činností a je povinný okamžite oznámiť tieto informácie členovi tímu pre dodržiavanie obchodných predpisov alebo právneho tímu.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Každý zamestnanec spoločnosti Johnson Controls, ktorý je svedkom konania zahŕňajúceho potenciálne porušenie obchodných požiadaviek, je povinný vykonať potrebné a primerané opatrenia za účelom zastavenia takýchto činností a je povinný okamžite oznámiť tieto informácie členovi tímu pre dodržiavanie obchodných predpisov alebo právneho tímu.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Každý zamestnanec spoločnosti Johnson Controls, ktorý je svedkom konania zahŕňajúceho potenciálne porušenie obchodných požiadaviek, je povinný vykonať potrebné a primerané opatrenia za účelom zastavenia takýchto činností a je povinný okamžite oznámiť tieto informácie členovi tímu pre dodržiavanie obchodných predpisov alebo právneho tímu.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Ak dostanete žiadosť od zákazníka, ktorý podporuje neschválený bojkot, aké opatrenie(-a) by ste mali vykonať?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,0,0,1">
+                <option><![CDATA[Oznámiť žiadosť členovi tímu pre dodržiavanie obchodných predpisov]]></option>
+                <option><![CDATA[Jeho žiadosť by ste mali ignorovať]]></option>
+                <option><![CDATA[Reagujte na požiadavku priaznivo – zákazníkov musíme udržať za každú cenu spokojných ]]></option>
+                <option><![CDATA[Nevykonávajte žiadne ďalšie činnosti, kým vám neposkytne radu tím pre dodržiavanie obchodných predpisov]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 38px;padding-bottom: 15px;">
+					<text><![CDATA[<b>Správne.</b> Niektoré krajiny alebo medzinárodné organizácie robia bojkoty, ako napríklad bojkot Izraela Ligou arabských štátov, a môžu požiadať spoločnosť Johnson Controls, aby sa ho zúčastnila alebo ho podporila.]]></text>					
+					<text><![CDATA[Žiadosť môže byť decentná. Spoločnosť Johnson Controls napríklad dostane od kupujúceho zmluvu v nasledujúcom znení:]]></text>
+					<text><![CDATA[„Predávajúci ručí za to, že žiadna časť dodávaného výrobku nebude obsahovať žiadny materiál vyrábaný alebo vyvážaný spoločnosťami bojkotovanými podľa predpisov kráľovstva Saudskej Arábie."]]></text>
+					<text><![CDATA[Ak dostanete žiadosť o bojkot, nevykonávajte žiadne činnosti a oznámte to členovi tímu pre dodržiavanie obchodných predpisov, ktorý vám poradí, ako postupovať. Podľa zákonov o dodržiavaní obchodných predpisov máme zakázané podporovať niektoré žiadosti o bojkot. Taktiež sme povinní oznamovať takéto žiadosti štátnym orgánom USA.]]></text>					
+				</correct>
+                <partialCorrect style="top: 38px;padding-bottom: 15px;">
+					<text><![CDATA[<b>Čiastočne správne.</b> Niektoré krajiny alebo medzinárodné organizácie robia bojkoty, ako napríklad bojkot Izraela Ligou arabských štátov, a môžu požiadať spoločnosť Johnson Controls, aby sa ho zúčastnila alebo ho podporila.]]></text>					
+					<text><![CDATA[Žiadosť môže byť decentná. Spoločnosť Johnson Controls napríklad dostane od kupujúceho zmluvu v nasledujúcom znení:]]></text>
+					<text><![CDATA[„Predávajúci ručí za to, že žiadna časť dodávaného výrobku nebude obsahovať žiadny materiál vyrábaný alebo vyvážaný spoločnosťami bojkotovanými podľa predpisov kráľovstva Saudskej Arábie."]]></text>
+					<text><![CDATA[Ak dostanete žiadosť o bojkot, nevykonávajte žiadne činnosti a oznámte to členovi tímu pre dodržiavanie obchodných predpisov, ktorý vám poradí, ako postupovať. Podľa zákonov o dodržiavaní obchodných predpisov máme zakázané podporovať niektoré žiadosti o bojkot. Taktiež sme povinní oznamovať takéto žiadosti štátnym orgánom USA.]]></text>					
+				</partialCorrect>
+                <incorrect style="top: 38px;padding-bottom: 15px;">
+					<text><![CDATA[<b>To nie je správne.</b> Niektoré krajiny alebo medzinárodné organizácie robia bojkoty, ako napríklad bojkot Izraela Ligou arabských štátov, a môžu požiadať spoločnosť Johnson Controls, aby sa ho zúčastnila alebo ho podporila.]]></text>					
+					<text><![CDATA[Žiadosť môže byť decentná. Spoločnosť Johnson Controls napríklad dostane od kupujúceho zmluvu v nasledujúcom znení:]]></text>
+					<text><![CDATA[„Predávajúci ručí za to, že žiadna časť dodávaného výrobku nebude obsahovať žiadny materiál vyrábaný alebo vyvážaný spoločnosťami bojkotovanými podľa predpisov kráľovstva Saudskej Arábie."]]></text>
+					<text><![CDATA[Ak dostanete žiadosť o bojkot, nevykonávajte žiadne činnosti a oznámte to členovi tímu pre dodržiavanie obchodných predpisov, ktorý vám poradí, ako postupovať. Podľa zákonov o dodržiavaní obchodných predpisov máme zakázané podporovať niektoré žiadosti o bojkot. Taktiež sme povinní oznamovať takéto žiadosti štátnym orgánom USA.]]></text>	
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Ktoré z nasledujúcich krajín v súčasnosti podliehajú komplexným sankciám?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,0,1,0,0">
+                <option><![CDATA[Irán]]></option>
+                <option><![CDATA[Čína]]></option>
+                <option><![CDATA[Severná Kórea]]></option>
+                <option><![CDATA[Kongo]]></option>
+                <option><![CDATA[Líbya]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text><![CDATA[<b>Správne.</b> Okrem a nad rámec zákonov a nariadení mnohé krajiny zavádzajú obmedzenia obchodu prostredníctvom uvalenia sankcií a embárg. Sankcie môžu byť jednostranné, od jednej krajiny voči inej krajine, prípadne môžu odrážať medzinárodné rozhodnutie medzivládnych organizácií, ako napríklad Organizácia spojených národov. Embargá sa uvaľujú na celé krajiny, ale sankcie môžu byť zamerané buď na celú krajinu, alebo len na právnické a fyzické osoby, všeobecne známe ako „odmietnuté strany“.  Vlády si vyhradzujú právo vydávať licencie na zapájanie sa do určitých transakcií s cieľmi sankcií alebo embárg (napr. na podporu humanitárnych aktivít). Tieto sankcie a embargá môžu obmedziť:<ul> <li>s kým môže spoločnosť Johnson Controls legálne obchodovať,</li><li>čo môže spoločnosť Johnson Controls legálne obchodovať a</li><li>kde môže spoločnosť Johnson Controls legálne obchodovať. </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Spoločnosť Johnson Controls zverejňuje na intranete spoločnosti Johnson Controls zoznam krajín, na ktoré sú uvalené embargá, ktorý sa aktualizuje tak, aby bol stále v súlade so zásadami a predpismi spoločnosti. ]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;">
+					<text><![CDATA[<b>Čiastočne správne.</b> Okrem a nad rámec zákonov a nariadení mnohé krajiny zavádzajú obmedzenia obchodu prostredníctvom uvalenia sankcií a embárg. Sankcie môžu byť jednostranné, od jednej krajiny voči inej krajine, prípadne môžu odrážať medzinárodné rozhodnutie medzivládnych organizácií, ako napríklad Organizácia spojených národov. Embargá sa uvaľujú na celé krajiny, ale sankcie môžu byť zamerané buď na celú krajinu, alebo len na právnické a fyzické osoby, všeobecne známe ako „odmietnuté strany“.  Vlády si vyhradzujú právo vydávať licencie na zapájanie sa do určitých transakcií s cieľmi sankcií alebo embárg (napr. na podporu humanitárnych aktivít). Tieto sankcie a embargá môžu obmedziť:<ul> <li>s kým môže spoločnosť Johnson Controls legálne obchodovať,</li><li>čo môže spoločnosť Johnson Controls legálne obchodovať a</li><li>kde môže spoločnosť Johnson Controls legálne obchodovať. </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Spoločnosť Johnson Controls zverejňuje na intranete spoločnosti Johnson Controls zoznam krajín, na ktoré sú uvalené embargá, ktorý sa aktualizuje tak, aby bol stále v súlade so zásadami a predpismi spoločnosti. ]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>To nie je správne.</b> Okrem a nad rámec zákonov a nariadení mnohé krajiny zavádzajú obmedzenia obchodu prostredníctvom uvalenia sankcií a embárg. Sankcie môžu byť jednostranné, od jednej krajiny voči inej krajine, prípadne môžu odrážať medzinárodné rozhodnutie medzivládnych organizácií, ako napríklad Organizácia spojených národov. Embargá sa uvaľujú na celé krajiny, ale sankcie môžu byť zamerané buď na celú krajinu, alebo len na právnické a fyzické osoby, všeobecne známe ako „odmietnuté strany“.  Vlády si vyhradzujú právo vydávať licencie na zapájanie sa do určitých transakcií s cieľmi sankcií alebo embárg (napr. na podporu humanitárnych aktivít). Tieto sankcie a embargá môžu obmedziť:<ul> <li>s kým môže spoločnosť Johnson Controls legálne obchodovať,</li><li>čo môže spoločnosť Johnson Controls legálne obchodovať a</li><li>kde môže spoločnosť Johnson Controls legálne obchodovať. </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Spoločnosť Johnson Controls zverejňuje na intranete spoločnosti Johnson Controls zoznam krajín, na ktoré sú uvalené embargá, ktorý sa aktualizuje tak, aby bol stále v súlade so zásadami a predpismi spoločnosti. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Aký dopad majú ekonomické obchodné sankcie na spoločnosti ako je spoločnosť Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,0,1,1">
+                <option><![CDATA[Uvaľujú obmedzenia týkajúce sa právnických a fyzických osôb, s ktorými môže spoločnosť Johnson Controls legálne obchodovať]]></option>
+                <option><![CDATA[Uvaľujú obmedzenia na povahu našich interakcií s konkurenciou]]></option>
+                <option><![CDATA[Uvaľujú obmedzenia na výrobky (hardvér), technické údaje, technológie, softvér a/alebo služby, ktoré môže spoločnosť Johnson Controls predávať]]></option>
+                <option><![CDATA[Uvaľujú obmedzenia na to, kde môže spoločnosť Johnson Controls obchodovať]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Sankcie zvyčajne zahŕňajú opatrenia, akými sú obmedzenia dovozu a vývozu alebo embargo na dodávku určitých tovarov a služieb. Takéto sankcie môžu určiť:<ul> <li>s kým môže spoločnosť Johnson Controls legálne obchodovať (právnické a fyzické osoby),</li><li>čo môže spoločnosť Johnson Controls legálne obchodovať (výrobky, služby a technológie),</li><li>kde môže spoločnosť Johnson Controls legálne obchodovať (krajiny a oblasti). </li> </ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Sankcie zvyčajne zahŕňajú opatrenia, akými sú obmedzenia dovozu a vývozu alebo embargo na dodávku určitých tovarov a služieb. Takéto sankcie môžu určiť:<ul> <li>s kým môže spoločnosť Johnson Controls legálne obchodovať (právnické a fyzické osoby),</li><li>čo môže spoločnosť Johnson Controls legálne obchodovať (výrobky, služby a technológie),</li><li>kde môže spoločnosť Johnson Controls legálne obchodovať (krajiny a oblasti). </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Sankcie zvyčajne zahŕňajú opatrenia, akými sú obmedzenia dovozu a vývozu alebo embargo na dodávku určitých tovarov a služieb. Takéto sankcie môžu určiť:<ul> <li>s kým môže spoločnosť Johnson Controls legálne obchodovať (právnické a fyzické osoby),</li><li>čo môže spoločnosť Johnson Controls legálne obchodovať (výrobky, služby a technológie),</li><li>kde môže spoločnosť Johnson Controls legálne obchodovať (krajiny a oblasti). </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Roger sa chystá zadať objednávku zahraničnému distribútorovi a distribútor bude ďalej predávať svojmu zákazníkovi. Čo musí Roger urobiť pred zadaním objednávky? ]]></text>
+			</questionText>
+           <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,0,1">
+                <option><![CDATA[Overiť, či distribútor, ako ani koncový zákazník nie sú zakázaným koncovým používateľom]]></option>
+                <option><![CDATA[Overiť, či koncový zákazník nesídli v zakázanej destinácii]]></option>
+                <option><![CDATA[Overiť, či výrobok nie je určený na zakázané konečné použitie]]></option>
+                <option><![CDATA[Všetky vyššie uvedené, prípadne zmluvne zaviazať distribútora, aby nepredával zakázaným alebo obmedzeným koncovým používateľom alebo na konečné použitie bez povolenia]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text><![CDATA[<b>Správne.</b> Roger dodáva výrobok, ktorý sa bude ďalej predávať, preto musí overiť, že koncový zákazník nie je zakázaným koncovým používateľom so sídlom v zakázanej destinácii alebo že nebude používať výrobok na zakázané konečné použitie. Alternatívne musí Roger legálne zaviazať distribútora, aby nepredával ich výrobky na zakázané alebo obmedzené konečné použitie alebo koncovému používateľovi bez povolenia.]]></text>
+					<text><![CDATA[Vždy sa uistite, že zákazníci, obchodní partneri, dodávatelia, poskytovatelia služieb, zástupcovia, konzultanti a distribútori nie sú zakázané strany. Spoločnosť Johnson Controls disponuje softvérovým nástrojom, ktorý môžu zamestnanci použiť na lustráciu zakázaných strán. Ak sa identifikuje potenciálna zhoda, musíte zásielku pozdržať a kontaktovať tím pre dodržiavanie obchodných predpisov, ktorý vám poskytne podporu.]]></text>
+				</correct >
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>To nie je správne.</b> Roger dodáva výrobok, ktorý sa bude ďalej predávať, preto musí overiť, že koncový zákazník nie je zakázaným koncovým používateľom so sídlom v zakázanej destinácii alebo že nebude používať výrobok na zakázané konečné použitie. Alternatívne musí Roger legálne zaviazať distribútora, aby nepredával ich výrobky na zakázané alebo obmedzené konečné použitie alebo koncovému používateľovi bez povolenia.]]></text>
+					<text><![CDATA[Vždy sa uistite, že zákazníci, obchodní partneri, dodávatelia, poskytovatelia služieb, zástupcovia, konzultanti a distribútori nie sú zakázané strany. Spoločnosť Johnson Controls disponuje softvérovým nástrojom, ktorý môžu zamestnanci použiť na lustráciu zakázaných strán. Ak sa identifikuje potenciálna zhoda, musíte zásielku pozdržať a kontaktovať tím pre dodržiavanie obchodných predpisov, ktorý vám poskytne podporu.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johan pracuje v stánku spoločnosti Johnson Controls na Medzinárodnej výstave klimatizácií, vykurovacej a chladiacej techniky v Las Vegas, v Nevade, keď k nemu pristúpi cudzinec a opýta sa ho niekoľko technicky veľmi detailných otázok o chladiacich zariadeniach York Chillers.  Ako by mal Johan reagovať?  ]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Poskytnúť osobe požadovanú technickú odpoveď]]></option>
+                <option><![CDATA[Predstierať, že nerozumie otázkam]]></option>
+                <option><![CDATA[Reagovať len verejne dostupnými informáciami a vyhnúť sa technickým detailom.]]></option>
+                <option><![CDATA[Poskytnúť osobe náhodné technické údaje, ktoré sa netýkajú modelov York Chillers]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Poskytovanie technických informácií osobe z inej krajiny, a to dokonca aj verbálne a ešte k tomu v USA, je vývozom, ktorý si vyžaduje povolenie. Keďže osoba je cudzincom, Johan nevie, či táto osoba nepochádza z inej krajiny alebo ju nezastupuje. Okrem toho technické údaje môžu byť súkromným vlastníctvom spoločnosti Johnson Controls a nesmú sa sprístupňovať cudzincom. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Poskytovanie technických informácií osobe z inej krajiny, a to dokonca aj verbálne a ešte k tomu v USA, je vývozom, ktorý si vyžaduje povolenie. Keďže osoba je cudzincom, Johan nevie, či táto osoba nepochádza z inej krajiny alebo ju nezastupuje. Okrem toho technické údaje môžu byť súkromným vlastníctvom spoločnosti Johnson Controls a nesmú sa sprístupňovať cudzincom. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Chen pripravuje zásielku na vývoz. Vylustruje meno zákazníka pomocou softvérového nástroja spoločnosti Johnson Controls a jeho meno je potenciálnou zhodou so zakázanou stranou. Čo by mal Chen urobiť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Kontaktovať zákazníka za účelom overenia jeho totožnosti]]></option>
+                <option><![CDATA[Požiadať o radu tím pre dodržiavanie obchodných predpisov spoločnosti Johnson Controls]]></option>
+                <option><![CDATA[Zrušiť zásielku]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Všetci zamestnanci, ktorí sa zaoberajú vývozom, musia zabezpečiť, že zákazníci, obchodní partneri, dodávatelia, poskytovatelia služieb, zástupcovia, konzultanti a distribútori nie sú zakázané strany. Spoločnosť Johnson Controls disponuje softvérovým nástrojom, ktorý môžu zamestnanci použiť na lustráciu zakázaných strán. Chen to urobil a identifikoval potenciálnu zhodu, a preto musí zásielku pozdržať a kontaktovať tím pre dodržiavanie obchodných predpisov, ktorý mu poskytne podporu.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Všetci zamestnanci, ktorí sa zaoberajú vývozom, musia zabezpečiť, že zákazníci, obchodní partneri, dodávatelia, poskytovatelia služieb, zástupcovia, konzultanti a distribútori nie sú zakázané strany. Spoločnosť Johnson Controls disponuje softvérovým nástrojom, ktorý môžu zamestnanci použiť na lustráciu zakázaných strán. Chen to urobil a identifikoval potenciálnu zhodu, a preto musí zásielku pozdržať a kontaktovať tím pre dodržiavanie obchodných predpisov, ktorý mu poskytne podporu.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Obchodné predpisy USA sú extrateritoriálne, takže ktoré z nasledujúcich možností podliehajú predpisom USA?  ]]></text>
+			</questionText>
+             <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Osoby v USA, bez ohľadu na miesto alebo zamestnávateľa]]></option>
+                <option><![CDATA[Kontrolované produkty a technické údaje ITAR s pôvodom v USA, a to bez ohľadu na to, či sú zabudované do výrobku vyrobeného mimo USA alebo nachádzajúcom sa mimo USA]]></option>
+                <option><![CDATA[Obchodné položky s pôvodom v USA]]></option>
+                <option><![CDATA[Obchodné položky aj s minimálnou hodnotou s pôvodom v USA, ktoré sú zabudované do položky určenej pre Irán]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 160px;">
+					<text><![CDATA[<b>Správne.</b> Obchodné predpisy USA sú extrateritoriálne. <ul> <li>Všetky položky a technológie nachádzajúce sa v USA alebo držané osobami z USA podliehajú obchodným predpisom a nariadeniam USA.  </li><li>Všetky položky s pôvodom v USA, a to bez ohľadu na ich súčasnú geografickú polohu, podliehajú obchodným predpisom a nariadeniam USA.  </li><li>Všetky položky nepochádzajúce z USA vyrobené prostredníctvom dielov alebo technických údajov s pôvodom v USA kontrolované podľa ITAR podliehajú obchodným predpisom a nariadeniam USA. </li><li>Všetky položky nepochádzajúce z USA vyrobené prostredníctvom dielov alebo technických údajov s pôvodom v USA kontrolované podľa EAR podliehajú obchodným predpisom a nariadeniam USA, ak je splnená minimálna prahová hodnota (ak existuje minimálna prahová hodnota pre ECCN) alebo sa na cieľovú krajinu vzťahujú sankcie. </li><li>Všetky osoby z USA, a to bez ohľadu na ich súčasnú geografickú polohu, podliehajú obchodným predpisom a nariadeniam USA a sú povinné ich dodržiavať. </li> </ul><br>]]></text>
+				</correct>
+                <partialCorrect style="height: 160px;">
+					<text><![CDATA[<b>Čiastočne správne.</b> Obchodné predpisy USA sú extrateritoriálne. <ul> <li>Všetky položky a technológie nachádzajúce sa v USA alebo držané osobami z USA podliehajú obchodným predpisom a nariadeniam USA.  </li><li>Všetky položky s pôvodom v USA, a to bez ohľadu na ich súčasnú geografickú polohu, podliehajú obchodným predpisom a nariadeniam USA.  </li><li>Všetky položky nepochádzajúce z USA vyrobené prostredníctvom dielov alebo technických údajov s pôvodom v USA kontrolované podľa ITAR podliehajú obchodným predpisom a nariadeniam USA. </li><li>Všetky položky nepochádzajúce z USA vyrobené prostredníctvom dielov alebo technických údajov s pôvodom v USA kontrolované podľa EAR podliehajú obchodným predpisom a nariadeniam USA, ak je splnená minimálna prahová hodnota (ak existuje minimálna prahová hodnota pre ECCN) alebo sa na cieľovú krajinu vzťahujú sankcie. </li><li>Všetky osoby z USA, a to bez ohľadu na ich súčasnú geografickú polohu, podliehajú obchodným predpisom a nariadeniam USA a sú povinné ich dodržiavať. </li> </ul><br>]]></text>
+				</partialCorrect>
+                <incorrect style="height: 160px;">
+					<text><![CDATA[<b>To nie je správne.</b> Obchodné predpisy USA sú extrateritoriálne. <ul> <li>Všetky položky a technológie nachádzajúce sa v USA alebo držané osobami z USA podliehajú obchodným predpisom a nariadeniam USA.  </li><li>Všetky položky s pôvodom v USA, a to bez ohľadu na ich súčasnú geografickú polohu, podliehajú obchodným predpisom a nariadeniam USA.  </li><li>Všetky položky nepochádzajúce z USA vyrobené prostredníctvom dielov alebo technických údajov s pôvodom v USA kontrolované podľa ITAR podliehajú obchodným predpisom a nariadeniam USA. </li><li>Všetky položky nepochádzajúce z USA vyrobené prostredníctvom dielov alebo technických údajov s pôvodom v USA kontrolované podľa EAR podliehajú obchodným predpisom a nariadeniam USA, ak je splnená minimálna prahová hodnota (ak existuje minimálna prahová hodnota pre ECCN) alebo sa na cieľovú krajinu vzťahujú sankcie. </li><li>Všetky osoby z USA, a to bez ohľadu na ich súčasnú geografickú polohu, podliehajú obchodným predpisom a nariadeniam USA a sú povinné ich dodržiavať. </li> </ul><br>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Aké druhy dokumentov môžu podliehať obmedzeniam vývozu?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Podrobné návody]]></option>
+                <option><![CDATA[Vzorce]]></option>
+                <option><![CDATA[Príručky]]></option>
+                <option><![CDATA[Návody]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 160px;">
+					<text><![CDATA[<b>Správne.</b> V kontexte obchodných kontrol podlieha akýkoľvek dokument, ktorý obsahuje technologické informácie, kontrole vývozu.  Technické informácie zahŕňajú informácie, ktoré sú potrebné pri návrhu, vývoji, produkcii, výrobe, montáži, prevádzke, oprave, skúšaní, údržbe alebo úprave výrobku, ako aj utajované informácie týkajúce sa výrobkov, informácie, ktoré majú charakter vynálezcovského tajomstva a softvér.]]></text>
+					<text><![CDATA[Medzi príklady technických informácií patria: <ul> <li>Podrobné návody</li><li>Výkresy</li><li>Fotografie</li><li>Plány</li><li>Schémy</li><li>Modely</li><li>Vzorce</li><li>Tabuľky</li><li>Technické návrhy</li><li>Technické údaje</li><li>Príručky</li><li>Návody</li></ul><br>]]></text>
+				</correct>
+                <partialCorrect style="height: 160px;">
+					<text><![CDATA[<b>Čiastočne správne.</b> V kontexte obchodných kontrol podlieha akýkoľvek dokument, ktorý obsahuje technologické informácie, kontrole vývozu.  Technické informácie zahŕňajú informácie, ktoré sú potrebné pri návrhu, vývoji, produkcii, výrobe, montáži, prevádzke, oprave, skúšaní, údržbe alebo úprave výrobku, ako aj utajované informácie týkajúce sa výrobkov, informácie, ktoré majú charakter vynálezcovského tajomstva a softvér.]]></text>
+					<text><![CDATA[Medzi príklady technických informácií patria: <ul> <li>Podrobné návody</li><li>Výkresy</li><li>Fotografie</li><li>Plány</li><li>Schémy</li><li>Modely</li><li>Vzorce</li><li>Tabuľky</li><li>Technické návrhy</li><li>Technické údaje</li><li>Príručky</li><li>Návody</li></ul><br>]]></text>
+				</partialCorrect>
+                <incorrect style="height: 160px;">
+					<text><![CDATA[<b>To nie je správne.</b> V kontexte obchodných kontrol podlieha akýkoľvek dokument, ktorý obsahuje technologické informácie, kontrole vývozu.  Technické informácie zahŕňajú informácie, ktoré sú potrebné pri návrhu, vývoji, produkcii, výrobe, montáži, prevádzke, oprave, skúšaní, údržbe alebo úprave výrobku, ako aj utajované informácie týkajúce sa výrobkov, informácie, ktoré majú charakter vynálezcovského tajomstva a softvér.]]></text>
+					<text><![CDATA[Medzi príklady technických informácií patria: <ul> <li>Podrobné návody</li><li>Výkresy</li><li>Fotografie</li><li>Plány</li><li>Schémy</li><li>Modely</li><li>Vzorce</li><li>Tabuľky</li><li>Technické návrhy</li><li>Technické údaje</li><li>Príručky</li><li>Návody</li></ul><br>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Ktoré z nasledujúcich kritérií by sa dalo kvalifikovať ako opätovný vývoz alebo opätovný prevod, ktorý si môže vyžadovať povolenie?]]></text>
+			</questionText>
+             <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,0,1">
+                <option><![CDATA[Prevod predtým vyvezeného výrobku na nového koncového používateľa]]></option>
+                <option><![CDATA[Prevod predtým vyvezeného výrobku do vášho zariadenia o päť míľ ďalej]]></option>
+                <option><![CDATA[Prevod predtým vyvezeného výrobku na dodávateľa z rovnakej krajiny]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Opätovný vývoz alebo opätovný prevod sa definuje ako akýkoľvek prevod výrobku, údajov, položky obsahujúcej tovar s kontrolovaným vývozom alebo položky vyrobenej pomocou technických informácií s kontrolovaných vývozom na konečné použitie, koncovému používateľovi alebo do akejkoľvek destinácie alebo subjektu, ktorý nebol predtým povolený.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Opätovný vývoz alebo opätovný prevod sa definuje ako akýkoľvek prevod výrobku, údajov, položky obsahujúcej tovar s kontrolovaným vývozom alebo položky vyrobenej pomocou technických informácií s kontrolovaných vývozom na konečné použitie, koncovému používateľovi alebo do akejkoľvek destinácie alebo subjektu, ktorý nebol predtým povolený.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Opätovný vývoz alebo opätovný prevod sa definuje ako akýkoľvek prevod výrobku, údajov, položky obsahujúcej tovar s kontrolovaným vývozom alebo položky vyrobenej pomocou technických informácií s kontrolovaných vývozom na konečné použitie, koncovému používateľovi alebo do akejkoľvek destinácie alebo subjektu, ktorý nebol predtým povolený.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 
+    </module>
+	<module id="6" pick="3">
+       
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Ktorá z nasledovných možností je pravdivá?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Pri všetkých obchodných transakciách v mene spoločnosti Johnson Controls musíte byť spravodliví – aj pri rokovaniach s konkurenciou ]]></option>
+                <option><![CDATA[Pri všetkých obchodných rokovaniach v mene spoločnosti Johnson Controls musíte urobiť všetko, čo je vo vašich silách, aby ste chránili spoločnosť Johnson Controls pred novými spoločnosťami, ktoré sa jej snažia konkurovať]]></option>
+                <option><![CDATA[Pri všetkých obchodných rokovaniach v mene spoločnosti Johnson Controls musíte urobiť všetko, čo je vo vašich silách, aby ste dali novým spoločnostiam príležitosť konkurovať]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Zákony o hospodárskej súťaži sa v jednotlivých krajinách líšia, ale vo všeobecnosti sa opierajú o tri hlavné zásady:<ul><li>Podpora voľby spotrebiteľov</li><li>Podpora spravodlivých obchodných rokovaní</li><li>Odmeňovanie inovácie a neustáleho zlepšovania</li></ul>]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Zákony o hospodárskej súťaži sa v jednotlivých krajinách líšia, ale vo všeobecnosti sa opierajú o tri hlavné zásady:<ul><li>Podpora voľby spotrebiteľov</li><li>Podpora spravodlivých obchodných rokovaní</li><li>Odmeňovanie inovácie a neustáleho zlepšovania</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Ted je na priemyselnej konferencii, kde sa stretne so zástupcom hlavného konkurenta spoločnosti Johnson Controls. Ktoré z týchto tém môže Ted prediskutovať s konkurentom?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0,0,0">
+                <option><![CDATA[Novú legislatívu, ktorá môže negatívne ovplyvniť konkurencieschopnosť celého odvetvia]]></option>
+                <option><![CDATA[Plánované zmeny cien, ktoré jeho spoločnosť účtuje svojim zákazníkom]]></option>
+                <option><![CDATA[Nedávne zvýšenie nákladov v dôsledku zavedenia nového daňového režimu]]></option>
+                <option><![CDATA[Plán jeho spoločnosti na predloženie ponuky na lukratívnu zmluvu]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Ted sa musí vyhýbať diskusiám s konkurenciou o ponukách, cenách, nákladoch alebo iných citlivých obchodných záležitostiach a vždy konzultuje s právnym oddelením všetky kontakty s konkurenciou.]]></text>
+					<text><![CDATA[Niektoré rozhovory s konkurenciou môžu byť legitímne a môžu dokonca podporiť hospodársku súťaž, ale určité výmeny informácií by sa mohli považovať za pokus o uzavretie antikonkurenčnej dohody. Ak máte pochybnosti, odíďte a oznámte rozhovor právnemu oddeleniu.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Ted sa musí vyhýbať diskusiám s konkurenciou o ponukách, cenách, nákladoch alebo iných citlivých obchodných záležitostiach a vždy konzultuje s právnym oddelením všetky kontakty s konkurenciou.]]></text>
+					<text><![CDATA[Niektoré rozhovory s konkurenciou môžu byť legitímne a môžu dokonca podporiť hospodársku súťaž, ale určité výmeny informácií by sa mohli považovať za pokus o uzavretie antikonkurenčnej dohody. Ak máte pochybnosti, odíďte a oznámte rozhovor právnemu oddeleniu.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Antitrustové zákony vo všeobecnosti zakazujú konkurenčným spoločnostiam dodávať si navzájom výrobky a služby.]]></text>
+				<text><![CDATA[Je toto tvrdenie pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Je v súlade s právnymi predpismi, aby si konkurenti boli navzájom dodávateľmi alebo zákazníkmi.]]></text>
+					<text><![CDATA[Je však v rozpore s právnymi predpismi, aby konkurenti používali dodávateľský reťazec na obmedzenie obchodu, ako napríklad tak, že sa dohodnú na rozdelení trhu. Antitrustové zákony zakazujú tento typ konania.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Je v súlade s právnymi predpismi, aby si konkurenti boli navzájom dodávateľmi alebo zákazníkmi.]]></text>
+					<text><![CDATA[Je však v rozpore s právnymi predpismi, aby konkurenti používali dodávateľský reťazec na obmedzenie obchodu, ako napríklad tak, že sa dohodnú na rozdelení trhu. Antitrustové zákony zakazujú tento typ konania.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Barbare, zamestnankyni spoločnosti Johnson Controls, zavolala Bonnie, výkonná pracovníčka u jedného z konkurentov spoločnosti Johnson Controls. Bonnie sa pýtala, či spoločnosť Johnson Controls bude ochotná zvýšiť svoje ceny na niektorých trhoch v Európe, ak jej spoločnosť bude súhlasiť so znížením cien v Severnej Amerike. Ak by Barbara súhlasila s návrhom Bonnie, čo by urobila? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Spoločnosť Johnson Controls by vstúpila do nezákonnej schémy stanovovania cien]]></option>
+                <option><![CDATA[Neporušuje antitrustové zákony, pretože dohoda Barbary a Bonnie by pomohla rovnakému počtu zákazníkov, akému by zároveň ublížila]]></option>
+                <option><![CDATA[Spoločnosť Johnson Controls by vstúpila do nezákonnej schémy manipulácie s ponukami]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Dohoda v takej forme, ako bola načrtnutá, predstavuje stanovovanie cien. Takéto správanie je protiprávne a v spoločnosti Johnson Controls prísne zakázané.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Dohoda v takej forme, ako bola načrtnutá, predstavuje stanovovanie cien. Takéto správanie je protiprávne a v spoločnosti Johnson Controls prísne zakázané.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Lucy, obchodná manažérka u dlhoročného konkurenta spoločnosti Johnson Controls, zavolá, aby požiadala spoločnosť Johnson Controls o to, aby nepredkladala ponuku na projekt. Lucy na oplátku sľubuje, že jej spoločnosť nebude spoločnosti Johnson Controls konkurovať pri ľubovoľných dvoch projektoch, ktoré si vyberieme. Čo by ste mali Lucy povedať?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Že má súhlasiť, pretože je to z dlhodobého hľadiska dobré pre spoločnosť Johnson Controls.]]></option>
+                <option><![CDATA[Že má súhlasiť, pretože táto dohoda je etická, keďže nedochádza k žiadnym platbám.]]></option>
+                <option><![CDATA[Že nemá súhlasiť, pretože Lucy navrhuje nezákonný systém predkladania ponúk.]]></option>
+			</options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Manipulácia s ponukami je formou nezákonného protisúťažného správania, ktoré by mohlo viesť k trestnému stíhaniu a prísnym trestom. V spoločnosti Johnson Controls je prísne zakázaná.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Manipulácia s ponukami je formou nezákonného protisúťažného správania, ktoré by mohlo viesť k trestnému stíhaniu a prísnym trestom. V spoločnosti Johnson Controls je prísne zakázaná.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Dohoda medzi konkurentmi môže porušovať antitrustové zákony, aj keď dohoda nemá písomnú formu.]]></text>
+				<text><![CDATA[Je toto tvrdenie pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+             <options answer="1,0">
+                <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Akákoľvek dohoda medzi konkurentmi o obmedzení obchodu, písomná, ústna a predpokladaná zo správania alebo inak, môže porušovať antitrustové zákony.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Akákoľvek dohoda medzi konkurentmi o obmedzení obchodu, písomná, ústna a predpokladaná zo správania alebo inak, môže porušovať antitrustové zákony.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Amande, obchodnej manažérke spoločnosti Johnson Controls, zavolal Aaron, výkonný pracovník u jedného z hlavných konkurentov spoločnosti Johnson Controls. Aaron sa opýta Amandy, prečo spoločnosť Johnson Controls predávala zákazníkom na trhoch, ktoré „patria“ Aaronovi a jeho spoločnosti a požaduje, aby Amanda odstavila svoj obchodný tím z predaja na týchto trhoch. Ak by Amanda súhlasila s požiadavkami Aarona, čo by urobila?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Spoločnosť Johnson Controls by vstúpila do protiprávnej schémy fixovania cien]]></option>
+                <option><![CDATA[Posilňovala by reputáciu a obchodné vzťahy spoločnosti Johnson Controls]]></option>
+                <option><![CDATA[Spoločnosť Johnson Controls by vstúpila do protiprávnej schémy rozdelenia trhu]]></option>
+                <option><![CDATA[Žiadny z vyššie uvedených výrokov]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Ak by Amanda súhlasila s požiadavkou Aarona, potom by spoločnosť Johnson Controls skutočne vstúpila do protiprávnej schémy rozdelenia trhu. Dohody medzi konkurentmi o rozdelení trhov alebo zákazníkov sú rozdeľovaním trhu a sú protiprávne. Červeným príznakom pre schémy rozdeľovania trhu je fráza ako „ukončite predaj „mojim“ zákazníkom.“]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Ak by Amanda súhlasila s požiadavkou Aarona, potom by spoločnosť Johnson Controls skutočne vstúpila do protiprávnej schémy rozdelenia trhu. Dohody medzi konkurentmi o rozdelení trhov alebo zákazníkov sú rozdeľovaním trhu a sú protiprávne. Červeným príznakom pre schémy rozdeľovania trhu je fráza ako „ukončite predaj „mojim“ zákazníkom.“]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Spoločnosť Johnson Controls a všetci zamestnanci, ktorých sa to týka, môžu za porušenie antitrustových zákonov čeliť trestnoprávnym sankciám, a to vrátane veľkých pokút a trestov odňatia slobody.]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+			<options answer="1,0">
+                <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Väčšina antitrustových zákonov zakotvuje trestnoprávne sankcie pre právnické a aj fyzické osoby. Napríklad antitrustové zákony v Spojených štátoch umožňujú uložiť peňažné tresty vo výške až 100 miliónov USD právnickej osobe a 1 milión USD  fyzickej osobe a popri tom až 10 rokov väzenia. Vo fiškálnom roku 2014 vláda USA poslala do väzenia niekoľko vysokopostavených vedúcich pracovníkov a uložila pokuty vo výške viac ako 1 miliardy USD za porušenie antitrustových zákonov, ktoré boli spáchané len v automobilovom priemysle.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Väčšina antitrustových zákonov zakotvuje trestnoprávne sankcie pre právnické a aj fyzické osoby. Napríklad antitrustové zákony v Spojených štátoch umožňujú uložiť peňažné tresty vo výške až 100 miliónov USD právnickej osobe a 1 milión USD  fyzickej osobe a popri tom až 10 rokov väzenia. Vo fiškálnom roku 2014 vláda USA poslala do väzenia niekoľko vysokopostavených vedúcich pracovníkov a uložila pokuty vo výške viac ako 1 miliardy USD za porušenie antitrustových zákonov, ktoré boli spáchané len v automobilovom priemysle.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Markovi, zamestnancovi spoločnosti Johnson Controls, zavolala Meredith, výkonná pracovníčka u jedného z konkurentov spoločnosti Johnson Controls. Za predpokladu, že by Mark súhlasil, ktorá z nasledujúcich žiadostí od Meredith by spoločnosť Johnson Controls vystavila sankciám podľa antitrustových zákonov?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,1,1">
+                <option><![CDATA[Meredith požiada Marka, aby predložil drahú ponuku na projekt, takže Meredithina spoločnosť vyhrá a na oplátku súhlasí s tým, že Markovi túto láskavosť vráti pri budúcej ponuke]]></option>
+                <option><![CDATA[Meredith požiada Marka, aby nepredkladal ponuku na projekt, takže Meredithina spoločnosť vyhrá a na oplátku súhlasí s tým, že Markovi túto láskavosť vráti pri budúcej ponuke]]></option>
+                <option><![CDATA[Meredith žiada Marka, aby stiahol ponuku spoločnosti Johnson Controls, takže Meredithina spoločnosť vyhrá a súhlasí s tým, že spoločnosť Johnson Controls bude subdodávateľom projektu]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text><![CDATA[<b>Správne.</b> Všetky nápady navrhnuté Meredith by porušili antitrustové zákony a mohli by spoločnosť Johnson Controls aj Marka vystaviť sankciám za porušenie antitrustových zákonov. ]]></text>
+					<text><![CDATA[Predloženie umelo navýšenej ponuky na projekt s cieľom ovplyvniť výsledok tak, aby Meredithina spoločnosť vyhrala, je forma manipulácie s ponukami, pričom je to neetické a nezákonné.]]></text>
+					<text><![CDATA[Súhlas s tým, že sa nebude predkladať ponuka na projekt tak, aby Meredithina spoločnosť vyhrala, je forma manipulácie s ponukami, pričom je to neetické a nezákonné.]]></text>
+					<text><![CDATA[Stiahnutie ponuky tak, aby Meredithina spoločnosť v tomto prípade vyhrala a aby spoločnosť Johnson Controls mohla vyhrať nabudúce, je forma manipulácie s ponukami, pričom je to neetické a nezákonné.]]></text>
+					<text><![CDATA[Všetky tri možnosti sú podľa právnych predpisov, ako aj zásad spoločnosti Johnson Controls zakázané.]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;">
+					<text><![CDATA[<b>Čiastočne správne.</b> Všetky nápady navrhnuté Meredith by porušili antitrustové zákony a mohli by spoločnosť Johnson Controls aj Marka vystaviť sankciám za porušenie antitrustových zákonov. ]]></text>
+					<text><![CDATA[Predloženie umelo navýšenej ponuky na projekt s cieľom ovplyvniť výsledok tak, aby Meredithina spoločnosť vyhrala, je forma manipulácie s ponukami, pričom je to neetické a nezákonné.]]></text>
+					<text><![CDATA[Súhlas s tým, že sa nebude predkladať ponuka na projekt tak, aby Meredithina spoločnosť vyhrala, je forma manipulácie s ponukami, pričom je to neetické a nezákonné.]]></text>
+					<text><![CDATA[Stiahnutie ponuky tak, aby Meredithina spoločnosť v tomto prípade vyhrala a aby spoločnosť Johnson Controls mohla vyhrať nabudúce, je forma manipulácie s ponukami, pričom je to neetické a nezákonné.]]></text>
+					<text><![CDATA[Všetky tri možnosti sú podľa právnych predpisov, ako aj zásad spoločnosti Johnson Controls zakázané.]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>To nie je správne.</b> Všetky nápady navrhnuté Meredith by porušili antitrustové zákony a mohli by spoločnosť Johnson Controls aj Marka vystaviť sankciám za porušenie antitrustových zákonov. ]]></text>
+					<text><![CDATA[Predloženie umelo navýšenej ponuky na projekt s cieľom ovplyvniť výsledok tak, aby Meredithina spoločnosť vyhrala, je forma manipulácie s ponukami, pričom je to neetické a nezákonné.]]></text>
+					<text><![CDATA[Súhlas s tým, že sa nebude predkladať ponuka na projekt tak, aby Meredithina spoločnosť vyhrala, je forma manipulácie s ponukami, pričom je to neetické a nezákonné.]]></text>
+					<text><![CDATA[Stiahnutie ponuky tak, aby Meredithina spoločnosť v tomto prípade vyhrala a aby spoločnosť Johnson Controls mohla vyhrať nabudúce, je forma manipulácie s ponukami, pričom je to neetické a nezákonné.]]></text>
+					<text><![CDATA[Všetky tri možnosti sú podľa právnych predpisov, ako aj zásad spoločnosti Johnson Controls zakázané.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Rozhovor medzi členmi obchodného združenia z rôznych konkurenčných spoločností, ktorí diskutujú o spôsoboch, ako vytlačiť inú spoločnosť kvôli jej „nekalým cenovým praktikám“, porušuje antitrustové zákony.]]></text>
+				<text><![CDATA[Je toto tvrdenie pravdivé alebo nepravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Pravdivé]]></option>
+                <option><![CDATA[Nepravdivé]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Pri rozhovoroch so zamestnancami konkurenčnej spoločnosti musíte byť veľmi opatrní. Ak sa niekedy ocitnete v situácii, že sa pri rozhovore s niekým z konkurenčnej spoločnosti začnete baviť na tému ceny, alokácie trhu alebo akejkoľvek formy obchodnej manipulácie, mali by ste ukončiť rozhovor, povedať im, že diskusia o takýchto témach môže potenciálne porušovať antitrustové zákony, opustiť miestnosť a pri najbližšej príležitosti informovať právneho poradcu o tom, čo sa stalo.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Pri rozhovoroch so zamestnancami konkurenčnej spoločnosti musíte byť veľmi opatrní. Ak sa niekedy ocitnete v situácii, že sa pri rozhovore s niekým z konkurenčnej spoločnosti začnete baviť na tému ceny, alokácie trhu alebo akejkoľvek formy obchodnej manipulácie, mali by ste ukončiť rozhovor, povedať im, že diskusia o takýchto témach môže potenciálne porušovať antitrustové zákony, opustiť miestnosť a pri najbližšej príležitosti informovať právneho poradcu o tom, čo sa stalo.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Spoločnosť Johnson Controls je veľká globálna spoločnosť a na mnohých miestach má väčšinový podiel na trhu v našom odvetví. Keď máme dominantné postavenie na trhu, čomu sa musíme vyhnúť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[Ďalšiemu rastu ]]></option>
+                <option><![CDATA[Dravým alebo vylučujúcim praktikám]]></option>
+                <option><![CDATA[Tomu, aby sme mali najnižšie ceny]]></option>
+                <option><![CDATA[Rozšíreniu nášho sortimentu výrobkov]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 38px;height: 140px;">
+					<text><![CDATA[<b>Správne.</b> Zákony o hospodárskej súťaži zakazujú dravé alebo vylučujúce správanie, ktoré je určené na získanie alebo zachovanie si monopolného postavenia, prípadne dominantného podielu na trhu. Zneužitie postavenia na trhu môže nastať vtedy, keď zákazníci nemajú žiadnu reálnu alternatívu, než jednať s dominantnou spoločnosťou.]]></text>
+					<text><![CDATA[Ak sme najväčším hráčom na trhu, ľudia musia nakupovať od nás. To nám otvára cestu k obvineniam z dravých praktík. ]]></text>
+					<text><![CDATA[Keď sme v pozícii dominantného postavenia na trhu, musíme byť opatrní ohľadne poškodenia dobrého mena a vedomí si právneho rizika.]]></text>
+					<text><![CDATA[Určenie dominantného postavenia na trhu a čo s tým robiť, je zložitá záležitosť. Ak máte nejaké pochybnosti, poraďte sa s právnym oddelením alebo s tímom pre dodržiavanie predpisov spoločnosti Johnson Controls.]]></text>
+				</correct>
+                <incorrect style="top: 38px;height: 140px;">
+					<text><![CDATA[<b>To nie je správne.</b> Zákony o hospodárskej súťaži zakazujú dravé alebo vylučujúce správanie, ktoré je určené na získanie alebo zachovanie si monopolného postavenia, prípadne dominantného podielu na trhu. Zneužitie postavenia na trhu môže nastať vtedy, keď zákazníci nemajú žiadnu reálnu alternatívu, než jednať s dominantnou spoločnosťou.]]></text>
+					<text><![CDATA[Ak sme najväčším hráčom na trhu, ľudia musia nakupovať od nás. To nám otvára cestu k obvineniam z dravých praktík. ]]></text>
+					<text><![CDATA[Keď sme v pozícii dominantného postavenia na trhu, musíme byť opatrní ohľadne poškodenia dobrého mena a vedomí si právneho rizika.]]></text>
+					<text><![CDATA[Určenie dominantného postavenia na trhu a čo s tým robiť, je zložitá záležitosť. Ak máte nejaké pochybnosti, poraďte sa s právnym oddelením alebo s tímom pre dodržiavanie predpisov spoločnosti Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Ktorým z nasledujúcich tém by ste sa mali vyhnúť, keď sú prítomní konkurenti?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Aktuálne alebo budúce ceny]]></option>
+                <option><![CDATA[Úrovne zisku, najmä to, čo predstavuje pojem „spravodlivý“ zisk]]></option>
+                <option><![CDATA[Podrobnosti o predkladaní cenových ponúk alebo účasti na konkrétnych cenových ponukách]]></option>
+                <option><![CDATA[Prognózy alebo stratégie spoločnosti]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Keď hovoríte so svojimi konkurentmi, nikdy by ste nemali diskutovať o citlivých informáciách z hľadiska konkurencie, a to vrátane cien, či už súčasných, prípadne budúcich. Nikdy by ste nemali diskutovať o úrovniach ziskov, najmä o tom, čo predstavuje pojem „spravodlivý“ zisk a nemali by ste sa zapájať do podrobností o cenových ponukách, ani konkrétnych cenových ponúk. Tiež by ste sa mali vyhnúť akýmkoľvek diskusiám o prognózach alebo stratégiách spoločnosti. Ak sa ocitnete v takejto diskusii, musíte okamžite odísť a oznámiť záležitosť právnemu oddeleniu spoločnosti Johnson Controls.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Keď hovoríte so svojimi konkurentmi, nikdy by ste nemali diskutovať o citlivých informáciách z hľadiska konkurencie, a to vrátane cien, či už súčasných, prípadne budúcich. Nikdy by ste nemali diskutovať o úrovniach ziskov, najmä o tom, čo predstavuje pojem „spravodlivý“ zisk a nemali by ste sa zapájať do podrobností o cenových ponukách, ani konkrétnych cenových ponúk. Tiež by ste sa mali vyhnúť akýmkoľvek diskusiám o prognózach alebo stratégiách spoločnosti. Ak sa ocitnete v takejto diskusii, musíte okamžite odísť a oznámiť záležitosť právnemu oddeleniu spoločnosti Johnson Controls.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Keď hovoríte so svojimi konkurentmi, nikdy by ste nemali diskutovať o citlivých informáciách z hľadiska konkurencie, a to vrátane cien, či už súčasných, prípadne budúcich. Nikdy by ste nemali diskutovať o úrovniach ziskov, najmä o tom, čo predstavuje pojem „spravodlivý“ zisk a nemali by ste sa zapájať do podrobností o cenových ponukách, ani konkrétnych cenových ponúk. Tiež by ste sa mali vyhnúť akýmkoľvek diskusiám o prognózach alebo stratégiách spoločnosti. Ak sa ocitnete v takejto diskusii, musíte okamžite odísť a oznámiť záležitosť právnemu oddeleniu spoločnosti Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+    </module>
+	<module id="7" pick="3">
+       <question type="mrq">
+            <questionText>
+				<text><![CDATA[Ktoré z nasledujúcich príkladov sa považujú za duševné vlastníctvo?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,1,1,0,0">
+                <option><![CDATA[Vynálezy]]></option>
+                <option><![CDATA[Vzory ]]></option>
+                <option><![CDATA[Obchodné mená a logá]]></option>
+                <option><![CDATA[Interná finančná správa]]></option>
+                <option><![CDATA[Zoznam údajov zamestnancov]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text><![CDATA[<b>Správne.</b> Duševné vlastníctvo sa vzťahuje na tvorivé diela, ktoré možno považovať za aktívum a sú chránené právnymi predpismi, ako napríklad:<ul> <li>Vynálezy</li> <li>Písomné práce</li> <li>Vzory</li> <li>Symboly</li> <li>Mená a obrázky</li> </ul>]]></text>
+					<text><![CDATA[Máte povinnosť chrániť naše duševné vlastníctvo.]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;">
+					<text><![CDATA[<b>Čiastočne správne.</b> Duševné vlastníctvo sa vzťahuje na tvorivé diela, ktoré možno považovať za aktívum a sú chránené právnymi predpismi, ako napríklad:<ul> <li>Vynálezy</li> <li>Písomné práce</li> <li>Vzory</li> <li>Symboly</li> <li>Mená a obrázky</li> </ul>]]></text>
+					<text><![CDATA[Máte povinnosť chrániť naše duševné vlastníctvo.]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>To nie je správne.</b> Duševné vlastníctvo sa vzťahuje na tvorivé diela, ktoré možno považovať za aktívum a sú chránené právnymi predpismi, ako napríklad:<ul> <li>Vynálezy</li> <li>Písomné práce</li> <li>Vzory</li> <li>Symboly</li> <li>Mená a obrázky</li> </ul>]]></text> 
+					<text><![CDATA[Máte povinnosť chrániť naše duševné vlastníctvo.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Aký typ softvéru môže byť chránený patentom?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Všetky typy softvéru]]></option>
+                <option><![CDATA[Technický softvér ]]></option>
+                <option><![CDATA[Žiadny softvér akéhokoľvek typu]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Zatiaľ čo technický softvér je všeobecne patentovateľný, existujú obmedzenia týkajúce sa softvéru obsahujúceho abstraktné nápady alebo finančné metódy.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Zatiaľ čo technický softvér je všeobecne patentovateľný, existujú obmedzenia týkajúce sa softvéru obsahujúceho abstraktné nápady alebo finančné metódy.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Ktoré z nasledujúcich možností používame na ochranu estetického dizajnu našich výrobkov?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Patenty]]></option>
+                <option><![CDATA[Autorské právo]]></option>
+                <option><![CDATA[Dizajnové práva]]></option>
+                <option><![CDATA[Ochranné známky]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Dizajnové práva sa môžu používať na ochranu dizajnu výrobkov spoločnosti Johnson Controls.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Dizajnové práva sa môžu používať na ochranu dizajnu výrobkov spoločnosti Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Ktoré z nasledujúcich možností používame na ochranu duševného vlastníctva v našom softvérovom kóde?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,1,0,0">
+                <option><![CDATA[Patenty]]></option>
+                <option><![CDATA[Autorské právo]]></option>
+                <option><![CDATA[Dizajnové práva]]></option>
+                <option><![CDATA[Ochranné známky]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Softvér môže byť chránený autorskými právami a v prípade technického softvéru patentmi.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Softvér môže byť chránený autorskými právami a v prípade technického softvéru patentmi.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Softvér môže byť chránený autorskými právami a v prípade technického softvéru patentmi.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Ktoré z týchto tvrdení o záväzku spoločnosti Johnson Controls chrániť duševné vlastníctvo (DV) sú pravdivé?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[Zaväzujeme sa chrániť len práva nášho vlastného duševného vlastníctva]]></option>
+                <option><![CDATA[Rešpektujeme platné práva duševného vlastníctva všetkých tretích strán ]]></option>
+                <option><![CDATA[Vykonávame opatrenia na ochranu nášho vlastného duševného vlastníctva]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> V spoločnosti Johnson Controls sa zaväzujeme chrániť práva nášho vlastného duševného vlastníctva a rešpektujeme platné práva duševného vlastníctva tretích strán.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> V spoločnosti Johnson Controls sa zaväzujeme chrániť práva nášho vlastného duševného vlastníctva a rešpektujeme platné práva duševného vlastníctva tretích strán.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> V spoločnosti Johnson Controls sa zaväzujeme chrániť práva nášho vlastného duševného vlastníctva a rešpektujeme platné práva duševného vlastníctva tretích strán.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Gunther pracuje vo vývojárskom tíme na novom výrobku a vytvorili inovatívny výrobok, ktorý sľubuje, že bude mimoriadne úspešný. Gunther premýšľa nad chytrou obchodnou značkou pre nový výrobok. Aké opatrenie považuje spoločnosť Johnson Controls za povinné pred použitím obchodnej značky?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Spustenie vyhľadávania ochrannej známky pred osvojením si názvu]]></option>
+                <option><![CDATA[Registráciu dizajnu loga na úradoch registrujúcich ochranné známky]]></option>
+                <option><![CDATA[Pred použitím obchodnej značky na trhu nie sú potrebné žiadne špeciálne opatrenia. Vyhľadávanie ochrannej známky je povinné len pred registráciou ochrannej známky]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Gunther musí spustiť vyhľadávanie ochrannej známky predtým, než si osvojí akýkoľvek nový názov alebo grafický dizajn pre výrobok alebo na ňom. Toto je povinné.]]></text>
+					<text><![CDATA[Registrácia novej ochrannej známky sa odporúča, ale nevyžaduje sa.]]></text>
+					<text><![CDATA[V mnohých krajinách je možné získať právo k ochrannej známke aj prostredníctvom používania značky alebo loga, a to dokonca aj bez oficiálnej registrácie, hoci registrácia je oveľa bezpečnejší spôsob. ]]></text>
+					<text><![CDATA[Ak ochranná známka nie je riadne používaná – napríklad ak ju verejnosť používa ako všeobecný výraz, potom sa právo uplatňovať ochrannú známku môže stratiť, aj keď je ochranná známka zaregistrovaná.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Gunther musí spustiť vyhľadávanie ochrannej známky predtým, než si osvojí akýkoľvek nový názov alebo grafický dizajn pre výrobok alebo na ňom. Toto je povinné.]]></text>
+					<text><![CDATA[Registrácia novej ochrannej známky sa odporúča, ale nevyžaduje sa.]]></text>
+					<text><![CDATA[V mnohých krajinách je možné získať právo k ochrannej známke aj prostredníctvom používania značky alebo loga, a to dokonca aj bez oficiálnej registrácie, hoci registrácia je oveľa bezpečnejší spôsob. ]]></text>
+					<text><![CDATA[Ak ochranná známka nie je riadne používaná – napríklad ak ju verejnosť používa ako všeobecný výraz, potom sa právo uplatňovať ochrannú známku môže stratiť, aj keď je ochranná známka zaregistrovaná.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Chcete od dodávateľa, aby otestoval realizovateľnosť nového dizajnu vyvinutého inžiniermi spoločnosti Johnson Controls. Čo môžete urobiť na ochranu duševného vlastníctva spoločnosti Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="0,1,0,1">
+                <option><![CDATA[Postúpite túto záležitosť Tímu pre program dodržiavania predpisov tretími stranami]]></option>
+                <option><![CDATA[Požiadajte dodávateľa, aby podpísal dohodu o utajení]]></option>
+                <option><![CDATA[Po zdieľaní informácií s dodávateľom podáte patentovú prihlášku]]></option>
+                <option><![CDATA[Obráťte sa na vášho právneho zástupcu pre oblasť duševného vlastníctva ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> V takejto situácii môžete podať patentovú prihlášku za predpokladu, že dizajn je nový a vynaliezavý, ale musíte to urobiť skôr, ako budete zdieľať informácie s dodávateľom. Kým nie je podaná patentová prihláška, musíte požiadať dodávateľa, aby podpísal dohodu o utajení.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> V takejto situácii môžete podať patentovú prihlášku za predpokladu, že dizajn je nový a vynaliezavý, ale musíte to urobiť skôr, ako budete zdieľať informácie s dodávateľom. Kým nie je podaná patentová prihláška, musíte požiadať dodávateľa, aby podpísal dohodu o utajení.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> V takejto situácii môžete podať patentovú prihlášku za predpokladu, že dizajn je nový a vynaliezavý, ale musíte to urobiť skôr, ako budete zdieľať informácie s dodávateľom. Kým nie je podaná patentová prihláška, musíte požiadať dodávateľa, aby podpísal dohodu o utajení.]]></text>
+				</incorrect>
+            </feedback>
+        </question>			
+    </module>
+	<module id="8" pick="3">
+       <question type="mrq">
+            <questionText>
+				<text><![CDATA[Ktoré z nasledujúcich príkladov by sa mali považovať za <i><b>dôverné informácie</b></i>?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="0,0,1,1,1">
+                <option><![CDATA[Článok v časopise o spoločnosti Johnson Controls]]></option>
+                <option><![CDATA[Správa o našej podnikovej sociálnej zodpovednosti ]]></option>
+                <option><![CDATA[Zoznam mien, adries a osobných údajov zamestnancov]]></option>
+                <option><![CDATA[Interná finančná správa]]></option>
+                <option><![CDATA[Dokument obsahujúci technické informácie o novom výrobku, ktorý sa vyvíja]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Dôverné informácie môžu mať fyzickú podobu, môžu byť v tlačenej forme alebo v elektronickej forme. Všetko, čo nie je zverejnené alebo inak verejne dostupné, sa považuje za dôverné informácie.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Dôverné informácie môžu mať fyzickú podobu, môžu byť v tlačenej forme alebo v elektronickej forme. Všetko, čo nie je zverejnené alebo inak verejne dostupné, sa považuje za dôverné informácie.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Dôverné informácie môžu mať fyzickú podobu, môžu byť v tlačenej forme alebo v elektronickej forme. Všetko, čo nie je zverejnené alebo inak verejne dostupné, sa považuje za dôverné informácie.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Kedy by ste mali používať dohodu o utajení (DU)?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[DU by sa mala používať iba vtedy, keď zdieľame citlivé osobné údaje s inými osobami, či už interne alebo externe]]></option>
+                <option><![CDATA[DU by sa mala používať vždy, ak sa dôverné informácie zdieľajú interne]]></option>
+                <option><![CDATA[DU sa musí používať vždy, ak sa dôverné informácie zdieľajú s externou treťou stranou]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Ak zdieľate dôverné informácie s niekým, kto je mimo spoločnosti Johnson Controls, mali by ste použiť DU. DU je účinný spôsob, ako zabezpečiť, aby zdieľané dôverné informácie zostali aj naďalej dôverné.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Ak zdieľate dôverné informácie s niekým, kto je mimo spoločnosti Johnson Controls, mali by ste použiť DU. DU je účinný spôsob, ako zabezpečiť, aby zdieľané dôverné informácie zostali aj naďalej dôverné.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Susan tlačí kópiu dokumentu obsahujúceho dôverné informácie o spoločnosti. V tlačiarni došiel atrament, ale Susan už mešká na stretnutie. Čo by mala urobiť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,0,0,1">
+                <option><![CDATA[Mala by vymeniť atrament a počkať na dokument]]></option>
+                <option><![CDATA[Susan by mala ísť na stretnutie a postarať sa o tlačiareň neskôr]]></option>
+                <option><![CDATA[Mala by požiadať recepčného, aby vzal vytlačené materiály, keď sa dotlačia]]></option>
+                <option><![CDATA[Susan by mala požiadať kolegu, ktorý je oprávnený vidieť informácie, aby vymenil atrament a vzal jej vytlačený dokument]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Susan musí sama vymeniť atrament a počkať, kým sa dokument vytlačí, prípadne môže požiadať niekoho, kto je oprávnený vidieť papiere, aby jej ich vzal. Nemala by jednoducho odísť na stretnutie a postarať sa o dokument neskôr. Susan je zodpovedná za to, aby zabezpečila primeranú manipuláciu s vytlačenou kópiou dôverných informácií.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Susan musí sama vymeniť atrament a počkať, kým sa dokument vytlačí, prípadne môže požiadať niekoho, kto je oprávnený vidieť papiere, aby jej ich vzal. Nemala by jednoducho odísť na stretnutie a postarať sa o dokument neskôr. Susan je zodpovedná za to, aby zabezpečila primeranú manipuláciu s vytlačenou kópiou dôverných informácií.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Susan musí sama vymeniť atrament a počkať, kým sa dokument vytlačí, prípadne môže požiadať niekoho, kto je oprávnený vidieť papiere, aby jej ich vzal. Nemala by jednoducho odísť na stretnutie a postarať sa o dokument neskôr. Susan je zodpovedná za to, aby zabezpečila primeranú manipuláciu s vytlačenou kópiou dôverných informácií.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Vo vašom počítači pracujete na správe, ktorá obsahuje dôverné informácie o zamestnancoch. Musíte si ísť po kávu. Čo urobíte?]]></text>
+			</questionText>
+			<instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Správu necháte otvorenú vo vašom počítači, aby ste mohli rýchlo pokračovať v práci, keď sa vrátite]]></option>
+                <option><![CDATA[Zamknete počítač tak, aby na jeho ďalšie otvorenie bolo potrebné heslo]]></option>
+                <option><![CDATA[Požiadate vášho kolegu, aby sledoval váš pracovný stôl, kým budete preč]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Vždy musíte zabezpečiť, aby obrazovka vášho počítača bola uzamknutá, ak nie ste pri pracovnom stole. Dokonca aj keď ste mimo svojho pracovného stola na veľmi krátku chvíľu, stále musíte zaistiť, že ste ho uzamkli tak, aby nikto iný nemal prístup k súborom, našej sieti alebo správam, ktoré obsahujú dôverné informácie.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Vždy musíte zabezpečiť, aby obrazovka vášho počítača bola uzamknutá, ak nie ste pri pracovnom stole. Dokonca aj keď ste mimo svojho pracovného stola na veľmi krátku chvíľu, stále musíte zaistiť, že ste ho uzamkli tak, aby nikto iný nemal prístup k súborom, našej sieti alebo správam, ktoré obsahujú dôverné informácie.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Aké povinnosti máte ako zamestnanec spoločnosti Johnson Controls, pokiaľ ide o dôverné informácie?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Zodpovedám iba za ochranu informácií o zamestnancoch, zákazníkoch a iných tretích stranách]]></option>
+                <option><![CDATA[Zodpovedám za ochranu dôvernosti informácií o spolupracovníkoch, nie však za ochranu dôvernosti iných informácií spoločnosti]]></option>
+                <option><![CDATA[Zodpovedám za ochranu dôvernosti informácií patriacich spoločnosti Johnson Controls, ako aj informácií, ktoré vedieme o zákazníkoch, dodávateľoch a iných tretích stranách]]></option>
+                <option><![CDATA[Zodpovedám iba za ochranu dôvernosti informácií o spoločnosti a nie o žiadnych fyzických osobách]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Ako zamestnanec spoločnosti Johnson Controls musíte chrániť dôvernosť informácií patriacich spoločnosti Johnson Controls, ako aj informácií, ktoré vedieme o zákazníkoch, dodávateľoch a iných tretích stranách. Musíte zaistiť, že nedôjde k ich neprimeranému sprístupneniu osobám, a to tak vo vnútri spoločnosti Johnson Controls, ako aj mimo nej.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Ako zamestnanec spoločnosti Johnson Controls musíte chrániť dôvernosť informácií patriacich spoločnosti Johnson Controls, ako aj informácií, ktoré vedieme o zákazníkoch, dodávateľoch a iných tretích stranách. Musíte zaistiť, že nedôjde k ich neprimeranému sprístupneniu osobám, a to tak vo vnútri spoločnosti Johnson Controls, ako aj mimo nej.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Máte na pracovnom stole kopu dôverných správ, ktoré zajtra musíte znova použiť. Odchádzate až večer, čo by ste mali urobiť s papiermi?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[Vziať si ich domov v taške na prenosný počítač]]></option>
+                <option><![CDATA[Zamknúť ich pred odchodom z kancelárie do zásuvky]]></option>
+                <option><![CDATA[Vložiť papiere do zložky a dať ju do police nad pracovným stolom]]></option>
+                <option><![CDATA[Dať ich do smetného koša]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 35px;">
+					<text><![CDATA[<b>Správne.</b> Keď sa dôverné informácie nepoužívajú, musia byť bezpečne uložené. ]]></text>
+					<text><![CDATA[Musíte zabezpečiť, aby všetky informácie uložené v papierovej podobe, na pamäťových kartách alebo akomkoľvek inom úložnom zariadení neostali bez dozoru, či už počas, alebo aj mimo pracovnej doby. ]]></text>
+					<text><![CDATA[Za účelom ochrany dôverných informácií musíte:<ul><li>Obmedziť prístup len na tie osoby, ktoré ich potrebujú a majú oprávnenie ich vidieť</li><li>Chrániť dôverné informácie pomocou hesiel, bezpečného uloženia a zamknutia vášho počítača</li><li>Odstrániť dôverné informácie ich bezpečným zneškodnením</li></ul>]]></text>
+				</correct>
+                <incorrect style="top: 35px;">
+					<text><![CDATA[<b>To nie je správne.</b> Keď sa dôverné informácie nepoužívajú, musia byť bezpečne uložené. ]]></text>
+					<text><![CDATA[Musíte zabezpečiť, aby všetky informácie uložené v papierovej podobe, na pamäťových kartách alebo akomkoľvek inom úložnom zariadení neostali bez dozoru, či už počas, alebo aj mimo pracovnej doby. ]]></text>
+					<text><![CDATA[Za účelom ochrany dôverných informácií musíte:<ul><li>Obmedziť prístup len na tie osoby, ktoré ich potrebujú a majú oprávnenie ich vidieť</li><li>Chrániť dôverné informácie pomocou hesiel, bezpečného uloženia a zamknutia vášho počítača</li><li>Odstrániť dôverné informácie ich bezpečným zneškodnením</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>				
+    </module>
+	<module id="9" pick="3">
+       <question type="mcq">
+            <questionText>
+				<text><![CDATA[Ste na priemyselnej konferencii a máte na sebe odznak s menom, ktorý vás identifikuje ako zamestnanca spoločnosti Johnson Controls. V kaviarni stretnete Marka, muža, ktorý pracuje pre konkurenciu. Po zdvorilostných formalitách pristúpi Alice, jedna z Markových spolupracovníčok, a začne hovoriť o nadchádzajúcom zvyšovaní cien. Môžete použiť tieto informácie?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Áno]]></option>
+                <option><![CDATA[Nie]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Informácie o cenách sú dôverné a mali by sa chrániť. V tomto prípade to Alica neurobila a hovorila o zvyšovaní cien v kaviarni, teda na verejnom mieste za prítomnosti konkurentov. Alice zlyhala v uchovávaní dôvernosti informácií o cenách svojho zamestnávateľa tým, že o informáciách hovorila verejne, čím ich sprístupnila verejnosti. Takže ich môžete použiť. Pred ich použitím by ste však mali o zdroji informácií informovať vášho manažéra, právne oddelenie alebo tím pre dodržiavanie predpisov.  ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Informácie o cenách sú dôverné a mali by sa chrániť. V tomto prípade to Alica neurobila a hovorila o zvyšovaní cien v kaviarni, teda na verejnom mieste za prítomnosti konkurentov. Alice zlyhala v uchovávaní dôvernosti informácií o cenách svojho zamestnávateľa tým, že o informáciách hovorila verejne, čím ich sprístupnila verejnosti. Takže ich môžete použiť. Pred ich použitím by ste však mali o zdroji informácií informovať vášho manažéra, právne oddelenie alebo tím pre dodržiavanie predpisov.  ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Aká je kľúčová otázka pre určenie, či môžete použiť konkurenčné spravodajstvo, ktoré ste získali alebo nie?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Pomôže nám informácia zlepšiť našu pozíciu voči našim konkurentom?]]></option>
+                <option><![CDATA[Použil sa na získanie týchto informácií podvod, zrada alebo lesť?]]></option>
+                <option><![CDATA[Pomôžu nám informácie vyhnúť sa nákladným chybám?]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Konkurenčné spravodajstvo je cenné, ale môže sa použiť iba vtedy, keď sa získalo právnymi a etickými spôsobmi. Spoločnosť Johnson Controls nesmie používať informácie, ktoré boli získané nelegálne, prostredníctvom skreslených informácií alebo ktoré sme obdržali v dôsledku porušenia dohody o mlčanlivosti konkurenta.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Konkurenčné spravodajstvo je cenné, ale môže sa použiť iba vtedy, keď sa získalo právnymi a etickými spôsobmi. Spoločnosť Johnson Controls nesmie používať informácie, ktoré boli získané nelegálne, prostredníctvom skreslených informácií alebo ktoré sme obdržali v dôsledku porušenia dohody o mlčanlivosti konkurenta.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Zákazník vám ponúka návrh, ktorý mu predložil konkurent spoločnosti Johnson Controls. Čo by ste mali urobiť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Poďakujete sa zákazníkovi a využijete informácie na napísanie vášho ďalšieho návrhu]]></option>
+                <option><![CDATA[Prečítate si návrh v kancelárii zákazníka, ale nevezmete si ho so sebou]]></option>
+                <option><![CDATA[Zdvorilo odmietnete návrh a oznámite túto udalosť vášmu manažérovi, právnemu oddeleniu alebo tímu pre dodržiavanie predpisov]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Návrh konkurenta sa považuje za dôverné informácie konkurenta. Návrh nesmiete prijať a musíte to ihneď oznámiť právnemu oddeleniu.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Návrh konkurenta sa považuje za dôverné informácie konkurenta. Návrh nesmiete prijať a musíte to ihneď oznámiť právnemu oddeleniu.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Ktoré z nasledovných zdrojov sú prijateľnými zdrojmi informácií o konkurentoch spoločnosti Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Podania na štátnych orgánoch]]></option>
+                <option><![CDATA[Správy analytikov]]></option>
+                <option><![CDATA[Pracovné ponuky]]></option>
+                <option><![CDATA[Publikované patenty a prihlášky ochranných známok]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Môžete použiť akékoľvek informácie o našich konkurentoch, ktoré sú verejne dostupné. Patria sem informácie o:<ul> <li>Podania na štátnych orgánoch</li><li>Správy analytikov</li><li>Pracovné ponuky</li><li>Publikované patenty a prihlášky ochranných známok</li></ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Môžete použiť akékoľvek informácie o našich konkurentoch, ktoré sú verejne dostupné. Patria sem informácie o:<ul> <li>Podania na štátnych orgánoch</li><li>Správy analytikov</li><li>Pracovné ponuky</li><li>Publikované patenty a prihlášky ochranných známok</li></ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Môžete použiť akékoľvek informácie o našich konkurentoch, ktoré sú verejne dostupné. Patria sem informácie o:<ul> <li>Podania na štátnych orgánoch</li><li>Správy analytikov</li><li>Pracovné ponuky</li><li>Publikované patenty a prihlášky ochranných známok</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Sandra, nová zamestnankyňa spoločnosti Johnson Controls, predtým pracovala pre konkurenta a vie o novom výrobku, ktorý konkurent vyvíja. Pracujete na podobnom výrobku. Ako môžete získať od Sandry informácie o výrobku jej bývalej spoločnosti?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Najjednoduchší prístup je jednoducho požiadať Sandru, aby vám povedala o výrobku konkurenta]]></option>
+                <option><![CDATA[Môžete opísať váš výrobok a opýtať sa, aký je v porovnaní s výrobkom konkurenta]]></option>
+                <option><![CDATA[Získavať dôverné informácie o výrobku konkurenta od bývalého zamestnanca je proti zásadám spoločnosti Johnson Controls ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Plány nových výrobkov sú dôverné informácie. Nepýtajte sa, nenavádzajte, ani nevyvíjajte nátlak na bývalého zamestnanca konkurenta s cieľom získať akékoľvek dôverné informácie.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Plány nových výrobkov sú dôverné informácie. Nepýtajte sa, nenavádzajte, ani nevyvíjajte nátlak na bývalého zamestnanca konkurenta s cieľom získať akékoľvek dôverné informácie.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Ktoré z nasledovných možností nie sú prijateľnými metódami na získanie konkurenčného spravodajstva?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="0,1,1,1">
+                <option><![CDATA[Požadovanie kópií verejných podaní od štátnych orgánov]]></option>
+                <option><![CDATA[Zavolanie konkurentovi a predstieranie, že ste potenciálnym zákazníkom]]></option>
+                <option><![CDATA[Požiadanie zákazníka, aby vám ukázal návrh konkurenta, aby sme mohli podliezť cenu]]></option>
+                <option><![CDATA[Ponúknutie darčeka zamestnancovi konkurenta výmenou za informácie]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Spoločnosť Johnson Controls nebude prijímať alebo využívať konkurenčné spravodajstvo, ktoré bolo získané nesprávnymi metódami, ako sú:<ul> <li>Predstieranie, že ste potenciálnym zákazníkom</li><li>Požiadanie zákazníka o návrh konkurenta</li><li>Ponúknutie darčeka zamestnancovi konkurenta výmenou za informácie</li></ul>]]></text>
+					<text><![CDATA[Požadovanie kópií verejných podaní od štátnych orgánov je vhodným spôsobom.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Spoločnosť Johnson Controls nebude prijímať alebo využívať konkurenčné spravodajstvo, ktoré bolo získané nesprávnymi metódami, ako sú:<ul> <li>Predstieranie, že ste potenciálnym zákazníkom</li><li>Požiadanie zákazníka o návrh konkurenta</li><li>Ponúknutie darčeka zamestnancovi konkurenta výmenou za informácie</li></ul>]]></text>
+					<text><![CDATA[Požadovanie kópií verejných podaní od štátnych orgánov je vhodným spôsobom.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Spoločnosť Johnson Controls nebude prijímať alebo využívať konkurenčné spravodajstvo, ktoré bolo získané nesprávnymi metódami, ako sú:<ul> <li>Predstieranie, že ste potenciálnym zákazníkom</li><li>Požiadanie zákazníka o návrh konkurenta</li><li>Ponúknutie darčeka zamestnancovi konkurenta výmenou za informácie</li></ul>]]></text>
+					<text><![CDATA[Požadovanie kópií verejných podaní od štátnych orgánov je vhodným spôsobom.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Navštívite dodávateľa Juana, ktorý dodáva materiál aj konkurencii spoločnosti Johnson Controls. Juan vám odovzdá nedávno publikovanú brožúru nového výrobku konkurenta. Môžete použiť informácie v brožúre?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte správnu možnosť a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Áno, brožúra k výrobku je verejne dostupná, takže ju môžeme používať]]></option>
+                <option><![CDATA[Nie, nikdy nemôžeme používať informácie o konkurencii, ktoré sme nezískali sami]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Nikdy nesmieme používať na získanie konkurenčného spravodajstva podvod, lesť alebo iné neetické prostriedky. Konkurenčné spravodajstvo môžeme akceptovať za predpokladu, že je verejne prístupná a získaná etickým spôsobom.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Nikdy nesmieme používať na získanie konkurenčného spravodajstva podvod, lesť alebo iné neetické prostriedky. Konkurenčné spravodajstvo môžeme akceptovať za predpokladu, že je verejne prístupná a získaná etickým spôsobom.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Harry je nový zamestnanec, ktorý predtým pracoval pre konkurenta. Povie vám, že jeho bývalý zamestnávateľ plánuje v budúcom roku znížiť ceny o 2 %. Čo by ste mali urobiť?]]></text>
+			</questionText>
+            <instruction><![CDATA[Vyberte <strong><i>všetky</i></strong> správne možnosti a potom kliknite na položku ODOSLAŤ.]]></instruction>
+            <extraInstruction><![CDATA[Správnych môže byť viac odpovedí.]]></extraInstruction>
+            <options answer="0,1,1,0">
+                <option><![CDATA[Odporučíte 2 % zníženie našich cien]]></option>
+                <option><![CDATA[Pripomeniete Harrymu, že nesmie prezrádzať dôverné informácie svojho predchádzajúceho zamestnávateľa]]></option>
+                <option><![CDATA[O udalosti informujete vášho manažéra, právne oddelenie alebo tím pre dodržiavanie predpisov]]></option>
+                <option><![CDATA[Zistíte, či Harry porušil nejaké právne predpisy zdieľaním informácií]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Správne.</b> Harry prezradil dôverné informácie svojho predchádzajúceho zamestnávateľa. Tieto informácie nemôžete použiť. Namiesto toho by ste mali informovať svojho manažéra, právne oddelenie alebo tím pre dodržiavanie predpisov.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Čiastočne správne.</b> Harry prezradil dôverné informácie svojho predchádzajúceho zamestnávateľa. Tieto informácie nemôžete použiť. Namiesto toho by ste mali informovať svojho manažéra, právne oddelenie alebo tím pre dodržiavanie predpisov.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>To nie je správne.</b> Harry prezradil dôverné informácie svojho predchádzajúceho zamestnávateľa. Tieto informácie nemôžete použiť. Namiesto toho by ste mali informovať svojho manažéra, právne oddelenie alebo tím pre dodržiavanie predpisov.]]></text>
+				</incorrect>
+            </feedback>
+        </question>				
+    </module>
+</assessment>

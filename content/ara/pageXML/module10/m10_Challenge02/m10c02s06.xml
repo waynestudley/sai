@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;left: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:15px;"><![CDATA[تبذل إيما قصارى جهدها للحيلولة دون أن تتسبب وظيفتها الثانوية في تشتيتها عن عملها في شركة Johnson Controls. إلا أن الأخبار انتشرت في المكتب، ولدى إيما الآن ثلاثة زملاء يهتمون في أحدث العقارات التي لديها!  وأثناء إجراء مكالمة مع أحد العملاء، تتلقى إيما رسالة فورية من ساندي في قسم الحسابات.]]></text>
+		<text style="font-size:15px;"><![CDATA[<i>"مرحبًا إيما. أود رؤية المكان الموجود في طريق نيوبيري. فالارتباط الذي أرسلتيه إليّ يبدو رائعًا. إنه ما كنا نبحث عنه بالضبط. هل يمكن أن تغادري العمل مبكرًا اليوم قبل ازدحام الطرق، حيث يمكنك إظهار المكان لي؟"</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:8px;">
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;">
+		<option answer="0" feedbackId="1"><![CDATA[وتوافق إيما على مغادرة العمل مبكرًا لإظهار العقار لساندي.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[وتقول إيما لساندي أنها لديها بعض المكالمات الأخرى التي يجب عليها إجراؤها، وكذلك أوراق لإنهائها، وأنها لا يمكنها المغادرة مبكرًا. إلا أنها تقول أنها لديها المزيد من الصور ومقاطع الفيديو على جهاز الكمبيوتر المحمول الخاص بها، وأن ساندي يمكن أن تمر عليها في مكتبها في أي وقت اليوم لإلقاء نظرة ومناقشة الأمر بشكل أكبر.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[وتقول إيما لساندي أنها لا يمكنها إظهار العقار لها في هذه الليلة، إلا أنها سوف ترسل إليها المزيد من الصور بعد إنهاء المكالمة مع العميل. وتطلب من ساندي الاتصال بها في المنزل هذه الليلة من أجل مناقشة الأمر بمزيد من التفاصيل.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[هذا الخيار هو الخيار الأكثر خطورة. دعونا نلقي نظرة على ما يحدث عندما تتخذ إيما هذا القرار.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[على الرغم من أن إيما لم تغادر مبكرًا، إلا أنها استخدمت ممتلكات شركة Johnson Controls ووقت الشركة في تنفيذ الأعمال الخارجية التي ما كان عليها تنفيذها، كما أنها تقوم بتشتيت الزملاء الآخرين المهتمين في مشاهدة العقارات التي تبيعها.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[تتخذ إيما خطوات للفصل بين الوظيفتين. ومع ذلك، ما كان عليها أن تستخدم جهاز الكمبيوتر الخاص بها أو برنامج المراسلة الفورية أو البريد الإلكتروني الخاص بالعمل من أجل تنفيذ أعمال خارجية، كما أنها تقوم بتشتيت الزملاء الآخرين المهتمين في مشاهدة العقارات التي تبيعها.]]></text>
+		</correct>
+	</feedback>
+</contents>

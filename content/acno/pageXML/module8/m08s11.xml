@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0"><![CDATA[Los acuerdos legales, como los acuerdos de no divulgación, constituyen una forma en que podemos asegurarnos de que los demás protejan la información que compartimos con ellos. Haga clic en cada botón de mostrar para leer más información.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Los acuerdos de no divulgación (o NDA, en inglés) ofrecen una forma eficaz de asegurarse de que la información confidencial compartida con un tercero se mantenga confidencial.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg" minwidth="769"><![CDATA[Documentos]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Haga clic en cada botón de mostrar para leer más información.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[MOSTRAR]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style=""><![CDATA[Acuerdo de no divulgación]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Cuándo utilizarlo]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Utilice un NDA si va a compartir información confidencial con cualquier persona fuera de la empresa. Nunca divulgue información confidencial antes de que se firme un NDA. El Departamento Legal de Johnson Controls puede proporcionar plantillas para diferentes situaciones.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style=""><![CDATA[Una persona revisando un acuerdo de no divulgación]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Uso de otros NDA]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[En ocasiones, las empresas externas pueden ofrecer utilizar sus propios NDA. No lo acepte. Podemos aceptarlos solo después de una revisión y aprobación legal, dado que tales NDA estarán redactados para proteger los intereses del tercero y no los nuestros.]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style=""><![CDATA[Un supervisor explicando los usos de un NDA a un empleado]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Cuando aceptamos los NDA]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[A veces, podemos firmar una NDA para proteger la información de otra empresa. En tal caso, es fundamental asegurarnos de tomar las medidas necesarias para cumplir con nuestras responsabilidades. De lo contrario, podríamos ser demandados por violación del acuerdo. Asegúrese de que cualquier persona que trabaje con la información conozca nuestras obligaciones de protegerla.]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

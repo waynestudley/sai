@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m08s03">
+	<transcript>
+		<text path="audio/module8/m08s03" id="0"><![CDATA[Дебби открывает новое сообщение на своем смартфоне. Чтобы узнать подробнее, щелкните каждое изображение.]]></text>		
+	</transcript>
+	<pageTitle style="width: 354px;"></pageTitle>
+	<contentBg style="width: 500px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[Дебби видит, что это уведомление от Ким, коллеги по работе.]]></text>
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module8/m08s03/contentBackground.jpg" minwidth="769"><![CDATA[Женщина со смартфоном]]></img>
+	</contentBackground>	
+	<revelCollOut style="width: 235px;left: 0px;top: 135px;height: 355px;">		
+		<img path="content/images/ltr/module8/m08s03/img_03.png" minwidth="769"><![CDATA[]]></img>	
+		<text style="font-weight:bold;font-size: 16px"><![CDATA[Отправитель: Ким Паркер]]></text>
+		<text style="font-size: 15px"><![CDATA[Люблю 8-часовую сверхурочную работу — ура, ура!<img src="content/images/ltr/module8/m08s03/icon.png"  style="height: 20px;margin-left: 4px;vertical-align: middle;"/> ]]></text>
+	</revelCollOut>
+	<revelCollOut style="width: 235px;left:260px;top: 135px;height: 355px;">		
+		<img path="content/images/ltr/module8/m08s03/img_04.png" minwidth="769"><![CDATA[]]></img>	
+		<text style="font-weight:bold;font-size: 16px"><![CDATA[Дебби]]></text> 		
+		<text style="font-size: 15px"><![CDATA[Отличная фотография, Ким, но зачем же ты сделала ее на фоне монитора компьютера? На нем открыт запрос на обслуживание клиента и лист Excel с информацией о клиентских счетах. Если я это вижу, значит, это видят и все остальные!]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[Чтобы узнать больше, щелкните каждое изображение.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<RevealButton style="top:135px;left: 0px;width: 235px;height: 160px;position: absolute;">
+	
+		<buttonImg path="content/images/ltr/module8/m08s03/img_01.png" style=""><![CDATA[Миниатюра с другой женщиной]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 235px;height: 160px;" txtStyle=""><![CDATA[Отправитель: Ким Паркер]]></buttonText>		
+	</RevealButton>	
+	
+	<RevealButton style="top:135px;left:260px;width: 235px;height: 160px;position: absolute;">
+		<buttonImg path="content/images/ltr/module8/m08s03/img_02.png" style="top:10px;left:0px;width:590px;">				<![CDATA[Дебби]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 235px;height: 160px;" txtStyle=""><![CDATA[Дебби]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

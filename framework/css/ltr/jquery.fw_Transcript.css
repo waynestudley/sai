@@ -1,0 +1,30 @@
+/*----------------------------------------
+	Name: jquery.fw_Transcript.css
+	Developed by: Suyog Shaha
+----------------------------------------*/
+.fw_Transcript-panel{position:absolute;width:1024px;height:60px;left:0px;right:0px;margin:auto;}
+.fw_TranscriptContainer{background-color: #D5D537;top:50px;border: 3px solid #ffffff !important; position:absolute;border-radius:10px;cursor: move;width: 380px;height: 78px;z-index:100000;background-clip: padding-box;display:none;box-shadow: 0px 3px 8px -1px rgba(50, 50, 50, 0.75);-webkit-box-shadow: 0px 3px 8px -1px rgba(50, 50, 50, 0.75);
+-moz-box-shadow: 0px 3px 8px -1px rgba(50, 50, 50, 0.75);}
+.fw_Transcript{height: 100%;position:absolute;width: 100%;  overflow:hidden;top:0;border-radius:10px;}
+.fw_TranscriptTextContainer{/*  background-color:#D5D537; */height:100%;left:0; overflow:hidden;position:absolute;top:0px;width:100%;z-index:4;}
+.fw_TranscriptText{color:#333740;font-size: 12.5px; font-weight: normal; left: 0; line-height: 16px; position: absolute; top: 0;width: 95%;padding: 4px 8px 10px 4px;}
+.fw_TranscriptText>p{margin:0 5px 0 3px;line-height: 14px;}
+.fw_CloseTranscript{background:url("../../../framework/images/ltr/imageSprit.png") no-repeat scroll -459px -46px transparent;  cursor:pointer;  margin-right: 1px; display:block;  float:right;  height:16px;  position:relative;  top:55px;  width:16px;  z-index:1000; display:none}
+.fw_TranscriptTextContainer{ /* background-color: #D5D537; */height: 100%; margin-top: 0;}
+ #fw_TranscriptScrollbar{ cursor:pointer;  margin-top:2px;  position:absolute;  right:4px;  width:30px;padding: 1px 0px;  z-index:400; }
+#fw_TranscriptScrollbar div{ background: none repeat scroll 0 0 #ffffff;  height:95%;  margin-left:20px;  width:8px;}
+.fw_TranscriptBottam{background-color:#FFF; height:10px; position:absolute; left:0; bottom:0px;width:100%; }
+#fw_TranscriptScrollbarBg {background-color:#949424;height: 94%; position: absolute; right: 5px; top: 2px; width: 10px;}
+#fw_tranScrollBGParent{ background-color: transparent;height: 100%; position: absolute; right: 0; top: 0; width: 20px;} 
+.fw_TranscriptContainer .fw_transcriptArrow{
+background:url("../../../framework/images/ltr/tickCross.png") no-repeat scroll -49px -221px transparent;
+height: 36px;
+position: absolute;
+top: 78px;
+width: 60px;
+z-index: 1000;
+left: 22px;}
+.fw_TranscriptText .aLinkColor{color:#FFF !important;}
+@media only screen and (max-width: 1000px) {	
+	
+}

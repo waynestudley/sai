@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="line-height: 18px;"><![CDATA[Emma는 형부의 새 회사에서 중개인으로 부업을 하고 있는데, 이는 Johnson Controls에서 그녀가 맡은 직무에 방해가 됩니다.]]></text>
+		<text style="line-height: 18px;"><![CDATA[다음 시나리오 중 Emma가 취해야 할 최선의 행동은 무엇일까요?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height: 25px;"></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;line-height: 20px;">
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent style="line-height: 18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma는 두 가지 일을 계속 병행합니다. 중개인 업무가 바쁠 때는 동료들에게 자신의 회사 일을 대신해 달라고 요청하고 Johnson Controls에 병가를 냅니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma는 두 가지 일을 계속 병행하고 맡은 책무를 곡예 하듯 수행해 나가며 최선을 다합니다. Johnson Controls 업무가 한가할 때 그녀는 중개인 관련 전화를 받고 개인 스마트폰에서 이메일을 보냅니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma는 형부 회사 일을 하고 있다는 것을 상사에게 말하고, Emma와 상사는 그녀가 Johnson Controls 업무와 분리해서 그 일을 계속할 수 있는 방법에 대해 논의합니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[형부의 부동산 회사에서 일하기로 한 Emma의 결정은 잠재적 이해 충돌을 야기할 수 있습니다. 특히 이 부업에 더 많은 시간과 노력이 필요해지기 시작하면 이해 충돌 가능성이 커집니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[아직도 Emma는 새 직업이 Johnson Controls 업무에 영향을 미치지 않도록 두 가지 일을 곡예 하듯 해낼 수 있다고 생각합니다. 하지만 그녀는 현실을 직시하고 있을까요? 그녀는 만약을 대비해 상사에게 이야기하기로 합니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -164px">
+			<text style="padding-top:25px;"><![CDATA[Emma는 자신의 부업에 대해 상사에게 이야기합니다.]]></text>
+			<text><![CDATA[그녀의 상사가 그녀와 논의한 내용은 회사에서 근무하는 동안 그녀에게 기대되는 바가 무엇인지 그리고 부업을 갖는 것이 금지되지는 않지만<ul> <li>Johnson Controls 업무를 방해해서는 안 된다는 것이었습니다. </li> <li>그녀는 Johnson Controls 근무 시간을 사용하는 것뿐만 아니라 회사 자원을 사용하여 부업을 해서도 안 됩니다.</li> </ul>]]></text>
+			<text><![CDATA[두 사람은 그녀가 Johnson Controls에서 근무하는 동안 개인 사업을 수행하지 않을 것이며 업무에 방해가 되면 이 문제를 다시 논의한다는 데 동의합니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

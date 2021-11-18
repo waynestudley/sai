@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[¿Cuáles de estas situaciones cree que podrían ser problemáticas?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[¿Cree que estos ejemplos podrían percibirse como un soborno?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[Empresarios]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleccione <span class="fontBold">todas</span> las situaciones problemáticas y, luego, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Es posible que haya más de una respuesta correcta.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Le promete a un cliente un regalo de dinero en efectivo a cambio de una decisión comercial favorable.]]></option>
+		<option><![CDATA[Un subcontratista que quiere conseguir un negocio con su empresa lo invita a varias cenas y eventos deportivos.]]></option>
+		<option><![CDATA[Hace una contribución de campaña a un funcionario del gobierno que es un cliente potencial.]]></option>
+		<option><![CDATA[Su gerente contrata a la hija de un cliente a cambio de que el cliente acepte prorrogar su contrato actual.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text style="font-size:14px;"><![CDATA[La respuesta es correcta.]]></text>
+			<text style="font-size:14px;"><![CDATA[De hecho, todas estas situaciones podrían considerarse sobornos, según las circunstancias. La intención de influir en otra persona es un factor sumamente determinante, pero también es importante recordar que incluso la apariencia de un soborno podría ser problemática para usted y para Johnson Controls, así que piense bien antes de actuar.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text style="font-size:14px;"><![CDATA[La respuesta no es correcta.]]></text>
+			<text style="font-size:14px;"><![CDATA[De hecho, todas estas situaciones podrían considerarse sobornos, según las circunstancias. La intención de influir en otra persona es un factor sumamente determinante, pero también es importante recordar que incluso la apariencia de un soborno podría ser problemática para usted y para Johnson Controls, así que piense bien antes de actuar.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

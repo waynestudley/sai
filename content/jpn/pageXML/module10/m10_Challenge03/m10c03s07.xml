@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:14px;line-height:18px;"><![CDATA[イングリッドは、ヒルデが注文したワインがとても高価なのではないかと疑っています。 彼女はどうすべきでしょうか？ ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent style="font-size:14px;">
+		<option answer="0" feedbackId="1"><![CDATA[ディナーを続けて、彼女の支出レポートに記載されているワインのコストに誰も気づかないことを願います。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[面倒な状況を作り出さないためにもワインの支払いを拒否できず、ディナーを続けます。 しかし、彼女はワインについては別のレシートを発行してもらい、自腹で払うつもりです。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[ウェイターがワインを準備する前に、ヒルデに会社ではワインのコストを承認されないことを個人的にを伝えます。 ヒルデはワインの料金は自分で支払うか、より安価なワインを注文できます。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[イングリッドがディナーを支払い、支出レポートを提出します。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[イングリッドがディナーを支払い、ワインを含まない支出レポートを提出します。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[彼女がワインは支払えないと伝えた時、ヒルデは驚いたように見えました。 しかしその夜の終わり、彼女は別の領収書を求め、彼女自身でワインを支払いました。]]></text>
+		</correct>
+	</feedback>
+</contents>

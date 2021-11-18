@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[เอ็มม่าทำงานอย่างที่สองในฐานะนายหน้าของบริษัทใหม่ของพี่เขยของเธอ แต่งานของเธอที่จอห์น คอนโทรลส์ได้รับผลกระทบ]]></text>
+		<text style="line-height:18px;"><![CDATA[ข้อใดต่อไปนี้ที่คุณคิดว่าเป็นสิ่งที่เอ็มม่าสมควรทำมากที่สุด]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;line-height:20px;">
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[เอ็มม่าควรทำงานทั้งสองอย่างต่อไป เมื่องานของเธอในฐานะนายหน้าเริ่มยุ่ง เธอขอให้เพื่อนร่วมงานทำหน้าที่แทนเธอและลาป่วยจากจอห์นสัน คอนโทรลส์]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[เอ็มม่าทำงานทั้งสองอย่างต่อไปและทำให้ดีที่สุดเพื่อจัดสรรเวลาสำหรับหน้าที่ของเธอ เมื่อไม่ค่อยมีงานที่จอห์นสัน คอนโทรลส์ เธอโทรศัพท์เกี่ยวกับงานนายหน้าของเธอและส่งอีเมลจากสมาร์ทโฟนส่วนตัวของเธอ]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[เอ็มม่าคุยกับผู้จัดการของเธอเกี่ยวกับการทำงานของเธอให้กับบริษัทพี่เขยของเธอ และพวกเขาพูดคุยถึงวิธีที่เธอสามารถแยกงานนั้นออกจากงานของเธอที่จอห์นสัน คอนโทรลส์]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[การตัดสินใจของเอ็มม่าในการทำงานให้กับบริษัทอสังหาริมทรัพย์ของพี่เขยของเธออาจสร้างผลประโยชน์ทับซ้อนที่เกิดขึ้นได้ โดยเฉพาะเมื่องานเสริมของเธอเริ่มต้องการเวลาและความใส่ใจจากเธอมากขึ้น]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[เอ็มม่ายังคงคิดว่าเธอสามารถจัดสรรเวลาทำงานเพื่อให้งานใหม่ของเธอไม่กระทบกับหน้าที่ของเธอในจอห์นสัน คอนโทรลส์ แต่เธอทำได้จริงไหม เธอตัดสินใจคุยกับผู้จัดการของเธอหากจำเป็น]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -170px;">
+			<text style="padding-top:25px;"><![CDATA[เอ็มม่าคุยกับผู้จัดการของเธอเกี่ยวกับงานที่สองของเธอ]]></text>
+			<text><![CDATA[ผู้จัดการของเธอพูดคุยกับเธอถึงสิ่งที่คาดหวังจากเธอขณะอยู่ที่ทำงาน และวิธีการรับงานภายนอกไม่ได้เป็นเรื่องที่ห้าม แต่:<ul> <li>ต้องไม่รบกวนงานของเธอที่จอห์นสัน คอนโทรลส์ </li> <li>เธอต้องไม่ใช้ทรัพยากรใด ๆ ของบริษัทในการทำงานภายนอกของเธอ รวมถึงเวลางานของจอห์นสัน คอนโทรลส์</li> </ul>]]></text>
+			<text><![CDATA[พวกเขาตกลงกันว่าเธอจะไม่ทำธุรกิจของเธอในระหว่างชั่วโมงทำงานของเธอที่จอห์นสัน คอนโทรลส์ และหากงานของเธอได้รับผลกระทบ พวกเขาต้องมาทบทวนหัวข้อนี้ใหม่]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s09">
+	<transcript>
+		<text path="audio/module4/m04s09" id="0"><![CDATA[Мобильные телефоны и ноутбуки позволяют работать вне офиса, но при этом делают нас уязвимыми. Сохраняйте бдительность: защищайте себя и своих коллег.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px;line-height:18px;"><![CDATA[Пользуясь мобильными телефонами, ноутбуками и другими переносными устройствами, вы носите с собой свое рабочее место. Преступники всюду ищут выгодные возможности, поэтому важно сохранять бдительность и не подвергать себя неоправданным рискам.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s09/contentBackground.jpg" minwidth="769"><![CDATA[Сотрудник пользуется мобильным телефоном в аэропорту]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;line-height:25px;"></pageTitle>
+	<instructionText style="width: 924px;line-height:20px;">
+		<text><![CDATA[Щелкните каждый заголовок.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="190px" top="20px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn1.png" minwidth="769"><![CDATA[Два сотрудника ведут конфиденциальный разговор]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Сохраняйте конфиденциальность бесед]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 75px;top: 5px;width: 958px;">
+				<text><![CDATA[Не обсуждайте персональную или конфиденциальную информацию по телефону или лично в тех местах, где вас могут услышать другие люди.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="20px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn2.png" minwidth="769"><![CDATA[Город с многочисленными точками доступа Wi-Fi]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Избегайте использования общедоступных сетей Wi-Fi]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 95px;top: 5px;width: 958px;">
+				<text><![CDATA[В незащищенных общедоступных сетях относительно легко перехватить отправляемую информацию. Выбирайте известные точки доступа Wi-Fi, которые, как правило, предлагают различные предприятия. Если вам необходимо использовать общедоступную сеть Wi-Fi для доступа к сетям компании Johnson Controls, обязательно включите VPN.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="20px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn3.png" minwidth="769"><![CDATA[Сотрудник работает с ноутбуком в аэропорту]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Следите за окружающей обстановкой]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: 5px;width: 958px;">
+				<text><![CDATA[Обращайте внимание на людей, которые находятся рядом с вами и могут смотреть на экран вашего устройства. Рекомендуем вам использовать специальную накладку на экран для защиты от подсматривания.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="20px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn4.png" minwidth="769"><![CDATA[Сотрудник использует контактную карту доступа]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Держите контактную карту доступа при себе]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: 5px;width: 958px;">
+				<text><![CDATA[Знайте, где находится ваша контактная карта доступа, каковы бы ни были обстоятельства. Приходя в офис и уходя из офиса, кладите карту в карман.]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

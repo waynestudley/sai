@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[Een klant heeft Carlos gevraagd extra werk te verrichten. Hoe moet hij hier volgens u op reageren? Kies een optie en klik vervolgens op OK.]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik op Volgende om door te gaan.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Wat moet Carlos doen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Het werk aanvaarden, David tot geheimhouding verplichten en het werk samen voltooien en vertrekken.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[David laten weten dat hij het werk mag verrichten als hij dat wilt, maar dat hij er zelf niets mee te maken wil hebben.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[De klant beleefd laten weten dat ze dit niet mogen aanvaarden omdat ze hiermee werk van Johnson Controls zouden afnemen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos en David verrichten het werk en vertrekken. Het is een fluitje van een cent! Bovendien hebben ze altijd een aantal reservesensoren op zak, dus Johnson Controls zal het nooit te weten komen.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[David stemt ermee in het werk aan te nemen.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos belt naar zijn manager die het verkoopteam ervan op de hoogte brengt. Ze stellen een offerte op voor het extra werk. Het werk wordt aan Johnson Controls verstrekt in plaats van aan Carlos of David persoonlijk te worden uitbesteed.]]></text>
+		</correct>
+	</feedback>
+</contents>

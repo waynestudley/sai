@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s22">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[A Jian le ofrecen una botella de vino que sospecha que ha pagado Eduardo, un proveedor, aunque no está seguro. Tampoco conoce el valor del vino.]]></text>
+		<text><![CDATA[¿Qué debería hacer?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s22/contentBackground.jpg" minwidth="769"><![CDATA[Fondo de la barra de un restaurante]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Aceptar el vino.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Preguntar cuánto cuesta el vino antes de decidir.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Rechazar educadamente el vino.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian y su esposa disfrutaron del vino con la cena.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian le pregunta a la sommelier cuánto cuesta el vino, y ella le dice que la botella se vendió por más de USD 200.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Esta es una opción segura.]]></text>
+		</correct>
+	</feedback>
+</contents>

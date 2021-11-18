@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript style="">
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentTitle>
+		<text><![CDATA[הסביבה שלך]]></text>		
+	</contentTitle>
+	<contentBg style="padding: 0;top: 20px;width: 878px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	
+	<contentText>
+		<text><![CDATA[כדי להציג לך את התוכן המתאים ביותר לתפקידך, נשמח לדעת יותר על המקום שבו אתה עובד. ]]></text>
+		<text style="margin: 10px 0px 0px 0px;"><![CDATA[בחר את סביבת העובדה הנפוצה ביותר שלך.]]></text>
+	</contentText>
+	
+	
+	
+	<instructionText style="margin-top: 5px;min-height: auto;">
+		<text><![CDATA[לחץ על סביבת העבודה שלך, ולאחר מכן לחץ על 'המשך'.]]></text>
+	</instructionText>
+	
+	<optionContent>
+		<option profilerId="OMSE">
+			<img path="content/images/rtl/subprofiler/img_01.png"><![CDATA[סביבה משרדית]]></img>
+			<text><![CDATA[מקצוע משרדי; לדוגמה, מכירות, שיווק, מחלקה משפטית, פיננסים, רכש וכו']]></text>
+		</option>
+		<option profilerId="CSCE">
+			<img path="content/images/rtl/subprofiler/img_02.png"><![CDATA[סביבה משרדית]]></img>
+			<text><![CDATA[מרכז תמיכה בלקוחות]]></text>
+		</option>
+		<option profilerId="OIE">
+			<img path="content/images/rtl/subprofiler/img_03.png"><![CDATA[סביבה משרדית]]></img>
+			<text><![CDATA[התקנה ושירות מחוץ לאתר]]></text>
+		</option>		
+	</optionContent>
+	 <contentBackground>		
+		<img path="content/images/rtl/subprofiler/welcomeScreen.jpg" minwidth="800" minheight="600"><![CDATA[עובד של Johnson Controls]]></img>
+	</contentBackground>
+	<buttonText>		
+		<text><![CDATA[המשך]]></text>
+	</buttonText>
+	
+</contents>

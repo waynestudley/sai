@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[คุณรับรู้ถึงสถานการณ์เสี่ยงได้ดีแค่ไหน อ่านสถานการณ์สมมุตินี้และตัดสินว่าสถานการณ์ดังกล่าวเป็นผลประโยชน์ทับซ้อนหรือไม่]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[ที่สำนักงาน]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[คุณจะรับรู้ถึงผลประโยชน์ทับซ้อนได้หรือไม่  ตัดสินว่าสถานการณ์ต่อไปนี้มีผลประโยชน์ทับซ้อนที่อาจเกิดขึ้นและควรเปิดเผยหรือไม่:]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[เลือก “ใช่” หรือ “ไม่” ในแต่ละตัวเลือกจากนั้นคลิกส่ง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+		<text><![CDATA[คลิกที่เครื่องหมายคำถามเพื่อเรียนรู้เพิ่มเติม]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[ผู้หญิงสวมใส่ผ้ากันเปื้อนราวกับทำงานที่ร้านขนมปัง]]></img>
+			<text style="width: 450px;"><![CDATA[เจนนิเฟอร์ พนักงานจอห์นสัน คอนโทรลส์ วางแผนที่จะทำงานกับร้านขนมปังที่เปิดใหม่ของน้องสาวในวันหยุดสุดสัปดาห์ แต่สัปดาห์นี้ เธอได้ลาป่วยเพื่อช่วยงานวันเปิดร้านวันแรก]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[ผู้ชายสวมใส่ชุดแบบนักธุรกิจ]]></img>
+			<text style="width: 450px;"><![CDATA[อเล็กซ์ พนักงานฝ่ายจัดซื้อที่จอห์นสัน คอนโทรลส์ คิดว่าสตีฟ เพื่อนของเขาเหมาะสมกับตำแหน่งที่บริษัทกำลังเปิดรับอย่างยิ่ง เขาบอกสตีฟเกี่ยวกับงานและแนะนำให้เขาสมัครงานออนไลน์]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[ผู้หญิงสวมใส่ชุดแบบนักธุรกิจ มีเชื้อตะวันออกกลาง]]></img>	
+			<text style="width: 450px;"><![CDATA[บาสม่าเป็นวิศวกรควบคุมคุณภาพของจอห์นสัน คอนโทรลส์ ผู้ขายคนหนึ่งที่บาสม่าดูแลได้เสนอโอกาสตำแหน่งงานที่ปรึกษาให้กับเธอ เขากล่าวว่าบริษัทกำลังมองหาผู้ที่จะช่วยจัดทำการตรวจสอบคุณภาพก่อนส่งออกให้กับสายผลิตภัณฑ์ใหม่ที่กำลังผลิตในจอห์นสัน คอนโทรลส์ ผู้ขายยืนยันอย่างชัดเจนว่าบาสม่าสามารถทำงานในตอนเย็นหรือช่วงสุดสัปดาห์ซึ่งเป็นช่วงเวลาที่นอกเหนือจากเวลาทำงานปกติของเธอได้]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[ผู้ชายสวมใส่ชุดแบบนักธุรกิจ]]></img>	
+			<text style="width:450px;"><![CDATA[คาร์ลรับผิดชอบในการเลือกผู้ขายสินค้าไอทีเพื่อรองรับโปรเจ็กต์สำคัญของจอห์นสัน คอนโทรลส์ ในปีเดียวกันก่อนหน้านั้น เขาได้ลงทุนขนาดใหญ่ในบริษัทไอทีของเพื่อนเขาและบริษัทดังกล่าวก็ได้เข้าร่วมการประมูลโปรเจ็กต์นี้]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[ใช่]]></text>
+		<text><![CDATA[ไม่ใช่]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[ถูกต้อง]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[ไม่ถูกต้อง ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[คลิกที่เครื่องหมายคำถามเพื่อเรียนรู้เพิ่มเติม]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[การที่เจนนิเฟอร์ช่วยงานน้องสาวที่ร้านขนมปังในวันสุดสัปดาห์ไม่ใช่ปัญหา ทั้งนี้ทั้งนั้น การทำงานดังกล่าวอาจสร้างความขัดแย้งหากความทุ่มเทที่เธอมีให้น้องสาวส่งผลกระทบต่อภาระหน้าที่การงานของเธอที่จอห์นสัน คอนโทรลส์ เช่น เมื่อเจนนิเฟอร์แกล้งป่วยในวันทำงานเพื่อเอาเวลาไปช่วยน้องสาวที่ร้านขนมปัง]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[ถึงแม้ว่าอเล็กซ์จะทำงานในฝ่ายจัดซื้อ แต่เขาก็ไม่ได้ใช้ตำแหน่งของเขาเพื่อช่วยให้เพื่อนได้งานนี้ การที่อเล็กซ์แนะนำสตีฟให้สมัครงานออนไลน์เป็นกรณีที่ยอมรับได้เพราะถึงอย่างไรสตีฟก็ผ่านกระบวนการสมัครเดียวกันกับผู้สมัครทุก ๆ คน]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[บาสม่าควบคุมดูแลการทำงานของผู้ขายและตอนนี้ก็ได้พิจารณาข้อเสนอที่จะทำงานกับผู้ขายคนนั้นด้วย หากทั้งสองบริษัทจ้างงานเธอ บาสม่าจะซื่อสัตย์ต่อบริษัทใด มีแนวโน้มที่เธอจะรู้สึกถึงความขัดแย้งและสถานการณ์ดังกล่าวก็เป็นสิ่งที่ควรหลีกเลี่ยง อย่างน้อยที่สุด บาสม่าก็จะต้องเปิดเผยผลประโยชน์ทับซ้อนที่อาจเกิดขึ้น]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[คาร์ลยืนหยัดต่อผลประโยชน์ทางการเงินหากบริษัทที่เขาลงทุนไว้ชนะการประมูล เส้นสายส่วนตัวที่เขามีในการตัดสินใจอาจส่งผลกระทบต่อการตัดสินอย่างเป็นกลางอันก่อให้เกิดผลประโยชน์ทับซ้อน]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

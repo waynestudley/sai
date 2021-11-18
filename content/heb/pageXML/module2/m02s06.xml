@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[בחר 'מתנה' או 'בידור' עבור כל אחת מדוגמאות אלה, ולאחר מכן לחץ על 'שלח'.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[עובדים במשרד]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;left: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[בדוק אם אתה יכול לזהות אם כל דוגמה נחשבת למתנה או לבידור.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[בחר 'מתנה' או 'בידור' עבור כל אפשרות, ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="left:12px;" crossSt="left:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s06/img01.png"><![CDATA[עובדים בארוחת צוות עם ספק]]></img>
+			<text style="width: 406px;"><![CDATA[ספק מזמין את כל צוות הפרויקט לארוחה כדי לחגוג את הסיום של פרויקט גדול]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s06/img02.png"><![CDATA[עובד שקוע בהרהורים]]></img>
+			<text style="width: 406px;"><![CDATA[לקוח מעניק לך שובר לעיסוי באתר נופש מקומי כ"אות תודה" על עבודתך]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s06/img03.png"><![CDATA[עובד שקוע בהרהורים]]></img>	
+			<text style="width: 406px;"><![CDATA[אתה משתתף בתערוכה מקצועית בשם החברה והמארגנים מזמינים את המשתתפים לאירוע בערב]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s06/img04.png"><![CDATA[עובד שקוע בהרהורים]]></img>	
+			<text style="width:406px;"><![CDATA[ספק מציע לשלם עבור ארוחה של הצוות שלך במסעדה מקומית לאחר פגישה באתר, אך הספק לא נוכח בארוחה]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s06/img05.png"><![CDATA[עובד שקוע בהרהורים]]></img>	
+			<text style="width:406px;"><![CDATA[ספקית מזמינה אותך לאירוע ספורט, אך אינה מרגישה טוב ואומרת לך ללכת בלעדיה]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[מתנה]]></text>
+		<text styleWidth="width:100px;"><![CDATA[בידור]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 41px;width: 230px;height: 280px;padding-top: 20px;left: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[נכון.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[כללים שונים חלים כאשר מדווחים על מתנות ועל בידור. זכור כי המעניק משתתף בהטבה כאשר מדובר בבידור - הוא נוכח בארוחה, משתתף באירוע וכו'.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[כאשר ספק מזמין את הצוות לארוחה או משתתף באירוע ערב כחלק מתערוכה מקצועית מדובר בבידור, מאחר שבשני המקרים יש הזדמנות לדון בנושאים עסקיים והמעניק שותף גם הוא להטבה. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[כרטיס מתנה ואירועים שבהם המעניק לא נוכח באירוע שאליו הוזמנה נחשבים למתנות. ]]></text>			
+		</correct>
+		<incorrect style="top: 41px;width: 230px;height: 280px;padding-top: 20px;left: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[לא נכון.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[כללים שונים חלים כאשר מדווחים על מתנות ועל בידור. זכור כי המעניק משתתף בהטבה כאשר מדובר בבידור - הוא נוכח בארוחה, משתתף באירוע וכו'.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[כאשר ספק מזמין את הצוות לארוחה או משתתף באירוע ערב כחלק מתערוכה מקצועית מדובר בבידור, מאחר שבשני המקרים יש הזדמנות לדון בנושאים עסקיים והמעניק שותף גם הוא להטבה. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[כרטיס מתנה ואירועים שבהם המעניק לא נוכח באירוע שאליו הוזמנה נחשבים למתנות. ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

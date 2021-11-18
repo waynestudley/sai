@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[おめでとうございます、あなたは最終の知識確認に合格しました。  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[残念ですが、あなたは最終の知識確認に合格しませんでした。 ]]></text>		
+	</transcript>
+	<contentBg style="width: 430px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[おめでとうございます！]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Johnson Controls従業員]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Johnson Controls従業員]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[「ホーム」をクリックして、メインメニューに戻ります。 ここから、コース終了の証明書にアクセスできます。]]></text>
+		<text><![CDATA[「ホーム」をクリックして、メインメニューに戻ります。]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[次のコースに関する知識確認の点数は「<b>##%</b>」で合格しました。 <span class="courseTitleAss" >倫理規範を適用: 誠実さをもってビジネスを行う</span> コース]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[次のコースに関する知識確認の点数は「<b>##%</b>」で合格しませんでした。]]></text>
+		<text><![CDATA[合格するには「<span>#%</span> 」以上である必要があります。 プログラムを再訪し、この知識確認を再度受験してください。]]></text>
+	</feedbackFail>
+</contents>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c02s03">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3" ><![CDATA[Click on Next to continue.]]></text>
+		
+	</transcript>
+	<contentText >
+		<text><![CDATA[Emma is working a second job as a broker for her brother-in-law’s new company but her work at Johnson Controls is suffering.]]></text>
+		<text><![CDATA[Which of the following scenarios would be the best course of action for Emma?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Choose one option then select OK.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1" ><![CDATA[Emma continues doing both jobs. When her work as a broker gets busy, she asks colleagues to cover for her and takes sick days from Johnson Controls.]]></option>
+		<option answer="1" feedbackId="2" ><![CDATA[Emma continues doing both jobs and does her best to juggle her responsibilities. When things are quiet at Johnson Controls, she takes her broker-related calls and sends emails from her personal smartphone.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Emma talks to her manager about her job working for her brother-in-law’s company, and they discuss ways she can keep that work separate from her job at Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="" >
+			<text style="padding-top:12px;"><![CDATA[Emma’s decision to work for her brother-in-law’s real estate company could create a potential conflict of interest, especially as her side job begins to require more of her time and attention.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[Emma still thinks she can juggle tasks so that her new job doesn’t affect her responsibilities at Johnson Controls. But is she being realistic? She decides to speak to her manager just in case.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -222px;" >
+			<text style="padding-top:25px;"><![CDATA[Emma talks to her manager about her second job.]]></text>
+			<text><![CDATA[Her manager discusses with her what is expected of her while at work, and how taking outside jobs isn’t prohibited, but:<ul> <li>It can’t interfere with her work for Johnson Controls. </li> <li>She shouldn’t use any company resources to conduct her outside work, including her Johnson Controls work time.</li> </ul>]]></text>
+			<text><![CDATA[They agree that she will not conduct her business during her working hours at Johnson Controls and that if her work suffers, they will have to revisit the topic.]]></text>
+		</correct>
+	</feedback>
+</contents>

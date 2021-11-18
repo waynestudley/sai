@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[您有多熟悉我們公司在禮品與招待的政策？ 根據每個項目選擇「正確」或「錯誤」，然後按一下「提交」。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[員工]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[下列關於禮品與招待的陳述是對還是錯？]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[根據每個項目選擇「正確」或「錯誤」，然後按一下「提交」。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[接受禮品的人，背景在進行招待]]></img>
+			<text style="width: 390px;"><![CDATA[Johnson Controls 的政策涵蓋所有與禮品與招待相關的狀況： 沒有任何模糊空間]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[沈思的員工]]></img>
+			<text style="width: 390px;"><![CDATA[當您接受招待或禮品時，您必須自問： 「對方是不是期待我給予回報？」 ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[沈思的員工]]></img>	
+			<text style="width: 390px;"><![CDATA[如果您提供禮品或招待的對象可能認為您期待回報，您就不應該繼續]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[沈思的員工]]></img>	
+			<text style="width:390px;"><![CDATA[最好不要提供或接受禮品或招待： 風險太高]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[正確]]></text>
+		<text><![CDATA[錯誤]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[正確。]]></text>			
+			<text style="font-size: 15px;"><![CDATA[在正確場合提供及接受招待和禮品是可接受的，但都必須運用良好的判斷能力，同時必須瞭解 Johnson Controls 的指導方針。]]></text>			
+			<text style="font-size: 15px;"><![CDATA[我們的政策無法預測所有情況，因此您必須審慎考量場合，使用您的判斷力，或是不確定時請在繼續之前尋求建議。]]></text>			
+		</correct>
+		<incorrect style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[錯誤。]]></text>	
+			<text style="font-size: 15px;"><![CDATA[在正確場合提供及接受招待和禮品是可接受的，但都必須運用良好的判斷能力，同時必須瞭解 Johnson Controls 的指導方針。]]></text>			
+			<text style="font-size: 15px;"><![CDATA[我們的政策無法預測所有情況，因此您必須審慎考量場合，使用您的判斷力，或是不確定時請在繼續之前尋求建議。]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

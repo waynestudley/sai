@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[Wie viel wissen Sie über den Inhalt und die Bedeutung von Wettbewerbsgesetzen? Wählen Sie alle Optionen aus, die Sie für richtig halten, und klicken Sie anschließend auf „Übermitteln“.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Welchem Zweck dienen Wettbewerbsgesetze?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[Waage der Gerechtigkeit]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Wählen Sie alle zutreffenden Antworten aus.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Es ist möglich, dass mehrere Antworten richtig sind.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Den Verbrauchern Alternativen bieten]]></option>	
+		<option><![CDATA[Handelshemmnisse schaffen]]></option>	
+		<option><![CDATA[Das Wachstum in bestimmten Branchen bremsen]]></option>	
+		<option><![CDATA[Faire Geschäfte fördern]]></option>	
+		<option><![CDATA[Innovation und fortlaufende Verbesserung belohnen]]></option>	
+		<option><![CDATA[Unternehmen, die zu erfolgreich sind, bestrafen]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-250px">
+			<text><![CDATA[Das ist richtig.]]></text>
+			<text><![CDATA[Das Wettbewerbsrecht soll sicherstellen, dass Unternehmen aus den richtigen Gründen erfolgreich sind: weil sie die besten Produkte, Dienstleistungen und Preise bieten. Diese Gesetze sind nicht darauf ausgerichtet, Erfolg zu strafen, Wachstum zu verhindern oder handelshemmende Maßnahmen einzuführen.]]></text>
+			<text><![CDATA[Wettbewerbsgesetze haben Auswirkungen auf unsere Interaktion mit Außenstehenden, darunter Wettbewerber, Lieferanten, Vertriebshändler und Kunden.]]></text>
+			<text><![CDATA[Es sind äußerst wichtig, dass Sie wissen, wie sich Wettbewerbsgesetze auf Ihre Arbeit auswirken, und dass Sie diese Gesetze überall befolgen, wo Sie arbeiten und Geschäfte tätigen. In diesem Modul befassen wir uns mit Grundsätzen und Praktiken des Wettbewerbsrechts.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-250px">
+			<text><![CDATA[Das stimmt leider nicht.]]></text>
+			<text><![CDATA[Das Wettbewerbsrecht soll sicherstellen, dass Unternehmen aus den richtigen Gründen erfolgreich sind: weil sie die besten Produkte, Dienstleistungen und Preise bieten. Diese Gesetze sind nicht darauf ausgerichtet, Erfolg zu strafen, Wachstum zu verhindern oder handelshemmende Maßnahmen einzuführen.]]></text>
+			<text><![CDATA[Wettbewerbsgesetze haben Auswirkungen auf unsere Interaktion mit Außenstehenden, darunter Wettbewerber, Lieferanten, Vertriebshändler und Kunden.]]></text>
+			<text><![CDATA[Es sind äußerst wichtig, dass Sie wissen, wie sich Wettbewerbsgesetze auf Ihre Arbeit auswirken, und dass Sie diese Gesetze überall befolgen, wo Sie arbeiten und Geschäfte tätigen. In diesem Modul befassen wir uns mit Grundsätzen und Praktiken des Wettbewerbsrechts.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

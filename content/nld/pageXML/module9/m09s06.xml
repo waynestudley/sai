@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m09s06" maxAttempt="2">
+	<transcript>
+		<text path="audio/module9/m09s06" id="0"><![CDATA[Kijk of u kunt herkennen wat al dan niet gepast is. Sleep elk element naar het vak 'Gepast' of 'Ongepast' en klik vervolgens op 'Indienen'.]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px;font-size:14px;line-height:18px;"><![CDATA[Lees de volgende situaties en beslis of het al dan niet gepast zou zijn om informatie over concurrenten te aanvaarden in deze omstandigheden.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module9/m09s06/contentBackground.jpg" minwidth="769"><![CDATA[Werknemers die met bedrijfsdocumenten aan de slag zijn]]></img>
+	</contentBackground>
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 588px;"></pageTitle>
+	<instructionText style="width: 588px;">
+		<text><![CDATA[Sleep ieder element naar een van de twee vakken en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op 'Volgende' om door te gaan.]]></text>
+		<text><![CDATA[Klik op de knop 'Opnieuw proberen' om opnieuw te proberen.]]></text>
+		<text><![CDATA[Klik op de knop 'Antwoorden tonen'.]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 291px; padding: 0px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[SITUATIES]]></lable> 	
+		<option>			
+			<option height="68px" left="0" top="21px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="0"><![CDATA[Een concurrent heeft vacatures geplaatst voor een expertise die op een koersverandering wijst]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="99px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="0"><![CDATA[U bemachtigt een transcriptie van een toespraak van de CEO van een concurrent die vorig jaar op een branchecongres heeft gesproken en recente productieverbeteringen uit de doeken heeft gedaan. ]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="177px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="0"><![CDATA[U bestudeert de producttekeningen in een recente octrooiaanvraag van een concurrent]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="255px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="1"><![CDATA[Een voormalige collega werkt nu voor een concurrent en verstrekt u informatie over hun voornaamste contracten ]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="334px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="1"><![CDATA[Een onderaannemer die ook voor uw concurrent werkt biedt aan u enkele producttekeningen te tonen die hij in zijn telefoon heeft staan]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="413px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="1"><![CDATA[Een nieuwe werknemer werkte voordien voor een concurrent, dus u vraagt hem om prijsinformatie betreffende de nieuwe service van dat bedrijf]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="0" topGap="149" bottomGap="37">
+		<dropArea maxDrop="3" style="width:312px;left: 330px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="3" style="width:312px;left: 648px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Gepast]]></text>
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Ongepast]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier plaatsen]]></text>
+		<text style="width:301px;left: 277px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier plaatsen]]></text>
+		<text style="width:301px;left: 277px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier plaatsen]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier plaatsen]]></text>
+		<text style="width:301px;left: 593px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier plaatsen]]></text>
+		<text style="width:301px;left: 593px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier plaatsen]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[Indienen]]></text>
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;width: 160px;"><![CDATA[Opnieuw proberen]]></text>	
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10; width: 160px;"><![CDATA[Antwoord tonen]]></text>
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct style="height:275px;top:147px;"> 
+			<text style="font-size:17px;"><![CDATA[Dat klopt.]]></text>
+			<text><![CDATA[Het is gepast informatie over concurrenten te aanvaarden als ze openbaar beschikbaar is.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[Plaats nooit iemand in een positie waarin de persoon haar vertrouwelijkheidsplichten ten opzichte van een ander bedrijf dient te schenden.]]></text>
+			
+		</correct>
+		<incorrect style="height:275px;top:147px;"> 
+			<text style="font-size:17px;"><![CDATA[Sorry, dit klopt niet.]]></text>
+			<text><![CDATA[Het is gepast informatie over concurrenten te aanvaarden als ze openbaar beschikbaar is.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[Plaats nooit iemand in een positie waarin de persoon haar vertrouwelijkheidsplichten ten opzichte van een ander bedrijf dient te schenden.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

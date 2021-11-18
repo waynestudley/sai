@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[كيف يجب أن يرد دان على طلب إيما؟]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c02/m10c02s14/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[يجب أن يستجيب لطلب إيما للمساعدة في دعم موظفة زميلة.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[يجب ألا يقوم دان بتوفير أي معلومات طبية بشكل مباشر في رسالة البريد الإلكتروني، إلا أنه يمكنه إرسال ارتباط إلى مدونة إيما.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[بدلاً من إرسال رسالة بريد إلكتروني إلى كل الموظفين العاملين في الشركة، يقترح دان أن تستفسر إيما من ساندي عما يمكنهم القيام به لمساعدتها.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[يرسل دان رسالة بريد إلكتروني إلى كل الموظفين العاملين في شركة Johnson Controls تحتوي على معلومات تتعلق بالحادث الذي تعرضت له ساندي بالإضافة إلى ارتباط إلى مدونة إيما.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[يرسل دان رسالة بريد إلكتروني تحتوي على ارتباط إلى مدونة إيما. ويبدو أنه لا يدرك أن هذا التصرف يعد بمثابة استخدام غير مناسب لقائمة عناوين البريد الإلكتروني للموظفين.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[عندما تستفسر إيما عما يمكن أن تفعله، تقترح ساندي أن تخبر إيما عدد قليل من الزملاء في العمل بشأن صفحة Facebook والصندوق الذي قامت العائلة بإعداده.]]></text>
+			<text><![CDATA[تتشارك إيما هذه المعلومات مع الأشخاص الذين تقترحهم ساندي فقط. يرسل الزملاء في العمل رسائل تتمنى لها الشفاء، مما يعزز من الروح المعنوية لساندي. ويتبرع عدد قليل للغاية للصندوق من أجل النفقات الطبية الخاصة بساندي، مما يساعد على التخلص من مخاوفها.]]></text>
+		</correct>
+	</feedback>
+</contents>

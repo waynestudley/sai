@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[ทอมกำลังขอที่อยู่ของลูกค้าของจอห์นสัน คอนโทรลส์ ที่เป็นผู้มีชื่อเสียง ทอมเสนอส่วนแบ่งผลประโยชน์ให้แก่เอ็มม่าถ้าเธอสามารถให้ที่อยู่ได้ เอ็มม่าควรทำอย่างไร]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[ทำให้ทอมเห็นชัดเจนว่าเธอไม่ต้องการเงิน แต่ยังคงให้รายการแก่เขา]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[ปฏิเสธที่จะให้รายการที่อยู่แก่ทอม แต่อย่าบอกผู้อื่นในกรณีที่พวกเขาคิดว่าเธอมีส่วนเกี่ยวข้อง]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[ปฏิเสธที่จะให้รายการที่อยู่แก่ทอม และรายงานสถานการณ์ให้ผู้จัดการของเธอทราบ]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[เมื่อเอ็มม่ายินยอมที่จะให้ที่อยู่แก่ทอม เธอก็มีความเสี่ยงแม้ว่าเธอจะไม่รับส่วนแบ่งจากผลประโยชน์ก็ตาม]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[เอ็มม่าทำถูกที่ปฏิเสธที่จะให้รายการที่อยู่แก่ทอม แต่เธอควรตระหนักว่าแม้แต่คำขอของเขาก็เป็นปัญหา]]></text>
+			<text><![CDATA[เอ็มม่าควรพูดกับผู้จัดการของเธอหรือสมาชิกฝ่ายกฎหมาย หากทอมยังคงดำเนินการต่ออาจก่อให้เกิดความเสี่ยงด้านความเป็นส่วนตัวของบริษัท]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[เอ็มม่าทำถูกที่ปฏิเสธที่จะให้ที่อยู่แก่ทอมและยังรายงานเกี่ยวกับคำขอของเขาให้ผู้จัดการของเธอทราบ หากเธอให้ข้อมูลแก่ทอม เธอจะละเมิดความเป็นส่วนตัวของลูกค้า และการที่เธอรายงานจะช่วยบริษัทป้องกันเหตุการณ์ดังกล่าวได้]]></text>
+		</correct>
+	</feedback>
+</contents>

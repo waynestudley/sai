@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="hotSpotCustom" className="m09s04">
+	<transcript>
+		<text path="audio/module9/m09s04" id="0"><![CDATA[Le società le cui informazioni vengono prese ingiustamente di mira possono avviare un’azione legale e spesso la legge è dalla loro parte. Fai clic su ciascun titolo per vedere ciò che può accadere quando le cose vanno male.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 490px;margin-bottom: 0px;line-height: 19px;"><![CDATA[Come illustrato nei seguenti esempi, molte società e molte persone hanno dovuto affrontare gravi conseguenze per il modo in cui hanno raccolto le informazioni relative alle società o ai prodotti della concorrenza.]]></text>	
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s04/contentBackground.jpg" className="bg-pos-right-center" ipadPath="content/images/ltr/module9/m09s04/contentBackground.jpg" minwidth="769"><![CDATA[Persona che legge un quotidiano]]></img>
+		<img path="content/images/ltr/module9/m09s04/img_02.png" minwidth="769"><![CDATA[Quotidiano “The World”]]></img>
+	</contentBackground>
+	 <contentBg style="padding:20px 20px 10px 20px;"></contentBg>
+	<popBackground>		
+		<img path="" />		
+	</popBackground>
+	<pageTitle style="width: 490px;"></pageTitle>
+	<instructionText style="width: 490px;margin-bottom: 5px;">
+		<text><![CDATA[Fai clic sui titoli dei quotidiani.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<hotSpotContent>
+		<hotSpot width="150px" top="72px" left="17px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="40px"><![CDATA[Proctor &amp; Gamble]]></buttonText>
+			<popText animPosRight="400px" animPosTop="300px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Proctor &amp; Gamble]]></text> 				
+				<text style="width:370px"><![CDATA[Proctor &amp; Gamble (P&amp;G) ha pagato 10 milioni di dollari USA a Unilever dopo aver scoperto che alcuni appaltatori esterni che rispondevano a P&amp;G hanno passato sei mesi a prelevare dei documenti dai cestini dell’immondizia fuori dagli uffici di Unilever. ]]></text> 				
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup1_img.png" />]]></text> 				
+			</popText>
+			<tick style="right: -35px;top:5px;"></tick>
+		</hotSpot>
+		
+		
+		<hotSpot width="132px" top="238px" left="105px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="55px"><![CDATA[Oracle Corporation]]></buttonText>
+			<popText animPosRight="400px" animPosTop="460px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Oracle Corporation]]></text>				
+				<text style="width:370px"><![CDATA[Oracle Corporation ha ammesso di aver pagato i custodi affinché consegnassero alla società l’immondizia prelevata dagli uffici di un gruppo che agiva per conto di Microsoft. Dopo che la notizia è emersa, il valore delle azioni Oracle è calato del 13% e gli analisti finanziari ne hanno abbassato il rating.]]></text>
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup2_img.png" />]]></text> 						
+			</popText>
+			<tick style="right: -35px;top:10px;"></tick>
+		</hotSpot>
+		
+		<hotSpot width="116px" top="30px" left="248px" letter_spacing="0px">	
+			<buttonText paddingTop="0px" height="50px"><![CDATA[Apple]]></buttonText>
+			<popText animPosRight="230px" animPosTop="250px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Apple]]></text>				
+				<text style="width:370px"><![CDATA[Due individui, che in un bar avevano trovato un prototipo di Apple iPhone 4 e l’avevano passato a un giornalista, sono stati riconosciuti colpevoli di furto di minore gravità e condannati a un periodo di prova e ai lavori socialmente utili, pagando inoltre ciascuno delle sanzioni da centinaia di dollari.]]></text>
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup3_img.png" />]]></text> 		
+			</popText>
+			<tick style="right: -35px;top:10px;"></tick>
+		</hotSpot>
+		
+		<hotSpot width="118px" top="176px" left="351px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="48px"><![CDATA[Google]]></buttonText>
+			<popText animPosRight="230px" animPosTop="400px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Google]]></text>				
+				<text style="width:370px"><![CDATA[Di recente, la società Waymo di proprietà di Google ha avviato un’azione legale nei confronti di Uber, sostenendo che un dipendente di Google, prima di lasciare l’azienda e lavorare per Uber, avesse scaricato 14.000 documenti segreti relativi alla tecnologia di guida autonoma. Google ha fatto richiesta di 2,6 miliardi di dollari USA di danni.]]></text>	
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup4_img.png" />]]></text> 		
+			</popText>
+			<tick style="left: -35px;top:10px;"></tick>
+		</hotSpot>
+	</hotSpotContent>	
+</contents>

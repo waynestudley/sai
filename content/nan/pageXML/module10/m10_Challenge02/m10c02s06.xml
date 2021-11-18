@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[按「下一步」繼續。]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[艾瑪試著不讓兼差的工作影響到她在 Johnson Controls 的工作， 但是，耳語在辦公室裡傳得沸沸揚揚，現在已經有三個同事想要買她最新的房子！  接聽客戶電話時，艾瑪收到會計部的珊迪傳來的即時訊息。]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[<i>「嘿，艾瑪。 我超想參觀 Newbury 路上的那間房子。 你傳給我的連結看起來好棒。 我一直想找這樣的房子。 你今天可以早點走，避開車流，然後帶我去參觀嗎？」</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:8px;line-height:20px">
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;line-height:18px">
+		<option answer="0" feedbackId="1"><![CDATA[艾瑪同意提早下班，帶珊迪去看房子。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[艾瑪跟珊迪說，她有更多電話要接，還要處理一些文書工作，沒有辦法提早下班。 但她說她的筆記型電腦裡有更多照片和影片，珊迪今天隨時都可以到她的位置瀏覽，然後再進一步討論。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[艾瑪告訴珊迪，她今天晚上沒有辦法帶她去看房子，但是她跟客戶講完電話後，會寄更多照片給她。 她要珊迪今天晚上打電話到她家詳細討論。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height: 150px;" fcStyle="top: -150px;">
+			<text style="padding-top:12px;"><![CDATA[這是最危險的選擇。 我們來看看艾瑪做這個決定會導致什麼後果。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 150px;" fcStyle="top: -150px;">
+			<text style="padding-top:25px;"><![CDATA[雖然艾瑪並沒有早退，但是她仍然利用 Johnson Controls 的財產和公司工作時間來執行她不應做的兼差工作，而且她也造成其他想看房子的同事分心。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 150px;" fcStyle="top: -150px;">
+			<text style="padding-top:25px;"><![CDATA[艾瑪努力把兩分工作區分清楚； 但是，她不應該使用她工作用的筆記型電腦、即時訊息或工作電子郵件來做兼差的工作，而且她也造成其他想看房子的同事分心。]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[يفكر "مارك" في كيفية الرد على رسالة البريد الخاصة بالعميل. هل تعلم ما عليك القيام به في هذا الموقف؟ حدد خيارًا واحدًا ثم أرسل إجابتك.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[إذا كتبت رسالة للرد على العميل تطلب فيها المزيد من المعلومات، مثل اسم شركته وموقعها، فهل يعتبر بريدك الإلكتروني عملية تصدير وهل تعلم السبب في ذلك؟]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[موظف]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;left: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[حدد خيارًا واحدًا ثم أرسله.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[نعم، فكل رسالة بريد إلكتروني هي على الراجح عملية تصدير، نظرًا لأن الخوادم يمكن أن تكون في بلدان مختلفة، وبهذا يمكن أن تعبر رسالة البريد الإلكتروني الكثير من الحدود الدولية]]></option>	
+		<option><![CDATA[نعم، لأن أي رسالة بريد إلكتروني تطلب معلومات من شخص في بلد آخر هي دومًا عملية تصدير لأنك تتلقى معلومات شخصية]]></option>	
+		<option><![CDATA[لا، فببساطة قيامك بالرد على عميل تطلب منه المزيد من المعلومات لا يعدُّ عملية تصدير]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[هذا صحيح.]]></text>
+			<text><![CDATA[للتأكّد من الامتثال مع ضوابط التصدير، عليك أن تكتب إلى العميل للتعرّف على مزيد من المعلومات.]]></text>
+			<text><![CDATA[ومع ذلك، لا يمثل إرسال هذا البريد الإلكتروني في حد ذاته عملية تصدير إلا إذا شاركت أيضًا رسومات التصميمات الخاصة بالمنتج أو تقنيته أو معلومات المنتج الأخرى الخاضعة للضوابط أو أرفقتها فيه.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[عذرًا، هذا ليس صحيحًا.]]></text>
+			<text><![CDATA[للتأكّد من الامتثال مع ضوابط التصدير، عليك أن تكتب إلى العميل للتعرّف على مزيد من المعلومات.]]></text>
+			<text><![CDATA[ومع ذلك، لا يمثل إرسال هذا البريد الإلكتروني في حد ذاته عملية تصدير إلا إذا شاركت أيضًا رسومات التصميمات الخاصة بالمنتج أو تقنيته أو معلومات المنتج الأخرى الخاضعة للضوابط أو أرفقتها فيه.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

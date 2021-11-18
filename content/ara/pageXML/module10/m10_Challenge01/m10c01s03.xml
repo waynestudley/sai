@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[يفكر جيان، الذي يدرك أنه سوف يقضي عدة ساعات منتظرًا في المستشفى، في أخد عمله معه. ما الذي ينبغي عليه فعله من وجهة نظرك؟ حدد خيارًا واحدًا ثم انقر على "موافق".]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[يرغب جيان في المغادرة للحاق بزوجته في المستشفى، إلا أن هناك مشروعات ملحة تحتاج إلى أن يعتني بها. يمكنه أخذ جهاز الكمبيوتر المحمول الخاص به واستخدامه في المستشفى، إلا أنه يعرف أن العمل على جهاز الكمبيوتر المحمول الخاص به في مكان بعيد عن مقر العمل لا يكون آمنًا مثل التواجد داخل شبكة الشركة.]]></text>
+		<text><![CDATA[ما أفضل طريقة لجيان للتحقق من إتمام العمل المطلوب منه بحلول موعد تسليمه؟]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[بيئة مكتبية]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[يقوم جيان بتحميل المعلومات لمشروع تيكسيلا، بما في ذلك الملف الرئيسي للموردين، إلى حسابه الشخصي على Dropbox. وبتلك الطريقة، يمكنه الوصول إليه باستخدام جهاز الكمبيوتر المحمول الخاص به في المستشفى، ولن يتم إرساله عبر الإنترنت أو تنزيله على الجهاز الخاص به.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[يقوم جيان بوضع معلومات الموردين والملف الرئيسي للموردين على فلاشة ويقوم بتشفيرها. فذلك يبدو أكثر أمنًا بالنسبة له من الوصول إلى المعلومات عبر الإنترنت.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[يتفاوض جيان مرة أخرى لتمديد وقت تسليم المشروع الذي كان يعمل عليه في الأساس، ويكمل العمل على مشروع تيكسيلا قبل المغادرة متوجهًا إلى المستشفى.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[إن قرار جيان يعرض بيانات الشركة والعملاء والموردين لخطر انتهاك الخصوصية.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[وقد اتخذ جيان خطوات لحماية معلومات الشركة والموردين، ولكن، هل خلق مشكلة مختلفة؟]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 190px;" fcStyle="top: -185px;">
+			<text style="padding-top:25px;"><![CDATA[يتفاوض جيان مرة أخرى لتمديد وقت تسليم المشروع الذي كان يعمل عليه في الأساس، ويكمل العمل على مشروع تيكسيلا قبل المغادرة متوجهًا إلى المستشفى.]]></text>
+			<text><![CDATA[يستطيع جيان تسليم توصياته فيما يتعلق بالمورد قبل مغادرة العمل، ونتيجة لذلك، فإنه لا يحتاج إلى أخذ نسخة من معلومات الموردين السرية أو الملف الرئيسي للموردين. من خلال التفاوض بنجاح لتمديد موعد تسليم المشروع الآخر، فإنه قد ضمن ألا يتأثر المشروع الإجمالي بشكل سلبي.]]></text>
+			<text><![CDATA[والأفضل من ذلك، فإن جيان قادر على قضاء بعض الوقت مع زوجته بدون أن يتم تشتيته بفعل مواعيد التسليم الملحة.]]></text>
+		</correct>
+	</feedback>
+</contents>

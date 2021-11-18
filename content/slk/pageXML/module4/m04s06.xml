@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m04s06">
+	<transcript>
+		<text path="audio/module4/m04s06" id="0"><![CDATA[Pokiaľ ide o ochranu osobných údajov, nezabudnite: obmedziť, chrániť, odstrániť.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Naši dodávatelia, zákazníci a zamestnanci si cenia svoje súkromie a očakávajú, že budeme chrániť ich údaje. Pri spracovávaní osobných údajov, ako je napríklad zhromažďovanie, kopírovanie, dopĺňanie, ukladanie, odstraňovanie alebo vykonávanie iných činností s nimi, musíme dodržiavať tri kľúčové zásady: obmedziť, chrániť, odstrániť. Pozrite si každý panel nižšie a dozviete sa viac.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Po kliknutí na každé z tlačidiel odhalenia sa dozviete viac. Ak si chcete prečítať celú odpoveď, možno budete musieť posúvať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ODHALIŤ]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img1.png" style=""><![CDATA[Zamestnanec s telefónom pri uchu pracujúci na prenosnom počítači s osobnými údajmi]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Obmedzenie]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Osobné údaje spracúvajte iba vtedy, keď máte súhlas danej osoby a ak sú údaje potrebné na legitímne obchodné účely. <ul><li>Nikdy nezhromažďujte osobné údaje bez jasného a legitímneho obchodného účelu pre ich využitie.</li><li>Ubezpečte sa, že zhromažďovanie osobných údajov, ktoré vykonávate, je primerané, relevantné a nie je prebytočné vzhľadom na obchodné účely. Nikdy nezhromažďujte viac osobných údajov, než potrebujete.</li><li>Osobné údaje používajte len na stanovený účel, na ktorý ste ich získali.</li></ul>]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img2.png" style=""><![CDATA[Ikona šifrovania]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Ochrana]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Uistite sa, že osobné údaje sú chránené pred neoprávneným použitím a náhodnou stratou, poškodením alebo zničením.<ul><li>Len autorizovaný personál a dodávatelia s oprávnenou pracovnou potrebou smú mať prístup k osobným údajom.</li><li>Tam, kde je to možné, si uchovávajte len počítačové kópie údajov a všetky súbory chráňte pred neoprávneným použitím pomocou šifrovania alebo zabezpečenia silným heslom. Fyzické kópie sa dajú ľahšie stratiť alebo ľahšie sprístupniť a mali by ste ich obmedziť na nevyhnutné minimum a vyhnúť sa im tam, kde je to možné.</li><li>Nikdy neukladajte osobné údaje do zdieľaných súborov alebo adresárov, kde k nim môžu mať prístup osoby bez potreby alebo oprávnenia na ich sledovanie.</li><li>Vyhnite sa uchovávaniu elektronických záznamov na viacerých miestach bez konzistentnej údržby.</li></ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module4/m04s06/img3.png" style=""><![CDATA[Ikonka koša na klávesnici]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Odstránenie]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[Osobné údaje uchovávajte len tak dlho, ako to vyžaduje zákon, prípadne pokiaľ je to relevantné z hľadiska pôvodného obchodného účelu, na ktorý boli zhromaždené.<ul><li>Pravidelne revidujte údaje, aby ste sa uistili, že sú aktuálne, presné a stále relevantné pre obchodné účely, na ktoré boli pôvodne zhromaždené.</li><li>Ak údaje už nie sú potrebné, bezpečne ich zlikvidujte skartovaním alebo umiestnením do odpadových nádob na dôverné dokumenty, ak ich máte k dispozícii.</li></ul>]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

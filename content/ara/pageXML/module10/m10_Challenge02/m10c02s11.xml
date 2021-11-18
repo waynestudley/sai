@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[تشعر إيما بشعور سيء للغاية حيال وضع ساندي. وهي تعتقد أن إشراك الآخرين يمكن أن يساعدها. كيف يمكن أن تساعد إيما زميلتها في العمل؟]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;">
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[مفاجأة ساندي من خلال إنشاء موقع جماهيري لتجميع التبرعات عبر الإنترنت لتوثيق شفاء ساندي والمعاناة المالية التي تمر بها، بالإضافة إلى تجميع التبرعات للمساعدة في النفقات الطبية.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[استخدام المدونة العقارية الخاصة بها لدفع المزيد من الأشخاص للتبرع إلى جهود تجميع التبرعات التي تقوم بها الأسرة.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[طلب الحصول على إذن من ساندي قبل أن تتواصل مع أي شخص أو قبل الكتابة على أي نوع من أنواع وسائل التواصل الاجتماعي حول الحادث ومعاناة ساندي على الاستشفاء.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[تقوم إيما بإنشاء موقع لتجميع التبرعات لساندي، وتقوم بتضمين معلومات حول إصابات ساندي وتشخيصاتها الحالية.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[يتمتع موقع الويب الخاص بإيما ومدونتها بقدر كبير من الحركة عليه، وبالتالي فإنها ترى أن هذه الطريقة رائعة لجذب المزيد من الأشخاص للتعرف على محنة ساندي والتبرع لها. وتقرر إضافة معلومات حول الحادث الذي تعرضت له ساندي وجهود عائلتها لتجميع التبرعات إلى موقع الويب العقاري والمدونة العقارية الخاصين بها.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:200px;" fcStyle="top:-160px;">
+			<text style="padding-top:25px;"><![CDATA[تطلب إيما الإذن من ساندي للكتابة حول الحادث الذي تعرضت لها ونشر تلك المعلومات على المدونة الخاصة بها كوسيلة لتجميع التبرعات لتنفيذ الرعاية الطبية لساندي.]]></text>
+			<text><![CDATA[توافق ساندي، إلا أنها تطلب أن يتم توجيه التبرعات إلى صندوق خاص بالمنشأة الطبية بدلاً من ذلك.]]></text>
+			<text><![CDATA[من خلال طلب إذن ساندي فيما يتعلق بما يمكن أن تشاركه وكيف تستخدم المعلومات الشخصية الخاصة بها، تضمن إيما أنها لن تسيء استخدام المعلومات الشخصية الخاصة بساندي وأنها ستحترم خصوصيتها بفاعلية.]]></text>
+		</correct>
+	</feedback>
+</contents>

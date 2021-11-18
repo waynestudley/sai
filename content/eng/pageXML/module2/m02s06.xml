@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[Select Gift or Entertainment for each of these examples, then click on Submit.]]></text>		
+	</transcript>
+	 <contentBackground cName="" >		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg"  minwidth="769"><![CDATA[Workers in an office]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText >
+		<text style=""><![CDATA[See if you can recognize whether each example counts as a gift or entertainment.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Select Gift or Entertainment for each option then click on Submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1" >
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png" ><![CDATA[Employees at a team meal with a supplier]]></img>
+			<text style="width: 406px;"><![CDATA[A supplier invites the entire project team to a meal to celebrate the end of a big project]]></text>			
+		</option>
+		<option answer="1,0" >
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png" ><![CDATA[Thoughtful Employee]]></img>
+			<text style="width: 406px;" ><![CDATA[A customer gives you a voucher for a massage at a local resort as a "thank you" for your work]]></text>
+		</option>
+		<option answer="0,1" >
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png" ><![CDATA[Thoughtful Employee]]></img>	
+			<text style="width: 406px;" ><![CDATA[You are attending a trade show on behalf of the company and the organizers invite attendees to an evening event]]></text>	
+		</option>
+		<option answer="1,0" >
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png" ><![CDATA[Thoughtful Employee]]></img>	
+			<text style="width:406px;" ><![CDATA[A supplier offers to pay for your team’s meal at a local restaurant after an on-site meeting, but the supplier won’t be attending]]></text>	
+		</option>
+		<option answer="1,0" >
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png" ><![CDATA[Thoughtful Employee]]></img>	
+			<text style="width:406px;" ><![CDATA[A supplier invites you to a sporting event, but feels ill and tells you to go without her]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[Gift]]></text>
+		<text styleWidth="width:100px;"><![CDATA[Entertainment]]></text>
+	</optionAnswer>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[That’s correct.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Different rules apply when it comes to reporting gifts and entertainment. Remember that the giver shares in the benefit when it is entertainment – they attend the dinner, they go to the event too, etc.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[A supplier inviting the team to a meal or attending a trade show evening event is entertainment, since both provide opportunities to discuss business and the giver shares in the benefit. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[A gift certificate, and events where the giver won’t be at the invited event, are considered gifts. ]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[That’s not correct.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Different rules apply when it comes to reporting gifts and entertainment. Remember that the giver shares in the benefit when it is entertainment – they attend the dinner, they go to the event too, etc.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[A supplier inviting the team to a meal or attending a trade show evening event is entertainment, since both provide opportunities to discuss business and the giver shares in the benefit. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[A gift certificate, and events where the giver won’t be at the invited event, are considered gifts. ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>
+

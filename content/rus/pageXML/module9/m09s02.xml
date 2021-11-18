@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m09s02">
+	<transcript>
+		<text path="audio/module9/m09s02" id="0"><![CDATA[Ниже представлено несколько людей, которые думали, что они помогают, но на самом деле они подвергали свои компании серьезному риску. Щелкните изображение каждого сотрудника, чтобы узнать больше.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px;line-height:18px;"><![CDATA[Вы уже увидели, почему конкурентная информация может представлять ценность! Но независимо от того, насколько она полезна, мы никогда не должны принимать конкурентную информацию, полученную посредством незаконных или неэтичных действий, таких как приведенные ниже.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s02/contentBackground.jpg" minwidth="769" />
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;line-height:25px;"></pageTitle>
+	<instructionText style="width: 924px;line-height:20px;">
+		<text><![CDATA[Щелкните изображение каждого человека.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="190px" top="20px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn1.png" minwidth="769"><![CDATA[Сотрудник]]></img>
+			<buttonText style="height: 58px;font-size: 14px;"><![CDATA[Выдача себя за другого человека]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 70px;top: 5px;">
+				<text><![CDATA[Я позвонил в компанию конкурента и выдал себя за клиента. Я подумал, что зная их цены, мне было бы проще конкурировать с ними.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="20px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn2.png" minwidth="769"><![CDATA[Сотрудник]]></img>
+			<buttonText style="height: 58px;font-size: 14px;"><![CDATA[Проверка мусора]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 70px;top: 5px;">
+				<text><![CDATA[Однажды вечером после работы я проверил мусорные контейнеры возле офисов компании-конкурента. Как и следовало ожидать, мне удалось найти кое-какую информацию о выпуске их новых продуктов.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="20px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn3.png" minwidth="769"><![CDATA[Сотрудница]]></img>
+			<buttonText style="height: 58px;font-size: 14px;"><![CDATA[Плата другим людям за инсайдерскую информацию]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 70px;top: 5px;">
+				<text><![CDATA[Я заплатил бывшему сотруднику, чтобы он дал мне пароли от сетей компании. Я нашел много интереснейшей информации, и никто даже не догадывается, что я побывал там.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="20px" left="749px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn4.png" minwidth="769"><![CDATA[Сотрудница]]></img>
+			<buttonText style="height: 58px;font-size: 14px;"><![CDATA[Сговор с неэтичным клиентом]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: 5px;">
+				<text><![CDATA[Я встретился с клиентом, прежде чем подавать тендерную заявку на предстоящий проект. Во время встречи он ненадолго вышел из комнаты, сказав, что мне следует заглянуть в папку на его столе. Открыв ее, я увидел тендерную заявку нашего конкурента, включая их цены. Я использовал эту информацию, чтобы подать более привлекательное предложение. ]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

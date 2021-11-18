@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[Sebagus manakah anda dalam mengenal pasti situasi berisiko? Baca senario ini dan tentukan sama ada ia menunjukkan konflik kepentingan.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[Pejabat]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Bolehkah anda mengenal pasti konflik kepentingan?  Tentukan sama ada situasi berikut menunjukkan kemungkinan konflik dan patut didedahkan atau tidak:]]></text>
+	</contentText>
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Pilih Ya atau Tidak untuk setiap pilihan, kemudian klik Serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+		<text><![CDATA[Klik pada tanda soal untuk mengetahui lebih lanjut.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[Wanita memakai apron seolah-olah bekerja di kedai roti]]></img>
+			<text style="width: 450px;"><![CDATA[Jennifer, seorang pekerja Johnson Controls, merancang untuk bekerja di kedai roti baharu kakaknya pada hujung minggu – tetapi pada minggu ini, dia memaklumkan melalui telefon yang dia sakit supaya dapat membantu menguruskan kedai untuk Pembukaan Besar-besaran mereka.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[Lelaki berpakaian perniagaan]]></img>
+			<text style="width: 450px;"><![CDATA[Alex, seorang pekerja pemerolehan di Johnson Controls, memikirkan bahawa rakannya, Steve tentu sempurna untuk kerja kosong di Syarikat tersebut. Dia memberitahu Steve mengenai kerja tersebut dan mencadangkan agar Steve melengkapkan permohonan dalam talian.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[Wanita berpakaian perniagaan, berketurunan Timur Tengah]]></img>	
+			<text style="width: 450px;"><![CDATA[Basma ialah jurutera kualiti di Johnson Controls. Vendor yang dia uruskan menawarkan dia peluang perundingan. Vendor tersebut berkata mereka sedang mencari bantuan bagi menyediakan pemeriksaan kualiti keluar untuk baris produk baharu yang mereka cipta untuk Johnson Controls. Vendor tersebut menjelaskan bahawa Basma boleh melengkapkan kerja pada waktu malam atau pada hujung minggu – di luar jadual kerja tetapnya.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[Lelaki berpakaian perniagaan]]></img>	
+			<text style="width:450px;"><![CDATA[Carl bertanggungjawab untuk memilih vendor IT bagi menyokong Johnson Controls dalam projek yang penting. Dia telah membuat pelaburan yang besar dalam syarikat IT rakannya pada awal tahun ini dan syarikat tersebut kini telah menyerahkan bidaan untuk kerja tersebut.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Ya]]></text>
+		<text><![CDATA[Tidak]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[Itu betul.]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[Itu salah. ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[Klik pada tanda soal untuk mengetahui lebih lanjut.]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[Tidak menjadi masalah jika Jennifer bekerja di kedai roti pada hujung minggu untuk membantu kakaknya. Walau bagaimanapun, ia mewujudkan konflik jika komitmennya kepada kakaknya mempengaruhi tanggungjawab kerjanya di Johnson Controls, seperti apabila dia buat-buat sakit dan tidak hadir sehari ke tempat kerja semasa hari kerja kerana membantu di kedai roti.]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[Walaupun Alex bekerja di jabatan pemerolehan, dia tidak menggunakan jawatannya untuk membantu rakannya mendapatkan pekerjaan. Tindakan Alex mengesyorkan Steve agar melengkapkan permohonan dalam talian boleh diterima kerana Steve akan melalui proses yang sama seperti yang akan dilakukan oleh semua pemohon lain.]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[Basma menyelia kerja vendor dan dia kini mempertimbangkan tawaran untuk bekerja dengan vendor tersebut secara sambilan. Jika kedua-dua syarikat mengambilnya bekerja, di manakah kesetiaannya? Terdapat kemungkinan bagi dia untuk mengalami konflik dan situasi sedemikian perlu dielakkan. Sekurang-kurangnya Basma perlu mendedahkan kemungkinan konflik kepentingan.]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[Carl akan mendapat manfaat dari segi kewangan jika syarikat yang dia telah melabur di dalamnya memenangi bidaan. Hubungan peribadinya untuk membuat keputusan boleh mempengaruhi keupayaannya untuk membuat keputusan yang tidak berat sebelah, menjadikan ini konflik kepentingan.]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

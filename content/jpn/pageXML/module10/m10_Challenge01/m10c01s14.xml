@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;font-size:14px;line-height:20px;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[封筒にはUSD$300が入っています。 ジアンはすでに贈答品を拒否しており、サプライヤーはしつこく贈答品を渡すことを要求しています。 彼はどうすべきですか？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[会議室]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+	</instructionText>
+	<optionContent style="font-size:14px">
+		<option answer="0" feedbackId="1"><![CDATA[現金を持っています。 サプライヤーの選択プロセスはすでに終わっているため、ジアンはベンダーに関与する影響力のあるポジションにはもういません。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[再度現金を拒否します。 しかし、サプライヤーがエドゥアルドのお気に入りのレストランのUSD$100のギフトカードを提供した場合、受け取ります。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[再度現金を拒否しますが、サプライヤーがジアンをチームのディナーに招待した場合はその誘いを受けます。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[ジアンは誰にも見つからないように現金を持っています。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[ジアンが2回目に現金を拒否した後、サプライヤーは最低でもUSD$100のレストランのギフトカードを受け取るように主張しました。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[ジアンは再度現金を丁寧に拒否しますが、サプライヤーがジアンをチームのディナーに招待した場合は誘いを受けます。]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s06">
+	<transcript>
+		<text path="audio/module6/m06s06" id="0"><![CDATA[Co jiného lze udělat, aby se zabránilo zneužívání trhu? Kliknutím na jednotlivá tlačítka zobrazíte další informace.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Máme-li dominantní postavení na trhu, musíme se vyhnout jednání a strategiím, které by mohly být považovány za zneužití tohoto postavení.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s06/contentBackground.jpg" minwidth="769"><![CDATA[Dva lidé vytvářejí strategii na pozadí kanceláře]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Kliknutím na jednotlivá tlačítka zobrazíte další informace. K zobrazení celé odpovědi bude pravděpodobně nutné posouvat text.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ZOBRAZIT]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s06/img1.png"><![CDATA[Produktový balíček]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Vázání prodeje]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Toto nastává, když společnost spojuje produkty do balíčku a neumožňuje je zakoupit samostatně.]]></text>						
+				<text><![CDATA[Spotřebitel je v konečném důsledku nucen koupit produkt, který pravděpodobně nechce, jen aby mohl koupit ten, který chce.]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s06/img2.png"><![CDATA[Kupující a prodávající procházejí ceny produktů]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Exkluzivní obchodní spolupráce]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Toto nastává, když je kupující fakticky přinucen kupovat většinu či všechny produkty nebo služby od jednoho prodejce, obvykle po určitou stanovenou dobu.]]></text>					
+				<text><![CDATA[Evropská komise udělila společnosti Intel pokutu ve výši 1,06 miliardy EUR za to, že svým zákazníkům poskytla rabaty k posílení loajality s cílem vyloučit ostatní konkurenty z trhu. Tyto rabaty byly podmíněny tím, že budou od dominantního podniku nakupovat vše (nebo téměř vše), co potřebují.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img3.png"><![CDATA[Ilustrace 50% slevy v nákupním košíku]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Predátorská cenová tvorba]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Toto nastává, když určitá společnost prodává spotřebitelům za uměle nízkou cenu a záměrně dosahuje ztráty.]]></text>			
+				<text><![CDATA[Společnosti toto obvykle dělají s cílem eliminovat konkurenty, kteří si nemohou takto nízké ceny dovolit, a proto se rozhodnou odejít z trhu.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img4.png"><![CDATA[Graf znázorňující zvýšení ceny]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Odmítnutí obchodovat]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Toto nastává, když jedna společnost odmítne prodávat jiné nebo jí je ochotná prodávat pouze za cenu, která je likvidační.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img5.png"><![CDATA[Gentlemanská dohoda bránící distributorům prodávat určitým zákazníkům]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Prevence konkurence uvnitř značky]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Toto nastává, když společnosti uzavřou dohody s distributory, které jim brání prodávat na určitých územích nebo určitým zákazníkům.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

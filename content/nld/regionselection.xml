@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path=""><![CDATA[]]></text>
+	</transcript>
+	<contentText>		
+		<text><![CDATA[Selecteer uw regio]]></text>		
+	
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/Location_Selection.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[Doorgaan]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="R0"><![CDATA[Selecteer regio]]></option>
+			<option id="R1"><![CDATA[Azië en het Stille Oceaangebied]]></option>
+			<option id="R2"><![CDATA[Latijns-Amerika]]></option>
+			<option id="R3"><![CDATA[Midden-Oosten]]></option>
+			<option id="R4"><![CDATA[Europa/Afrika]]></option>
+			<option id="R5"><![CDATA[Noord-Amerika]]></option>
+	</dropDownMenu>
+</contents>

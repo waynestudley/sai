@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0"><![CDATA[Quelle serait votre réponse ? Sélectionnez une option puis cliquez sur Soumettre.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Si vous envoyez le dessin technique et les instructions d'intégration comme exigé, cela constitue-t-il une exportation ?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s05/contentBackground.jpg" minwidth="769"><![CDATA[Dessins techniques]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Sélectionnez une option puis cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Non, pas si la personne est un client de Johnson Controls]]></option>	
+		<option><![CDATA[Oui, envoyer des dessins techniques contrôlés à l’exportation et des instructions d’intégration à un client en France constitue une exportation]]></option>	
+		<option><![CDATA[Oui, mais uniquement si la personne se situe dans un pays faisant l’objet de restrictions tel que l’Iran]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[C’est exact.]]></text>
+			<text><![CDATA[Envoyer des informations techniques contrôlées à l’exportation, y compris des dessins de produits ou des instructions, à une personne située dans un autre pays est une exportation et exige une autorisation préalable.]]></text>
+			<text><![CDATA[Dans cette optique, vous ne devez pas envoyer les informations avant d’en savoir plus sur l’identité et le lieu du client, afin de déterminer les autorisations nécessaires pour autoriser l’exportation.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Désolé, ce n’est pas la bonne réponse.]]></text>
+			<text><![CDATA[Envoyer des informations techniques contrôlées à l’exportation, y compris des dessins de produits ou des instructions, à une personne située dans un autre pays est une exportation et exige une autorisation préalable.]]></text>
+			<text><![CDATA[Dans cette optique, vous ne devez pas envoyer les informations avant d’en savoir plus sur l’identité et le lieu du client, afin de déterminer les autorisations nécessaires pour autoriser l’exportation.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[许多利益冲突发生于小范围和个人层面上。 但是有些利益冲突事关重大，以至成为新闻头条。]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[多数利益冲突发生于小范围和个人层面上 – 但是一些利益冲突事关重大，以至成为新闻头条。]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[单击箭头以了解更多信息。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top:145px" btnConStyle="top:150px" >
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[投资组合经理与证券交易委员会调查员正在交谈]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:380px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[标题： 资产管理公司支付 1200 万美元解决冲突的指控]]></text>
+				<text style="font-size:15px;"><![CDATA[大型资产管理公司 Blackrock 支付 1200 万美元，以解决因其投资组合经理的行为而引起的利益冲突的指控。]]></text>
+				<text style="font-size:15px;"><![CDATA[美国 证券交易委员发现一名监管 Blackrock 部分能源基金的经纪人同时成立了一家家族所有的石油和天然气公司后，提出了指控。 此家族企业与一家煤炭公司合作，而该煤炭公司的股票占该经纪人经营基金中的最大持有量。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[医院董事会成员在新闻发布会上]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[标题： 医院董事会成员个人被罚 13,500 美元]]></text>
+				<text style="font-size:15px;"><![CDATA[纽约市公立医院系统的一名董事会成员因其在董事会与格林纳达医学院的职位产生冲突而被处个人罚款。]]></text>
+				<text style="font-size:15px;"><![CDATA[市冲突委员会发现，该医生滥用其董事会职位，游说市医院增加其所在医学院学生的实习机会。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[查看股票的人 ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[标题： JP Morgan 在交易中给出折中建议后支付 3500 万美元]]></text>
+				<text style="font-size:15px;"><![CDATA[投资巨头 JP Morgan 支付 3500 万美元，以解决其在 2015 年底将 Good Technology 出售给黑莓时的行为遭到的指控。 ]]></text>
+				<text style="font-size:15px;"><![CDATA[Good Technology 股东指控该公司的出售值低于其市值，而 JP Morgan 为该公司能从黑莓手中赢得未来投资银行业务而促成 Good Technology 的出售。 法院同意并给予股东严重判决。]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

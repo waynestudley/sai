@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[Esta situação aconteceu de verdade com um funcionário da Johnson Controls. O que você faria nesta situação? Selecione uma opção e clique em Enviar.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Você é o gerente de categoria em uma reunião de rotina com um comprador do cliente. Durante a reunião, você abre um banco de dados confidenciais do preço e volume de vendas de outro cliente para responder às perguntas do cliente que participa da reunião. Enquanto o cliente espreita, ele insiste que você envie todo o arquivo. O que deve fazer?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[Gerente de categoria em uma reunião com um comprador do cliente]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;line-height:20px;">
+		<text><![CDATA[Selecione uma opção e clique em Enviar.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px;line-height:18px;">
+		<option><![CDATA[Compartilha o banco de dados com o cliente. O sucesso do nosso cliente é nossa principal prioridade]]></option>	
+		<option><![CDATA[Explica que o banco de dados inclui informações pertencentes a outros clientes, então você não pode compartilhá-lo. Se o cliente insistir, finalize a reunião e fale com seu gerente ou a equipe Jurídica para obter orientações]]></option>	
+		<option><![CDATA[Concorda em compartilhar o banco de dados com o cliente, mas apenas depois de ele assinar um acordo de confidencialidade]]></option>	
+		<option><![CDATA[Fala com um advogado e inicia um processo judicial contra o cliente antes que ele possa usar as informações proprietárias em seu próprio negócio]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-215px">
+			<text style="font-size:17px;"><![CDATA[Está correto.]]></text>
+			<text style="line-height:18px;"><![CDATA[Os dados do cliente, como detalhes de contato e bancários, sempre são passados à Johnson Controls com a expectativa de que sejam mantidos confidenciais.]]></text>
+			<text style="line-height:18px;"><![CDATA[Esse tipo de dado privado de clientes nunca pode ser compartilhado com outros clientes da Johnson Controls.]]></text>
+			<text style="line-height:18px;"><![CDATA[Algumas consequências de compartilhar essas informações: <ul> <li>poderíamos ser processados pelos clientes cujas informações fossem divulgadas</li> <li>poderíamos ser acusados de fixação de preços</li> <li>poderíamos colocar em risco nossos direitos de Propriedade Intelectual ao banco de dados</li> <li>poderíamos comprometer nossa capacidade de oferecer serviços de gestão de categoria aos nossos clientes</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-215px">
+			<text style="font-size:17px;"><![CDATA[Não está correto.]]></text>
+			<text style="line-height:18px;"><![CDATA[Os dados do cliente, como detalhes de contato e bancários, sempre são passados à Johnson Controls com a expectativa de que sejam mantidos confidenciais.]]></text>
+			<text style="line-height:18px;"><![CDATA[Esse tipo de dado privado de clientes nunca pode ser compartilhado com outros clientes da Johnson Controls.]]></text>
+			<text style="line-height:18px;"><![CDATA[Algumas consequências de compartilhar essas informações: <ul> <li>poderíamos ser processados pelos clientes cujas informações fossem divulgadas</li> <li>poderíamos ser acusados de fixação de preços</li> <li>poderíamos colocar em risco nossos direitos de Propriedade Intelectual ao banco de dados</li> <li>poderíamos comprometer nossa capacidade de oferecer serviços de gestão de categoria aos nossos clientes</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

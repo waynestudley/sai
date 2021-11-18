@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[我們所有人都要避免發生賄賂與貪腐。 按一下每個標題確認我們可以怎麼做。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Johnson Controls 致力於遵守所有反賄賂及反貪腐法律。 實際行動如下：]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[清單]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[請選擇各個標題瞭解詳情。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[不要行賄]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[切勿為了影響業務聯絡人的判斷而贈與任何禮品。]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[保存詳實紀錄 ]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[不要試圖隱瞞或扭曲招待或禮品的花費，誠實詳盡記錄所有交易。 參閱我們的<a href="content/nan/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">第三方差旅、禮品和招待政策</a>瞭解更多資訊。]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[讓商業夥伴負起責任]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[讓與我們合作的所有第三方清楚知道我們的反賄賂標準。 監控他們的行為，並呈報所有貪腐的疑慮。 切勿和有貪腐行為的業務合作夥伴往來。]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[認識您的第三方]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[若您負責管理第三方，請確定他們完全符合 Johnson Controls 第三方計畫的規定。]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

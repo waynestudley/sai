@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[Хорошо ли вы знаете политику нашей компании в отношении подарков и развлекательных мероприятий? Выберите «Верно» или «Неверно» для каждого утверждения и щелкните «Отправить».]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[Сотрудники]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Какие из следующих утверждений о подарках и развлекательных мероприятиях верны?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Выберите «Верно» или «Неверно» для каждого утверждения и щелкните «Отправить».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[Кто-то принимает подарок во время развлекательного мероприятия]]></img>
+			<text style="width: 390px;"><![CDATA[Политики компании Johnson Controls регулируют все ситуации, связанные с подарками и развлекательными мероприятиями: неоднозначных ситуаций не бывает.]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[Задумчивый сотрудник]]></img>
+			<text style="width: 390px;"><![CDATA[При получении приглашения на развлекательное мероприятие или подарка вы должны задать себе вопрос: «Хотят ли от меня что-нибудь взамен?». ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[Задумчивый сотрудник]]></img>	
+			<text style="width: 390px;"><![CDATA[Если человек, которому вы предлагаете подарки или развлекательные мероприятия, может подумать, что вы хотите получить от него что-либо взамен, вы должны остановиться.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[Задумчивый сотрудник]]></img>	
+			<text style="width:390px;"><![CDATA[Лучше не предлагать и не принимать подарки и приглашения на развлекательные мероприятия: это слишком рискованно.]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Верно.]]></text>
+		<text><![CDATA[Неверно.]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style="font-size:14px;"><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -13px;width: 220px;height: 360px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;line-height:20px;"><![CDATA[Верно.]]></text>			
+			<text style="font-size: 13px;line-height:15px;"><![CDATA[Предоставлять и получать подарки и приглашения на развлекательные мероприятия в соответствующих обстоятельствах допустимо, однако при этом следует проявлять благоразумие и помнить указания компании Johnson Controls.]]></text>			
+			<text style="font-size: 13px;line-height:15px;"><![CDATA[В политиках нашей компании невозможно предусмотреть все вероятные ситуации, в силу чего вам необходимо тщательно оценивать все обстоятельства и проявлять благоразумие, а при возникновении сомнений обращаться за советом к соответствующим сотрудникам компании, прежде чем принимать какие-либо меры.]]></text>			
+		</correct>
+		<incorrect style="top: -13px;width: 220px;height: 360px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;line-height:20px;"><![CDATA[Неверно.]]></text>	
+			<text style="font-size: 13px;line-height:15px;"><![CDATA[Предоставлять и получать подарки и приглашения на развлекательные мероприятия в соответствующих обстоятельствах допустимо, однако при этом следует проявлять благоразумие и помнить указания компании Johnson Controls.]]></text>			
+			<text style="font-size: 13px;line-height:15px;"><![CDATA[В политиках нашей компании невозможно предусмотреть все вероятные ситуации, в силу чего вам необходимо тщательно оценивать все обстоятельства и проявлять благоразумие, а при возникновении сомнений обращаться за советом к соответствующим сотрудникам компании, прежде чем принимать какие-либо меры.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Tom vraagt Emma hem de adressen te bezorgen van klanten van Johnson Controls die beroemd zijn. Tom biedt Emma een deel van zijn winst aan als zij hem de adressen zou verstrekken. Wat moet Emma doen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Tom duidelijk maken dat ze geen geld wil, maar hem alsnog de lijst bezorgen.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Tom de lijst met adressen niet bezorgen, maar het aan niemand vertellen omdat men zou kunnen denken dat ze erbij betrokken is.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Tom de lijst met adressen niet bezorgen en dit aan haar manager melden.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Als Emma ermee instemt Tom de adressen te bezorgen, belanden ze beiden in een risicosituatie, zelfs als ze haar winstaandeel zou weigeren.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma heeft gelijk dat ze Tom de lijst met adressen niet bezorgt, maar ze had moeten beseffen dat zelfs het verzoek op zich problematisch is.]]></text>
+			<text><![CDATA[Emma moet zich tot haar manager of een lid van het juridische team wenden. Als Tom hiermee doorgaat, zou dit een privacyrisico voor het bedrijf kunnen vormen.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma heeft juist gehandeld door Tom de adressen niet te bezorgen en zijn verzoek aan haar manager te melden. Als ze Tom de informatie had gegeven, zou ze de klantenprivacy hebben geschonden. En door dit te melden, heeft ze het bedrijf geholpen een dergelijk voorval in de toekomst te voorkomen.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m10c03s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<pageTitle style="width: 354px;"></pageTitle>
+	<contentBg style="width: 456px;right: 30px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Carlos si trova in un'altra sede, e sta lavorando con una cliente, Hilde, sull’aggiornamento del sistema. Quel pomeriggio, Ingrid, una rappresentate di vendita in Johnson Controls, si incontra con Hilde per il rinnovo del loro contratto.]]></text>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Ingrid sa che Hilde sta accettando offerte da altre compagnie. Per rafforzare il loro rapporto, lei si offre di portare sia Hilde sia Carlos fuori a cena. Più tardi quella sera, quando Ingrid arriva al ristorante, Hilde è già seduta al tavolo.]]></text>
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s06/contentBackground.jpg" minwidth="769" className="bg-pos-left-bottom"><![CDATA[]]></img>
+	</contentBackground>	
+	<revelCollOut style="width: 450px;left: 0px;top:-200px;height:210px;position: relative;">		
+		<img path=""><![CDATA[]]></img>	
+		<text style=""><![CDATA[Ciao, Ingrid. Siamo arrivati presto, e spero che non ti dispiaccia, ma ho già ordinato il vino per la tavola. È costoso ma lo adoro. Non ho potuto resistere!]]></text>
+	</revelCollOut>	
+	<instructionText>
+		<text><![CDATA[Fai clic su Hilde.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<RevealButton style="top:10px;left: 0px;width: 450px;height: 210px;position: relative;">
+		<buttonImg path="content/images/ltr/module10/m10c03/m10c03s06/img_01.png" style="width:450px;height:165px;"><![CDATA[]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width:450px;height:210px;"><![CDATA[Hilde]]></buttonText>		
+	</RevealButton>
+	
+	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

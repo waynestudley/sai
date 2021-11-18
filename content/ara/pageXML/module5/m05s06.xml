@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[هل ترى أي علامات تحذيرية في هذا الموقف؟ حدد أيًّا مما رصدته منها ثم انقر فوق "إرسال".]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[ما العلامات التحذيرية المرتبطة بهذا البريد الإلكتروني؟]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[صندوق الوارد في البريد الإلكتروني]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;left: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[حدد كل العلامات التحذيرية، ثم انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[قد تكون هناك أكثر من إجابة صحيحة واحدة.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[يزعم المرسل أنه أحد عملاء شركة Johnson Controls]]></option>	
+		<option><![CDATA[يكتب العميل عن شركته لكنه يستخدم حسابًا على Gmail]]></option>	
+		<option><![CDATA[يطلب العميل معلومات قد تكون خاضعة للضوابط بدون تقديم المزيد من المعلومات عن نفسه]]></option>	
+		<option><![CDATA[يقول العميل إنه في فرنسا لكن لا يمكنك التحقق من ذلك عن طريق البريد الإلكتروني]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[هذا صحيح.]]></text>
+			<text><![CDATA[يطلب العميل معلومات تقنية قد يكون تصديرها خاضعًا لقيود، وهو مع ذلك لا يقدم الكثير من المعلومات عن نفسه.]]></text>
+			<text><![CDATA[وأخيرًا، تحتاج إلى التعرّف على المزيد بشأن هويته وموقعه وأي قيود تجارية سارية قبل تقديم أي دعم فني.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[عذرًا، هذا ليس صحيحًا.]]></text>
+			<text><![CDATA[يطلب العميل معلومات تقنية قد يكون تصديرها خاضعًا لقيود، وهو مع ذلك لا يقدم الكثير من المعلومات عن نفسه.]]></text>
+			<text><![CDATA[وأخيرًا، تحتاج إلى التعرّف على المزيد بشأن هويته وموقعه وأي قيود تجارية سارية قبل تقديم أي دعم فني.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

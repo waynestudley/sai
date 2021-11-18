@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[Sehen wir uns nun einige typische Alltagssituationen an. Tragen diese Personen durch ihr Verhalten dazu bei, dass personenbezogene Daten einem Risiko ausgesetzt werden?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Was könnte als Datenschutzrisiko angesehen werden?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[Belebtes Büro, Mitarbeiter am Computer]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Wählen Sie alle Szenarien aus, in denen personenbezogene Daten einem Risiko ausgesetzt werden.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Es ist möglich, dass mehrere Antworten richtig sind.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Nutzung eines öffentlichen WLAN-Zugangs]]></option>	
+		<option><![CDATA[Nutzung des gleichen Passworts an zwei Stellen]]></option>	
+		<option><![CDATA[Veröffentlichen eines Fotos aus einer Teambesprechung in sozialen Netzwerken – im Hintergrund ist das Whiteboard zu sehen]]></option>	
+		<option><![CDATA[Besprechen von Finanzdaten beim Telefonat mit einem Kunden in der Öffentlichkeit]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Das stimmt.]]></text>
+			<text><![CDATA[In allen diesen Beispielsfällen besteht ein Datenschutzrisiko.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Falsch.]]></text>
+			<text><![CDATA[In allen diesen Beispielsfällen besteht ein Datenschutzrisiko.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

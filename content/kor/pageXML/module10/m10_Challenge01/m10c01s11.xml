@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle="padding:10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 6px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text style="position:relative;top:0px;line-height:18px;font-size:15px;"><![CDATA[Nolan과 이야기한 후 Jian은 그 공급업체의 요청에 대해 걱정스러워합니다. 허가를 더 빨리 받기 위해 지불한다는 것을 공개적으로 밝히고 있다는 점에서 특히 걱정스럽습니다. ]]></text>
+		<text style="position:relative;top:6px;line-height:18px;font-size:15px;"><![CDATA[그래서 그는 법무 부서에 가서 이야기합니다. ]]></text>
+	</contentText>
+	<instructionText style="margin-top: 10px;">
+		<text><![CDATA[이야기의 각 단계를 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="8" y="265" width="178" />
+				<text><![CDATA[<span class="fontBold">Jian</span>]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="603" y="262" width="210" />
+				<text><![CDATA[<span class="fontBold">Li-Hua</span>, 변호사]]></text>			
+			</stripCallOut>
+		</strip>		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="40" y="32" width="282" arrowStyle="top:62px;" />
+				<text><![CDATA[저는 이 모든 상황이 왠지 불편합니다. TSR은 급행료로 쓸 돈을 요구하고 있는데 이는 Johnson Controls 정책에 완전히 위배되는 것입니다. 저는 우리 회사 변호사에게 가서 전체 상황을 이야기했습니다.]]></text>
+			</stripCallOut>
+		</strip>		
+		<strip id="3">
+			<stripThumImg numberText="3">
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="527" y="12" width="240" arrowStyle="top: 85px;" />
+				<text style="margin-bottom:10px;"><![CDATA[Jian은 급행료를 승인하지 않음으로써 그리고 공급업체의 요청에 대한 우려를 회사에 보고함으로써 올바른 행동을 했습니다. 여기서부터는 회사가 처리합니다.]]></text>
+				<text><![CDATA[회사는 또한 고객 계약의 위약 조항에 약간의 융통성이 있으므로 우리가 통제할 수 없는 지연 상황에 대해서는 위약금이 발생하지 않는다며 Jian을 안심시켰습니다.]]></text>
+			</stripCallOut>
+		</strip>
+	</comicStrip>
+</contents>

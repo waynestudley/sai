@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents >
+	<transcript>
+		<text path="audio/knowledgeCheck/knowledge_check_intro" id="0" ><![CDATA[Now that you have completed this course, check what you have learned by answering a series of questions. If you pass, you will be able to print a certificate of achievement. Click on Next to start the Knowledge Check.]]></text>
+	</transcript>
+	<contentBg style="padding: 0;top: 70px;width: 430px;right: 20px;" ></contentBg>
+	<pageTitle style="padding:15px 20px 10px 25px;width: 360px;margin-bottom:0px;"></pageTitle>
+	<contentText >
+		<text><![CDATA[Check your knowledge by answering a series of questions.]]></text>
+		<text><![CDATA[Questions:]]></text>
+		<text><![CDATA[Pass mark:]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="17px" left="0px" bgColor="transparent" color="#0080B6" padding="0px" position="relative" ><![CDATA[<i>Click the Next button <span class="nexticon" >[ <img src="content/images/ltr/preAssessment/Next_icon.png" /> ]</span>  to start.</i>]]></text>
+	</contentText>
+    <contentBackground >		
+		<img path="content/images/ltr/knowledgeCheck/assessmentIntro.jpg"   minwidth="800" minheight="600"><![CDATA[Johnson Controls staff at work]]></img>
+	</contentBackground>
+	
+</contents>

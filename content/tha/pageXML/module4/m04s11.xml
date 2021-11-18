@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[เราลองมาดูสถานการณ์ในทุก ๆ วันกัน ผู้คนเหล่านี้กำลังทำให้ข้อมูลส่วนบุคคลนั้นตกอยู่ในความเสี่ยงหรือไม่]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[ข้อใดถือเป็นความเสี่ยงต่อความเป็นส่วนตัวของข้อมูล]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[ออฟฟิศวุ่นวาย พนักงานกำลังทำงานบนคอมพิวเตอร์]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[เลือกเหตุการณ์ทั้งหมดที่คุณคิดว่าอาจก่อให้เกิดความเสี่ยงต่อข้อมูลส่วนบุคคล]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[คำตอบที่ถูกต้องอาจมีมากกว่าหนึ่งข้อ]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[การเข้าใช้ Wi‑Fi สาธารณะ]]></option>	
+		<option><![CDATA[ใช้พาสเวิร์ดเดียวกันสำหรับสองสถานที่]]></option>	
+		<option style="width:300px;"><![CDATA[โพสต์รูปของการประชุมพร้อมไวท์บอร์ดเป็นพื้นหลังบนโซเชียลมีเดีย]]></option>	
+		<option><![CDATA[อธิบายข้อมูลทางการเงินกับลูกค้าบนโทรศัพท์ในที่สาธารณะ]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[ถูกต้อง]]></text>
+			<text><![CDATA[ทั้งหมดนี้ต่างก่อให้เกิดความเสี่ยงต่อความเป็นส่วนตัวของข้อมูลของคุณ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[ไม่ถูกต้อง]]></text>
+			<text><![CDATA[ทั้งหมดนี้ต่างก่อให้เกิดความเสี่ยงต่อความเป็นส่วนตัวของข้อมูลของคุณ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

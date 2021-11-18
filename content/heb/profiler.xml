@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;left:20px;height: 481px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[התפקיד שלך]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[השב לשאלות אלה על תפקידך.]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[האם אתה יוצר אינטראקציה עם אנשים או ארגונים שמתחרים עם Johnson Controls?]]></text>
+		<text id="2"><![CDATA[האם אתה נושא באחריות לקבלת החלטות על רכש עבור Johnson Controls?]]></text>
+		<text id="3"><![CDATA[האם העבודה שלך כוללת שיווק, מכירות או משא ומתן עם לקוחות ולקוחות פוטנציאליים?]]></text>
+		<text id="4"><![CDATA[האם יש לך גישה למידע אודות לקוחות, קבלנים, ספקים או שותפים עסקיים של Johnson Controls, או למידע אודות אנשים שעובדים עבורם?]]></text>
+		<text id="5"><![CDATA[האם יש לך גישה למידע על עובדים של Johnson Controls?]]></text>
+		<text id="6"><![CDATA[האם אתה נמצא בקשר ישיר עם עובדים, לקוחות או ספקים של Johnson Controls שנמצאים בחו"ל או שיש להם גישה למידע טכני?]]></text>
+		<text id="7"><![CDATA[האם העבודה שלך כוללת נסיעות בינלאומיות, אירוח אורחים בינלאומיים או העבר מוצרים, אנשים ומידע של Johnson Controls למיקומים בחו"ל?]]></text>
+		<text id="8"><![CDATA[האם אתה משתתף באיגודי סחר מקצועיים או בכנסים מקצועיים?]]></text>
+		<text id="9"><![CDATA[האם נתת אי פעם מתנות לגורמי צד שלישי או קיבלת מתנות מגורמי צד שלישי, כמו לקוחות או ספקים?]]></text>
+		<text id="10"><![CDATA[האם אי פעם הענקת הטבת בידור לגורמי צד שלישי או קיבלת הטבת בידור מגורמי צד שלישי, כמו לקוחות או ספקים?]]></text>
+		<text id="11"><![CDATA[האם העבודה שלך כולל מחקר, פיתוח או תכנון הנדסי של המוצרים והשירותים של Johnson Controls?]]></text>
+		<text id="12"><![CDATA[האם אתה אחרי לפיתוח עסקים עם לקוחות חדשים או קיימים במיקומים חדשים או בתעשיות חדשות?]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/rtl/profileSelection.jpg" minwidth="769"><![CDATA[עובדים של Johnson Controls]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[כן]]></text>
+		<text><![CDATA[לא]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[המשך]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 400px;">
+		<text><![CDATA[בחר 'כן' או 'לא' עבור כל שאלה, ולאחר מכן לחץ על 'המשך'.]]></text>
+	</instructionText>
+	
+</contents>

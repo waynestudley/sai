@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[Inwieweit sind Sie mit unseren Unternehmensrichtlinien zu geschäftlichen Geschenken und Unterhaltungsangeboten vertraut? Wählen Sie für jede Option „Wahr“ oder „Falsch“ aus und klicken Sie auf „Übermitteln“.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[Mitarbeiter]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Sind diese Aussagen über Geschenke und Unterhaltungsangebote wahr oder falsch?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Wählen Sie für jede Option „Wahr“ oder „Falsch“ aus und klicken Sie auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[Person erhält Geschenk mit Unterhaltungsangebot im Hintergrund]]></img>
+			<text style="width: 390px;"><![CDATA[Die Richtlinien von Johnson Controls decken alle Situationen mit Bezug auf Geschenke und Unterhaltungsangebote ab. Unklarheiten sind nicht möglich.]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[Nachdenklicher Mitarbeiter]]></img>
+			<text style="width: 390px;"><![CDATA[Wenn Sie Unterhaltungsangebote oder Geschenke erhalten, sollten Sie sich immer folgende Frage stellen: „Erwartet mein Gegenüber etwas von mir?“ ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[Nachdenklicher Mitarbeiter]]></img>	
+			<text style="width: 390px;"><![CDATA[Wenn die Person, der Sie Geschenke oder Bewirtung anbieten, den Eindruck gewinnen könnte, dass Sie eine Gegenleistung erwarten, sollten Sie nicht fortfahren.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[Nachdenklicher Mitarbeiter]]></img>	
+			<text style="width:390px;"><![CDATA[Am besten sollten Sie Geschenke und Unterhaltungsangebote niemals annehmen. Es ist einfach zu gefährlich.]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Wahr]]></text>
+		<text><![CDATA[Falsch]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -88px;width: 220px;height: 436px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[Das ist richtig.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Unter den richtigen Umständen kann es zulässig sein, Geschenke und Unterhaltungsangebote anzunehmen oder zu vergeben. Dies erfordert jedoch ein gesundes Urteilsvermögen und Kenntnisse der Richtlinien von Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[In unseren Richtlinien können nicht alle möglichen Situationen behandelt werden, weshalb Sie die Umstände gut abwägen, Ihr gesundes Urteilsvermögen einsetzen und im Zweifelsfall Rat einholen müssen, bevor Sie fortfahren.]]></text>			
+		</correct>
+		<incorrect style="top: -88px;width: 220px;height: 436px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[Das stimmt leider nicht.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Unter den richtigen Umständen kann es zulässig sein, Geschenke und Unterhaltungsangebote anzunehmen oder zu vergeben. Dies erfordert jedoch ein gesundes Urteilsvermögen und Kenntnisse der Richtlinien von Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[In unseren Richtlinien können nicht alle möglichen Situationen behandelt werden, weshalb Sie die Umstände gut abwägen, Ihr gesundes Urteilsvermögen einsetzen und im Zweifelsfall Rat einholen müssen, bevor Sie fortfahren.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

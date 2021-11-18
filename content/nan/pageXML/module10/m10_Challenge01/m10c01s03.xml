@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[小江知道自己會在醫院等待幾個小時，他考慮把工作帶去醫院做。 您認為他該怎麼做？ 選擇一個選項，然後按一下「確定」。]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[按「下一步」繼續。]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[小江需要離開辦公室，去醫院和他太太會合，但是有迫在眉睫的專案需要他處理。 他可以把他的筆記型電腦帶去醫院使用，但他知道用筆記型電腦遠端工作並不像使用公司網路一樣安全。]]></text>
+		<text style="line-height:18px;"><![CDATA[小江確保工作能如期完成的最佳方式是什麼？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[辦公室環境]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;line-height:20px;">
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[小江把包括供應商主檔在內的 Texela 專案資訊上傳到他個人的 Dropbox 帳戶。 如此一來，他就可以在醫院用筆記型電腦存取資訊，但他不會透過網際網路傳送資訊，也不會下載到電腦本機。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[小江把供應商資訊和供應商主檔存入隨身碟中並加密， 對他來說，這樣似乎比用電子方式存取資訊來得安全。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[小江先針對他負責的專案重新協調延長期限事宜，然後在離開公司前往醫院之前完成 Texela 專案的工作。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[小江的決定把公司、客戶及供應商資料置於隱私外洩的風險。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[小江採取了保護公司和供應商資訊的措施，但他是不是又製造了其他問題？]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -165px;">
+			<text style="padding-top:25px;"><![CDATA[小江先針對他負責的專案重新協調延長期限事宜，然後在離開公司前往醫院之前完成 Texela 專案的工作。]]></text>
+			<text><![CDATA[小江可以在離開公司之前提出他的供應商建議，因此他不需要帶走機密的供應商資訊或供應商主檔副本。 他藉由順利交涉好另一項專案的交付時限延長事宜，確保整體專案不會受到負面影響。]]></text>
+			<text><![CDATA[更棒的是，小江還可以陪伴他的太太，而不必一直擔心迫切的期限。]]></text>
+		</correct>
+	</feedback>
+</contents>

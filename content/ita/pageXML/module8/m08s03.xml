@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m08s03">
+	<transcript>
+		<text path="audio/module8/m08s03" id="0"><![CDATA[Debbie apre il nuovo messaggio ricevuto sullo smartphone. Fai clic su ciascuna immagine per saperne di più.]]></text>		
+	</transcript>
+	<pageTitle style="width: 354px;"></pageTitle>
+	<contentBg style="width: 500px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style="font-size: 15px;"><![CDATA[Debbie nota che la notifica è da parte di Kim, una collega di lavoro.]]></text>
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module8/m08s03/contentBackground.jpg" minwidth="769"><![CDATA[Una donna con uno smartphone]]></img>
+	</contentBackground>	
+	<revelCollOut style="width: 235px;left: 0px;top: 135px;height: 355px;">		
+		<img path="content/images/ltr/module8/m08s03/img_03.png" minwidth="769"><![CDATA[]]></img>	
+		<text style="font-weight:bold;font-size: 16px"><![CDATA[Da: Kim Parker]]></text>
+		<text style="font-size: 15px"><![CDATA[Le mie 8 ore di straordinari sono uno spasso, evviva<img src="content/images/ltr/module8/m08s03/icon.png"  style="height: 20px;margin-left: 4px;vertical-align: middle;"/> ]]></text>
+	</revelCollOut>
+	<revelCollOut style="width: 235px;left:260px;top: 135px;height: 355px;">		
+		<img path="content/images/ltr/module8/m08s03/img_04.png" minwidth="769"><![CDATA[]]></img>	
+		<text style="font-weight:bold;font-size: 16px"><![CDATA[Debbie]]></text> 		
+		<text style="font-size: 15px"><![CDATA[Bella foto Kim, ma perché l’hai scattata includendo il monitor del tuo computer sullo sfondo? Sullo schermo vi è una richiesta di servizi per un cliente e un foglio Excel con le informazioni del cliente relative alla fatturazione. Se lo posso vedere io, lo possono vedere tutti!]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[Seleziona ciascuna immagine per saperne di più.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<RevealButton style="top:135px;left: 0px;width: 235px;height: 160px;position: absolute;">
+	
+		<buttonImg path="content/images/ltr/module8/m08s03/img_01.png" style=""><![CDATA[Miniatura di una donna diversa]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 235px;height: 160px;" txtStyle=""><![CDATA[Da: Kim Parker]]></buttonText>		
+	</RevealButton>	
+	
+	<RevealButton style="top:135px;left:260px;width: 235px;height: 160px;position: absolute;">
+		<buttonImg path="content/images/ltr/module8/m08s03/img_02.png" style="top:10px;left:0px;width:590px;">				<![CDATA[Debbie]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 235px;height: 160px;" txtStyle=""><![CDATA[Debbie]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

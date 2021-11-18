@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Что следует сделать Ингрид?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s17/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Выберите один из вариантов и щелкните «ОК».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Согласиться действовать по схеме Дэвида и создать поддельные заказы на покупку, чтобы продать ему оборудование.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Отказаться действовать по схеме Дэвида и сообщать о его действиях в отдел нормативно-правового соответствия, рассказав все, что она знает.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОК]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Дэвид и Ингрид продолжают сотрудничество, в то время как сторонний бизнес развивается.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Дэвид жалуется, но прекращает подрабатывать у клиентов Johnson Controls. ]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[Verifica la tua comprensione di ciò che è ritenuto accettabile e cosa invece no quando si tratta di forme di intrattenimento. Seleziona accettabile o non accettabile per ciascuna delle seguenti ipotesi, quindi fai clic su Inoltra.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[Cameriere che porta il conto]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;right: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Stabilisci se queste azioni sono Accettabili oppure no.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Seleziona Accettabile o Non accettabile per ogni ipotesi, quindi fai clic su Inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img01.png"><![CDATA[Quattro biglietti per un evento sportivo]]></img>
+			<text style="width: 356px;"><![CDATA[Un fornitore ti offre quattro biglietti per accompagnarlo a uno dei principali eventi sportivi. Dato che hanno un valore di circa 100 dollari USA ciascuno, preoccupati di segnalare la sua offerta prima di accettarla.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img02.png"><![CDATA[Dipendente che riceve un’offerta]]></img>
+			<text style="width: 356px;"><![CDATA[Scopri che è in corso un appalto pubblico con questo fornitore ma, non essendo coinvolto direttamente, decidi di accettare i biglietti.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img04.png"><![CDATA[Dipendente e fornitore che parlano]]></img>	
+			<text style="width: 356px;"><![CDATA[Un diverso fornitore, che non è coinvolto in un appalto in corso, ti offre dei biglietti alternativi di valore pari a 20 dollari USA ciascuno per un evento minore. Li rifiuti preferendo i biglietti per l’evento più importante.]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[Accettabile]]></text>
+		<text styleWidth="width:110px;"><![CDATA[Inaccettabile]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Risposta corretta.]]></text>			
+			<text style="font-size: 15px;line-height: 21px;"><![CDATA[<ul> <li>Dato che il valore dei biglietti per l’evento principale supera i 200 dollari USA, è necessario segnalarli.</li> <li>Non devi mai offrire a clienti o a fornitori regali o divertimenti, né accettarne da parte loro, durante un periodo nel quale sono in corso negoziazioni relative a contratti o ad appalti.</li><li>Il valore di questi biglietti risulta più appropriato, sebbene anche questa forma di intrattenimento risulterebbe inopportuna qualora contemplasse il tentativo di influenzarti indebitamente.</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Risposta errata.]]></text>	
+			<text style="font-size: 15px;line-height: 21px;"><![CDATA[<ul> <li>Dato che il valore dei biglietti per l’evento principale supera i 200 dollari USA, è necessario segnalarli.</li> <li>Non devi mai offrire a clienti o a fornitori regali o divertimenti, né accettarne da parte loro, durante un periodo nel quale sono in corso negoziazioni relative a contratti o ad appalti.</li><li>Il valore di questi biglietti risulta più appropriato, sebbene anche questa forma di intrattenimento risulterebbe inopportuna qualora contemplasse il tentativo di influenzarti indebitamente.</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

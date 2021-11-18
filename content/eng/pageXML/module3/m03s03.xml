@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="flipCard" className="m03s03">
+	<transcript>
+		<text path="audio/module3/m03s03" id="0" ><![CDATA[Bribery doesn’t always look like cash changing hands. Click on each reveal button to learn more.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="margin-bottom:0px"><![CDATA[Check your understanding of bribery.]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module3/m03s03/contentBackground.jpg"  minwidth="769"><![CDATA[Shadowy figures]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Click on each reveal button to learn more. You may need to scroll to read the full answer.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<buttonText >
+		<text><![CDATA[REVEAL]]></text>
+	</buttonText>	
+	<flipCardContent width="230px">
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img1.png" style="" ><![CDATA[When does bribery happen?]]></buttonImg>
+			<buttonText style=""><![CDATA[When does bribery happen?]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[<span class="fontBold">Bribery</span> happens when someone is given anything of value in an attempt to improperly influence their decisions or actions.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img2.png" style="" ><![CDATA[Person passing another a brown envelope]]></buttonImg>
+			<buttonText style=""><![CDATA[What does “anything of value” mean?]]></buttonText>		
+			<popText style="">
+				<text><![CDATA[It can involve cash, but it can also include:<ul> <li>stock in a company</li> <li>gifts or gratuities</li> <li>excessive entertainment or hospitality </li> <li>sightseeing or vacations, even when connected with a legitimate business trip</li> <li>unwarranted rebates or excessive commissions</li> <li>political or charitable contributions</li> <li>jobs for customers, their family members or friends </li> <li>unusual or disguised allowances and expenses</li> <li>anything else of value to the recipient</li> </ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img3.png" style="" ><![CDATA[Person passing another a brown envelope]]></buttonImg>
+			<buttonText style=""><![CDATA[Is bribery prohibited everywhere?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[<ul> <li>Many countries around the world have enacted laws against bribery – even countries in which bribery was historically widespread.</li> <li>Our policy prohibits bribery in any country where we do business; as a multinational corporation, our actions in one country can lead to enforcement in all other locations where we operate.</li> <li>In many jurisdictions around the world, bribery is also a criminal offense and individuals can be charged, tried and sentenced for their involvement in a bribery scheme.</li> </ul>]]></text>		
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img4.png" style="" ><![CDATA[Person passing another a brown envelope]]></buttonImg>
+			<buttonText style=""><![CDATA[Does it matter if you are giving or receiving a bribe?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[In almost all jurisdictions, it is just as unlawful to give a bribe, as it is to receive one. Johnson Controls policy prohibits both offering or receiving a bribe of any kind.]]></text>			
+			</popText>
+		</flipCard>		
+	</flipCardContent>	
+</contents>

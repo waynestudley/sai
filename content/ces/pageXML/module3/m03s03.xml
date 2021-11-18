@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m03s03">
+	<transcript>
+		<text path="audio/module3/m03s03" id="0"><![CDATA[Úplatek nemusí mít vždy podobu předání hotovosti. Kliknutím na jednotlivá tlačítka zobrazíte další informace.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Ověřte si, zda jste obeznámeni s úplatkářstvím.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s03/contentBackground.jpg" minwidth="769"><![CDATA[Nejasné postavy]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Kliknutím na jednotlivá tlačítka zobrazíte další informace. K zobrazení celé odpovědi bude pravděpodobně nutné posouvat text.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ZOBRAZIT]]></text>
+	</buttonText>	
+	<flipCardContent width="230px">
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img1.png" style=""><![CDATA[Kdy dochází k úplatkářství?]]></buttonImg>
+			<buttonText style=""><![CDATA[Kdy dochází k úplatkářství?]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[<span class="fontBold">Úplatkem</span> je, když někdo dostane něco hodnotného za účelem nevhodně ovlivnit jeho rozhodnutí či jednání.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img2.png" style=""><![CDATA[Osoba předávající jiné osobě hnědou obálku]]></buttonImg>
+			<buttonText style=""><![CDATA[Co znamená „cokoli hodnotného“?]]></buttonText>		
+			<popText style="">
+				<text><![CDATA[Může jít o hotovost, ale také se může jednat o:<ul> <li>akcie společnosti,</li> <li>dar či drobnou odměnu,</li> <li>nepřiměřenou zábavu či pohoštění,</li> <li>výlet či dovolenou, třeba i ve spojení s legitimní služební cestou,</li> <li>neodůvodněný rabat či přemrštěnou provizi,</li> <li>dar politické straně nebo charitativní organizaci,</li> <li>nabídku pracovního místa zákazníkovi, jeho příbuznému či známému,</li> <li>neobvyklé nebo skryté příspěvky a výdaje,</li> <li>cokoli jiného, co má pro příjemce hodnotu.</li> </ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img3.png" style=""><![CDATA[Osoba předávající jiné osobě hnědou obálku]]></buttonImg>
+			<buttonText style=""><![CDATA[Je úplatkářství zakázáno všude?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[<ul> <li>Řada zemí po celém světě, včetně těch, kde úplatkářství dříve bujelo, dnes má legislativu proti úplatkářství.</li> <li>Naše zásady zakazují úplatkářství ve všech zemích, kde podnikáme – jsme nadnárodní korporace a nesprávné jednání, jehož se dopustíme v jedné zemi, může vést ke stíhání i všude jinde, kde působíme.</li> <li>Úplatkářství je v mnoha zemích trestným činem a ti, kdo se ho dopustí, mohou být za svůj podíl na něm obviněni, souzeni a odsouzeni.</li> </ul>]]></text>		
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img4.png" style=""><![CDATA[Osoba předávající jiné osobě hnědou obálku]]></buttonImg>
+			<buttonText style=""><![CDATA[Záleží na tom, zda úplatky dáváte nebo přijímáte?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[Takřka ve všech zemích je poskytnutí úplatku stejně protiprávní jako jeho přijetí. Zásady společnosti Johnson Controls zakazují jakékoli úplatky jak přijímat, tak dávat.]]></text>			
+			</popText>
+		</flipCard>		
+	</flipCardContent>	
+</contents>

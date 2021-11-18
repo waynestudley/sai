@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Ingrid pense que le vin commandé par Hilde est très cher. Que doit-elle faire ? ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Sélectionnez votre réponse, puis cliquez sur « OK ».]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Poursuivre le dîner et espérer simplement que personne ne remarquera le prix du vin sur sa note de frais.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Poursuivre le dîner, car elle ne peut pas refuser de payer le vin sans créer de situation embarrassante. Cependant, elle a l’intention de demander une note séparée pour le vin et de la payer personnellement.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Parler à Hilde en privé avant que le serveur ne prépare le vin et lui dire que le prix du vin ne sera pas approuvé par son entreprise. Hilde a la possibilité de le payer elle-même ou elles peuvent commander une bouteille moins chère.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Ingrid paye pour le dîner et soumet sa note de frais.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Ingrid paye pour le dîner et soumet sa note de frais sans inclure le vin.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Hilde semble surprise lorsqu’Ingrid lui dit qu’elle ne peut pas payer le vin. Mais à la fin de la soirée, elle demande des notes séparées et règle son montant elle-même.]]></text>
+		</correct>
+	</feedback>
+</contents>

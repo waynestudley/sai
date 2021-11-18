@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[보기 화면의 기본 설정을 선택하십시오.]]></text>		
+		<text><![CDATA[이 과정은 오디오와 비디오를 사용하여 학습을 지원합니다. 이 과정을 오디오/비디오 모드로 보는 것이 좋습니다. 그러나 이 과정을 텍스트 및 그래픽 모드로 보기로 선택하면 오디오 및 비디오 대신 자막과 이미지가 표시됩니다.]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[음파]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[계속]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[보기 화면 기본 설정 선택]]></option>
+			<option id="A1"><![CDATA[오디오/비디오 모드]]></option>
+			<option id="A2"><![CDATA[텍스트 및 그래픽 모드]]></option>
+	</dropDownMenu>
+</contents>

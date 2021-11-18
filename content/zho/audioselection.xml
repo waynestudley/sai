@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[选择您的查看偏好：]]></text>		
+		<text><![CDATA[本课程使用音频与视频辅助助学习。 我们建议您使用影音模式查看课程。 但是，如果您选择以图文模式查看课程，则将以文本和图像代替所有音频和视频显示。]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[声波]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[继续]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[选择查看偏好]]></option>
+			<option id="A1"><![CDATA[影音模式]]></option>
+			<option id="A2"><![CDATA[图文模式]]></option>
+	</dropDownMenu>
+</contents>

@@ -1,0 +1,716 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<course>
+    <transcript>
+        <text path="" id="0" ><![CDATA[]]></text>        
+        <text path="" id="1" ><![CDATA[]]></text>        
+    </transcript>
+	<contentBg style="top:10px;right:17px;padding:0px;width:992px;" chanStyle="width:846px;margin: 0 auto;right:0;float:none;" ></contentBg>
+	<pageTitle style="margin-bottom:5px;padding:15px 15px 0;"></pageTitle>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/menuBg.jpg" minwidth="769"><![CDATA[Johnson Controls employees]]></img>	
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/submenuBg.jpg" minwidth="769"><![CDATA[Johnson Controls employees]]></img>	
+	</contentBackground>
+	<nextLockAlertPopupText>
+        <text><![CDATA[You must click on all sections before you can continue.]]></text>
+        <text><![CDATA[Select a response, then click OK to continue.]]></text>
+        <text><![CDATA[Please fully watch the video before proceeding.]]></text>
+        <buttonText >
+            <text><![CDATA[OK]]></text>
+        </buttonText>
+    </nextLockAlertPopupText>	
+    <closeCourse>
+        <text><![CDATA[Are you sure you want to exit the course?]]></text>
+        <buttonText >
+            <text><![CDATA[Yes]]></text>
+            <text><![CDATA[No]]></text>
+        </buttonText>
+    </closeCourse>	
+    <title>
+        <text><![CDATA[Main Menu ]]></text>
+        <text><![CDATA[Challenges]]></text>
+        <text><![CDATA[Applying the Ethics Code: Doing Business with Integrity]]></text>
+        <text><![CDATA[Ethics Code Challenges]]></text>
+    </title>	
+    <instructionText style="margin-bottom:0px;padding:0px 15px 15px;">
+        <text><![CDATA[Choose a module.]]></text>
+        <text><![CDATA[Choose a challenge.]]></text>		
+        <text><![CDATA[Choose a module to review your learning or click on Close.]]></text>		
+        <text><![CDATA[Click on the Home button to return to the Home menu.]]></text>		
+        <text><![CDATA[Click the HOME button to return to the main menu and complete your training. ]]></text>		
+    </instructionText>
+	
+    <contentText >
+        <text><![CDATA[Welcome to Applying the Ethics Code: Doing Business with Integrity.]]></text>
+        <text><![CDATA[To receive credit for this course and access your certificate of completion, you must successfully complete all of the highlighted course modules. These are displayed in full color. ]]></text>
+        <text><![CDATA[You may also see modules that are greyed out and marked “Optional” due to your role or your performance on the pre-assessment. You may access these modules, but you are not required to complete them unless you want to.]]></text>			
+        <text><![CDATA[]]></text>			
+    </contentText>
+	
+    <buttonText >
+        <text><![CDATA[Start]]></text>
+    </buttonText>
+	<optionalText >
+        <text><![CDATA[Optional]]></text>
+    </optionalText>
+    <bookMark>
+        <text><![CDATA[Would you like to Continue to the<br />last visited page?]]></text>
+        <buttonText >
+            <text><![CDATA[Continue]]></text>
+            <text><![CDATA[Restart]]></text>
+        </buttonText>
+    </bookMark>
+    <monthArr>
+        <text><![CDATA[January]]></text>
+        <text><![CDATA[February]]></text>
+        <text><![CDATA[March]]></text>
+        <text><![CDATA[April]]></text>
+        <text><![CDATA[May]]></text>
+        <text><![CDATA[June]]></text>
+        <text><![CDATA[July]]></text>
+        <text><![CDATA[August]]></text>
+        <text><![CDATA[September]]></text>
+        <text><![CDATA[October]]></text>
+        <text><![CDATA[November]]></text>
+        <text><![CDATA[December]]></text>
+    </monthArr>
+    <module id="1" imgPath="content/images/ltr/menuImages/Module_01.png" imgPopPath="content/images/ltr/menuImages/Module_01_popup.png" >
+        <title><![CDATA[Conflicts of Interest]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<p>Conflicts of interest occur when your own personal interests might conflict with those of the company, which may compromise your ability to make good business decisions.</p><p>Learn how to recognize and avoid conflicts of interest in your work for Johnson Controls.</p><span>Time required: 6 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[Welcome to: Avoiding Conflicts of Interest.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Potential conflicts in common situations]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Recognizing conflicts of interest]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Recognizing conflicts of interest]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Case studies: Conflicts of interest can harm companies]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[The consequences of conflicts]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[How to handle conflicts]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Summary and key contacts]]></title>
+        </page>			
+    </module>
+    <module id="2" imgPath="content/images/ltr/menuImages/Module_02.png" imgPopPath="content/images/ltr/menuImages/Module_02_popup.png">
+        <title><![CDATA[Using Gifts and Entertainment Appropriately]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<p>Exchanging gifts or entertainment can help build business relationships, but it can also create problems if not handled properly.</p><p>Learn how to ensure that you offer or accept only appropriate gifts and entertainment.</p><span>Time required: 6 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[Welcome to: Using Gifts and Entertainment Appropriately.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Good judgment is required]]></title>
+        </page>
+        <page>
+            <title><![CDATA[True or False?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Gift and Entertainment Considerations]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Gifts or Entertainment]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Your turn]]></title>
+        </page>
+        <page>
+            <title><![CDATA[More on gifts]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Gift checklist]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Your turn]]></title>
+        </page>
+        <page>
+            <title><![CDATA[More on entertainment]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Entertainment checklist]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Your turn]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Dealing with government officials]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Summary and key contacts]]></title>
+        </page>				
+    </module>
+    <module id="3" imgPath="content/images/ltr/menuImages/Module_03.png" imgPopPath="content/images/ltr/menuImages/Module_03_popup.png">
+        <title><![CDATA[Avoiding Bribery in our Business]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<p>Our reputation depends on doing business honestly and fairly. Bribery and corruption are illegal, and they’re not how we work.</p><p>Learn how to recognize even subtle forms of bribery and corruption, and guard against getting unwittingly involved in potentially criminal activities.</p><span>Time required: 6 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[Welcome to: Avoiding Bribery in our Business.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Recognizing risky situations]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Recognizing bribery]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Recognizing corruption]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Your turn]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Case study: Full cooperation and disclosure]]></title>
+        </page>
+        <page>
+            <title><![CDATA[How you can help prevent bribery and corruption]]></title>
+        </page>
+       <page>
+            <title><![CDATA[The consequences]]></title>
+        </page> 
+        <page>
+            <title><![CDATA[What about facilitation payments?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Summary and key contacts]]></title>
+        </page>				
+    </module>
+    <module id="4" imgPath="content/images/ltr/menuImages/Module_04.png" imgPopPath="content/images/ltr/menuImages/Module_04_popup.png">
+        <title><![CDATA[Keeping Personal Data Secure]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<p>We are all responsible for protecting the personal data of customers, employees and business partners.</p><p>Learn how you can help support our company's commitment to data privacy and responsible use of social media.</p><span>Time required: 6 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[Welcome to: Keeping Personal Data Secure]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A case of convenience]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Personal data overview]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Why does data privacy matter?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Recognizing personal information]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Protecting personal data]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Understanding personal data protection]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Privacy and social media]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Staying Secure in Public]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Password protection]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Are you putting personal data at risk?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Summary and key contacts]]></title>
+        </page>				
+    </module>
+    <module id="5" imgPath="content/images/ltr/menuImages/Module_05.png" imgPopPath="content/images/ltr/menuImages/Module_05_popup.png">
+        <title><![CDATA[Trade Requirements for Doing Business Globally ]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<p>As a global company, Johnson Controls is subject to a wide range of trade controls established by international organizations and foreign governments.</p><p>Learn how trade controls may affect your work and what you can do to support our company's trade responsibilities.</p><span>Time required: 6 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[Welcome to: Trade Requirements for Doing Business Globally.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[An overseas request]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[An overseas request]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[An overseas request]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[An overseas request]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[An overseas request]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[An overseas request]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[How to recognize an export]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Confirm your understanding]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Why trade controls exist]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[What you must do]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Your turn]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Summary and key contacts]]></title>
+        </page>				
+    </module>
+    <module id="6" imgPath="content/images/ltr/menuImages/Module_06.png" imgPopPath="content/images/ltr/menuImages/Module_06_popup.png" >
+        <title><![CDATA[Selling with Integrity]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<p>At Johnson Controls, we sell with integrity and follow all competition laws. These laws ensure fairness and freedom in the marketplace and prohibit companies from abusing a dominant position.</p><p>Learn about our company's commitment to fair competition, as well as how to uphold our standards in this area.</p><span>Time required: 6 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[Welcome to: Selling with Integrity.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Why competition laws exist]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Recognizing improper agreements]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Recognizing unfair competition]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Handling a dominant position]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Avoiding Abuse of Dominance]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Case study]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Avoiding competition law violations]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Summary and key contacts]]></title>
+        </page>				
+    </module>
+    <module id="7" imgPath="content/images/ltr/menuImages/Module_07.png" imgPopPath="content/images/ltr/menuImages/Module_07_popup.png">
+        <title><![CDATA[Protecting Intellectual Property]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<p>Intellectual property, such as patents, trademarks and copyrights, is vital to Johnson Controls' business, and we have a duty to protect it. </p><p>Learn how your actions can help protect our intellectual property from theft or misuse.</p><span>Time required: 6 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[Welcome to: Protecting Our Intellectual Property.]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[What is Intellectual Property?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Check your understanding]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Types of Intellectual Property]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[The cost of lost IP]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Your turn]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Your role]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Using trademarks]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[What would you do?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Summary and key contacts]]></title>
+        </page>				
+    </module>
+    <module id="8" imgPath="content/images/ltr/menuImages/Module_08.png" imgPopPath="content/images/ltr/menuImages/Module_08_popup.png">
+        <title><![CDATA[Protecting Confidential Information]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<p>At work, you may learn confidential information about our company, customers or business.</p><p>Learn about Johnson Controls' requirements for handling and protecting such information.</p><span>Time required: 6 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[Welcome to: Protecting Confidential Information.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A risky situation]]></title>
+        </page>
+		<page>
+            <title><![CDATA[A risky situation]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A risky situation]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A risky situation]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Working with information every day]]></title>
+        </page>
+        <page>
+            <title><![CDATA[What should you keep confidential?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Limit, Guard, Delete]]></title>
+        </page>
+        <page>
+            <title><![CDATA[What you can do to protect confidential information]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Your turn]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Use NDAs to add an extra level of protection]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Summary and key contacts]]></title>
+        </page>
+    </module>
+    <module id="9" imgPath="content/images/ltr/menuImages/Module_09.png" imgPopPath="content/images/ltr/menuImages/Module_09_popup.png" >
+        <title><![CDATA[Obtaining Competitive Intelligence Fairly]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<p>Competitive intelligence helps us better understand our business environment, but there are strict ethical standards for how we acquire this information.</p><p>Learn how to gather and use competitive intelligence in a way that is consistent with Johnson Controls policy and the law.</p><span>Time required: 6 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[Welcome to: Obtaining Competitive Intelligence Fairly.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Gathering information the wrong way]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[What information is confidential?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[What can go wrong?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Avoid deception, disloyalty or trickery]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Confirm your understanding]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Summary and key contacts]]></title>
+        </page>				
+    </module>
+    <module id="10" imgPath="content/images/ltr/menuImages/Module_10.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup.png" >
+        <title><![CDATA[The 2018 Ethics Code Challenge]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<p>Apply what you have learned in a practical challenge. Make good decisions that achieve business goals and avoid damaging consequences.</p><span>Time required: 10 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[]]></title>
+        </page>					
+    </module>
+    <module id="11" imgPath="content/images/ltr/menuImages/Module_10_1.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup1.png" >
+        <title><![CDATA[Office, Marketing and Sales Environment]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+		<overText><![CDATA[<span class="subMenuStart">Click "Start" to enter the Challenge.</span>]]></overText>
+        <page>
+            <title><![CDATA[An Urgent Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Urgent Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Urgent Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Urgent Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[An Urgent Request]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Key Lessons]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Key Lessons]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[An Appreciative Supplier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Key Lessons]]></title>
+        </page>				
+    </module>
+    <module id="12" imgPath="content/images/ltr/menuImages/Module_10_2.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup2.png" >
+        <title><![CDATA[Customer Support]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+         <overText><![CDATA[<span class="subMenuStart">Click "Start" to enter the Challenge.</span>]]></overText>
+        <page>
+            <title><![CDATA[Conflicting Obligations]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Conflicting Obligations]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Conflicting Obligations]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Conflicting Obligations]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Conflicting Obligations]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Conflicting Obligations]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Conflicting Obligations]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Conflicting Obligations]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Key Lessons]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Helping a co-worker]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Helping a co-worker]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Helping a co-worker]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Helping a co-worker]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Helping a co-worker]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Helping a co-worker]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Helping a co-worker]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Key Lessons]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Unusual Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Unusual Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Unusual Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Unusual Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Unusual Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Unusual Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Key Lessons]]></title>
+        </page>
+    </module>
+    <module id="13" imgPath="content/images/ltr/menuImages/Module_10_3.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup3.png" >
+        <title><![CDATA[Offsite Environment]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[<span class="subMenuStart">Click "Start" to enter the Challenge.</span>]]></overText>
+        <page>
+            <title><![CDATA[A Surprising Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Surprising Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Surprising Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Surprising Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Surprising Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Surprising Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Surprising Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Surprising Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Surprising Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Surprising Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Key Lessons]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Key Lessons]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Night Out]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Night Out]]></title>
+        </page>
+        <page>
+            <title><![CDATA[An Irregular Request]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Night Out]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Night Out]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Night Out]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Night Out]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Night Out]]></title>
+        </page>
+        <page>
+            <title><![CDATA[A Night Out]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Key Lessons]]></title>
+        </page>
+    </module>
+    <module id="14" imgPath="content/images/ltr/menuImages/Module_11.png" imgPopPath="content/images/ltr/menuImages/Module_11_popup.png"  >
+        <title><![CDATA[Knowledge Check]]></title>
+        <altText><![CDATA[Johnson Controls employee]]></altText>
+        <overText><![CDATA[Demonstrate what you have learned and access your certificate of course completion.<span>Time required: 5-10 minutes</span>]]></overText>
+        <page>
+            <title><![CDATA[Knowledge Check]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Knowledge Check]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Your results]]></title>
+        </page>
+    </module>
+    <module id="15" imgPath="content/images/ltr/menuImages/Module_12.png" imgPopPath="content/images/ltr/menuImages/Module_12_popup.png" >
+        <title><![CDATA[Your Certificate]]></title>
+        <altText><![CDATA[Man using a PC]]></altText>
+        <overText><![CDATA[Access your certificate of course completion.]]></overText>
+        <page>
+            <title><![CDATA[Your Certificate]]></title>
+        </page>
+    </module>
+	
+    <tootTip>
+        <element button=".btn_Next" location="top" gap="8" width="60"><![CDATA[Next]]></element>
+        <element button=".nextBlink" location="top" gap="8" width="60"><![CDATA[Next]]></element>
+        <element button=".btn_Back" location="top" gap="8" width="60"><![CDATA[Back]]></element>
+        <element button=".replayPage" location="top" gap="10" width="60"><![CDATA[Replay]]></element>
+        <element button=".transcriptOn" location="top" gap="10" width="100"><![CDATA[Transcript Off]]></element>
+        <element button=".transcriptOff" location="top" gap="10" width="100"><![CDATA[Transcript On]]></element>
+        <element button=".audioOn" location="top" gap="10" width="80"><![CDATA[Audio Off]]></element>
+        <element button=".audioOff" location="top" gap="10" width="80"><![CDATA[Audio On]]></element>
+        <element button=".btn_Menu" location="top" gap="10" width="60"><![CDATA[Home]]></element>
+        <element button=".fw_CloseTranscript" location="bottom" gap="10" width="60"><![CDATA[Close]]></element>
+        <element button=".fw_MenuClose" location="top" gap="10" width="60"><![CDATA[Close]]></element>
+        <element button=".menuBlink" location="top" gap="10" width="60"><![CDATA[Next]]></element> 
+        <element button=".fw_GlossaryClose" location="top" gap="10" width="60"><![CDATA[Close]]></element> 
+        <element button=".btn_Exit" location="top" gap="10" width="60"><![CDATA[Close]]></element> 
+    </tootTip>
+	
+    <transcriptGlobalText>
+	  <text><![CDATA[Drag Box]]></text>
+    </transcriptGlobalText>
+	
+    <reEntryProfilerPopup>
+        <text><![CDATA[If you change your profile selection, all of your course progress data will be lost. This means that you will have to complete all of your assigned modules, including those you may have already completed. If you have already successfully completed the Knowledge Check, this completion data will still be maintained. Do you still want to continue?]]></text>
+        <text><![CDATA[Yes]]></text>
+        <text><![CDATA[No]]></text>
+    </reEntryProfilerPopup>
+ 
+</course>

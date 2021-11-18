@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Carlos y David se dan cuenta de que podrían ganar dinero haciendo trabajos como este, así que deciden empezar un nuevo negocio en paralelo. Comienzan a ofrecer descuentos especiales por su trabajo a los clientes más pequeños de Johnson Controls. Hay mucho trabajo, lo que significa que sus días son agitados, pero el ingreso extra es bienvenido.]]></text>
+		<text style=""><![CDATA[Sin embargo, no dura mucho tiempo...]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s14/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Seleccione cada título para saber más.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para volver a considerar su decisión e intentarlo de nuevo.]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="103">			
+			<buttonText style=""><![CDATA[Una denuncia anónima]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Alguien hace una denuncia anónima a Johnson Controls, y se abre una investigación.]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="103">
+			<buttonText><![CDATA[Un despido]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Carlos y David pierden sus respectivos empleos por robar oportunidades de negocios a la empresa y usar los recursos de esta para su propio beneficio personal.]]></text>					
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

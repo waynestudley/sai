@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c01s14">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3" ><![CDATA[Click on Next to find out what happened.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText >
+		<text><![CDATA[The envelope contains USD$300 in cash. Jian has already refused the gift and the supplier has insisted. What should he do?]]></text>
+	</contentText>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[Conference Room]]></img>
+	</contentBackground>
+	<instructionText >
+		<text><![CDATA[Choose one option then select OK.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1" ><![CDATA[Keep the cash. The supplier selection process has already been concluded, so Jian is no longer in a position of influence relative to the vendor.]]></option>
+		<option answer="1" feedbackId="2" ><![CDATA[Refuse the cash again. But, when the supplier offers him a USD$100 gift card to Eduardo’s favorite restaurant, accept it.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Refuse the cash again, but then accept when the supplier invites Jian to a team dinner.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="" >
+			<text style="padding-top:12px;"><![CDATA[Jian kept the cash, assuming no one would find out.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[After Jian refused the cash a second time, the supplier insisted that he at least accept a USD$100 restaurant gift card.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[Jian has politely refused the cash again, but then accepts when the supplier invites Jian to a team dinner.]]></text>
+		</correct>
+	</feedback>
+</contents>

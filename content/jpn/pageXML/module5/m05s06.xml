@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[ここで警告サインがわかりましたか？ スポットを選択して「提出」をクリックします。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="font-size:15px;"><![CDATA[この電子メールに関連する警告サインは何ですか？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[電子メールの受信箱]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[すべての警告サインを選択して「提出」をクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[正解が一つ以上ある場合があります。]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px;font-size:15px;">
+		<option><![CDATA[送信者がJohnson Controlsの顧客であると主張する]]></option>	
+		<option><![CDATA[顧客は業務に関して情報を書いていますが、Gmailのアカウントを使用しています]]></option>	
+		<option><![CDATA[顧客は、彼ら自身に関する詳細な情報を提供することなく、規制のかかっている情報を求めています]]></option>	
+		<option><![CDATA[顧客はフランスを拠点にしていると言っていますが、電子メールからは判断できません]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text style="font-size:15px;"><![CDATA[正解です。]]></text>
+			<text style="font-size:15px;"><![CDATA[顧客は輸出が規制されている技術を求めながら、彼ら自身に関する詳細な情報は提供しません。]]></text>
+			<text style="font-size:15px;"><![CDATA[技術サポートを提供する前に、少なくとも、相手の身分と所在地と、適用される貿易規制に関しては知る必要があります。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text style="font-size:15px;"><![CDATA[残念。間違っています。.]]></text>
+			<text style="font-size:15px;"><![CDATA[顧客は輸出が規制されている技術を求めながら、彼ら自身に関する詳細な情報は提供しません。]]></text>
+			<text style="font-size:15px;"><![CDATA[技術サポートを提供する前に、少なくとも、相手の身分と所在地と、適用される貿易規制に関しては知る必要があります。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

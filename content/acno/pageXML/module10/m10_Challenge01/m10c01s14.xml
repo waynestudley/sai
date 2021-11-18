@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[El sobre contiene USD 300 en efectivo. Jian ya rechazó el regalo, pero el proveedor insistió. ¿Qué debería hacer?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[Sala de conferencias]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Quedarse con el dinero en efectivo. El proceso de selección de proveedores ya ha concluido, por lo que Jian ya no se encuentra en una posición de influencia con respecto al proveedor.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Rechazar de nuevo el dinero en efectivo. Pero, cuando el proveedor le ofrece una tarjeta de regalo de USD 100 para el restaurante favorito de Eduardo, debería aceptarla.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Rechazar una vez más el dinero en efectivo, pero luego aceptar cuando el proveedor invita a Jian a una cena con todo el equipo.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian se quedó con el dinero en efectivo, asumiendo que nadie se enteraría.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Después de que Jian rechazó el dinero en efectivo por segunda vez, el proveedor insistió en que, al menos, aceptara una tarjeta de regalo para un restaurante por USD 100.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian volvió a rechazar amablemente el dinero en efectivo, pero luego aceptó cuando el proveedor lo invitó a una cena con el equipo.]]></text>
+		</correct>
+	</feedback>
+</contents>

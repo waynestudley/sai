@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m04s06">
+	<transcript>
+		<text path="audio/module4/m04s06" id="0"><![CDATA[個人データの保護を行うとき、次のことに注意してください。 制限、保護、削除]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px;font-size:14px;line-height:22px;"><![CDATA[当社のサプライヤー、顧客、従業員はプライバシーを尊重し、データを保護することを期待します。 例えば、収集、コピー、変更、保管、削除、その他の行動など、個人データを処理するとき、3つの重要な規定を守る必要があります。 制限、保護、削除 下の各パネルを確認し、さらに詳しく学んでください。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[それぞれの開示ボタンをクリックして詳細を確認してください。 回答すべてを読むにはスクロールの必要がある場合があります。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[開示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img1.png" style=""><![CDATA[電話とノートパソコンで個人データを処理している従業員]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[制限]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[個人の同意を得ており、合法的なビジネス目的にデータが必要な場合のみ、個人データを処理します。 <ul><li>明確で合法的な目的なく個人データを処理しないでください。</li><li>収集する個人データが適切であり、ビジネス目的に関連性があり、その目的を逸脱しないようにしてください。 必要以上に個人データを取得しないでください。</li><li>個人データは述べられた収集目的でのみ使用します。</li></ul>]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img2.png" style=""><![CDATA[暗号アイコン]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[保護]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[個人データが認可されていない使用、意図しない損失、損害、破壊から保護されるようにします。<ul><li>業務関係で必要性のある有効かつ認可された従業員と契約業者のみが、個人データにアクセスできます。</li><li>できる限りデータのソフトコピーを保持し、暗号化を行うか、強固なパスワードで安全性を保ち、ファイルを認可されていない使用から保護します。 ハンドコピーは、置き忘れしやすくなったり、より簡単にアクセスできる可能性があるため、できるだけ最小限にするか、避ける必要があります。</li><li>必要性がない人物や、認可されていない人物がアクセスできる可能性がある、共有ファイルやディレクトリに個人データを保存しないでください。</li><li>一貫した保守が実施されない複数の場所に電子記録として保管することは避けてください。</li></ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module4/m04s06/img3.png" style=""><![CDATA[キーボードのゴミ箱アイコン]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[削除]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[法によって要求されたり、本来のビジネス上の収集理由に関係する限り、個人データを保持します。<ul><li>データが最新か、正確か、本来のビジネス目的に依然関連しているか、定期的に確認します。</li><li>今後必要なくなった場合、シュレッダーにかけたり、機密処理用の容器（職場で提供されている場合）に入れて、データを安全な方法で処分します。</li></ul>]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

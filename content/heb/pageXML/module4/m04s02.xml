@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[מה עליך לעשות אם מישהו שלח לך נתונים אישיים שלא היית אמור לראות?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;"><![CDATA[מה תעשה? ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[התבקשת להודיע לקבלנים על תהליך חיוב חדש. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[אתה מבקש עובד ממחלקה אחרת לשלוח לך רשימה של כתובות הדוא"ל אך הגיליון האלקטרוני שהוא שולח לך מכיל גם מידע אישי שמשמש לאבטחת החשבון שלהם, לדוגמה, תאריך לידה, שם האמא ומספר תעודת הזהות. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[מה תעשה?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[אנשי עסקים]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;left: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן שלח.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[מחק את כתובות הדוא"ל ודווח לצוות פרטיות הנתונים על-ידי שליחת דוא"ל לכתובת privacy@jci.com]]></option>
+		<option><![CDATA[העבר את הגיליון לעמיתים בעבודה כדי להדגים מה אסור לשלוח בדוא"ל]]></option>
+		<option><![CDATA[קח מהגיליון האלקטרוני רק את מה שאתה צריך והשלך בצורה מאובטחת את כל השאר]]></option>
+		<option><![CDATA[שלח דוא"ל לכל הקבלים כדי להגיד להם שהנתונים האישיים שלהם נחשפו]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:126px;" fcStyle="top:-151px">
+			<text style="font-size:17px;"><![CDATA[נכון.]]></text>
+			<text><![CDATA[חוקי פרטיות הנתונים ומדיניות פרטיות הנתונים של Johnson Controls חלים על המידע האישי של העובדים וכן על לקוחות ושותפים עסקיים. ודא שאתה מבין את תחומי האחריות שלך ופעל בהתאם למדיניות הפרטיות של Johnson Controls ולכל חוקי ההגנה על נתונים והפרטיות הרלוונטיים.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:126px;" fcStyle="top:-151px">
+			<text style="font-size:17px;"><![CDATA[לא נכון.]]></text>
+			<text><![CDATA[חוקי פרטיות הנתונים ומדיניות פרטיות הנתונים של Johnson Controls חלים על המידע האישי של העובדים וכן על לקוחות ושותפים עסקיים. ודא שאתה מבין את תחומי האחריות שלך ופעל בהתאם למדיניות הפרטיות של Johnson Controls ולכל חוקי ההגנה על נתונים והפרטיות הרלוונטיים.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s26">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[אמיר מציע שהם ילכו למועדון לילה פופולרי במורד הרחוב. נראה שחלק מחברי הצוות האחרים מביעים את רצונם ללכת.]]></text>
+		<text><![CDATA[כיצד איתי צריך להגיב?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c03/m10c03s26/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[לבקר במועדון עם אמיר והצוות שלו, אך להתעקש לשלם, כך ששווי האירוח של אמיר לא יהיה גבוה מדי.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[לבוא למשקה אחד מתוך נימוס, כדי לא להביך את אמיר, אך להקפיד לעזוב אחרי פרק זמן קצר.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[לסרב בנימוס וללכת הביתה.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[איתי מבקר במועדון עם אמיר והצוות שלו.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[איתי מבקר במועדון עם אמיר והצוות שלו, אך עוזב זמן קצר לאחר שהגיע.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[אחד מחברי הצוות של אמיר נקלע לקטטה במועדון. המשטרה מוזמנת למקום ומאוחר יותר חלק מחברי הקבוצה חייבים להופיע בבית משפט כדי לתת עדות.]]></text>
+			<text><![CDATA[אך מאחר שאיתי הלך אחרי ארוחת הערב ולא הצטרף אליהם למועדון, הוא לא היה מעורב ולא הוזמן לבית המשפט. החלטתו לעזוב את המועדון מונעת מבוכה לעצמו ול-Johnson Controls.]]></text>
+		</correct>
+	</feedback>
+</contents>

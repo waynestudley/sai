@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m10c01s02" >
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle="" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c01/m10c01s02/contentBackground.jpg" minwidth="769"><![CDATA[Office environment ]]></img>
+	</contentBackground>
+	<contentText >
+		<text  style="" ><![CDATA[Jian is trying to finish his task in a critical project when Holly stops by his office. ]]></text>
+	</contentText>
+	<instructionText >
+		<text><![CDATA[Click on each stage of the story.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1" >	
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_01.png" minwidth="700" minheight="550" ><![CDATA[Man and woman in an office]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="573" y="248" width="245" />
+				<text ><![CDATA[<span style="font-weight: bold;">Jian</span>, Procurement Manager, Johnson Controls]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="10" y="248" width="218" />
+				<text ><![CDATA[<span style="font-weight: bold;">Holly</span>, Project Manager, Johnson Controls]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2" >
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_02.png" minwidth="700" minheight="550" ><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="45" y="10" width="170"  />
+				<text ><![CDATA[Jian, they’ve moved the deadline on the Texela project. We need to choose a supplier before the end of the week.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="606" y="10" width="140" />
+				<text ><![CDATA[I don’t know if I can do that. My wife is having a medical procedure and I’m going to be out for the next two days. In fact, I’m leaving in an hour to join her at the hospital.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3" >	
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_03.png" minwidth="700" minheight="550" ><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="45" y="10" width="170"   arrowStyle="top:10px"/>
+				<text ><![CDATA[You can review the suppliers before you go though, can’t you? You said you received their financial information last week. And you can cross-reference their bids with the supplier master file.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="606" y="10" width="140"  arrowStyle="top:10px"  />
+				<text ><![CDATA[Yes, but I’m trying to get a different project wrapped up first. That one is time sensitive too. ]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripThumImg numberText="4" >	
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_04.png" minwidth="700" minheight="550" ><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="45" y="10" width="170"   arrowStyle="top:10px"/>
+				<text ><![CDATA[Well, you’re the only one who’s been involved with the project from the beginning. I can’t ask someone else to step in this late in the game.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="606" y="10" width="140"  arrowStyle="top:10px" />
+				<text ><![CDATA[I know. Let me see what I can do. I’ll be waiting around for a few hours at the hospital, so maybe I can finish it there.]]></text>			
+			</stripCallOut>
+		</strip>
+	</comicStrip>
+</contents>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0"><![CDATA[비밀 유지 협약과 같은 법적 계약은 다른 사람들이 우리가 공유하는 정보를 보호하게 할 수 있는 한 가지 방법입니다. 자세히 알아보려면 각 '표시' 버튼을 클릭하십시오.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[비밀 유지 협약은 제3자와 공유하는 기밀 정보가 기밀로 유지되도록 하는 효과적인 방법입니다.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg" minwidth="769"><![CDATA[문서]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[자세히 알아보려면 각 '표시' 버튼을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[표시]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style=""><![CDATA[비밀 유지 협약]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[언제 사용하는가?]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[기밀 정보를 회사 외부인과 공유한다면 비밀 유지 협약을 사용하십시오. 비밀 유지 협약에 서명을 받기 전에는 기밀 정보를 공개하지 마십시오. Johnson Controls 법무 부서는 다양한 상황에 맞는 템플릿을 제공할 수 있습니다.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style=""><![CDATA[비밀 유지 협약을 검토하는 사람]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[다른 비밀 유지 협약의 사용]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[때로는 외부 기업들이 자체 비밀 유지 협약의 사용을 제안할 수 있습니다. 그것을 받아들이지 마십시오. 그런 제3자 비밀 유지 협약은 우리 회사가 아닌 제3자의 이익을 보호하기 위해 작성되므로 법적 검토 및 승인 후에만 수용할 수 있습니다.]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style=""><![CDATA[비밀 유지 협약의 사용을 직원에게 설명하는 관리자]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[우리가 비밀 유지 협약에 동의하는 경우]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[때로는 우리가 다른 회사의 정보를 보호하기 위해 비밀 유지 협약에 서명할 수도 있습니다. 그렇다면 우리가 책임을 이행하는 데 필요한 조치를 취하는 것이 중요합니다. 그렇지 않으면 계약 위반으로 고소당할 수 있습니다. 정보를 다루는 모든 사람이 정보를 보호해야 하는 의무를 알고 있게 해야 합니다.]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

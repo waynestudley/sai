@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[表示設定を選択してください:]]></text>		
+		<text><![CDATA[このコースでは学習を支援するために音声とビデオを使用します。 音声/ビデオモードでコースを表示することをお勧めします。 けれども、文字と図表のモードでコースを表示しても、すべてのオーディオとビデオの代わりに音声の書き起こしと画像が表示されます。]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[サウンドウェイブ]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[継続]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[表示設定を選択]]></option>
+			<option id="A1"><![CDATA[音声/ビデオモード]]></option>
+			<option id="A2"><![CDATA[文字と図表のモード]]></option>
+	</dropDownMenu>
+</contents>

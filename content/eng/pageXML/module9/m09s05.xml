@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="revealCallOut2" className="m09s05">
+	<transcript>
+		<text path="audio/module9/m09s05" id="0" ><![CDATA[You should not use competitive intelligence that’s improperly obtained. Do you know the difference? Click on each heading to check your understanding.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="width:574px;font-size: 15px;margin-bottom:0px"><![CDATA[So how can you make sure that certain information is safe to use? Before accepting, using, or sharing any information about competitors or the market, ask yourself:]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module9/m09s05/contentBackground.jpg"  minwidth="769" ><![CDATA[Employee looking thoughtful]]></img>
+	</contentBackground>	
+	 <contentBg style="" ></contentBg>
+	<pageTitle style="width: 574px;"></pageTitle>
+	<instructionText style="width: 574px;" >
+		<text><![CDATA[Select each heading. To read the next, click the X to close the text box.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:168px;" >
+		<revealCallOut width="300px" height="188px" top="15px" left="370px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module9/m09s05/btn1.png" minwidth="769" ><![CDATA[Employee looking at Company documents on a tablet computer]]></img>
+			<buttonText  style="height: 56px;" ><![CDATA[Is this information available to the public?]]></buttonText>
+			<popupArrow style=""/>
+			<popText showHeader="true" arrowleft="" style="height: 344px;top: -217px; display: block; left: 370px; width: 610px;line-height:20px;">			
+				<text style="margin-bottom: 7px;"><![CDATA[We can always use publicly available information about our competitors – and there is a surprising amount available. ]]></text>				
+				<text style="margin-bottom: 7px;"><![CDATA[You can check:<ul><li>filings with government agencies</li><li>public speeches by company executives</li><li>annual reports</li><li>analyst reports</li><li>news stories, press releases and trade journal articles</li><li>trade show exhibits</li><li>job postings</li><li>published patent and trademark applications</li></ul>]]></text>						
+				<text style="margin-bottom: 0px;"><![CDATA[If you use sources like these, make sure to keep a record as proof that the information was obtained properly.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="188px" top="15px" left="679px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module9/m09s05/btn2.png" minwidth="769" ><![CDATA[Shady character]]></img>
+			<buttonText style="height: 56px;" ><![CDATA[Was this obtained improperly?]]></buttonText>
+			<popupArrow style=""/>
+			<popText showHeader="true" arrowleft="" style="height: 225px;top: -217px; display: block; left: 370px; width: 610px;">
+				<text style="margin-bottom: 0px;"><![CDATA[If so, we cannot use it. This includes information that:<ul><li>the company it belongs to would consider confidential</li><li>belongs to a former employer </li><li>was gathered through deception, such as pretending to be someone else</li><li>was obtained illegally, such as by trespassing or gaining access to another company’s computer networks</li><li>we bribed someone to obtain</li></ul>]]></text>					
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

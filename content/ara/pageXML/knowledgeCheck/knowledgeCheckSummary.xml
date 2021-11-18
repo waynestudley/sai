@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[تهانينا، لقد اجتزت بنجاح اختبار المعرفة.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[لسوء الحظ، لم تنجح بعدُ في اجتياز اختبار المعرفة النهائي. ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[تهانينا!]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/rtl/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[موظفو شركة Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/rtl/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[موظفو شركة Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[انقر فوق "الرئيسية" للعودة إلى القائمة الرئيسية. من هذه القائمة، يمكنك الوصول إلى شهادة إتمام الدورة التدريبية.]]></text>
+		<text><![CDATA[انقر فوق "الرئيسية" للعودة إلى القائمة الرئيسية.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[بحصولك على مجموع درجات بنسبة <b>##%</b>، تكون قد اجتزت بنجاح اختبار المعرفة لما يلي: <span class="courseTitleAss" >تطبيق مدونة السلوكيات: الدورة التدريبية المسماة "ممارسة الأعمال التجارية بشكل نزيه"</span>.]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[بحصولك على مجموع درجات بنسبة <b>##%</b>، تكون قد أخفقت في اجتياز الدورة التدريبية.]]></text>
+		<text><![CDATA[تحتاج إلى الحصول على مجموع درجات بنسبة <span>#%</span> أو أكثر لتجتاز الاختبار. الرجاء إعادة الاطلاع على البرنامج ومن ثمّ محاولة الإجابة عن اختبار المعرفة هذا مرة أخرى.]]></text>
+	</feedbackFail>
+</contents>

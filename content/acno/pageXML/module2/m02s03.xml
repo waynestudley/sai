@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[¿En qué medida está familiarizado con la política de nuestra empresa sobre regalos y entretenimiento? Seleccione Verdadero o Falso para cada opción y, luego, haga clic en Enviar.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[Empleados]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[¿Estas afirmaciones sobre regalos y entretenimiento son verdaderas o falsas?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Seleccione Verdadero o Falso para cada opción y, luego, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[Una persona entregando un regalo; en el fondo, se está desarrollando un evento de entretenimiento]]></img>
+			<text style="width: 390px;"><![CDATA[Las políticas de Johnson Controls contemplan todas las situaciones relacionadas con regalos y entretenimiento: no hay lugar para la ambigüedad.]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[Empleado pensativo]]></img>
+			<text style="width: 390px;"><![CDATA[Al recibir entretenimiento o regalos, siempre debe preguntarse: “¿La persona que me los entrega espera que le dé algo a cambio?”. ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[Empleado pensativo]]></img>	
+			<text style="width: 390px;"><![CDATA[Si la persona a quien usted ofrece un regalo o actividad de entretenimiento podría pensar que espera algo a cambio, no debe seguir adelante.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[Empleado pensativo]]></img>	
+			<text style="width:390px;"><![CDATA[Es mejor nunca ofrecer ni aceptar regalos y entretenimiento: es demasiado riesgoso.]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Verdadero.]]></text>
+		<text><![CDATA[Falso.]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -88px;width: 220px;height: 436px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[La respuesta es correcta.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Entregar y recibir entretenimiento y regalos es aceptable en las circunstancias adecuadas, pero requiere usar el sentido común y comprender los lineamientos de Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Nuestras políticas no pueden anticipar cada situación posible, por lo que deberá considerar las circunstancias cuidadosamente, apelar al sentido común o, si no está seguro, solicitar asesoramiento antes de seguir adelante.]]></text>			
+		</correct>
+		<incorrect style="top: -88px;width: 220px;height: 436px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[La respuesta no es correcta.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Entregar y recibir entretenimiento y regalos es aceptable en las circunstancias adecuadas, pero requiere usar el sentido común y comprender los lineamientos de Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Nuestras políticas no pueden anticipar cada situación posible, por lo que deberá considerar las circunstancias cuidadosamente, apelar al sentido común o, si no está seguro, solicitar asesoramiento antes de seguir adelante.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[現在我們來看一些日常生活中發生的情況。 這些人是否造成暴露個人資料的風險？]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[下列哪些是破壞資料隱私的風險？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[在忙碌的辦公室中，員工正在使用電腦工作]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[請選取所有您認為有暴露個人資料風險的情境。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[可能會有多個正確答案。]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[加入公共 Wi-Fi]]></option>	
+		<option><![CDATA[在兩個地方使用相同的密碼]]></option>	
+		<option><![CDATA[在社群媒體張貼團隊會議的照片，且照片背景中有出現白板]]></option>	
+		<option><![CDATA[在公共場合與客戶在電話上討論財務資訊]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[正確。]]></text>
+			<text><![CDATA[以上所有範例都有破壞資料隱私的風險。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[錯誤。]]></text>
+			<text><![CDATA[以上所有範例都有破壞資料隱私的風險。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c02s15">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c02/m10c02s15/contentBackground.jpg" minwidth="769"><![CDATA[Lista di spunta]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Fai clic su ciascuna fase della storia.]]></text>
+		<text><![CDATA[Seleziona Avanti per cambiare la tua scelta e riprova.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="107">			
+			<buttonText style=""><![CDATA[Dan invia un'e-mail]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[Dan invia un'email a tutte le persone presenti nell'elenco dei dipendenti, contenente il link al blog immobiliare di Emma.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="126">
+			<buttonText style=""><![CDATA[Emma invia un'e-mail per raccontare il seguito]]></buttonText>
+			<popText style="">
+				<text style="font-size:15px;line-height:17px"><![CDATA[Emma invia un'e-mail di gruppo ringraziando le persone per il loro supporto e facendo loro sapere come sta Sandy. Molte persone mandano messaggi di pronta guarigione a Sandy nella sezione commenti del blog. Molte persone inviano donazioni al suo fondo.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="129">
+			<buttonText style=""><![CDATA[Emma invia una seconda e-mail per il suo blog immobiliare]]></buttonText>
+			<popText style="">
+				<text style="font-size:15px;line-height:17px"><![CDATA[Un mese dopo, Emma invia un'altra e-mail di gruppo con un link al suo blog, per mettere in risalto la sua nuova proprietà in vendita e si offre di mostrarla presto a ogni dipendente di Johnson Controls che sia interessato.]]></text>			
+			</popText>
+		</accordion>	
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="151">			
+			<buttonText style=""><![CDATA[Conseguenze]]></buttonText>
+			<popText style="">
+				<text style="font-size:15px;line-height:17px"><![CDATA[Emma e Dan sono stati rimproverati per l'uso improprio della mailing list aziendale e per aver violato la privacy dei dipendenti. Emma non avrebbe dovuto dare alcuna informazione sulle condizioni mediche di Sandy sul suo blog. E non dovrebbe cercare di sollecitare gli affari utilizzando l’e-mail aziendale.]]></text>				
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

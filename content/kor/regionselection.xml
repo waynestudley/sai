@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path=""><![CDATA[]]></text>
+	</transcript>
+	<contentText>		
+		<text><![CDATA[귀하의 지역 선택]]></text>		
+	
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/Location_Selection.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[계속]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="R0"><![CDATA[지역 선택]]></option>
+			<option id="R1"><![CDATA[아시아 태평양 지역]]></option>
+			<option id="R2"><![CDATA[라틴 아메리카]]></option>
+			<option id="R3"><![CDATA[중동]]></option>
+			<option id="R4"><![CDATA[유럽/아프리카]]></option>
+			<option id="R5"><![CDATA[북아메리카]]></option>
+	</dropDownMenu>
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[顧客はカルロスに追加の仕事を求めました。 彼はどう答えるべきだと思いますか。 選択肢を1つ選び、「OK」をクリックします。]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[カルロスはどうしたらいいのでしょうか？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[仕事を受け、デービッドに秘密の保持を誓わせて、その場を離れる前に一緒に仕事を終わらせます。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[デービッドが望むなら彼に仕事を行うように伝えますが、カルロスは関わらないようにします。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Johnson Controlsのビジネスとは離れるため、クライアントに受け入れることはできないと丁寧に説明します。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[カルロスとデービッドはその場を離れる前に仕事を完了します。 簡単です！ 彼らは常にいくつかのスペアセンサーを持ち歩いているため、Johnson Controlsは気づきません。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[デービッドがその仕事を請け負うことに同意します。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[カルロスは彼の上司に連絡します。上司は営業部にその事を知らせて、追加の作業についての見積もりを作成します。 仕事がカルロスまたはデービッド個人に回るのではなく、Johnson Controlsにまわります。]]></text>
+		</correct>
+	</feedback>
+</contents>

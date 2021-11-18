@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:20px;"><![CDATA[Emma sa snaží zabrániť tomu, aby jej ďalšia práca odvádzala jej pozornosť od práce v spoločnosti Johnson Controls. Ale chýry sa dostali až do kancelárie a Emma má teraz troch kolegov, ktorí sa zaujímajú o jej najnovšiu nehnuteľnosť!  Počas hovoru so zákazníkom dostane Emma správu od Sandy z účtovného oddelenia.]]></text>
+		<text style="font-size:15px;line-height:20px;"><![CDATA[<i>„Hej Emma. Rada by som videla to miesto na Newbury Road. Na odkaze, ktorý si poslala, vyzerá fantasticky. Je to presne to, čo sme hľadali. Myslíš, že by si dnes mohla odísť trochu skôr, aby sme sa vyhli dopravnej špičke, a ukázala mi to?“</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top:5px;padding-bottom:22px;">
+		<text><![CDATA[Zvoľte jednu možnosť a potom vyberte tlačidlo OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;font-size:15px;line-height:20px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma súhlasí s tým, že odíde z práce skôr, aby ukázala Sandy nehnuteľnosť.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma povie Sandy, že ešte musí vybaviť pár telefonátov a papierovačiek, a preto nemôže odísť skôr. Ale povie jej, že má vo svojom prenosnom počítači viac obrázkov a videí a že sa Sandy môže dnes prísť kedykoľvek na ne pozrieť k jej pracovnému stolu a preberú to.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma povie Sandy, že dnes večer jej nemôže ukázať nehnuteľnosť, ale po telefonáte so zákazníkom jej pošle viac obrázkov. Požiada Sandy, aby jej dnes večer zavolala domov a podrobnejšie to prediskutujú.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height: 240px;" fcStyle="top:-212px;">
+			<text style="padding-top:12px;"><![CDATA[Toto je tá najrizikovejšia možnosť. Poďme sa pozrieť na to, čo sa stane, keď Emma urobí toto rozhodnutie.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 240px;" fcStyle="top:-212px;">
+			<text style="padding-top:25px;"><![CDATA[Hoci Emma neodišla skôr, stále používala majetok spoločnosti Johnson Controls a pracovný čas na vykonávanie inej podnikateľskej činnosti, čo by nemala robiť, a tiež rozptyľuje ostatných kolegov, ktorí majú záujem o prezeranie nehnuteľností.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 240px;" fcStyle="top:-212px;">
+			<text style="padding-top:25px;"><![CDATA[Emma podniká kroky, aby udržala svoje dve pracovné miesta oddelené. Nemala by však používať svoj pracovný prenosný počítač, správy alebo pracovný e-mail na vykonávanie inej podnikateľskej činnosti a tiež rozptyľuje ostatných kolegov, ktorí majú záujem o prezeranie nehnuteľností.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[政府と規制当局は賄賂を厳しく扱います。 賄賂防止について、私たち全員が積極的な役割を果たすのがこれほど重要な理由はそこにあります。 左側のコラムの行動と、右側のコラムにあるその帰結を結び付けてください。]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[賄賂と汚職に関与する会社は、どうなりますか?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[オフィス]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[送信]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[<span style="font-size:13px;">最初のコラムから項目を選び、矢印をドラッグして、二番目のコラムにあるその帰結と組み合わせてください。 終わったら「送信」をクリックします。</span>]]></text>
+		<text><![CDATA[<span style="font-size:13px;">先に進むには「次へ」をクリックします。</span>]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[行動]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[インターンシップを獲得した人を祝う従業員 ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[JP Morganのアジア太平洋リージョンの投資銀行家は、政府職員を含め顧客となる可能性のある者の家族や友人に、職やインターンシップを授与するというプログラムを実施していました。 ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[賄賂を持つ政府職員 ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[銅、アルミニウム、光ファイバー線を制作している巨大国際企業の子会社が、第三者代理人と販売店に何百万ドルもの支払いを行いました。 その金の一部は、ビジネスを獲得するための賄賂として政府職員に支払われ、同社は5100万米ドルの利益を上げました。]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[結果]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[会社には7600万米ドルの支払いが命じられ、賄賂を認識していた2名の役員には数百万米ドルの支払いが命じられました。 ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[木槌を持つ裁判官]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ 米国政府は、会社が、巨額の事業利益を上げるため「組織的な賄賂の企図に関与している」ことを発見しました。 会社は、2億6400万米ドルの支払いを命じられました。]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[裁判所の階段を通じて見える米国議会議事堂]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[賄賂と汚職の帰結は、会社と個人の両方に対し、重大なものになり得ます – また罰金だけでなく懲役刑に至る場合もあります。  Johnson Controlsは皆さんを頼りにしています – あらゆるステップにおいて – 常に賄賂を回避し、この領域におけるあらゆる疑わしい報告をただちに報告してほしいのです。]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[賄賂と汚職の帰結は、会社と個人の両方に対し、重大なものになり得ます – また罰金だけでなく懲役刑に至る場合もあります。  Johnson Controlsは皆さんを頼りにしています – あらゆるステップにおいて – 常に賄賂を回避し、この領域におけるあらゆる疑わしい報告をただちに報告してほしいのです。]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

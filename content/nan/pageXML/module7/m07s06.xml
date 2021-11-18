@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s06">
+	<transcript>
+		<text path="audio/module7/m07s06" id="0"><![CDATA[這些員工都有說一段有關智慧財產的陳述。 請選取所有您同意的陳述，然後按一下「提交」。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module7/m07s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 580px;right: 430px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[您是否同意以下各項有關智慧財產的陳述？]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[請選取您同意或不同意這些陳述，然後按一下「提交」。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="width:582px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img01.png"><![CDATA[男性員工]]></img>
+			<text style="width: 312px;"><![CDATA[如果我在 Johnson Controls 任職期間創作了一樣作品，我有權利隨我的意願加以使用]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img02.png"><![CDATA[男性員工]]></img>
+			<text style="width: 312px;"><![CDATA[擁有商標或著作權的任何事物始終受到保護，沒有期限]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img03.png"><![CDATA[女性員工]]></img>	
+			<text style="width: 312px;"><![CDATA[洩漏 Johnson Controls 的智慧財產可能會損害我們的公司]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img04.png"><![CDATA[女性員工]]></img>	
+			<text style="width:312px;"><![CDATA[如果是在網路上免費取得的資訊或圖片，我可以將其使用於商業用途]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[同意]]></text>
+		<text><![CDATA[不同意]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -114px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[正確。]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>您在 Johnson Controls 任職期間所創作、發明或修改的任何作品，通常所有權都是屬於 Johnson Controls 而不是您。 一旦您離開公司，所有智慧財產仍然歸 Johnson Controls 所有，您不能獨立使用，也不能在其他公司使用或是與他人分享。</li> <li>使用不當或不夠謹慎都有可能破壞或失去智慧財產 (包括商標和著作權)。 雖然 Johnson Controls 的律師會盡力捍衛我們的智慧財產，但我們每一個人也必須善盡職責。 我們在日常業務活動中必須小心地保護我們的智慧財產。</li> <li>Johnson Controls 的智慧財產對於我們的業務而言至關重要。 濫用智慧財產，或將其洩漏給未經授權的接收者，可能對公司造成嚴重問題。 在某些情況下，智慧財產可能因不當使用而失去保護，而揭露 Johnson Controls 的商業機密或設計，可能損害我們在市場上的競爭力。</li> <li>我們在網路可以輕易找到非常大量的資訊，但能夠公開取用的資訊不代表我們就有使用的權利。 您在網路上能夠找到的東西，包括文章、照片、卡通圖、程式碼和軟體，大部分都受到保護。 除非您確定 Johnson Controls 已經向所有權人徵得使用授權，否則切勿將您在網路上找到的資料用於 Johnson Controls 業務。</li> </ul>]]></text>
+		</correct>
+		<incorrect style="top: -114px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[錯誤。]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>您在 Johnson Controls 任職期間所創作、發明或修改的任何作品，通常所有權都是屬於 Johnson Controls 而不是您。 一旦您離開公司，所有智慧財產仍然歸 Johnson Controls 所有，您不能獨立使用，也不能在其他公司使用或是與他人分享。</li> <li>使用不當或不夠謹慎都有可能破壞或失去智慧財產 (包括商標和著作權)。 雖然 Johnson Controls 的律師會盡力捍衛我們的智慧財產，但我們每一個人也必須善盡職責。 我們在日常業務活動中必須小心地保護我們的智慧財產。</li> <li>Johnson Controls 的智慧財產對於我們的業務而言至關重要。 濫用智慧財產，或將其洩漏給未經授權的接收者，可能對公司造成嚴重問題。 在某些情況下，智慧財產可能因不當使用而失去保護，而揭露 Johnson Controls 的商業機密或設計，可能損害我們在市場上的競爭力。</li> <li>我們在網路可以輕易找到非常大量的資訊，但能夠公開取用的資訊不代表我們就有使用的權利。 您在網路上能夠找到的東西，包括文章、照片、卡通圖、程式碼和軟體，大部分都受到保護。 除非您確定 Johnson Controls 已經向所有權人徵得使用授權，否則切勿將您在網路上找到的資料用於 Johnson Controls 業務。</li> </ul>]]></text>	
+		</incorrect>		
+	</feedback>
+	
+</contents>

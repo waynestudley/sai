@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s04">
+	<transcript>
+		<text path="audio/module4/m04s04" id="0"><![CDATA[Todos queremos que nuestros datos personales estén seguros.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[¿Qué está en riesgo si no protegemos los datos personales?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s04/contentBackground.jpg" minwidth="769"><![CDATA[Fondo de oficina]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;"></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Haga clic en cada persona para conocer su punto de vista.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 168px;">
+		<revealCallOut width="180px" height="184px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s04/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Empleado de Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 90px;top: -15px;">
+				<text><![CDATA[Nuestros clientes confían en que mantendremos sus datos personales seguros. Una violación de la seguridad podría perjudicar nuestra reputación y socavar la confianza de nuestros clientes.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="214px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s04/btn2.png" minwidth="769"><![CDATA[Cliente]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Cliente]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 120px;top: -15px;">
+				<text><![CDATA[No necesito más llamadas de marketing o correos electrónicos no deseados en mi vida. Si le doy mi información de contacto a una empresa, espero que la mantenga segura y que no deje que caiga en las manos equivocadas. También se supone que la empresa no la usará para ningún otro fin que no sea aquel para el que presté mi consentimiento.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="409px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn3.png" minwidth="769"><![CDATA[Gerente de Johnson Controls]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Gerente de Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: -15px;">
+				<text><![CDATA[Participo activamente en organizaciones políticas, pero no quiero que mis creencias influyan en mi equipo de trabajo o en mi relación con los clientes. Esta información debe mantenerse en privado.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="603px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn4.png" minwidth="769"><![CDATA[Empleado de Johnson Controls]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Empleado de Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: -15px;">
+				<text><![CDATA[Mantengo mis problemas de salud en privado y no quiero que se compartan con otros empleados que no necesitan conocerlos.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="798px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn5.png" minwidth="769"><![CDATA[Contratista]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Contratista]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 95px;top: -15px;">
+				<text><![CDATA[Hace unos años, alguien robó la información de mi cuenta bancaria. Fue un problema enorme y costoso. Entiendo que las empresas con las que hago negocios necesitan cierta información financiera sobre mi negocio, pero espero que la mantengan segura y en privado.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

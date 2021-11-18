@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text  style="font-size:15px;line-height:18px"><![CDATA[Emma está trabajando en un segundo empleo como agente para la nueva empresa de su cuñado, pero su trabajo en Johnson Controls se está viendo afectado.]]></text>
+		<text  style="font-size:15px;line-height:18px"><![CDATA[¿Cuáles de las siguientes situaciones sería la mejor forma de proceder en el caso de Emma?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent style="font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma continúa con ambos empleos. Cuando tiene mucho trabajo como agente, les pide a sus compañeros que la cubran y se toma licencias por enfermedad en Johnson Controls.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma continúa haciendo ambos trabajos y hace todo lo posible para cumplir con sus responsabilidades en ambos casos. Cuando el flujo de trabajo viene tranquilo en Johnson Controls, atiende las llamadas relacionadas con su empleo de agente y envía correos electrónicos desde su teléfono inteligente personal.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma habla con su gerente sobre el empleo en la empresa de su cuñado, y conversan sobre las formas en que puede mantener ese trabajo separado de su empleo en Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[La decisión de Emma de trabajar para la empresa inmobiliaria de su cuñado podría crear un posible conflicto de intereses, sobre todo a medida que su segundo empleo comienza a requerir más tiempo y atención.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma todavía cree que puede organizar las tareas para que su nuevo empleo no afecte sus responsabilidades en Johnson Controls. Sin embargo, ¿está siendo realista? Por las dudas, decide hablar con su gerente.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:250px" fcStyle="top: -250px;">
+			<text style="padding-top:25px;"><![CDATA[Emma habla con su gerente sobre su segundo trabajo.]]></text>
+			<text><![CDATA[Su gerente le explica lo que se espera de ella mientras está en el trabajo y le comenta que aceptar trabajos externos no está prohibido. No obstante, los empleos secundarios deben reunir las siguientes características:<ul> <li>No pueden interferir en su trabajo para Johnson Controls. </li> <li>Emma no puede usar ningún recurso de la empresa para llevar adelante su empleo externo, incluido su tiempo de trabajo en Johnson Controls.</li> </ul>]]></text>
+			<text><![CDATA[Finalmente, acuerdan que no llevará adelante su negocio durante el horario laboral en Johnson Controls y que, si su trabajo se ve afectado, tendrán que volver a tratar el tema.]]></text>
+		</correct>
+	</feedback>
+</contents>

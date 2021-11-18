@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m02s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[In welke mate bent u vertrouwd met ons bedrijfsbeleid inzake geschenken en amusement? Duid hier 'Waar' of 'Niet waar' aan voor iedere optie en klik vervolgens op 'Indienen'.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[Werknemers]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Zijn deze beweringen over geschenken en amusement waar of niet waar?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Duid 'Waar' of 'Niet waar' aan voor iedere optie en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[Persoon die een geschenk ontvangt terwijl er op de achtergrond amusement aan de gang is]]></img>
+			<text style="width: 390px;"><![CDATA[In de beleidsregels van Johnson Controls komt iedere situatie betreffende geschenken en amusement aan bod: er is geen dubbelzinnigheid]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[Nadenkende werknemer]]></img>
+			<text style="width: 390px;"><![CDATA[Als u amusement of geschenken ontvangt, moet u uzelf steeds de vraag stellen: "Wordt er iets van mij terug verwacht?" ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[Nadenkende werknemer]]></img>	
+			<text style="width: 390px;"><![CDATA[Als de persoon aan wie u geschenken of amusement aanbiedt vermoedt dat u er iets voor terug verwacht, mag u niet verder gaan]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[Nadenkende werknemer]]></img>	
+			<text style="width:390px;"><![CDATA[U kunt best nooit geschenken of amusement aanbieden of aanvaarden: het is gewoon te riskant]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Waar]]></text>
+		<text><![CDATA[Niet waar]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -88px;width: 220px;height: 436px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[Dat klopt.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Het geven en ontvangen van amusement en geschenken is aanvaardbaar in de juiste omstandigheden, maar vereist gezond verstand en kennis van de richtlijnen van Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Onze beleidsregels kunnen niet elke situatie voorzien, dus u zult zorgvuldig rekening moeten houden met de omstandigheden, uw gezond verstand moeten gebruiken of, als u twijfelt, advies inwinnen voordat u verder gaat.]]></text>			
+		</correct>
+		<incorrect style="top: -88px;width: 220px;height: 436px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[Dat klopt niet.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Het geven en ontvangen van amusement en geschenken is aanvaardbaar in de juiste omstandigheden, maar vereist gezond verstand en kennis van de richtlijnen van Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Onze beleidsregels kunnen niet elke situatie voorzien, dus u zult zorgvuldig rekening moeten houden met de omstandigheden, uw gezond verstand moeten gebruiken of, als u twijfelt, advies inwinnen voordat u verder gaat.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

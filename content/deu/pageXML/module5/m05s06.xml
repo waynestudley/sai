@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[Erkennen Sie hier Warnhinweise? Wählen Sie alle Warnhinweise aus und klicken Sie anschließend auf „Übermitteln“.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Welche Warnhinweise erkennen Sie im Zusammenhang mit dieser E-Mail?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[E-Mail-Posteingang]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Wählen Sie alle Warnhinweise aus und klicken Sie anschließend auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Es ist möglich, dass mehrere Antworten richtig sind.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Der Absender behauptet, Kunde bei Johnson Controls zu sein]]></option>	
+		<option><![CDATA[Der Kunde schreibt über geschäftliche Dinge, nutzt dazu jedoch ein Gmail-Konto]]></option>	
+		<option><![CDATA[Der Kunde bittet um Informationen, die möglicherweise Vorschriften unterliegen, gibt über sich selbst jedoch kaum etwas preis]]></option>	
+		<option><![CDATA[Der Kunde behauptet, in Frankreich zu sitzen, was aus der E-Mail jedoch nicht eindeutig hervorgeht]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text style="font-size:15px;line-height:17px;padding-top:15px;"><![CDATA[Das ist richtig.]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[Der Kunde bittet um technische Informationen, die möglicherweise Exportbeschränkungen unterliegen, gibt über sich selbst jedoch kaum etwas preis]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[Ehe Sie technische Unterstützung anbieten, müssen Sie zumindest mehr über die Identität und den Standort des Kunden sowie über möglicherweise geltende Handelsbeschränkungen in Erfahrung bringen.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text style="font-size:15px;line-height:17px;padding-top:15px;"><![CDATA[Das stimmt leider nicht.]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[Der Kunde bittet um technische Informationen, die möglicherweise Exportbeschränkungen unterliegen, gibt über sich selbst jedoch kaum etwas preis]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[Ehe Sie technische Unterstützung anbieten, müssen Sie zumindest mehr über die Identität und den Standort des Kunden sowie über möglicherweise geltende Handelsbeschränkungen in Erfahrung bringen.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

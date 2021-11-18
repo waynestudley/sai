@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[Celá řada případů střetů zájmů se odehrává v malém měřítku a na osobní úrovni. Některé střety zájmů jsou však natolik rozsáhlé, že se mohou dostat do titulků novin.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[Většina střetů zájmů je spíše menší a osobní, ale některé jsou dostatečně závažné na to, aby se dostaly do zpráv.]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[Kliknutím na šipku zobrazíte další informace.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Správce portfolia hovoří s vyšetřovatelem komise pro cenné papíry a burzu (SEC)]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:380px;" />
+				<text style="font-weight:bold;font-size:15px;line-height: 18px;"><![CDATA[Titulek: Společnost spravující aktiva zaplatila 12 milionů USD za urovnání žalob ohledně střetu zájmů.]]></text>
+				<text style="font-size:15px;line-height: 18px;"><![CDATA[BlackRock, významná společnost spravující aktiva, zaplatila 12 milionů USD za urovnání žalob pro střet zájmů kvůli jednání jednoho ze svých správců portfolia.]]></text>
+				<text style="font-size:15px;line-height: 18px;"><![CDATA[Americká komise pro cenné papíry a burzy (SEC) vznesla žalobu na základě zjištění, že makléř dohlížející na energetické fondy společnosti Blackrock založil ve stejné době rodinnou ropnou a plynárenskou společnost. Tato rodinná společnost navázala partnerství s uhelnou společností, jejíž akcie byly největší investicí fondu řízeného tímto makléřem.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Člen správní rady nemocnice na tiskové konferenci]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-weight:bold;font-size:15px;line-height: 18px;"><![CDATA[Titulek: Člen správní rady nemocnice byl osobně pokutován částkou ve výši 13 500 USD.]]></text>
+				<text style="font-size:15px;line-height: 18px;"><![CDATA[Člen správní rady veřejného systému nemocnic ve městě New York byl osobně pokutován za střet zájmů, který nastal mezi jeho působením ve správní radě a jeho postavením na lékařské fakultě v Grenadě.]]></text>
+				<text style="font-size:15px;line-height: 18px;"><![CDATA[Newyorský úřad pro střety zájmů zjistil, že lékař zneužil své postavení v představenstvu, aby přesvědčil městské nemocnice k zvýšení počtu stáží pro studenty lékařské školy, pro kterou pracoval.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Osoba se dívá na akcie ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:15px;line-height: 17px;"><![CDATA[Titulek: Společnost J.P. Morgan zaplatila 35 milionů USD poté, co během obchodní transakce poskytla zmanipulované poradenství.]]></text>
+				<text style="font-size:15px;line-height: 17px;"><![CDATA[Investiční gigant J.P. Morgan zaplatil 35 milionů USD za urovnání žalob plynoucích z jednání této společnosti při prodeji společnosti Good Technology společnosti BlackBerry koncem roku 2015. ]]></text>
+				<text style="font-size:15px;line-height: 17px;"><![CDATA[Akcionáři firmy Good Technology vznesli obvinění, že firma byla prodána pod tržní hodnotou a že společnost J.P. Morgan přiměla firmu Good Technology k prodeji, protože chtěla od společnosti BlackBerry získat budoucí zakázky v oblasti investičního bankovnictví. Soud dal akcionářům za pravdu a přiřkl jim značnou sumu.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

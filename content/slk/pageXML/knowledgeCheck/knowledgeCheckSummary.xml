@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[Blahoželáme, úspešne ste absolvovali záverečnú kontrolu vedomostí.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[Ľutujeme, zatiaľ ste úspešne neabsolvovali záverečnú kontrolu vedomostí. ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Gratulujeme!]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Zamestnanci spoločnosti Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Zamestnanci spoločnosti Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[Kliknutím na tlačidlo Domov sa vráťte do hlavnej ponuky. Odtiaľ môžete získať prístup k vášmu certifikátu o absolvovaní kurzu.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Domov sa vráťte do hlavnej ponuky.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[Ak dosiahnete skóre <b>##%</b>, absolvovali ste kontrolu vedomostí pre: <span class="courseTitleAss" >Aplikácia etického kódexu: kurz Bezúhonné obchodovanie</span>.]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[Ak dosiahnete skóre <b>##%</b>, neabsolvovali ste kurz.]]></text>
+		<text><![CDATA[Na úspešné absolvovanie potrebujete skóre <span>#%</span> alebo viac. Navštívte program znovu a potom opätovne skúste túto kontrolu vedomostí.]]></text>
+	</feedbackFail>
+</contents>

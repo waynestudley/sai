@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path=""><![CDATA[]]></text>
+	</transcript>
+	<contentText>		
+		<text><![CDATA[בחר את האזור שלך]]></text>		
+	
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/rtl/Location_Selection.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[המשך]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="R0"><![CDATA[בחר אזור]]></option>
+			<option id="R1"><![CDATA[אזור אסיה פסיפיק]]></option>
+			<option id="R2"><![CDATA[אמריקה הלטינית]]></option>
+			<option id="R3"><![CDATA[המזרח התיכון]]></option>
+			<option id="R4"><![CDATA[אירופה/אפריקה]]></option>
+			<option id="R5"><![CDATA[צפון אמריקה]]></option>
+	</dropDownMenu>
+</contents>

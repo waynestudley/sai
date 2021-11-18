@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[เลือกของกำนัลหรือความบันเทิงสำหรับตัวอย่างแต่ละข้อ จากนั้นคลิกส่ง]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[พนักงานในสำนักงาน]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[ดูว่าคุณจะแยกออกหรือไม่ว่าแต่ละตัวอย่างนับเป็นของกำนัลหรือความบันเทิง]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[เลือกของกำนัลหรือความบันเทิงในแต่ละตัวเลือกจากนั้นคลิกส่ง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png"><![CDATA[บรรดาพนักงานที่อยู่ระหว่างมื้ออาหารในทีมกับซัพพลายเออร์]]></img>
+			<text style="width: 406px;"><![CDATA[ซัพพลายเออร์คนหนึ่งเชิญทีมโปรเจ็กต์ทั้งทีมมารับประทานอาหารเพื่อเฉลิมฉลองหลังจบโปรเจ็กต์ใหญ่]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png"><![CDATA[พนักงานที่กำลังครุ่นคิด]]></img>
+			<text style="width: 406px;"><![CDATA[ผู้ซื้อคนหนึ่งให้บัตรกำนัลบริการนวดที่รีสอร์ทท้องถิ่นเพื่อ “ขอบคุณ” คุณสำหรับการทำงาน]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png"><![CDATA[พนักงานที่กำลังครุ่นคิด]]></img>	
+			<text style="width: 406px;"><![CDATA[คุณกำลังเข้าร่วมงานแสดงสินค้าในนามของบริษัทและผู้จัดงานเชิญผู้เข้าร่วมมาร่วมงานกิจกรรม]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png"><![CDATA[พนักงานที่กำลังครุ่นคิด]]></img>	
+			<text style="width:406px;"><![CDATA[ซัพพลายเออร์เสนอที่จะรับผิดชอบมื้ออาหารที่ร้านอาหารท้องถิ่นให้กับทีมของคุณหลังจากการลงพื้นที่พบปะกัน แต่ซัพพลายเออร์ไม่ได้ร่วมมื้ออาหารด้วย]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png"><![CDATA[พนักงานที่กำลังครุ่นคิด]]></img>	
+			<text style="width:406px;"><![CDATA[ซัพพลายเออร์เชิญคุณไปยังงานกีฬาแต่รู้สึกป่วยและให้คุณไปโดยที่ไม่มีเธอ]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[ของกำนัล]]></text>
+		<text styleWidth="width:100px;"><![CDATA[ความบันเทิง]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -95px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[ถูกต้อง]]></text>			
+			<text style="font-size: 15px;"><![CDATA[กฎระเบียบบังคับใช้กับการรายงานของกำนัลและความบันเทิงจะต่างกันออกไป โปรดจำไว้ว่า ความบันเทิงคือเมื่อผู้ให้ได้รับประโยชน์ร่วมด้วย เช่น พวกเขาร่วมรับประทานอาหารค่ำ พวกเขาไปยังงานกิจกรรมด้วย เป็นต้น]]></text>			
+			<text style="font-size: 15px;"><![CDATA[การที่ซัพพลายเออร์เชิญทีมไปรับประทานอาหารหรือเข้าร่วมกิจกรรมงานแสดงสินค้าช่วงค่ำนับเป็นความบันเทิงเนื่องจากทั้งสองกิจกรรมเปิดโอกาสให้หารือธุรกิจและผู้ให้ก็ได้รับประโยชน์ร่วมด้วย ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[บัตรกำนัลและกิจกรรมที่ผู้ให้ไม่ได้เข้าร่วมนับว่าเป็นของกำนัล ]]></text>			
+		</correct>
+		<incorrect style="top: -95px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[ไม่ถูกต้อง]]></text>	
+			<text style="font-size: 15px;"><![CDATA[กฎระเบียบบังคับใช้กับการรายงานของกำนัลและความบันเทิงจะต่างกันออกไป โปรดจำไว้ว่า ความบันเทิงคือเมื่อผู้ให้ได้รับประโยชน์ร่วมด้วย เช่น พวกเขาร่วมรับประทานอาหารค่ำ พวกเขาไปยังงานกิจกรรมด้วย เป็นต้น]]></text>			
+			<text style="font-size: 15px;"><![CDATA[การที่ซัพพลายเออร์เชิญทีมไปรับประทานอาหารหรือเข้าร่วมกิจกรรมงานแสดงสินค้าช่วงค่ำนับเป็นความบันเทิงเนื่องจากทั้งสองกิจกรรมเปิดโอกาสให้หารือธุรกิจและผู้ให้ก็ได้รับประโยชน์ร่วมด้วย ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[บัตรกำนัลและกิจกรรมที่ผู้ให้ไม่ได้เข้าร่วมนับว่าเป็นของกำนัล ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

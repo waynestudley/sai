@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;">
+		<text><![CDATA[Pour en savoir plus, cliquez sur chaque titre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour reconsidérer votre décision et recommencer.]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">			
+			<buttonText style=""><![CDATA[Une consommation d’alcool trop importante]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Plusieurs membres du groupe sont complètement ivres et l’un d’eux tombe dans les escaliers et se casse le bras. Une nouvelle personne doit être embauchée pour le remplacer : elle travaille bien plus lentement et le projet prend du retard. ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">
+			<buttonText><![CDATA[La cliente est mécontente]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Après avoir surpris plusieurs conversations, la cliente réalise que le retard du projet est dû à un événement où Carlos a offert des boissons à des collègues dans un bar sportif. Elle appelle le responsable de Carlos pour se plaindre. ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="138">
+			<buttonText><![CDATA[Posts sur Facebook]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[L’un des sous-traitants publie une photo de l’accident sur Facebook. Il écrit « Soirée arrosée hier avec la bande de Johnson Controls... » ]]></text>					
+				<text><![CDATA[Carlos se demande si le sous-traitant peut poursuivre l’entreprise.]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

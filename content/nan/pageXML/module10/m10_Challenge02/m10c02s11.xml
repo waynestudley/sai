@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[按「下一步」繼續。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[艾瑪很同情珊迪的處境。 她認為讓多點人知道珊迪的情況，可能會有所幫助。 艾瑪要如何幫助他的同事？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;line-height:20px;">
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[給珊迪一個驚喜，幫她成立線上募款網站，網站上記錄珊迪的復原過程和財務窘境，並募集捐款來幫忙支付醫療費用。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[利用她的房地產部落格，試著號召更多人響應珊迪家人的募款行動。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[在對其他人透露消息，或在任何社交媒體上撰寫有關珊迪的意外和辛苦的復原情況前，必須先徵求珊迪的同意。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[艾瑪為珊迪成立一個募款網站，並在網站中說明珊迪的傷勢及目前的預後情況。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾瑪的網站和部落格的瀏覽人次很多，因此她認為這是個絕佳的方法，可以讓更多人得知珊迪的困境並慷慨解囊。 艾瑪決定要再補充說明珊迪的意外和她家人發起的募款行動，將這些資訊發佈在她的房地產網站與部落格上。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:180px;" fcStyle="top:-135px">
+			<text style="padding-top:25px;"><![CDATA[艾瑪徵求珊迪同意她撰文描述這起意外事件，並將文章張貼在艾瑪的部落格上來募集珊迪的醫療費用。]]></text>
+			<text><![CDATA[珊迪同意了，但要求募集到的款項必須存入醫院的基金專戶。]]></text>
+			<text><![CDATA[艾瑪取得珊迪對於所能透露的訊息及如何使用她個人資訊方面的同意後，可確保自己不會濫用珊迪的個人資訊，也做到明確尊重珊迪的隱私。]]></text>
+		</correct>
+	</feedback>
+</contents>

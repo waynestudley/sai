@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[恭喜，您已順利通過最終的知識檢核。  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[很可惜，您未能通過最終的知識檢核。 ]]></text>		
+	</transcript>
+	<contentBg style="width: 430px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[恭喜您！]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Johnson Controls 員工]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Johnson Controls 員工]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[按一下「首頁」返回「主功能表」。 您可以從此處存取課程完成證書。]]></text>
+		<text><![CDATA[按一下「首頁」返回「主功能表」。]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[您的分數是 <b>##%</b>，已通過下述課程的知識檢核： <span class="courseTitleAss" >踐行道德準則： 誠信經營</span>課程。]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[您的分數是 <b>##%</b>，未能通過本課程的評量。]]></text>
+		<text><![CDATA[必須獲得 <span>#%</span> 分或更高才能通過。 請重新複習本課程，然後再次進行知識檢核。]]></text>
+	</feedbackFail>
+</contents>

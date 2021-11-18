@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[ซัพพลายเออร์หลักได้ขอการชำระเงินอย่างเร่งด่วน คุณคิดว่าจิอานควรทำอย่างไร เลือกหนึ่งตัวเลือก จากนั้นคลิก ตกลง]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[จิอานถูกเร่งให้อนุมัติการชำระเงินอย่างเร่งด่วนให้กับใบแจ้งหนี้ของผู้จำหน่าย และความสำเร็จของโครงการอาจขึ้นอยู่กับสิ่งนี้]]></text>
+		<text><![CDATA[เขาควรทำอย่างไร]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[จิอานคุยกับโนลานทางโทรศัพท์ในห้องครัวของเขา]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[บอกโนลานให้อนุมัติการชำระเงิน ดูเหมือนว่าเป็นเรื่องสมเหตุสมผลที่จ่ายเงิน 1000 ดอลลาร์สหรัฐ เพื่อหลีกเลี่ยงค่าปรับที่มีนัยสำคัญเนื่องจากการจัดส่งล่าช้า]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[บอกโนอานไม่ให้อนุมัติการชำระเงินจนกว่าพวกเขาทราบเพิ่มเติมว่าจะนำเงินไปใช้ในการอนุญาตอย่างไร]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[จิอานบอกให้แผนกบัญชีจ่ายใบแจ้งหนี้ ดูเหมือนว่าเป็นวิธีที่ดีที่สุดในการรักษาโครงการให้ทันกำหนดเวลา และเป็นค่าใช้จ่ายที่น้อยกว่าค่าปรับของลูกค้า]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[หลังจากที่พูดคุยกับโนลานแล้ว จิอานมีข้อกังวลเกี่ยวกับคำร้องขอของซัพพลายเออร์]]></text>
+		</correct>
+	</feedback>
+</contents>

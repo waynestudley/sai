@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s09">
+	<transcript>
+		<text path="audio/module4/m04s09" id="0"><![CDATA[Les téléphones portables et les ordinateurs portables sont parfaits pour travailler en mode nomade, mais ils peuvent également nous rendre vulnérables. Restez vigilant pour vous protéger vous et ceux avec lesquels vous travaillez.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Lorsque vous utilisez des téléphones portables, des ordinateurs portables ou d’autres appareils portables, vous transportez votre lieu de travail. Les criminels recherchent toutes les opportunités possibles, il est donc important de rester vigilant et de ne pas s’exposer à des risques inutiles.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s09/contentBackground.jpg" minwidth="769"><![CDATA[Salarié utilisant un téléphone portable dans un aéroport]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Cliquez sur chaque titre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<revealCallOutContent style = "top:205px;">
+		<revealCallOut width="230px" height="190px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn1.png" minwidth="769"><![CDATA[Deux salariés ayant une conversation privée]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Il suffit de garder les conversations confidentielles, confidentielles]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: 25px;width: 958px;">
+				<text><![CDATA[Ne discutez pas d’informations confidentielles ou privées au téléphone ou en personne lorsque d’autres peuvent entendre.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn2.png" minwidth="769"><![CDATA[Ville avec de nombreux points d'accès Wi-Fi]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Évitez de vous connecter au Wi-Fi public]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 95px;top: 25px;width: 958px;">
+				<text><![CDATA[Les informations que vous envoyez via un réseau public non sécurisé peuvent être plus facilement interceptées. Choisissez plutôt des bornes Wi-Fi connues, généralement mises à disposition par les entreprises. Si vous devez utiliser un Wi-Fi public, assurez-vous d’utiliser un VPN pour accéder aux réseaux Johnson Controls.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn3.png" minwidth="769"><![CDATA[Salarié travaillant sur un ordinateur portable dans un aéroport]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Contrôlez votre environnement]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: 25px;width: 958px;">
+				<text><![CDATA[Faites attention aux personnes autour de vous qui pourraient voir votre écran. Envisagez d’utiliser un filtre de confidentialité sur l’écran de votre appareil.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn4.png" minwidth="769"><![CDATA[Salarié utilisant une carte magnétique]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Conservez votre carte magnétique à proximité]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 95px;top: 25px;width: 958px;">
+				<text><![CDATA[Assurez-vous de savoir où se trouve votre carte magnétique d'accès à tout moment. Rappelez-vous de ranger votre carte magnétique dans votre poche lorsque vous entrez et sortez de votre lieu de travail.]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

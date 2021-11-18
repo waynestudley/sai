@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript style="">
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentTitle>
+		<text><![CDATA[بيئتك]]></text>		
+	</contentTitle>
+	<contentBg style="padding: 0;top: 20px;width: 878px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	
+	<contentText>
+		<text><![CDATA[لتزويدك بالمحتوى الأكثر ملاءمة لدورك، نريد أن نعرف المزيد عن مكان عملك. ]]></text>
+		<text style="margin: 10px 0px 0px 0px;"><![CDATA[الرجاء تحديد بيئة عملك الأكثر شيوعًا.]]></text>
+	</contentText>
+	
+	
+	
+	<instructionText style="margin-top: 5px;min-height: auto;">
+		<text><![CDATA[انقر فوق بيئة عملك، ثم انقر فوق "متابعة".]]></text>
+	</instructionText>
+	
+	<optionContent>
+		<option profilerId="OMSE">
+			<img path="content/images/rtl/subprofiler/img_01.png"><![CDATA[بيئة مكتبية]]></img>
+			<text><![CDATA[مهني يعمل في مكتب; على سبيل المثال، قسم المبيعات أو التسويق أو الشؤون القانونية أو الشؤون المالية أو المشتريات وغير ذلك]]></text>
+		</option>
+		<option profilerId="CSCE">
+			<img path="content/images/rtl/subprofiler/img_02.png"><![CDATA[بيئة مكتبية]]></img>
+			<text><![CDATA[مركز دعم العملاء]]></text>
+		</option>
+		<option profilerId="OIE">
+			<img path="content/images/rtl/subprofiler/img_03.png"><![CDATA[بيئة مكتبية]]></img>
+			<text><![CDATA[التركيب والخدمة خارج موقع العمل]]></text>
+		</option>		
+	</optionContent>
+	 <contentBackground>		
+		<img path="content/images/rtl/subprofiler/welcomeScreen.jpg" minwidth="800" minheight="600"><![CDATA[موظف في شركة Johnson Controls]]></img>
+	</contentBackground>
+	<buttonText>		
+		<text><![CDATA[متابعة]]></text>
+	</buttonText>
+	
+</contents>

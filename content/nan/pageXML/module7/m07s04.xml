@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m07s04">
+	<transcript>
+		<text path="audio/module7/m07s04" id="0"><![CDATA[讓我們進一步瞭解 Johnson Controls 擁有哪些不同種類的智慧財產。 按一下每個「顯示」按鈕以瞭解詳情。]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Johnson Controls 之所以成功，在某種程度上得歸功於與我們有能力保護下列資產：]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module7/m07s04/contentBackground.jpg" minwidth="769"><![CDATA[辦公室背景]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[按一下每個「顯示」按鈕以瞭解詳情。 請捲動閱讀完整答案。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[顯示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module7/m07s04/img1.png"><![CDATA[標示「專利」字樣的資料夾]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[專利]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[專利保護 Johnson Controls 的技術發明，包括技術軟體。]]></text>
+				<text><![CDATA[專利的申請過程可能曠日廢時且費用昂貴，但是一旦取得，就能夠讓我們防止其他人使用這項發明。 這會為我們帶來相當顯著的競爭優勢。]]></text>						
+			</popText>	
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module7/m07s04/img2.png"><![CDATA[保密協議]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[商業機密]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[商業機密包括 Johnson Controls 的機密業務、流程和技術資訊，如製造協定和採集資料。 任何與我們業務相關且非公開的資訊，能為我們帶來市場的經濟優勢，這類資訊就是必須需依照合理方法加以保護的商業機密。]]></text>					
+				<text><![CDATA[商業機密並非在所有國家都受到法律保護，但是我們可以只和獲得授權的人謹慎分享資訊，而加強對其的保護。 此外，我們會要求收受者簽署保密協議 (NDA)。]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img3.png"><![CDATA[著作權符號]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[著作權]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Johnson Controls 運用著作權保護軟體程式碼、包裝以及手冊。]]></text>			
+				<text><![CDATA[在許多國家，作者過世後 70 年內的智慧財產均受著作權保障。 在美國，著作權不需申請即可獲得保護，但必須登記才具有效力。]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img4.png"><![CDATA[處理 Johnson Controls 產品的員工]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[設計權]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[設計權也稱為設計專利，是用來保護產品的設計 (而非其技術特性)。]]></text>			
+				<text><![CDATA[例如，設計權可以保護偵測器的外觀，阻止競爭對手抄襲其設計。 不過，設計權並不保護使得偵測器具有相關功能的科技。 Johnson Controls 必須取得該項產品在這方面的專利。]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img5.png"><![CDATA[商標符號]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[商標]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[商標 (包括服務標誌) 能夠保護我們的品牌和標誌。 這些是公司用來識別我們的產品和服務的名稱或符號。]]></text>			
+				<text><![CDATA[許多事物都可以算是商標，包括顏色、形狀，甚至是氣味和聲音。 「可口可樂」這個名稱是個商標，耐吉的「漩勾」圖樣也是商標。]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

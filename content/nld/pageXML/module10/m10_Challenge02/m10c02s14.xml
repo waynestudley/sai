@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik op Volgende om door te gaan.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Hoe moet Dan op het verzoek van Emma reageren?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s14/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Hij moet het verzoek van Emma inwilligen om een collega te steunen.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Dan mag geen medische informatie rechtstreeks in een e-mail verstrekken, maar hij mag wel een koppeling naar Emma's blog versturen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[In plaats van een bedrijfsbrede e-mail te versturen, suggereert Dan dat Emma Sandy vraagt wat ze kunnen doen om haar te helpen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Dan verstuurt alle werknemers van Johnson Controls een e-mail met informatie over het ongeval van Sandy en een koppeling naar Emma's blog.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Dan verstuurt een e-mail met een koppeling naar Emma's blog. Hij lijkt niet te beseffen dat dit een ongepast gebruik van de mailinglijst van werknemers inhoudt.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Wanneer Emma Sandy vraagt hoe ze haar kan helpen, stelt Sandy voor dat Emma een paar vrienden op het werk vertelt over de Facebookpagina die haar familie heeft opgestart.]]></text>
+			<text><![CDATA[Emma deelt deze informatie uitsluitend met de personen die Sandy heeft gesuggereerd. Haar collega's plaatsen berichtjes om haar veel beterschap te wensen, waar Sandy van opkikkert. Heel wat mensen doneren aan het fonds voor de medische kosten van Sandy, waardoor ze zich minder zorgen hoeft te maken.]]></text>
+		</correct>
+	</feedback>
+</contents>

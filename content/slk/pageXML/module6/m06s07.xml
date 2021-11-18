@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s07">
+	<transcript>
+		<text path="audio/module6/m06s07" id="0"><![CDATA[Porušenie zákona o hospodárskej súťaži sa uskutočnilo v našej spoločnosti, ako to ilustruje táto prípadová štúdia. Kliknite na každú fázu príbehu.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px" lineHeight="19px"><![CDATA[Neférová hospodárska súťaž sa môže stať kdekoľvek a nie je to vždy zrejmé. Nie je to tak dávno, keď sme v spoločnosti Johnson Controls zažili problém v oblasti hospodárskej súťaže. Pozrime sa na tento prípad, aby sme zistili, čo sa z neho môžeme naučiť.]]></text>
+	</contentText>
+	<contentBg style="top: 34px;"></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[Kliknite na každú fázu príbehu.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top: 170px;">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module6/m06s07/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Stretnutie vedúceho manažéra s manažérmi z iných spoločností]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[Spoločnosť Johnson Controls používa určitých dodávateľov odpadových batérií. Už niekoľko rokov si vedúci manažér vymieňal informácie s manažérmi troch ďalších veľkých spoločností, ktorí tiež použili dodávateľov odpadových batérií.]]></text>
+				<text><![CDATA[Cieľom bolo pravdepodobne umelé zníženie cien, ktoré tieto štyri spoločnosti zaplatili dodávateľom odpadových batérií na území Nemecka, Francúzska, Belgicka a Holandska.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Volajúci zamestnanec linky pomoci s bezúhonnosťou]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[Jeden zo zamestnancov spoločnosti Johnson Controls vystúpil a ohlásil túto činnosť prostredníctvom našej linky pomoci s bezúhonnosťou.]]></text>
+				<text><![CDATA[Spoločnosť Johnson Controls spolupracovala s Európskou komisiou, aby umožnila transparentné vyšetrovanie.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Vyšetrovanie]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[Bolo vykonané vyšetrovanie, ktoré malo za následok, že manažér spoločnosti Johnson Controls prepojený s neetickou aktivitou bol prepustený.]]></text>
+				<text><![CDATA[Ostatné zainteresované spoločnosti dostali pokuty vo výške miliónov eur, ale spoločnosti Johnson Controls pokuta uložená nebola, pretože proaktívne ohlásila činnosť orgánom a plne spolupracovala pri jej následnom vyšetrovaní.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_04.png" minwidth="700" minheight="550"><![CDATA[Informátor drží mobilný telefón]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[Informátor pomohol spoločnosti Johnson Controls objaviť a ukončiť túto nevhodnú praktiku. A vďaka proaktívnemu nahláseniu orgánom poskytla Európska komisia spoločnosti Johnson Controls imunitu voči pokutám. Pokuta by inak predstavovala 42 miliónov eur.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="5">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_05.png" minwidth="700" minheight="550"><![CDATA[Európsky tím]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[Po tomto incidente zrealizoval európsky tím v spoločnosti Johnson Controls významné zmeny v našich vnútorných procesoch a organizačnej štruktúre, aby sa zabránilo opakovaniu podobných aktivít.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

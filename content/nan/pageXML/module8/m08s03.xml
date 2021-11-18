@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m08s03">
+	<transcript>
+		<text path="audio/module8/m08s03" id="0"><![CDATA[黛比打開一則手機上的新訊息。 按一下每個圖片以瞭解詳情。]]></text>		
+	</transcript>
+	<pageTitle style="width: 354px;"></pageTitle>
+	<contentBg style="width: 500px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[黛比看到同事金姆傳來的通知。]]></text>
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module8/m08s03/contentBackground.jpg" minwidth="769"><![CDATA[拿著手機的女性]]></img>
+	</contentBackground>	
+	<revelCollOut style="width: 235px;left: 0px;top: 135px;height: 355px;">		
+		<img path="content/images/ltr/module8/m08s03/img_03.png" minwidth="769"><![CDATA[]]></img>	
+		<text style="font-weight:bold;font-size: 16px"><![CDATA[寄件人： 金姆 帕克]]></text>
+		<text style="font-size: 15px"><![CDATA[愛死我的 8 小時加班 – 呦呼<img src="content/images/ltr/module8/m08s03/icon.png"  style="height: 20px;margin-left: 4px;vertical-align: middle;"/> ]]></text>
+	</revelCollOut>
+	<revelCollOut style="width: 235px;left:260px;top: 135px;height: 355px;">		
+		<img path="content/images/ltr/module8/m08s03/img_04.png" minwidth="769"><![CDATA[]]></img>	
+		<text style="font-weight:bold;font-size: 16px"><![CDATA[黛比]]></text> 		
+		<text style="font-size: 15px"><![CDATA[照片很好看，但是金姆，為何背景有拍到你的電腦螢幕？ 螢幕上有客戶服務要求和記載客戶帳單資訊的 Excel 工作表。 如果我能看到，代表所有人都能看到！]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[請選取每張圖片以瞭解詳情。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<RevealButton style="top:135px;left: 0px;width: 235px;height: 160px;position: absolute;">
+	
+		<buttonImg path="content/images/ltr/module8/m08s03/img_01.png" style=""><![CDATA[另一位女性的縮圖]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 235px;height: 160px;" txtStyle=""><![CDATA[寄件人： 金姆 帕克]]></buttonText>		
+	</RevealButton>	
+	
+	<RevealButton style="top:135px;left:260px;width: 235px;height: 160px;position: absolute;">
+		<buttonImg path="content/images/ltr/module8/m08s03/img_02.png" style="top:10px;left:0px;width:590px;">				<![CDATA[黛比]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 235px;height: 160px;" txtStyle=""><![CDATA[黛比]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

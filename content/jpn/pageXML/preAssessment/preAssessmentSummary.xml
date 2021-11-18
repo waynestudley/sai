@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentTitle>
+		<text><![CDATA[事前調査]]></text>		
+	</contentTitle>
+	<contentBg style="padding:30px 0 0 0;top: 70px;width: 510px;right: 20px;"></contentBg>
+	<pageTitle style="padding:0px 30px;width: 360px;margin-bottom: 10px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/preAssessment/preassessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Johnson Controls従業員]]></img>
+	</contentBackground>	
+	<instructionText style="padding:0px 30px 30px;min-height: auto;">		
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<feedbackPass>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[高レベルの知識を示しました！ あなたのコースコンテンツは調整され、特定のセクションを適切にスキップできます。]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="normal" left="0px" color="#00549E" bgColor="#D5D547" padding="20px 30px" position="relative"><![CDATA[よくできました！]]></text>
+	</feedbackPass>
+	<feedbackPartial>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[高レベルの知識を示しました！ あなたのコースコンテンツは調整され、特定のセクションを適切にスキップできます。]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="normal" left="0px" color="#00549E" bgColor="#D5D547" padding="20px 30px" position="relative"><![CDATA[よくできました！]]></text>
+	</feedbackPartial>
+	<feedbackFail>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[今回、すべての質問に正確にお答えいただけませんでした。 コースを続行してください。 重要な規定を確認したら、別に知識を示す機会があります。]]></text>			
+	</feedbackFail>
+</contents>

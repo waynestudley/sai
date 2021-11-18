@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="reveal2">
+	<transcript>
+		<text path="audio/module8/m08s07" id="0"><![CDATA[Aké informácie musíte zachovať v tajnosti? Tu sú niektoré príklady, hoci existujú aj iné typy dôverných informácií, ktoré tu nie sú uvedené. Kliknite na každý nadpis pre potvrdenie, že rozumiete.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:635px;margin-bottom:0px;font-size:15px;"><![CDATA[Dôverné informácie môžu mať mnoho foriem. Môžu byť zapísané, verbálne komunikované alebo uložené v databáze. Záleží na obsahu, ktorý sa prenáša.]]></text>			
+	</contentText>
+	<pageTitle style="width: 635px;margin-bottom: 5px;"></pageTitle>
+	<instructionText style="width: 635px;">
+		<text><![CDATA[Vyberte každú položku.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s07/contentBackground.jpg" minwidth="769"><![CDATA[Digitálne informácie]]></img>
+	</contentBackground>
+	<popupBackground>
+		<img path="content/images/ltr/module8/m08s07/img_01.png"><![CDATA[]]></img>
+	</popupBackground>
+	<tabHolder style=""></tabHolder>
+	<tabs style="">
+		<tab id="1" type="callOut" style="">
+			<tabName><![CDATA[Podnikateľské plány alebo stratégia]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup1.png"><![CDATA[]]></img>
+			</backgroungImg>
+			<tabText style="width: 268px;">
+				<text style="font-size:15px;"><![CDATA[Chráňte akékoľvek do budúcna smerujúce informácie o našej firme. Ak sa konkurenti dozvedia, čo plánujeme, mohlo by im to dať značnú výhodu.]]></text>
+			</tabText>
+		</tab>		
+		<tab id="2" type="planeText" style="top: 32px;">
+			<tabName><![CDATA[Nezverejnené finančné informácie]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup2.png"><![CDATA[Zamestnanec dodržiavajúci proces schvaľovania]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[Zaobchádzajte so všetkými neverejnými informáciami o finančnej výkonnosti alebo cenách spoločnosti Johnson Controls ako s dôvernými. Patria sem informácie o potenciálnych akvizíciách. Naša spoločnosť musí dodržiavať prísne pravidlá v tom, ako zverejňujeme a zdieľame finančné informácie, pretože to môže zmeniť spôsob, ako investori vnímajú spoločnosť.]]></text>
+				</tabText>
+		</tab>		
+		<tab id="3" type="planeText" style="top: 59px;">
+			<tabName><![CDATA[Informácie o zákazníkovi alebo trhu]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup3.png"><![CDATA[Štátny úradník]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[Chráňte zoznamy zákazníkov, zákaznícke zmluvy, údaje o podieloch na trhu, dodávateľské dohody a podobné informácie. Tieto informácie obsahujú významné vnútorné znalosti nášho podnikania, a ak sa ich niekto iný dozvie, mohlo by to ohroziť naše konkurenčné výhody.]]></text>
+				</tabText>
+		</tab>	
+		<tab id="4" type="planeText" style="top: 82px;">
+			<tabName><![CDATA[Výrobok alebo technické informácie]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup4.png"><![CDATA[Zamestnanec vypĺňajúci schvaľovacie formuláre]]></img>
+			</backgroungImg>
+			<tabText style="width:255px;">
+				 <text style="font-size:15px;"><![CDATA[Hodnota našej spoločnosti pochádza z našich produktov a know-how. Softvérový zdrojový kód, výkresy produktu, technické príručky a výskumné a vývojové materiály musia byť starostlivo chránené.]]></text>
+				</tabText>
+		</tab>
+	</tabs>	
+</contents>

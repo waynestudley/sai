@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[เอ็มม่ารู้สึกแย่กับสถานการณ์ของแซนดี้ เธอคิดว่าคนอื่น ๆ ที่เกี่ยวข้องจะช่วยได้ เอ็มม่าสามารถช่วยเหลือเพื่อนร่วมงานของเธอได้อย่างไร]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;line-height:20px;">
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[ทำให้แซนดี้ประหลาดใจโดยการสร้างเว็บไซต์การระดมทุนจากฝูงชนผ่านออนไลน์เพื่อทำเอกสารการฟื้นตัวและบันทึกการกู้คืนค่าของแซนดี้และการต่อสู้ทางการเงินและการระดมทุนบริจาคเพื่อช่วยค่ารักษาพยาบาล]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[ใช้บล็อกอสังหาริมทรัพย์เพื่อทำให้คนบริจาคให้แก่คนในครอบครัวเพื่อช่วยในการระดมทุน]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[ขออนุญาตจากแซนดี้ก่อนที่จะชักชวนใคร ๆ หรือเขียนเกี่ยวกับสื่อทางสังคมประเภทใด ๆ เกี่ยวกับอุบัติเหตุและการต่อสู้ของแซนดี้เพื่อให้ฟื้นตัว]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[เอ็มม่าสร้างเว็บไซต์ระดมทุนเพื่อแซนดี้และรวมข้อมูลเกี่ยวกับการบาดเจ็บของแซนดี้และทำนายอาการของโรคในปัจจุบันของแซนดี้]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[เอ็มม่ามีการรับส่งข้อมูลมากมายบนเว็บไซต์และบล็อกของเธอ ดังนั้นเธอจึงคิดว่านี่เป็นวิธีที่ดีในการทำให้ผู้คนจำนวนมากได้ยินเรื่องชะตากรรมของแซนดี้และบริจาค เธอตัดสินใจที่จะเพิ่มข้อมูลเกี่ยวกับอุบัติเหตุและความพยายามในการระดมทุนของครอบครัวของแซนดี้บนเว็บไซต์และบล็อกอสังหาริมทรัพย์ของเธอ]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:220px;" fcStyle="top:-165px;">
+			<text style="padding-top:25px;"><![CDATA[เอ็มม่าขออนุญาตแซนดี้เขียนเกี่ยวกับเรื่องอุบัติเหตุและโพสต์บนบล็อกของเธอเพื่อเป็นระดมทุนบริจาคเพื่อการรักษาพยาบาลของแซนดี้]]></text>
+			<text><![CDATA[แซนดี้เห็นด้วยแต่ขอให้เงินบริจาคไปที่กองทุนเพื่อสถานพยาบาลแทน]]></text>
+			<text><![CDATA[โดยขออนุญาตแซนดี้เกี่ยวกับสิ่งที่เธอสามารถแบ่งปันและวิธีที่เธอจะใช้ข้อมูลส่วนบุคคล เอ็มม่ามั่นใจว่าเธอจะไม่ใช้ข้อมูลส่วนบุคคลของแซนดี้ในทางที่ผิดและเคารพความเป็นส่วนตัวของเธออย่างแท้จริง]]></text>
+		</correct>
+	</feedback>
+</contents>

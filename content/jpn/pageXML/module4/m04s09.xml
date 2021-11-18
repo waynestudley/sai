@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s09">
+	<transcript>
+		<text path="audio/module4/m04s09" id="0"><![CDATA[携帯電話とノートパソコンは、出かけた先で作業を行うのに適していますが、情報の安全性が脆弱となる可能性もはらんでいます。 あなた自身と一緒に仕事をしている人達を守るため、慎重になりましょう。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px;font-size:14px;line-height:21px;"><![CDATA[携帯電話、ノートパソコン、その他ポータブルデバイスを使用する時、あなたは職場を一緒に持ち歩いているのと同じことになります。 犯罪者はあらゆる機会を狙っているため、慎重になり、自分自身を不必要なリスクにさらさないようにすることは重要です。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s09/contentBackground.jpg" minwidth="769"><![CDATA[空港で携帯電話を使用している従業員]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;line-height:26px;"></pageTitle>
+	<instructionText style="width: 924px;line-height:23px;">
+		<text><![CDATA[それぞれの見出しをクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="190px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn1.png" minwidth="769"><![CDATA[プライベートな会話を交わしている2人の従業員]]></img>
+			<buttonText style="height: 60px;font-size:14px;"><![CDATA[プライベートな会話は機密にしましょう]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 60px;top: 0px;width: 958px;">
+				<text><![CDATA[電話や、会話を盗み聞きできる他の人がいる場所でプライベート情報や、機密情報を話さないようにしましょう。]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn2.png" minwidth="769"><![CDATA[複数のWi-Fiホットスポットを持つ町]]></img>
+			<buttonText style="height: 60px;font-size:14px;"><![CDATA[公衆のWi-Fiを使用することは避けましょう]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 100px;top: 0px;width: 958px;">
+				<text><![CDATA[安全ではない公衆のネットワークを使用して送信された情報は、より簡単に傍受できます。 代わりに、一般的に業務で提供される既知のWi-Fiスポットを選択してください。 公衆のWi-Fiを使用する必要がある場合、Johnson Controlsのネットワークにアクセスする際にVPNを使用していることを確認します。]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn3.png" minwidth="769"><![CDATA[空港でノートパソコンを使用している従業員]]></img>
+			<buttonText style="height: 60px;font-size:14px;"><![CDATA[周りを確認しましょう]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 85px;top: 0px;width: 958px;">
+				<text><![CDATA[画面を見ることができる周りの人に注意します。 デバイスのディスプレイにプライバシースクリーンを使用することを検討します。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn4.png" minwidth="769"><![CDATA[スワイプカードを使用している従業員]]></img>
+			<buttonText style="height: 60px;font-size:14px;"><![CDATA[スワイプカードは閉じたままにしてください]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 85px;top: 0px;width: 958px;">
+				<text><![CDATA[アクセススワイプカードがどこにあるか常に確認してください。 職場以外の場所では <br />服の中にスワイプカードを入れておくようにしてください。]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

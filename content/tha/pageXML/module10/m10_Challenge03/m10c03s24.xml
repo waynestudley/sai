@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;">
+		<text><![CDATA[คลิกที่แต่ละหัวข้อเพื่อเรียนรู้เพิ่มเติม]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อพิจารณาการตัดสินใจของคุณใหม่แล้วลองอีกครั้ง]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">			
+			<buttonText style=""><![CDATA[ดื่มมากเกินไป]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[สามาชิกหลายคนในกลุ่มเมามาก และคนหนึ่งตกบันไดแขนหัก ต้องจ้างพนักงานคนใหม่แทน และเขาทำงานช้ามาก โครงการจึงล่าช้าออกไป ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">
+			<buttonText><![CDATA[ลูกค้าไม่พอใจ]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[หลังจากได้ฟังบทสนทนาเล็กน้อย ลูกค้าตระหนักดีว่าความล่าช้าของโครงการเกิดจากเหตุการณ์ที่คาร์ลอสพาพนักงานบางคนไปดื่มที่สปอร์ตบาร์ เธอเรียกผู้จัดการของคาร์ลอสมาต่อว่า ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="138">
+			<buttonText><![CDATA[การโพสต์บน Facebook]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[ผู้รับเหมาช่วงรายหนึ่งโพสต์รูปอุบัติเหตุบน Facebook เขาเขียนในโพสต์ว่า "เมื่อคืนผมดื่มกับพนักงานของ จอห์นสัน คอนโทรลส์..." ]]></text>					
+				<text><![CDATA[คาร์ลอสสงสัยว่าผู้รับเหมาช่วงที่ได้รับบาดเจ็บสามารถฟ้องบริษัทได้หรือไม่]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

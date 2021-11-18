@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma informa la situación a su gerente, Roger, pero Roger no hace nada. ¿Qué debería hacer Emma en este caso?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[Nada. Emma ya informó la situación, así que ahora es responsabilidad de Roger hacer un seguimiento.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Hablar con alguien del Departamento Legal o de Cumplimiento, o contactar a la Línea de ayuda de integridad, a fin de plantear sus inquietudes.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:18px;"><![CDATA[Emma hizo lo correcto en este caso al hablar con su gerente, Roger. Sin embargo, como Emma no está convencida de que Roger hará algo al respecto, debe plantear sus inquietudes a un nivel superior. Debería ponerse en contacto con un miembro del Departamento Legal o de Cumplimiento, o con su representante de RR. HH. De lo contrario, puede llamar a la Línea de ayuda de integridad para registrar su inquietud.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma hizo lo correcto en este caso al hablar con su gerente, Roger. No obstante, Emma cree que Roger no va a tomar ninguna otra medida para abordar su inquietud. Por lo tanto, Emma también hizo lo correcto al ir un paso más allá y hablar con recursos adicionales en la empresa, que pueden revisar y abordar el asunto de manera adecuada.]]></text>
+		</correct>
+	</feedback>
+</contents>

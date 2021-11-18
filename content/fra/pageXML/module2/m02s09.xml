@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s09" id="0"><![CDATA[Vérifiez que vous avez bien compris ce qui est acceptable et ce qui ne l’est pas. Pour chaque proposition, sélectionnez « Acceptable » ou « Inacceptable », puis cliquez sur Valider.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s09/contentBackground.jpg" minwidth="769"><![CDATA[Un cadeau]]></img>
+	</contentBackground>
+	<contentBg style="width: 647px;right: 358px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Ces cadeaux sont-ils acceptables ou inacceptables ?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Pour chaque proposition, sélectionnez « Acceptable » ou « Inacceptable », puis cliquez sur Valider.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent style="width:650px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img01.png"><![CDATA[Stylo Johnson Controls]]></img>
+			<text style="width: 336px;"><![CDATA[Un salarié de Johnson Controls envoie un stylo portant le logo Johnson Controls à un client afin de marquer la fin d’un projet réussi]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img02.png"><![CDATA[Employé tenant une carte-cadeau]]></img>
+			<text style="width: 336px;"><![CDATA[Pendant les fêtes, un fournisseur envoie une carte-cadeau de 50 USD à un employé de Johnson Controls]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img03.png"><![CDATA[Sièges en loge]]></img>	
+			<text style="width: 336px;"><![CDATA[Un fournisseur offre à un employé de Johnson Controls 4 places en loge pour assister à un événement sportif professionnel, en précisant que c’est son entreprise qui les lui a données gratuitement]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img04.png"><![CDATA[Employé tenant une bouteille de champagne]]></img>	
+			<text style="width:336px;"><![CDATA[Un fournisseur de longue date, qui vient de répondre à un appel d’offres de Johnson Controls, envoie quelques bouteilles de champagne à l’équipe]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[Acceptable]]></text>
+		<text styleWidth="width:100px;"><![CDATA[Inacceptable]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -95px;width: 300px;height: 440px;padding-top: 20px;right: -335px;line-height:17px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[C’est exact.]]></text>			
+			<text style="font-size: 14px;"><![CDATA[<ul> <li>Le seuil de déclaration des cadeaux de Johnson Controls est fixé à 200 USD. </li> <li>Vous pouvez accepter des cadeaux dont la valeur est inférieure à 200 USD tant qu’ils ne sont pas destinés à vous influencer ou à vous rendre redevable. </li> <li>Si l’on vous offre un cadeau qui vaut 200 USD ou plus (comme les tickets pour le match), vous devez le déclarer en utilisant le formulaire « Cadeaux ». Le formulaire fera l’objet d’un contrôle à l’issue duquel vous saurez si vous pouvez garder le cadeau.</li> <li>Vous n’avez pas le droit d’offrir ni d’accepter de l’argent ou des équivalents d’argent, comme des cartes-cadeaux.</li> <li>Tous les cadeaux destinés à des clients du secteur privé doivent être approuvés en amont par votre directeur commercial. </li> <li>Les cadeaux destinés à des fonctionnaires nécessitent d’obtenir une autorisation préalable, 7 jours à l’avance, par le biais du formulaire AB.</li> <li>Les formulaires sont disponibles sur <a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a></li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -95px;width: 300px;height: 440px;padding-top: 20px;right: -335px;line-height:17px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[C’est faux.]]></text>	
+			<text style="font-size: 14px;"><![CDATA[<ul> <li>Le seuil de déclaration des cadeaux de Johnson Controls est fixé à 200 USD. </li> <li>Vous pouvez accepter des cadeaux dont la valeur est inférieure à 200 USD tant qu’ils ne sont pas destinés à vous influencer ou à vous rendre redevable. </li> <li>Si l’on vous offre un cadeau qui vaut 200 USD ou plus (comme les tickets pour le match), vous devez le déclarer en utilisant le formulaire « Cadeaux ». Le formulaire fera l’objet d’un contrôle à l’issue duquel vous saurez si vous pouvez garder le cadeau.</li> <li>Vous n’avez pas le droit d’offrir ni d’accepter de l’argent ou des équivalents d’argent, comme des cartes-cadeaux.</li> <li>Tous les cadeaux destinés à des clients du secteur privé doivent être approuvés en amont par votre directeur commercial. </li> <li>Les cadeaux destinés à des fonctionnaires nécessitent d’obtenir une autorisation préalable, 7 jours à l’avance, par le biais du formulaire AB.</li> <li>Les formulaires sont disponibles sur <a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a></li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

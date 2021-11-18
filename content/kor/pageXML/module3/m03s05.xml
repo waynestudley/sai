@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[다음 중 문제가 될 수 있는 시나리오는 무엇입니까?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[이 사례들이 뇌물 수수로 인식될 수 있다고 생각하십니까?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[사업가들]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[문제가 있는 <span class="fontBold">모든</span> 시나리오를 선택하고 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[정답은 한 개 이상일 수 있습니다.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[여러분이 유리한 사업 결정에 대한 대가로 고객에게 현금 선물을 약속합니다.]]></option>
+		<option><![CDATA[사업을 원하는 하청업자가 여러분을 여러 번 저녁 식사와 스포츠 행사에 초대합니다.]]></option>
+		<option><![CDATA[여러분이 잠재 고객인 정부 공무원에게 선거 자금을 기부합니다.]]></option>
+		<option><![CDATA[여러분의 관리자가 현재 계약을 연장하기로 동의한 대가로 고객의 딸을 채용합니다.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[정답입니다.]]></text>
+			<text><![CDATA[사실 이 시나리오들은 모두 상황에 따라 뇌물로 간주될 수 있습니다. 영향을 미치려는 의도는 중요한 요소이지만 뇌물처럼 보이는 것조차도 여러분과 Johnson Controls에 문제가 될 수 있음을 기억하는 것이 중요합니다. 그러므로 행동하기 전에 생각하십시오!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[정답이 아닙니다.]]></text>
+			<text><![CDATA[사실 이 시나리오들은 모두 상황에 따라 뇌물로 간주될 수 있습니다. 영향을 미치려는 의도는 중요한 요소이지만 뇌물처럼 보이는 것조차도 여러분과 Johnson Controls에 문제가 될 수 있음을 기억하는 것이 중요합니다. 그러므로 행동하기 전에 생각하십시오!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

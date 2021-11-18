@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m03s06" >
+	<transcript>
+		<text path="audio/module3/m03s06" id="0" ><![CDATA[Let’s look at a case that happened with one of our subsidiaries.]]></text>
+	</transcript>
+	<contentText >
+		<text  position="relative" width="648px" height="auto" left="0" top="0px" lineHeight="20px"><![CDATA[Bribery can happen anywhere, and it’s not always obvious. Not too long ago we experienced a bribery issue at Johnson Controls. Let’s look at this case to see what we can learn from it.]]></text>
+	</contentText>
+	<contentBg style="" ></contentBg>
+	<contentBackground >
+		<img path="content/images/ltr/module3/m03s06/contentBackground.jpg" minwidth="769" ><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;" >
+		<text><![CDATA[Click on the arrow to learn more.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top: 168px;" btnConStyle="" >
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module3/m03s06/Strip_01.png" minwidth="700" minheight="550" ><![CDATA[Employee working with exports at the shipyard]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:390px;" />
+				<text style=""><![CDATA[Johnson Controls purchased its Asia-based marine business, China Marine, from York in 2005. Prior to the acquisition, York had been fined by the SEC for using sales agents to pay bribes to Chinese government-owned shipbuilders and shipyards, in violation of the Foreign Corrupt Practices Act (FCPA).]]></text>
+				<text ><![CDATA[After purchasing York, Johnson Controls terminated 15 employees who were involved in the York bribery scheme, hired new management to oversee the China Marine business and strictly limited the business’s use of sales agents. ]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module3/m03s06/Strip_02.png" minwidth="700" minheight="550" ><![CDATA[Person with clipboard surrounded by shipping containers]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:390px;" />
+				<text style=""><![CDATA[From 2007 through 2013, the new manager of China Marine oversaw a new scheme, involving hiring fake subcontractors to pay bribes to employees of Chinese government-owned shipbuilders and shipyards in order to win business and kick money back to Johnson Controls employees who were also part of the scheme.]]></text>
+				<text ><![CDATA[After discovering evidence of this improper behavior, Johnson Controls voluntarily reported the circumstances to the U.S. government, conducted a thorough internal investigation and fully cooperated with the U.S. authorities. ]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module3/m03s06/Strip_03.png" minwidth="700" minheight="550" ><![CDATA[SEC building in Washington DC]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style=""><![CDATA[The SEC contended that Johnson Controls failed to devise and maintain an adequate system of internal accounting controls, despite knowing that China Marine had a history of FCPA problems and that the China Marine business posed a significantly high corruption risk.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripBackground>				
+				<img path="content/images/ltr/module3/m03s06/Strip_04.png" minwidth="700" minheight="550" ><![CDATA[Gavel resting on money]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style=""><![CDATA[Johnson Controls Inc. neither admitted nor denied the SEC’s claims, and agreed to pay USD$14 million to settle the matter.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="5">
+			<stripBackground>				
+				<img path="content/images/ltr/module3/m03s06/Strip_05.png" minwidth="700" minheight="550" ><![CDATA[Department of Justice building in DC]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style=""><![CDATA[The U.S. Justice Department closed its investigation into the matter, and did not bring any enforcement action against Johnson Controls related to China Marine.  ]]></text>
+				<text style=""><![CDATA[The Justice Department explained that it did not prosecute the Company because it had self-disclosed the scheme, conducted a thorough investigation, cooperated fully with law enforcement and implemented significant compliance improvements.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="6">
+			<stripBackground>				
+				<img path="content/images/ltr/module3/m03s06/Strip_06.png" minwidth="700" minheight="550" ><![CDATA[Johnson Controls Employee cooperating with Investigator]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style=""><![CDATA[If Johnson Controls had not discovered the matter or had not fully cooperated, the consequences could have been far worse. This is why we all need to be alert to signs of bribery in our business – so we can take quick action, if needed, to resolve the situation.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

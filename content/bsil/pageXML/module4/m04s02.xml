@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[O que você faria se alguém enviasse a você informações pessoais que você não deveria receber?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;line-height:18px;"><![CDATA[O que você faria? ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Sua tarefa é notificar os prestadores de serviços sobre um novo processo de cobrança. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Você pede que um funcionário de outro departamento envie a lista de endereços de e-mail, mas a planilha enviada também contém informações pessoais usadas para proteger a conta, como data de nascimento, nome da mãe e número do seguro social. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[O que deve fazer?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[Empresários]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Selecione uma opção e clique em Enviar.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px;line-height:18px;">
+		<option><![CDATA[Excluir o e-mail e informá-lo à equipe de privacidade de dados ao enviar e-mail para privacy@jci.com]]></option>
+		<option><![CDATA[Encaminhá-lo aos seus colegas de trabalho como exemplo do que não enviar por e-mail]]></option>
+		<option><![CDATA[Usar apenas o necessário na planilha e descartar o resto com segurança]]></option>
+		<option><![CDATA[Enviar e-mail a todos os prestadores de serviço para dizer que os dados pessoais deles podem ter sido expostos]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:150px;" fcStyle="top:-175px">
+			<text style="font-size:17px;"><![CDATA[Correto.]]></text>
+			<text><![CDATA[As leis relativas a privacidade de dados e a política de privacidade de dados da Johnson Controls se aplicam às informações pessoais de funcionários, clientes e parceiros de negócios. Certifique-se de compreender as suas responsabilidades e seguir a política de privacidade da Johnson Controls e as leis relativas a proteção e privacidade de dados pertinentes.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:150px;" fcStyle="top:-175px">
+			<text style="font-size:17px;"><![CDATA[Incorreto.]]></text>
+			<text><![CDATA[As leis relativas a privacidade de dados e a política de privacidade de dados da Johnson Controls se aplicam às informações pessoais de funcionários, clientes e parceiros de negócios. Certifique-se de compreender as suas responsabilidades e seguir a política de privacidade da Johnson Controls e as leis relativas a proteção e privacidade de dados pertinentes.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

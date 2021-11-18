@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[ما الذي تعرفه بالفعل عن المخاطر التي تهدد الملكية الفكرية؟ استكشف حالة "ماريا"، وحدد كل الإجابات المناسبة، ثم انقر فوق "إرسال".]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[بدأت "ماريا" العمل في شركة Johnson Controls منذ بضعة أشهر وكانت مشاركة في طرح منتج جديد أحدث اهتمامًا كبيرًا في قطاع الصناعة.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA["بيتي"، صديق "ماريا"، والذي يعمل في قطاع صناعي مشابه، يسألها عن عملها وكيف تجري أمورها فيه ويبدأ في طرح أسئلة معينة عن المنتج الجديد.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[فكيف يجب أن تجيب "ماريا" عليه؟]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA["ماريا" و"بيتي"]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;left: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;">
+		<text><![CDATA[حدد كل الإجابات المناسبة، ثم انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[قد تكون هناك أكثر من إجابة صحيحة واحدة.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[يجب أن تأخذ من "بيتي" عهدًا بعدم الكشف عن أي معلومات توشك على إخباره بها قبل مناقشة تفاصيل المنتج وطرحه في الأسواق]]></option>	
+		<option><![CDATA[يجب أن تخبر "بيتي" عن شعورها بخصوص العمل (مثلاً تشعر بالحماس نحوه أو تجده ينطوي على تحديات، وما إلى ذلك) بدون كشف أي تفاصيل عن المنتج أو طرحه في السوق]]></option>	
+		<option><![CDATA[يجب أن تخبر "بيتي" أن العمل الذي تقوم به سريّ ولا يمكنها الإفصاح عن تفاصيله]]></option>	
+		<option><![CDATA[يجب ألا تتحدث إلا عن مشروعاتها وألا تشارك سوى التفاصيل غير المتاحة للجمهور مع الأصدقاء المقربين وأفراد العائلة الذين تثق بهم]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 190px;" fcStyle="top:-206px;">
+			<text><![CDATA[هذا صحيح.]]></text>
+			<text><![CDATA[يمكن أن تقوم "ماريا" بإخبار "بيتي" عن كيفية شعورها تجاه عملها، لكن لا يجوز لها أن تكشف أي معلومات سرية تخص الشركة، بما في ذلك التفاصيل المتعلقة بالمنتج الجديد وطرحه في الأسواق.]]></text>
+			<text><![CDATA[النقطة الهامة التي ينبغي تذكرها هي ألا تكشف أسرار التجارة "مطلقًا" أو أي معلومات سرية أخرى لأشخاص غير مصرح لهم بذلك من خارج شركتنا لأي سبب.]]></text>
+			<text style="margin-bottom:40px;"><![CDATA[بل وينبغي حتى ألا يتم إعلام الأصدقاء وأفراد العائلة الموثوقين - تحت أي ظرف - بأسرار التجارة المستخدمة أو بالملكية الفكرية الجاري تطويرها عن طريق شركة Johnson Controls. ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 190px;" fcStyle="top:-206px;">
+			<text><![CDATA[هذا ليس صحيحًا.]]></text>
+			<text><![CDATA[يمكن أن تقوم "ماريا" بإخبار "بيتي" عن كيفية شعورها تجاه عملها، لكن لا يجوز لها أن تكشف أي معلومات سرية تخص الشركة، بما في ذلك التفاصيل المتعلقة بالمنتج الجديد وطرحه في الأسواق.]]></text>
+			<text><![CDATA[النقطة الهامة التي ينبغي تذكرها هي ألا تكشف أسرار التجارة "مطلقًا" أو أي معلومات سرية أخرى لأشخاص غير مصرح لهم بذلك من خارج شركتنا لأي سبب.]]></text>
+			<text style="margin-bottom:40px;"><![CDATA[بل وينبغي حتى ألا يتم إعلام الأصدقاء وأفراد العائلة الموثوقين - تحت أي ظرف - بأسرار التجارة المستخدمة أو بالملكية الفكرية الجاري تطويرها عن طريق شركة Johnson Controls. ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0" ><![CDATA[It’s up to all of us to keep bribery and corruption from happening here. Click on each heading to confirm what you can do.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="margin-bottom:0px"><![CDATA[At Johnson Controls, we are committed to compliance with all bribery and anti-corruption laws. Here is what that means in practice:]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg"  minwidth="769"><![CDATA[Checklist]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Select each heading to learn more.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44"  iconparHeight="113">			
+			<buttonText style=""><![CDATA[Don’t offer bribes]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Never offer a business contact anything of value with the intention of influencing their judgment.]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44"  iconparHeight="134">			
+			<buttonText style=""><![CDATA[Keep accurate records ]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[Don’t try to conceal or misrepresent spending on entertainment or gifts – record all transactions honestly and accurately. See our <a href="content/eng/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">Third Party Travel, Gifts and Entertainment Policy</a> for more information.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[Hold business partners accountable]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Make our anti-bribery standards clear to any third parties we work with. Monitor their activity and report any suspicion of corruption. Do not work with business partners who engage in corrupt practices.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44"  iconparHeight="113">
+			<buttonText style=""><![CDATA[Know your third parties]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[If you are responsible for managing  third parties, ensure that they are fully approved as per Johnson Controls’ Third Party Program requirements.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

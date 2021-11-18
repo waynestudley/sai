@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s05">
+	<transcript>
+		<text path="audio/module8/m08s05" id="0"><![CDATA[Wie sollte Debbie auf die Nachricht reagieren? Wählen Sie eine Option aus und bestätigen Sie anschließend durch „Übermitteln“.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Wie sollte Debbie in dieser Situation reagieren?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module8/m08s05/contentBackground.jpg" minwidth="769"><![CDATA[Frau blickt auf Telefon]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[Wählen Sie eine Option aus und bestätigen Sie anschließend durch „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Sie sollte Kim bitten, dies in Zukunft zu unterlassen]]></option>	
+		<option><![CDATA[Sie sollte mit ihrem Vorgesetzten sprechen]]></option>	
+		<option><![CDATA[Sie sollte Kim am nächsten Tag ebenfalls ein Selfie vom Arbeitsplatz schicken]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Das ist richtig.]]></text>
+			<text><![CDATA[Kim ist sich der Risiken einer Veröffentlichung von arbeitsbezogenen Nachrichten in sozialen Netzwerken offensichtlich nicht bewusst. Debbie mag es für ihre Aufgabe halten, Kim darauf anzusprechen, doch tatsächlich muss der Vorgesetzte über diesen möglichen Verstoß gegen die Geheimhaltung vertraulicher Kundeninformationen benachrichtigt werden. So lassen sich die Risiken einer Offenlegung jetzt und zukünftig in den Griff bekommen.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Das stimmt leider nicht.]]></text>
+			<text><![CDATA[Kim ist sich der Risiken einer Veröffentlichung von arbeitsbezogenen Nachrichten in sozialen Netzwerken offensichtlich nicht bewusst. Debbie mag es für ihre Aufgabe halten, Kim darauf anzusprechen, doch tatsächlich muss der Vorgesetzte über diesen möglichen Verstoß gegen die Geheimhaltung vertraulicher Kundeninformationen benachrichtigt werden. So lassen sich die Risiken einer Offenlegung jetzt und zukünftig in den Griff bekommen.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

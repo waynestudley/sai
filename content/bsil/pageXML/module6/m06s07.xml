@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s07">
+	<transcript>
+		<text path="audio/module6/m06s07" id="0"><![CDATA[Aconteceram violações da lei de concorrência em nossa empresa, conforme ilustra esse estudo de caso. Clique em cada sequência da história.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px" lineHeight="19px"><![CDATA[A competição injusta pode ocorrer em qualquer lugar e nem sempre é óbvia. Há pouco tempo tivemos um problema com a lei de concorrência na Johnson Controls. Vamos analisar este caso para ver o que podemos aprender com ele.]]></text>
+	</contentText>
+	<contentBg style="top: 34px;"></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[Clique em cada sequência da história.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top: 170px;">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module6/m06s07/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Gerente sênior em reunião com gerentes de outras empresas]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="line-height:20px;"><![CDATA[A Johnson Controls faz negócios com alguns fornecedores de bateria de sucata. Por muitos anos, um gerente sênior trocou informações com gerentes de três outras empresas grandes que também faziam negócios com fornecedores de bateria de sucata.]]></text>
+				<text style="line-height:20px;"><![CDATA[Possivelmente, o objetivo era baixar artificialmente os preços que essas quatro empresas pagavam para os fornecedores de bateria de sucata nos territórios da Alemanha, França, Bélgica e Holanda.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Funcionário da Linha de Ajuda de Integridade durante uma chamada]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[Um dos funcionários da Johnson Controls se apresentou e denunciou essa atividade por meio da nossa Linha de Ajuda de Integridade.]]></text>
+				<text><![CDATA[A Johnson Controls cooperou com a Comissão Europeia para permitir uma investigação transparente.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Uma investigação]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[Uma investigação completa foi realizada e o gerente da Johnson Controls conectado à atividade antiética foi demitido.]]></text>
+				<text><![CDATA[As outras empresas envolvidas receberam multas de milhões de Euros, e como a Johnson Controls denunciou a atividade às autoridades e cooperou totalmente com a investigação subsequente, ela não foi multada.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_04.png" minwidth="700" minheight="550"><![CDATA[Denunciante segurando o celular]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[O denunciante ajudou a Johnson Controls a descobrir e encerrar essa prática inadequada. E ao denunciar proativamente às autoridades, a Comissão Europeia concedeu imunidade das multas à Johnson Controls. A multa teria sido de 42 milhões de euros.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="5">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_05.png" minwidth="700" minheight="550"><![CDATA[Equipe europeia]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[Após este incidente, a equipe europeia da Johnson Controls implementou mudanças relevantes em nossos processos internos e na estrutura organizacional para evitar atividades similares de acontecerem novamente.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

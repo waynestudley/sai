@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s05">
+	<transcript>
+		<text path="audio/module7/m07s05" id="0"><![CDATA[כעת נבחן מקרה שקרה באחת מחברות הבת שלנו. לחץ על החץ כדי לקרוא את ניתוח המקרה במלואו.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[לאובדן של קניין רוחני עלול להיות מחיר כבד מאוד, אך חברות לא תמיד יודעות מתי הוא מתרחש.]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/rtl/module7/m07s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[לחץ על החץ לקבלת מידע נוסף.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top:125px;" btnConStyle="top:115px;">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/rtl/module7/m07s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[תקריב של פורץ שמשתמש במחשב נייד]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[היום, חברות רבות הופכות למטרה עבור גנבים ועבריינים דיגיטליים. כשמדובר בפריצה למחשבים, לעתים הן לא מודעות לכך שהסודות המסחריים שלהם נגנבו.]]></text>
+				<text><![CDATA[עברייני אינטרנט פורצים למערכת ולאט לאט גונבים מידע בדרך שהחברות לא יכולות להבחין בה!]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/rtl/module7/m07s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[נתונים דיגיטליים]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[על אף שאין נתונים סטטיסטיים עולמיים או ארציים לגבי הערך הכולל של גניבות של סודות מסחריים, Price Waterhouse Coopers ‏(PwC) ו-Center for Responsible Enterprise and Trade ערכו מחקר בשנת 2014 שהעריך כי השווי של גניבת סודות מסחריים בארצות הברית בלבד מהווה 1% עד 3% מהתמ"ג. נתון זה שקול לסכום של 200 עד 550 מיליארד דולר בשנה!]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/rtl/module7/m07s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[עובדים יושבים ועובדים מול מחשבים ניידים]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[אם נשקול גם כלכלות מתקדמות אחרות בנוסף לארצות הברית, יהיה זה סביר לטעון שהעלות העולמית של גניבת סודות מסחר מסתכמת בכמה טריליונים.]]></text>
+				<text><![CDATA[כחברה גלובלית גדולה, Johnson Controls יכולה לשער שקיים סיכוי סביר שהיא תשמש כמטרה לניסיונות גניבה של הקניין הרוחני שלה. לכן כולנו חייבים לשמור על ערנות, להגן ולהשתמש כראוי בקניין הרוחני שנמצא בבעלותנו.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

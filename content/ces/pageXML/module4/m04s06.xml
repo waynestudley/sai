@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m04s06">
+	<transcript>
+		<text path="audio/module4/m04s06" id="0"><![CDATA[Pokud jde o ochranu osobních údajů, nezapomeňte: omezení, ochrana, likvidace.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Naši dodavatelé, zákazníci a zaměstnanci si cení svého soukromí a očekávají, že budeme jejich údaje chránit. Při zpracovávání osobních údajů (shromažďování, kopírování, změny, ukládání, likvidace aj.) je třeba dbát tří hlavních zásad: omezení, ochrana, likvidace. Pro další informace si pozorně prohlédněte následující panely.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Kliknutím na jednotlivá tlačítka zobrazíte další informace. K zobrazení celé odpovědi bude pravděpodobně nutné posouvat text.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ZOBRAZIT]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img1.png" style=""><![CDATA[Zaměstnanec pracující s osobními údaji na telefonu a notebooku]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Omezení]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Osobní údaje zpracovávejte jen tehdy, jestliže máte svolení dotyčného a údaje jsou nezbytné k legitimním obchodním účelům. <ul><li>Osobní údaje nikdy neshromažďujte, pokud pro ně nemáte jednoznačný a legitimní obchodní účel.</li><li>Zajistěte, aby veškeré shromažďované osobní údaje byly pro daný obchodní účel přiměřené, relevantní a nikoli příliš rozsáhlé. Nikdy neshromažďujte více osobních údajů, než které potřebujete.</li><li>Osobní údaje používejte jen pro stanovený účel, pro který byly získány.</li></ul>]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img2.png" style=""><![CDATA[Ikona šifrování]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Ochrana]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Zajistěte, aby byly osobní údaje chráněny před neoprávněným použitím a neúmyslnou ztrátou, poškozením či zničením.<ul><li>K osobním údajům mohou získat přístup pouze oprávnění zaměstnanci a dodavatelé, kteří k tomu mají platný pracovní důvod.</li><li>Je-li to možné, uchovávejte údaje pouze v elektronické podobě a veškeré soubory chraňte před neoprávněným použitím pomocí šifrování nebo zabezpečení silným heslem. Tištěné kopie lze snáze založit a získat k nim přístup, a měly by proto být používány co nejméně nebo, je-li to možné, vůbec.</li><li>Osobní údaje nikdy neukládejte do sdílených souborů nebo adresářů, kde k nim mohou získat přístup lidé, kteří k tomu nemají oprávnění a nepotřebují je znát.</li><li>Elektronické záznamy neuchovávejte na více různých místech s různými režimy správy.</li></ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module4/m04s06/img3.png" style=""><![CDATA[Klávesa s ikonou odpadkového koše]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Likvidace]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[Osobní údaje uchovávejte pouze po dobu stanovenou zákonem, nebo dokud jsou potřebné z obchodních důvodů, za jakými jsme si je původně vyžádali.<ul><li>Pravidelně kontrolujte, zda jsou údaje aktuální, přesné a stále potřebné pro obchodní účely, pro které byly původně shromážděny.</li><li>Údaje, které již nejsou potřebné, bezpečně zlikvidujte skartováním nebo umístěním do důvěrných košů pro likvidaci, pokud jsou na vašem pracovišti k dispozici.</li></ul>]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

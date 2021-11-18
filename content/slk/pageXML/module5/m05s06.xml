@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[Vidíte tu nejaké varovné signály? Vyberte všetky položky, ktoré ste si všimli a potom kliknite na tlačidlo Odoslať.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Aké sú varovné signály týkajúce sa tohto e-mailu?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[Schránka prijatých e-mailov]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Vyberte všetky varovné signály a potom kliknite na tlačidlo Odoslať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Správnych môže byť viac odpovedí.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Odosielateľ tvrdí, že je zákazníkom spoločnosti Johnson Controls]]></option>	
+		<option><![CDATA[Zákazník píše o podnikaní, ale používa účet služby Gmail]]></option>	
+		<option><![CDATA[Zákazník požaduje informácie, ktoré by mohli byť kontrolované bez toho, aby poskytol viac informácií o sebe]]></option>	
+		<option><![CDATA[Zákazník hovorí, že je vo Francúzsku, ale z e-mailu to nemôžete overiť]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[To je správne.]]></text>
+			<text><![CDATA[Zákazník požaduje technické informácie, ktorých vývoz by mohol byť obmedzený, a neposkytujú veľa informácií o sebe.]]></text>
+			<text><![CDATA[Prinajmenšom je potrebné dozvedieť sa viac o ich identite a umiestnení a platných obchodných obmedzeniach pred poskytnutím akejkoľvek technickej podpory.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Ľutujeme, to nie je správne.]]></text>
+			<text><![CDATA[Zákazník požaduje technické informácie, ktorých vývoz by mohol byť obmedzený, a neposkytujú veľa informácií o sebe.]]></text>
+			<text><![CDATA[Prinajmenšom je potrebné dozvedieť sa viac o ich identite a umiestnení a platných obchodných obmedzeniach pred poskytnutím akejkoľvek technickej podpory.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

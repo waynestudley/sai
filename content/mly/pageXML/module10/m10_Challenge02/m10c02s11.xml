@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma rasa berserabut tentang situasi Sandy. Dia berfikir jika melibatkan orang lain boleh membantu. Bagaimanakah Emma boleh membantu rakan sekerjanya?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;">
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Buat kejutan untuk Sandy dengan mencipta laman mendapatkan dana kumpulan dalam talian untuk mendokumenkan pemulihan dan pergelutan kewangan, dan untuk mengumpulkan sumbangan bagi membantu kos perubatan Sandy.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Menggunakan blog hartanahnya untuk cuba mendapatkan sumbangan daripada lebih ramai orang kepada usaha pengumpulan dana keluarganya.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Minta kebenaran Sandy sebelum dia mencari sesiapa atau sebarang jenis penulisan tentang kemalangan tersebut dan pergelutan pemulihan Sandy di media sosial.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Emma mencipta tapak mengumpulkan dana untuk Sandy dan memasukkan maklumat tentang kecederaan dan prognosis semasa Sandy.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma menerima trafik yang banyak di laman web dan blognya, jadi dia merasakan ini cara yang hebat bagi mendapatkan lebih ramai orang datang mendengar tentang derita dan sumbangan untuk Sandy. Dia memutuskan untuk menambah maklumat tentang kemalangan Sandy dan usaha mengumpulkan dana keluarga ke laman web hartanah dan blognya.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:220px;" fcStyle="top:-199px;">
+			<text style="padding-top:25px;"><![CDATA[Emma meminta kebenaran daripada Sandy untuk menulis tentang kemalangan tersebut dan menyiarkannya di blognya untuk mengumpulkan sumbangan penjagaan perubatan Sandy.]]></text>
+			<text><![CDATA[Sandy bersetuju tetapi sebaliknya meminta tujuan sumbangan tersebut diubah untuk membiayai kemudahan perubatannya.]]></text>
+			<text><![CDATA[Dengan meminta kebenaran Sandy mengenai perkara yang boleh dikongsikan dan cara dia akan menggunakan maklumat peribadi, Emma memastikan yang dia tidak akan menyalah guna maklumat peribadi Sandy dan sangat menghormati privasinya.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Tom bittet Emma, die Adressen von prominenten Johnson Controls-Kunden an ihn weiterzugeben. Tom bietet Emma einen Teil seines Gewinns an, wenn sie ihm die Adressen gibt. Was sollte Emma tun?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Sie sollte Tom gegenüber klarstellen, dass sie keine Bezahlung möchte, die Adressliste aber trotzdem bereitstellen.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Sie sollte die Adressliste nicht an Tom herausgeben, aber niemandem davon erzählen, da jemand ihr Beteiligung unterstellen könnte.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Sie sollte die Adressliste nicht an Tom herausgeben und die Situation ihrem Vorgesetzten melden.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Wenn Emma zustimmt, Tom die Adressliste zu geben, setzt sie beide einem Risiko aus, auch wenn sie den Gewinnanteil ausschlägt.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma handelte richtig, indem sie die Adressliste nicht an Tom herausgab, doch ihr sollte klar sein, dass selbst seine Anfrage schon ein Problem darstellt.]]></text>
+			<text><![CDATA[Emma sollte mit ihrem Vorgesetzten oder einem Mitglied der Rechtsabteilung sprechen – wenn Tom diesen Plan weiter verfolgt, kann daraus für das Unternehmen ein Datenschutzrisiko entstehen.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma handelte richtig, indem sie die Adressliste nicht an Tom herausgab und die Anfrage ihrem Vorgesetzten meldete. Hätte sie die Informationen an Tom übergeben, hätte sie die Privatsphäre eines Kunden verletzt. Außerdem hat sie dem Unternehmen durch ihre Meldung dabei geholfen, das nochmalige Vorkommen eines solchen Vorfalls zu verhindern.]]></text>
+		</correct>
+	</feedback>
+</contents>

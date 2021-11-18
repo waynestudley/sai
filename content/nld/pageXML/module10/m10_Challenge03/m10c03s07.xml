@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik op Volgende om door te gaan.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Ingrid vermoedt dat de wijn die Hilde heeft besteld enorm duur was. Wat moet ze doen? ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Het diner voortzetten en hopen dat niemand de prijs van de wijn zal opmerken op haar onkostendeclaratie.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Het diner voortzetten omdat ze onmogelijk kan weigeren de wijn te betalen zonder dat er een ongemakkelijke situatie zou ontstaan. Ze is echter van plan een aparte kwitantie voor de wijn te vragen en dit zelf te betalen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Onder vier ogen met Hilde praten voordat het bedienend personeel de wijn klaarzet en haar vertellen dat haar bedrijf de prijs van de wijn niet zal goedkeuren. Hilde krijgt de keuze de wijn zelf te betalen of een schappelijker geprijsde fles te bestellen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Ingrid betaalt het etentje en dient haar onkostendeclaratie in.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Ingrid betaalt het etentje en dient haar onkostendeclaratie in, zonder de wijn.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Hilde lijkt verrast wanneer Ingrid haar vertelt dat ze niet voor de wijn kan betalen. Na afloop van de maaltijd vraagt ze aparte kwitanties en betaalt ze zelf de wijn.]]></text>
+		</correct>
+	</feedback>
+</contents>

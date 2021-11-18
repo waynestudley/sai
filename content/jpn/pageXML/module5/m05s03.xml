@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0"><![CDATA[マークは、緊急とマークされている新しい電子メールが受信箱にあることに気づきました。 電子メールの見出しをクリックすると、このようなことが書いてあります。]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;"></pageTitle>
+	<contentBg style="width: 591px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[新しい電子メールが来たら、緊急とマークされていました。]]></text>	
+		
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[新しい電子メール]]></img>
+		<img path="content/images/ltr/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[電子メールの見出し]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;left: 2px;top: 220px;font-size: 13px;">		
+		<img path="" minwidth="769"><![CDATA[電子メールメッセージ]]></img>	
+		<text style="margin-bottom:3px"><![CDATA[差出人: arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px"><![CDATA[件名： サポート要請]]></text> 	
+		<text style=""><![CDATA[お世話になっております。]]></text> 				
+		<text style=""><![CDATA[私はフランンス、マルセイユを拠点にしているJohnson Controlsの顧客です。貴社の消火製品の1つを既存のシステムに統合しようとしていますが、トラブルが発生しました。]]></text> 				
+		<text style=""><![CDATA[貴社のサポートチームに連絡したところ、あなたに連絡し、技術的な説明と、問題をよりトラブルシューティングするのに役立つ統合マニュアルを依頼するように助言されました。]]></text> 				
+		<text style=""><![CDATA[返信メールにてそれらをできるだけ早く送っていただけますでしょうか。]]></text> 				
+		<text style="margin-bottom:0px"><![CDATA[よろしくお願いいたします。]]></text> 		
+		<text style="margin-bottom:0px"><![CDATA[A. Richter]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[電子メールの見出しをクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path=""><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;left: 97px; width: 475px;"><![CDATA[<span style="padding-right: 32px;">arichter_8888@gmail.com</span><span>サポート要請</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

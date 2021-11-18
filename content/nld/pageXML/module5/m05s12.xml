@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[Nu is het aan u om aan te tonen dat u de regels inzake de naleving van handelsvoorschriften kunt toepassen. Verbind iedere situatie links met de juiste oplossing rechts en klik op 'Indienen'.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Bewijs dat u weet hoe u in elk van deze situaties moet handelen. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<instructionText style="width:910px;height:30px;line-height:16px;">
+		<text><![CDATA[Selecteer een element in de eerste kolom en versleep de pijlen vervolgens naar de bijhorende oplossing in de tweede kolom. Als u klaar bent, klikt u op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op het vraagteken voor meer informatie.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[DE SITUATIE]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img01.png"><![CDATA[Peking]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[U trekt voor zaken naar Peking. Een collega vraagt u een productmonster aan een contactpersoon te bezorgen.]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:553px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img02.png"><![CDATA[Close-up van de Syrische staatsburger]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[U bent een Britse burger die klanten in de EU bezoekt. U ontmoet een Syrische distributeur die u om een productmonster vraagt.]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:553px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img03.png"><![CDATA[Klantvertegenwoordiger in Saoedi-Arabië]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[Een klantvertegenwoordiger van Saoedi-Arabië belt met een aantal vragen over het testprotocol en de ontwerptechnologie van een van onze producten.]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:553px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img04.png"><![CDATA[Zakenteam]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[Uw team werkt samen met een internationale klant die OneDrive gebruikt. De projectmanager vraagt u technische informatie te uploaden, aangezien hij geen papieren versie naar het land van de klant mag verzenden.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[DE OPLOSSING]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 643px;top: 8px;height: 60px;">
+				<text style=""><![CDATA[Ga na of dit is toegestaan en of u een vergunning nodig hebt voordat u verder gaat]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img05.png"><![CDATA[Werknemer aan de telefoon ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 79px;height: 60px;">
+				<text><![CDATA[Beleefd weigeren. ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img06.png"><![CDATA[Close-up van een ernstige man]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 643px;top: 150px;height: 60px;">
+				<text><![CDATA[Vragen om het gesprek uit te stellen.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img07.png"><![CDATA[Werknemer aan de telefoon]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 221px;height: 60px;">
+				<text><![CDATA[Weigeren dit te doen.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img08.png"><![CDATA[Werknemer aan de telefoon]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[Dit klopt. U hebt ze allemaal juist met elkaar verbonden.]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[Dat klopt niet. Klik nu op iedere oplossing voor meer informatie.]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top:195px">
+				<text style=""><![CDATA[Als het is toegestaan, kan het monster in deze situatie best op voorhand worden verstuurd. Als u van het handelspersoneel handbagage mag bijhebben, moet u duidelijk bekendmaken aan de douane wat u bij zich heeft bij het binnenkomen en verlaten van het land.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top:195px">
+				<text style=""><![CDATA[U mag geen productmonsters geven aan een persoon uit een gesanctioneerd land, zoals Syrië. In dit geval moet u het verzoek beleefd weigeren.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:195px">
+				<text style=""><![CDATA[U hebt bijkomende informatie nodig voordat u deze informatie kunt delen. Ga na bij deskundigen op het vlak van naleving van handelsvoorschriften of deze informatie met de persoon in kwestie mag worden gedeeld.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:195px">
+				<text style=""><![CDATA[U moet het verzoek afwijzen. Als u de fysieke versie van een document niet mag exporteren, gelden dezelfde beperkingen voor een elektronische versie van datzelfde document.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

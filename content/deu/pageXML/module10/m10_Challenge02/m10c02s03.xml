@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Emma arbeitet nebenberuflich als Immobilienmaklerin für das neue Unternehmen ihres Schwagers, doch ihre Arbeit bei Johnson Controls leidet darunter.]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Welche Vorgehensweise wäre für Emma Ihrer Meinung nach die beste?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma übt weiterhin beide Berufe aus. Wenn sie als Maklerin viel zu tun hat, bittet sie ihre Kollegen, ihre Arbeit zu übernehmen und lässt sich von ihrer Arbeit bei Johnson Controls krankschreiben.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma übt weiterhin beide Berufe aus und bemüht sich, alle ihre Verpflichtungen unter einen Hut zu bringen. Wenn bei Johnson Controls gerade wenig zu tun ist, nimmt sie Anrufe als Maklerin entgegen und verschickt E-Mails über ihr privates Smartphone.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma bespricht mit ihrem Vorgesetzten ihre Nebenbeschäftigung und Wege, wie sie diese Arbeit und ihre Arbeit bei Johnson Controls voneinander getrennt halten kann.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Emmas Entscheidung, für das Immobilienunternehmen ihres Schwagers zu arbeiten, könnte potenziell einen Interessenkonflikt darstellen, insbesondere weil ihre Nebenbeschäftigung immer mehr Zeit und Aufmerksamkeit in Anspruch nimmt.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma glaubt immer noch, dass sie ihre Aufgaben so miteinander vereinbaren kann, dass sich ihre Nebenbeschäftigung nicht auf ihre Arbeit für Johnson Controls auswirkt. Aber ist das eine realistische Einschätzung? Sie entscheidet, mit ihrem Vorgesetzten zu sprechen, um sicherzugehen.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:250px" fcStyle="top: -210px;">
+			<text style="padding-top:25px;"><![CDATA[Emma spricht mit ihrem Vorgesetzten über ihre Nebenbeschäftigung.]]></text>
+			<text><![CDATA[Emmas Vorgesetzter bespricht mit ihr, was während ihrer Arbeitszeit von ihr erwartet wird, und erklärt, dass Nebenbeschäftigungen grundsätzlich nicht verboten sind, aber:<ul> <li>Sie dürfen ihre Arbeit für Johnson Controls nicht beeinträchtigen. </li> <li>Sie darf keine Unternehmensressourcen für ihre Nebenbeschäftigung einsetzen – das gilt auch für ihre Arbeitszeit bei Johnson Controls.</li> </ul>]]></text>
+			<text><![CDATA[Die beiden vereinbaren, dass Emma während ihrer Arbeitszeit bei Johnson Controls keinen Maklertätigkeiten nachgehen wird und dass das Thema erneut zur Sprache kommt, wenn ihre Arbeit unter der Nebenbeschäftigung leidet.]]></text>
+		</correct>
+	</feedback>
+</contents>

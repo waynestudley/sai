@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[מה דעתך? האם עובדים אלה פועלים מספיק כדי לשמור על בטיחות הנתונים האישיים?]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[עובד שעובד עם נתונים במחשב נייד]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;left: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[האם אתה חושב שעובדים אלה מגנים כראוי על הנתונים האישיים?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[בחר 'כן' או 'לא' עבור כל אפשרות ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module4/m04s07/img01.png"><![CDATA[עובד משליך דף מידע]]></img>
+			<text style="width: 390px;"><![CDATA[השלכת דף מידע שכולל פרטים אישיים שאחרים יכולים לגשת אליהם]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module4/m04s07/img02.png"><![CDATA[עובד מקבל קפה]]></img>
+			<text style="width: 390px;"><![CDATA[הכנת כוס קפה בזמן ההמתנה לעבודת הדפסה של נתונים סודיים של הלקוח]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module4/m04s07/img03.png"><![CDATA[סיסמה]]></img>	
+			<text style="width: 390px;"><![CDATA[שימוש בסיסמאות חזקות להגנה על מסמכים שמכילים פרטים אישיים]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module4/m04s07/img04.png"><![CDATA[לוח שנה]]></img>	
+			<text style="width:390px;"><![CDATA[שמירה על נתונים אישיים זמן ארוך יותר מהזמן הנדרש "לכל מקרה שלא יהיה"]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[כן]]></text>
+		<text><![CDATA[לא]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 41px;width: 220px;height: auto;padding-top: 20px;left:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[נכון.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[להגנה על פרטים פיננסיים ובנקאיים אישיים של עובדים, לקוחות ושותפים עסקיים יש חשיבות קריטית. פעל בהתאם לכל אמצעי האבטחה שלנו, ולעולם אל תשאיר מידע אישי באזור שבו אחרים יכולים לראות אותו, גם אם זה רק לרגע ואתה נמצא בסביבת אנשים שאתה סומך עליהם. השלך כראוי את המידע כאשר אין עוד צורך לגיטימי להחזיק בו.]]></text>			
+		</correct>
+		<incorrect style="top: 41px;width: 220px;height: auto;padding-top: 20px;left:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[לא נכון.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[להגנה על פרטים פיננסיים ובנקאיים אישיים של עובדים, לקוחות ושותפים עסקיים יש חשיבות קריטית. פעל בהתאם לכל אמצעי האבטחה שלנו, ולעולם אל תשאיר מידע אישי באזור שבו אחרים יכולים לראות אותו, גם אם זה רק לרגע ואתה נמצא בסביבת אנשים שאתה סומך עליהם. השלך כראוי את המידע כאשר אין עוד צורך לגיטימי להחזיק בו.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

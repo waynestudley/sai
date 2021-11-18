@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[Détectez-vous des signaux d’alerte ? Sélectionnez tous les signaux que vous avez détectés puis cliquez sur Soumettre.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Quels sont les signaux d’alerte liés à cet e-mail ?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[Boîte de réception de courrier électronique]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Sélectionnez tous les signaux d’alerte, puis cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Plusieurs bonnes réponses sont possibles.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[L’expéditeur déclare être client de Johnson Controls]]></option>	
+		<option><![CDATA[Le client écrit un e-mail professionnel via un compte Gmail]]></option>	
+		<option><![CDATA[Le client demande des informations qui peuvent être contrôlées sans fournir d'informations à son sujet]]></option>	
+		<option><![CDATA[Le client dit qu’il est situé en France mais vous ne pouvez pas le vérifier avec l’e-mail]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[C’est exact.]]></text>
+			<text><![CDATA[Le client demande des informations techniques qui peuvent faire l’objet de restrictions à l’exportation et ne fournit pas beaucoup d'informations à son sujet.]]></text>
+			<text><![CDATA[Vous devez au moins en apprendre plus sur son identité et son lieu et connaître les potentielles restrictions commerciales avant de fournir une assistance technique.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Désolé, ce n’est pas la bonne réponse.]]></text>
+			<text><![CDATA[Le client demande des informations techniques qui peuvent faire l’objet de restrictions à l’exportation et ne fournit pas beaucoup d'informations à son sujet.]]></text>
+			<text><![CDATA[Vous devez au moins en apprendre plus sur son identité et son lieu et connaître les potentielles restrictions commerciales avant de fournir une assistance technique.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:16px"><![CDATA[Эмма пытается не отвлекаться на свою должность от работы в Johnson Controls. Но в офисе уже распространились слухи, и трое коллег Эммы хотят приобрести у нее новенькую недвижимость!  Во время телефонного разговора с клиентом Эмма получает мгновенное сообщение от Сэнди из бухгалтерии.]]></text>
+		<text style="font-size:15px;line-height:16px"><![CDATA[<i>«Привет, Эмма. Я ОЧЕНЬ ХОТЕЛА бы посмотреть место на Ньюбери роуд. То, что ты отправила в ссылке, восхитительно. Это именно то, что мы искали. Надеюсь, сегодня ты сможешь освободиться пораньше, чтобы не стоять в пробках, и показать мне это?»</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:8px;line-height:20px">
+		<text><![CDATA[Выберите один из вариантов и щелкните «ОК».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;line-height:16px">
+		<option answer="0" feedbackId="1"><![CDATA[Эмма соглашается уйти с роботы пораньше и показать Сэнди недвижимость.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Эмма говорит Сэнди о том, что ей еще нужно принять несколько звонков и закончить работу с бумагами, поэтому она не может освободиться пораньше. Но она говорит, что на ее ноутбуке есть больше изображений и видео, и предлагает Сэнди подойти к ее столу в любое время дня для дальнейшего ознакомления и обсуждения.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Эмма говорит Сэнди, что не может показать ей недвижимость сегодня вечером, но обещает прислать ей больше изображений после разговора с клиентом. Она просит Сэнди позвонить на домашний телефон этим вечером, чтобы обсудить все более подробно.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОК]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height: 50px;" fcStyle="top:-17px">
+			<text style="padding-top:12px;line-height:16px;"><![CDATA[Это самый опасный вариант. Посмотрим, что происходит после принятого Эммой решения.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 230px;" fcStyle="top: -242px;">
+			<text style="padding-top:25px;"><![CDATA[Несмотря на то что Эмма не ушла с работы раньше, она все же использовала собственность и рабочее время Johnson Controls для занятия сторонними делами, которыми ей заниматься не стоило. Она также отвлекает коллег, ведь они хотят просмотреть недвижимость.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 230px;" fcStyle="top: -242px;">
+			<text style="padding-top:25px;"><![CDATA[Эмма предпринимает меры для разделения обеих своих должностей. Однако ей не следует использовать рабочий ноутбук, мгновенные сообщения или рабочую электронную почту для занятия сторонними делами. Кроме того, она отвлекает коллег, ведь они хотят просмотреть недвижимость.]]></text>
+		</correct>
+	</feedback>
+</contents>

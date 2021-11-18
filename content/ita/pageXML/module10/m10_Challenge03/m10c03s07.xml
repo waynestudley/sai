@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Ingrid sospetta che il vino ordinato da Hilde fosse molto costoso. Che cosa dovrebbe fare? ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Seleziona un’opzione e fai clic su OK.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Far continuare la cena e augurarsi che nessuno noti il costo del vino sulla sua nota spese.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Far continuare la cena perché non può rifiutarsi di pagare il vino senza creare una situazione strana. Tuttavia, intende chiedere una ricevuta separata per il vino e pagare di tasca sua.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Parlare in privato con Hilde prima che i camerieri preparino il vino e dirle che il costo del vino non sarà approvato dalla sua azienda. Hilde ha la possibilità di pagare per sé o può ordinare una bottiglia più economica.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Ingrid paga per la cena e presenta la sua nota spese.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Ingrid paga per la cena e presenta la sua nota spese senza includere il vino.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Hilde sembra sorpresa quando Ingrid le dice che non può pagare il vino. Ma al termine della cena, chiede conti separati e paga per sé stessa.]]></text>
+		</correct>
+	</feedback>
+</contents>

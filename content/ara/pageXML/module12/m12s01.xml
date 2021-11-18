@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[أحسنت صنعًا، لقد أتممت بنجاح دورتك التدريبية. يمكنك الآن طباعة شهادتك. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/rtl/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[شخص يستخدم جهاز كمبيوتر شخصي]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" right="0px" position="relative" padding="0"><![CDATA[لقد أتممت بنجاح دورة <span style="color:#00539E;font-weight:bold;font-size:17px;" >تطبيق مدونة السلوكيات: الدورة التدريبية المسماة "ممارسة الأعمال التجارية بشكل نزيه"</span>.]]></text>
+		<text width="450px" height="120px" top="10px" right="0px" position="relative" padding="0"><![CDATA[انقر فوق "طباعة الشهادة" ثم انقر فوق "الرئيسية" للعودة إلى القائمة الرئيسية أو انقر فوق "إغلاق" لمغادرة الدورة التدريبية.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="150px" right="20px"><![CDATA[طباعة الشهادة]]></text>
+	</buttonText>	
+	<instructionText>
+		<text><![CDATA[انقر فوق "طباعة الشهادة".]]></text>
+	</instructionText>
+</contents>

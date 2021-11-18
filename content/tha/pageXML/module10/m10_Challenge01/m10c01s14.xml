@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text> 
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[ในซองจดหมายมีเงินสด 300 ดอลลาร์สหรัฐ จิอานได้ปฏิเสธของกำนัลแล้วและซัพพลายเออร์ยืนกรานที่จะให้ เขาควรทำอย่างไร]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[ห้องประชุม]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[เก็บเงินสดไว้ กระบวนการเลือกสรรซัพพลายเออร์ได้สรุปแล้ว ดังนั้นจิอานไม่ได้อยู่ในตำแหน่งในการจูงใจที่เกี่ยวข้องกับผู้จำหน่ายอีกต่อไป]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[ปฏิเสธเงินสดอีกครั้ง แต่เมื่อซัพพลายเออร์มอบบัตรของขวัญ 100 ดอลลาร์สหรัฐให้เขาเพื่อใช้ในร้านอาหารโปรดของอีดูอาร์โด ให้รับไว้]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[ปฏิเสธเงินสดอีกครั้ง แต่จากนั้นยอมรับเมื่อซัพพลายเออร์เชิญจิอานไปร่วมทานอาหารเย็นกับทีมงาน]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[จิอานเก็บเงินสด โดยตั้งสมมติฐานว่าไม่มีใครทราบได้]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[หลังจากจิอานปฏิเสธเงินสดครั้งที่สอง ซัพพลายเออร์ยืนกรานว่าอย่างน้อยเขาควรรับบัตรของขวัญร้านอาหาร 100 ดอลลาร์สหรัฐ]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[จิอานได้ปฏิเสธเงินสดอย่างสุภาพอีกครั้ง แต่จากนั้นยอมรับเมื่อซัพพลายเออร์เชิญจิอานไปร่วมทานอาหารเย็นกับทีมงาน]]></text>
+		</correct>
+	</feedback>
+</contents>

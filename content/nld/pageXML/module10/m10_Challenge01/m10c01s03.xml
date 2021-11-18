@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[Aangezien Jian een paar uur in het ziekenhuis zal moeten wachten, overweegt hij zijn werk mee te nemen. Wat vindt u dat hij moet doen? Kies een optie en klik vervolgens op OK.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[Klik op Volgende om door te gaan.]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Jian moet vertrekken om zijn vrouw in het ziekenhuis te vergezellen, maar er zijn dringende projecten die zijn aandacht vragen. Hij kan zijn laptop meenemen naar het ziekenhuis, maar hij weet dat het minder veilig is om vanop afstand op zijn laptop te werken dan via het bedrijfsnetwerk. ]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Wat is voor Jian de beste manier om ervoor te zorgen dat hij zijn werk tegen de deadline kan voltooien?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[Kantooromgeving]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian kan de informatie voor het Texela-project, met inbegrip van het basisdossier met leveranciers, uploaden naar zijn persoonlijke Dropbox-account. Zo kan hij ze raadplegen via zijn laptop in het ziekenhuis, maar wordt ze niet via het internet verstuurd of lokaal op zijn apparaat gedownload.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian kan de leveranciersgegevens en het basisdossier met leveranciers op een usb-stick plaatsen en coderen. Dit lijkt hem veiliger dan de informatie elektronisch te raadplegen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian kan uitstel vragen voor het project waar hij in eerste instantie aan bezig was en het Texela-project afronden voordat hij naar het ziekenhuis vertrekt.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[De beslissing van Jian houdt een risico op een inbreuk op de privacy van de bedrijfs-, klanten- en leveranciersgegevens in.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian heeft stappen ondernomen om de bedrijfs- en leveranciersgegevens te beschermen. Heeft hij hiermee een ander probleem gecreëerd?]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -188px;">
+			<text style="padding-top:25px;"><![CDATA[Jian kan uitstel vragen voor het project waar hij in eerste instantie aan bezig was en het Texela-project afronden voordat hij naar het ziekenhuis vertrekt.]]></text>
+			<text><![CDATA[Jian slaagt erin een leverancier aan te bevelen alvorens op het werk te vertrekken en hoeft dus geen kopie van de vertrouwelijke leveranciersgegevens of het basisdossier met leveranciers mee te nemen. Doordat hij uitstel kreeg voor het andere project, is hij erin geslaagd het project niet in gevaar te brengen.]]></text>
+			<text><![CDATA[Beter nog, Jian kan tijd met zijn vrouw doorbrengen zonder te worden afgeleid door dringende deadlines.]]></text>
+		</correct>
+	</feedback>
+</contents>

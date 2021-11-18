@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Sampul mengandungi wang tunai USD$300. Jian sudah pun menolak hadiah tersebut dan pembekal berkeras tentangnya. Apakah yang patut dia lakukan?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[Bilik Persidangan]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Ambil wang tunai tersebut. Proses pemilihan pembekal sudah pun diputuskan, jadi Jian tidak lagi berada dalam kedudukan mempengaruhi berhubungan dengan vendor.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Tolak wang tunai tersebut sekali lagi. Tetapi apabila pembekal menawarkan dia kad hadiah USD$100 ke restoran kegemaran Eduardo, terimanya.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Tolak wang tunai tersebut sekali lagi tetapi kemudian menerima apabila pembekal menjemput Jian ke makan malam pasukan.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian mengambil wang tunai tersebut, dengan andaian tiada seorang pun akan mengetahuinya.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Selepas Jian menolak wang tunai tersebut buat kali kedua, pembekal mendesak supaya sekurang-kurangnya dia menerima kad hadiah restoran bernilai USD$100.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian secara sopan telah menolak wang tunai tersebut sekali lagi tetapi kemudian menerima apabila pembekal menjemput Jian ke makan malam pasukan.]]></text>
+		</correct>
+	</feedback>
+</contents>

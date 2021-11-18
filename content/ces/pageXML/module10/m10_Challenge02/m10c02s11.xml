@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Emma má hrozný pocit ze situace, která Sandy postihla. Myslí, že by možná pomohlo zapojit ostatní. Jak může Emma své spolupracovnici pomoci?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;line-height:20px;">
+		<text><![CDATA[Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Překvapit Sandy tím, že vytvoří webové stránky s veřejnou online sbírkou na úhradu léčebných nákladů, kde bude zveřejňovat informace o Sandyině rekonvalescenci a jejích finančních obtížích.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Využít svůj realitní blog a pokusit se přimět širší okruh lidí, aby přispěli do rodinné sbírky.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Požádat Sandy o svolení předtím, než se na kohokoli obrátí nebo než o Sandyině rekonvalescenci cokoli napíše do jakýchkoli sociálních médií.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Emma pro Sandy vytvoří web se sbírkou, kde zveřejní informace o jejích zraněních a aktuální prognóze.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma má na svých webových stránkách a blogu spoustu návštěvníků, a proto ji napadne, že takto může o Sandyině neštěstí povědět ještě širšímu okruhu lidí a získat od nich dary. Rozhodne se, že na svůj realitní web a blog přidá informace o Sandyině autonehodě a rodinné sbírce.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:220px;" fcStyle="top:-169px;">
+			<text style="padding-top:25px;"><![CDATA[Emma požádá Sandy o svolení, aby mohla napsat o nehodě a příspěvek zveřejnit na svém blogu jako prostředek k získání darů na Sandyinu lékařskou péči.]]></text>
+			<text><![CDATA[Sandy souhlasí, ale žádá, aby dary místo toho šly do fondu pro zdravotnické zařízení.]]></text>
+			<text><![CDATA[Když Emma požádá Sandy o svolení ohledně toho, co může sdílet a jak bude používat osobní údaje, zajistí tím, že nezneužije Sandyiny osobní údaje a bude účinně respektovat její soukromí.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s03">
+	<transcript>
+		<text path="audio/module4/m04s03" id="0"><![CDATA[Was genau ist unter personenbezogenen Daten zu verstehen? Werfen wir einen näheren Blick darauf.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Was sind personenbezogene Daten?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s03/contentBackground.jpg" minwidth="769"><![CDATA[Nachdenklicher Mitarbeiter am Computer]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Wählen Sie die einzelnen Überschriften aus.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:160px;">
+		<revealCallOut width="300px" height="174px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn1.png" minwidth="769"><![CDATA[Personenbezogene Daten]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Personenbezogene Daten]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 80px;top: -30px;width: 958px;">
+				<text><![CDATA[Personenbezogene Daten sind alle Daten, anhand derer sich die Identität einer Person feststellen lässt, beispielsweise der Name oder die Anschrift einer Person.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="350px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn2.png" minwidth="769"><![CDATA[Sensible personenbezogene Daten]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Sensible personenbezogene Daten]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 120px;top: -30px;width: 958px;">
+				<text><![CDATA[Sensible personenbezogene Daten sind alle Informationen über eine Person, die erhebliche Nachteile, Unannehmlichkeiten oder Ungerechtigkeiten verursachen oder jemanden in Verlegenheit bringen können, wenn sie verloren gehen, kompromittiert oder ohne Genehmigung offengelegt werden, beispielsweise Angaben zum Gesundheitszustand oder den religiösen Überzeugungen einer Person.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s03/btn3.png" minwidth="769"><![CDATA[Datenschutz]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Datenschutz]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -30px;width: 958px;">
+				<text><![CDATA[Alle personenbezogenen Informationen unserer Mitarbeiter, Kunden und Geschäftspartner müssen geschützt werden. Dies gehört zu den wichtigsten Verantwortlichkeiten, die Sie als Mitarbeiter von Johnson Controls tragen.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

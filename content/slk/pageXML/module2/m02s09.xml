@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s09" id="0"><![CDATA[Skontrolujte, či chápete, čo je prijateľné a čo nie. Vyberte položku prijateľné alebo neprijateľné pre každú možnosť, potom kliknite na položku Odoslať.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s09/contentBackground.jpg" minwidth="769"><![CDATA[Dar]]></img>
+	</contentBackground>
+	<contentBg style="width: 647px;right: 358px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Sú tieto dary Prijateľné alebo Neprijateľné?]]></text>
+	</contentText>
+	<instructionText style="height:36px;">
+		<text><![CDATA[Vyberte možnosť Prijateľné alebo Neprijateľné pre každú možnosť, potom kliknite na položku Odoslať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent style="width:650px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img01.png"><![CDATA[Pero spoločnosti Johnson Controls]]></img>
+			<text style="width: 336px;"><![CDATA[Zamestnanec spoločnosti Johnson Controls pošle zákazníkovi pero s logom spoločnosti Johnson Controls ako pozornosť pri príležitosti ukončenia úspešného projektu]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img02.png"><![CDATA[Zamestnanec držiaci darčekovú kartu]]></img>
+			<text style="width: 336px;"><![CDATA[Počas sviatkov dodávateľ pošle zamestnancovi spoločnosti Johnson Controls darčekový poukaz v hodnote 50 USD]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img03.png"><![CDATA[Lístky na box]]></img>	
+			<text style="width: 336px;"><![CDATA[Predajca dá zamestnancovi spoločnosti Johnson Controls 4 lístky na box, pričom ide o vyraďovaciu fázu profesionálnej športovej súťaže a informuje zamestnanca, že lístky dostane zadarmo od jeho spoločnosti]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img04.png"><![CDATA[Zamestnanec držiaci fľašu šampanského]]></img>	
+			<text style="width:336px;"><![CDATA[Dlhodobý dodávateľ, ktorý momentálne predkladá ponuku na zmluvu so spoločnosťou Johnson Controls, pošle niekoľko fliaš šampanského tímu spoločnosti Johnson Controls]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[Prijateľné]]></text>
+		<text styleWidth="width:100px;"><![CDATA[Neprijateľné]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -101px;width: 300px;height: 430px;padding-top: 20px;right: -335px;line-height:18px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[To je správne.]]></text>			
+			<text style="font-size: 14px;"><![CDATA[<ul> <li>Prahová hodnota pre oznamovanie darov je v spoločnosti Johnson Controls 200 USD. </li> <li>Môžete prijať dary v hodnote nižšej ako 200 USD za predpokladu, že neexistuje úmysel neoprávnene vás ovplyvniť alebo vytvoriť budúci záväzok. </li> <li>Ak vám bude ponúknutý dar v hodnote 200 USD alebo viac (napríklad lístky na zápas), musíte to oznámiť prostredníctvom darčekového formulára. Formulár sa preskúma a bude vám oznámené, či si dar môžete ponechať alebo nie.</li> <li>Nesmiete ponúkať ani prijímať žiadnu peňažnú hodnotu ani ekvivalent peňazí, ako sú napríklad darčekové karty.</li> <li>Všetky dary určené na ponúkanie komerčným zákazníkom musia byť vopred schválené vaším obchodným manažérom. </li> <li>Dary určené na ponúkanie štátnym úradníkom si vyžadujú predbežné schválenie, a to aspoň 7 dní vopred s použitím formulára AB.</li> <li>Formuláre nájdete na stránke <a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a></li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -101px;width: 300px;height: 430px;padding-top: 20px;right: -335px;line-height:18px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[To nie je správne.]]></text>	
+			<text style="font-size: 14px;"><![CDATA[<ul> <li>Prahová hodnota pre oznamovanie darov je v spoločnosti Johnson Controls 200 USD. </li> <li>Môžete prijať dary v hodnote nižšej ako 200 USD za predpokladu, že neexistuje úmysel neoprávnene vás ovplyvniť alebo vytvoriť budúci záväzok. </li> <li>Ak vám bude ponúknutý dar v hodnote 200 USD alebo viac (napríklad lístky na zápas), musíte to oznámiť prostredníctvom darčekového formulára. Formulár sa preskúma a bude vám oznámené, či si dar môžete ponechať alebo nie.</li> <li>Nesmiete ponúkať ani prijímať žiadnu peňažnú hodnotu ani ekvivalent peňazí, ako sú napríklad darčekové karty.</li> <li>Všetky dary určené na ponúkanie komerčným zákazníkom musia byť vopred schválené vaším obchodným manažérom. </li> <li>Dary určené na ponúkanie štátnym úradníkom si vyžadujú predbežné schválenie, a to aspoň 7 dní vopred s použitím formulára AB.</li> <li>Formuláre nájdete na stránke <a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a></li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

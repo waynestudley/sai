@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="reveal2">
+	<transcript>
+		<text path="audio/module8/m08s07" id="0"><![CDATA[どのような情報を機密として保持する必要がありますか？ ここに一覧となっていない他の種類の機密情報もありますが、いくつかの例を示しましょう。 それぞれの見出しをクリックし、理解度を確認します。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:635px;margin-bottom:0px;font-size:14px;line-height:20px;"><![CDATA[機密情報にはさまざまな形があります。 書き下されたもの、口頭で伝えられたもの、データベースで保管されているものなどです。 重要なのは、伝えられている内容です。]]></text>			
+	</contentText>
+	<pageTitle style="width: 635px;margin-bottom: 5px;"></pageTitle>
+	<instructionText style="width: 635px;">
+		<text><![CDATA[各見出しを選択します。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s07/contentBackground.jpg" minwidth="769"><![CDATA[デジタル情報]]></img>
+	</contentBackground>
+	<popupBackground>
+		<img path="content/images/ltr/module8/m08s07/img_01.png"><![CDATA[]]></img>
+	</popupBackground>
+	<tabHolder style=""></tabHolder>
+	<tabs style="">
+		<tab id="1" type="callOut" style="">
+			<tabName style="font-size:15px;" ><![CDATA[事業計画または戦略]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup1.png"><![CDATA[]]></img>
+			</backgroungImg>
+			<tabText style="width: 268px;">
+				<text style="font-size:15px;"><![CDATA[当社の事業に関する将来を考慮したあらゆる情報を保護します。 当社の計画を競合他社が知った場合、その情報は彼らに重大な利点を与えることができます。]]></text>
+			</tabText>
+		</tab>		
+		<tab id="2" type="planeText" style="top: 32px;">
+			<tabName style="font-size:15px;" ><![CDATA[公表されていない財務情報]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup2.png"><![CDATA[承認プロセスに従っている従業員]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[機密として扱われているJohnson Controlsの財務業績、または価格設定に関するあらゆる非公開情報を扱います。 これには、将来的な買収情報も含みます。 投資家による企業の見方が変化してしまう可能性があるため、当社は財務情報の公表および共有方法について、厳格なルールに従う必要があります。]]></text>
+				</tabText>
+		</tab>		
+		<tab id="3" type="planeText" style="top: 59px;">
+			<tabName style="font-size:15px;" ><![CDATA[顧客または市場の情報]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup3.png"><![CDATA[政府職員]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[顧客リスト、顧客契約、市場共有データ、サプライヤー契約、同様の情報を保護します。 これらには、当社のビジネスに関する重大な内部知識が含まれており、誰かがそれを知った場合、当社の競争的利点を損なう可能性があります。]]></text>
+				</tabText>
+		</tab>	
+		<tab id="4" type="planeText" style="top: 82px;">
+			<tabName style="font-size:15px;" ><![CDATA[製品または技術情報]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup4.png"><![CDATA[承認フォームに記入する従業員]]></img>
+			</backgroungImg>
+			<tabText style="width:255px;">
+				 <text style="font-size:15px;"><![CDATA[企業としての当社の価値は、製品およびノウハウからくるものです。 ソフトウェアのソースコード、製品の図面、技術マニュアルおよび研究、開発素材は、慎重に保護する必要があります。]]></text>
+				</tabText>
+		</tab>
+	</tabs>	
+</contents>

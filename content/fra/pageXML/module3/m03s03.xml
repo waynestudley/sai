@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m03s03">
+	<transcript>
+		<text path="audio/module3/m03s03" id="0"><![CDATA[La corruption n’implique pas toujours un échange d’argent. Cliquez sur chaque bouton pour en savoir plus.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Vérifiez que vous avez bien compris ce qu’est la corruption.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s03/contentBackground.jpg" minwidth="769"><![CDATA[Ombres]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Cliquez sur chaque bouton pour en savoir plus. Faites défiler le texte pour lire toute la réponse si nécessaire.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[DÉVOILER]]></text>
+	</buttonText>	
+	<flipCardContent width="230px">
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img1.png" style=""><![CDATA[Quand parle-t-on de corruption ?]]></buttonImg>
+			<buttonText style=""><![CDATA[Quand parle-t-on de corruption ?]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[<span class="fontBold">La corruption</span> se produit lorsque quelqu’un reçoit tout objet de valeur dans le cadre d’une tentative d’influencer de manière inappropriée ses décisions ou actions.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img2.png" style=""><![CDATA[Personne remettant une enveloppe marron à une autre personne]]></buttonImg>
+			<buttonText style=""><![CDATA[Qu’entend-on par « quelque chose de valeur » ?]]></buttonText>		
+			<popText style="">
+				<text><![CDATA[Il peut s’agir d’argent, mais aussi :<ul> <li>d’actions dans une entreprise</li> <li>de cadeaux ou gratifications</li> <li>de marques d’hospitalité ou divertissements dispendieux</li> <li>de séjours ou excursions, même lorsqu’ils font partie d’un voyage d’affaires légitime</li> <li>de rabais injustifiés ou de commissions excessives</li> <li>de contributions politiques ou caritatives</li> <li>d’offres d’emplois à des clients, leur famille ou leurs amis</li> <li>d’indemnités et de dépenses inhabituelles ou déguisées</li> <li>de tout autre élément de valeur pour le bénéficiaire</li> </ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img3.png" style=""><![CDATA[Personne remettant une enveloppe marron à une autre personne]]></buttonImg>
+			<buttonText style=""><![CDATA[La corruption est-elle interdite partout ?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[<ul> <li>De nombreux pays ont voté des lois anticorruption, y compris ceux dans lesquels celle-ci est répandue depuis bien longtemps.</li> <li>Notre politique interdit la corruption dans tous les pays où nous exerçons nos activités. En tant que multinationale, nos actions au sein d’un pays peuvent aboutir à des poursuites sur l’ensemble des autres territoires où nous sommes implantés.</li> <li>Dans la plupart des pays du monde, un pot-de-vin constitue également un délit et des individus peuvent être inculpés, jugés et condamnés pour leur participation à une manœuvre de corruption.</li> </ul>]]></text>		
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img4.png" style=""><![CDATA[Personne remettant une enveloppe marron à une autre personne]]></buttonImg>
+			<buttonText style=""><![CDATA[Offrir ou recevoir un pot-de-vin : quelle différence pour la loi ?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[Dans la quasi-totalité des pays, il est aussi illégal de verser un pot-de-vin que de le recevoir. La politique de Johnson Controls interdit à la fois d’offrir et d’accepter un pot-de-vin.]]></text>			
+			</popText>
+		</flipCard>		
+	</flipCardContent>	
+</contents>

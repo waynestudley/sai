@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[測驗您對招待可接受與不可接受的理解程度。 針對這些項目選取「可接受」或「不可接受」，然後按一下「提交」。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[持著帳單的服務員]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;right: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[請判定這些行為可接受或不可接受。]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[針對每個項目選取「可接受」或「不可接受」，然後按一下「提交」。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img01.png"><![CDATA[4 張體育活動票券]]></img>
+			<text style="width: 356px;"><![CDATA[一位供應商提供您四張票，以和他一同參加一場重大體育賽事。 每張票約值 100 美元，因此在您接受前，您要呈報他提供的門票。]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img02.png"><![CDATA[正在檢視標單的員工]]></img>
+			<text style="width: 356px;"><![CDATA[您發現這位供應商有參與一場公開招標，但您並未直接參與，所以您決定接受這些票。]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img04.png"><![CDATA[員工與供應商談話]]></img>	
+			<text style="width: 356px;"><![CDATA[另一位目前未參與標案的其他供應商，提供您一場較小賽事的不同門票，每張價值約 20 美元。 您婉拒這些票，接受了大型賽事的票。]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[可接受]]></text>
+		<text styleWidth="width:110px;"><![CDATA[不可接受]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 6px;width: 258px;height: 250px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[正確。]]></text>			
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>既然大型賽事門票價值超過 200 美元，就必須要呈報。</li> <li>在合約談判或標案進行期間，您絕不應向客戶或供應商提供或接受禮品或招待。</li><li>門票價值還算適當，但如果對您有任何不當影響，這個招待便是不當的。</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: 6px;width: 258px;height: 250px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[錯誤。]]></text>	
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>既然大型賽事門票價值超過 200 美元，就必須要呈報。</li> <li>在合約談判或標案進行期間，您絕不應向客戶或供應商提供或接受禮品或招待。</li><li>門票價值還算適當，但如果對您有任何不當影響，這個招待便是不當的。</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

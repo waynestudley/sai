@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;">
+		<text><![CDATA[Seleziona ogni intestazione per saperne di più.]]></text>
+		<text><![CDATA[Fai clic su Avanti per cambiare la tua scelta e riprova.]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">			
+			<buttonText style=""><![CDATA[Troppo da bere]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Diversi membri del gruppo si ubriacano, una persona cade dalle scale e si rompe un braccio. Al posto dell’infortunato, si deve assumere un nuovo lavoratore che è ovviamente più lento, quindi il progetto viene ritardato. ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">
+			<buttonText><![CDATA[Il cliente è scontento]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Dopo aver ascoltato alcune conversazioni, il cliente si rende conto che il ritardo del progetto è dovuto a un evento in cui Carlos ha offerto ad alcuni dei lavoratori un drink in un bar sportivo. Chiama il responsabile di Carlos per lamentarsi. ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="138">
+			<buttonText><![CDATA[Post di Facebook]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Uno dei subappaltatori pubblica una foto dell'incidente su Facebook. Scrive nel suo post dicendo "l'ultima volta che bevo con la truppa di Johnson Controls..." ]]></text>					
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Carlos si chiede se il subappaltatore infortunato possa denunciare la compagnia.]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

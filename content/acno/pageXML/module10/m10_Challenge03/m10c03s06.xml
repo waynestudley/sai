@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m10c03s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<pageTitle style="width: 354px;"></pageTitle>
+	<contentBg style="width: 456px;right: 30px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Carlos está en otro lugar, trabajando con una clienta, Hilde, en una actualización del sistema. Esa tarde, Ingrid, representante de ventas de Johnson Controls, pasa para conversar con Hilde sobre la renovación de su contrato.]]></text>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Ingrid sabe que Hilde está recibiendo ofertas de otras empresas. Para fortalecer la relación, ofrece llevar a Hilde y a Carlos a cenar. Más tarde esa noche, cuando Ingrid llega al restaurante, Hilde ya está sentada a la mesa.]]></text>
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s06/contentBackground.jpg" minwidth="769" className="bg-pos-left-bottom"><![CDATA[]]></img>
+	</contentBackground>	
+	<revelCollOut style="width: 450px;left: 0px;top:-200px;height:210px;position: relative;">		
+		<img path=""><![CDATA[]]></img>	
+		<text style=""><![CDATA[Hola, Ingrid. Llegamos temprano y, espero que no te moleste, pero ya he pedido vino para la mesa. Es caro, pero me encanta. ¡No pude resistirme!]]></text>
+	</revelCollOut>	
+	<instructionText>
+		<text><![CDATA[Haga clic en Hilde.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<RevealButton style="top:10px;left: 0px;width: 450px;height: 210px;position: relative;">
+		<buttonImg path="content/images/ltr/module10/m10c03/m10c03s06/img_01.png" style="width:450px;height:165px;"><![CDATA[]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width:450px;height:210px;"><![CDATA[Hilde]]></buttonText>		
+	</RevealButton>
+	
+	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[客户要求卡洛斯开展额外工作。 您认为他应如何响应？ 选择一个选项，然后单击“确定”。]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[单击“下一步”继续。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[卡洛斯应该怎么做？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[同意开展该工作，并要求戴维保密，他在离开前一起完成工作。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[告诉戴维，如果他愿意就接下该工作，但自己不会参与。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[礼貌向客户解释他们不能接受，因为这样涉嫌抢 Johnson Controls 的业务。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[卡洛斯和戴维在离开前完成了工作。 很简单！ 他们总是随身携带备用传感器，因此 Johnson Controls 不会察觉。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[戴维同意兼职这项工作。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[卡洛斯致电经理，经理通知销售团队，随后团队为这项额外工作给出报价。 该工作转到 Johnson Controls，而非由卡洛斯或戴维私下接单。]]></text>
+		</correct>
+	</feedback>
+</contents>

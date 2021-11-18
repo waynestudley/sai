@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[מה צריכה נורית לעשות?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c03/m10c03s17/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[להסכים למזימה של דויד וליצור הזמנות רכש מזויפות כדי לאפשר לו לקנות ציוד.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[לסרב להשתתף במזימה ולדווח על הפעולות של דויד למחלקת התאימות כדי לספר להם את מה שהיא יודעת.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[דויד ונורית ממשיכים לעבוד יחד כאשר העסק הצדדי הולך וגדל.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[דויד מתרעם על כך, אך מפסיק לקחת עבודות צדדיות מהלקוחות של Johnson Controls. ]]></text>
+		</correct>
+	</feedback>
+</contents>

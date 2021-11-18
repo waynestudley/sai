@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[Sachant qu’il va patienter plusieurs heures à l’hôpital, Jian envisage d’emporter son travail avec lui. D’après vous, que doit-il faire ? Sélectionnez votre réponse, puis cliquez sur « OK ».]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText style="line-height:18px;">
+		<text><![CDATA[Jian doit partir rejoindre sa femme à l’hôpital, mais des projets urgents requièrent son attention. Il peut apporter son ordinateur portable à l’hôpital, mais il sait que travailler à distance sur son ordinateur n’est pas aussi sûr que le réseau de l’entreprise.]]></text>
+		<text><![CDATA[Comment Jian peut-il s’assurer de terminer son travail dans les délais ?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[Environnement de travail]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;line-height:20px;line-height:18px;">
+		<text><![CDATA[Sélectionnez votre réponse, puis cliquez sur « OK ».]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian télécharge les informations du projet Texela, notamment le fichier des fournisseurs, sur son compte Dropbox. Ainsi, il peut y accéder depuis son ordinateur portable à l’hôpital, mais ces informations ne seront pas envoyées par Internet ni téléchargées localement sur son ordinateur.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian met les informations sur les fournisseurs et le fichier des fournisseurs sur une clé USB et les crypte. Cela lui paraît plus sûr que d’accéder aux informations par voie électronique.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian renégocie un report de délai pour le projet sur lequel il travaille initialement et termine le travail sur le projet Texela avant de se rendre à l’hôpital.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[La décision de Jian met la confidentialité des données de l’entreprise, du client et du fournisseur en danger.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 65px;" fcStyle="">
+			<text style="padding-top:20px;line-height: 19px;"><![CDATA[Jian a fait en sorte de protéger les informations de l’entreprise et du fournisseur, mais a-t-il créé un autre problème ?]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -208px;">
+			<text style="padding-top:25px;"><![CDATA[Jian renégocie un report de délai pour le projet sur lequel il travaille initialement et termine le travail sur le projet Texela avant de se rendre à l’hôpital.]]></text>
+			<text><![CDATA[Jian est en mesure de formuler ses recommandations en matière de fournisseur avant de quitter le travail et par conséquent, n’a pas besoin d’apporter une copie des informations confidentielles sur le fournisseur ni le fichier des fournisseurs. En réussissant à négocier un report de délai pour l’autre projet, il a garanti l’absence d’impact négatif sur l’ensemble du projet.]]></text>
+			<text><![CDATA[Encore mieux, Jian peut passer du temps avec sa femme sans être distrait par des délais serrés.]]></text>
+		</correct>
+	</feedback>
+</contents>

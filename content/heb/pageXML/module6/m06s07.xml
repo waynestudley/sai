@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s07">
+	<transcript>
+		<text path="audio/module6/m06s07" id="0"><![CDATA[הפרות של חוקי ההגבלים העסקיים התרחשו בחברה שלנו, כפי שניתן ללמוד מניתוח מקרה זה. לחץ על כל שלב בסיפור.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px" lineHeight="19px"><![CDATA[תחרות לא הוגנת יכולה לקרות בכל מקום, ולא תמיד היא ברורה. לפני זמן לא רב נתקלנו בהפרה של חוקי ההגבלים העסקיים ב-Johnson Controls. נבחן מקרה זה כדי לראות מה אפשר ללמוד ממנו.]]></text>
+	</contentText>
+	<contentBg style="top: 34px;"></contentBg>
+	<contentBackground>
+		<img path="content/images/rtl/module6/m06s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[לחץ על כל שלב בסיפור.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top: 145px;" btnConStyle="top: 135px;">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/rtl/module6/m06s07/Strip_01.png" minwidth="700" minheight="550"><![CDATA[פגישה של מנהל בכיר עם מנהלים מחברות אחרות]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[Johnson Controls משתמשת בשירותיהם של ספקי פסולת סוללות מסוימים. במשך כמה שנים, מנהל בכיר החליף מידע עם מנהלים בשלוש חברות גדולות אחרות שגם הן השתמשו בספקי פסולת סוללות.]]></text>
+				<text><![CDATA[כנראה המטרה הייתה להוריד באופן מלאכותי את המחירים שארבע חברות שילמו לספקי פסולת סוללות באזורים הבאים: גרמניה, צרפת, בלגיה והולנד.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/rtl/module6/m06s07/Strip_02.png" minwidth="700" minheight="550"><![CDATA[עובד בקו החם לנושאי יושרה משוחח בטלפון]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[אחד העובדים של Johnson Controls דיווח על פעילו זו באמצעות הקו החם שלנו לנושאי יושרה.]]></text>
+				<text><![CDATA[Johnson Controls שיתפה פעולה עם הנציבות האירופית כדי לאפשר חקירה שקופה.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/rtl/module6/m06s07/Strip_03.png" minwidth="700" minheight="550"><![CDATA[חקירה]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[בוצעה חקירה מלאה שבסופה מנהל ב- Johnson Controls שהיה קשור לפעילות הלא מוסרית פוטר מעבודתו.]]></text>
+				<text><![CDATA[שאר החברות שהיו מעורבות קיבלו קנסות בשווי כמה מיליוני אירוע, אך מאחר ש-Johnson Controls דיווחה באופן יזום על הפעילות לרשויות ושיתפה פעולה באופן מלא עם החקירה, היא לא נקנסה.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripBackground>				
+				<img path="content/images/rtl/module6/m06s07/Strip_04.png" minwidth="700" minheight="550"><![CDATA[אדם מלשין שמחזיק טלפון סלולרי]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[המלשין עזר ל-Johnson Controls לגלות התנהלות בלתי הולמת זו ולהביא לסיומה. מאחר שהחברה דיווחה באופן יזום לרשויות, הנציבות האירופית העניקה ל-Johnson Controls חסינות מקנסות. לו היינו צריכים לשלם קנס, גובהו היה צריך להיות 42 מיליון אירו.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="5">
+			<stripBackground>				
+				<img path="content/images/rtl/module6/m06s07/Strip_05.png" minwidth="700" minheight="550"><![CDATA[צוות הנציבות האירופית]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[לאחר מקרה זה, צוות הנציבות האירופית ב-Johnson Controls הטמיע שינויים משמעותיים בתהליכים הפנימיים ובמבנה הארגוני כדי למנוע אפשרות שפעילויות דומות יחזרו על עצמן.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

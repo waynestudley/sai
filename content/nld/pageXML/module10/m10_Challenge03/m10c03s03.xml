@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Carlos voelt zich onder druk gezet om een onderhoudsbeurt aan de apparaten te verrichten om niet het risico te lopen een aantal contracten in een zeer groot gebouw kwijt te spelen. Wat moet Carlos doen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Het geld aanvaarden en de onderhoudsbeurt verrichten zodat Johnson Controls geen andere grote contracten in het gebouw zou kwijtspelen, maar Rafael laten weten dat dit slechts eenmalig is.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Het geld niet aanvaarden en alsnog de onderhoudsbeurt verrichten, zodat Johnson Controls geen andere grote contracten in het gebouw zou kwijtspelen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Het gesprek afronden en zijn manager bellen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos aanvaardt het geld van Rafael en verricht de onderhoudsbeurt aan de verkeerd geïnstalleerde apparaten. Johnson Controls behoudt de contracten in het gebouw.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos verricht het werk, maar neemt het geld van Rafael niet aan.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;font-size:15px;line-height:19px;"><![CDATA[Carlos belt naar zijn manager om advies in te winnen.]]></text>
+			<text style="font-size:15px;line-height:19px;"><![CDATA[De manager van Carlos draagt hem op samen met zijn team te vertrekken. Zodra Carlos terug op kantoor is, bellen ze samen de complianceafdeling op. ]]></text>
+			<text style="font-size:15px;line-height:19px;"><![CDATA[Er wordt een onderzoek gestart waaruit blijkt dat Rafael in het verleden al meerdere malen een soortgelijk aanbod heeft gedaan en dat andere technici van Johnson Controls hiermee hebben ingestemd. Het bedrijf treft disciplinaire maatregelen ten opzichte van deze technici. ]]></text>
+		</correct>
+	</feedback>
+</contents>

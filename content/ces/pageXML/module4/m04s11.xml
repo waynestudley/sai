@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[Podívejme se na několik každodenních situací. Vystavují tito lidé osobní údaje riziku?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Které z následujících možností mohou být rizikové z hlediska ochrany osobních údajů?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[Rušná kancelář, zaměstnanec pracující na počítači]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Vyberte všechny situace, které podle vás vystavují osobní údaje riziku.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Správných odpovědí může být více.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Připojení k veřejné síti Wi-Fi.]]></option>	
+		<option><![CDATA[Použití stejného hesla na dvou místech.]]></option>	
+		<option><![CDATA[Zveřejnění fotografie z týmové porady na sociálních médiích, s bílou tabulí v pozadí.]]></option>	
+		<option><![CDATA[Probírání finančních informací s klientem po telefonu na veřejném místě.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Správně.]]></text>
+			<text><![CDATA[Všechny tyto příklady představují riziko z hlediska soukromí vašich údajů.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[To není správně.]]></text>
+			<text><![CDATA[Všechny tyto příklady představují riziko z hlediska soukromí vašich údajů.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

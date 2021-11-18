@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[Was meinen Sie? Tun diese Mitarbeiter genug, um personenbezogene Daten zu schützen?]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[Mitarbeiter beim Bearbeiten von Daten auf einem Laptop]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Finden Sie, dass diese Mitarbeiter die personenbezogenen Daten ausreichend schützen?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Wählen Sie für jede Option „Ja“ oder „Nein“ aus und klicken Sie auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img01.png"><![CDATA[Mitarbeiter beim Wegwerfen eines Informationszettels]]></img>
+			<text style="width: 390px;"><![CDATA[Zettel mit personenbezogenen Informationen an einem Ort wegwerfen, an dem andere darauf zugreifen können]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img02.png"><![CDATA[Mitarbeiter beim Kaffeeholen]]></img>
+			<text style="width: 390px;"><![CDATA[Kaffee holen, während vertrauliche Kundendaten gedruckt werden]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img03.png"><![CDATA[Passwort]]></img>	
+			<text style="width: 390px;"><![CDATA[Zum Schutz von Dokumenten, die personenbezogene Informationen enthalten, starke Passwörter verwenden]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img04.png"><![CDATA[Kalender]]></img>	
+			<text style="width:390px;"><![CDATA[Personenbezogene Daten „für alle Fälle“ auch dann noch aufbewahren, wenn dies längst nicht mehr notwendig/erforderlich ist.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Ja]]></text>
+		<text><![CDATA[Nein]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -88px;width: 220px;height: 426px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 18px;"><![CDATA[Das stimmt.]]></text>			
+			<text style="font-size: 14px;"><![CDATA[Es ist äußerst wichtig, die personenbezogenen Finanz- und Bankinformationen von Mitarbeitern, Kunden und Geschäftspartnern zu schützen. Halten Sie alle Sicherheitsmaßnahmen in unserem Unternehmen ein und hinterlassen Sie personenbezogene Informationen niemals in einem Bereich, wo sie von anderen eingesehen werden können – auch nicht für einen kurzen Augenblick oder in Gegenwart von Personen, denen Sie vertrauen. Entsorgen Sie Informationen, für deren weitere Aufbewahrung es keinen legitimen Zweck gibt, auf ordnungsgemäße Weise.]]></text>			
+		</correct>
+		<incorrect style="top: -88px;width: 220px;height: 426px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 18px;"><![CDATA[Falsch.]]></text>	
+			<text style="font-size: 14px;"><![CDATA[Es ist äußerst wichtig, die personenbezogenen Finanz- und Bankinformationen von Mitarbeitern, Kunden und Geschäftspartnern zu schützen. Halten Sie alle Sicherheitsmaßnahmen in unserem Unternehmen ein und hinterlassen Sie personenbezogene Informationen niemals in einem Bereich, wo sie von anderen eingesehen werden können – auch nicht für einen kurzen Augenblick oder in Gegenwart von Personen, denen Sie vertrauen. Entsorgen Sie Informationen, für deren weitere Aufbewahrung es keinen legitimen Zweck gibt, auf ordnungsgemäße Weise.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

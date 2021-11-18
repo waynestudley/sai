@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m01s06">
+	<transcript>
+		<text path="audio/module1/m01s06" id="0"><![CDATA[如果利益冲突未能得到解决，可能会导致客户服务差、公司资金滥用、与供应商的关系不佳、业务损失，以及公司和相关个人声誉受损。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[利益冲突未能妥善解决时会发生什么？]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s06/contentBackground.jpg" minwidth="769"><![CDATA[办公室背景]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[单击每个人了解冲突如何改变他们对情况的看法，并对他们对 Johnson Controls 的看法产生负面影响。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="300px" height="178px" top="0px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module1/m01s06/btn1.png" minwidth="769"><![CDATA[白人员工]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Johnson Controls 员工卡特]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 100px;top: -20px;">
+				<text><![CDATA[安娜和我在同一职位工作多年，但我在这里的工作年限比她久很多，工作表现也更好。 <i>她</i>因为她哥哥在人力资源部工作，并利用其影响力帮助她而得以晋升。 如果努力工作并没有什么用的话，那努力工作有何意义？]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="178px" top="0px" left="349px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module1/m01s06/btn2.png" minwidth="769"><![CDATA[印度男士]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Johnson Controls 供应商拉杰什]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 100px;top: -20px;">
+				<text><![CDATA[我司已与 Johnson Controls 合作多年，且一直能够出色完成工作。 最近，Johnson Controls 客户代表约翰选择改用其好友的公司。 我一直坚信 Johnson Controls 会做出公正决策，现在看来并非如此。]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="178px" top="0px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module1/m01s06/btn3.png" minwidth="769"><![CDATA[俄罗斯/东欧男士]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Johnson Controls 客户谢尔盖]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 125px;top: -20px;">
+				<text><![CDATA[今年早些时候，我跟 Johnson Controls 联系人温卡讲了我们的需求。 她并没有给出 Johnson Controls 可以提供的解决方案，反而建议我们去找可以提供相同服务的一家小型公司。 一直以来，我们都与他们合作，并对其工作感到满意。 但我最近了解到，文斯是这家小公司的部分所有者，这让我怀疑她的建议是否不合乎道德，且不符合我或 Johnson Controls 的最佳利益。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

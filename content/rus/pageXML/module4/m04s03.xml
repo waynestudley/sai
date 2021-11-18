@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s03">
+	<transcript>
+		<text path="audio/module4/m04s03" id="0"><![CDATA[Так что же такое персональные данные? Давайте посмотрим.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Что такое персональные данные?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s03/contentBackground.jpg" minwidth="769"><![CDATA[Задумчивый сотрудник за компьютером]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Выберите каждый заголовок.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:160px;">
+		<revealCallOut width="300px" height="174px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn1.png" minwidth="769"><![CDATA[Персональные данные]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Персональные данные]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 80px;top: -30px;width: 958px;">
+				<text><![CDATA[Персональные данные представляют собой любую информацию, благодаря которой можно установить личность человека (например, имя или адрес).]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="350px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn2.png" minwidth="769"><![CDATA[Секретные персональные данные]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Секретные персональные данные]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 130px;top: -30px;width: 958px;">
+				<text><![CDATA[Секретные персональные данные представляют собой любую информацию о каком-либо человеке, утрата или несанкционированное разглашение которой могут причинить этому человеку значительный вред, неудобство или дискомфорт или стать причиной несправедливого отношения к нему; к секретным персональным данным относятся, например, данные о состоянии здоровья и религиозных верованиях людей.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s03/btn3.png" minwidth="769"><![CDATA[Защита данных]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Защита данных]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -30px;width: 958px;">
+				<text><![CDATA[Необходимо защищать всю персональную информацию наших сотрудников, клиентов и деловых партнеров. Это одна из ваших самых важных обязанностей как сотрудника компании Johnson Controls.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

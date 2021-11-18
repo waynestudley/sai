@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s05">
+	<transcript>
+		<text path="audio/module4/m04s05" id="0"><![CDATA[Bei manchen Informationen ist es offensichtlich, dass es sich um personenbezogene Daten handelt. Andere wiederum sind nicht so leicht als solche zu erkennen. ]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Es gibt unterschiedliche Arten von personenbezogenen Daten. Klicken Sie unten auf jede dieser Arten, um weitere Beispiele für Informationen anzuzeigen, die als personenbezogen oder vertraulich gelten können.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s05/contentBackground.jpg" minwidth="769"><![CDATA[Frau und Aktenschrank]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Klicken Sie auf die einzelnen Arten von Informationen, um Beispiele anzuzeigen.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:160px">
+		<revealCallOut width="230px" height="178px" top="35px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s05/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 44px;"><![CDATA[Kontaktdaten:]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 70px;top: -10px;width: 958px;">
+				<text><![CDATA[Name, Telefonnummer und E-Mail-Adresse]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="35px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s05/btn2.png" minwidth="769"><![CDATA[Religion]]></img>
+			<buttonText style="height: 44px;"><![CDATA[Sensible personenbezogene Informationen]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 70px;top: -10px;width: 958px;">
+				<text><![CDATA[Erkrankungen, sexuelle Orientierung, Mitgliedschaft in politischen Parteien, Religionszugehörigkeit oder vergleichbare Informationen zu persönlichen Überzeugungen]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="35px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s05/btn3.png" minwidth="769"><![CDATA[Lebenslauf]]></img>
+			<buttonText style="height: 44px;"><![CDATA[Informationen zum Arbeitsverhältnis]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 70px;top: -10px;width: 958px;">
+				<text><![CDATA[Beruflicher Werdegang und Gehaltsdaten]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="35px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s05/btn4.png" minwidth="769"><![CDATA[Kreditkarte]]></img>
+			<buttonText style="height: 44px;"><![CDATA[Finanzdaten]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 50px;top: -10px;width: 958px;">
+				<text><![CDATA[Kreditkarten- oder Kontonummern]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

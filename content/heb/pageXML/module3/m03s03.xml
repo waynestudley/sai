@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m03s03">
+	<transcript>
+		<text path="audio/module3/m03s03" id="0"><![CDATA[שוחד לא תמיד נראה כמו העברת כסף מזומן מיד ליד. לחץ על כל לחצן חשיפה לקבלת מידע נוסף.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[בדוק את הבנתך לגבי שוחד.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/rtl/module3/m03s03/contentBackground.jpg" minwidth="769"><![CDATA[צלליות של דמויות]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;left: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[לחץ על כל לחצן חשיפה לקבלת מידע נוסף. ייתכן שתצטרך לגלול כדי לקרוא את התשובה המלאה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[חשוף]]></text>
+	</buttonText>	
+	<flipCardContent width="230px">
+		<flipCard style="">			
+			<buttonImg path="content/images/rtl/module3/m03s03/img1.png" style=""><![CDATA[מתי מתרחש שוחד?]]></buttonImg>
+			<buttonText style=""><![CDATA[מתי מתרחש שוחד?]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[<span class="fontBold">שוחד</span> מתרחש כאשר מישהו נותן דבר בעל ערך בניסיון להשפיע באופן בלתי הולם על החלטותיו או פעולותיו.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="">			
+			<buttonImg path="content/images/rtl/module3/m03s03/img2.png" style=""><![CDATA[אדם מעביר לאדם אחר מעטפה חומה]]></buttonImg>
+			<buttonText style=""><![CDATA[מה הפירוש של "דבר בעל ערך"?]]></buttonText>		
+			<popText style="">
+				<text><![CDATA[דבר בעל ערך יכול לכלול כסף מזומן, אבל גם:<ul> <li>מניות בחברה</li> <li>מתנות או טיפים</li> <li>בידור או אירוח במחיר מוגזם</li> <li>סיורים באתרים או חופשות, גם כאשר הם מקושרים לנסיעה עסקית לגיטימית</li> <li>הנחות לא מוצדקות או עמלות מוגזמות</li> <li>תרומות למטרות פוליטיות או לארגוני צדקה</li> <li>משרות עבור לקוחות, בני משפחה או חברים שלהם</li> <li>מענקים והוצאות חריגים או סמויים</li> <li>כל דבר אחר בעל ערך לנמען</li> </ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/rtl/module3/m03s03/img3.png" style=""><![CDATA[אדם מעביר לאדם אחר מעטפה חומה]]></buttonImg>
+			<buttonText style=""><![CDATA[האם שוחד אסור בכל מקום?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[<ul> <li>מדינות רבות ברחבי העולם חוקקו חוקים נגד שוחד - גם מדינות שבהן שוחד היה נפוץ בעברן.</li> <li>המדיניות שלנו אוסרת על שוחד באף מדינה שבה אנו מנהלים עסקים; כארגון רב לאומי, הפעולות שלנו במדינה אחת עלולות להוביל לאכיפה בכל המיקומים האחרים שבהם אנו פועלים.</li> <li>בסמכויות שיפוט רבות ברחבי העולם, שוחד נחשב גם לעבירה פלילית ואנשים עלולים להיחשף לתביעות, משפטים ועונשי מאסר בשל מעורבותם במזימת שוחד.</li> </ul>]]></text>		
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/rtl/module3/m03s03/img4.png" style=""><![CDATA[אדם מעביר לאדם אחר מעטפה חומה]]></buttonImg>
+			<buttonText style=""><![CDATA[האם זה חשוב אם אתה מעניק או מקבל שוחד?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[כמעט בכל תחומי השיפוט, אין זה חוקי לתת שוחד בדיוק כמו לקבל אותו. המדיניות של Johnson Controls אוסרת הצעה וקבלה של שוחד מכל סוג שהוא.]]></text>			
+			</popText>
+		</flipCard>		
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[Gratulujeme – úspěšně jste absolvovali závěrečnou kontrolu znalostí.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[Bohužel jste v závěrečné kontrole znalostí neuspěli. ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Blahopřejeme!]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Zaměstnanci společnosti Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Zaměstnanci společnosti Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[Kliknutím na tlačítko Domů se vrátíte do hlavní nabídky. Odsud se dostanete k certifikátu o absolvování kurzu.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Domů se vrátíte do hlavní nabídky.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[Skóre <b>##%</b> znamená, že jste úspěšně absolvovali závěrečnou kontrolu znalostí v kurzu: <span class="courseTitleAss" >Uplatňování etického kodexu: Podnikáme s integritou</span>.]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[Skóre <b>##%</b> znamená, že jste neuspěli.]]></text>
+		<text><![CDATA[K úspěšnému absolvování potřebujete skóre nejméně <span>#%</span>. Znovu si projděte program a pak kontrolu znalostí opakujte.]]></text>
+	</feedbackFail>
+</contents>

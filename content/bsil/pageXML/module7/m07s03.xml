@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[O que você já sabe sobre os riscos à propriedade intelectual? Analise a situação de Maria, selecione todas as respostas adequadas e clique em Enviar.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Maria começou a trabalhar na Johnson Controls há alguns meses e se envolveu com o lançamento de um novo produto, que está gerando agitação no setor.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Pete, amigo de Maria, que está em um setor parecido, pergunta como está indo o trabalho dela e começa a fazer perguntas específicas sobre o novo produto.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Como Maria deve responder?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA[Maria e Pete]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;line-height:20px;">
+		<text><![CDATA[Selecione todas as respostas adequadas e clique em Enviar.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Pode haver mais de uma resposta correta.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px;line-height:18px;">
+		<option><![CDATA[Ela deve pedir que Pete prometa não revelar o que ela vai contar a ele antes de discutir os detalhes e o lançamento do produto]]></option>	
+		<option><![CDATA[Ela deve dizer a Pete como se sente em relação ao trabalho (é empolgante, desafiador, etc.), sem revelar detalhes sobre o produto ou lançamento]]></option>	
+		<option><![CDATA[Ela deve dizer a Pete que o trabalho é confidencial e não pode revelar detalhes]]></option>	
+		<option><![CDATA[Ela deve falar apenas sobre seus projetos e compartilhar detalhes que não estão disponíveis ao público em geral com os amigos próximos e familiares em que confia]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-210px">
+			<text><![CDATA[Está correto.]]></text>
+			<text><![CDATA[Maria pode dizer a Pete como ela se sente em relação ao trabalho, mas não deve revelar as informações confidenciais da empresa, inclusive os detalhes sobre o novo produto ou seu lançamento.]]></text>
+			<text><![CDATA[O principal ponto é lembrar-se de NUNCA revelar os segredos comerciais ou outras informações confidenciais às pessoas não autorizadas de fora da empresa por nenhum motivo.]]></text>
+			<text><![CDATA[Sob condição alguma os amigos e familiares confiáveis devem saber os segredos comerciais que estão sendo usados ou a IP que está sendo desenvolvida pela Johnson Controls. ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-210px">
+			<text><![CDATA[Não está correto.]]></text>
+			<text><![CDATA[Maria pode dizer a Pete como ela se sente em relação ao trabalho, mas não deve revelar as informações confidenciais da empresa, inclusive os detalhes sobre o novo produto ou seu lançamento.]]></text>
+			<text><![CDATA[O principal ponto é lembrar-se de NUNCA revelar os segredos comerciais ou outras informações confidenciais às pessoas não autorizadas de fora da empresa por nenhum motivo.]]></text>
+			<text><![CDATA[Sob condição alguma os amigos e familiares confiáveis devem saber os segredos comerciais que estão sendo usados ou a IP que está sendo desenvolvida pela Johnson Controls. ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Der Umschlag enthält 300 USD Bargeld. Jian hat das Geschenk bereits abgelehnt und der Lieferant bestand darauf, dass er es behält. Was sollte er tun?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[Konferenzraum]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Das Bargeld behalten. Der Lieferantenauswahlprozess ist bereits abgeschlossen, also kann Jian in Bezug auf diesen Kunden keinen Einfluss mehr ausüben.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Das Bargeld nochmals ablehnen. Wenn der Lieferant aber einen Gutschein für Eduardos Lieblingsrestaurant in Höhe von 100 USD anbietet, diesen annehmen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Das Bargeld nochmals ablehnen, jedoch annehmen, wenn der Lieferant Jian zu einem Abendessen des Teams einlädt.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[In der Annahme, dass niemand es je herausfinden würde, behielt Jian das Bargeld.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Nachdem Jian hat das Geld zum zweiten Mal abgelehnt hatte, bestand der Lieferant darauf, dass er wenigstens einen Restaurantgutschein in Höhe von 100 USD annimmt.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian lehnte das Bargeld nochmals höflich ab, nahm aber an, als der Lieferant ihn zu einem Abendessen des Teams einlädt.]]></text>
+		</correct>
+	</feedback>
+</contents>

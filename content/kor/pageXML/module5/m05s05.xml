@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0"><![CDATA[여기에 어떻게 대응하시겠습니까? 한 개의 보기를 선택하고 '제출'하십시오.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[요청한 대로 기술 도면과 통합 지침서를 보내면 그것은 수출입니까?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s05/contentBackground.jpg" minwidth="769"><![CDATA[기술 도면]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[한 개의 보기를 선택하고 '제출'하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[아니요. 그 사람이 Johnson Controls 고객이면 수출이 아닙니다.]]></option>	
+		<option><![CDATA[예. 프랑스에 있는 고객에게 수출 통제된 기술 도면 및 통합 지침서를 보내는 것은 수출입니다.]]></option>	
+		<option><![CDATA[예. 하지만 그 사람이 이란과 같이 제한되는 국가에 있는 경우에만 그렇습니다.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[정답입니다.]]></text>
+			<text><![CDATA[제품 도면이나 지침서를 포함한 수출 통제된 기술 정보를 다른 나라의 사람에게 보내는 것은 사전 허가가 필요한 수출입니다.]]></text>
+			<text><![CDATA[여러분은 이를 명심하고, 수출하기 위해 어떤 허가가 필요한지 결정할 수 있도록 고객의 신원과 위치에 대해 더 자세히 알기 전까지는 그런 정보를 보내서는 안 됩니다.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[죄송합니다. 정답이 아닙니다.]]></text>
+			<text><![CDATA[제품 도면이나 지침서를 포함한 수출 통제된 기술 정보를 다른 나라의 사람에게 보내는 것은 사전 허가가 필요한 수출입니다.]]></text>
+			<text><![CDATA[여러분은 이를 명심하고, 수출하기 위해 어떤 허가가 필요한지 결정할 수 있도록 고객의 신원과 위치에 대해 더 자세히 알기 전까지는 그런 정보를 보내서는 안 됩니다.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

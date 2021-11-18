@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[Mark denkt na hoe hij de e-mail van de klant kan beantwoorden. Weet u hoe u de situatie zou moeten aanpakken? Selecteer een optie en dien vervolgens uw antwoord in.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Als u de klant om bijkomende informatie vraagt, zoals de naam van het bedrijf en zijn/haar functie, wordt uw e-mail dan beschouwd als een export en weet u waarom?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[Werknemer]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Duid een optie aan en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Ja, iedere e-mail is mogelijk een export aangezien servers zich in verschillende landen kunnen bevinden. Uw e-mail gaat dus mogelijk langs verschillende internationale grenzen.]]></option>	
+		<option><![CDATA[Ja, een e-mail met een verzoek om informatie voor iemand in een ander land is altijd een export omdat u persoonsgegevens ontvangt.]]></option>	
+		<option><![CDATA[Nee, het feit dat u de klant om bijkomende informatie vraagt, is geen export.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="height:190px" fcStyle="top: -180px;">
+			<text style="font-size:17px;"><![CDATA[Dat klopt.]]></text>
+			<text><![CDATA[Om zeker te zijn dat u de handelscontroles naleeft, moet u de e-mail van de klant beantwoorden om meer informatie te verkrijgen.]]></text>
+			<text><![CDATA[Het versturen van deze e-mail is echter geen export, tenzij u ook ontwerptekeningen, technologie of andere gecontroleerde productinformatie heeft gedeeld of bijgevoegd.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="height:190px" fcStyle="top: -180px;">
+			<text style="font-size:17px;"><![CDATA[Sorry, dit klopt niet.]]></text>
+			<text><![CDATA[Om zeker te zijn dat u de handelscontroles naleeft, moet u de e-mail van de klant beantwoorden om meer informatie te verkrijgen.]]></text>
+			<text><![CDATA[Het versturen van deze e-mail is echter geen export, tenzij u ook ontwerptekeningen, technologie of andere gecontroleerde productinformatie heeft gedeeld of bijgevoegd.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

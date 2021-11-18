@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c02s15">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c02/m10c02s15/contentBackground.jpg" minwidth="769"><![CDATA[检查清单]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[单击故事的各个阶段。]]></text>
+		<text><![CDATA[选择“下一步”重新考虑您的选择并重试。]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="107">			
+			<buttonText style=""><![CDATA[丹发送了一封电子邮件]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[丹给公司员工列表中的所有人都发送了一封电子邮件，随附艾玛房地产博客的链接。]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="126">
+			<buttonText style=""><![CDATA[艾玛发送了一封跟进邮件]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[艾玛跟进了群组邮件，感谢大家的支持，并向大家转达珊迪的情况。 很多人在博客评论栏中发送信息，祝福珊迪早日康复。 不少人向她的基金捐款。]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="129">
+			<buttonText style=""><![CDATA[艾玛发送了第二封有关其房地产博客的邮件]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[一个月后，艾玛又发送了一封含有她博客链接的群组邮件，其中强调了她在出售的最新一处房产，并承诺为有兴趣的 Johnson Controls 员工优先安排看房。]]></text>			
+			</popText>
+		</accordion>	
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="151">			
+			<buttonText style=""><![CDATA[后果]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[艾玛和丹均因不当使用员工电子邮件列表和侵犯员工隐私而遭到训斥。 艾玛不应该在博客中提供有关珊迪医疗状况的任何信息。 而且她不应该利用全公司邮件通讯渠道试图招揽生意。]]></text>				
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

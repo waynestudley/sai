@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s26">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[克里斯提议去附近有名的绅士俱乐部。 其他团队成员似乎有意前往。]]></text>
+		<text><![CDATA[卡洛斯应该如何回应？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s26/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[与克里斯和其团队一起去俱乐部，但坚持自己付钱，这样不至于过度接受克里斯的款待。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[出于礼貌一起喝一杯，避免克里斯尴尬，但确保短暂娱乐后就离开。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[婉言谢绝，然后回家。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[卡洛斯与克里斯及其团队一起前往夜店。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[卡洛斯与克里斯及其团队一起前往夜店，但很快便离开了。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[在俱乐部时，克里斯的一名团队成员也卷入其中。 有人报警处理，随后部分团队成员都必须出庭作证。]]></text>
+			<text><![CDATA[但卡洛斯在晚餐后就离开了，并没有前往俱乐部，因此没有卷入这起事件，也无须出庭作证。 他离开俱乐部的决定让他自己和 Johnson Controls 避免陷入难堪的处境。]]></text>
+		</correct>
+	</feedback>
+</contents>

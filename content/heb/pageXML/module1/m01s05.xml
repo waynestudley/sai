@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[מקרים רבים של ניגוד עניינים מתרחשים בקנה מידה קטן וברמה האישית. אך ישנם מקרים שבהם ניגוד העניינים מספיק גדול ומופיע בכותרות החדשות.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[רוב ניגודי העניינים מתרחשים בקנה מידה קטן ואישי יותר, אך חלקם מספיק גדולים כדי להופיע בחדשות.]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/rtl/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[לחץ על החץ לקבלת מידע נוסף.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top: 125px;" btnConStyle="top: 115px;">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/rtl/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[מנהל תיקי לקוחות מדבר עם חוקר של רשות ניירות הערך האמריקאית]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:380px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[כותרת: חברה לניהול נכסים שילמה 12 מיליון דולר כפיצוי על מקרה של ניגוד עניינים]]></text>
+				<text style="font-size:15px;"><![CDATA[Blackrock, חברה גדולה לניהול נכסים שילמה 12 מיליון דולר כפיצוי על מקרה של ניגוד עניינים עקב פעולותיו של אחד ממנהלי תיקי הלקוחות שלה.]]></text>
+				<text style="font-size:15px;"><![CDATA[רשות ניירות הערך האמריקנית הגישה תלונה לאחר שגילתה כי ברוקר שפיקח על קרנות אנרגיה של Blackrock הקים גם חברת נפט וגז בבעלות המשפחה באותו זמן. החברה המשפחתית יצרה שותפות עם חברה מקומית, והמניות של חברה מקומית זו היו האחזקה הגדולה ביותר בקרן שהברוקר ניהל.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/rtl/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[חבר בהנהלת בית חולים במסיבת עיתונאים]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[כותרת: חבר בהנהלת בית חולים נקנס באופן אישי בגובה 13,500 דולר]]></text>
+				<text style="font-size:15px;"><![CDATA[חבר בהנהלת בית החולים הציבורי בניו יורק סיטי נקנס באופן אישי בשל ניגודי עניינים שהתגלו בין תפקידו בהנהלה לבין תפקידו בבית ספר רפואי בגרנדה.]]></text>
+				<text style="font-size:15px;"><![CDATA[מועצת המנהלים המטפלת בניגודי עניינים בעיר גילתה כי הרופא עשה שימוש שגוי בתפקידו בהנהלה כדי לשדל בתי חולים בעיר להגדיל את מספר מקומות העבודה שיוצעו לסטודנטים מבית הספר הרפואי שבו הוא עבד.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/rtl/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[אדם שמביט במניות ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[כותרת: חברת JP Morgan שילמה 35 מיליון דולר לאחר שהעניקה ייעוץ שגוי במהלך עסקה]]></text>
+				<text style="font-size:15px;"><![CDATA[ענקית ההשקעות JP Morgan שילמה 35 מיליון דולר כפיצוי על פעולותיה במהלך המכירה של Good Technology ל- BlackBerry בסוף שנת 2015. ]]></text>
+				<text style="font-size:15px;"><![CDATA[בעלי המניות של Good Technology הואשמו כי החברה נמכרה מתחת לערך השוק שלה ו- JP Morgan עודדה את Good Technology לבצע מכירה זו מאחר שרצתה לזכות מעסקה עתידית של השקעה בנקאית על-ידי BlackBerry. בית המשפט הסכים והטיל על בעלי המניות עונש כבד.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

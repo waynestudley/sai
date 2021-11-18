@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle="padding:10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 6px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text style="position:relative;top:0px;line-height:18px;font-size:15px;"><![CDATA[Après avoir parlé à Nolan, Jian s’inquiète au sujet de la demande du fournisseur, d’autant plus qu’ils parlent ouvertement d’effectuer un paiement afin d’obtenir une autorisation plus rapidement. ]]></text>
+		<text style="position:relative;top:6px;line-height:18px;font-size:15px;"><![CDATA[Il s’est donc rendu à la direction des affaires juridiques. ]]></text>
+	</contentText>
+	<instructionText style="margin-top: 10px;">
+		<text><![CDATA[Cliquez sur chaque étape de l’histoire.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="8" y="265" width="178" />
+				<text><![CDATA[<span class="fontBold">Jian</span>]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="603" y="265" width="210" />
+				<text><![CDATA[<span class="fontBold">Li-Hua</span>, avocat]]></text>			
+			</stripCallOut>
+		</strip>		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="40" y="32" width="282" arrowStyle="top:62px;" />
+				<text><![CDATA[Je me sentais mal à l’aise par rapport à toute cette situation. TSR demandait de l’argent afin de pouvoir effectuer un paiement de facilitation, ce qui va totalement à l’encontre de la politique de Johnson Controls. Je suis allé voir nos avocats et je leur ai raconté toute l’histoire.]]></text>
+			</stripCallOut>
+		</strip>		
+		<strip id="3">
+			<stripThumImg numberText="3">
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="527" y="12" width="240"  />
+				<text style="margin-bottom:10px;"><![CDATA[Jian a fait le bon choix en refusant le paiement de facilitation et en nous faisant part de ses inquiétudes quant à la demande du fournisseur. Nous allons nous en occuper.]]></text>
+				<text><![CDATA[Nous avons également assuré à Jian qu’il existait une certaine souplesse dans la clause pénale du contrat avec le client. Les retards indépendants de notre volonté ne déclenchent pas de pénalités.]]></text>
+			</stripCallOut>
+		</strip>
+	</comicStrip>
+</contents>

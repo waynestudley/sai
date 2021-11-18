@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[Congratulazioni, hai superato con successo la verifica finale delle conoscenze.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[Sfortunatamente, non hai ancora superato la verifica finale delle conoscenze. ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Congratulazioni!]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Dipendenti di Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Dipendenti di Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[Fai clic su Home per tornare al menu principale. Di qui potrai accedere al tuo certificato di completamento del corso.]]></text>
+		<text><![CDATA[Fai clic su Home per tornare al menu principale.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[Con un punteggio pari al <b>##%</b>, hai superato la Verifica delle competenze per il: <span class="courseTitleAss" >Applicare il Codice etico: Corso </span>Lavorare con integrità.]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[Hai ottenuto un punteggio di <b>##%</b>, quindi non hai superato il corso.]]></text>
+		<text><![CDATA[Per superarlo, è necessario un punteggio di <span>#%</span>. Rivedi il programma e sostieni di nuovo la Verifica delle conoscenze.]]></text>
+	</feedbackFail>
+</contents>

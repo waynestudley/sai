@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[Parabéns, você passou pela verificação de conhecimento final com sucesso.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[Infelizmente, você ainda não foi aprovado no teste de conhecimento final. ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Parabéns!]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Funcionários da Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Funcionários da Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[Clique em Início para voltar ao menu principal. A partir daqui, você pode acessar seu certificado de conclusão de curso.]]></text>
+		<text><![CDATA[Clique em Início para voltar ao menu principal.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[Com uma pontuação de <b>Nº ##%</b>, você foi aprovado no teste de conhecimento do: <span class="courseTitleAss" >Aplicação do Código de Ética: Curso</span> Fazer negócios com integridade.]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[Com uma pontuação de <b>Nº ##%</b>, você não foi aprovado no curso.]]></text>
+		<text><![CDATA[Você precisa de uma pontuação de <span>#%</span> ou mais para ser aprovado. Visite o programa novamente e repita esse teste de conhecimento.]]></text>
+	</feedbackFail>
+</contents>

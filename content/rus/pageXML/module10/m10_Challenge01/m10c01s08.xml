@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s08">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle=""></contentBg>
+	<pageTitle style="margin-bottom: 6px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s08/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text style=""><![CDATA[Цзян только что привез жену из больницы домой. Во время приготовления обеда ему поступает срочный звонок от Нолана.]]></text>
+	</contentText>
+	<instructionText style="margin-top: 5px;">
+		<text><![CDATA[Щелкните каждый этап истории.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="10" y="250" width="305" />
+				<text><![CDATA[<span class="fontBold">Нолан</span>, менеджер по расчетам с поставщиками, Johnson Controls]]></text>			
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="558" y="245" width="268" />
+				<text><![CDATA[<span class="fontBold">Цзян</span>, менеджер по закупкам, Johnson Controls]]></text>
+			</stripCallOut>
+			
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="29" y="12" width="188" arrowStyle="top:60px" />
+				<text><![CDATA[Цзян, извини, что беспокою тебя дома, но TSR требует немедленно оплатить новый счет на сумму 1000 долл. США. Они говорят, что от этого зависит успех проекта. Тебе что-нибудь известно об этом?]]></text>
+			</stripCallOut>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="462" y="44" width="200" />
+				<text><![CDATA[TSR? Нет, я знаю, что это очень требовательный поставщик, но я точно не помню, над чем они сейчас работают.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="29" y="12" width="188" arrowStyle="top:110px" />
+				<text><![CDATA[Я говорил с поставщиком. Они говорят, что для завершения проекта нам необходимы разрешения, но государственные служащие на грани коллективно-трудового конфликта, который может затянуться на недели. Им необходимы гарантии того, что они получат свои разрешения до того, как это случится.]]></text>
+			</stripCallOut>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="469" y="55" width="200" arrowStyle="top:5px" />
+				<text><![CDATA[Их можно понять.]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripThumImg numberText="4">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_04.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="89" y="16" width="260" arrowStyle="top:66px" />
+				<text><![CDATA[Они также говорят о существовании пункта о штрафах в нашем контракте с клиентами — каждый день задержки обходится нам в 10 000 долл. США — так что в случае задержки сумма быстро увеличится.]]></text>
+			</stripCallOut>			
+		</strip>
+	</comicStrip>
+</contents>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m04s06">
+	<transcript>
+		<text path="audio/module4/m04s06" id="0"><![CDATA[En matière de protection des données personnelles, rappelez-vous qu’il faut : Limiter l’accès, Protéger, Supprimer.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Nos fournisseurs, nos clients et nos salariés accordent de l’importance à leur vie privée et s'attendent à ce que nous protégions leurs données. Lorsque nous traitons des données personnelles (collecte, copie, modification, stockage, suppression ou toute autre action), nous devons respecter trois principes clés : Limiter l’accès, Protéger, Supprimer. Examinez chaque panneau ci-dessous pour en savoir plus.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 7px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Cliquez sur chaque bouton pour en savoir plus. Faites défiler le texte pour lire toute la réponse si nécessaire.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[DÉVOILER]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img1.png" style=""><![CDATA[Salarié utilisant son téléphone et son ordinateur pour travailler sur des données personnelles]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Limiter l'accès]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Ne traitez les données personnelles que lorsque vous avez le consentement de la personne et lorsque les données sont nécessaires à une fin commerciale légitime. <ul><li>Ne collectez jamais les données personnelles sans fin commerciale claire et légitime.</li><li>Assurez-vous que toutes les données personnelles que vous collectez sont adéquates, pertinentes et non excessives au regard de la fin commerciale légitime. Ne collectez jamais plus de données personnelles que nécessaire.</li><li>Utilisez les données personnelles uniquement pour l’usage prévu.</li></ul>]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img2.png" style=""><![CDATA[Icône de cryptage]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Protéger]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Vérifiez que les données personnelles sont protégées contre les utilisations non autorisées et les pertes accidentelles, dommages ou destructions.<ul><li>Seuls les salariés et les sous-traitants ayant une raison professionnelle valable de les connaître peuvent accéder aux données personnelles.</li><li>Conservez uniquement des versions numériques des données dans la mesure du possible et protégez tous les fichiers contre une utilisation non autorisée en les cryptant ou en les sécurisant avec un mot de passe complexe. Les versions papier peuvent être déplacées ou accessibles plus facilement et doivent être limitées au maximum ou évitées si possible.</li><li>N’enregistrez jamais les données personnelles dans des fichiers ou dossiers partagés auxquels ont accès des personnes n’ayant ni le besoin ni le droit de les voir.</li><li>Évitez de conserver des versions électroniques sur de multiples sites sans maintenance organisée.</li></ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module4/m04s06/img3.png" style=""><![CDATA[Icône de corbeille sur un clavier]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Supprimer]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[Conservez les données personnelles uniquement pour la durée prescrite par la loi, ou aussi longtemps que cela est utile au regard des raisons commerciales initiales pour lesquelles elles ont été collectées.<ul><li>Examinez les données régulièrement pour vous assurer qu’elles sont à jour, exactes et toujours pertinentes au regard des fins commerciales pour lesquelles elles ont été collectées à l’origine.</li><li>Supprimez les données de manière sécurisée une fois que vous n’en avez plus besoin en les passant à la déchiqueteuse ou en les plaçant dans les corbeilles confidentielles jetables si elles sont disponibles sur votre site.</li></ul>]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s03">
+	<transcript>
+		<text path="audio/module6/m06s03" id="0"><![CDATA[¿Qué prohíben las leyes de competencia? Haga clic en cada botón de mostrar para leer más información.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Las leyes de competencia prohíben los acuerdos entre competidores que tengan un efecto en los precios o que limiten la libre elección de los clientes.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s03/contentBackground.jpg" minwidth="769"><![CDATA[Reunión entre competidores]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Haga clic en cada botón de mostrar para leer más información. Es posible que deba desplazarse para leer la respuesta completa.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[MOSTRAR]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s03/img1.png"><![CDATA[Imagen que muestra descuentos en los precios]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Fijación de precios]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[La fijación de precios consiste en un acuerdo entre dos o más competidores para establecer los precios de determinados bienes o servicios. Estos acuerdos siempre son ilegales.]]></text>						
+				<text><![CDATA[La fijación de precios se produce cuando usted y un competidor acuerdan lo siguiente: <ul> <li>mantener precios estables;</li> <li>adoptar una fórmula conocida para calcular los precios;</li> <li>atenerse a una tarifa mínima o a una lista de precios;</li> <li>eliminar o reducir los descuentos.</li> </ul>]]></text>						
+			</popText>
+			
+			
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s03/img2.png"><![CDATA[Competidores llegando a un acuerdo]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Manipulación de licitaciones]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[La manipulación de licitaciones es un acuerdo entre dos o más competidores mediante el cual determinan de antemano qué competidor ganará una licitación o concurso en particular.]]></text>					
+				<text><![CDATA[La manipulación de licitaciones se produce cuando usted y un competidor acuerdan lo siguiente: <ul> <li>No presentar ninguna oferta, o bien retirarse de una oferta ya presentada, a fin de que gane la propuesta del competidor (o la suya).</li> <li>Presentar ofertas que, a propósito, sean demasiado altas como para ganar, pero que den la apariencia de ser legítimas. Estas ofertas no se presentan para ganar, se presentan para perder de modo que gane su competidor, según lo convenido.</li> <li>Presentar ofertas, pero turnarse para ser el ofertante con el menor precio.</li> </ul>]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img3.png"><![CDATA[Competidores acordando no hacer negocios con un determinado proveedor]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Boicots grupales]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Los boicots grupales consisten en un acuerdo entre dos o más competidores para negarse a hacer negocios con un proveedor o cliente específico con el fin de disciplinar, castigar o perjudicar de otro modo al proveedor o cliente por sus acciones.]]></text>
+				<text><![CDATA[Los boicots grupales se producen si usted y un competidor acuerdan no trabajar con un determinado cliente como castigo por el hecho de que ese cliente haya elegido a otro competidor para un proyecto grande anterior.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img4.png"><![CDATA[Competidores acordando dividir clientes]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Asignación de mercados]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[La asignación de mercados es un acuerdo entre dos o más competidores para repartirse clientes o mercados.]]></text>			
+				<text><![CDATA[La asignación de mercados podría producirse si usted y un competidor acordaran trabajar con determinados clientes, por ejemplo:<ul><li>“Yo me quedo con el cliente A y tú te quedas con el cliente B”.</li><li>“Yo me quedo con los clientes del norte y tú te quedas con los del sur”.</li></ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img5.png"><![CDATA[Dos personas llegando a un acuerdo]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Acuerdos]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Las violaciones de las leyes antimonopolio o de competencia implican un “acuerdo”, pero ¿qué significa esto?]]></text>			
+				<text><![CDATA[Un acuerdo no se tiene que expresar por escrito para violar la ley. De hecho, podría tratarse de un acuerdo celebrado oralmente. Es más, una práctica concertada o un determinado patrón de conducta es suficiente como para que se clasifique como un acuerdo.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

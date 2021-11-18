@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[คาร์ลอสรู้สึกกดดันที่จะต้องบำรุงรักษาอุปกรณ์ไม่งั้นก็อาจพลาดสัญญาสำหรับอาคารใหญ่มาก คาร์ลอสควรทำอย่างไร]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[รับเงินและบำรุงรักษาอุปกรณ์เพื่อที่จอห์นสัน คอนโทรลส์จะไม่พลาดสัญญาโครงการใหญ่อื่น ๆ แต่ราฟาเอลทราบว่านี่เป็นการเจรจาเพียงครั้งเดียว]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[ไม่รับเงิน แต่ยังคงซ่อมบำรุงอุปกรณ์เพื่อไม่ให้จอห์นสัน คอนโทรลส์พลาดสัญญาอาคารโครงการใหญ่]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[ขอจบสนทนาและโทรหาผู้จัดการ]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[คาร์ลอสยอมรับเงินจากราฟาเอลและซ่อมบำรุงอุปกรณ์ที่ติดตั้งไม่ถูกต้อง จอห์นสัน คอนโทรลส์ได้สัญญาอาคาร]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[คาร์ลอสทำงานเสร็จแต่ไม่รับเงินจากราฟาเอล]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[คาร์ลอสโทรขอคำปรึกษาจากผู้จัดการของเขา]]></text>
+			<text style=""><![CDATA[ผู้จัดการของคาร์ลอสแนะนำให้เขากับทีมงานกลับ เมื่อคาร์ลอสกลับมาถึงสำนักงาน พวกเขาโทรหาฝ่ายกำกับดูแลการปฏิบัติตามกฎพร้อมกัน ]]></text>
+			<text style=""><![CDATA[การสอบสวนเริ่มขึ้น และพบว่าราฟาเอลเคยให้ข้อเสนอหลายครั้ง และช่างเทคนิคคนอื่นของจอห์นสัน คอนโทรลส์ รับสินบน บริษัทดำเนินการทางวินัยต่อช่างเทคนิคเหล่านี้ ]]></text>
+		</correct>
+	</feedback>
+</contents>

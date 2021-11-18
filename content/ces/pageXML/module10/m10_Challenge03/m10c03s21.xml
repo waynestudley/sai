@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Obálka obsahuje 250 USD v hotovosti. Carlos již dar odmítl, ale dodavatel trvá na svém. Co by měl udělat?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Ponechat si hotovost, ale rozdělit se s týmem tak, aby nikdo neobdržel velkou částku.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Znovu odmítnout hotovost.  Chris reaguje tím, že pozve Carlose, aby spolu s ním a týmem šel do sportovního baru sledovat důležitý zápas, a Carlos nabídku přijme.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Znovu odmítnout hotovost a <span class="fontBoldItalic" >odmítnout</span> i Chrisovu nabídku, aby spolu s ním a týmem šel do sportovního baru sledovat důležitý zápas.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos se o hotovost rozdělil se svým týmem, aby tím zajistil, že nikdo nedostane částku přesahující limit společnosti Johnson Controls pro dary. O řadu měsíců později však jiná společnost zahájila vyšetřování obvinění, že daný subdodavatel používá nevhodné dary k získání následných zakázek.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Když Carlos podruhé odmítl hotovost, Chris si uvědomil, že to myslí vážně, a nabídku změnil. Místo toho pozval Carlose, aby spolu s ním a týmem šel do sportovního baru sledovat důležitý zápas.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Když Carlos podruhé odmítl hotovost a poté odmítl i Chrisovo pozvání, aby s týmem šel do sportovního baru sledovat důležitý zápas, Chris si uvědomil, že to myslí vážně, a přestal na svém pozvání trvat.]]></text>
+		</correct>
+	</feedback>
+</contents>

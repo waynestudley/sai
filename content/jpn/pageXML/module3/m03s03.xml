@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m03s03">
+	<transcript>
+		<text path="audio/module3/m03s03" id="0"><![CDATA[賄賂は、常に現金のやり取りの様相を見せるわけではありません。 それぞれの開示ボタンをクリックして詳細を確認してください。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px;font-size:14px;line-height:16px;"><![CDATA[賄賂に対するあなたの理解を確認しましょう。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s03/contentBackground.jpg" minwidth="769"><![CDATA[影になっている人物]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[それぞれの開示ボタンをクリックして詳細を確認してください。 回答すべてを読むにはスクロールの必要がある場合があります。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[開示]]></text>
+	</buttonText>	
+	<flipCardContent width="230px">
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img1.png" style=""><![CDATA[賄賂の授受は、いつ起こるのでしょう?]]></buttonImg>
+			<buttonText style=""><![CDATA[賄賂の授受は、いつ起こるのでしょう?]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[<span class="fontBold">賄賂</span>は、誰かの判断や行動に不適切に影響を与える意図で何らかの高価なものをその者に与える際、発生します。]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img2.png" style=""><![CDATA[別の茶封筒を渡している人物]]></buttonImg>
+			<buttonText style=""><![CDATA[「何らかの価値あるもの」とは何を指すのでしょう?]]></buttonText>		
+			<popText style="">
+				<text><![CDATA[現金を含みますが、次のようなものも含まれる場合があります。<ul> <li>会社の株式</li> <li>贈答品や心づけ</li> <li>過度な接待やもてなし</li> <li>正当な出張に関連付けられている場合であっても、観光やバカンス</li> <li>不当なリベートや過度のコミッション</li> <li>政治献金または慈善的寄付</li> <li>お客様、家族や友人への仕事の提供</li> <li>通常とは異なる、または偽装された手当と費用</li> <li>受領側にとって価値のあるあらゆるもの</li> </ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img3.png" style=""><![CDATA[別の茶封筒を渡している人物]]></buttonImg>
+			<buttonText style=""><![CDATA[賄賂は、あらゆる場所で禁止されていますか?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[<ul> <li>世界中の多くの国々では、賄賂を禁じる法律を強化しています – 歴史的に賄賂が広く行き渡っていたような国であってもそうです。</li> <li>当社規定では、当社が取引を行っているあらゆる国において賄賂を禁じています。多国籍企業として、一国における当社の行動が、当社が事業を行うその他の場所の状況を強化することになります。</li> <li>世界中の多くの司法管轄で、賄賂は犯罪行為であり、個人に対しても賄賂の企図に関与したことで告訴され裁判にかけられ判決が言い渡される場合があります。</li> </ul>]]></text>		
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img4.png" style=""><![CDATA[別の茶封筒を渡している人物]]></buttonImg>
+			<buttonText style=""><![CDATA[あなたが賄賂の授受を行うのは、重大事ですか?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[多くの司法管轄において、賄賂を渡すのも受け取るのも違法です。 Johnson Controls規定では、あらゆる種類の賄賂の授受を禁じています。]]></text>			
+			</popText>
+		</flipCard>		
+	</flipCardContent>	
+</contents>

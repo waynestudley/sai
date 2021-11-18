@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[政府與監管機構會嚴厲對待賄賂行為。 這就是為何我們要積極避免發生賄賂行為。 您能將左欄的行為與右欄的後果作配對嗎？]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[當某人涉及賄賂與貪腐時，公司會如何？]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[辦公室]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[提交]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[由第一欄點選項目，然後拖曳箭頭連接到第二欄中相對應的後果。 在您完成時，按「提交」。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[行為]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[員工給予某人實習機會 ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[摩根大通亞太地區的投資銀行執行一項專案，提供工作及實習機會給包括政府官員在內潛在客戶的親戚朋友。 ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[收賄的政府官員 ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[一家生產銅纜、鋁纜與光纖電纜的國際大公司的子公司，支付數百萬美元給第三方代理商及分銷商。 其中部分金錢是用來賄賂政府官員以獲得業務，讓公司獲利 5100 萬美元。]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[後果]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[公司被勒令支付 7600 萬美元，兩名知悉賄賂情事的主管必須償還百萬元。 ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[持小木槌的法官]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ 美國政府發現該公司「涉及系統性賄賂計劃」，取得重大商業回報。 公司被勒令支付 2 億 6400 萬美元。]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[由法院大樓看美國國會大樓]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[賄賂與貪腐的後果可以很嚴重，無論對於個人或公司皆如此，可能包括罰款或入獄。  Johnson Controls 仰賴您的每一步，隨時避免賄賂行為，並立即呈報任何可疑行為。]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[賄賂與貪腐的後果可以很嚴重，無論對於個人或公司皆如此，可能包括罰款或入獄。  Johnson Controls 仰賴您的每一步，隨時避免賄賂行為，並立即呈報任何可疑行為。]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

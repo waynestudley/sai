@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="flipCard" className="m04s06">
+	<transcript>
+		<text path="audio/module4/m04s06" id="0" ><![CDATA[When it comes to protecting personal data, remember: Limit, Guard, Delete.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="margin-bottom:0px"><![CDATA[Our suppliers, customers and employees value their privacy and expect us to protect their data. When we process personal data, such as collecting, copying, amending, storing, deleting or taking any other action with it, we must uphold three key principles: Limit, Guard, Delete. Review each panel below to learn more.]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module4/m04s06/contentBackground.jpg"  minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Click on each reveal button to learn more. You may need to scroll to read the full answer.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<buttonText >
+		<text><![CDATA[REVEAL]]></text>
+	</buttonText>	
+	<flipCardContent >
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img1.png" style="" ><![CDATA[Employee on phone and laptop working with personal data]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Limit]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Only process personal data when you have the person’s consent and when the data is necessary for a legitimate business purpose. <ul><li>Never collect personal data without a clear and legitimate business purpose for the data.</li><li>Make sure any personal data you collect is adequate, relevant and not excessive for the business purpose. Never gather more personal data than you need.</li><li>Use personal data only for the stated purpose for which it was gathered.</li></ul>]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img2.png" style="" ><![CDATA[Encryption icon]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Guard]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Make sure personal data is protected from unauthorized use and accidental loss, damage or destruction.<ul><li>Only authorized employees and contractors with a valid work-related need may access personal data.</li><li>Keep only soft copies of the data where possible and protect any files from unauthorized use by encrypting or securing them with a strong password. Hard copies could be misplaced or accessed more easily and should be kept to a minimum or avoided where possible.</li><li>Never save personal data to shared files or directories where people without the need or authority to see them may access them.</li><li>Avoid keeping electronic records in multiple locations with no consistency of maintenance.</li></ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module4/m04s06/img3.png" style="" ><![CDATA[Trash can icon on keyboard]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Delete]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[Keep personal data only as long as required by law or as is relevant to the original business reason for which it was collected.<ul><li>Review data periodically to ensure it is up-to-date, accurate and still relevant to the business purposes for which it was originally collected.</li><li>Dispose of data in a secure manner once it is no longer needed by shredding or placing it in the confidential disposal bins if provided in your location.</li></ul>]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Čo by mala Ingrid urobiť?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s17/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Zvoľte jednu možnosť a potom vyberte tlačidlo OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Súhlasiť s Davidovou schémou a vytvoriť falošné objednávky, ktoré mu umožnia kúpiť nejaké vybavenie.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Odmietnuť účasť na schéme a oznámiť Davidove konanie oddeleniu dodržiavania predpisov a povedať im, čo vie.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[David a Ingrid aj naďalej pokračujú v spolupráci a bočný biznis sa rozrastá.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[David na to nadáva, ale prestane robiť bočné zákazky pre klientov spoločnosti Johnson Controls. ]]></text>
+		</correct>
+	</feedback>
+</contents>

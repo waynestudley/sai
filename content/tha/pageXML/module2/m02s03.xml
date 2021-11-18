@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[ขอบเขตใดที่คุณคุ้นเคยเกี่ยวกับนโยบายบริษัทเรื่องของขวัญและความบันเทิงของเรา เลือก "ถูก" หรือ "ผิด" ในแต่ละตัวเลือกที่นี่ จากนั้นคลิกส่ง]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[ลูกจ้าง]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[ประโยคต่อไปนี้เกี่ยวกับของกำนัลและความบันเทิงเป็นสิ่งที่ถูกหรือผิด]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[เลือก "ถูก" หรือ "ผิด" ในแต่ละตัวเลือกที่นี่ จากนั้นคลิกส่ง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[บุคคลที่รับของกำนัลโดยมีความบันเทิงอยู่เป็นฉากหลัง]]></img>
+			<text style="width: 390px;"><![CDATA[นโยบายของจอห์นสัน คอนโทรลส์ ครอบคลุมทุกสถานการณ์เกี่ยวกับของกำนัลและความบันเทิง: จะไม่มีความคลุมเครือใด ๆ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[พนักงานที่กำลังครุ่นคิด]]></img>
+			<text style="width: 390px;"><![CDATA[เมื่อคุณกำลังรับความบันเทิงหรือของกำนัล คุณควรถามตนเองเสมอว่า: “พวกเขาหวังอะไรจากฉันเป็นการตอบแทนหรือเปล่า” ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[พนักงานที่กำลังครุ่นคิด]]></img>	
+			<text style="width: 390px;"><![CDATA[หากบุคคลที่คุณให้ของกำนัลหรือความบันเทิงคิดว่าคุณคาดหวังอะไรเป็นการตอบแทน คุณก็ไม่ควรดำเนินการต่อ]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[พนักงานที่กำลังครุ่นคิด]]></img>	
+			<text style="width:390px;"><![CDATA[ไม่ให้หรือรับของกำนัลและความบันเทิงเลยเป็นเรื่องดีที่สุด เพราะว่าเสี่ยงเกินไป]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[ถูก]]></text>
+		<text><![CDATA[ผิด]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[ถูกต้อง]]></text>			
+			<text style="font-size: 14px;"><![CDATA[การมอบหรือรับความบันเทิงและของกำนัลในสถานการณ์ที่ถูกต้องเป็นเรื่องยอมรับได้ แต่ต้องอาศัยการตัดสินใจและความเข้าใจต่อคำแนะนำของจอห์นสัน คอนโทรลส์ เป็นอย่างดี]]></text>			
+			<text style="font-size: 15px;"><![CDATA[นโยบายของเราไม่สามารถครอบคลุมได้ทุกสถานการณ์ ดังนั้นคุณจึงต้องพิจารณาแต่ละสถานการณ์อย่างรอบคอบ ใช้การตัดสินใจ หรือขอคำแนะนำก่อนการดำเนินการหากไม่แน่ใจ]]></text>			
+		</correct>
+		<incorrect style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[ไม่ถูกต้อง]]></text>	
+			<text style="font-size: 14px;"><![CDATA[การมอบหรือรับความบันเทิงและของกำนัลในสถานการณ์ที่ถูกต้องเป็นเรื่องยอมรับได้ แต่ต้องอาศัยการตัดสินใจและความเข้าใจต่อคำแนะนำของจอห์นสัน คอนโทรลส์ เป็นอย่างดี]]></text>			
+			<text style="font-size: 14px;"><![CDATA[นโยบายของเราไม่สามารถครอบคลุมได้ทุกสถานการณ์ ดังนั้นคุณจึงต้องพิจารณาแต่ละสถานการณ์อย่างรอบคอบ ใช้การตัดสินใจ หรือขอคำแนะนำก่อนการดำเนินการหากไม่แน่ใจ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

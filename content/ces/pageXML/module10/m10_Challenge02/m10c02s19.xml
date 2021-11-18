@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Tom žádá Emmu, aby mu poskytla adresy známých osobností z řad zákazníků společnosti Johnson Controls. Tom nabízí Emmě podíl na zisku, pokud mu adresy poskytne. Co by měla Emma udělat?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Jasně Tomovi sdělit, že nechce žádnou platbu, ale seznam mu poskytnout.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Odmítnout Tomovi poskytnout seznam adres, ale raději to nikomu neříci, aby to nevypadalo, že je do celé věci zapletená.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Odmítnout Tomovi poskytnout seznam adres a nahlásit situaci nadřízenému.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Pokud Emma souhlasí a poskytne Tomovi adresy, vystavuje tím sebe i jeho riziku, a to i když od něj nepřijme část zisku.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma jednala správně, když Tomovi odmítla poskytnout seznam adres, ale měla si uvědomit, že i jeho žádost je problematická.]]></text>
+			<text><![CDATA[Emma by se měla obrátit na svého nadřízeného nebo na právní oddělení – bude-li Tom v těchto aktivitách pokračovat, může to pro společnost znamenat riziko porušení důvěrnosti informací.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma jednala správně, když Tomovi odmítla poskytnout seznam adres a také když jeho žádost nahlásila nadřízenému. Pokud by Tomovi bývala požadované údaje poskytla, porušila by tím soukromí zákazníků. Navíc tím, že promluvila, pomohla společnosti předcházet podobným situacím.]]></text>
+		</correct>
+	</feedback>
+</contents>

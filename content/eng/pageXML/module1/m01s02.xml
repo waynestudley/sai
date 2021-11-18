@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="revealCallOut2" className="m01s02">
+	<transcript>
+		<text path="audio/module1/m01s02" id="0" ><![CDATA[It’s important to consider how a situation might look to an outsider. Could it look like you were influenced by preferential treatment or favoritism? If so, it might be a conflict. Here are some situations where conflicts can come up.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Here are some common situations that create conflicts of interest:]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module1/m01s02/contentBackground.jpg"  minwidth="769" ><![CDATA[Co-workers in conversation]]></img>
+	</contentBackground>	
+	 <contentBg style="" ></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;" >
+		<text><![CDATA[Select each heading. To read the next, click the X to close the text box.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<revealCallOutContent >
+		<revealCallOut width="230px" height="230px" top="-10px" left="20px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module1/m01s02/btn1.png" minwidth="769" ><![CDATA[Family member being interviewed]]></img>
+			<buttonText style="height: 100px;font-size:14px;" ><![CDATA[A friend or family member works – or wants to work – for Johnson Controls.]]></buttonText>
+			<popupArrow style=""/>
+			<popText showHeader="true"  arrowleft="90px" style="height: 230px;top: -230px;">
+				<text><![CDATA[If a friend or relative works or applies for work at Johnson Controls, that’s not automatically a conflict of interest.]]></text>						
+				<text><![CDATA[However, if you have the authority to make or influence decisions that could affect their position – like hiring, raises, bonuses, job promotions, etc. – then this does create a conflict and must be disclosed.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="230px" top="-10px" left="263px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module1/m01s02/btn2.png" minwidth="769" ><![CDATA[Family member working with Johnson controls supplier]]></img>
+			<buttonText style="height: 100px;font-size:14px;" ><![CDATA[A friend or family member works for one of Johnson Controls’ vendors, suppliers, clients or competitors.]]></buttonText>
+			<popupArrow style=""/>
+			<popText showHeader="true"  arrowleft="400px" style="height: 230px;top: -230px;">
+				<text><![CDATA[This situation is a potential conflict of interest and must be disclosed.]]></text>
+				<text><![CDATA[It’s likely you will also have to stay removed from any business decisions that concern Johnson Controls and the company for whom your friend or relative works.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="230px" top="-10px" left="505px" ticktop="5px" tickleft="3px" >
+			<img path="content/images/ltr/module1/m01s02/btn3.png" minwidth="769" ><![CDATA[Stock Traders making a family member’s trade]]></img>
+			<buttonText style="height: 100px;font-size:14px;" ><![CDATA[You have, or a member of your immediate family has a large financial stake in a client, supplier or competitor.]]></buttonText>
+			<popupArrow style=""/>
+			<popText showHeader="true"  arrowleft="760px" style="height: 230px;top: -230px;">
+				<text><![CDATA[Investing in an outside company is not generally a conflict of interest, unless you have a significant interest in one of Johnson Controls’ clients, suppliers or competitors. When your personal financial gains (or those of a member of your immediate family) are affected by Johnson Controls’ decisions and actions, this creates a potential conflict of interest that needs to be disclosed.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="230px" top="-10px" left="749px" ticktop="5px" tickleft="3px" >
+			<img path="content/images/ltr/module1/m01s02/btn4.png" minwidth="769" ><![CDATA[Employee talking with manager about potential job conflict]]></img>
+			<buttonText style="height: 100px;font-size:14px;" ><![CDATA[You work for another company outside of Johnson Controls.]]></buttonText>
+			<popupArrow style=""/>
+			<popText showHeader="true"  arrowleft="760px" style="height: 230px;top: -230px;">
+				<text><![CDATA[Outside employment by itself is not prohibited, but it can become a conflict of interest in certain instances, for example if:<ul> <li>Your responsibilities outside of Johnson Controls affect your job responsibilities or performance at Johnson Controls.</li> <li>Your outside position requires the use of Johnson Controls property, information or connections.</li> <li>You hold a position with a vendor, supplier, client or customer of Johnson Controls.</li> <li>You support a Johnson Controls competitor directly or indirectly.</li> </ul>]]></text>			
+				<text><![CDATA[In these situations, you must report your employment – or potential employment – to Johnson Controls in order to obtain permission to continue.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="reveal2">
+	<transcript>
+		<text path="audio/module8/m08s07" id="0"><![CDATA[어떤 종류의 정보를 기밀로 유지해야 할까요? 다음은 몇 가지 예입니다. 그러나 여기에 나열되지 않은 다른 유형의 기밀 정보도 있습니다. 각 제목을 클릭하여 여러분의 이해 수준을 확인하십시오.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:635px;margin-bottom:0px;font-size:15px;"><![CDATA[기밀 정보는 다양한 형태를 취할 수 있습니다. 기밀 정보는 글로 적거나, 구두로 전달되거나, 데이터베이스에 저장될 수 있습니다. 중요한 것은 전달되는 내용입니다.]]></text>			
+	</contentText>
+	<pageTitle style="width: 635px;margin-bottom: 5px;"></pageTitle>
+	<instructionText style="width: 635px;">
+		<text><![CDATA[각 제목을 선택하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s07/contentBackground.jpg" minwidth="769"><![CDATA[디지털 정보]]></img>
+	</contentBackground>
+	<popupBackground>
+		<img path="content/images/ltr/module8/m08s07/img_01.png"><![CDATA[]]></img>
+	</popupBackground>
+	<tabHolder style=""></tabHolder>
+	<tabs style="">
+		<tab id="1" type="callOut" style="">
+			<tabName><![CDATA[사업 계획 또는 전략]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup1.png"><![CDATA[]]></img>
+			</backgroungImg>
+			<tabText style="width: 268px;">
+				<text style="font-size:15px;"><![CDATA[우리 비즈니스에 관한 미래 전망 정보를 보호하십시오. 경쟁업체들이 우리의 계획을 알게 되면 그들은 큰 이점을 갖게 될 수 있습니다.]]></text>
+			</tabText>
+		</tab>		
+		<tab id="2" type="planeText" style="top: 32px;">
+			<tabName><![CDATA[미공개 금융 정보]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup2.png"><![CDATA[승인 절차를 따르는 직원]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[Johnson Controls의 재무 실적이나 가격 책정에 대한 비공개 정보를 기밀로 취급하십시오. 여기에는 잠재적 인수에 대한 정보가 포함됩니다. 우리 회사는 금융 정보를 공개하고 공유할 때 엄격한 규칙을 따라야 합니다. 왜냐하면 그것은 투자자들이 우리 회사를 바라보는 시각을 바꿀 수 있기 때문입니다.]]></text>
+				</tabText>
+		</tab>		
+		<tab id="3" type="planeText" style="top: 59px;">
+			<tabName><![CDATA[고객 또는 시장 정보]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup3.png"><![CDATA[정부 공무원]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[고객 목록, 고객 계약서, 시장 점유율 데이터, 공급업체 계약서 및 이와 유사한 정보를 보호하십시오. 여기에는 우리 비즈니스에 대한 중요한 내부 지식이 포함되어 있으며, 다른 사람이 그것을 알게 되면 우리의 경쟁 우위가 약화될 수 있습니다.]]></text>
+				</tabText>
+		</tab>	
+		<tab id="4" type="planeText" style="top: 82px;">
+			<tabName><![CDATA[제품 또는 기술 정보]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup4.png"><![CDATA[승인 양식을 작성하는 직원]]></img>
+			</backgroungImg>
+			<tabText style="width:255px;">
+				 <text style="font-size:15px;"><![CDATA[회사로서의 우리의 가치는 제품과 노하우에서 나옵니다. 소프트웨어 소스 코드, 제품 도면, 기술 매뉴얼 및 연구 개발 자료는 주의 깊게 보호해야 합니다.]]></text>
+				</tabText>
+		</tab>
+	</tabs>	
+</contents>

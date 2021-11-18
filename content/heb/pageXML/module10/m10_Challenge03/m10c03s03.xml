@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[איתי חש שמפעילים עליו לחץ לטפל בהתקנים או להסתכן באובדן של מספר רב של חוזים בבניין גדול מאוד. מה איתי צריך לעשות?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[לקבל את הכסף ולטפל בהתקנים כדי שחברת Johnson Controls לא תאבד חוזים גדולים אחרים בבניין, אך להודיע לרפי שזו עסקה חד פעמית.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[לא לקבל את הכסף אך עדיין לטפל בהתקנים כדי ש-Johnson Controls לא תאבד חוזים גדולים אחרים בבניין.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[להתנצל ולהפסיק את השיחה, ולהתקשר למנהל שלו.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[איתי מקבל את הכסף מרפי ומטפל בהתקנים שהותקנו באופן שגוי. Johnson Controls שומרת לעצמה את החוזים בבניין.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[איתי מבצע את העבודה אך אינו מקבל כסף מרפי.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[איתי מתקשר למנהל שלו כדי להתייעץ.]]></text>
+			<text style=""><![CDATA[המנהל של איתי מבקש ממנו לעזוב את המקום עם הצוות שלו. כאשר איתי חוזר למשרד, הם מתקשרים יחד למחלקת התאימות. ]]></text>
+			<text style=""><![CDATA[נפתחת חקירה, ונמצא שרפי הציעה הצעה כזו כמה פעמים בעבר, וטכנאים אחרים של Johnson Controls קיבלו את השוחד. החברה נוקטת צעדים משמעתיים נגד טכנאים אלה. ]]></text>
+		</correct>
+	</feedback>
+</contents>

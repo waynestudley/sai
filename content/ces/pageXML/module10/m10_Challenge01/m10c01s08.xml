@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s08">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle=""></contentBg>
+	<pageTitle style="margin-bottom: 6px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s08/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text style=""><![CDATA[Jian právě přivezl manželku domů z nemocnice a připravuje večeři, když mu zatelefonuje Nolan s naléhavou záležitostí.]]></text>
+	</contentText>
+	<instructionText style="margin-top: 5px;">
+		<text><![CDATA[Klikněte na jednotlivé fáze příběhu.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="10" y="250" width="305" />
+				<text><![CDATA[<span class="fontBold">Nolan</span>, manažer závazků společnosti Johnson Controls]]></text>			
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="558" y="245" width="268" />
+				<text><![CDATA[<span class="fontBold">Jian</span>, manažer nákupu společnosti Johnson Controls]]></text>
+			</stripCallOut>
+			
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="29" y="12" width="188" arrowStyle="top:60px" />
+				<text><![CDATA[Omlouvám se Jiane, že vás obtěžuji mimo kancelář, ale společnost TSR požaduje okamžité uhrazení nové faktury na 1 000 USD. Říkají, že na tom závisí úspěch projektu. Víte o tom něco?]]></text>
+			</stripCallOut>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="462" y="44" width="200" />
+				<text><![CDATA[TSR? Ne. Vím, že jsou jedním z hlavních dodavatelů, ale nejsem si jistý, na čem aktuálně pracují.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="29" y="12" width="188" arrowStyle="top:110px" />
+				<text><![CDATA[Mluvil jsem s dodavatelem. Říkají, že k dokončení projektu potřebujeme povolení, ale státní zaměstnanci chystají stávku, která by mohla trvat i několik týdnů. Chtějí zajistit, aby byla povolení do té doby vyřízena.]]></text>
+			</stripCallOut>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="469" y="55" width="200" arrowStyle="top:1px" />
+				<text><![CDATA[To je rozumné.]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripThumImg numberText="4">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_04.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="89" y="16" width="260" arrowStyle="top:66px" />
+				<text><![CDATA[Říkají také, že naše smlouva se zákazníkem obsahuje sankční ujednání – každý den zpoždění nás stojí 10 000 USD – a pokud se tedy kvůli chybějícím povolením zpozdíme, může se nám to rychle prodražit.]]></text>
+			</stripCallOut>			
+		</strip>
+	</comicStrip>
+</contents>

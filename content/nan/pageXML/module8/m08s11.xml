@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0"><![CDATA[保密協議之類的法律協議，是確保分享資訊的對象會保護資訊安全的一種方式。 按一下每個「顯示」按鈕以瞭解詳情。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[保密協議 (或稱 NDA) 可以有效確保與第三方分享的資訊不致外洩。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg" minwidth="769"><![CDATA[文件]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[按一下每個「顯示」按鈕以瞭解詳情。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[顯示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style=""><![CDATA[保密協議]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[何時使用]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[如果您和任何公司外部人士分享機密資訊，請使用 NDA。 在簽署 NDA 之前，切勿揭露機密資訊！ Johnson Controls 法務部門可提供適用不同情況的範本。]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style=""><![CDATA[檢閱保密協議的人]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[使用其他 NDA]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[有時外部公司可能會提供它們自己的 NDA。 請勿接受。 只有經法務部門審查並核准後，我們才能接受；因為第三方的 NDA 旨在保護第三方的利益，而非我們的利益。]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style=""><![CDATA[主管向員工解釋 NDA 的使用]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[我們同意 NDA 時]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[我們有時可能會簽署 NDA 以保護其他公司的資訊。 若是如此，我們一定要採取必要步驟以善盡相關責任，以免被控告違約。 確保所有處理資訊的員工都瞭解我們有保護資訊的義務。]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

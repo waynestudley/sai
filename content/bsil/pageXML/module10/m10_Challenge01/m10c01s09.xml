@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[Um fornecedor importante pediu um pagamento imediato. O que você acha que Jian deve fazer? Selecione uma opção e clique em OK.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Jian está sendo pressionado para aprovar um pagamento imediato da fatura de um fornecedor, e o sucesso do projeto pode depender disso.]]></text>
+		<text><![CDATA[O que ele deve fazer?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[Jian ao telefone com Nolan em sua cozinha]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Escolha uma opção e selecione OK.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Falar para Nolan aprovar o pagamento. Parece sensato gastar USD 1000 para evitar gastar ainda mais com multas por atraso na entrega.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Falar para Nolan não aprovar o pagamento até saber mais sobre o uso do dinheiro em relação às licenças.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian fala para o Departamento Contábil pagar a fatura. Parece ser a melhor maneira de manter o projeto dentro do cronograma e é mais barato do que a multa do cliente.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Depois de falar com Nolan, Jian está preocupado com a solicitação do fornecedor.]]></text>
+		</correct>
+	</feedback>
+</contents>

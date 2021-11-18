@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0"><![CDATA[Les accords juridiques tels que les accords de confidentialité constituent un moyen de s'assurer que les personnes avec lesquelles nous partageons des informations les protègent. Cliquez sur chaque bouton pour en savoir plus.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Les accords de confidentialité, ou NDA, sont un moyen efficace de s'assurer que les informations confidentielles partagées avec un tiers restent confidentielles.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg" minwidth="769"><![CDATA[Documents]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Cliquez sur chaque bouton pour en savoir plus.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[DÉVOILER]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style=""><![CDATA[Accord de confidentialité]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Quand les utiliser]]></buttonText>
+			<popText style="height:188px;">
+				<text style="line-height: 20px;font-size: 16px;"><![CDATA[Utilisez un NDA lorsque vous partagez des informations confidentielles avec une personne extérieure à l’entreprise. Ne divulguez jamais des informations confidentielles avant que l'accord de confidentialité ne soit signé. Le service juridique de Johnson Controls peut fournir des modèles adaptés à différentes situations.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style=""><![CDATA[Personne examinant un accord de confidentialité]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Utiliser d'autres NDA]]></buttonText>	
+			<popText style="height:188px;">
+				<text style = "font-size: 16px;"><![CDATA[Parfois, les entreprises extérieures peuvent proposer d’utiliser leurs propres NDA. N'acceptez pas. Nous pouvons les accepter uniquement sous réserve d’examen légal et d'approbation, puisque ces NDA appartenant à des tiers seront rédigés pour protéger les intérêts de ces tiers, et non les nôtres.]]></text>				
+			</popText>
+
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style=""><![CDATA[Superviseur expliquant les utilisations des NDA à un salarié]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Lorsque nous acceptons les NDA]]></buttonText>
+			<popText style="height:188px;">
+				<text style="font-size: 15px;"><![CDATA[Parfois, nous pouvons signer un NDA pour protéger les informations d'une autre entreprise. Dans ce cas, nous devons absolument respecter les étapes nécessaires pour nous conformer à nos responsabilités, sous peine d’être poursuivis pour une violation de l’accord. Vérifiez que toute personne travaillant avec les informations est consciente de nos obligations concernant leur protection.]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

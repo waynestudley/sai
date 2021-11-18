@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="flipCard" className="m06s06">
+	<transcript>
+		<text path="audio/module6/m06s06" id="0" ><![CDATA[What else can be done to avoid market abuse? Click on each reveal button to learn more.]]></text>		
+	</transcript>
+	<contentText >
+		<text style=""><![CDATA[When we have a dominant position, we need to avoid actions or strategies that could be considered abuse of that position.]]></text>
+	</contentText>
+	
+	<contentBackground >
+		<img path="content/images/ltr/module6/m06s06/contentBackground.jpg"  minwidth="769"><![CDATA[Office Background with 2 people strategizing]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Click on each reveal button to learn more. You may need to scroll to read the full answer.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<buttonText >
+		<text><![CDATA[REVEAL]]></text>
+	</buttonText>	
+	<flipCardContent >
+		<flipCard style="width:187px;height: 362px;" >	
+			<buttonImg path="content/images/ltr/module6/m06s06/img1.png" ><![CDATA[A bundle of products]]></buttonImg>
+			<buttonText  style="height:90px;width:167px;"><![CDATA[Tying]]></buttonText>
+			<popText  style="height:230px;">
+				<text><![CDATA[This happens when a company bundles products together and does not make them available to purchase separately.]]></text>						
+				<text><![CDATA[The end result is that the consumer is forced to buy a product they may not want in order to buy the product they do want.]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s06/img2.png"  ><![CDATA[Buyer and seller going over product pricing]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Exclusive dealing]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[This happens when a buyer is effectively forced to purchase most or all products or services from one seller, usually for a set period.]]></text>					
+				<text><![CDATA[The European Commission has fined Intel with €1.06 billion for granting loyalty-enhancing rebates to its customers in order to exclude other competitors from the market. The rebates were conditional on purchasing all or almost all of its requirements from the dominant undertaking.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img3.png"  ><![CDATA[Illustration of 50% discount in shopping cart]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Predatory pricing]]></buttonText>
+			<popText  style="height:230px;">
+				<text><![CDATA[This happens when a company sells to consumers at an artificially low price and deliberately incurs a loss.]]></text>			
+				<text><![CDATA[Typically, companies do this to eliminate competitors who can’t sustain prices at such a low level and so choose to exit the market.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img4.png"  ><![CDATA[Chart showing price increase]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Refusing to deal]]></buttonText>			
+			<popText  style="height:230px;">
+				<text><![CDATA[This happens when one company refuses to sell to another or will only sell to them at a price that is prohibitively high.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img5.png"  ><![CDATA[Handshake deal to prevent distributor from selling to certain customers]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Prevention of intra-brand competition]]></buttonText>			
+			<popText  style="height:230px;">
+				<text><![CDATA[This happens when companies make agreements with distributors that prevent them from selling in certain territories or to certain customers.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

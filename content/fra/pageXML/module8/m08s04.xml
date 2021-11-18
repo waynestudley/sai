@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s04">
+	<transcript>
+		<text path="audio/module8/m08s04" id="0"><![CDATA[Debbie est surprise par la photo de Kim. Auriez-vous agi comme Kim ? Sélectionnez une option puis validez votre réponse.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Quel problème y a-t-il à prendre une photo de vous au travail et la poster sur les médias sociaux ?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module8/m08s04/contentBackground.jpg" minwidth="769"><![CDATA[Femme chez elle]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[Sélectionnez une option puis cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Aucun, si elle est postée sur un site qui supprime la publication après qu’elle ait été vue]]></option>	
+		<option><![CDATA[Cela dépend de la personne à qui vous l’envoyez]]></option>	
+		<option><![CDATA[Cela peut poser un problème car il peut y avoir des informations confidentielles en arrière-plan]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[C’est exact.]]></text>
+			<text><![CDATA[Nous devons protéger les informations relatives à la clientèle, telles que les informations de facturation et de paiement. Notre entreprise a une obligation juridique de protéger les données des clients et de les traiter conformément à la loi. Si nous ne le faisons pas, nous pouvons recevoir d’importantes amendes.  ]]></text>
+			<text><![CDATA[Même si vous n’avez pas l’intention de rendre publiques les informations sensibles, cela peut être extrêmement nuisible à l’individu et à l’entreprise.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Désolé, ce n’est pas la bonne réponse.]]></text>
+			<text><![CDATA[Nous devons protéger les informations relatives à la clientèle, telles que les informations de facturation et de paiement. Notre entreprise a une obligation juridique de protéger les données des clients et de les traiter conformément à la loi. Si nous ne le faisons pas, nous pouvons recevoir d’importantes amendes.]]></text>
+			<text><![CDATA[Même si vous n’avez pas l’intention de rendre publiques les informations sensibles, cela peut être extrêmement nuisible à l’individu et à l’entreprise.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

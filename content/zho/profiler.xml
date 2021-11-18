@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;right:20px;height: 500px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[您的职责]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[请回答下列有关您的职责的问题。]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[您是否跟与 Johnson Controls 存在竞争关系的人员或组织交往？]]></text>
+		<text id="2"><![CDATA[您是否负责为 Johnson Controls 做出采购决策？]]></text>
+		<text id="3"><![CDATA[您的工作是否涉及营销、销售或与客户及潜在客户进行谈判？]]></text>
+		<text id="4"><![CDATA[您是否有权访问 Johnson Controls 的客户、承包商、供应商或商业伙伴的相关信息，或为其工作的任何个人的相关信息？]]></text>
+		<text id="5"><![CDATA[您是否有权访问 Johnson Controls 员工的相关信息？]]></text>
+		<text id="6"><![CDATA[您是否直接与 Johnson Controls 的有权限访问技术信息的海外员工、客户或供应商直接打交道？]]></text>
+		<text id="7"><![CDATA[您的工作是否涉及国际旅行、招待国际来宾或将 Johnson Controls 的产品、人员或信息运送至海外地区？]]></text>
+		<text id="8"><![CDATA[您是否会参加行业贸易协会或行业会议？]]></text>
+		<text id="9"><![CDATA[您是否曾向第三方（例如客户或供应商）赠送礼品或是收取礼品？]]></text>
+		<text id="10"><![CDATA[您是否曾经招待过第三方（例如客户或供应商）或者接受过他们的招待？]]></text>
+		<text id="11"><![CDATA[您的工作是否涉及研究、开发或设计 Johnson Controls 的产品和服务？]]></text>
+		<text id="12"><![CDATA[您是否负责在新地点或新行业开发新客户或现有客户的业务？]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/profileSelection.jpg" minwidth="769"><![CDATA[Johnson Controls 员工]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[是]]></text>
+		<text><![CDATA[否]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[继续]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 400px;">
+		<text><![CDATA[针对每个问题选择“是”或“否”，然后单击“继续”。]]></text>
+	</instructionText>
+	
+</contents>

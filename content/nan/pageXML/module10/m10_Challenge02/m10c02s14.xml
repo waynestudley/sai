@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[按「下一步」繼續。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[丹恩要如何回應艾瑪的請求？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s14/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[他應該依照艾瑪的請求發信，幫助同事。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[丹恩不該直接在信件中提及任何醫療資訊，但可以發送艾瑪部落格的連結。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[丹恩不應該同意發送郵件給全公司同仁，而是建議艾瑪詢問珊迪希望公司提供什麼協助。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[丹恩發送電子郵件給 Johnson Controls 全體員工，信件裡說明珊迪發生的意外及艾瑪部落格的連結。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[丹恩發送包含艾瑪部落格連結的電子郵件。 他似乎不明白這樣利用員工電子郵件通訊清單並不恰當。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾瑪詢問珊迪如何幫忙時，珊迪建議艾瑪可以讓少數幾個同公司的朋友知道她家人設立的 Facebook 專頁。]]></text>
+			<text><![CDATA[艾瑪只將事情告訴珊迪提到的幾個人。 她的同事貼文祝福珊迪早日康復，這給了珊迪很大的鼓勵。 有不少人捐錢協助珊迪支付醫療費用，減輕珊迪的擔憂。]]></text>
+		</correct>
+	</feedback>
+</contents>

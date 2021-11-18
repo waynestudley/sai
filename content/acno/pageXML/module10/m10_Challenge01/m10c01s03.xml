@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[Al saber que pasará varias horas esperando en el hospital, Jian considera llevar su trabajo con él. ¿Qué cree que debería hacer? Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Jian necesita irse para acompañar a su esposa en el hospital, pero hay proyectos urgentes que necesitan su atención. Puede llevar su computadora portátil para usarla en el hospital, pero sabe que trabajar de forma remota en su computadora portátil no es tan seguro como usar la red de la empresa.]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[¿Qué opción describe la mejor manera de que Jian se asegure de que su trabajo esté terminado para la fecha de entrega?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[Entorno de oficina]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian carga la información del proyecto Texela, incluido el archivo maestro de proveedores, a su cuenta personal de Dropbox. De esa manera, puede acceder a él usando su computadora portátil en el hospital, pero no lo enviará por Internet ni lo descargará localmente en su computadora.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian coloca la información de los proveedores y el archivo maestro de proveedores en una unidad de almacenamiento USB y la cifra. Esta medida le parece más segura que acceder a la información en forma electrónica.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian renegocia una prórroga para el proyecto en el que estaba trabajando en un principio, y completa el trabajo del proyecto Texela antes de irse al hospital.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[La decisión de Jian pone los datos de la empresa, de los clientes y de los proveedores en riesgo de una violación de la privacidad.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian ha tomado medidas para proteger la información de la empresa y de los proveedores, pero ¿generó otro problema?]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -213px;">
+			<text style="padding-top:25px;"><![CDATA[Jian renegocia una prórroga para el proyecto en el que estaba trabajando en un principio, y completa el trabajo del proyecto Texela antes de irse al hospital.]]></text>
+			<text><![CDATA[Jian puede entregar sus recomendaciones de proveedores antes irse del trabajo. Por lo tanto, no necesita llevarse una copia de la información confidencial de los proveedores o el archivo maestro de proveedores. Al negociar con éxito una prórroga del plazo de entrega del otro proyecto, se aseguró de que el proyecto general no se viera afectado negativamente.]]></text>
+			<text><![CDATA[Aún mejor, Jian puede pasar tiempo con su esposa sin estar distraído con los plazos de entrega urgentes.]]></text>
+		</correct>
+	</feedback>
+</contents>

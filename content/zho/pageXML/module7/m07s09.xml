@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[以下场景是 Johnson Controls 员工的真实经历。 您在这种情况下会怎么做？ 选择一个选项，然后单击提交。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[您是品类经理，正在与客户的采购员召开例行会议。 在会议期间，您打开客户定价和销售量的机密数据库，回答客户问题。 客户在您的身后仔细查看，并要求您将整份文件发给他。 您要怎么做？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[品类经理与客户的采购员开会]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;">
+		<text><![CDATA[选择一个选项，然后单击提交。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[与客户分享数据库。 客户的成功是我们的优先任务]]></option>	
+		<option><![CDATA[向客户解释数据库中含有其他客户相关信息，因而不能分享。 如果客户坚持，请结束会议，联系您的经理或法律团队寻求指导]]></option>	
+		<option><![CDATA[同意与客户分享数据库，但前提是对方必须签署保密协议]]></option>	
+		<option><![CDATA[联系律师，在客户能将专有信息用于其自身业务前，对客户提起诉讼]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-184px">
+			<text style="font-size:17px;"><![CDATA[正确。]]></text>
+			<text><![CDATA[客户向 Johnson Controls 提供的数据（例如合同和银行信息）时，期望我们予以保密。]]></text>
+			<text><![CDATA[此类客户专有数据绝不能同 Johnson Controls 其他客户分享。]]></text>
+			<text><![CDATA[分享此类信息后果可能包括： <ul> <li>我们可能面临信息遭到泄露的客户的指控</li> <li>我们可能被指控价格垄断</li> <li>我们可能将知识产权存放于高风险数据库</li> <li>我们可能损害为客户提供品类管理服务的能力</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-184px">
+			<text style="font-size:17px;"><![CDATA[错误。]]></text>
+			<text><![CDATA[客户向 Johnson Controls 提供的数据（例如合同和银行信息）时，期望我们予以保密。]]></text>
+			<text><![CDATA[此类客户专有数据绝不能同 Johnson Controls 其他客户分享。]]></text>
+			<text><![CDATA[分享此类信息后果可能包括： <ul> <li>我们可能面临信息遭到泄露的客户的指控</li> <li>我们可能被指控价格垄断</li> <li>我们可能将知识产权存放于高风险数据库</li> <li>我们可能损害为客户提供品类管理服务的能力</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

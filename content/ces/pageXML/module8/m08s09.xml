@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s09">
+	<transcript>
+		<text path="audio/module8/m08s09" id="0"><![CDATA[Existují některé důležité kroky, jimiž můžete přispět k zabezpečení našich informací. Kliknutím na jednotlivá tlačítka zobrazíte další informace.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Procvičujte tyto návyky:]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s09/contentBackground.jpg" minwidth="769"><![CDATA[otisk prstu]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Kliknutím na jednotlivá tlačítka zobrazíte další informace. K zobrazení celé odpovědi bude pravděpodobně nutné posouvat text.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ZOBRAZIT]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module8/m08s09/img1.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:14px;"><![CDATA[Označte informace jako důvěrné.]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Pokud ostatní zaměstnanci nevědí, že se jedná o důvěrné informace, nejspíše také nevědí, že je mají chránit. ]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module8/m08s09/img2.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:14px;"><![CDATA[Důvěrné informace ukládejte bezpečně. ]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Fyzické materiály zamykejte a elektronické soubory i počítač chraňte silným heslem. Své heslo nikdy nikomu nesdělujte a vyhněte se používání téhož hesla pro více souborů či aplikací.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img3.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:14px;"><![CDATA[Při cestování dbejte zvýšené opatrnosti.]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Mobilní telefony a USB flash disky lze snadno ztratit nebo odcizit. Předtím, než se vydáte na cestu s důvěrnými informacemi, si dobře vše promyslete a s těmito informacemi nepracujte ani o nich nehovořte na místech, kde vás mohou vidět nebo slyšet ostatní. ]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img4.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:14px;"><![CDATA[Důvěrné informace poskytujte jen těm, kdo je potřebují znát.]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[Důvěrné informace sdílejte se zákazníky, partnery, dodavateli a jinými třetími stranami či zaměstnanci společnosti Johnson Controls, jen: <ul> <li>je-li to nutné,</li> <li>jste-li k tomu oprávněni,</li> <li>ví-li příjemce, že jde o důvěrné informace, a je-li oprávněn získat k nim přístup,</li> <li>podepsal-li příjemce právní dohodu na jejich ochranu (např. dohodu o mlčenlivosti). I pak poskytněte pouze informace, které dotyčný potřebuje k provedení svého úkolu.</li> </ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img5.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:14px;"><![CDATA[Buďte opatrní ohledně sociálních médií.]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[Jakmile jsou informace zveřejněny online, ztrácíte kontrolu nad tím, co s nimi ostatní dělají.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[Каково ваше мнение? Принимают ли сотрудники все ли необходимые меры для защиты персональных данных?]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[Сотрудник работает с данными на ноутбуке]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Считаете ли вы, что сотрудники надлежащим образом защищают персональные данные?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Выберите «Да» или «Нет» для каждого вопроса, а затем нажмите «Отправить».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img01.png"><![CDATA[Сотрудник выбрасывает листовку]]></img>
+			<text style="width: 390px;"><![CDATA[Сотрудник выбрасывает листовку с персональной информацией в месте, куда имеют доступ другие люди]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img02.png"><![CDATA[Сотрудник отправляется за чашкой кофе]]></img>
+			<text style="width: 390px;"><![CDATA[Сотрудник, ожидающий завершения печати документа с конфиденциальными данными о клиентах, отправляется за чашкой кофе]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img03.png"><![CDATA[Пароль]]></img>	
+			<text style="width: 390px;"><![CDATA[Сотрудник использует надежные пароли для защиты документов, содержащих персональную информацию]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img04.png"><![CDATA[Календарь]]></img>	
+			<text style="width:390px;"><![CDATA[Сотрудник хранит персональные данные, которые перестали быть нужными, «на всякий случай»]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Да]]></text>
+		<text><![CDATA[Нет]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style="font-size:14px;"><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Верно.]]></text>			
+			<text style="font-size: 14px;line-height:16px;"><![CDATA[Крайне важно защищать персональную финансовую и банковскую информацию сотрудников, клиентов и деловых партнеров. Принимайте все принятые в нашей компании меры безопасности и ни в коем случае не оставляйте персональную информацию в местах, где ее могут увидеть другие люди, даже если вы доверяете этим людям и оставляете информацию ненадолго. Уничтожайте информацию надлежащим образом, если законная необходимость в ее хранении отпала.]]></text>			
+		</correct>
+		<incorrect style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Неверно.]]></text>	
+			<text style="font-size: 14px;line-height:16px;"><![CDATA[Крайне важно защищать персональную финансовую и банковскую информацию сотрудников, клиентов и деловых партнеров. Принимайте все принятые в нашей компании меры безопасности и ни в коем случае не оставляйте персональную информацию в местах, где ее могут увидеть другие люди, даже если вы доверяете этим людям и оставляете информацию ненадолго. Уничтожайте информацию надлежащим образом, если законная необходимость в ее хранении отпала.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

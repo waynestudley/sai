@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentTitle>
+		<text><![CDATA[التقييم الأوّلي]]></text>		
+	</contentTitle>
+	<contentBg style="padding:30px 0 0 0;top: 70px;width: 510px;left: 20px;"></contentBg>
+	<pageTitle style="padding:0px 30px;width: 360px;margin-bottom: 10px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/rtl/preAssessment/preassessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[موظف في شركة Johnson Controls]]></img>
+	</contentBackground>	
+	<instructionText style="padding:0px 30px 30px;min-height: auto;">		
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<feedbackPass>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[لقد أثبتَّ مستوى فائقًا من المعرفة! لقد تم تعديل محتوى دورتك التدريبية وسوف تكون قادرًا على تخطي أقسام معينة إذا اقتضى الأمر.]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="normal" left="0px" color="#00549E" bgColor="#D5D547" padding="20px 30px" position="relative"><![CDATA[أحسنت]]></text>
+	</feedbackPass>
+	<feedbackPartial>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[لقد أثبتَّ مستوى فائقًا من المعرفة! لقد تم تعديل محتوى دورتك التدريبية وسوف تكون قادرًا على تخطي أقسام معينة إذا اقتضى الأمر.]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="normal" left="0px" color="#00549E" bgColor="#D5D547" padding="20px 30px" position="relative"><![CDATA[أحسنت]]></text>
+	</feedbackPartial>
+	<feedbackFail>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[أنت لم تجب عن كل الأسئلة إجابة صحيحة هذه المرة. الرجاء المتابعة إلى الدورة التدريبية. بعد أن تنتهي من مراجعة المفاهيم الأساسية، سوف تتاح لك فرصة أخرى لإثبات ما لديك من معرفة.]]></text>			
+	</feedbackFail>
+</contents>

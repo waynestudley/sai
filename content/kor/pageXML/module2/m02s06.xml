@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[각 사례에서 선물이나 접대를 선택한 후 '제출'을 클릭하십시오.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[사무실에 있는 직장인들]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[각 사례에서 선물 또는 접대 여부를 구별할 수 있는지 확인하십시오.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[각 보기에서 '선물' 또는 '접대'를 선택하고 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png"><![CDATA[공급업자와 회식하는 팀원들]]></img>
+			<text style="width: 406px;"><![CDATA[한 공급업자가 대형 프로젝트의 완료를 축하하기 위해 전체 프로젝트팀을 식사에 초대합니다.]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png"><![CDATA[생각에 잠긴 직원]]></img>
+			<text style="width: 406px;"><![CDATA[한 고객이 여러분의 업무에 대한 "감사의 표시"로 리조트의 마사지 이용권을 줍니다.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png"><![CDATA[생각에 잠긴 직원]]></img>	
+			<text style="width: 406px;"><![CDATA[여러분은 회사를 대신하여 무역 박람회에 참석하고 있으며, 주최자가 참석자들을 저녁 행사에 초대합니다.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png"><![CDATA[생각에 잠긴 직원]]></img>	
+			<text style="width:406px;"><![CDATA[한 공급업자가 현장 회의 후 음식점에서 팀원들에게 식사를 대접하겠다고 제안하지만 그 공급자는 참석하지 않을 것입니다.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png"><![CDATA[생각에 잠긴 직원]]></img>	
+			<text style="width:406px;"><![CDATA[한 공급업자가 여러분을 스포츠 행사에 초대했는데, 자신은 몸이 아프므로 여러분에게 혼자 가라고 합니다.]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[선물]]></text>
+		<text styleWidth="width:100px;"><![CDATA[접대]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[정답입니다.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[선물 및 접대 보고에는 다양한 규칙이 적용됩니다. 제공자가 저녁 식사나 행사 등에 함께 참석하는 등 혜택을 공유한다면 그것은 접대입니다.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[공급업자가 팀을 식사에 초대하거나 무역 박람회 저녁 행사에 참석하는 것은 접대입니다. 두 경우 모두 비즈니스에 대해 논의할 수 있는 기회를 제공하고 제공자가 혜택을 공유하기 때문입니다. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[상품권 및 제공자가 초대된 행사에 참석하지 않는 행사는 선물로 간주됩니다. ]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[정답이 아닙니다.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[선물 및 접대 보고에는 다양한 규칙이 적용됩니다. 제공자가 저녁 식사나 행사 등에 함께 참석하는 등 혜택을 공유한다면 그것은 접대입니다.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[공급업자가 팀을 식사에 초대하거나 무역 박람회 저녁 행사에 참석하는 것은 접대입니다. 두 경우 모두 비즈니스에 대해 논의할 수 있는 기회를 제공하고 제공자가 혜택을 공유하기 때문입니다. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[상품권 및 제공자가 초대된 행사에 참석하지 않는 행사는 선물로 간주됩니다. ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

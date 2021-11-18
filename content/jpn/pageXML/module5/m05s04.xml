@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[マークは顧客の電子メールにどのように返信するか考えています。 この状況でどうするべきか、わかりますか。 選択肢を1つ選んで回答を提出します。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[会社名や職位など顧客に詳細情報を求めるメールを返信する場合、あなたの電子メールは輸出とみなされますが、なぜかわかりますか？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[従業員]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選んで提出してください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px;font-size:14px;">
+		<option><![CDATA[はい。あらゆる電子メールは輸出の可能性があります。なぜなら、サーバーが別の国にある可能性があり、電子メールは多くの国境を超える可能性があるためです]]></option>	
+		<option><![CDATA[はい。別の国にいる人物の情報を要求する電子メールは、個人情報を受け取るため常に輸出となります]]></option>	
+		<option><![CDATA[いいえ。詳細を要求するために顧客に返信するだけでは輸出ではありません]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[正解です。]]></text>
+			<text><![CDATA[貿易規制に従うためには、詳細情報を顧客に求める内容を返信する必要があります。]]></text>
+			<text><![CDATA[しかし、設計図面、技術、その他規制された製品情報も共有または添付しない限り、この電子メールを送信するだけでは輸出ではありません。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[残念。間違っています。.]]></text>
+			<text><![CDATA[貿易規制に従うためには、詳細情報を顧客に求める内容を返信する必要があります。]]></text>
+			<text><![CDATA[しかし、設計図面、技術、その他規制された製品情報も共有または添付しない限り、この電子メールを送信するだけでは輸出ではありません。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

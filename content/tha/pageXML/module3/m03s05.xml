@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[กรณีใดดังต่อไปนี้ที่คุณคิดว่าน่าจะเกิดปัญหาขึ้น]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[คุณคิดว่าตัวอย่างเหล่านี้สามารถมองเป็นการติดสินบนได้หรือไม่]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[นักธุรกิจ]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[เลือกสถานการณ์<span class="fontBold">ทั้งหมด</span>ที่อาจกลายเป็นปัญหาแล้วคลิกส่ง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[คำตอบที่ถูกต้องอาจมีมากกว่าหนึ่งข้อ]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[คุณสัญญากับลูกค้าไว้ว่าจะให้บัตรสมนาาคุณกับลูกค้าแลกกับการที่พวกเข้าทำการตัดสินใจที่เป็นประโยชน์ต่อคุณ]]></option>
+		<option><![CDATA[ผู้รับจ้างช่วงที่ต้องการทำธุรกิจกับคุณเชิญคุณออกไปรับประทานมื้อเย็นและดูกีฬาหลายครั้ง]]></option>
+		<option><![CDATA[คุณให้งบประมาณกับเจ้าหน้าที่รัฐที่มีโอกาสเป็นลูกค้าคนต่อไป]]></option>
+		<option><![CDATA[ผู้จัดการของคุณจ้างลูกสาวของลูกค้าเข้าเป็นพนักงานแลกกับการที่ลูกค้านั้นจะยอมต่ออายุสัญญาปัจจุบัน]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[ถูกต้อง]]></text>
+			<text><![CDATA[กรณีต่าง ๆ เหล่านี้สามารถถือเป็นการติดสินบนได้ทั้งหมด โดยขึ้นอยู่กับสถาณการณ์ เจตนาที่จะมีอิทธิพลนั้นถือเป็นเรื่องหลักแต่ก็ต้องจำไว้เสมอว่าภาพลักษณ์เกี่ยวกับการคอร์รัปชั่นนั้นก็อาจก่อให้เกิดปัญหาสำหรับคุณและจอห์นสัน คอนโทรลส์ ได้ ดังนั้นคุณต้องคิดก่อนทำเสมอ!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[ไม่ถูกต้อง]]></text>
+			<text><![CDATA[กรณีต่าง ๆ เหล่านี้สามารถถือเป็นการติดสินบนได้ทั้งหมด โดยขึ้นอยู่กับสถาณการณ์ เจตนาที่จะมีอิทธิพลนั้นถือเป็นเรื่องหลักแต่ก็ต้องจำไว้เสมอว่าภาพลักษณ์เกี่ยวกับการคอร์รัปชั่นนั้นก็อาจก่อให้เกิดปัญหาสำหรับคุณและจอห์นสัน คอนโทรลส์ ได้ ดังนั้นคุณต้องคิดก่อนทำเสมอ!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[많은 이해 충돌의 사례가 소규모 및 개인적인 수준에서 발생합니다. 그러나 일부 이해 충돌은 뉴스 헤드라인에 오르기 충분할 정도로 큽니다.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[대부분의 이해 충돌은 규모가 작고 개인적이지만 일부는 뉴스에 나올 정도로 큽니다.]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[자세히 알아보려면 화살표를 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top: 135px;">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[SEC 조사관과 이야기 중인 포트폴리오 관리자]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:380px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[헤드라인: 자산 관리 회사, 이해 충돌에 따른 합의금으로 미화 1,200만 달러 지불]]></text>
+				<text style="font-size:15px;"><![CDATA[대형 자산관리회사인 Blackrock이 자사 포트폴리오 관리자 중 한 명의 행동으로 인해 이해 충돌로 기소되어 합의금으로 미화 1,200만 달러를 지불했습니다.]]></text>
+				<text style="font-size:15px;"><![CDATA[미국 증권거래위원회(Securities and Exchange Commission)는 Blackrock의 일부 에너지 펀드를 감독한 중개인이 같은 시기에 가족 소유의 석유 및 가스 회사를 설립했다는 사실을 발견하고 고발했습니다. 그 가족 회사는 석탄 회사와 제휴를 맺었는데, 그 석탄 회사의 주식은 그 중개인이 운영한 펀드에서 가장 비중이 컸습니다.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[기자 회견 중인 병원 이사회 임원]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[헤드라인: 병원 이사회 임원 개인에 벌금 13,500달러 부과]]></text>
+				<text style="font-size:15px;"><![CDATA[뉴욕 공립병원 이사회의 한 임원이 자신의 이사회에서의 역할과 그레나다에 있는 의과 대학에서의 직위 사이에서 확인된 이해 충돌로 인해 개인적으로 벌금을 부과받았습니다.]]></text>
+				<text style="font-size:15px;"><![CDATA[뉴욕 이해충돌방지위원회는 그 의사가 자신이 근무한 의과대학 학생들의 취업을 늘리기 위해 자신의 이사회 직위를 남용하여 시내 병원들에 로비를 한 것을 확인했습니다.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[주식을 보는 사람 ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[헤드라인: JP Morgan, 거래 중 잘못된 조언에 대하여 미화 3천 5백만 달러 배상]]></text>
+				<text style="font-size:15px;"><![CDATA[거대 투자회사 JP Morgan은 2015년 하반기에 Good Technology를 BlackBerry에 매각하는 과정에서 조언을 잘못한 혐의로 기소되어 배상금으로 미화 3천 5백만 달러를 지불했습니다. ]]></text>
+				<text style="font-size:15px;"><![CDATA[Good Technology의 주주들은 회사가 시장 가치보다 낮게 매각되었으며, JP Morgan이 BlackBerry로부터 향후 투자은행 사업을 수주하기 위해 Good Technology의 매각을 밀어붙였다고 고소했습니다. 법원은 이에 동의하고, 주주들에게 큰 배상금을 지불하라고 판결했습니다.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

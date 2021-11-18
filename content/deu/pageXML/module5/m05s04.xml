@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[Mark überlegt, wie er auf die E-Mail des Kunden reagieren soll. Wüssten Sie, was in dieser Situation zu tun ist? Wählen Sie eine Option aus und übermitteln Sie Ihre Antwort.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Angenommen, Sie schreiben dem Kunden zurück, um weitere Informationen von ihm einzuholen, z. B. seine Position und den Namen des Unternehmens – gilt Ihre E-Mail als Export? Könnten Sie Ihre Entscheidung begründen?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[Mitarbeiter]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und bestätigen Sie anschließend durch „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Ja. Jede E-Mail kann als Export gelten, da Server in verschiedenen Ländern betrieben werden können und Ihre E-Mail somit zahlreiche internationale Grenzen überschreiten kann.]]></option>	
+		<option><![CDATA[Ja. Eine E-Mail, in der eine im Ausland ansässige Person um Informationen gebeten wird, gilt immer als Export, da Sie personenbezogene Informationen erhalten.]]></option>	
+		<option><![CDATA[Nein. Wenn man einem Kunden zurückschreibt, um weitere Informationen einzuholen, gilt dies nicht als Export.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="height:200px" fcStyle="top: -198px;">
+			<text style="font-size:17px;padding-top:15px;"><![CDATA[Das ist richtig.]]></text>
+			<text><![CDATA[Um sicherzugehen, dass Sie die Handelsbestimmungen einhalten, sollten Sie per E-Mail weitere Informationen von diesem Kunden einholen.]]></text>
+			<text><![CDATA[Das bloße Versenden dieser E-Mail gilt jedoch nicht als Export, sofern Sie keine technischen Zeichnungen, technologischen Informationen oder sonstigen Produktinformationen, für die Exportvorschriften gelten, als Inhalt oder Anhang mitschicken.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="height:200px" fcStyle="top: -198px;">
+			<text style="font-size:17px;padding-top:20px;"><![CDATA[Das stimmt leider nicht.]]></text>
+			<text><![CDATA[Um sicherzugehen, dass Sie die Handelsbestimmungen einhalten, sollten Sie per E-Mail weitere Informationen von diesem Kunden einholen.]]></text>
+			<text><![CDATA[Das bloße Versenden dieser E-Mail gilt jedoch nicht als Export, sofern Sie keine technischen Zeichnungen, technologischen Informationen oder sonstigen Produktinformationen, für die Exportvorschriften gelten, als Inhalt oder Anhang mitschicken.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

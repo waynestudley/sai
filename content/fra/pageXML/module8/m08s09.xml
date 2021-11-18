@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s09">
+	<transcript>
+		<text path="audio/module8/m08s09" id="0"><![CDATA[Ce sont des choses importantes que vous pouvez faire pour sécuriser nos informations. Cliquez sur chaque bouton pour en savoir plus.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Mettez en pratique ces habitudes :]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s09/contentBackground.jpg" minwidth="769"><![CDATA[empreinte digitale]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Cliquez sur chaque bouton pour en savoir plus. Faites défiler le texte pour lire toute la réponse si nécessaire.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[DÉVOILER]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 372px;">	
+			<buttonImg path="content/images/ltr/module8/m08s09/img1.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:112px;width:167px;font-size: 13px;"><![CDATA[Ajouter une mention « confidentiel »]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Si d'autres salariés ne savent pas que l’information est confidentielle, ils ne sauront pas forcément qu’il faut la protéger. ]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 372px;">			
+			<buttonImg path="content/images/ltr/module8/m08s09/img2.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:112px;width:167px;font-size: 13px;"><![CDATA[Stockez les informations confidentielles de manière sécurisée ]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Mettez sous clé les documents physiques et protégez les fichiers électroniques et votre ordinateur avec des mots de passe complexes. Ne communiquez jamais votre mot de passe à quelqu’un et évitez d’utiliser le même mot de passe pour plusieurs documents et applications.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 372px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img3.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:112px;width:167px;font-size: 13px;"><![CDATA[Faites preuve de prudence lorsque vous voyagez]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Les téléphones portables ou les clés USB peuvent être perdus ou volés facilement. Réfléchissez avant de voyager avec des informations confidentielles et ne travaillez pas/ne parlez pas là où d'autres personnes peuvent vous voir ou vous entendre. ]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 372px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img4.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:112px;width:167px;font-size: 13px;"><![CDATA[Partagez les informations confidentielles aux personnes ayant besoin de les connaître]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[Vous ne devez partager des informations confidentielles avec des clients, des partenaires, des fournisseurs, d'autres tiers ou d'autres salariés Johnson Controls que si : <ul> <li>c’est nécessaire</li> <li>vous avez obtenu l'autorisation de le faire</li> <li>la personne recevant l’information sait qu’elle est confidentielle et a l’autorisation de la consulter</li> <li>ils ont signé un accord juridique pour les protéger (tel qu’un accord de confidentialité). Même si ces conditions sont réunies, ne partagez que les informations dont la personne a besoin pour faire son travail</li> </ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 372px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img5.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:112px;width:167px;font-size: 13px;"><![CDATA[Soyez prudents sur les médias sociaux]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[Une fois qu’une information est en ligne, vous ne pouvez pas contrôler ce que les autres en font.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

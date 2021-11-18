@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="font-size:15px;line-height:20px;"><![CDATA[エドゥアルドは通りを下ったところにある人気のジェントルメンズ・クラブに行くことを提案しています。 チームの残りのメンバーは行くことに興味があるように見えます。]]></text>
+		<text style="font-size:15px;line-height:20px;"><![CDATA[ジアンはどのように対応すればよいでしょうか？]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[レストラン]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+	</instructionText>
+	<optionContent style="font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[エドゥアルドとチームメンバーとともにクラブを訪れますが、エドゥアルドのもてなしは行き過ぎのため支払いは拒否します。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[1杯だけ丁寧に付き合い、エドゥアルドの顔を立てますが、短時間で店を出るようにします。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[丁寧に断り家に帰ります。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[ジアンが受け取るもてなしの金額を考慮することは正しいですが、考えるべき問題が別にあります。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[ジアンがエドゥアルドとチームに付き合うのは短時間だと考えていても、これはジアンとJohnson Controlsにとって思いがけない問題を引き起こす可能性があります。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[これは安全な選択です。]]></text>
+		</correct>
+	</feedback>
+</contents>

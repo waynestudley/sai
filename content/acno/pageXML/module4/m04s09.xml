@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s09">
+	<transcript>
+		<text path="audio/module4/m04s09" id="0"><![CDATA[Los teléfonos móviles y las computadoras portátiles son ideales para trabajar sobre la marcha, pero también pueden hacernos vulnerables. Manténgase alerta para protegerse y proteger a todas las personas con las que trabaja.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Cuando utiliza teléfonos móviles, computadoras portátiles u otros dispositivos portátiles, está llevando el lugar de trabajo con usted. Los delincuentes buscan oportunidades en todas partas, por lo que es importante mantenerse alerta y no exponerse a riesgos innecesarios.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s09/contentBackground.jpg" minwidth="769"><![CDATA[Un empleado usando un teléfono móvil en un aeropuerto]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Haga clic en cada título.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="190px" top="38px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn1.png" minwidth="769"><![CDATA[Dos empleados teniendo una conversación privada]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Mantenga las conversaciones privadas en privado]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: 23px;width: 958px;">
+				<text><![CDATA[No hable sobre información privada o confidencial por teléfono o en persona en lugares donde cualquiera podría escucharlo.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="38px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn2.png" minwidth="769"><![CDATA[Una ciudad con múltiples zonas con wifi]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Evite usar redes wifi públicas]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 100px;top: 23px;width: 958px;">
+				<text><![CDATA[La información que envía a través de una red pública poco segura puede ser interceptada más fácilmente. Por el contrario, elija las zonas wifi conocidas que suelen ofrecer las empresas. Si necesita usar wifi público, asegúrese de conectarse a una red privada virtual (VPN) para acceder a las redes de Johnson Controls.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="38px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn3.png" minwidth="769"><![CDATA[Un empleado trabajando con una computadora portátil en un aeropuerto]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Esté atento a los alrededores]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: 23px;width: 958px;">
+				<text><![CDATA[Tenga cuidado con las personas a su alrededor que podrían ver su pantalla. Considere usar una pantalla de privacidad sobre la pantalla de su dispositivo.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="38px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn4.png" minwidth="769"><![CDATA[Un empleado usando una tarjeta magnética]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Mantenga su tarjeta magnética cerca]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 100px;top: 23px;width: 958px;">
+				<text><![CDATA[Asegúrese de saber dónde se encuentra su tarjeta magnética de acceso en todo momento. Recuerde colocar la tarjeta magnética dentro de la ropa que lleve puesta al ir a su lugar de trabajo y al regresar a su casa.]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

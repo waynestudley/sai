@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[Co již víte o rizicích ohrožujících duševní vlastnictví? Prozkoumejte Mariinu situaci, vyberte všechny vhodné odpovědi a klikněte na tlačítko Odeslat.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Maria před několika měsíci nastoupila do společnosti Johnson Controls a podílí se na uvedení nového produktu, který je v celém odvětví spojován s vysokými očekáváními.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Mariin přítel Pete, který působí v podobném odvětví, se obecně zeptá na práci a pak začne klást konkrétní dotazy ohledně nového produktu.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Jak by měla Maria odpovědět?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA[Maria a Pete]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 15px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;">
+		<text><![CDATA[Vyberte všechny vhodné možnosti a pak klikněte na tlačítko Odeslat.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Správných odpovědí může být více.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px;font-size:15px;">
+		<option><![CDATA[Měla by si od Peta vyžádat slib, že nevyzradí nic z toho, co se mu chystá říci, a teprve poté s ním probrat podrobnosti nového produktu a jeho uvedení na trh.]]></option>	
+		<option><![CDATA[Měla by Petovi říci, jaký má ze své práce pocit (např. že práce je vzrušující a náročná, atd.), aniž by odhalila jakékoli podrobnosti o novém produktu a jeho uvedení na trh.]]></option>	
+		<option><![CDATA[Měla by Petovi říci, že její aktuální práce je důvěrná, a proto mu nemůže sdělit žádné podrobnosti.]]></option>	
+		<option><![CDATA[O svých projektech by měla hovořit pouze s blízkými přáteli a příbuznými, kterým důvěřuje – s nimi také může probírat podrobné informace, které nejsou veřejně dostupné.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 260px;" fcStyle="top:-246px">
+			<text><![CDATA[Správně.]]></text>
+			<text><![CDATA[Maria může Petovi říci, jaký má ze své práce pocit, ale neměla by mu prozradit žádné důvěrné informace společnosti, včetně informací o novém produktu a jeho uvedení na trh.]]></text>
+			<text><![CDATA[Klíčovým bodem k zapamatování je, že NIKDY a z žádných důvodů nesmíme prozradit obchodní tajemství ani jiné důvěrné informace neoprávněným osobám mimo naši společnost.]]></text>
+			<text><![CDATA[Ani přátelům a příbuzným, kterým důvěřujeme, nesmíme za žádných okolností poskytnout informace o obchodních tajemstvích využívaných společností Johnson Controls a duševním vlastnictví, které společnost vyvíjí. ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 260px;" fcStyle="top:-246px">
+			<text><![CDATA[To není správně.]]></text>
+			<text><![CDATA[Maria může Petovi říci, jaký má ze své práce pocit, ale neměla by mu prozradit žádné důvěrné informace společnosti, včetně informací o novém produktu a jeho uvedení na trh.]]></text>
+			<text><![CDATA[Klíčovým bodem k zapamatování je, že NIKDY a z žádných důvodů nesmíme prozradit obchodní tajemství ani jiné důvěrné informace neoprávněným osobám mimo naši společnost.]]></text>
+			<text><![CDATA[Ani přátelům a příbuzným, kterým důvěřujeme, nesmíme za žádných okolností poskytnout informace o obchodních tajemstvích využívaných společností Johnson Controls a duševním vlastnictví, které společnost vyvíjí. ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

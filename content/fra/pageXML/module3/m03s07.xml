@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[Nous avons tous pour responsabilité d’empêcher les pots-de-vin et la corruption dans notre entreprise. Cliquez sur chaque titre pour confirmer ce que vous pouvez faire.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Chez Johnson Controls, nous nous engageons à respecter toutes les lois sur les pots-de-vin et la corruption. Voici ce que cela signifie concrètement :]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[Liste de contrôle]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;top:35px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Pour en savoir plus, cliquez sur chaque titre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[N’offrez jamais de pots-de-vin]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[N'offrez jamais aucun objet de valeur à un contact commercial avec l'intention d'influencer son jugement.]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[Conservez des archives détaillées ]]></buttonText>			
+			<popText style="">
+				<text style="line-height: 17px;"><![CDATA[N’essayez pas de dissimuler ou de présenter de manière inexacte des dépenses liées à des divertissements ou cadeaux, enregistrez toutes les transactions honnêtement et correctement. Consultez notre <a href="content/fra/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">Politique relative aux déplacements, aux cadeaux et aux divertissements offerts par ou à un tiers</a> pour de plus amples informations.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[Demandez des comptes aux partenaires commerciaux]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Établissez clairement nos normes en matière de lutte contre la corruption auprès de tous les tiers avec lesquels nous travaillons. Surveillez leur activité et signalez toute suspicion de corruption. Ne travaillez pas avec des partenaires commerciaux qui pratiquent la corruption.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[Apprenez à bien connaître vos tiers]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Si vous êtes responsable de la gestion de tiers, assurez-vous qu’ils sont entièrement approuvés conformément aux exigences du programme des tiers de Johnson Controls.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s04">
+	<transcript>
+		<text path="audio/module4/m04s04" id="0"><![CDATA[Все мы хотим, чтобы наши персональные данные были в безопасности.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Что произойдет, если мы не будем защищать персональные данные?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s04/contentBackground.jpg" minwidth="769"><![CDATA[Офисное помещение]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;"></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Щелкните изображение каждого человека, чтобы узнать его точку зрения.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 168px;">
+		<revealCallOut width="180px" height="184px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s04/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Сотрудник компании Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 80px;top: -15px;">
+				<text><![CDATA[Наши клиенты доверяют нам защиту их персональных данных. Нарушение безопасности может нанести ущерб нашей репутации и подорвать доверие клиентов.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="214px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s04/btn2.png" minwidth="769"><![CDATA[Клиент]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Клиент]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 120px;top: -15px;">
+				<text><![CDATA[Я не хочу отвечать на все новые и новые рекламные звонки и получать спам по электронной почте. Если я предоставляю какой-либо компании свою контактную информацию, я жду, что эта компания<br /> будет обеспечивать ее безопасность, не допустит ее попадания к посторонним лицам и не будет использовать ее для достижения целей, с которыми я не соглашался.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="409px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn3.png" minwidth="769"><![CDATA[Менеджер компании Johnson Controls]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Менеджер компании Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 100px;top: -15px;">
+				<text><![CDATA[Я принимаю активное участие в работе политических организаций, но не хочу, чтобы мои убеждения оказывали влияние на моих подчиненных или отношения с клиентами. Информация о моих убеждениях должна оставаться конфиденциальной.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="603px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn4.png" minwidth="769"><![CDATA[Сотрудник компании Johnson Controls]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Сотрудник компании Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -15px;">
+				<text><![CDATA[Я никому не сообщаю о состоянии своего здоровья и не хочу, чтобы соответствующие сведения узнали сотрудники компании, которые не обязаны их знать.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="798px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn5.png" minwidth="769"><![CDATA[Подрядчик]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Подрядчик]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 120px;top: -15px;">
+				<text><![CDATA[Несколько лет назад кто-то похитил информацию о моих банковских счетах. В результате у меня возникли огромные проблемы, решить которые стоило очень дорого. Я понимаю, что компаниям, с которыми я сотрудничаю, необходимы определенные финансовые данные о моем предприятии, однако я жду, что они будут обеспечивать безопасность и конфиденциальность этих данных.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

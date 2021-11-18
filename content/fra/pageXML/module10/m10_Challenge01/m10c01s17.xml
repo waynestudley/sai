@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Eduardo suggère de se rendre dans un club de strip-tease en bas de la rue. Le reste de l’équipe semble vouloir y aller.]]></text>
+		<text><![CDATA[Comment doit réagir Jian ?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[Restaurant]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Sélectionnez votre réponse, puis cliquez sur « OK ».]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Se rendre au club avec Eduardo et son équipe, mais insister pour payer afin que l’hospitalité d’Eduardo ne soit pas trop excessive.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Aller prendre un verre par politesse et éviter d’embarrasser Eduardo, mais s’assurer de partir assez rapidement.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Décliner poliment l’invitation et rentrer chez lui.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian a raison de penser à la mesure dans laquelle il peut accepter les marques d’hospitalité, mais il y a un autre point à prendre en compte.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Même si Jian n’avait pas l’intention de rester trop longtemps avec Eduardo et son équipe, cela a tout de même causé des problèmes inattendus à Jian et Johnson Controls.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[C’est un choix sûr.]]></text>
+		</correct>
+	</feedback>
+</contents>

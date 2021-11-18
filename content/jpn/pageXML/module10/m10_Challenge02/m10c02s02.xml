@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s02">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s02/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text><![CDATA[]]></text>
+	</contentText>
+	<instructionText>
+		<text><![CDATA[ストーリーのそれぞれのステージをクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c02/m10c02s02/Page_02_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c02/m10c02s02/Page_02_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="13" y="260" width="260" />
+				<text><![CDATA[<span style="font-weight: bold;">エマ</span>（顧客サービス担当）]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="570" y="260" width="250" />
+				<text><![CDATA[<span style="font-weight: bold;">マイト</span>（顧客サービス担当）]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c02/m10c02s02/Page_02_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c02/m10c02s02/Page_02_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="125" y="90" width="170" />
+				<text><![CDATA[こんにちは、マイト。少し話があるんですが… アドバイスが欲しいんです。]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="565" y="138" width="90" arrowStyle="top:10px" />
+				<text><![CDATA[いいよ、何だい？]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3">	
+				<img path="content/images/ltr/module10/m10c02/m10c02s02/Page_02_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c02/m10c02s02/Page_02_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="85" y="90" width="210" arrowStyle="top:20px" />
+				<text><![CDATA[ええと、この間私がどうやって不動産許可を得たか知っていますか？  私の義理の兄弟が不動産開発ビジネスのブローカーとして私を雇用したんです。]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="565" y="138" width="170" arrowStyle="top:10px" />
+				<text><![CDATA[驚きだ。 いつ始めたの？]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripThumImg numberText="4">	
+				<img path="content/images/ltr/module10/m10c02/m10c02s02/Page_02_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c02/m10c02s02/Page_02_Strip_04.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="27" y="90" width="260" arrowStyle="top:20px" />
+				<text><![CDATA[<i>ええと</i>、実はだいたい6か月前くらいに働き始めたの。 最初はビジネスも忙しくなくて、対処できました。 でも、ビジネスが軌道に乗って、すべてに対応できなくなってしまって。 何度か早退’しなくてはいけないのだけれど、言い訳が尽きてしまいました。]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="560" y="128" width="190" arrowStyle="top:20px" />
+				<text><![CDATA[あなたに何が起きているか知りませんでした。 最近本当に気が散っているように見えますね。 家で何か起こったのかと思っていました。]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="5">
+			<stripThumImg numberText="5">	
+				<img path="content/images/ltr/module10/m10c02/m10c02s02/Page_02_Tumb_05.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c02/m10c02s02/Page_02_Strip_05.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="34" y="90" width="260" arrowStyle="top:20px" />
+				<text><![CDATA[ああ、本当に気が散ってしまっているんです。 わからないようにしたかったんだけど。 いくらかお金があればとても助かるんだけど。 お金に困ってるんだ。 どうしたらいいんだろう。]]></text>
+			</stripCallOut>
+		</strip>
+	</comicStrip>
+</contents>

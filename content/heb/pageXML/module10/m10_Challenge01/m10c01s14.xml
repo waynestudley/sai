@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[המעטפה מכילה 300 דולר במזומן. חנן כבר סירב לקבל את המתנה אבל הספק התעקש. מה עליו לעשות?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[חדר ישיבות]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[להשאיר לעצמו את המזומן. תהליך בחירת הספק כבר הסתיים, לכן חנן כבר לא נמצא בעמדת השפעה כלפי הספק.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[לסרב שוב לקבל את הכסף המזומן. אך כאשר הספק מציע לעידו כרטיס מתנה בשווי 100 דולר למסעדה האהובה עליו, הוא יכול לקבל אותו.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[לסרב שוב לכסף המזומן, אך לקבל את הזמנתו של הספק לצאת לארוחת ערב של הצוות.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[חנן השאיר לעצמו את הכסף המזומן, בהנחה שאף אחד לא יגלה זאת.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[לאחר שחנן סירב לקבל את הכסף המזומן בפעם השנייה, הספק מתעקש שיקבל לפחות כרטיס מתנה למסעדה בשווי 100 דולר.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[חנן מסרב שוב בנימוס לכסף המזומן, אך לאחר מכן מקבל את הזמנתו של הספק לצאת לארוחת ערב של הצוות.]]></text>
+		</correct>
+	</feedback>
+</contents>

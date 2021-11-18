@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;right:20px;height: 500px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[Uw rol]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[Beantwoord de volgende vragen betreffende uw rol.]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[Hebt u contact met personen of organisaties die met Johnson Controls concurreren?]]></text>
+		<text id="2"><![CDATA[Bent u verantwoordelijk voor het nemen van aankoopbeslissingen voor Johnson Controls?]]></text>
+		<text id="3"><![CDATA[Maken marketing, verkoop of onderhandelingen met klanten en potentiële klanten deel uit van uw takenpakket?]]></text>
+		<text id="4"><![CDATA[Hebt u toegang tot informatie over klanten, onderaannemers, leveranciers of zakenpartners van Johnson Controls, of over personen die voor hen werken?]]></text>
+		<text id="5"><![CDATA[Hebt u toegang tot informatie over werknemers van Johnson Controls?]]></text>
+		<text id="6"><![CDATA[Doet u rechtstreeks zaken met werknemers, klanten of leveranciers van Johnson Controls die in het buitenland zijn gevestigd of toegang hebben tot technische informatie?]]></text>
+		<text id="7"><![CDATA[Maken internationale reizen, het onthaal van internationale bezoekers of het transport van producten, personen of informatie van Johnson Controls naar buitenlandse bestemmingen deel uit van uw takenpakket? ]]></text>
+		<text id="8"><![CDATA[Bent u lid van een beroepsvereniging of woont u branchecongressen bij? ]]></text>
+		<text id="9"><![CDATA[Geeft u soms geschenken aan derden of ontvangt u soms geschenken van derden, zoals klanten of leveranciers?]]></text>
+		<text id="10"><![CDATA[Biedt u soms amusement aan aan derden of bieden derden u soms amusement aan, zoals klanten of leveranciers?]]></text>
+		<text id="11"><![CDATA[Maken het onderzoek, de ontwikkeling of het ontwerp van producten en diensten van Johnson Controls deel uit van uw takenpakket?]]></text>
+		<text id="12"><![CDATA[Staat u in voor het uitbreiden van de bedrijfsactiviteiten bij nieuwe of bestaande klanten op nieuwe locaties of in nieuwe branches?]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/profileSelection.jpg" minwidth="769"><![CDATA[Werknemers van Johnson Controls]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[Ja]]></text>
+		<text><![CDATA[Nee]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[Doorgaan]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 590px;">
+		<text><![CDATA[Duid voor iedere vraag 'Ja' of 'Nee' aan en klik vervolgens op 'Doorgaan'.]]></text>
+	</instructionText>
+	
+</contents>

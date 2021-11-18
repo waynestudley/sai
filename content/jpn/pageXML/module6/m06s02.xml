@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[独占禁止法が何を促進しているかどのくらい知っていますか？ 正しいと思う選択肢をすべて選択し、「提出」をクリックします。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="font-size:15px;"><![CDATA[競争法が施行される目的は何ですか？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[正義の天秤]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="padding-bottom:15px">
+		<text><![CDATA[該当するものはすべて選択してください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[正解が一つ以上ある場合があります。]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px;font-size:15px;">
+		<option><![CDATA[消費者の選択を促進する]]></option>	
+		<option><![CDATA[貿易障壁を導入する]]></option>	
+		<option><![CDATA[特定の産業で成長を阻害する]]></option>	
+		<option><![CDATA[公平なビジネス取引を推奨する]]></option>	
+		<option><![CDATA[革新と継続した改善に報いる]]></option>	
+		<option><![CDATA[成功しすぎている会社を罰する]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-244px">
+			<text><![CDATA[正解です。]]></text>
+			<text><![CDATA[競争法は、企業が適切な理由で成功することを目的としています。 適切な理由とは最適な製品、サービス、価格を提供するということです。 成功を罰したり、成長を阻害したり、貿易障壁を導入することは意図していません。]]></text>
+			<text><![CDATA[競争法は、競合他社、卸業者、顧客を含む、外部と関係を持つ方法に影響を与えます。]]></text>
+			<text><![CDATA[競争法があなたにどのような影響を与えるか知り、働く場所やビジネスを行う場所に関係なく、これらの法に従うことは非常に重要です。 このモジュールでは、競争法の規定と慣習について学びます。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-244px">
+			<text><![CDATA[不正解です。]]></text>
+			<text><![CDATA[競争法は、企業が適切な理由で成功することを目的としています。 適切な理由とは最適な製品、サービス、価格を提供するということです。 成功を罰したり、成長を阻害したり、貿易障壁を導入することは意図していません。]]></text>
+			<text><![CDATA[競争法は、競合他社、卸業者、顧客を含む、外部と関係を持つ方法に影響を与えます。]]></text>
+			<text><![CDATA[競争法があなたにどのような影響を与えるか知り、働く場所やビジネスを行う場所に関係なく、これらの法に従うことは非常に重要です。 このモジュールでは、競争法の規定と慣習について学びます。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

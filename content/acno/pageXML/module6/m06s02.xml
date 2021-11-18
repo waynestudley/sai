@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[¿Cuánto sabe sobre lo que promueven las leyes de competencia? Seleccione todas las opciones que considere verdaderas y, luego, haga clic en Enviar.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[¿Cuál es el propósito de las leyes de competencia?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[Balanza de la justicia]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleccione todas las opciones que correspondan.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Es posible que haya más de una respuesta correcta.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Fomentar la elección del consumidor.]]></option>	
+		<option><![CDATA[Introducir obstáculos al comercio.]]></option>	
+		<option><![CDATA[Desalentar el crecimiento en ciertas industrias.]]></option>	
+		<option><![CDATA[Alentar las transacciones comerciales justas.]]></option>	
+		<option><![CDATA[Premiar la innovación y la mejora continua.]]></option>	
+		<option><![CDATA[Castigar a las empresas que son demasiado exitosas.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-254px">
+			<text><![CDATA[La respuesta es correcta.]]></text>
+			<text><![CDATA[El objetivo de las leyes de competencia es asegurar que las empresas sean exitosas por los motivos correctos, es decir, porque ofrecen los mejores productos, servicios y precios. No están destinadas a castigar el éxito, desalentar el crecimiento o introducir obstáculos al comercio.]]></text>
+			<text><![CDATA[Las leyes de competencia afectan la forma en que interactuamos con el mundo exterior, incluidos los competidores, proveedores, distribuidores y clientes.]]></text>
+			<text><![CDATA[Es muy importante que esté al tanto del modo en que las leyes de competencia se aplican a usted. Asimismo, es fundamental que cumpla con estas leyes en cualquier lugar donde que trabaje y haga negocios. En este módulo, abordaremos los principios y las prácticas de las leyes de competencia.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-254px">
+			<text><![CDATA[La respuesta no es correcta.]]></text>
+			<text><![CDATA[El objetivo de las leyes de competencia es asegurar que las empresas sean exitosas por los motivos correctos, es decir, porque ofrecen los mejores productos, servicios y precios. No están destinadas a castigar el éxito, desalentar el crecimiento o introducir obstáculos al comercio.]]></text>
+			<text><![CDATA[Las leyes de competencia afectan la forma en que interactuamos con el mundo exterior, incluidos los competidores, proveedores, distribuidores y clientes.]]></text>
+			<text><![CDATA[Es muy importante que esté al tanto del modo en que las leyes de competencia se aplican a usted. Asimismo, es fundamental que cumpla con estas leyes en cualquier lugar donde que trabaje y haga negocios. En este módulo, abordaremos los principios y las prácticas de las leyes de competencia.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

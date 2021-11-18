@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[Теперь ваша очередь продемонстрировать умение соблюдать правила торговли. Соедините каждую ситуацию из числа представленных слева с верным решением из числа представленных справа и щелкните «Отправить».]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px"><![CDATA[Давайте проверим, знаете ли вы, как поступить в каждой из представленных ситуаций. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<instructionText style="height:40px;width:900px">
+		<text><![CDATA[Выберите ситуацию в первом столбце и перетащите стрелки, чтобы сопоставить эту ситуацию с ее решением во втором столбце. Когда все будет готово, щелкните «Отправить».]]></text>
+		<text><![CDATA[Чтобы узнать больше, поочередно нажмите кнопки со знаком вопроса.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[СИТУАЦИЯ]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img01.png"><![CDATA[Пекин]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="line-height:14px;"><![CDATA[Вы отправляетесь в командировку в Пекин. Коллега просит вас взять с собой образец товара и передать его контактному лицу.]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:553px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img02.png"><![CDATA[Крупный план гражданина Сирии]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="line-height:14px;"><![CDATA[Вы являетесь гражданином Великобритании и посещаете клиентов в ЕС. Вы знакомитесь с дистрибьютором, который является гражданином Сирии, дистрибьютор просит вас предоставить ему образец товара.]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:553px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img03.png"><![CDATA[Представитель клиента из Саудовской Аравии]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="line-height:14px;"><![CDATA[Вам звонит представитель клиента из Саудовской Аравии, он задает вам вопросы о протоколе испытаний и технологии проектирования одного из наших продуктов.]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:553px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img04.png"><![CDATA[Команда сотрудников]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="line-height:14px;"><![CDATA[Ваша команда сотрудничает с международной компанией-клиентом, используя сервис OneDrive. Руководитель проекта просит вас загрузить в этот сервис техническую информацию, поскольку ему запрещено отправлять бумажные документы в страну клиента.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[РЕШЕНИЕ]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 643px;top: 8px;height: 60px;">
+				<text style=""><![CDATA[Проверить, допустимо ли это и требуется ли вам разрешение.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img05.png"><![CDATA[Сотрудник говорит по телефону ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 79px;height: 60px;">
+				<text><![CDATA[Дать вежливый отказ. ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img06.png"><![CDATA[Крупный план серьезного мужчины]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 643px;top: 150px;height: 60px;">
+				<text><![CDATA[Попросить о переносе разговора на более поздний срок.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img07.png"><![CDATA[Сотрудник говорит по телефону]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 221px;height: 60px;">
+				<text><![CDATA[Дать отказ.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img08.png"><![CDATA[Сотрудник говорит по телефону]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 8px;position: relative;width: 906px;top: -6px;margin:0;">
+				<text style=""><![CDATA[Вы правильно сопоставили все ситуации и решения.]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 8px;position: relative;width: 906px;top: -6px;margin:0;">
+				<text style=""><![CDATA[Неверно. Чтобы узнать больше, щелкните каждое решение еще раз.]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top:205px;">
+				<text style=""><![CDATA[В этой ситуации лучше всего отправить образец заранее, если есть такая возможность. Если представители отдела по вопросам соблюдения торговых норм разрешили вам перевезти те или иные предметы в ручной клади, вы должны надлежащим образом сообщить работникам таможни, какие именно предметы вы перевозите, при въезде в страну и выезде из нее.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top:205px;">
+				<text style=""><![CDATA[Вы не должны предоставлять образцы товаров гражданам таких стран из санкционных списков, как Сирия, поэтому в данной ситуации вы должны дать вежливый отказ.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:205px;">
+				<text style=""><![CDATA[Для передачи информации вам необходимо получить дополнительные сведения. Уточните у экспертов по вопросам соблюдения торговых норм, можете ли вы предоставить информацию этому человеку.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:205px;">
+				<text style=""><![CDATA[Вы должны отказаться от выполнения этой просьбы. Если вам запрещено экспортировать бумажные версии документов, те же ограничения распространяются и на электронные версии этих же документов.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

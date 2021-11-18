@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/knowledgeCheck/knowledge_check_intro" id="0"><![CDATA[Nachdem Sie diese Schulung nun beendet haben, können Sie im Folgenden durch die Beantwortung einiger Fragen überprüfen, was Sie gelernt haben. Wenn Sie die Prüfung bestehen, können Sie Ihren Leistungsnachweis drucken. Klicken Sie auf „Weiter“, um den Wissenstest zu beginnen.]]></text>
+	</transcript>
+	<contentBg style="padding: 0;top: 70px;width: 520px;right: 20px;"></contentBg>
+	<pageTitle style="padding:15px 20px 10px 25px;width: 360px;margin-bottom:0px;"></pageTitle>
+	<contentText>
+		<text><![CDATA[Beantworten Sie die Fragen, um Ihr Wissen zu prüfen.]]></text>
+		<text><![CDATA[Fragen:]]></text>
+		<text><![CDATA[Bestanden mit:]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="14px" left="0px" bgColor="transparent" color="#0080B6" padding="0px" position="relative"><![CDATA[<i>Bitte klicken Sie auf die Schaltfläche „Weiter“ <span class="nexticon" >[ <img src="content/images/ltr/preAssessment/Next_icon.png" /> ]</span>, um fortzufahren.</i>]]></text>
+	</contentText>
+    <contentBackground>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentIntro.jpg" minwidth="800" minheight="600"><![CDATA[Mitarbeiter von Johnson Controls bei der Arbeit]]></img>
+	</contentBackground>
+	
+</contents>

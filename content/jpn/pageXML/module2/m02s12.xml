@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[接待の場合、受け入れられるものと受け入れられないものについて、あなたの理解を確認してみましょう。 これらオプションについて、受け入れられるか受け入れられないかを答え「送信」をクリックしてください。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[ウェイターが伝票を持って登場。]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;right: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[これらの行動は受け入れられるか受け入れられないかを判断してください。]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[<span style="font-size:13px;">各オプションについて、受け入れられるか受け入れられないかを答え「送信」をクリックしてください。</span>]]></text>
+		<text><![CDATA[<span style="font-size:13px;">先に進むには「次へ」をクリックします。</span>]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img01.png"><![CDATA[スポーツイベントのチケット4枚]]></img>
+			<text style="width: 356px;"><![CDATA[あるベンダーが、メジャーなスポーツイベントに一緒に参加するためのチケット4枚を提供します。 1枚およそ100米ドルの価格で、あなたは受け取る前に彼の提供を報告します。]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img02.png"><![CDATA[入札を確認している従業員]]></img>
+			<text style="width: 356px;"><![CDATA[このベンダーには進行中の入札があるとわかりましたが、あなたは直接関与していないので、チケットを受け取ることにします。]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img04.png"><![CDATA[話しをしている従業員とベンダー]]></img>	
+			<text style="width: 356px;"><![CDATA[進行中の入札に関与している別のベンダーが、もっと小さなイベントの代わりのチケットを提供しており、価格は各々20米ドル程度です。 メジャーイベントのチケットのほうがいいので、これを拒否します。]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;font-size:11px;"><![CDATA[受け入れられる]]></text>
+		<text styleWidth="width:110px;font-size:11px;"><![CDATA[受け入れられない]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[正解です。]]></text>			
+			<text style="font-size: 16px;line-height:24px;"><![CDATA[<ul> <li>メジャーイベントのチケットの価格は、200米ドルを超過しているので、これを報告する必要があります。</li> <li>契約や入札の交渉中には、お客様やベンダーへの贈答品や接待の授受を決して行ってはなりません。</li><li>これらのチケットの価格はより適切ではありますが、不適切にあなたに影響を与えようという何らかの意図がある場合には、この接待さえも不適切といえます。</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[不正解です。]]></text>	
+			<text style="font-size: 16px;line-height:24px;"><![CDATA[<ul> <li>メジャーイベントのチケットの価格は、200米ドルを超過しているので、これを報告する必要があります。</li> <li>契約や入札の交渉中には、お客様やベンダーへの贈答品や接待の授受を決して行ってはなりません。</li><li>これらのチケットの価格はより適切ではありますが、不適切にあなたに影響を与えようという何らかの意図がある場合には、この接待さえも不適切といえます。</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

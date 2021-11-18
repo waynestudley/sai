@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[ما مدى مهارتك في التعرّف على المواقف المحفوفة بالمجازفات؟ اقرأ هذا السيناريو وقرر ما إذا كان يمثل تعارض مصالح أم لا.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[مكتب]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;left: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[هل يمكنك تمييز حالة تعارض مصالح؟  قرر ما إذا كانت المواقف التالية تمثل حالة تعارض محتملة ويجب الإفصاح عن أبعادها أم لا:]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[حدد "نعم" أو "لا" لكل خيار، ثم انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+		<text><![CDATA[انقر على علامات الاستفهام لمعرفة المزيد.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module1/m01s03/img01.png"><![CDATA[امرأة ترتدي مئزرًا كما لو كانت تعمل في مخبز]]></img>
+			<text style="width: 450px;"><![CDATA[تخطط "جينيفر"، وهي إحدى الموظفات في شركة Johnson Controls، للعمل في مخبز أختها الجديد في عطلات نهاية الأسبوع – لكنها أخطرت الشركة بمرضها في هذا الأسبوع للمساعدة في تسيير المتجر أثناء "يوم الافتتاح".]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module1/m01s03/img02.png"><![CDATA[رجل يرتدي ملابس العمل]]></img>
+			<text style="width: 450px;"><![CDATA["آليكس" موظف مشتريات لدى شركة Johnson Controls، وهو يعتقد أن صديقه "ستيف" سيكون خيارًا مثاليًّا لشغل وظيفة شاغرة في الشركة. يقوم بإخبار "ستيف" حول الوظيفة ويقترح عليه ملء طلب التقدم للوظيفة عبر الإنترنت.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/rtl/module1/m01s03/img03.png"><![CDATA[امرأة ترتدي ملابس العمل، ذات أصول شرق أوسطية]]></img>	
+			<text style="width: 450px;"><![CDATA[تعمل "بسمة" مهندسة جودة في شركة Johnson Controls. يعرض عليها الموزّع الذي تدير حسابه فرصة للعمل كمستشارة. وهو يقول إنه يبحث عن المساعدة في إعداد فحوصات الجودة الصادرة لخط إنتاج جديد يقوم بإنشائه لصالح شركة Johnson Controls. يوضح الموزّع لـ "بسمة" أنها يمكنها إتمام عملها في أوقات المساء أو في عطلات نهاية الأسبوع: أي خارج جدول مواعيد عملها الاعتيادي.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module1/m01s03/img04.png"><![CDATA[رجل يرتدي ملابس العمل]]></img>	
+			<text style="width:450px;"><![CDATA[كان "كارل" مسؤولاً عن تحديد بائع تقنية معلومات لدعم شركة Johnson Controls بشأن مشروع مهم. في وقت مبكر من هذا العام، ضخ استثمارات كبيرة في شركة تقنية معلومات يمتلكها صديقه وهذه الشركة تقدمت الآن بعطاء لنيل المهمة.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[نعم]]></text>
+		<text><![CDATA[لا]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[هذا صحيح.]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[هذا ليس صحيحًا. ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[انقر على علامات الاستفهام لمعرفة المزيد.]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[ليست هناك مشكلة في أن تعمل "جينيفر" في المخبز في عطلات نهاية الأسبوع لمساعدة أختها. ومع ذلك ستتسبب في حدوث حالة تعارض إذا كان التزامها نحو أختها يؤثر على مسؤولياتها الوظيفية في شركة Johnson Controls، ومن ذلك عندما ادعت مرضها وفوتت يوم عمل أثناء الأسبوع لأجل المساعدة في تسيير العمل في المخبز.]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[بالرغم من أن "آليكس" يعمل في قسم المشتريات، لكنه لم يستغل منصبه لمساعدة صديقه في الحصول على الوظيفة. فمن المقبول أن يقوم "آليكس" بإسداء صديقه "ستيف" توصية بملء طلب التقدم للوظيفة عبر الإنترنت؛ لأن "ستيف" سيجتاز الإجراءات ذاتها التي سيجتازها جميع المتقدمين الآخرين لشغل الوظيفة.]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[تشرف "بسمة" على عمل موزّع ما وهي الآن تفكر في عرض للعمل مع ذلك الموزّع كوظيفة إضافية. إذا كان كل من الشركتين توظفانها، فلأيهما سيكون ولاؤها؟ هناك احتمالية لأن يحدث تعارض في المصالح، وهذه المواقف يجب تجنبها. على الأقل، تحتاج "بسمة" إلى الإفصاح عن حالة تعارض المصالح المحتملة.]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA["كارل" مؤهل للاستفادة ماليًّا إذا فازت الشركة التي ضخ استثمارات مالية فيها بالعطاء. علاقته الشخصية بالقرار يمكن أن تؤثر في قدرته على اتخاذ قرارات متحيزة، مما يحيل هذا الأمر إلى حالة تعارض مصالح.]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

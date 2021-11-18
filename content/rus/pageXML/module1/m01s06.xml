@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m01s06">
+	<transcript>
+		<text path="audio/module1/m01s06" id="0"><![CDATA[Неразрешенные конфликты интересов могут приводить к снижению качества обслуживания клиентов, злоупотреблению денежными средствами компании, ухудшению отношений с поставщиками, утрате клиентов и ухудшению репутации нашей компании и причастных к конфликтам лиц.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Каковы последствия неразрешения конфликтов интересов?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s06/contentBackground.jpg" minwidth="769"><![CDATA[Офисное помещение]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;height:40px">
+		<text><![CDATA[Щелкните изображение каждого человека, чтобы узнать, как конфликт интересов повлиял на их представление о происходящем и мнение о компании Johnson Controls.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="300px" height="178px" top="10px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module1/m01s06/btn1.png" minwidth="769"><![CDATA[Сотрудник европейской внешности]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Картер, сотрудник компании Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 100px;top: -15px;">
+				<text><![CDATA[Мы с Анной несколько лет выполняли одинаковые обязанности, но у меня стаж больше и работаю я лучше. <i>Анна</i> получила повышение, потому что ее брат, который работает в отделе кадров, надавил на нужных людей. Зачем нужно хорошо работать, если это не дает результатов?]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="178px" top="10px" left="349px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module1/m01s06/btn2.png" minwidth="769"><![CDATA[Индиец]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Раджеш, поставщик компании Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 115px;top: -15px;">
+				<text><![CDATA[Наша фирма уже много лет сотрудничает с компанией Johnson Controls и всегда хорошо выполняет заказы. Недавно Джон — представитель Johnson Controls, с которым я работал, — решил отказаться от наших услуг и начать сотрудничество с компанией своего лучшего друга. Я всегда думал, что Johnson Controls принимает добросовестные решения, но, видимо, это уже не так.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="178px" top="10px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module1/m01s06/btn3.png" minwidth="769"><![CDATA[Мужчина из России или Восточной Европы]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Сергей, клиент компании Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 140px;top: -15px;">
+				<text><![CDATA[В начале этого года я сообщил Винке — сотруднице Johnson Controls, с которой я работаю, — о том, что у нашей фирмы есть определенная потребность. Вместо того чтобы предложить решение, которое могла бы предоставить компания Johnson Controls, Винка порекомендовала нас небольшой фирме, оказывающей те же услуги. Мы обратились в эту фирму и пока что довольны ее работой. Однако недавно я узнал, что Винка является совладельцем этой фирмы, и задумался, этично ли она поступила и соответствовал ли ее поступок нашим интересам и интересам компании Johnson Controls.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

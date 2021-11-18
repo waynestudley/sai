@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[Výborne, úspešne ste absolvovali kurz. Teraz si môžete vytlačiť svoj certifikát. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[Muž používajúci počítač]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative"  padding="0"><![CDATA[Úspešne ste ukončili kurz <span style="color:#00539E;font-weight:bold;font-size:17px;" >Uplatňovanie etického kódexu: kurz Bezúhonné obchodovanie</span>.]]></text>
+		<text width="450px" height="120px" top="10px" left="0px" position="relative" lineHeight="19px" padding="0"><![CDATA[Kliknite na tlačidlo Vytlačiť certifikát a potom kliknite na tlačidlo Domov na návrat do hlavnej ponuky alebo kliknite na tlačidlo Zatvoriť na opustenie kurzu.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="166px" left="20px"><![CDATA[Vytlačiť certifikát]]></text>
+	</buttonText>	
+	<instructionText>
+		<text><![CDATA[Kliknite na tlačidlo Vytlačiť certifikát.]]></text>
+	</instructionText>
+</contents>

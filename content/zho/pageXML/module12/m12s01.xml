@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[非常好，您已成功完成本课程。 现在您可打印证书。 ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[使用个人电脑的男士]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative" padding="0"><![CDATA[您已成功完成<span style="color:#00539E;font-weight:bold;font-size:17px;" >应用道德准则课程： 诚信营商</span>课程。]]></text>
+		<text width="450px" height="130px" top="10px" left="0px" position="relative" padding="0"><![CDATA[单击“打印证书”，然后单击“主页”返回主菜单，或者单击“关闭”按钮离开本课程。]]></text>
+	</panelText>
+	<buttonText>
+		<text top="144px" left="20px"><![CDATA[打印证书]]></text>
+	</buttonText>	
+	<instructionText>
+		<text><![CDATA[单击“打印证书”。]]></text>
+	</instructionText>
+</contents>

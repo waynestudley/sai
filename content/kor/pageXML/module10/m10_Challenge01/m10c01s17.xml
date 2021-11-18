@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Eduardo는 길 아래편에 있는 유명한 젠틀맨스 클럽에 가자고 제안합니다. 팀의 나머지 사람들은 그곳에 가고 싶어 하는 것 같습니다.]]></text>
+		<text><![CDATA[Jian은 어떻게 대응해야 할까요?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[레스토랑]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Eduardo와 그의 팀에 합류하여 클럽에 가되, Eduardo의 접대 비용이 너무 커지지 않도록 직접 지불하겠다고 주장합니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Eduardo가 당황하지 않도록 예의를 지키기 위해 가서 한 잔 마시되, 잠시만 있다가 그 자리를 떠납니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[정중히 거절하고 집에 갑니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian이 어느 정도의 접대를 받을 수 있는지에 대해 생각하는 것은 옳지만, 여기에는 고려해야 할 또 다른 문제가 있습니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian은 잠시 동안만 Eduardo와 그의 팀에 합류하려는 것이었지만 이것만으로도 Jian과 Johnson Controls에 예상치 못한 문제가 발생했습니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[이는 안전한 선택입니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

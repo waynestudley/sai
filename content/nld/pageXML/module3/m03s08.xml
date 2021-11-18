@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[Overheden en toezichthouders treden streng op bij omkoping. Het is dan ook belangrijk dat we allen actief meewerken aan de preventie ervan. Kunt u de handeling in de linkerkolom verbinden met de gevolgen in de rechterkolom?]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Wat gebeurt er met bedrijven die zich inlaten met omkoping en corruptie?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[Een kantoor]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:862px;top:0px;"><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[Selecteer een item uit de eerste kolom en versleep vervolgens de pijlen om het te verbinden met de bijhorende gevolgen uit de tweede kolom. Als u klaar bent, klikt u op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[DE HANDELING]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[Werknemer die iemand een stageplaats toekent ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Investeringsbankiers in Azië en de Stille Oceaangebied van JP Morgan hebben een programma gevoerd waarbij banen en stageplaatsen werden toegekend aan familieleden en vrienden van mogelijke klanten, waaronder overheidsfunctionarissen.  ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[Overheidsfunctionaris die een steekpenning vasthoudt ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Dochtermaatschappijen van een groot internationaal bedrijf dat koper-, aluminium- en glasvezeldraad maakte betaalden miljoenen dollars aan externe agenten en distributeurs. Een deel van dat geld werd gebruikt om overheidsfunctionarissen om te kopen en zo zaken te winnen. Dit leverde het bedrijf 51 miljoen dollar aan winst op.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[DE GEVOLGEN]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[Het bedrijf moest 76 miljoen dollar betalen en twee leidinggevenden die op de hoogte waren van de steekpenningen moesten op hun beurt miljoenen neertellen. ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[Rechter met hamer ]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ De Amerikaanse overheid achtte het bedrijf schuldig aan systematische omkoping, waardoor er veel winst werd binnengehaald. Het bedrijf moest 264 miljoen dollar betalen.]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[Uitzicht op Amerikaans Capitol-gebouw vanaf de trappen van het gerechtsgebouw]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[Omkoping en corruptie kunnen ernstige gevolgen hebben, zowel voor een persoon als voor een bedrijf, van boetes tot gevangenisstraffen.  Johnson Controls rekent te allen tijde op u om omkoping te voorkomen en alle verdachte activiteiten op dit vlak onmiddellijk te melden.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[Omkoping en corruptie kunnen ernstige gevolgen hebben, zowel voor een persoon als voor een bedrijf, van boetes tot gevangenisstraffen.  Johnson Controls rekent te allen tijde op u om omkoping te voorkomen en alle verdachte activiteiten op dit vlak onmiddellijk te melden.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

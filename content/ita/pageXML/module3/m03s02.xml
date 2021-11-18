@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[Quanto sei bravo a riconoscere situazioni di rischio? Leggi il presente scenario, seleziona Concordo o Non concordo per ciascuna ipotesi, quindi fai clic su Inoltra.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[Corridoio doganale]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Un consulente con il quale lavori in Medio Oriente ti dice che l’importo dovuto per una spedizione era elevato ma che ha trovato “una soluzione economica” e che ora la spedizione è stata effettuata. Con quale di queste affermazioni concordi?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Seleziona Concordo o Non concordo per ciascuna ipotesi, quindi fai clic su Inoltra. ]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[Zona portuale]]></img>
+			<text style="width: 450px;"><![CDATA[Questa “soluzione economica” potrebbe coinvolgere qualcuno al quale viene pagata una tangente ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[Zona portuale]]></img>
+			<text style="width: 450px;"><![CDATA[Devi segnalare i sospetti che hai al tuo responsabile o all’Ufficio legale   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[Zona portuale]]></img>	
+			<text style="width: 450px;"><![CDATA[Devi aspettare e vedere che cosa succede, dopodiché parlarne con il tuo responsabile]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[Zona portuale]]></img>	
+			<text style="width:450px;"><![CDATA[Se il consulente ha pagato una tangente per conto della nostra società, sarà ritenuto responsabile lui stesso e non Johnson Controls]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[Zona portuale]]></img>	
+			<text style="width:450px;"><![CDATA[Devi ringraziare il consulente per aver permesso di risparmiare denaro e assegnargli più lavoro in futuro]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text styleWidth="font-size:11px;"><![CDATA[D'accordo]]></text>
+		<text styleWidth="font-size:11px;"><![CDATA[In disaccordo]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 42px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Risposta corretta.]]></text>			
+			<text style="font-size: 13px;"><![CDATA[La “soluzione più economica” potrebbe consistere in una tangente. Talvolta la corruzione può essere molto subdola. In tale caso, devi segnalare immediatamente i tuoi sospetti al tuo responsabile e a un membro dell’Ufficio legale o della conformità oppure segnalare le tue preoccupazioni alla Helpline per l’integrità. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Qualora una terza parte paghi una tangente per conto di Johnson Controls, siamo comunque responsabili.]]></text>			
+		</correct>
+		<incorrect style="top: 42px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Risposta errata.]]></text>	
+			<text style="font-size: 13px;"><![CDATA[La “soluzione più economica” potrebbe consistere in una tangente. Talvolta la corruzione può essere molto subdola. In tale caso, devi segnalare immediatamente i tuoi sospetti al tuo responsabile e a un membro dell’Ufficio legale o della conformità oppure segnalare le tue preoccupazioni alla Helpline per l’integrità. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Qualora una terza parte paghi una tangente per conto di Johnson Controls, siamo comunque responsabili.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="flipCard" className="m06s05">
+	<transcript>
+		<text path="audio/module6/m06s05" id="0" ><![CDATA[When we are in a position of market dominance, we must be careful about our actions to avoid legal risk or damage to our reputation. Click on each reveal button to learn more.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="margin-bottom:0px"><![CDATA[If we hold a dominant position in a particular market we need to avoid actions that could be considered an abuse of that position.]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module6/m06s05/contentBackground.jpg"  minwidth="769"><![CDATA[Two Employees talking]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Click on each reveal button to learn more. You may need to scroll to read the full answer.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<buttonText >
+		<text><![CDATA[REVEAL]]></text>
+	</buttonText>	
+	<flipCardContent >
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module6/m06s05/img1.png" style="" ><![CDATA[Employee working with financial date, graph shows market dominance]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Johnson Controls might hold a dominant position in some markets]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Johnson Controls is a large, global corporation, and in some locations we are the dominant company in our industry.]]></text>			
+				<text style=""><![CDATA[If we are the biggest player in a market, people may have no other option but to buy from us. We need to be careful in our actions and words in such circumstances to avoid being accused of predatory practices.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module6/m06s05/img2.png" style="" ><![CDATA[Line graph showing upward trend]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Competition laws prohibit the abuse of a dominant position]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[A dominant position exists when a company has the power to behave "independently" of its customers, competitors and suppliers.]]></text>				
+				<text><![CDATA[Abuse of dominance can happen when customers have no realistic alternative but to deal with the dominant company.]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module6/m06s05/img3.png" style="" ><![CDATA[Employee reviewing financial data]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Recognize some actions may be risky]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[When we are in a position of market dominance, we must be careful about reputational damage and aware of actions that can carry legal risk under competition laws.]]></text>		
+				<text><![CDATA[So, for example, we have to avoid charging unreasonably high prices or depriving smaller competitors of customers by selling at artificially low prices they can’t compete with.]]></text>		
+				<text><![CDATA[Determining market dominance and what to do about it is a complex matter. If you are ever in doubt, consult the Johnson Controls Law or Compliance team for guidance.]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

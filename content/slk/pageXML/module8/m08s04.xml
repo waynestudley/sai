@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s04">
+	<transcript>
+		<text path="audio/module8/m08s04" id="0"><![CDATA[Debbie je prekvapená fotkou Kim. Urobili by ste to, čo urobila Kim? Vyberte jednu možnosť a potom odošlite vašu odpoveď.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Čo je zlé pri fotografovaní seba v práci a uverejnení fotografie na sociálnej sieti?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module8/m08s04/contentBackground.jpg" minwidth="769"><![CDATA[Žena doma]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[Vyberte jednu možnosť a potom ju odošlite.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Nič, ak je odoslaná na webovú lokalitu, ktorá po prezretí príspevok odstráni]]></option>	
+		<option><![CDATA[Záleží na tom, komu ju posielate]]></option>	
+		<option><![CDATA[Mohol by to byť problém, ak by na pozadí boli dôverné informácie]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[To je správne.]]></text>
+			<text><![CDATA[Musíme chrániť citlivé informácie o zákazníkoch, ako sú napríklad informácie o fakturácii a platbe. Naša spoločnosť má zákonnú povinnosť chrániť údaje o zákazníkoch a spracúvať ich v súlade so zákonom. Ak to neurobíme, môžeme byť značne pokutovaní.  ]]></text>
+			<text><![CDATA[Aj keď neexistuje žiaden úmysel sprístupniť citlivé informácie, môže to byť veľmi škodlivé pre jednotlivca, ako aj pre spoločnosť.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Ľutujeme, to nie je správne.]]></text>
+			<text><![CDATA[Musíme chrániť citlivé informácie o zákazníkoch, ako sú napríklad informácie o fakturácii a platbe. Naša spoločnosť má zákonnú povinnosť chrániť údaje o zákazníkoch a spracúvať ich v súlade so zákonom. Ak to neurobíme, môžeme byť značne pokutovaní.]]></text>
+			<text><![CDATA[Aj keď neexistuje žiaden úmysel sprístupniť citlivé informácie, môže to byť veľmi škodlivé pre jednotlivca, ako aj pre spoločnosť.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

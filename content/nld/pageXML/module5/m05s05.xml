@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0"><![CDATA[Hoe zou u hierop reageren? Duid een optie aan en klik vervolgens op 'Indienen'.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Als u zoals verzocht de technische tekening en integratie-instructies verstuurt, is dit dan een export?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s05/contentBackground.jpg" minwidth="769"><![CDATA[Technische tekeningen]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Duid een optie aan en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Nee, niet als de persoon een klant van Johnson Controls is]]></option>	
+		<option><![CDATA[Ja, het versturen van gereguleerde technische tekeningen en integratie-instructies naar een klant in Frankrijk is een export]]></option>	
+		<option><![CDATA[Ja, maar alleen als de persoon zich in een aan beperkingen onderworpen land, zoals Iran, bevindt]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;padding-top:20px;"><![CDATA[Dat klopt.]]></text>
+			<text><![CDATA[Het versturen van gereguleerde technische informatie, waaronder producttekeningen of instructies, naar iemand in een ander land is een export waarvoor voorafgaande toestemming is vereist.]]></text>
+			<text><![CDATA[Met dat in het achterhoofd mag u de informatie pas versturen zodra u meer weet over de identiteit en locatie van de klant, zodat u kunt bepalen welke toestemmingen er vereist zijn om de export te verrichten.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;padding-top:20px;"><![CDATA[Sorry, dit klopt niet.]]></text>
+			<text><![CDATA[Het versturen van gereguleerde technische informatie, waaronder producttekeningen of instructies, naar iemand in een ander land is een export waarvoor voorafgaande toestemming is vereist.]]></text>
+			<text><![CDATA[Met dat in het achterhoofd mag u de informatie pas versturen zodra u meer weet over de identiteit en locatie van de klant, zodat u kunt bepalen welke toestemmingen er vereist zijn om de export te verrichten.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

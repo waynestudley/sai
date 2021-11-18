@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0"><![CDATA[Juridische overeenkomsten zoals geheimhoudingsovereenkomsten zijn een van de manieren waarop we erover kunnen waken dat anderen de informatie die we met hen delen beschermen. Klik op elke knop 'onthullen' voor meer informatie.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Geheimhoudingsovereenkomsten of NDA's zijn een effectieve manier om ervoor te zorgen dat met een derde gedeelde vertrouwelijke informatie vertrouwelijk blijft.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg" minwidth="769"><![CDATA[Documenten]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Klik op elke knop 'onthullen' voor meer informatie.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ONTHULLEN]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style=""><![CDATA[Geheimhoudingsovereenkomst]]></buttonImg>
+			<buttonText style="height:90px;width:294px;font-size:16px;"><![CDATA[Wanneer gebruiken?]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Gebruik een NDA als u vertrouwelijke informatie deelt met iemand van buiten het bedrijf. Onthul nooit vertrouwelijke informatie voordat er een NDA werd ondertekend. De juridische afdeling van Johnson Controls kan sjablonen verstrekken voor verschillende situaties.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style=""><![CDATA[Persoon die een geheimhoudingsovereenkomst bekijkt]]></buttonImg>
+			<buttonText style="height:90px;width:294px;font-size:16px;"><![CDATA[Andere NDA's gebruiken]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Soms bieden externe bedrijven aan hun eigen NDA's te gebruiken. Ga hier niet mee akkoord. We kunnen hier alleen mee instemmen na een juridische evaluatie en goedkeuring, aangezien dergelijke NDA's van derden worden opgesteld om de belangen van de derde en niet onze belangen te beschermen.]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style=""><![CDATA[Supervisor die gebruik van NDA uitlegt aan werknemer]]></buttonImg>
+			<buttonText style="height:90px;width:294px;font-size:16px;"><![CDATA[Wanneer we instemmen met een NDA]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[Soms ondertekenen we een NDA om de informatie van een ander bedrijf te beschermen. In dit geval is het van cruciaal belang dat we de nodige maatregelen treffen om onze verantwoordelijkheden na te komen. Anders kunnen we worden vervolgd wegens schending van de overeenkomst. Zorg ervoor dat iedereen die met de informatie werkt op de hoogte is van onze verplichting om ze te beschermen.]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

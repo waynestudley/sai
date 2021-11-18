@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle="padding:10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 6px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text style="position:relative;top:0px;line-height:18px;font-size:13px;line-height:16px;"><![CDATA[ノーランと話した後、ジアンはサプライヤーの要求について懸念がありました。特に、許可をより速く得るために支払いをすることについて彼らが公然と話している事についてです。 ]]></text>
+		<text style="position:relative;top:4px;line-height:18px;font-size:13px;line-height:16px;"><![CDATA[そのため、彼は法務部と話しに行きました。 ]]></text>
+	</contentText>
+	<instructionText style="margin-top: 10px;">
+		<text><![CDATA[ストーリーのそれぞれのステージをクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="8" y="265" width="178" />
+				<text><![CDATA[<span class="fontBold">ジアン</span>]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="603" y="260" width="210" />
+				<text><![CDATA[<span class="fontBold">リーファ</span>（弁護士）]]></text>			
+			</stripCallOut>
+		</strip>		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="40" y="32" width="282" arrowStyle="top:62px;" />
+				<text><![CDATA[状況全体があまり好ましいものではありませんね。 TSRは金銭を要求していたためこれは円滑化のための支払いとなる可能性があり、Johnson Controlsの方針に完全に違反しています。 弁護士のところに行って、すべてを話します。]]></text>
+			</stripCallOut>
+		</strip>		
+		<strip id="3">
+			<stripThumImg numberText="3">
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="527" y="12" width="240" arrowStyle="top: 85px;" />
+				<text style="margin-bottom:10px;"><![CDATA[ジアンが円滑化のための支払いを承認せず、サプライヤーの要求について彼の懸念を報告しに来たことは、正しい行いです。 ここからやっていきましょう。]]></text>
+				<text><![CDATA[私たちはジアンに、顧客の契約の約款についてはある程度の柔軟性があることを保証しました。当社の管理外で遅延が発生した場合は、罰則は発生しません。]]></text>
+			</stripCallOut>
+		</strip>
+	</comicStrip>
+</contents>

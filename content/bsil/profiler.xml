@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;right:20px;height: 500px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[Sua função]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[Responda a essas perguntas sobre sua função.]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[Você interage com outras pessoas ou empresas que concorram com a Johnson Controls?]]></text>
+		<text id="2"><![CDATA[Você é responsável por tomar decisões de compra para a Johnson Controls?]]></text>
+		<text id="3"><![CDATA[Seu trabalho envolve marketing, vendas ou negociar com clientes ou clientes em potencial?]]></text>
+		<text id="4"><![CDATA[Você tem acesso a informações sobre clientes, prestadores de serviços, fornecedores ou parceiros de negócios da Johnson Controls ou sobre qualquer indivíduo que trabalhe para eles?]]></text>
+		<text id="5"><![CDATA[Você possui acesso a informações sobre funcionários da Johnson Controls?]]></text>
+		<text id="6"><![CDATA[Você lida diretamente com funcionários, clientes ou fornecedores da Johnson Controls fora do país ou que possuem acesso a informações técnicas?]]></text>
+		<text id="7"><![CDATA[Seu trabalho envolve viagens internacionais, hospedagem de visitantes internacionais ou transporte de produtos, pessoas ou informações da Johnson Controls para o exterior?]]></text>
+		<text id="8"><![CDATA[Você participa de um associação comercial ou de conferências comerciais da indústria?]]></text>
+		<text id="9"><![CDATA[Você já presenteou terceiros ou foi presenteado por terceiros, como clientes ou fornecedores?]]></text>
+		<text id="10"><![CDATA[Você já entreteve terceiros ou foi entretido por terceiros como clientes ou fornecedores?]]></text>
+		<text id="11"><![CDATA[Seu trabalho envolve a pesquisa, desenvolvimento ou engenharia de produtos e serviços da Johnson Controls?]]></text>
+		<text id="12"><![CDATA[Você é responsável por desenvolver negócios com clientes novos ou existentes em locais ou em novos setores?]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/profileSelection.jpg" minwidth="769"><![CDATA[Funcionários da Johnson Controls]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[Sim]]></text>
+		<text><![CDATA[Não]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[Continuar]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 550px;">
+		<text><![CDATA[Selecione Sim ou Não para cada pergunta e depois clique em Continuar.]]></text>
+	</instructionText>
+	
+</contents>

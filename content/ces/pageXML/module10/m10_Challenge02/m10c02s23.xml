@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma nahlásí situaci svému nadřízenému, Rogerovi, ale Roger nic neudělá. Co by nyní měla Emma udělat?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[Nic. Emma situaci nahlásila a je na Rogerovi, aby ji dále řešil.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Promluvit si o svém znepokojení s někým z oddělení pro dodržování předpisů či právního oddělení nebo se obrátit na linku pro otázky integrity.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:18px;"><![CDATA[Emma jednala správně, když se obrátila na svého nadřízeného, Rogera. Emma však nevěří, že s tím Roger bude něco dělat, a proto by měla své znepokojení dále řešit. Může se obrátit na oddělení pro dodržování předpisů, právní oddělení či personální oddělení nebo vznést podnět na linku pro otázky integrity.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma jednala správně, když se obrátila na svého nadřízeného, Rogera. Emma je ale přesvědčena, že Roger nepodnikne žádné další kroky k tomu, aby její podnět vyřešil. Emma proto také jednala správně, když udělala další krok a obrátila se v rámci společnosti na další zdroje, které mohou záležitost posoudit a vhodně řešit.]]></text>
+		</correct>
+	</feedback>
+</contents>

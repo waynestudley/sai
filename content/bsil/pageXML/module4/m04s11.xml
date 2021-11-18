@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[Vamos examinar algumas situações diárias. Essas pessoas estão colocando seus dados pessoais em risco?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Qual das opções a seguir seria considerada um risco à privacidade de dados?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[Escritório atarefado, funcionário trabalhando no computador]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Selecione todas as situações que você acredita que colocam os dados pessoais em risco.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Pode haver mais de uma resposta correta.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Usar um Wi-Fi público]]></option>	
+		<option><![CDATA[Usar a mesma senha em dois locais]]></option>	
+		<option><![CDATA[Publicar uma foto da reunião da equipe com o quadro no fundo exibindo alguma rede social]]></option>	
+		<option><![CDATA[Discutir informações financeiras com um cliente ao telefone em público]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Correto.]]></text>
+			<text><![CDATA[Todos esses exemplos são riscos à privacidade dos dados.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Incorreto.]]></text>
+			<text><![CDATA[Todos esses exemplos são riscos à privacidade dos dados.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

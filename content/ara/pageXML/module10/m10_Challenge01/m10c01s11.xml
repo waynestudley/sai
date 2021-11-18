@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle="padding:10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 6px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c01/m10c01s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text style="position:relative;top:0px;line-height:18px;font-size:15px;"><![CDATA[بعد التحدث إلى نولان، يشعر جيان بالقلق حيال طلب المورد، خصوصًا أنهم يتحدثون بشكل صريح عن تقديم مدفوعات للحصول على تصريح بشكل أسرع. ]]></text>
+		<text style="position:relative;top:6px;line-height:18px;font-size:15px;"><![CDATA[لذا، توجه للتحدث إلى قسم الشؤون القانونية. ]]></text>
+	</contentText>
+	<instructionText style="margin-top: 10px;">
+		<text><![CDATA[انقر فوق كل مرحلة من القصة.]]></text>
+		<text><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/rtl/module10/m10c01/m10c01s11/Page_11_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/rtl/module10/m10c01/m10c01s11/Page_11_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="30" y="265" width="120" />
+				<text><![CDATA[<span class="fontBold">جيان</span>]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="603" y="260" width="150" />
+				<text><![CDATA[<span class="fontBold">لي هوا</span>، محامٍ]]></text>			
+			</stripCallOut>
+		</strip>		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/rtl/module10/m10c01/m10c01s11/Page_11_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/rtl/module10/m10c01/m10c01s11/Page_11_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="40" y="32" width="282" arrowStyle="top:62px;" />
+				<text><![CDATA[فقط لم أكن أشعر بالراحة تجاه الموقف ككل. لقد كانت شركة TSR تطلب المال حتى يمكنهم دفع مدفوعات تيسيرية، وهو أمر يخالف سياسة شركة Johnson Controls مخالفة شديدة. لقد ذهبت إلى المحامين لدينا وأخبرتهم بالقصة كاملةً.]]></text>
+			</stripCallOut>
+		</strip>		
+		<strip id="3">
+			<stripThumImg numberText="3">
+				<img path="content/images/rtl/module10/m10c01/m10c01s11/Page_11_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/rtl/module10/m10c01/m10c01s11/Page_11_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="527" y="12" width="240" arrowStyle="top: 85px;" />
+				<text style="margin-bottom:10px;"><![CDATA[لقد فعل جيان الشيء الصواب من خلال عدم الموافقة على المدفوعات التيسيرية واللجوء إلينا للإبلاغ عن مخاوفه حول طلب المورد. وسوف نتولى التعامل مع الأمر من هذه اللحظة.]]></text>
+				<text><![CDATA[كما أكدنا كذلك على جيان أنه توجد بعض المرونة في فقرة العقوبات في العقد المبرم مع العميل، فالتأخيرات التي تكون خارج نطاق سيطرتنا لا تستلزم فرض عقوبات.]]></text>
+			</stripCallOut>
+		</strip>
+	</comicStrip>
+</contents>

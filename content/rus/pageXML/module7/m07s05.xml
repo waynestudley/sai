@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s05">
+	<transcript>
+		<text path="audio/module7/m07s05" id="0"><![CDATA[Давайте рассмотрим ситуацию, в которой оказалось одно из дочерних предприятий нашей компании. Чтобы ознакомиться с примером из практики, щелкните стрелку.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[Утрата интеллектуальной собственности может повлечь за собой колоссальные затраты, однако компании не всегда вовремя выявляют такие случаи.]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module7/m07s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[Чтобы узнать больше, щелкните стрелку.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module7/m07s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Крупный план хакера, который использует ноутбук]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;line-height:18px;" />
+				<text><![CDATA[В наше время многие компании являются мишенями киберпреступников и похитителей цифровых данных. Иногда компании даже не отдают себе отчет в том, что злоумышленники взломали их компьютерные системы и похитили их коммерческие тайны.]]></text>
+				<text><![CDATA[Киберпреступники проникают в чужие системы и не спеша крадут информацию, действуя так, что владельцы систем этого даже не осознают.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module7/m07s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Цифровые данные]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;line-height:18px;" />
+				<text><![CDATA[Официальные статистические данные о суммах убытков, понесенных в результате хищения коммерческих тайн как во всем мире, так и в отдельных странах, отсутствуют, однако исследование, проведенное в 2014 г. сетью компаний Price Waterhouse Coopers (PwC) и Центром ответственного предпринимательства и торговли, показало, что сумма таких убытков в одних только США составляет примерно 1–3 % ВВП этой страны. Это эквивалент 200–550 млрд долл. США в год.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module7/m07s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Сотрудники работают с ноутбуками]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;line-height:16px;" />
+				<text><![CDATA[Если к этому добавить убытки в других странах с развитой экономикой, вероятно, можно утверждать, что мировые убытки в результате хищения коммерческих тайн измеряются в триллионах долл.]]></text>
+				<text><![CDATA[Существуют основания полагать, что такая крупная международная компания, как Johnson Controls, является мишенью похитителей интеллектуальной собственности. Вот почему все мы должны сохранять бдительность и защищать и надлежащим образом использовать интеллектуальную собственность нашей компании.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

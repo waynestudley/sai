@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[إلى أي درجة تبدو سياسة شركتنا بخصوص الهدايا ووسائل الترفيه مألوفة لك؟ حدد "صحيح" أو "خطأ" لكل خيار هنا، ثم انقر فوق "إرسال".]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[الموظفون]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;top: 30px;padding: 0;left:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[هل هذه العبارات المتعلقة بالهدايا ووسائل الترفيه صحيحة أم خطأ؟]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[حدد "صحيح" أو "خطأ" لكل خيار، ثم انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/rtl/module2/m02s03/img01.png"><![CDATA[شخص يتلقى هدية فيما تجري وسائل ترفيهية في الخلفية]]></img>
+			<text style="width: 390px;"><![CDATA[تغطي سياسات شركة Johnson Controls كل موقف يرتبط بالهدايا ووسائل الترفيه: ولا توجد هناك أي أمور غامضة]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/rtl/module2/m02s03/img02.png"><![CDATA[موظف وقور]]></img>
+			<text style="width: 390px;"><![CDATA[عندما تكون بصدد الحصول على ترفيه أو هدايا، عليك أن تسأل نفسك دائمًا ما يلي: "هل يتوقع شيئًا ما مني في المقابل؟" ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/rtl/module2/m02s03/img03.png"><![CDATA[موظف وقور]]></img>	
+			<text style="width: 390px;"><![CDATA[إذا كان الشخص الذي تعرض عليه هدايا أو ترفيهًا يعتقد أنك تتوقع شيئًا ما في المقابل، فعليك أن تتوقف]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/rtl/module2/m02s03/img04.png"><![CDATA[موظف وقور]]></img>	
+			<text style="width:390px;"><![CDATA[من الأفضل ألا تعرض مطلقًا أو تقبل أي هدايا أو ترفيه: فهذا الأمر ينطوي على مجازفة هائلة]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[صحيح]]></text>
+		<text><![CDATA[خطأ]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 6px;width: 220px;height: 341px;left: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[هذا صحيح.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[فتقديم هدايا وترفيه أو تلقيهما أمر مقبول في الظروف الصحيحة، لكنه يتطلب تقديرًا جيدًا للأمور وفهمًا لتوجيهات شركة Johnson Controls الإرشادية.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[لا يمكن أن تتوقع سياساتنا كل موقف، ولذلك ستحتاج إلى التفكير في الظروف بعناية واستخدام تقديرك للأمور أو التماس المشورة قبل الإقدام على ذلك إذا خامرك شك.]]></text>			
+		</correct>
+		<incorrect style="top: 6px;width: 220px;height: 341px;left: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[هذا ليس صحيحًا.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[فتقديم هدايا وترفيه أو تلقيهما أمر مقبول في الظروف الصحيحة، لكنه يتطلب تقديرًا جيدًا للأمور وفهمًا لتوجيهات شركة Johnson Controls الإرشادية.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[لا يمكن أن تتوقع سياساتنا كل موقف، ولذلك ستحتاج إلى التفكير في الظروف بعناية واستخدام تقديرك للأمور أو التماس المشورة قبل الإقدام على ذلك إذا خامرك شك.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

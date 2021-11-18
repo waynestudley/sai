@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:14px;line-height:18px;"><![CDATA[カルロスは、装置を点検しなければ、このとても大きなビルで交わしているたくさんの契約を失うリスクが生じるという、プレッシャーを感じています。 カルロスはどうしたらいいのでしょうか？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+	</instructionText>
+	<optionContent style="font-size:14px;">
+		<option answer="0" feedbackId="1"><![CDATA[お金を受け取り、装置を点検することで、Johnson Controlsはビル内の他の大口契約を失うことはありませんが、ラファエルにはこれが一回限りの取引だと知らせます。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[お金は受け取りませんが、装置を点検することで、Johnson Controlsはビル内の他の大口契約を失うことはありません。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[会話を途中で打ち切り、彼の上司に電話します。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[カルロスはラファエルからお金を受け取り、不適切に設置された装置を点検します。 Johnson Controlsはビルの契約を継続します。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[カルロスは仕事を続けますが、ラファエルからお金は受け取りません。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[カルロスは上司に連絡して助言を求めます。]]></text>
+			<text style=""><![CDATA[カルロスの上司はチームとともに立ち去るよう指示します。 カルロスがオフィスに戻ると、コンプライアンス部に一緒に電話しました。 ]]></text>
+			<text style=""><![CDATA[調査が開始されると、ラファエルが過去何度かこのオファーをしていたことがわかりました。そして、他のJohnson Controlsの技術者が賄賂を受け取っていました。 会社はこれらの技術者に対して懲戒処分を下しました。 ]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<contentText>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[Emma berusaha untuk tidak membiarkan kerja sambilannya mengganggu kerjanya di Johnson Controls. Tetapi, berita cepat tersebar di pejabat dan kini ada tiga orang rakan sekerja Emma berminat dengan hartanah terbaharunya!  Ketika pelanggan menelefon, Emma menerima mesej segera daripada Sandy di jabatan Perakaunan.]]></text>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[<i>“Hei Emma. Saya INGIN melihat tempat di Newburry Road. Pautan yang kamu hantar nampak hebat. Ia sama seperti yang kami cari. Rasanya bolehkah kita keluar awal sedikit hari ini untuk mengelakkan kesesakan dan kamu tunjukkannya kepada saya?”</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:8px;line-height:20px;">
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;font-size:14px;line-height:16px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma bersetuju meninggalkan tempat kerja awal untuk menunjukkan hartanah tersebut kepada Sandy.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma memberitahu Sandy bahawa dia mempunyai beberapa panggilan yang perlu dijawab dan kertas kerja yang perlu disiapkan dan tidak boleh balik awal. Tetapi dia berkata dia mempunyai lebih banyak gambar dan video pada komputer ribanya dan Sandy boleh singgah di mejanya pada bila-bila masa hari ini untuk melihat dan berbincang lebih lanjut.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma memberitahu Sandy yang dia tidak boleh menunjukkan hartanah tersebut kepada Sandy pada petang ini tetapi dia akan menghantar lebih banyak gambar selepas panggilan pelanggannya. Dia meminta Sandy menghubunginya di rumah petang ini untuk membincangkan butiran lanjut.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="top: -8px;">
+			<text style="padding-top:12px;"><![CDATA[Ini pilihan yang paling berisiko. Mari kita lihat pada perkara yang terjadi apabila Emma membuat keputusan ini.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 210px;" fcStyle="top: -210px;">
+			<text style="padding-top:25px;"><![CDATA[Walaupun Emma tidak balik awal, dia masih menggunakan harta Johnson Controls dan masa syarikat untuk mengendalikan perniagaan luar yang tidak patut dia lakukan dan dia juga mengganggu rakan sekerja lain yang berminat untuk melihat hartanah.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 210px;" fcStyle="top: -210px;">
+			<text style="padding-top:25px;"><![CDATA[Emma mengambil langkah untuk memastikan dua kerjanya berasingan. Walau bagaimanapun, dia tidak sepatutnya menggunakan komputer riba kerja, mesej segera atau e-mel kerjanya untuk mengendalikan perniagaan luar dan dia juga mengganggu rakan sekerja lain yang berminta untuk melihat hartanah.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[這個情境是 Johnson Controls 員工遇到的真實事件。 在這種情況下，您應該怎麼做呢？ 請選取一個選項，然後按一下「提交」。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[您是品類管理經理，正在與客戶的買方開一場例行性會議。 在會議期間，您打開一個包含客戶定價和銷售量資訊的機密資料庫，以回覆該客戶的問題。 當時，客戶在您的身後窺看，並堅持要您將整個檔案寄給他。 您會怎樣做？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[品類管理經理與客戶的買方開會]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;">
+		<text><![CDATA[請選取一個選項，然後按一下「提交」。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[與客戶分享資料庫。 客戶的成功是我們的首要目標]]></option>	
+		<option><![CDATA[解釋資料庫裡包含與其他客戶相關的資訊，所以您無法分享該資料庫。 如果客戶堅持，請先結束會議，然後聯絡經理或法務團隊尋求指示]]></option>	
+		<option><![CDATA[同意與客戶分享資料庫，但要求客戶必須先簽署保密協議]]></option>	
+		<option><![CDATA[聯繫律師，在客戶將該專有資訊使用在其業務用途前，對該客戶提起法律訴訟]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-184px">
+			<text style="font-size:17px;"><![CDATA[正確。]]></text>
+			<text><![CDATA[客戶將聯絡及銀行詳細資訊等資料交付給 Johnson Controls 時，認為我們理當會對這些資料進行保密。]]></text>
+			<text><![CDATA[我們絕對不能與其他 Johnson Controls 客戶分享這類專有的客戶資料。]]></text>
+			<text><![CDATA[分享此資訊的可能後果有： <ul> <li>資料遭到外洩的客戶可能會對我們提告</li> <li>我們可能會遭控操縱價格</li> <li>我們的資料庫智慧財產權可能會出現風險</li> <li>我們可能會危及公司對客戶提供品類管理服務的能力</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-184px">
+			<text style="font-size:17px;"><![CDATA[錯誤。]]></text>
+			<text><![CDATA[客戶將聯絡及銀行詳細資訊等資料交付給 Johnson Controls 時，認為我們理當會對這些資料進行保密。]]></text>
+			<text><![CDATA[我們絕對不能與其他 Johnson Controls 客戶分享這類專有的客戶資料。]]></text>
+			<text><![CDATA[分享此資訊的可能後果有： <ul> <li>資料遭到外洩的客戶可能會對我們提告</li> <li>我們可能會遭控操縱價格</li> <li>我們的資料庫智慧財產權可能會出現風險</li> <li>我們可能會危及公司對客戶提供品類管理服務的能力</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

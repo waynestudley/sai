@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[单击“下一步”继续。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[丹应该如何回应艾玛的请求？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s14/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[他应该依照艾玛的请求采取行动，帮助同事。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[丹不应在电子邮件中直接提供任何医疗信息，但他可以发送艾玛博客的链接。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[丹不应给全公司同事发送邮件，而应该建议艾玛向珊迪征求意见，看他们能帮上什么忙。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[丹向所有 Johnson Controls 的员工发送了一封电子邮件，其中包含关于珊迪意外的信息以及艾玛博客的链接。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[丹发送了一封电子邮件，随附艾玛博客的链接。 他似乎没有意识到此举涉嫌不当使用员工的电子邮件列表。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾玛询问她可以帮什么忙时，珊迪建议艾玛将自己家人在 Facebook 建立的网页告诉她工作中的一些朋友。]]></text>
+			<text><![CDATA[艾玛仅与珊迪建议的人员分享此信息。 她的同事发布帖文，祝福珊迪早日康复，这让她十分振奋。 不少人员向珊迪的医疗费用基金捐款，帮助她缓解忧虑。]]></text>
+		</correct>
+	</feedback>
+</contents>

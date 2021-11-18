@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Ingrid se obává, že Hilde objednala víno, které bylo velmi drahé. Co by měla udělat? ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Nechat večeři plynout a jen doufat, že si nikdo nevšimne ceny vína na výkazu výdajů.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Nechat večeři plynout, protože nemůže odmítnout víno zaplatit, aniž by tím způsobila velmi trapnou situaci. Hodlá však požádat o samostatnou účtenku za víno a zaplatit jej ze svého.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[V soukromí s Hilde promluvit předtím, než číšníci víno připraví, a říci jí, že společnost cenu vína neschválí. Hilde buď může víno zaplatit sama, nebo může objednat cenově dostupnější láhev.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Ingrid zaplatí večeři a předloží výkaz výdajů.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Ingrid zaplatí večeři a předloží výkaz výdajů, ale víno nezahrne.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Hilde vypadá překvapeně, když jí Ingrid řekne, že nemůže víno zaplatit. Po večeři nicméně požádá o samostatný účet a víno sama zaplatí.]]></text>
+		</correct>
+	</feedback>
+</contents>

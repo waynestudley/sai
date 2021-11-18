@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[一家重要供應商要求立即付款。 您認為小江該怎麼做？ 選擇一個選項，然後按一下「確定」。]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[小江面對立即核准支付供應商發票款項的壓力，而且某項專案能否成功可能取決於此。]]></text>
+		<text><![CDATA[他該怎樣做？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[小江正在廚房裡跟諾倫講電話]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[讓諾倫核准這筆款項。 花 1000 美元去避免因延遲交付而遭到更高額的罰款，似乎是合理的作法。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[要求諾倫在獲知這筆款項如何用在許可證上的更多資訊之前，不要核准款項。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[小江要求「會計部」支付發票。 這似乎是讓專案如期進行的最佳方式，花費的成本也比客戶罰款來得低。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[與諾倫談過之後，小江對於供應商的要求感到憂心。]]></text>
+		</correct>
+	</feedback>
+</contents>

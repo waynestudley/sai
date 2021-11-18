@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[ماذا كنت ستفعل إذا أرسل إليك شخص ما بيانات شخصية ليس من المفترض أن تراها؟]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;"><![CDATA[ماذا كنت ستفعل؟ ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[تم إسناد مهمة إليك تتضمن إخطار متعهّدين بخصوص عملية فوترة جديدة. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[تطلب من موظف في قسم آخر أن يرسل إليك قائمة عناوين البريد الإلكتروني، ولكن جدول البيانات الذي يرسله إليك يتضمن كذلك معلومات شخصية تُستخدم لتأمين حسابهم، مثل تاريخ الميلاد واسم الأم ورقم الضمان الاجتماعي. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[ماذا تفعل؟]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[رجال أعمال]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;left: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[حدد خيارًا واحدًا ثم أرسله.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[حذف البريد الإلكتروني والإبلاغ عن فريق خصوصية البيانات عبر إرسال رسالة بريد إلكتروني على العنوان privacy@jci.com]]></option>
+		<option><![CDATA[إعادة توجيه البريد الإلكتروني إلى زملائك في العمل كنموذج لما يجب عدم إرساله بالبريد الإلكتروني]]></option>
+		<option><![CDATA[الحصول فقط على ما تريد من جدول البيانات والتخلص من الباقي بشكل آمن]]></option>
+		<option><![CDATA[مراسلة جميع المتعهّدين بالبريد الإلكتروني لإخبارهم بأن بياناتهم الشخصية تم الكشف عنها]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:126px;" fcStyle="top:-15px">
+			<text style="font-size:17px;"><![CDATA[صحيح.]]></text>
+			<text><![CDATA[تسري قوانين خصوصية البيانات وسياسة خصوصية البيانات السارية في شركة Johnson Controls على المعلومات الشخصية للموظفين وكذلك على العملاء وشركاء العمل. التأكّد من فهم المسؤوليات الملقاة على عاتقك واتباع سياسة الخصوصية السارية في شركة Johnson Controls وجميع قوانين حماية البيانات والخصوصية ذات الصلة.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:126px;" fcStyle="top:-15px">
+			<text style="font-size:17px;"><![CDATA[غير صحيح.]]></text>
+			<text><![CDATA[تسري قوانين خصوصية البيانات وسياسة خصوصية البيانات السارية في شركة Johnson Controls على المعلومات الشخصية للموظفين وكذلك على العملاء وشركاء العمل. التأكّد من فهم المسؤوليات الملقاة على عاتقك واتباع سياسة الخصوصية السارية في شركة Johnson Controls وجميع قوانين حماية البيانات والخصوصية ذات الصلة.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

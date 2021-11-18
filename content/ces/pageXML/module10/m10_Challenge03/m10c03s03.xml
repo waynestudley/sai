@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Carlos cítí nátlak, aby zařízení opravil, jinak riskuje ztrátu několika zakázek ve velmi velké budově. Co by měl Carlos udělat?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Přijmout peníze a opravit zařízení, aby společnost Johnson Controls nepřišla o ostatní velké zakázky v budově, ale jednoznačně Rafaelovi říci, že je to jen pro tentokrát.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Nepřijmout peníze, ale zařízení přesto opravit, aby společnost Johnson Controls nepřišla o ostatní velké zakázky v budově.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Zdvořile ukončit rozhovor a zavolat nadřízenému.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos od Rafaela přijme peníze a opraví nesprávně nainstalovaná zařízení. Společnost Johnson Controls si udrží zakázky v budově.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos provede požadovanou práci, ale nepřijme od Rafaela peníze.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos zavolá svému nadřízenému a požádá o radu.]]></text>
+			<text style=""><![CDATA[Nadřízený dá Carlosovi pokyn, aby i s týmem odešel. Když se Carlos vrátí do kanceláře, společně zavolají na oddělení pro dodržování předpisů. ]]></text>
+			<text style=""><![CDATA[Při následném vyšetřování se zjistí, že Rafael tutéž nabídku již dříve několikrát učinil, přičemž jiní technici společnosti Johnson Controls úplatek přijali. Společnost těmto technikům uloží disciplinární postih. ]]></text>
+		</correct>
+	</feedback>
+</contents>

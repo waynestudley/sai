@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma는 그 상황을 상사인 Roger에게 보고하지만 Roger는 아무 조치도 취하지 않습니다. Emma는 여기서 어떻게 해야 할까요?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[아무것도 하지 않습니다. Emma는 그 사실을 보고했으며 이제 후속 조치를 취하는 것은 Roger의 책임입니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[그녀의 우려 사항에 대해 규정 준수 또는 법무 부서의 담당자에게 이야기하거나 정직성 헬프라인에 문의합니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:18px;"><![CDATA[Emma는 상사인 Roger와 이야기함으로써 올바른 행동을 했습니다. 하지만 Emma는 Roger가 그 문제에 대해 조치를 취할 것인지를 확신할 수 없기 때문에 자신의 우려 사항을 에스컬레이션해야 합니다. 그녀는 규정 준수 또는 법무 부서의 일원 또는 인사 부서 담당자에게 연락하거나 정직성 헬프라인에 우려 사항을 기록할 수 있습니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma는 상사인 Roger와 이야기함으로써 올바른 행동을 했습니다. 하지만 Emma는 Roger가 그녀의 우려 사항을 해결하기 위해 이후에 조치를 취할 것이라고 생각하지 않습니다. 따라서 Emma는 한 걸음 더 나아가 문제를 검토하고 적절하게 해결할 수 있는 회사 내 다른 담당자에게 이야기함으로써 올바른 행동을 했습니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

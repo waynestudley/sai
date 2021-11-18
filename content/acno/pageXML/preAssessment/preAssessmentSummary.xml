@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentTitle>
+		<text><![CDATA[Evaluación previa]]></text>		
+	</contentTitle>
+	<contentBg style="padding:30px 0 0 0;top: 70px;width: 510px;right: 20px;"></contentBg>
+	<pageTitle style="padding:0px 30px;width: 360px;margin-bottom: 10px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/preAssessment/preassessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Empleado de Johnson Controls]]></img>
+	</contentBackground>	
+	<instructionText style="padding:0px 30px 30px;min-height: auto;">		
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<feedbackPass>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[¡Demostró un alto nivel de conocimiento! El contenido del curso ha sido adaptado y ahora podrá omitir ciertas secciones según corresponda.]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="normal" left="0px" color="#00549E" bgColor="#D5D547" padding="20px 30px" position="relative"><![CDATA[Bien hecho]]></text>
+	</feedbackPass>
+	<feedbackPartial>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[¡Demostró un alto nivel de conocimiento! El contenido del curso ha sido adaptado y ahora podrá omitir ciertas secciones según corresponda.]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="normal" left="0px" color="#00549E" bgColor="#D5D547" padding="20px 30px" position="relative"><![CDATA[Bien hecho]]></text>
+	</feedbackPartial>
+	<feedbackFail>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[En esta oportunidad, no respondió todas las respuestas correctamente. Proceda a hacer el curso. Una vez que haya revisado los conceptos básicos, tendrá otra oportunidad para demostrar su conocimiento.]]></text>			
+	</feedbackFail>
+</contents>

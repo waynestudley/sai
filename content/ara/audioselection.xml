@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[اختيار تفضيلات المشاهدة الملائمة لك:]]></text>		
+		<text><![CDATA[تستخدم هذه الدورة عناصر صوتية ومرئية لدعم التعلّم. وبناءً على ذلك نوصيك بمشاهدة الدورة التدريبية في وضع "الصوت/الفيديو". ومع ذلك، يمكنك اختيار مشاهدة الدورة التدريبية في وضع النص والرسومات، وسوف يتم عرض النص والصور بدلاً من الصوت والفيديو.]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/rtl/audioSelection.jpg" minwidth="769"><![CDATA[الموجات الصوتية]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[متابعة]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[تحديد تفضيلات المشاهدة]]></option>
+			<option id="A1"><![CDATA[وضع الصوت /الفيديو]]></option>
+			<option id="A2"><![CDATA[وضع النص والرسومات]]></option>
+	</dropDownMenu>
+</contents>

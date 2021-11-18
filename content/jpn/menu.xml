@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <transcript>
+        <text path="" id="0"><![CDATA[]]></text>        
+        <text path="" id="1"><![CDATA[]]></text>        
+    </transcript>
+	<contentBg style="top:10px;right:17px;padding:0px;width:992px;" chanStyle="width:846px;margin: 0 auto;right:0;float:none;"></contentBg>
+	<pageTitle style="margin-bottom:5px;padding:15px 15px 0;"></pageTitle>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/menuBg.jpg" minwidth="769"><![CDATA[Johnson Controls従業員]]></img>	
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/submenuBg.jpg" minwidth="769"><![CDATA[Johnson Controls従業員]]></img>	
+	</contentBackground>
+	<nextLockAlertPopupText>
+        <text><![CDATA[続行する前にすべてのセクションをクリックする必要があります。]]></text>
+        <text><![CDATA[対応を選択し、「OK」をクリックして続行します。]]></text>
+        <text><![CDATA[進行する前にビデオをすべて見てください。]]></text>
+        <buttonText>
+            <text><![CDATA[OK]]></text>
+        </buttonText>
+    </nextLockAlertPopupText>	
+    <closeCourse>
+        <text><![CDATA[本当にこのコースを終了しますか？]]></text>
+        <buttonText>
+            <text><![CDATA[はい]]></text>
+            <text><![CDATA[いいえ]]></text>
+        </buttonText>
+    </closeCourse>	
+    <title>
+        <text><![CDATA[メインメニュー ]]></text>
+        <text><![CDATA[課題]]></text>
+        <text><![CDATA[倫理規範を適用: インテグリティを持ってビジネスを運営する]]></text>
+        <text><![CDATA[倫理規範の課題]]></text>
+    </title>	
+    <instructionText style="margin-bottom:0px;padding:0px 15px 15px;">
+        <text><![CDATA[モジュールを選択する.]]></text>
+        <text><![CDATA[課題を選択します。]]></text>		
+        <text><![CDATA[モジュールを選択して学んだことを確認するか、「閉じる」をクリックします。]]></text>		
+        <text><![CDATA[「ホーム」ボタンをクリックして、ホームメニューに戻ります。]]></text>		
+        <text><![CDATA[「ホーム」ボタンをクリックしてメインメニューに戻り、トレーニングを修了します。 ]]></text>		
+    </instructionText>
+	
+    <contentText>
+        <text><![CDATA[「倫理規範を適用する」へようこそ: インテグリティを持ってビジネスを運営する]]></text>
+        <text><![CDATA[このコースの単位を受けて、修了証明書にアクセスするには、ハイライトされているモジュールをすべてきちんと修了する必要があります。 フルカラーで表示されます。 ]]></text>
+        <text><![CDATA[あなたの役割や事前評価の成績のため、グレーアウトされていたり、「オプション」としてマークされているモジュールも表示されることがあります。 これらのモジュールにアクセスできますが、必要ない限り修了する必要はありません。]]></text>			
+        <text><![CDATA[]]></text>			
+    </contentText>
+	
+    <buttonText>
+        <text><![CDATA[開始]]></text>
+    </buttonText>
+	<optionalText>
+        <text><![CDATA[オプション]]></text>
+    </optionalText>
+    <bookMark>
+        <text><![CDATA[最後に訪れたページまで<br />続けますか？]]></text>
+        <buttonText>
+            <text><![CDATA[継続]]></text>
+            <text><![CDATA[再起動]]></text>
+        </buttonText>
+    </bookMark>
+    <monthArr>
+        <text><![CDATA[1月]]></text>
+        <text><![CDATA[2月]]></text>
+        <text><![CDATA[3月]]></text>
+        <text><![CDATA[4月]]></text>
+        <text><![CDATA[5月]]></text>
+        <text><![CDATA[6月]]></text>
+        <text><![CDATA[7月]]></text>
+        <text><![CDATA[8月]]></text>
+        <text><![CDATA[9月]]></text>
+        <text><![CDATA[10月]]></text>
+        <text><![CDATA[11月]]></text>
+        <text><![CDATA[12月]]></text>
+    </monthArr>
+    <module id="1" imgPath="content/images/ltr/menuImages/Module_01.png" imgPopPath="content/images/ltr/menuImages/Module_01_popup.png">
+        <title><![CDATA[利益相反]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<p>あなた個人の利益が会社の利益と衝突する可能性があるとき、利益相反は起こり、これは、ビジネス決定を行うあなたの能力を損なう可能性があります。</p><p>Johnson Controlsのためにあなたの仕事における利害対立を確認し、避ける方法を学びます。</p><span>所用時間： 6 分</span>]]></overText>
+        <page>
+            <title><![CDATA[ようこそ。 利益の対立を回避する。]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[一般的な状況下での潜在的相反]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[利益の対立を認識する]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[利益の対立を認識する]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ケーススタディ: 利害相反は会社を害する可能性があります]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[相反の結果]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[相反の対処方法]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[まとめと重要な連絡先]]></title>
+        </page>			
+    </module>
+    <module id="2" imgPath="content/images/ltr/menuImages/Module_02.png" imgPopPath="content/images/ltr/menuImages/Module_02_popup.png">
+        <title><![CDATA[適切に贈答品と接待を使用する]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<p>贈答品と接待の交換は、ビジネス関係の構築を促す場合もありますが、適切に対応しないと問題が生じることもあります。</p><p>適切な贈答品や接待のみを提供または受け取る方法を学びます。</p><span>所用時間： 6 分</span>]]></overText>
+        <page>
+            <title><![CDATA[ようこそ。 適切に贈答品と接待を使用します。]]></title>
+        </page>
+        <page>
+            <title><![CDATA[適切な判断が必要です]]></title>
+        </page>
+        <page>
+            <title><![CDATA[正しいか間違いかを答えてください。]]></title>
+        </page>
+        <page>
+            <title><![CDATA[贈答品と接待の考慮]]></title>
+        </page>
+        <page>
+            <title><![CDATA[贈り物と接待]]></title>
+        </page>
+        <page>
+            <title><![CDATA[あなたの番です]]></title>
+        </page>
+        <page>
+            <title><![CDATA[贈答品に関する詳細]]></title>
+        </page>
+        <page>
+            <title><![CDATA[贈答品のチェックリスト]]></title>
+        </page>
+        <page>
+            <title><![CDATA[あなたの番です]]></title>
+        </page>
+        <page>
+            <title><![CDATA[接待に関する詳細]]></title>
+        </page>
+        <page>
+            <title><![CDATA[接待のチェックリスト]]></title>
+        </page>
+        <page>
+            <title><![CDATA[あなたの番です]]></title>
+        </page>
+        <page>
+            <title><![CDATA[公務員との対応]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[まとめと重要な連絡先]]></title>
+        </page>				
+    </module>
+    <module id="3" imgPath="content/images/ltr/menuImages/Module_03.png" imgPopPath="content/images/ltr/menuImages/Module_03_popup.png">
+        <title><![CDATA[ビジネスにおいて賄賂を避けます。]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<p>当社の評判は、正直かつ公正にビジネスを実施することにかかっています。 賄賂と汚職は非合法であり、行うべきではありません。</p><p>わずかな賄賂や汚職でも認識する方法と、潜在的な犯罪活動に意図せず関与してしまうことを避ける方法を学びます。</p><span>所用時間： 6 分</span>]]></overText>
+        <page>
+            <title><![CDATA[ようこそ。 ビジネスにおいて賄賂を避けます。]]></title>
+        </page>
+        <page>
+            <title><![CDATA[リスキーな状況を認識する]]></title>
+        </page>
+        <page>
+            <title><![CDATA[賄賂を認識する]]></title>
+        </page>
+        <page>
+            <title><![CDATA[汚職の認識]]></title>
+        </page>
+        <page>
+            <title><![CDATA[あなたの番です]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ケーススタディ 十分な協力と開示]]></title>
+        </page>
+        <page>
+            <title><![CDATA[賄賂と汚職をどのように防ぐことができるか]]></title>
+        </page>
+       <page>
+            <title><![CDATA[結果]]></title>
+        </page> 
+        <page>
+            <title><![CDATA[円滑化のための支払いとは何ですか？]]></title>
+        </page>
+        <page>
+            <title><![CDATA[まとめと重要な連絡先]]></title>
+        </page>				
+    </module>
+    <module id="4" imgPath="content/images/ltr/menuImages/Module_04.png" imgPopPath="content/images/ltr/menuImages/Module_04_popup.png">
+        <title><![CDATA[個人データを安全に保護する]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<p>私たちは全員、顧客、従業員、ビジネスパートナーの個人データを保護する責任があります。</p><p>データプライバシーに対する会社のコミットメントと、ソーシャルメディアの使用に関する責任をどのようにサポートできるかを学びます。</p><span>所用時間： 6 分</span>]]></overText>
+        <page>
+            <title><![CDATA[ようこそ。 個人データを安全に保護する]]></title>
+        </page>
+        <page>
+            <title><![CDATA[利便性の問題]]></title>
+        </page>
+        <page>
+            <title><![CDATA[個人データの概要]]></title>
+        </page>
+        <page>
+            <title><![CDATA[データのプライバシーは何故問題なのでしょうか？]]></title>
+        </page>
+        <page>
+            <title><![CDATA[個人情報の認識]]></title>
+        </page>
+        <page>
+            <title><![CDATA[個人データの保護]]></title>
+        </page>
+        <page>
+            <title><![CDATA[個人データ保護について理解する]]></title>
+        </page>
+        <page>
+            <title><![CDATA[プライバシーとソーシャルメディア]]></title>
+        </page>
+        <page>
+            <title><![CDATA[公共の場では安全を保つ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[パスワード保護]]></title>
+        </page>
+        <page>
+            <title><![CDATA[個人データをリスクにさらしているでしょうか？]]></title>
+        </page>
+        <page>
+            <title><![CDATA[まとめと重要な連絡先]]></title>
+        </page>				
+    </module>
+    <module id="5" imgPath="content/images/ltr/menuImages/Module_05.png" imgPopPath="content/images/ltr/menuImages/Module_05_popup.png">
+        <title><![CDATA[ビジネスをグローバルに行うための貿易要件 ]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<p>グローバル企業として、Johnson Controlsは国際組織と海外政府により確立されたさまざまな貿易管理が課せられます。</p><p>貿易管理がどのような影響を与えるか、会社の貿易責任をサポートするために何ができるかを学びます。</p><span>所用時間： 6 分</span>]]></overText>
+        <page>
+            <title><![CDATA[ようこそ。 ビジネスをグローバルに行うための貿易要件]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[海外の依頼]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[海外の依頼]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[海外の依頼]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[海外の依頼]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[海外の依頼]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[海外の依頼]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[輸出の認識度]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[理解度を確認する]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[何故貿易管理が存在するのでしょうか]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[何をするべきなのか]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[あなたの番です]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[まとめと重要な連絡先]]></title>
+        </page>				
+    </module>
+    <module id="6" imgPath="content/images/ltr/menuImages/Module_06.png" imgPopPath="content/images/ltr/menuImages/Module_06_popup.png">
+        <title><![CDATA[誠実さを持って販売する]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<p>Johnson Controlsでは、誠実性をもって販売し、すべての競争法に従います。 これらの法では、市場における公平性と自由さを保証し、会社が支配的な立場を乱用することを禁止します。</p><p>公平な競争に対する会社のコミットメントについて、そしてこの領域で基準を保持する方法について学びます。</p><span>所用時間： 6 分</span>]]></overText>
+        <page>
+            <title><![CDATA[ようこそ。 誠実さを持って販売する]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[なぜ競争法が存在するのでしょうか]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[不適切な契約を認識する]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[不公平な競争を認識する]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[支配的な立場を取り扱う]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[支配的な立場の乱用を避ける]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ケーススタディ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[競争法の違反を避ける]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[まとめと重要な連絡先]]></title>
+        </page>				
+    </module>
+    <module id="7" imgPath="content/images/ltr/menuImages/Module_07.png" imgPopPath="content/images/ltr/menuImages/Module_07_popup.png">
+        <title><![CDATA[知的財産の保護]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<p>特許、商標、著作権等、知的財産は、Johnson Controlsのビジネスにとって重要であり、保護する義務があります。 </p><p>あなたの行動によって、窃盗や誤用から知的財産をどのように保護できるか学びます。</p><span>所用時間： 6 分</span>]]></overText>
+        <page>
+            <title><![CDATA[ようこそ。 知的財産の保護]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[知的財産とは何でしょうか？]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[理解度をチェックします]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[知的財産の種類]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[地元IPのコスト]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[あなたの番です]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[あなたの役割]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[商標を使用する]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[この場合、どうすべきでしょうか？]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[まとめと重要な連絡先]]></title>
+        </page>				
+    </module>
+    <module id="8" imgPath="content/images/ltr/menuImages/Module_08.png" imgPopPath="content/images/ltr/menuImages/Module_08_popup.png">
+        <title><![CDATA[機密情報の保護]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<p>業務において、当社、当社の顧客、ビジネスに関する機密情報を知る可能性があります。</p><p>そのような情報を取り扱い保護するために、Johnson Controlsの要件について学びます。</p><span>所用時間： 6 分</span>]]></overText>
+        <page>
+            <title><![CDATA[ようこそ。 機密情報の保護]]></title>
+        </page>
+        <page>
+            <title><![CDATA[リスキーな状況]]></title>
+        </page>
+		<page>
+            <title><![CDATA[リスキーな状況]]></title>
+        </page>
+        <page>
+            <title><![CDATA[リスキーな状況]]></title>
+        </page>
+        <page>
+            <title><![CDATA[リスキーな状況]]></title>
+        </page>
+        <page>
+            <title><![CDATA[情報を使用して毎日業務を行う]]></title>
+        </page>
+        <page>
+            <title><![CDATA[あなたは、何の機密を保持しなければなりませんか？]]></title>
+        </page>
+        <page>
+            <title><![CDATA[制限、保護、削除]]></title>
+        </page>
+        <page>
+            <title><![CDATA[機密情報を保護するために何ができるでしょうか。]]></title>
+        </page>
+        <page>
+            <title><![CDATA[あなたの番です]]></title>
+        </page>
+        <page>
+            <title><![CDATA[NDAを使用して、保護レベルを追加します]]></title>
+        </page>
+        <page>
+            <title><![CDATA[まとめと重要な連絡先]]></title>
+        </page>
+    </module>
+    <module id="9" imgPath="content/images/ltr/menuImages/Module_09.png" imgPopPath="content/images/ltr/menuImages/Module_09_popup.png">
+        <title><![CDATA[競合知識を公平に入手します]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<p>競合知識はビジネス環境をより理解するのに役立ちますが、この情報を取得する方法に対して、厳密な倫理基準が存在します。</p><p>Johnson Controlsの規定と法に準拠した方法で、競争力のあるインテリジェンスを集め、使用する方法を学びます。</p><span>所用時間： 6 分</span>]]></overText>
+        <page>
+            <title><![CDATA[ようこそ。 競合知識を公平に入手します。]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[間違った方法で情報を集める]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[どの情報が機密ですか？]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[何が間違いとなりますか？]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[偽装、背信行為、詐欺を避けます]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[理解度を確認する]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[まとめと重要な連絡先]]></title>
+        </page>				
+    </module>
+    <module id="10" imgPath="content/images/ltr/menuImages/Module_10.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup.png">
+        <title><![CDATA[2018年度倫理規範の課題]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<p>演習問題で学んだことを適用します。 ビジネスのゴールを達成し、結果への損害を避けるために良い判断を行います。</p><span>所用時間： 10 分</span>]]></overText>
+        <page>
+            <title><![CDATA[]]></title>
+        </page>					
+    </module>
+    <module id="11" imgPath="content/images/ltr/menuImages/Module_10_1.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup1.png">
+        <title><![CDATA[オフィス、マーケティング、販売環境]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+		<overText><![CDATA[<span class="subMenuStart">「開始」をクリックして、課題を入力します。</span>]]></overText>
+        <page>
+            <title><![CDATA[緊急の依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[緊急の依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[緊急の依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[緊急の依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[緊急の依頼]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[重要なレッスン]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[重要なレッスン]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[感謝するサプライヤー]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[重要なレッスン]]></title>
+        </page>				
+    </module>
+    <module id="12" imgPath="content/images/ltr/menuImages/Module_10_2.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup2.png">
+        <title><![CDATA[顧客サポート]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+         <overText><![CDATA[<span class="subMenuStart">「開始」をクリックして、課題を入力します。</span>]]></overText>
+        <page>
+            <title><![CDATA[義務との相反]]></title>
+        </page>
+        <page>
+            <title><![CDATA[義務との相反]]></title>
+        </page>
+        <page>
+            <title><![CDATA[義務との相反]]></title>
+        </page>
+        <page>
+            <title><![CDATA[義務との相反]]></title>
+        </page>
+        <page>
+            <title><![CDATA[義務との相反]]></title>
+        </page>
+        <page>
+            <title><![CDATA[義務との相反]]></title>
+        </page>
+        <page>
+            <title><![CDATA[義務との相反]]></title>
+        </page>
+        <page>
+            <title><![CDATA[義務との相反]]></title>
+        </page>
+        <page>
+            <title><![CDATA[重要なレッスン]]></title>
+        </page>
+        <page>
+            <title><![CDATA[同僚をサポートする]]></title>
+        </page>
+        <page>
+            <title><![CDATA[同僚をサポートする]]></title>
+        </page>
+        <page>
+            <title><![CDATA[同僚をサポートする]]></title>
+        </page>
+        <page>
+            <title><![CDATA[同僚をサポートする]]></title>
+        </page>
+        <page>
+            <title><![CDATA[同僚をサポートする]]></title>
+        </page>
+        <page>
+            <title><![CDATA[同僚をサポートする]]></title>
+        </page>
+        <page>
+            <title><![CDATA[同僚をサポートする]]></title>
+        </page>
+        <page>
+            <title><![CDATA[重要なレッスン]]></title>
+        </page>
+        <page>
+            <title><![CDATA[普通ではない依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[普通ではない依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[普通ではない依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[普通ではない依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[普通ではない依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[普通ではない依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[重要なレッスン]]></title>
+        </page>
+    </module>
+    <module id="13" imgPath="content/images/ltr/menuImages/Module_10_3.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup3.png">
+        <title><![CDATA[現場外の環境]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[<span class="subMenuStart">「開始」をクリックして、課題を入力します。</span>]]></overText>
+        <page>
+            <title><![CDATA[驚くような依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[驚くような依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[驚くような依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[驚くような依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[驚くような依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[驚くような依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[驚くような依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[驚くような依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[驚くような依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[驚くような依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[重要なレッスン]]></title>
+        </page>
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[重要なレッスン]]></title>
+        </page>
+        <page>
+            <title><![CDATA[夜に出かける]]></title>
+        </page>
+        <page>
+            <title><![CDATA[夜に出かける]]></title>
+        </page>
+        <page>
+            <title><![CDATA[イレギュラーな依頼]]></title>
+        </page>
+        <page>
+            <title><![CDATA[夜に出かける]]></title>
+        </page>
+        <page>
+            <title><![CDATA[夜に出かける]]></title>
+        </page>
+        <page>
+            <title><![CDATA[夜に出かける]]></title>
+        </page>
+        <page>
+            <title><![CDATA[夜に出かける]]></title>
+        </page>
+        <page>
+            <title><![CDATA[夜に出かける]]></title>
+        </page>
+        <page>
+            <title><![CDATA[夜に出かける]]></title>
+        </page>
+        <page>
+            <title><![CDATA[重要なレッスン]]></title>
+        </page>
+    </module>
+    <module id="14" imgPath="content/images/ltr/menuImages/Module_11.png" imgPopPath="content/images/ltr/menuImages/Module_11_popup.png">
+        <title><![CDATA[知識チェック]]></title>
+        <altText><![CDATA[Johnson Controls従業員]]></altText>
+        <overText><![CDATA[学んだことを示して、コース修了の証明書にアクセスします。<span>所用時間： 5-10分</span>]]></overText>
+        <page>
+            <title><![CDATA[知識チェック]]></title>
+        </page>
+        <page>
+            <title><![CDATA[知識チェック]]></title>
+        </page>
+        <page>
+            <title><![CDATA[結果]]></title>
+        </page>
+    </module>
+    <module id="15" imgPath="content/images/ltr/menuImages/Module_12.png" imgPopPath="content/images/ltr/menuImages/Module_12_popup.png">
+        <title><![CDATA[証明書]]></title>
+        <altText><![CDATA[パソコンを使用している男性]]></altText>
+        <overText><![CDATA[コース修了の証明書にアクセスします。]]></overText>
+        <page>
+            <title><![CDATA[証明書]]></title>
+        </page>
+    </module>
+	
+    <tootTip>
+        <element button=".btn_Next" location="top" gap="8" width="auto"><![CDATA[次へ]]></element>
+        <element button=".nextBlink" location="top" gap="8" width="auto"><![CDATA[次へ]]></element>
+        <element button=".btn_Back" location="top" gap="8" width="auto"><![CDATA[戻る]]></element>
+        <element button=".replayPage" location="top" gap="10" width="auto"><![CDATA[巻き戻し]]></element>
+        <element button=".transcriptOn" location="top" gap="10" width="auto"><![CDATA[字幕オフ]]></element>
+        <element button=".transcriptOff" location="top" gap="10" width="auto"><![CDATA[字幕オン]]></element>
+        <element button=".audioOn" location="top" gap="10" width="auto"><![CDATA[音声オフ]]></element>
+        <element button=".audioOff" location="top" gap="10" width="auto"><![CDATA[音声オン]]></element>
+        <element button=".btn_Menu" location="top" gap="10" width="auto"><![CDATA[ホーム]]></element>
+        <element button=".fw_CloseTranscript" location="bottom" gap="10" width="auto"><![CDATA[閉じる]]></element>
+        <element button=".fw_MenuClose" location="top" gap="10" width="auto"><![CDATA[閉じる]]></element>
+        <element button=".menuBlink" location="top" gap="10" width="auto"><![CDATA[次へ]]></element> 
+        <element button=".fw_GlossaryClose" location="top" gap="10" width="auto"><![CDATA[閉じる]]></element> 
+        <element button=".btn_Exit" location="top" gap="10" width="auto"><![CDATA[閉じる]]></element> 
+    </tootTip>
+	
+    <transcriptGlobalText>
+	  <text><![CDATA[ドラッグボックス]]></text>
+    </transcriptGlobalText>
+	
+    <reEntryProfilerPopup>
+        <text><![CDATA[プロフィールの選択を変更する場合、コースのすべての進捗データを失います。 これはつまり、すでに修了したものも含めて、割り当てられたすべてのモジュールを完了する必要があるということです。 すでに知識チェックを正常に完了した場合、この完了データは維持されます。 続行しますか？]]></text>
+        <text><![CDATA[はい]]></text>
+        <text><![CDATA[いいえ]]></text>
+    </reEntryProfilerPopup>
+ 
+</course>

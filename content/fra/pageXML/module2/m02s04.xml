@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m02s04">
+	<transcript>
+		<text path="audio/module2/m02s04" id="0"><![CDATA[Il y a beaucoup de facteurs à prendre en compte avant d’offrir ou d’accepter des cadeaux ou divertissements. Cliquez sur chaque titre pour en savoir plus.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 655px;margin-bottom:0px"><![CDATA[Dans le domaine des cadeaux et divertissements, vous devez toujours tenir compte de ce qui suit : ]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module2/m02s04/contentBackground.jpg" minwidth="769"><![CDATA[Salarié ayant l’air songeur]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 655px;"></pageTitle>
+	<instructionText style="width: 655px;">
+		<text><![CDATA[Sélectionnez chaque titre. Pour passer au suivant, cliquez sur la X pour fermer le texte.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<revealCallOutContent style = "top:200px;">
+		<revealCallOut width="220px" height="190px" top="0px" left="288px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module2/m02s04/btn1.png" minwidth="769"><![CDATA[Salarié ayant l’air songeur]]></img>
+			<buttonText style="height: 60px;"><![CDATA[Valeur]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="90px" style="height: 220px;top: -220px;left:288px;width:690px;">
+				<text><![CDATA[Demandez-vous : « Combien le cadeau vaut-il ? »]]></text>						
+				<text><![CDATA[Des cadeaux onéreux ou somptueux peuvent envoyer le mauvais message, ils ne sont quasiment jamais appropriés.]]></text>						
+				<text><![CDATA[Contentez-vous de cadeaux ordinaires et raisonnables selon les circonstances et documentez correctement et honnêtement tout cadeau.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="220px" height="190px" top="0px" left="524px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module2/m02s04/btn2.png" minwidth="769"><![CDATA[Salarié ayant l’air songeur]]></img>
+			<buttonText style="height: 60px;"><![CDATA[Fréquence]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="400px" style="height: 220px;top: -220px;left:288px;width:690px;">
+				<text><![CDATA[Demandez-vous : « Est-ce la première fois ou l’une des nombreuses fois ? »]]></text>					
+				<text><![CDATA[N’oubliez pas que même des cadeaux modestes peuvent s’accumuler dans la durée.]]></text>					
+				<text><![CDATA[Évitez de donner ou recevoir fréquemment des cadeaux ou divertissements, notamment lorsqu’ils concernent le même client ou partenaire commercial.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="220px" height="190px" top="0px" left="758px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module2/m02s04/btn3.png" minwidth="769"><![CDATA[Salarié ayant l’air songeur]]></img>
+			<buttonText style="height: 60px;"><![CDATA[Apparences et intention]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="760px" style="height: 220px;top: -220px;left:288px;width:690px;">
+				<text><![CDATA[Demandez-vous : « Quelle impression aurait un observateur indépendant sur la situation ? »]]></text>			
+				<text><![CDATA[Tout cadeau ou divertissement doit contribuer à établir une réputation et une relation commerciale de confiance et ne doit jamais représenter une tentative d’affecter le jugement indépendant de son bénéficiaire.]]></text>			
+				<text><![CDATA[Offrir un cadeau ou un divertissement afin d’obtenir un avantage commercial est toujours inapproprié, indépendamment de sa valeur.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

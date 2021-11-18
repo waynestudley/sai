@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/knowledgeCheck/knowledge_check_intro" id="0"><![CDATA[כעת, לאחר שהשלמת קורס זה, השב לסדרת שאלות כדי לבדוק מה למדת. אם תעבור, תוכל להדפיס את תעודת הסיום. לחץ על 'הבא' כדי להתחיל בבדיקת הידע.]]></text>
+	</transcript>
+	<contentBg style="padding: 0;top: 70px;width: 430px;left: 20px;"></contentBg>
+	<pageTitle style="padding:15px 20px 10px 25px;width: 360px;margin-bottom:0px;"></pageTitle>
+	<contentText>
+		<text><![CDATA[כדי לבדוק את הידע שלך, השב לסדרת שאלות.]]></text>
+		<text><![CDATA[שאלות:]]></text>
+		<text><![CDATA[ציון עובר:]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="17px" left="0px" bgColor="transparent" color="#0080B6" padding="0px" position="relative"><![CDATA[<i>לחץ על לחצן 'הבא' <span class="nexticon" >[ <img src="content/images/rtl/preAssessment/Next_icon.png" /> ]</span> כדי להתחיל.</i>]]></text>
+	</contentText>
+    <contentBackground>		
+		<img path="content/images/rtl/knowledgeCheck/assessmentIntro.jpg" minwidth="800" minheight="600"><![CDATA[צוות Johnson Controls בעבודה]]></img>
+	</contentBackground>
+	
+</contents>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0" ><![CDATA[Well done, you have successfully completed the course. You can now print your certificate. ]]></text>
+	</transcript>
+	 <contentBackground >		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[Man using a PC]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style="" ></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px"  left="0px"  position="relative" padding="0" ><![CDATA[You have successfully completed the <span style="color:#00539E;font-weight:bold;font-size:17px;" >Applying the Ethics Code: Doing Business with Integrity</span> course.]]></text>
+		<text width="450px" height="120px" top="10px"  left="0px" position="relative"  padding="0" ><![CDATA[Click on Print certificate then click on Home to return to the Main menu, or click on Close to leave the course.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="170px" left="20px" ><![CDATA[Print certificate]]></text>
+	</buttonText>	
+	<instructionText >
+		<text ><![CDATA[Click on Print certificate.]]></text>
+	</instructionText>
+</contents>

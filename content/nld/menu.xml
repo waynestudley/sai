@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <transcript>
+        <text path="" id="0"><![CDATA[]]></text>        
+        <text path="" id="1"><![CDATA[]]></text>        
+    </transcript>
+	<contentBg style="top:10px;right:17px;padding:0px;width:992px;" chanStyle="width:846px;margin: 0 auto;right:0;float:none;"></contentBg>
+	<pageTitle style="margin-bottom:5px;padding:15px 15px 0;"></pageTitle>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/menuBg.jpg" minwidth="769"><![CDATA[Werknemers van Johnson Controls]]></img>	
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/submenuBg.jpg" minwidth="769"><![CDATA[Werknemers van Johnson Controls]]></img>	
+	</contentBackground>
+	<nextLockAlertPopupText>
+        <text><![CDATA[U moet op alle rubrieken klikken voordat u kunt doorgaan.]]></text>
+        <text><![CDATA[Selecteer een antwoord en klik op 'OK' om door te gaan.]]></text>
+        <text><![CDATA[Bekijk de volledige video voordat u verder gaat.]]></text>
+        <buttonText>
+            <text><![CDATA[OK]]></text>
+        </buttonText>
+    </nextLockAlertPopupText>	
+    <closeCourse>
+        <text><![CDATA[Weet u zeker dat u de cursus wilt afsluiten?]]></text>
+        <buttonText>
+            <text><![CDATA[Ja]]></text>
+            <text><![CDATA[Nee]]></text>
+        </buttonText>
+    </closeCourse>	
+    <title>
+        <text><![CDATA[Hoofdmenu ]]></text>
+        <text><![CDATA[Uitdagingen]]></text>
+        <text><![CDATA[De ethische code toepassen: integer zakendoen]]></text>
+        <text><![CDATA[Uitdagingen ethische code]]></text>
+    </title>	
+    <instructionText style="margin-bottom:0px;padding:0px 15px 15px;">
+        <text><![CDATA[Kies een module.]]></text>
+        <text><![CDATA[Kies een uitdaging.]]></text>		
+        <text><![CDATA[Kies een module om het leermateriaal te raadplegen of klik op 'Sluiten'.]]></text>		
+        <text><![CDATA[Klik op de knop 'Startpagina' om terug te keren naar het startmenu.]]></text>		
+        <text><![CDATA[Klik op de knop 'STARTPAGINA' om terug te keren naar het hoofdmenu en uw training te voltooien. ]]></text>		
+    </instructionText>
+	
+    <contentText>
+        <text><![CDATA[Welkom bij 'Toepassing van de ethische code: integer zakendoen.']]></text>
+        <text><![CDATA[Om studiepunten te krijgen voor deze cursus en uw certificaat van voltooiing te raadplegen, moet u alle gemarkeerde cursusmodules met succes voltooien. Deze worden in kleur weergegeven. ]]></text>
+        <text><![CDATA[Ook krijgt u mogelijk modules met een grijze achtergrond en de melding 'Optioneel' te zien naargelang uw functie of uw prestatie tijdens de voorafgaande test. U kunt deze modules raadplegen, maar u hoeft ze alleen te voltooien als u dit wenst.]]></text>			
+        <text><![CDATA[]]></text>			
+    </contentText>
+	
+    <buttonText>
+        <text><![CDATA[Starten]]></text>
+    </buttonText>
+	<optionalText>
+        <text><![CDATA[Optioneel]]></text>
+    </optionalText>
+    <bookMark>
+        <text><![CDATA[Wilt u de laatst bezochte pagina<br />raadplegen?]]></text>
+        <buttonText>
+            <text><![CDATA[Doorgaan]]></text>
+            <text><![CDATA[Herstarten]]></text>
+        </buttonText>
+    </bookMark>
+    <monthArr>
+        <text><![CDATA[Januari]]></text>
+        <text><![CDATA[Februari]]></text>
+        <text><![CDATA[Maart]]></text>
+        <text><![CDATA[April]]></text>
+        <text><![CDATA[Mei]]></text>
+        <text><![CDATA[Juni]]></text>
+        <text><![CDATA[Juli]]></text>
+        <text><![CDATA[Augustus]]></text>
+        <text><![CDATA[September]]></text>
+        <text><![CDATA[Oktober]]></text>
+        <text><![CDATA[November]]></text>
+        <text><![CDATA[December]]></text>
+    </monthArr>
+    <module id="1" imgPath="content/images/ltr/menuImages/Module_01.png" imgPopPath="content/images/ltr/menuImages/Module_01_popup.png">
+        <title><![CDATA[Belangenverstrengeling]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Er is sprake van belangenverstrengeling wanneer uw eigen persoonlijke belangen strijdig zijn met die van het bedrijf, waardoor uw vermogen om goede zakelijke beslissingen te nemen mogelijk in het gedrang komt.</p><p>Leer hoe u belangenconflicten kunt herkennen en voorkomen in uw werk voor Johnson Controls.</p><span>Vereiste tijd: 6 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[Welkom bij: Belangenconflicten vermijden.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Mogelijke conflicten in courante situaties]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Belangenconflicten vermijden]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Belangenconflicten vermijden]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Casestudy's: Belangenconflicten kunnen bedrijven schaden]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[De gevolgen van belangenconflicten]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Hoe met conflicten omgaan]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Overzicht en voornaamste contactpersonen]]></title>
+        </page>			
+    </module>
+    <module id="2" imgPath="content/images/ltr/menuImages/Module_02.png" imgPopPath="content/images/ltr/menuImages/Module_02_popup.png">
+        <title><![CDATA[Gepast gebruik van geschenken en amusement]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Het uitwisselen van geschenken of amusement kan zakelijke relaties helpen bouwen, maar het kan ook problemen creëren als het niet correct gebeurt.</p><p>Leer hoe u ervoor kunt zorgen dat u alleen gepaste geschenken en amusement aanbiedt en aanvaardt.</p><span>Vereiste tijd: 6 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[Welkom bij: Gepast gebruik van geschenken en amusement.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Er is gezond verstand vereist]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Waar of niet waar?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Overwegingen ten aanzien van geschenken en amusement]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Geschenken of amusement]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Uw beurt]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Meer over geschenken]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Checklist voor geschenken]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Uw beurt]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Meer over amusement]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Checklist voor amusement]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Uw beurt]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Omgaan met overheidsfunctionarissen]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Overzicht en voornaamste contactpersonen]]></title>
+        </page>				
+    </module>
+    <module id="3" imgPath="content/images/ltr/menuImages/Module_03.png" imgPopPath="content/images/ltr/menuImages/Module_03_popup.png">
+        <title><![CDATA[Omkoping vermijden in onze activiteiten]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Onze reputatie hangt af van eerlijke en oprechte zakenpraktijken. Omkoping en corruptie zijn onwettig en passen niet binnen onze werkwijze.</p><p>Leer hoe u zelfs subtiele vormen van omkoping en corruptie kunt herkennen en u ertegen kunt bewapenen om ongewild betrokken te raken bij criminele activiteiten.</p><span>Vereiste tijd: 6 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[Welkom bij: Omkoping vermijden in onze activiteiten]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Risicosituaties herkennen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Omkoping herkennen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Corruptie herkennen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Uw beurt]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Casestudy: Volledige samenwerking en onthulling]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Hoe kunt u omkoping en corruptie helpen voorkomen]]></title>
+        </page>
+       <page>
+            <title><![CDATA[De gevolgen]]></title>
+        </page> 
+        <page>
+            <title><![CDATA[Wat met faciliterende betalingen?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Overzicht en voornaamste contactpersonen]]></title>
+        </page>				
+    </module>
+    <module id="4" imgPath="content/images/ltr/menuImages/Module_04.png" imgPopPath="content/images/ltr/menuImages/Module_04_popup.png">
+        <title><![CDATA[Persoonsgegevens veiligstellen]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<p>We zijn allemaal verantwoordelijk voor het beschermen van persoonsgegevens van klanten, werknemers en zakenpartners.</p><p>Leer hoe u de verbintenis van ons bedrijf ten opzichte van privacy en een verantwoord gebruik van sociale media kunt ondersteunen. </p><span>Vereiste tijd: 6 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[Welkom bij: Persoonsgegevens veiligstellen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een kwestie van gemak]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Overzicht persoonsgegevens]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Waarom is gegevensbescherming van belang?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Persoonsgegevens herkennen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Persoonsgegevens beschermen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Inzicht verwerven in de bescherming van persoonsgegevens]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Privacy en sociale media]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Veilig blijven in het openbaar]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Wachtwoordbeveiliging]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Brengt u persoonsgegevens in gevaar?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Overzicht en voornaamste contactpersonen]]></title>
+        </page>				
+    </module>
+    <module id="5" imgPath="content/images/ltr/menuImages/Module_05.png" imgPopPath="content/images/ltr/menuImages/Module_05_popup.png">
+        <title><![CDATA[Handelsvereisten om internationaal zaken te doen ]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Als internationaal bedrijf is Johnson Controls onderworpen aan tal van handelscontroles die door internationale organisaties en buitenlandse overheden werden ingevoerd.</p><p>Leer hoe handelscontroles uw werk kunnen beïnvloeden en wat u kunt doen om de handelsverantwoordelijkheden van ons bedrijf te ondersteunen.</p><span>Vereiste tijd: 6 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[Welkom bij: Handelsvereisten om internationaal zaken te doen.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een buitenlands verzoek]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een buitenlands verzoek]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een buitenlands verzoek]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een buitenlands verzoek]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een buitenlands verzoek]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een buitenlands verzoek]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een export herkennen]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Uw kennis testen]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Waarom er handelscontroles bestaan]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Wat u moet doen]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Uw beurt]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Overzicht en voornaamste contactpersonen]]></title>
+        </page>				
+    </module>
+    <module id="6" imgPath="content/images/ltr/menuImages/Module_06.png" imgPopPath="content/images/ltr/menuImages/Module_06_popup.png">
+        <title><![CDATA[Op integere wijze verkopen]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Bij Johnson Controls verkopen we op integere wijze en nemen we het mededingingsrecht in acht. Het mededingingsrecht waarborgt eerlijkheid en vrijheid op de marktplaats en voorkomt dat bedrijven misbruik zouden maken van een dominante positie.</p><p>Kom meer te weten over de verbintenissen van ons bedrijf ten opzichte van eerlijke concurrentie, evenals over de manier waarop we onze normen op dit gebied kunnen handhaven.</p><span>Vereiste tijd: 6 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[Welkom bij: Op integere wijze verkopen.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Waarom het mededingingsrecht bestaat]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Ongepaste overeenkomsten herkennen]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Oneerlijke concurrentie herkennen]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Omgaan met een dominante positie]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Machtsmisbruik voorkomen]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Casestudy]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Schendingen van het mededingingsrecht voorkomen]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Overzicht en voornaamste contactpersonen]]></title>
+        </page>				
+    </module>
+    <module id="7" imgPath="content/images/ltr/menuImages/Module_07.png" imgPopPath="content/images/ltr/menuImages/Module_07_popup.png">
+        <title><![CDATA[Intellectuele eigendom beschermen]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Intellectuele eigendom, zoals octrooien, handelsmerken en auteursrechten, zijn van cruciaal belang voor Johnson Controls en we hebben de plicht dit te beschermen. </p><p>Leer hoe u met uw acties onze intellectuele eigendom kunt beschermen tegen diefstal of misbruik.</p><span>Vereiste tijd: 6 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[Welkom bij: Onze intellectuele eigendom beschermen.]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Wat is intellectuele eigendom?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Uw kennis testen]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Soorten intellectuele eigendom]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[De kostprijs van het verlies van IE]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Uw beurt]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Uw rol]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Handelsmerken gebruiken]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Wat zou u doen?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Overzicht en voornaamste contactpersonen]]></title>
+        </page>				
+    </module>
+    <module id="8" imgPath="content/images/ltr/menuImages/Module_08.png" imgPopPath="content/images/ltr/menuImages/Module_08_popup.png">
+        <title><![CDATA[Vertrouwelijke informatie beschermen]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Op het werk verneemt u mogelijk vertrouwelijke informatie over ons bedrijf, klanten of zaken.</p><p>Kom meer te weten over de vereisten van Johnson Controls betreffende het omgaan met en beschermen van dergelijke informatie.</p><span>Vereiste tijd: 6 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[Welkom bij: Vertrouwelijke informatie beschermen.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een riskante situatie]]></title>
+        </page>
+		<page>
+            <title><![CDATA[Een riskante situatie]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een riskante situatie]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een riskante situatie]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Dagelijks met informatie werken]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Wat moet vertrouwelijk blijven?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Beperken, beschermen, verwijderen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Wat u kunt doen om vertrouwelijke informatie te beschermen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Uw beurt]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Gebruik NDA's om extra bescherming te voorzien]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Overzicht en voornaamste contactpersonen]]></title>
+        </page>
+    </module>
+    <module id="9" imgPath="content/images/ltr/menuImages/Module_09.png" imgPopPath="content/images/ltr/menuImages/Module_09_popup.png">
+        <title><![CDATA[Op eerlijke wijze informatie over concurrenten bekomen]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Informatie over concurrenten helpt ons meer inzicht te verwerven in onze zakelijke omgeving, maar er gelden strikte ethische normen voor de manier waarop we deze informatie bekomen.</p><p>Leer hoe u informatie over concurrenten op een manier kunt verzamelen en gebruiken dat het strookt met het beleid van Johnson Controls en de wetgeving.</p><span>Vereiste tijd: 6 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[Welkom bij: Op eerlijke wijze informatie over concurrenten bekomen.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Op verkeerde wijze informatie verzamelen]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Welke informatie is vertrouwelijk?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Wat kan er misgaan?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Misleiding, ontrouw of bedrog vermijden]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Uw kennis testen]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Overzicht en voornaamste contactpersonen]]></title>
+        </page>				
+    </module>
+    <module id="10" imgPath="content/images/ltr/menuImages/Module_10.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup.png">
+        <title><![CDATA[Uitdaging van de ethische code van 2018]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Pas hetgeen u hebt geleerd toe in een praktische uitdaging. Neem goede beslissingen om zakendoelen te bereiken en ga schadelijke gevolgen uit de weg.</p><span>Vereiste tijd: 10 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[]]></title>
+        </page>					
+    </module>
+    <module id="11" imgPath="content/images/ltr/menuImages/Module_10_1.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup1.png">
+        <title><![CDATA[Kantoor, marketing- en verkoopomgeving]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+		<overText><![CDATA[<span class="subMenuStart">Klik op 'Start' om de uitdaging te starten.</span>]]></overText>
+        <page>
+            <title><![CDATA[Een dringend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een dringend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een dringend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een dringend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een dringend verzoek]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Voornaamste lessen]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Voornaamste lessen]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Een dankbare leverancier]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Voornaamste lessen]]></title>
+        </page>				
+    </module>
+    <module id="12" imgPath="content/images/ltr/menuImages/Module_10_2.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup2.png">
+        <title><![CDATA[Klantenondersteuning]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+         <overText><![CDATA[<span class="subMenuStart">Klik op 'Start' om de uitdaging te starten.</span>]]></overText>
+        <page>
+            <title><![CDATA[Strijdige verplichtingen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Strijdige verplichtingen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Strijdige verplichtingen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Strijdige verplichtingen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Strijdige verplichtingen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Strijdige verplichtingen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Strijdige verplichtingen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Strijdige verplichtingen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Voornaamste lessen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een collega helpen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een collega helpen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een collega helpen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een collega helpen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een collega helpen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een collega helpen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een collega helpen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Voornaamste lessen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongebruikelijk verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongebruikelijk verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongebruikelijk verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongebruikelijk verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongebruikelijk verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongebruikelijk verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Voornaamste lessen]]></title>
+        </page>
+    </module>
+    <module id="13" imgPath="content/images/ltr/menuImages/Module_10_3.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup3.png">
+        <title><![CDATA[Externe omgeving]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[<span class="subMenuStart">Klik op 'Start' om de uitdaging te starten.</span>]]></overText>
+        <page>
+            <title><![CDATA[Een verrassend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een verrassend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een verrassend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een verrassend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een verrassend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een verrassend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een verrassend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een verrassend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een verrassend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een verrassend verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Voornaamste lessen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Voornaamste lessen]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een avondje uit]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een avondje uit]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een ongewoon verzoek]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een avondje uit]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een avondje uit]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een avondje uit]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een avondje uit]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een avondje uit]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Een avondje uit]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Voornaamste lessen]]></title>
+        </page>
+    </module>
+    <module id="14" imgPath="content/images/ltr/menuImages/Module_11.png" imgPopPath="content/images/ltr/menuImages/Module_11_popup.png">
+        <title><![CDATA[Kennistest]]></title>
+        <altText><![CDATA[Werknemer van Johnson Controls]]></altText>
+        <overText><![CDATA[Toon wat u hebt geleerd en raadpleeg uw certificaat van voltooiing.<span>Vereiste tijd: 5-10 minuten</span>]]></overText>
+        <page>
+            <title><![CDATA[Kennistest]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kennistest]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Uw resultaten]]></title>
+        </page>
+    </module>
+    <module id="15" imgPath="content/images/ltr/menuImages/Module_12.png" imgPopPath="content/images/ltr/menuImages/Module_12_popup.png">
+        <title><![CDATA[Uw certificaat]]></title>
+        <altText><![CDATA[Man die een pc gebruikt]]></altText>
+        <overText><![CDATA[Uw certificaat van voltooiing raadplegen.]]></overText>
+        <page>
+            <title><![CDATA[Uw certificaat]]></title>
+        </page>
+    </module>
+	
+    <tootTip>
+        <element button=".btn_Next" location="top" gap="8" width="60" leftGap="10"><![CDATA[Volgende]]></element>
+        <element button=".nextBlink" location="top" gap="8" width="60" leftGap="10"><![CDATA[Volgende]]></element>
+        <element button=".btn_Back" location="top" gap="8" width="60"><![CDATA[Vorige]]></element>
+        <element button=".replayPage" location="top" gap="10" width="60"><![CDATA[Afspelen]]></element>
+        <element button=".transcriptOn" location="top" gap="10" width="100"><![CDATA[Transcript uit]]></element>
+        <element button=".transcriptOff" location="top" gap="10" width="100"><![CDATA[Transcript aan]]></element>
+        <element button=".audioOn" location="top" gap="10" width="80"><![CDATA[Audio uit]]></element>
+        <element button=".audioOff" location="top" gap="10" width="80"><![CDATA[Audio aan]]></element>
+        <element button=".btn_Menu" location="top" gap="10" width="60"><![CDATA[Startpagina]]></element>
+        <element button=".fw_CloseTranscript" location="bottom" gap="10" width="60"><![CDATA[Sluiten]]></element>
+        <element button=".fw_MenuClose" location="top" gap="10" width="60"><![CDATA[Sluiten]]></element>
+        <element button=".menuBlink" location="top" gap="10" width="60" leftGap="10"><![CDATA[Volgende]]></element> 
+        <element button=".fw_GlossaryClose" location="top" gap="10" width="60"><![CDATA[Sluiten]]></element> 
+        <element button=".btn_Exit" location="top" gap="10" width="60"><![CDATA[Sluiten]]></element> 
+    </tootTip>
+	
+    <transcriptGlobalText>
+	  <text><![CDATA[Vak verslepen]]></text>
+    </transcriptGlobalText>
+	
+    <reEntryProfilerPopup>
+        <text><![CDATA[Als u uw profielselectie wijzigt, gaan al uw voortgangsgegevens van de cursus verloren. Dit betekent dat u alle toegewezen modules opnieuw moet voltooien, met inbegrip van de reeds voltooide modules. Als u de kennistest al met succes hebt voltooid, worden deze voltooiingsgegevens bewaard. Wilt u alsnog doorgaan?]]></text>
+        <text><![CDATA[Ja]]></text>
+        <text><![CDATA[Nee]]></text>
+    </reEntryProfilerPopup>
+ 
+</course>

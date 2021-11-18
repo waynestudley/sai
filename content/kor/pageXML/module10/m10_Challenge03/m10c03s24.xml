@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;">
+		<text><![CDATA[자세한 내용을 보려면 각 제목을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 여러분의 결정을 재고한 후 다시 시도해 보십시오.]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">			
+			<buttonText style=""><![CDATA[폭음]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[그룹의 몇몇 구성원은 너무 취했고 그중 한 명은 계단에서 넘어져 팔이 부러집니다. 그래서 대신 일할 사람을 새로 고용해야 했으며, 그는 일손이 아주 느린 사람이어서 프로젝트가 점점 지연됩니다. ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">
+			<buttonText><![CDATA[고객의 불만족]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[고객이 대화를 우연히 듣고, 스포츠 바에서 Carlos가 몇몇 작업자에게 술을 대접한 일 때문에 프로젝트가 지연되고 있다는 사실을 알게 됩니다. 그녀는 Carlos의 상사에게 연락하여 불평합니다. ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="138">
+			<buttonText><![CDATA[Facebook 게시물]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[하청업체 직원 중 한 명이 Facebook에 사고 사진을 게시합니다. 그는 게시물에 “지난번에 Johnson Controls 직원과 술을 마셨는데...”라고 썼습니다. ]]></text>					
+				<text><![CDATA[Carlos는 부상당한 하청업체 직원이 회사를 고소할 수 있는지 궁금합니다.]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

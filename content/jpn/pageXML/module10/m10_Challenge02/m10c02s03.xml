@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[エマは義理の兄弟の新しい会社のブローカーとして副業をしていますが、Johnson Controlsでの仕事に支障をきたしています。]]></text>
+		<text><![CDATA[以下のシナリオのうちどれがエマにとって最適な行動だと思いますか。]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;font-size:15px;line-height:20px;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:15px;">
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent style="font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[エマは両方の仕事を継続して行います。 ブローカーの仕事が忙しくなったとき、彼女は同僚に彼女をかばうようお願いして、Johnson Controlsから早退します。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[エマは両方の仕事を継続し、彼女の責任をうまく調整して、彼女の最善を尽くします。 Johnson Controlsでの仕事が忙しくないとき、彼女はブローカー関連の電話をして、個人のスマートフォンから電子メールを送ります。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[彼女の義理の兄弟の会社でしている仕事について、エマは彼女の上司に伝えました。そして、彼女がその仕事を、Johnson Controlsでの仕事とは分けられるようにする方法を検討します。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[特に副業が彼女の時間と注意をより必要とし始めた場合、彼女の義理の兄弟の不動産会社で働くというエマの決定は潜在的な利益相反を引き起こす可能性があります。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[エマは、彼女の新しい仕事がJohnson Controlsで彼女の責任に影響を及ぼさないように、仕事をうまく調整できるとまだ思っています。 しかし、彼女は現実的でしょうか？ 彼女は念のため上司に話すことを決断しました。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 220px;" fcStyle="top: -206px;">
+			<text style="padding-top:25px;"><![CDATA[エマは副業について上司に話します。]]></text>
+			<text><![CDATA[彼女の上司は仕事に何を期待しているか、副業がどれほど禁じられているか話しました。しかし：<ul> <li>Johnson Controlsの仕事に干渉しません。 </li> <li>彼女はJohnson Controlsの業務時間を含む、会社のリソースを使い、副業を行うべきではありません。</li> </ul>]]></text>
+			<text><![CDATA[Johnson Controlsでの業務時間中にビジネスを行うべきではなく、業務に苦痛を感じる場合は、話題を再度検討しなければならないことに同意します。]]></text>
+		</correct>
+	</feedback>
+</contents>

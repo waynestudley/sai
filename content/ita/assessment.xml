@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessment isAnsShow="false">
+    <instructionText>
+        <text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+    </instructionText>
+	<contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/preAssessment/preassessment.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+    <buttonText>
+        <text><![CDATA[INOLTRA]]></text>
+    </buttonText>
+    <qIcon><![CDATA[Q]]></qIcon>
+    <qNumber><![CDATA[Domanda # di #]]></qNumber>
+    <module id="1" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Avere un impiego al di fuori di Johnson Controls è contrario alla politica aziendale?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Sì]]></option>
+                <option><![CDATA[No]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Avere un secondo impiego non è sempre contrario alla politica aziendale. È contrario alla politica avere un secondo impiego che sia in conflitto con gli interessi economici di Johnson Controls.  Devi assicurarti che nessun altro lavoro crei un conflitto di interessi. Qualsiasi altro impiego esterno deve essere segnalato per mezzo della compilazione del modulo Conflitti di interessi. Dovrai inoltre informare il tuo responsabile o supervisore della situazione.]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Avere un secondo impiego non è sempre contrario alla politica aziendale. È contrario alla politica avere un secondo impiego che sia in conflitto con gli interessi economici di Johnson Controls.  Devi assicurarti che nessun altro lavoro crei un conflitto di interessi. Qualsiasi altro impiego esterno deve essere segnalato per mezzo della compilazione del modulo Conflitti di interessi. Dovrai inoltre informare il tuo responsabile o supervisore della situazione.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Un’ex collega ha lasciato Johnson Controls e ha aperto un'attività. Ora, ti ha contattato e vuole essere considerata una subappaltatrice. Puoi ingaggiare la sua società? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Sì, lei ha una valida esperienza]]></option>
+                <option><![CDATA[Forse, lei dovrebbe però attenersi al processo di selezione standard e tu non dovresti partecipare a nessuna delle decisioni in materia di assunzioni che la riguardano]]></option>
+                <option><![CDATA[No, assumere ex dipendenti di Johnson Controls non è mai accettabile in nessun caso]]></option>
+            </options>
+            <feedback>
+                <correct style="">
+					<text><![CDATA[<b>Risposta esatta.</b> I dipendenti di Johnson Controls possono incoraggiare amici o famigliari a diventare fornitori, ma attenendosi ai corretti processi di selezione. Essi dovrebbero riscuotere successo per la loro offerta, tu dovresti dichiarare il tipo di rapporto che vi lega mediante il modulo Conflitti di interessi e garantire di non essere coinvolto nelle decisioni che potrebbero influenzare i prezzi corrisposti o il lavoro affidato a quel fornitore.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> I dipendenti di Johnson Controls possono incoraggiare amici o famigliari a diventare fornitori, ma attenendosi ai corretti processi di selezione. Essi dovrebbero riscuotere successo per la loro offerta, tu dovresti dichiarare il tipo di rapporto che vi lega mediante il modulo Conflitti di interessi e garantire di non essere coinvolto nelle decisioni che potrebbero influenzare i prezzi corrisposti o il lavoro affidato a quel fornitore.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Puoi raccomandare un famigliare per un impiego a Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Sì, a condizione che tu non sia coinvolto nel processo di assunzione.]]></option>
+                <option><![CDATA[No, non puoi mai raccomandare un famigliare a Johnson Controls.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Puoi raccomandare un famigliare per un impiego, purché indichi al famigliare il canale di reclutamento appropriato e tu non sia attivamente coinvolto nel processo di assunzione. Inoltre non deve esserci alcuna dipendenza gerarchica diretta fra te e il tuo famigliare. Se il tuo parente viene assunto, devi compilare un modulo Conflitti di interessi.]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Puoi raccomandare un famigliare per un impiego, purché indichi al famigliare il canale di reclutamento appropriato e tu non sia attivamente coinvolto nel processo di assunzione. Inoltre non deve esserci alcuna dipendenza gerarchica diretta fra te e il tuo famigliare. Se il tuo parente viene assunto, devi compilare un modulo Conflitti di interessi.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[La politica di Johnson Controls permette ai dipendenti di chiedere il sostegno per organizzazioni benefiche di loro scelta?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Sì]]></option>
+                <option><![CDATA[No]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Sul lavoro, la richiesta di donazioni per attività benefiche personali non è accettabile per Johnson Controls. Facendolo si crea un’atmosfera di pressione in cui gli altri potrebbero sentirsi obbligati a contribuire e noi vogliamo evitare situazioni come queste. ]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Sul lavoro, la richiesta di donazioni per attività benefiche personali non è accettabile per Johnson Controls. Facendolo si crea un’atmosfera di pressione in cui gli altri potrebbero sentirsi obbligati a contribuire e noi vogliamo evitare situazioni come queste. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Hai un amico che desidera condurre un’attività per Johnson Controls. Che cosa dovresti fare?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Richiedere immediatamente i servizi del tuo amico, dal momento che si tratta di un prodotto straordinario ]]></option>
+                <option><![CDATA[Dire al tuo amico che ciò non è possibile in quanto viola la politica di Johnson Controls sui Conflitti di interessi]]></option>
+                <option><![CDATA[Incoraggiare il tuo amico a diventare uno dei fornitori privilegiati per Johnson Controls partecipando al processo formale di approvazione del fornitore]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> I dipendenti di Johnson Controls possono incoraggiare amici o famigliari a diventare fornitori, ma attenendosi ai corretti processi di selezione. Se si tratta di un fornitore, devi incoraggiarlo a utilizzare il processo formale di approvazione dei fornitori Johnson Controls.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> I dipendenti di Johnson Controls possono incoraggiare amici o famigliari a diventare fornitori, ma attenendosi ai corretti processi di selezione. Se si tratta di un fornitore, devi incoraggiarlo a utilizzare il processo formale di approvazione dei fornitori Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Hai appena saputo che tua sorella è diventata un’alta dirigente di una società concorrente di Johnson Controls. Che cosa dovresti fare?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Contattala per ottenere informazioni sul concorrente, potrebbe essere utile a Johnson Controls]]></option>
+                <option><![CDATA[Compila un modulo Conflitti di interessi per comunicare a Johnson Controls un potenziale conflitto]]></option>
+                <option><![CDATA[Non fare nulla, poiché il luogo di lavoro dei famigliari non ha importanza]]></option>	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> È essenziale per evitare qualsiasi conflitto di interessi, potenziale o effettivo. Si deve evitare anche solo l’apparenza di un conflitto di interessi. In questo caso sarebbe importante segnalare il fatto che un famigliare prossimo ricopre una posizione di alta dirigenza presso un concorrente.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> È essenziale per evitare qualsiasi conflitto di interessi, potenziale o effettivo. Si deve evitare anche solo l’apparenza di un conflitto di interessi. In questo caso sarebbe importante segnalare il fatto che un famigliare prossimo ricopre una posizione di alta dirigenza presso un concorrente.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Hai lavorato con un fornitore per molti anni e ne sei diventato amico. Il fornitore è già un fornitore terzo certificato. Il fornitore ti chiede di raccomandarlo presso un dipendente di un altro reparto di Johnson Controls. Che cosa dovresti fare?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0,0,0">
+               <option><![CDATA[Dirgli che sei lieto di dare la tua referenza, dicendogli che non sei in condizione di consigliare decisioni sugli approvvigionamenti]]></option>				
+                <option><![CDATA[Dirgli che invierai una lettera di raccomandazione, ma senza farlo]]></option>				
+                <option><![CDATA[Inviare una e-mail di raccomandazione al dipendente, consigliandogli di passare immediatamente del lavoro al fornitore]]></option>
+				<option><![CDATA[Nessuno dei punti precedenti]]></option>               	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Sebbene tu abbia instaurato un’amicizia con il fornitore, devi agire sempre nell’interesse di Johnson Controls. Puoi fornire delle referenze, ma non cercare di influenzare direttamente le decisioni di approvvigionamento di un altro settore di Johnson Controls. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Sebbene tu abbia instaurato un’amicizia con il fornitore, devi agire sempre nell’interesse di Johnson Controls. Puoi fornire delle referenze, ma non cercare di influenzare direttamente le decisioni di approvvigionamento di un altro settore di Johnson Controls. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Recentemente hai investito il tuo denaro in molte società, ma ti sei appena reso conto che alcune di queste sono concorrenti di Johnson Controls. La politica di Johnson Controls lo permette?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,0,1">                			
+                <option><![CDATA[No, non puoi mai investire in un concorrente di Johnson Controls]]></option>				
+                <option><![CDATA[È accettabile solo se possiedi la società concorrente]]></option>				
+                <option><![CDATA[Sì, non esiste alcun problema a investire in un concorrente di Johnson Controls]]></option>				
+                <option><![CDATA[È accettabile solo se il tuo investimento non rappresenta una quota azionaria uguale o superiore all’1% della società]]></option>		
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Puoi investire il tuo denaro in una società concorrente purché questo non rappresenti una quota azionaria uguale o superiore all’1% della società. In caso di dubbi, sii trasparente e invia un modulo Conflitti di interessi a <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com </a> in modo che sia possibile esaminare la tua situazione.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Puoi investire il tuo denaro in una società concorrente purché questo non rappresenti una quota azionaria uguale o superiore all’1% della società. In caso di dubbi, sii trasparente e invia un modulo Conflitti di interessi a <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com </a> in modo che sia possibile esaminare la tua situazione.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[La tua vicina ha un’azienda che noleggia limousine. Si tratta di una persona affidabile e i prezzi che propone sono inferiori a quelli dei fornitori preferiti di Johnson Controls. Viaggi molto e usufruire dei suoi servizi sarebbe più economico per Johnson Controls. Puoi utilizzare il servizio della tua vicina? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,0,1">                		
+                <option><![CDATA[Sì, le sue tariffe sono basse e in Johnson Controls viene chiesto a tutti di ridurre i costi]]></option>				
+                <option><![CDATA[Sì, è una tua amica e utilizzare la sua azienda la aiuta e fa risparmiare denaro alla Società]]></option>				
+                <option><![CDATA[No, non ti offre uno sconto sufficiente]]></option>				
+                <option><![CDATA[Sì, purché diventi un fornitore approvato]]></option>	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Potresti usufruire di tali servizi se l’azienda della tua vicina diventasse un fornitore preferenziale seguendo l’appropriata procedura di Johnson Controls,]]></text>
+					<text><![CDATA[Qualora la tua vicina diventasse un fornitore preferenziale è importante precisare che non potresti accettare sconti su alcun viaggio personale, in quanto ciò potrebbe essere considerato un conflitto di interessi.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Potresti usufruire di tali servizi se l’azienda della tua vicina diventasse un fornitore preferenziale seguendo l’appropriata procedura di Johnson Controls,]]></text>
+					<text><![CDATA[Qualora la tua vicina diventasse un fornitore preferenziale è importante precisare che non potresti accettare sconti su alcun viaggio personale, in quanto ciò potrebbe essere considerato un conflitto di interessi.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	
+	<module id="2" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[È il periodo delle feste e tu e il tuo team vorreste fare dei regali ai vostri fornitori. Quali regali sarebbero appropriati?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[Il computer portatile più recente]]></option>
+                <option><![CDATA[Una cornice per fotografie di prezzo contenuto]]></option>
+                <option><![CDATA[Una carta regalo American Express]]></option>
+                <option><![CDATA[Un fine settimana in uno stabilimento termale di lusso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Alcune delle scelte elencate sono troppo costose e non appropriate per un regalo a un fornitore. Contanti o regali equivalenti al contante, come le carte regalo, sono espressamente vietati. In questa situazione, una cornice per fotografie di prezzo contenuto sarebbe accettabile. È importante osservare che non dovrebbe essere offerto alcun bene di valore che possa essere percepito come una bustarella.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Alcune delle scelte elencate sono troppo costose e non appropriate per un regalo a un fornitore. Contanti o regali equivalenti al contante, come le carte regalo, sono espressamente vietati. In questa situazione, una cornice per fotografie di prezzo contenuto sarebbe accettabile. È importante osservare che non dovrebbe essere offerto alcun bene di valore che possa essere percepito come una bustarella.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Un fornitore ti ha dato un regalo. Quale di quelli elencati di seguito richiede di essere segnalato mediante il Modulo di segnalazione regali di Johnson Controls.]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,0,1">
+                <option><![CDATA[Un nuovo iPad Apple]]></option>
+                <option><![CDATA[Una piantina d'appartamento]]></option>
+                <option><![CDATA[Due biglietti di prima fila per un evento sportivo internazionale]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Il valore dell’iPad supera i 200 dollari USA, così come quello dei biglietti. devono essere segnalati tutti i regali che superano i limiti di valore specificati all’interno della Politica in materia di viaggi, regali e divertimenti. La pianta ha un costo ragionevole e non ti è stata donata con l’intenzione di influenzarti, quindi è giusto accettarla.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Il valore dell’iPad supera i 200 dollari USA, così come quello dei biglietti. devono essere segnalati tutti i regali che superano i limiti di valore specificati all’interno della Politica in materia di viaggi, regali e divertimenti. La pianta ha un costo ragionevole e non ti è stata donata con l’intenzione di influenzarti, quindi è giusto accettarla.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Il valore dell’iPad supera i 200 dollari USA, così come quello dei biglietti. devono essere segnalati tutti i regali che superano i limiti di valore specificati all’interno della Politica in materia di viaggi, regali e divertimenti. La pianta ha un costo ragionevole e non ti è stata donata con l’intenzione di influenzarti, quindi è giusto accettarla.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Il tuo ufficio offre un intrattenimento di lavoro a un cliente, ma pensi che il cliente possa essere un’”entità governativa”. Che cosa dovresti fare? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0,0,0">
+                <option><![CDATA[Chiami il consulente legale regionale incaricato della conformità o qualsiasi membro dell’Ufficio Legale in grado di aiutarti ]]></option>
+                <option><![CDATA[Nulla, lo stato del cliente non è importante ]]></option>
+                <option><![CDATA[Cercare di scoprire se il cliente appartiene a un’entità governativa, in modo da portarlo in un luogo più costoso]]></option>
+                <option><![CDATA[Presupponi che si tratti di un’entità governativa e compili un modulo Anticorruzione giusto per sentirti più sicuro]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Un cliente costituito da un’entità governativa richiede un trattamento diverso rispetto a quello previsto per un cliente commerciale, specialmente quando si tratta di regali e divertimenti.]]></text>
+					<text><![CDATA[Nel caso in cui non sia certo che si tratti di un ente governativo o meno, rivolgersi al proprio consulente legale regionale incaricato della conformità o a qualsiasi membro dell’Ufficio Legale in grado di prestare aiuto. Possono indicarti che cosa fare o non fare.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Un cliente costituito da un’entità governativa richiede un trattamento diverso rispetto a quello previsto per un cliente commerciale, specialmente quando si tratta di regali e divertimenti.]]></text>
+					<text><![CDATA[Nel caso in cui non sia certo che si tratti di un ente governativo o meno, rivolgersi al proprio consulente legale regionale incaricato della conformità o a qualsiasi membro dell’Ufficio Legale in grado di prestare aiuto. Possono indicarti che cosa fare o non fare.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Hai appena concluso una grossa vendita e il cliente vuole festeggiare invitandoti con il tuo partner a teatro.  Credi che i biglietti costino meno di 200 dollari USA. Devi segnalarlo su <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com</a>?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[No, è dopo l’orario d’ufficio e, visto che viene anche il tuo partner, non ha relazioni con il lavoro]]></option>
+                <option><![CDATA[Sì, ma sarai tenuto a segnalare solo la metà del valore di tale forma di intrattenimento, poiché il tuo partner non è un dipendente di Johnson Controls]]></option>
+                <option><![CDATA[No, poiché il cliente viene a teatro con te, quindi è un intrattenimento di lavoro]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> I biglietti del teatro sembrano in linea con il valore accettabile in termini di intrattenimento aziendale. Nel caso tu abbia delle preoccupazioni o ci sia una qualsiasi ragione che possa far pensare a un atto di corruzione, allora dovresti discutere l’offerta con il tuo supervisore e assicurarti che condivida la tua decisione.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> I biglietti del teatro sembrano in linea con il valore accettabile in termini di intrattenimento aziendale. Nel caso tu abbia delle preoccupazioni o ci sia una qualsiasi ragione che possa far pensare a un atto di corruzione, allora dovresti discutere l’offerta con il tuo supervisore e assicurarti che condivida la tua decisione.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Un fornitore potenziale ti avvicina e ti offre un compenso in contanti se gli fai avere dell’altro lavoro. Capisci che questo sembra essere una bustarella e correttamente rifiuti rispettosamente l’offerta. Hai fatto tutto ciò che era richiesto?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Sì, non hai accettato il regalo poiché si tratta di contanti ]]></option>
+                <option><![CDATA[No, sei tenuto anche a segnalare l’offerta alla risorsa aziendale competente]]></option>
+                <option><![CDATA[No, avresti dovuto accettare il regalo per non offendere il fornitore]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Se un fornitore o qualsiasi terza parte con cui Johnson Controls fa affari tenta di offrirti un regalo o dei contanti e ritieni che questi ti vengano offerti allo scopo di influenzarti, devi rifiutare il regalo e segnalare l’accaduto all’Ufficio legale o al consulente legale regionale incaricato della conformità, che ti inviterà a compilare un modulo. Potrebbe trattarsi di un fornitore con cui non desideriamo collaborare.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Se un fornitore o qualsiasi terza parte con cui Johnson Controls fa affari tenta di offrirti un regalo o dei contanti e ritieni che questi ti vengano offerti allo scopo di influenzarti, devi rifiutare il regalo e segnalare l’accaduto all’Ufficio legale o al consulente legale regionale incaricato della conformità, che ti inviterà a compilare un modulo. Potrebbe trattarsi di un fornitore con cui non desideriamo collaborare.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Alla tua divisione viene chiesto di donare dei premi da estrarre durante una conferenza. Alla conferenza parteciperanno fornitori e altre società collegate. Il valore di ciascun premio è inferiore a 200 dollari USA. I regali devono essere segnalati?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Solo se viene estratto a sorte uno dei prodotti di Johnson Controls]]></option>
+                <option><![CDATA[No, poiché è una spesa aziendale e non viene dato a nessuno direttamente, ma sarà vinto da un partecipante a caso]]></option>
+                <option><![CDATA[Sì, il regalo potrebbe essere vinto da un funzionario governativo]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> È assolutamente accettabile che Johnson Controls doni dei premi in questo modo. Non esiste l’intenzione di regalare direttamente qualcosa a un partecipante, commerciale o dipendente governativo, e non c’è alcun intento di influire.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> È assolutamente accettabile che Johnson Controls doni dei premi in questo modo. Non esiste l’intenzione di regalare direttamente qualcosa a un partecipante, commerciale o dipendente governativo, e non c’è alcun intento di influire.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Ti è stato regalato un costoso dispositivo elettronico da un cliente di grande valore e di lunga data. Il cliente apprezza il lavoro eccezionale costantemente svolto da Johnson Controls e da te in particolare. Comprendi che il valore supera di molto la soglia di 200 dollari USA indicata per i regali e che potrebbe essere considerato addirittura bene di lusso. Quali dei seguenti modi sono corretti per gestire la situazione?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,1,1">
+                <option><![CDATA[Segnalare il regalo e restituirlo educatamente, specificando che è stato apprezzato ma che supera di gran lunga il valore accettabile previsto dalla politica di Johnson Controls]]></option>
+                <option><![CDATA[Accettare cortesemente il regalo, segnalarlo e discutere con il tuo manager se è accettabile che tu conservi il regalo]]></option>
+                <option><![CDATA[Accettare cortesemente il regalo, segnalarlo e donarlo a un ente di beneficenza sponsorizzato da Johnson Controls]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Qualsiasi soluzione è accettabile. In alcune circostanze non vorresti offendere un cliente a causa delle usanze locali o di una relazione aziendale. Se ti senti a disagio nel rifiutare un regalo, accettalo cortesemente, segnalalo e collabora con il tuo manager, con le Risorse Umane e/o con il team incaricato della conformità per determinare come utilizzare il regalo.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Qualsiasi soluzione è accettabile. In alcune circostanze non vorresti offendere un cliente a causa delle usanze locali o di una relazione aziendale. Se ti senti a disagio nel rifiutare un regalo, accettalo cortesemente, segnalalo e collabora con il tuo manager, con le Risorse Umane e/o con il team incaricato della conformità per determinare come utilizzare il regalo.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Qualsiasi soluzione è accettabile. In alcune circostanze non vorresti offendere un cliente a causa delle usanze locali o di una relazione aziendale. Se ti senti a disagio nel rifiutare un regalo, accettalo cortesemente, segnalalo e collabora con il tuo manager, con le Risorse Umane e/o con il team incaricato della conformità per determinare come utilizzare il regalo.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Tu e il tuo team di Johnson Controls desiderate festeggiare le vacanze e parteciperete a un pranzo pagato da ciascuno individualmente anziché da Johnson Controls. Inoltre, vi scambierete dei regali. Ai regali si applica la stessa soglia di segnalazione di 200 dollari USA?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Sì, se si applica ai regali che diamo e riceviamo per lavoro, dobbiamo senz’altro attenerci allo stesso standard]]></option>
+                <option><![CDATA[No]]></option>
+                <option><![CDATA[Sì, ma solo se supera i 200 dollari USA]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> I regali da dipendente a dipendente non devono essere segnalati ma devono essere sempre di buon gusto e non avere l’intento di influenzare in alcun modo un altro dipendente.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> I regali da dipendente a dipendente non devono essere segnalati ma devono essere sempre di buon gusto e non avere l’intento di influenzare in alcun modo un altro dipendente.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	<module id="3" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Per essere considerata corruzione, deve verificarsi uno scambio di denaro contante.]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> La corruzione si verifica anche nel caso in cui venga offerta qualsiasi cosa di valore per tentare di influenzare indebitamente le decisioni o azioni di qualcuno. ]]></text>
+					<text><![CDATA[La corruzione può coinvolgere contanti, ma anche comprendere cose, quali scorte, regali, ospitalità, commissioni o sconti immotivati, donazioni in beneficenza o impieghi per la famiglia e gli amici.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> La corruzione si verifica anche nel caso in cui venga offerta qualsiasi cosa di valore per tentare di influenzare indebitamente le decisioni o azioni di qualcuno. ]]></text>
+					<text><![CDATA[La corruzione può coinvolgere contanti, ma anche comprendere cose, quali scorte, regali, ospitalità, commissioni o sconti immotivati, donazioni in beneficenza o impieghi per la famiglia e gli amici.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Quando Reginald, dipendente di Johnson Controls e cittadino del Regno Unito, arriva negli uffici governativi dell’Honduras, per chiedere il rinnovo del proprio visto di lavoro, l’impiegato gli dice che saranno necessarie fino a tre settimane per elaborare la sua richiesta. Queste tempistiche sottoporranno Reginald al rischio di non riuscire a completare un progetto a lungo termine; necessita immediatamente una proroga. L’impiegato dice a Reginald che “per un piccolo compenso” potrebbe garantire che la richiesta di Reginald sia elaborata in meno di un’ora. Reginald dovrebbe dare all’impiegato 20 dollari USA in contanti?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Sì, poiché si tratta di una piccola somma da versare per assicurarsi che egli sia in grado di completare un progetto a lungo termine.]]></option>
+                <option><![CDATA[Sì, poiché si tratta di una quota che può spendere.]]></option>
+                <option><![CDATA[No, poiché si tratta di un “pagamento di agevolazione” contrario alla legge e alla politica di Johnson Controls.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Qualora Reginald avesse pagato l’impiegato governativo affinché prorogasse il suo permesso di soggiorno, egli avrebbe compiuto un pagamento di agevolazione. Ciò non è consentito dalla politica di Johnson Controls, <b>e in molte giurisdizioni è illegale ai sensi delle leggi anti corruzione</b>.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Qualora Reginald avesse pagato l’impiegato governativo affinché prorogasse il suo permesso di soggiorno, egli avrebbe compiuto un pagamento di agevolazione. Ciò non è consentito dalla politica di Johnson Controls, <b>e in molte giurisdizioni è illegale ai sensi delle leggi anti corruzione</b>.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Stephanie, una dipendente di Johnson Controls, riceve una busta contenente 500 dollari USA da parte di un subappaltatore di un progetto di cui lei si occupa. Una nota nella busta dice a Stephanie che il subappaltatore vorrebbe essere preso in considerazione per un numero maggiore di progetti in futuro. Che cosa deve fare Stephanie?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Rifiutare il regalo, restituire il denaro e segnalare il pagamento al suo supervisore oltre che all’Ufficio legale di Johnson Controls]]></option>
+                <option><![CDATA[Accettare il pagamento e registrarlo con precisione come “regalo” da parte del subappaltatore nel Modulo di segnalazione regali di Johnson Controls ]]></option>
+                <option><![CDATA[Accettare il pagamento e non fare altro, in quanto è convinta che non influirà sulle sue decisioni future e quindi non si tratta di una bustarella]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Il denaro dentro la busta ha costituito il tentativo di corrispondere a Stephanie una bustarella.  In molte giurisdizioni accettarlo è qualcosa di contrario all’etica e di illegale. Stephanie dovrebbe raccontare al suo supervisore e all’Ufficio legale di Johnson Controls il tentativo del subappaltatore di versarle una bustarella. A quel punto, la direzione e l’Ufficio legale dovrebbero intervenire.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Il denaro dentro la busta ha costituito il tentativo di corrispondere a Stephanie una bustarella.  In molte giurisdizioni accettarlo è qualcosa di contrario all’etica e di illegale. Stephanie dovrebbe raccontare al suo supervisore e all’Ufficio legale di Johnson Controls il tentativo del subappaltatore di versarle una bustarella. A quel punto, la direzione e l’Ufficio legale dovrebbero intervenire.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Mark, un dipendente di Johnson Controls, riceve una busta contenente 500 dollari USA da parte di un subappaltatore di un progetto gestito da Mark a Londra, in Inghilterra. Una nota nella busta gli dice che il subappaltatore vorrebbe essere preso in considerazione per un numero maggiore di progetti in futuro. Se Mark accetta il pagamento da parte del subappaltatore, entrambi possono essere penalmente responsabili ai sensi del UK Bribery Act.]]></text>
+				<text><![CDATA[Questo enunciato è vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Ai sensi del UK Bribery Act, sia Mark sia il fornitore potrebbero essere considerati penalmente responsabili qualora l’atto di corruzione sia avvenuto all’interno del Regno Unito oppure in un qualsivoglia luogo che abbia una “stretta connessione” con il Regno Unito. Lo UK Bribery Act considera un reato la corruzione commerciale (corruzione tra enti privati e individui), mentre lo FCPA considera un reato solo le tangenti che interessano funzionari governativi non U.S.A.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Ai sensi del UK Bribery Act, sia Mark sia il fornitore potrebbero essere considerati penalmente responsabili qualora l’atto di corruzione sia avvenuto all’interno del Regno Unito oppure in un qualsivoglia luogo che abbia una “stretta connessione” con il Regno Unito. Lo UK Bribery Act considera un reato la corruzione commerciale (corruzione tra enti privati e individui), mentre lo FCPA considera un reato solo le tangenti che interessano funzionari governativi non U.S.A.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Una funzionaria governativa italiana informa Justin, dipendente di Johnson Controls con sede negli Stati Uniti, che garantirà a Johnson Controls l’assegnazione di un importante contratto governativo in Italia. In cambio, chiede a Johnson Controls di versare un contributo di 5000 dollari USA alla sua organizzazione prediletta, la fondazione “Make a Better Choice Foundation” (“Fai la scelta migliore”). Justin convince Johnson Controls a compiere la donazione e sei mesi dopo la stessa società si aggiudica un contratto vantaggioso con il governo italiano, come promesso.]]></text>
+				<text><![CDATA[Quali delle seguenti affermazioni sono corrette?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[Justin non ha fatto in modo che Johnson Controls compia un atto di corruzione illegale, in quanto il funzionario del governo italiano non ha ricevuto del denaro.]]></option>
+                <option><![CDATA[Justin porta Johnson Controls a compiere una transazione illegale sebbene il funzionario governativo italiano non riceva alcuna somma di denaro, poiché costituisce un atto di corruzione qualsiasi cosa di valore offerta allo scopo di influenzare l’assunzione di una decisione di un’entità con potere decisionale.]]></option>
+                <option><![CDATA[Justin ha portato Johnson Controls a compiere una transazione illegale verso il funzionario governativo italiano e, in base alle sue azioni, può rischiare la prigione in molte giurisdizioni.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Un atto di corruzione consiste nell’offrire o promettere qualcosa di valore nel tentativo di influenzare il giudizio o il comportamento autonomi di qualcuno in una posizione di fiducia. La corruzione è illegale e in Johnson Controls è severamente vietata.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Un atto di corruzione consiste nell’offrire o promettere qualcosa di valore nel tentativo di influenzare il giudizio o il comportamento autonomi di qualcuno in una posizione di fiducia. La corruzione è illegale e in Johnson Controls è severamente vietata.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Un atto di corruzione consiste nell’offrire o promettere qualcosa di valore nel tentativo di influenzare il giudizio o il comportamento autonomi di qualcuno in una posizione di fiducia. La corruzione è illegale e in Johnson Controls è severamente vietata.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Le maggior parte dei procedimenti in base alle leggi anticorruzione implica intermediari terzi, ad esempio agenti, distributori e organizzazioni di beneficenza, tra chi paga e il destinatario.]]></text>
+				<text><![CDATA[Questo enunciato è vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0">
+                 <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Le maggior parte dei procedimenti per corruzione implicano intermediari terzi, ad esempio agenti, distributori e organizzazioni di beneficienza. Ecco perché è essenziale che ci assicuriamo che tutte le terze parti coinvolte siano registrate e gestite dal nostro programma 3P.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Le maggior parte dei procedimenti per corruzione implicano intermediari terzi, ad esempio agenti, distributori e organizzazioni di beneficienza. Ecco perché è essenziale che ci assicuriamo che tutte le terze parti coinvolte siano registrate e gestite dal nostro programma 3P.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Robert, un dipendente di Johnson Controls, inizia a trattare con Alex, un dipendente di Middleman Ltd., affinché Middleman funga da agente per Johnson Controls. Alex dice a Robert di avere “grandi contatti con funzionari governativi”, e dichiara che la commissione del 30% richiesta da Middleman per acquisire contratti per Johnson Controls presso il governo servirà “a far felici le persone giuste”.]]></text>
+				<text><![CDATA[Robert dovrebbe preoccuparsi?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[No, il suo obiettivo principale è ottenere il massimo profitto per Johnson Controls, sfruttare i contatti di Middleman presso il governo rappresenta quindi una buona opportunità commerciale]]></option>
+                <option><![CDATA[Forse. Johnson Controls non paga commissioni superiori a quelle di mercato e la richiesta del 30% da parte di Middleman è troppo alta]]></option>
+                <option><![CDATA[Sì. Middleman presenta un rischio significativo di corruzione]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Robert dovrebbe preoccuparsi. I segnali d’allarme di questa situazione sono:<ul><li>Quando Alex ha detto di avere stretti contatti con il governo.</li><li>La commissione elevata richiesta per le vendite a un cliente governativo.</li></ul>]]></text>
+					<text><![CDATA[Robert avrebbe dovuto riconoscere che entrambi rappresentano segnali d’allarme significativi che Middleman potrebbe aggiudicarsi dei contratti per Johnson Controls pagando tangenti a funzionari governativi.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Robert dovrebbe preoccuparsi. I segnali d’allarme di questa situazione sono:<ul><li>Quando Alex ha detto di avere stretti contatti con il governo.</li><li>La commissione elevata richiesta per le vendite a un cliente governativo.</li></ul>]]></text>
+					<text><![CDATA[Robert avrebbe dovuto riconoscere che entrambi rappresentano segnali d’allarme significativi che Middleman potrebbe aggiudicarsi dei contratti per Johnson Controls pagando tangenti a funzionari governativi.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Ted, un dipendente di Johnson Controls, inizia a trattare con John, un dipendente di ABC Ltd., per far sì che ABC funga da agente per Johnson Controls. John spiega che ha dedicato molti anni a costruire strette relazioni commerciali con funzionari governativi e che, pertanto, esige un 30% di commissioni per l’acquisizione di contratti per Johnson Controls con il governo. Se John paga una parte delle commissioni di ABC a un funzionario governativo, Ted, John, Johnson Controls e ABC possono essere tutti passibili di multe e/o arresto ai sensi delle leggi in materia di anticorruzione.]]></text>
+				<text><![CDATA[Questo enunciato è vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Le società e i soggetti coinvolti in questo meccanismo di corruzione sarebbero tutti perseguibili penalmente. ]]></text>
+					<text><![CDATA[In effetti, la maggior parte delle leggi anticorruzione, inclusi il US Foreign Corrupt Practices Act (FCPA) e il UK Bribery Act, si applicano a società e a singoli. Le società e le persone perseguite in base alle leggi anticorruzione possono essere soggette a multe significative e anche a pene detentive.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Le società e i soggetti coinvolti in questo meccanismo di corruzione sarebbero tutti perseguibili penalmente. ]]></text>
+					<text><![CDATA[In effetti, la maggior parte delle leggi anticorruzione, inclusi il US Foreign Corrupt Practices Act (FCPA) e il UK Bribery Act, si applicano a società e a singoli. Le società e le persone perseguite in base alle leggi anticorruzione possono essere soggette a multe significative e anche a pene detentive.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+    </module>
+	<module id="4" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Devi inviare un file Excel contenente informazioni sensibili o riservate a un collega di un’altra regione. Quale è l’approccio migliore per proteggere le informazioni mentre le stai inviando?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Proteggere il file con una password prima di inviarlo. Inserire la password nella stessa e-mail in modo che il tuo collega possa aprire il file]]></option>
+                <option><![CDATA[Proteggere il file con una password prima di inviarlo e quindi inserire la password in un’e-mail a parte con oggetto PASSWORD in modo che il tuo collega possa trovarla facilmente]]></option>
+                <option><![CDATA[Proteggere il file con una password prima di inviarlo e quindi chiamare il collega e comunicargli la password in modo che possa aprire il file]]></option>
+				
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> È essenziale proteggere i dati riservati o sensibili. Proteggere il contenuto con una password è un ottimo modo per farlo. È altrettanto importante fare attenzione al modo in cui comunichi la password. Inviarla nella stessa e-mail o in una e-mail separata con l’oggetto PASSWORD non è un metodo sicuro. Il modo più sicuro per comunicare la password è per mezzo del telefono, a voce o in un messaggio di testo.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> È essenziale proteggere i dati riservati o sensibili. Proteggere il contenuto con una password è un ottimo modo per farlo. È altrettanto importante fare attenzione al modo in cui comunichi la password. Inviarla nella stessa e-mail o in una e-mail separata con l’oggetto PASSWORD non è un metodo sicuro. Il modo più sicuro per comunicare la password è per mezzo del telefono, a voce o in un messaggio di testo.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Colin deve inviare un file Excel contenente informazioni riservate a un collega di un’altra regione. Decide di proteggere il file crittografandolo e aggiungendo una password. Quale delle seguenti password sarebbe la migliore che Colin potrebbe utilizzare?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,0,1">
+                <option><![CDATA[Colin123]]></option>
+                <option><![CDATA[123colin]]></option>
+                <option><![CDATA[C1o2l3in]]></option>
+                <option><![CDATA[!C1o2l3in]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> La password più forte (cioè quella più difficile da indovinare) contiene una combinazione di simboli, lettere maiuscole, lettere minuscole e numeri.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> La password più forte (cioè quella più difficile da indovinare) contiene una combinazione di simboli, lettere maiuscole, lettere minuscole e numeri.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Andrea è impegnata a lavorare con documenti stampati contenenti dati personali dei clienti quando guardando l’orologio si rende conto di essere in ritardo per una riunione incentrata su un’altra questione. Che cosa dovrebbe fare con i documenti?]]></text>
+			</questionText>
+             <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[Lasciarli sulla sua scrivania ]]></option>
+                <option><![CDATA[Chiuderli all’interno di uno schedario]]></option>
+                <option><![CDATA[Metterli nel cassetto chiuso della sua scrivania]]></option>
+			</options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Andrea dovrebbe sempre prestare attenzione a proteggere i dati personali dei clienti. Il modo più sicuro di conservare i documenti mentre partecipa alla riunione è quello di chiuderli in uno schedario o di metterli nel cassetto chiuso della sua scrivania. ]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Andrea dovrebbe sempre prestare attenzione a proteggere i dati personali dei clienti. Il modo più sicuro di conservare i documenti mentre partecipa alla riunione è quello di chiuderli in uno schedario o di metterli nel cassetto chiuso della sua scrivania. ]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Andrea dovrebbe sempre prestare attenzione a proteggere i dati personali dei clienti. Il modo più sicuro di conservare i documenti mentre partecipa alla riunione è quello di chiuderli in uno schedario o di metterli nel cassetto chiuso della sua scrivania. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Marta lavora nelle Risorse Umane e ha accesso ai dati personali di tutti gli impiegati presso la struttura. Samantha desidera dare avvio a un birthday club, dove gli impiegati si trovano a pranzo e per festeggiare i loro compleanni. Chiede a Marta una lista dei compleanni dei dipendenti. Cosa dovrebbe fare Marta?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[Dare a Samantha la lista dei compleanni, il club favorirà il buonumore dei dipendenti]]></option>
+                <option><![CDATA[Rifiutarsi di dare a Samantha la lista dei compleanni]]></option>
+                <option><![CDATA[Suggerire che Samantha inviti i dipendenti a iscriversi al birthday club e a fornire loro stessi i compleanni ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Marta non dovrebbe dare a Samantha alcuna lista dei compleanni dei dipendenti. Solo i dipendenti e i lavoratori a contratto autorizzati con un’esigenza lavorativa valida possono avere accesso ai dati personali. Sebbene il birthday club di Samantha sia un’idea carina, non costituisce una necessità di tipo lavorativo e lei non è autorizzata a ricevere le informazioni.]]></text>
+					<text><![CDATA[Marta potrebbe suggerire a Samantha di invitare i dipendenti per iscriversi al birthday club e a fornirle i loro stessi compleanni.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Marta non dovrebbe dare a Samantha alcuna lista dei compleanni dei dipendenti. Solo i dipendenti e i lavoratori a contratto autorizzati con un’esigenza lavorativa valida possono avere accesso ai dati personali. Sebbene il birthday club di Samantha sia un’idea carina, non costituisce una necessità di tipo lavorativo e lei non è autorizzata a ricevere le informazioni.]]></text>
+					<text><![CDATA[Marta potrebbe suggerire a Samantha di invitare i dipendenti per iscriversi al birthday club e a fornirle i loro stessi compleanni.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Marta non dovrebbe dare a Samantha alcuna lista dei compleanni dei dipendenti. Solo i dipendenti e i lavoratori a contratto autorizzati con un’esigenza lavorativa valida possono avere accesso ai dati personali. Sebbene il birthday club di Samantha sia un’idea carina, non costituisce una necessità di tipo lavorativo e lei non è autorizzata a ricevere le informazioni.]]></text>
+					<text><![CDATA[Marta potrebbe suggerire a Samantha di invitare i dipendenti per iscriversi al birthday club e a fornirle i loro stessi compleanni.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Esteban lavora nella Contabilità clienti, e il suo responsabile di reparto ha richiesto una relazione di sintesi che riporti gli importi totali arretrati dovuti nelle singole regioni. Esteban ha una relazione esistente che riporta l’elenco dei clienti con i conti arretrati dovuti nelle singole regioni, insieme ai loro nomi, indirizzi di fatturazione e numeri telefonici. Esteban dovrebbe inviarla al proprio responsabile? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Sì, in quanto fornirebbe tutte le informazioni di cui necessita il suo responsabile]]></option>
+                <option><![CDATA[No, perché il suo responsabile richiede unicamente l’importo totale in dollari USA ]]></option>
+                <option><![CDATA[Sì, poiché il suo responsabile non vorrebbe che Esteban perdesse tempo per redigere una nuova relazione quando quella presente contiene già le informazioni richieste]]></option>				
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Esteban dovrebbe unicamente fornire gli importi totali in dollari USA richiesti dal suo responsabile. I dipendenti possono aiutare a proteggere i dati personali dei clienti limitando le informazioni che essi condividono e con chi le condividono. Spedire una relazione che contiene anche i nomi dei clienti, i loro indirizzi e numeri di telefono potrebbe esporre inutilmente a rischio le loro informazioni personali.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Esteban dovrebbe unicamente fornire gli importi totali in dollari USA richiesti dal suo responsabile. I dipendenti possono aiutare a proteggere i dati personali dei clienti limitando le informazioni che essi condividono e con chi le condividono. Spedire una relazione che contiene anche i nomi dei clienti, i loro indirizzi e numeri di telefono potrebbe esporre inutilmente a rischio le loro informazioni personali.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls può conservare le informazioni riguardanti i <i><b>clienti</b></i> a tempo indefinito.]]></text>
+				<text><![CDATA[Questo enunciato è vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+             <options answer="0,1">
+                 <option><![CDATA[Vero, possiamo conservare i dati dei clienti fino a quando lo desideriamo.]]></option>
+                <option><![CDATA[Falso, dobbiamo conservare i dati solo per il tempo necessario allo scopo per il quale sono stati raccolti inizialmente, oltre a doverli correggere e aggiornare.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> I dati personali non devono essere conservati per un tempo superiore al necessario. Johnson Controls è tenuta a eliminare i dati dei clienti una volta che non sono più necessari agli scopi per i quali sono stati raccolti e secondo quanto stabilito dal Programma di conservazione delle registrazioni di Johnson Controls. Dati imprecisi devono essere corretti e i clienti possono godere del diritto di richiedere l’eliminazione dei dati personali in conformità a quanto stabilito dalla legge locale. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> I dati personali non devono essere conservati per un tempo superiore al necessario. Johnson Controls è tenuta a eliminare i dati dei clienti una volta che non sono più necessari agli scopi per i quali sono stati raccolti e secondo quanto stabilito dal Programma di conservazione delle registrazioni di Johnson Controls. Dati imprecisi devono essere corretti e i clienti possono godere del diritto di richiedere l’eliminazione dei dati personali in conformità a quanto stabilito dalla legge locale. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls può conservare le informazioni relative ai <i><b>dipendenti</b></i> a tempo indefinito.]]></text>
+				<text><![CDATA[Questo enunciato è vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Vero, possiamo conservare i dati dei dipendenti fino a quando lo desideriamo.]]></option>
+                <option><![CDATA[Falso, dovremo conservare i dati solo per il tempo necessario oltre a doverli correggere e aggiornare.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> I dati personali relativi ai dipendenti non dovrebbero essere conservati più a lungo del necessario e secondo quanto stabilito dal Programma di conservazione delle registrazioni di Johnson Controls. Dati relativi all'occupazione possono essere conservati fino a quando vi sia un requisito legale per conservarli. Dati imprecisi dovranno inoltre essere corretti.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> I dati personali relativi ai dipendenti non dovrebbero essere conservati più a lungo del necessario e secondo quanto stabilito dal Programma di conservazione delle registrazioni di Johnson Controls. Dati relativi all'occupazione possono essere conservati fino a quando vi sia un requisito legale per conservarli. Dati imprecisi dovranno inoltre essere corretti.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Quale delle seguenti affermazioni indica l’approccio migliore da adottare per la raccolta dei dati personali?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Raccogliere il maggior numero di dati personali possibili “casomai servissero”]]></option>
+                <option><![CDATA[Non raccogliere mai nessun dato personale]]></option>
+                <option><![CDATA[Raccogliere solo i dati necessari per lo scopo desiderato]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Quando raccogli informazioni o dati personali su qualcuno, dovresti <b>limitare</b> i dati a quelli necessari allo scopo richiesto. Non conservare più informazioni di quelle necessarie su una persona. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Quando raccogli informazioni o dati personali su qualcuno, dovresti <b>limitare</b> i dati a quelli necessari allo scopo richiesto. Non conservare più informazioni di quelle necessarie su una persona. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Informazioni raccolte sui clienti da parte di un’entità di Johnson Controls possono essere condivise con qualsiasi altra entità di Johnson Controls nel mondo.]]></text>
+				<text><![CDATA[Questo enunciato è vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1">
+                 <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Senza l’autorizzazione della persona interessata, i dati raccolti non dovrebbero essere condivisi con nessun altro, a meno che non esista un’esenzione legale che consenta di farlo.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Senza l’autorizzazione della persona interessata, i dati raccolti non dovrebbero essere condivisi con nessun altro, a meno che non esista un’esenzione legale che consenta di farlo.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Un <b><i>cliente</i></b> ti concede il permesso di condividere i propri dati personali. Puoi condividere i dati? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Sì, se il soggetto ti dà il consenso e se i dati sono condivisi in conformità all’indicazione fornita al soggetto e nel rispetto della politica aziendale]]></option>
+                <option><![CDATA[No. Non puoi condividere i dati personali del soggetto in nessuna circostanza, neppure con il suo consenso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Con il permesso del soggetto interessato, può essere condiviso qualsiasi dato raccolto che lo riguarda se la condivisione di tali dati avviene in conformità all’indicazione fornita all’interessato e in conformità alla politica aziendale. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Con il permesso del soggetto interessato, può essere condiviso qualsiasi dato raccolto che lo riguarda se la condivisione di tali dati avviene in conformità all’indicazione fornita all’interessato e in conformità alla politica aziendale. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	 <module id="5" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Il tuo responsabile commerciale locale ha la responsabilità principale nel garantire che tu agisca in conformità ai controlli sugli scambi commerciali. ]]></text>
+				<text><![CDATA[Vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1">
+                 <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> In Johnson Controls hanno tutti la responsabilità di comprendere come il commercio influenzi i loro doveri e le loro responsabilità correlate. E ognuno è tenuto a garantire la nostra conformità. ]]></text>
+					<text><![CDATA[Se mai dovessi essere incerto, chiedi a un esperto. Puoi consultare:<ul> <li>Il tuo responsabile commerciale locale o il tuo coordinatore commerciale;</li> <li>Il responsabile commerciale regionale o internazionale;</li> <li>Il Direttore commerciale dell’unità aziendale; oppure</li> <li>L’Ufficio per la conformità aziendale.</li> </ul>]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> In Johnson Controls hanno tutti la responsabilità di comprendere come il commercio influenzi i loro doveri e le loro responsabilità correlate. E ognuno è tenuto a garantire la nostra conformità. ]]></text>
+					<text><![CDATA[Se mai dovessi essere incerto, chiedi a un esperto. Puoi consultare:<ul> <li>Il tuo responsabile commerciale locale o il tuo coordinatore commerciale;</li> <li>Il responsabile commerciale regionale o internazionale;</li> <li>Il Direttore commerciale dell’unità aziendale; oppure</li> <li>L’Ufficio per la conformità aziendale.</li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Mila sta trasportando il computer portatile aziendale dagli Stati Uniti al Regno Unito e, successivamente a Dubai, negli Emirati Arabi Uniti. ]]></text>
+				<text><![CDATA[Dovrebbe avere qualche particolare preoccupazione per il suo computer?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Sì. Portare il computer della società in un viaggio all'estero potrebbe richiedere una licenza di esportazione]]></option>
+                <option><![CDATA[No, finché preserva il computer dall’eventualità di un furto custodendolo e portandolo sempre con sé, non dovrebbero esserci problemi]]></option>
+            </options>
+            <feedback>
+                <correct style="top:35px">
+					<text><![CDATA[<b>Risposta esatta.</b> Trasportare a mano l'hardware fornito dall'azienda quando si viaggia all'estero per lavoro è considerato un'esportazione temporanea e potrebbe richiedere una licenza di esportazione a seconda dei dati contenuti.]]></text>
+					<text><![CDATA[Durante i viaggi internazionali, ricorda che qualsiasi dato tecnico o tecnologia che porti potrebbe coinvolgere problemi di esportazione. Ciascuna delle seguenti situazioni potrebbe interessare i requisiti governativi per il controllo delle esportazioni:<ul> <li>Portare il computer fornito dall'azienda fuori dal paese,</li><li>Trasportare o trasferire di dati tecnici o tecnologie in ambito internazionale e</li><li>Trasferire dati tecnici durante riunioni con cittadini stranieri.</li> </ul>]]></text>
+					<text><![CDATA[Se viaggerai all'estero, assicurati di discutere la procedura da seguire per l'hardware del computer con il tuo manager o con un'altra risorsa aziendale competente.]]></text>
+				</correct>
+                <incorrect style="top:35px">
+					<text><![CDATA[<b>La risposta è errata.</b> Trasportare a mano l'hardware fornito dall'azienda quando si viaggia all'estero per lavoro è considerato un'esportazione temporanea e potrebbe richiedere una licenza di esportazione a seconda dei dati contenuti.]]></text>
+					<text><![CDATA[Durante i viaggi internazionali, ricorda che qualsiasi dato tecnico o tecnologia che porti potrebbe coinvolgere problemi di esportazione. Ciascuna delle seguenti situazioni potrebbe interessare i requisiti governativi per il controllo delle esportazioni:<ul> <li>Portare il computer fornito dall'azienda fuori dal paese,</li><li>Trasportare o trasferire di dati tecnici o tecnologie in ambito internazionale e</li><li>Trasferire dati tecnici durante riunioni con cittadini stranieri.</li> </ul>]]></text>
+					<text><![CDATA[Se viaggerai all'estero, assicurati di discutere la procedura da seguire per l'hardware del computer con il tuo manager o con un'altra risorsa aziendale competente.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Quale delle seguenti azioni consiste in un’esportazione?]]></text>				
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,1,0,1,1">
+                <option><![CDATA[La prestazione di servizi all’estero, come la riparazione o l’installazione di alcuni prodotti]]></option>
+                <option><![CDATA[Pubblicare in internet documenti tecnici]]></option>
+                <option><![CDATA[Dialogare con un soggetto proveniente da un altro paese]]></option>
+                <option><![CDATA[Viaggiare in un altro paese con il proprio telefono]]></option>
+                <option><![CDATA[Offrire un regalo a una persona di un altro paese]]></option>
+            </options>
+            <feedback>
+                <correct style="height:127px;">
+					<text ><![CDATA[<b>Risposta esatta.</b> Ci sono molte situazioni che presentano opportunità di esportazione alle quali è possibile accedere con prudenza, tra le quali:<ul> <li>Spedire o portare un bene in un altro paese;</li><li>Trasferire la registrazione, il controllo o la proprietà di un bene a un ente di un altro paese;</li><li>Divulgare informazioni di carattere tecnico oralmente o visivamente a una persona di un altro paese, indipendentemente dal luogo; e</li><li>Prestare assistenza tecnica o servizi. </li> </ul>]]></text>
+				</correct>
+                <partialCorrect style="height:127px;">
+					<text ><![CDATA[<b>Parzialmente corretto.</b> Ci sono molte situazioni che presentano opportunità di esportazione alle quali è possibile accedere con prudenza, tra le quali:<ul> <li>Spedire o portare un bene in un altro paese;</li><li>Trasferire la registrazione, il controllo o la proprietà di un bene a un ente di un altro paese;</li><li>Divulgare informazioni di carattere tecnico oralmente o visivamente a una persona di un altro paese, indipendentemente dal luogo; e</li><li>Prestare assistenza tecnica o servizi. </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect style="height: 127px;">
+					<text ><![CDATA[<b>La risposta è errata.</b> Ci sono molte situazioni che presentano opportunità di esportazione alle quali è possibile accedere con prudenza, tra le quali:<ul> <li>Spedire o portare un bene in un altro paese;</li><li>Trasferire la registrazione, il controllo o la proprietà di un bene a un ente di un altro paese;</li><li>Divulgare informazioni di carattere tecnico oralmente o visivamente a una persona di un altro paese, indipendentemente dal luogo; e</li><li>Prestare assistenza tecnica o servizi. </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Tutte le esportazioni richiedono autorizzazione regolamentare.  Questo enunciato è vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+				<correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Tutte le esportazioni di prodotti, di tecnologia, software e di servizi richiedono un’autorizzazione. Il tipo di autorizzazione può variare a seconda del bene e dei controlli ad esso correlati, ma è sempre richiesta un'autorizzazione e deve essere dichiarata o documentata. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Tutte le esportazioni di prodotti, di tecnologia, software e di servizi richiedono un’autorizzazione. Il tipo di autorizzazione può variare a seconda del bene e dei controlli ad esso correlati, ma è sempre richiesta un'autorizzazione e deve essere dichiarata o documentata. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Qualora scoprissi o venissi a conoscenza di una possibile violazione in materia di esportazione, che cosa dovresti fare?]]></text>
+			</questionText>
+             <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,0,1,0">
+                <option><![CDATA[Tentare di fermare la violazione o di interromperla]]></option>
+                <option><![CDATA[Indagare]]></option>
+                <option><![CDATA[Segnalarla a un membro dell’Ufficio legale o della conformità commerciale]]></option>
+                <option><![CDATA[Ignorarla, dal momento che non sei certo che sia un problema]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Ogni dipendente di Johnson Controls, che assista a un atto riguardante una possibile violazione dei requisiti commerciali, dovrebbe adottare misure ragionevoli e adeguate per porre fine a tali attività e segnalarle immediatamente a un membro dell’Ufficio legale e della conformità commerciale.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Ogni dipendente di Johnson Controls, che assista a un atto riguardante una possibile violazione dei requisiti commerciali, dovrebbe adottare misure ragionevoli e adeguate per porre fine a tali attività e segnalarle immediatamente a un membro dell’Ufficio legale e della conformità commerciale.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Ogni dipendente di Johnson Controls, che assista a un atto riguardante una possibile violazione dei requisiti commerciali, dovrebbe adottare misure ragionevoli e adeguate per porre fine a tali attività e segnalarle immediatamente a un membro dell’Ufficio legale e della conformità commerciale.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Qualora ricevessi la richiesta di appoggiare azioni di boicottaggio non sanzionato da parte di un cliente, che tipo di azione(i) devi adottare?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,0,0,1">
+                <option><![CDATA[Segnalare la richiesta a un membro dell’Ufficio per la conformità commerciale]]></option>
+                <option><![CDATA[Ignorare la richiesta]]></option>
+                <option><![CDATA[Rispondere positivamente alla richiesta, dobbiamo soddisfare i clienti a ogni costo ]]></option>
+                <option><![CDATA[Non adottare ulteriori misure fino a quando non sono fornite le direttive dell’Ufficio per la conformità commerciale]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 38px;padding-bottom: 15px;height:147px;">
+					<text><![CDATA[<b>Risposta esatta.</b> Alcuni paesi o organizzazioni internazionali hanno sancito boicottaggi, come il boicottaggio della Lega Araba contro Israele, e a Johnson Controls potrebbe essere richiesto di parteciparvi o sostenerli.]]></text>					
+					<text><![CDATA[La richiesta può essere sottile. Ad esempio, Johnson Controls ha ricevuto un contratto da parte di un acquirente con la seguente dicitura:]]></text>
+					<text><![CDATA["Il venditore garantisce che nessuna parte del prodotto fornito comprende alcun materiale fabbricato o esportato da società boicottate di cui alle disposizioni del Regno dell'Arabia Saudita.”]]></text>
+					<text><![CDATA[Qualora ricevessi una richiesta di boicottaggio, non fare nulla e segnala tale richiesta a un membro del team per la conformità commerciale, il quale ti suggerirà come procedere. Ai sensi delle leggi in materia di conformità commerciale, ci è vietato sostenere determinate richieste di boicottaggio. Ci viene inoltre richiesto di segnalare qualsiasi richiesta alle autorità governative statunitensi.]]></text>					
+				</correct>
+                <partialCorrect style="top: 38px;padding-bottom: 15px;height:147px;">
+					<text><![CDATA[<b>Parzialmente corretto.</b> Alcuni paesi o organizzazioni internazionali hanno sancito boicottaggi, come il boicottaggio della Lega Araba contro Israele, e a Johnson Controls potrebbe essere richiesto di parteciparvi o sostenerli.]]></text>					
+					<text><![CDATA[La richiesta può essere sottile. Ad esempio, Johnson Controls ha ricevuto un contratto da parte di un acquirente con la seguente dicitura:]]></text>
+					<text><![CDATA["Il venditore garantisce che nessuna parte del prodotto fornito comprende alcun materiale fabbricato o esportato da società boicottate di cui alle disposizioni del Regno dell'Arabia Saudita.”]]></text>
+					<text><![CDATA[Qualora ricevessi una richiesta di boicottaggio, non fare nulla e segnala tale richiesta a un membro del team per la conformità commerciale, il quale ti suggerirà come procedere. Ai sensi delle leggi in materia di conformità commerciale, ci è vietato sostenere determinate richieste di boicottaggio. Ci viene inoltre richiesto di segnalare qualsiasi richiesta alle autorità governative statunitensi.]]></text>					
+				</partialCorrect>
+                <incorrect style="top: 38px;padding-bottom: 15px;height:147px;">
+					<text><![CDATA[<b>La risposta è errata.</b> Alcuni paesi o organizzazioni internazionali hanno sancito boicottaggi, come il boicottaggio della Lega Araba contro Israele, e a Johnson Controls potrebbe essere richiesto di parteciparvi o sostenerli.]]></text>					
+					<text><![CDATA[La richiesta può essere sottile. Ad esempio, Johnson Controls ha ricevuto un contratto da parte di un acquirente con la seguente dicitura:]]></text>
+					<text><![CDATA["Il venditore garantisce che nessuna parte del prodotto fornito comprende alcun materiale fabbricato o esportato da società boicottate di cui alle disposizioni del Regno dell'Arabia Saudita.”]]></text>
+					<text><![CDATA[Qualora ricevessi una richiesta di boicottaggio, non fare nulla e segnala tale richiesta a un membro del team per la conformità commerciale, il quale ti suggerirà come procedere. Ai sensi delle leggi in materia di conformità commerciale, ci è vietato sostenere determinate richieste di boicottaggio. Ci viene inoltre richiesto di segnalare qualsiasi richiesta alle autorità governative statunitensi.]]></text>	
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Quali dei seguenti paesi sono attualmente soggetti a sanzioni globali?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,0,1,0,0">
+                <option><![CDATA[Iran]]></option>
+                <option><![CDATA[Cina]]></option>
+                <option><![CDATA[Nord Corea]]></option>
+                <option><![CDATA[Congo]]></option>
+                <option><![CDATA[Libia]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;line-height: 18px;">
+					<text><![CDATA[<b>Risposta esatta.</b> Indipendentemente dalle leggi e disposizioni, molti paesi applicano anche restrizioni a livello commerciale mediante l’imposizione di sanzioni ed embarghi. Le sanzioni possono essere emesse unilateralmente da un singolo paese nei confronti di un altro o possono riflettere una decisione internazionale da parte di organizzazioni intergovernative, quali le Nazioni Unite. Gli embarghi sono imposti a interi paesi, ma le sanzioni possono essere rivolte a un intero paese oppure a enti o a individui, comunemente noti come “parti bandite”.  Gli Stati membri si riservano il diritto di rilasciare licenze per impegnarsi in determinate transazioni con gli obiettivi di sanzioni o embarghi (es. sostenere attività umanitarie). Tali sanzioni ed embarghi possono limitare:<ul> <li>Con chi Johnson Controls può commerciare legalmente;</li><li>Che cosa Johnson Controls può commerciare legalmente; e</li><li>Dove Johnson Controls può commerciare legalmente. </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Johnson Controls pubblica una Lista di paesi soggetti a embargo sull’intranet di Johnson Controls che è aggiornato per restare coerente con la politica aziendale e con le disposizioni in materia. ]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;line-height: 18px;">
+					<text><![CDATA[<b>Parzialmente corretto.</b> Indipendentemente dalle leggi e disposizioni, molti paesi applicano anche restrizioni a livello commerciale mediante l’imposizione di sanzioni ed embarghi. Le sanzioni possono essere emesse unilateralmente da un singolo paese nei confronti di un altro o possono riflettere una decisione internazionale da parte di organizzazioni intergovernative, quali le Nazioni Unite. Gli embarghi sono imposti a interi paesi, ma le sanzioni possono essere rivolte a un intero paese oppure a enti o a individui, comunemente noti come “parti bandite”.  Gli Stati membri si riservano il diritto di rilasciare licenze per impegnarsi in determinate transazioni con gli obiettivi di sanzioni o embarghi (es. sostenere attività umanitarie). Tali sanzioni ed embarghi possono limitare:<ul> <li>Con chi Johnson Controls può commerciare legalmente;</li><li>Che cosa Johnson Controls può commerciare legalmente; e</li><li>Dove Johnson Controls può commerciare legalmente. </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Johnson Controls pubblica una Lista di paesi soggetti a embargo sull’intranet di Johnson Controls che è aggiornato per restare coerente con la politica aziendale e con le disposizioni in materia. ]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;line-height: 18px;">
+					<text><![CDATA[<b>La risposta è errata.</b> Indipendentemente dalle leggi e disposizioni, molti paesi applicano anche restrizioni a livello commerciale mediante l’imposizione di sanzioni ed embarghi. Le sanzioni possono essere emesse unilateralmente da un singolo paese nei confronti di un altro o possono riflettere una decisione internazionale da parte di organizzazioni intergovernative, quali le Nazioni Unite. Gli embarghi sono imposti a interi paesi, ma le sanzioni possono essere rivolte a un intero paese oppure a enti o a individui, comunemente noti come “parti bandite”.  Gli Stati membri si riservano il diritto di rilasciare licenze per impegnarsi in determinate transazioni con gli obiettivi di sanzioni o embarghi (es. sostenere attività umanitarie). Tali sanzioni ed embarghi possono limitare:<ul> <li>Con chi Johnson Controls può commerciare legalmente;</li><li>Che cosa Johnson Controls può commerciare legalmente; e</li><li>Dove Johnson Controls può commerciare legalmente. </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Johnson Controls pubblica una Lista di paesi soggetti a embargo sull’intranet di Johnson Controls che è aggiornato per restare coerente con la politica aziendale e con le disposizioni in materia. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Quale impatto hanno le sanzioni economiche e commerciali su una società come Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,0,1,1">
+                <option><![CDATA[Impongono limitazioni sugli enti e sugli individui con cui Johnson Controls può commerciare in modo legale]]></option>
+                <option><![CDATA[Impongono limitazioni sulla natura delle nostre interazioni con i concorrenti]]></option>
+                <option><![CDATA[Impongono limitazioni sui prodotti (hardware), i dati tecnici, le tecnologie, il software e/o i servizi che Johnson Controls può commerciare]]></option>
+                <option><![CDATA[Impongono limitazioni sui luoghi in cui Johnson Controls può commerciare]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Di solito le sanzioni includono misure come le limitazioni su importazioni ed esportazioni o il blocco sulla fornitura di alcune merci e servizi. Queste sanzioni possono determinare:<ul> <li>I soggetti con cui Johnson Controls può legalmente commerciare (entità e individui)</li><li>Ciò che Johnson Controls può legalmente commerciare (prodotti, servizi e tecnologia);</li><li>I luoghi in cui Johnson Controls può legalmente commerciare (paesi e territori). </li> </ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Di solito le sanzioni includono misure come le limitazioni su importazioni ed esportazioni o il blocco sulla fornitura di alcune merci e servizi. Queste sanzioni possono determinare:<ul> <li>I soggetti con cui Johnson Controls può legalmente commerciare (entità e individui)</li><li>Ciò che Johnson Controls può legalmente commerciare (prodotti, servizi e tecnologia);</li><li>I luoghi in cui Johnson Controls può legalmente commerciare (paesi e territori). </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Di solito le sanzioni includono misure come le limitazioni su importazioni ed esportazioni o il blocco sulla fornitura di alcune merci e servizi. Queste sanzioni possono determinare:<ul> <li>I soggetti con cui Johnson Controls può legalmente commerciare (entità e individui)</li><li>Ciò che Johnson Controls può legalmente commerciare (prodotti, servizi e tecnologia);</li><li>I luoghi in cui Johnson Controls può legalmente commerciare (paesi e territori). </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Roger sta preparando l’invio di un ordine per un distributore straniero, e il distributore lo rivenderà al suo cliente. Che cosa deve fare Roger prima di esportare l’ordine? ]]></text>
+			</questionText>
+           <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,0,1">
+                <option><![CDATA[Verificare che né il distributore né il cliente finale siano utenti finali soggetti a restrizioni]]></option>
+                <option><![CDATA[Verificare che il cliente finale non si trovi in una destinazione soggetta a restrizioni]]></option>
+                <option><![CDATA[Verificare che il prodotto non sia destinato a un uso finale soggetto a restrizioni]]></option>
+                <option><![CDATA[Quanto descritto in precedenza o richiedere contrattualmente al distributore di evitare la vendita a utenti non consentiti o soggetti a restrizioni o per usi finali non autorizzati]]></option>
+            </options>
+            <feedback>
+                <correct style="">
+					<text style="line-height: 17px;"><![CDATA[<b>Risposta esatta.</b> Roger sta spedendo un prodotto che sarà rivenduto, è pertanto tenuto a verificare che il cliente finale non costituisca un utente finale soggetto a restrizioni, che non si trovi in un luogo soggetto a restrizioni o che il prodotto non sia destinato a un utilizzo finale soggetto a restrizioni. In alternativa, Roger deve richiedere legalmente che il distributore non venda i suoi prodotti per un uso finale vietato o soggetto a restrizioni o a un utente finale non autorizzato.]]></text>
+					<text style="line-height: 17px;"><![CDATA[Assicurarsi sempre che i clienti, i business partner, i fornitori, i fornitori di servizi, gli agenti, i consulenti e i distributori non siano soggetti a restrizioni. Johnson Controls possiede uno strumento software per i dipendenti che serve a eseguire una selezione dei soggetti sotto restrizione. Qualora sia individuata un’eventuale corrispondenza, sei tenuto a sospendere la spedizione e a contattare la conformità commerciale per ricevere assistenza.]]></text>
+				</correct>
+                <incorrect style="">
+					<text style="line-height: 17px;"><![CDATA[<b>La risposta è errata.</b> Roger sta spedendo un prodotto che sarà rivenduto, è pertanto tenuto a verificare che il cliente finale non costituisca un utente finale soggetto a restrizioni, che non si trovi in un luogo soggetto a restrizioni o che il prodotto non sia destinato a un utilizzo finale soggetto a restrizioni. In alternativa, Roger deve richiedere legalmente che il distributore non venda i suoi prodotti per un uso finale vietato o soggetto a restrizioni o a un utente finale non autorizzato.]]></text>
+					<text style="line-height: 17px;"><![CDATA[Assicurarsi sempre che i clienti, i business partner, i fornitori, i fornitori di servizi, gli agenti, i consulenti e i distributori non siano soggetti a restrizioni. Johnson Controls possiede uno strumento software per i dipendenti che serve a eseguire una selezione dei soggetti sotto restrizione. Qualora sia individuata un’eventuale corrispondenza, sei tenuto a sospendere la spedizione e a contattare la conformità commerciale per ricevere assistenza.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johan sta lavorando presso lo stand di Johnson Controls al Salone internazionale del Condizionamento, del Riscaldamento e della Refrigerazione a Las Vegas, in Nevada, quando uno sconosciuto gli si avvicina a gli pone alcune domande molto tecniche sui refrigeratori York.  Come dovrebbe rispondere Johan?  ]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Fornire alla persona le risposte tecniche desiderate]]></option>
+                <option><![CDATA[Fingere di non aver compreso le domande]]></option>
+                <option><![CDATA[Rispondere semplicemente con le informazioni non tecniche pubblicamente disponibili.]]></option>
+                <option><![CDATA[Fornire alla persona informazioni tecniche qualsiasi non correlate ai refrigeratori York]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> La trasmissione di informazioni tecniche a un soggetto proveniente da un altro paese, seppure verbale e interna agli Stati Uniti, costituisce un’esportazione che necessita di essere autorizzata. Dato che il soggetto è uno sconosciuto, Johan non sa se si tratti di qualcuno che appartiene o che rappresenta un altro paese. Inoltre, le informazioni tecniche possono essere di proprietà di Johnson Controls e non dovrebbero essere rilasciate a sconosciuti. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> La trasmissione di informazioni tecniche a un soggetto proveniente da un altro paese, seppure verbale e interna agli Stati Uniti, costituisce un’esportazione che necessita di essere autorizzata. Dato che il soggetto è uno sconosciuto, Johan non sa se si tratti di qualcuno che appartiene o che rappresenta un altro paese. Inoltre, le informazioni tecniche possono essere di proprietà di Johnson Controls e non dovrebbero essere rilasciate a sconosciuti. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Chen sta preparando una spedizione per l’esportazione. Egli verifica il nome del cliente mediante lo strumento software di Johnson Controls e il nome viene selezionato come un soggetto sotto restrizione. Che cosa deve fare Chen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Contattare il cliente per chiedergli di verificare la sua identità]]></option>
+                <option><![CDATA[Contattare il team per la Conformità commerciale di Johnson Controls per un suggerimento]]></option>
+                <option><![CDATA[Annullare la spedizione]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Ciascun dipendente che tratta esportazioni ha il dovere di assicurarsi sempre che i clienti, i business partner, i fornitori, i fornitori di servizi, gli agenti, i consulenti e i distributori non siano soggetti sotto restrizione. Johnson Controls possiede uno strumento software per i dipendenti che serve a eseguire una selezione dei soggetti sotto restrizione. Chen lo ha fatto e ha individuato una possibile corrispondenza, dovrebbe quindi sospendere la spedizione e contattare la Conformità commerciale per ricevere assistenza.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Ciascun dipendente che tratta esportazioni ha il dovere di assicurarsi sempre che i clienti, i business partner, i fornitori, i fornitori di servizi, gli agenti, i consulenti e i distributori non siano soggetti sotto restrizione. Johnson Controls possiede uno strumento software per i dipendenti che serve a eseguire una selezione dei soggetti sotto restrizione. Chen lo ha fatto e ha individuato una possibile corrispondenza, dovrebbe quindi sospendere la spedizione e contattare la Conformità commerciale per ricevere assistenza.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Le normative in materia di commercio vigenti negli Stati Uniti sono extraterritoriali, di conseguenza, quali dei seguenti casi sono soggetti alla normativa statunitense?  ]]></text>
+			</questionText>
+             <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Cittadini statunitensi, indipendentemente dal luogo in cui si trovano e dal loro datore di lavoro]]></option>
+                <option><![CDATA[Prodotti e dati tecnici provenienti dagli Stati Uniti e controllati dall’ITAR, indipendentemente dall’integrazione nei prodotti fabbricati al di fuori degli Stati Uniti o dalla sede]]></option>
+                <option><![CDATA[Articoli commerciali di origine statunitense]]></option>
+                <option><![CDATA[Articoli commerciali di origine statunitense di valore de minimis incorporati in un articolo fabbricato al di fuori degli Stati Uniti destinato all’Iran]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text style="margin-bottom: 15px;"><![CDATA[<b>Risposta esatta.</b> Le normative in materia di commercio vigenti negli Stati Uniti sono extraterritoriali. <ul> <li>Tutti gli articoli e la tecnologia che si trovano negli Stati Uniti o detenuti da un cittadino statunitense, sono soggetti alle leggi e alle normative in materia di commercio vigenti negli Stati Uniti.  </li><li>Tutti gli articoli provenienti dagli Stati Uniti, indipendentemente dall’attuale posizione geografica, sono soggetti alle leggi e normative in materia di commercio vigenti negli Stati Uniti.  </li><li>Tutti gli articoli non statunitensi, fabbricati impiegando componenti o dati tecnici provenienti dagli Stati Uniti controllati dall’ITAR, sono soggetti alle leggi e normative in materia di commercio vigenti negli Stati Uniti. </li><li>Tutti gli articoli non statunitensi, fabbricati impiegando componenti o tecnologia provenienti dagli Stati Uniti controllati dall’EAR sono soggetti alle leggi e normative in materia di commercio vigenti negli Stati Uniti se è stata soddisfatta la soglia de minimis (qualora vi sia una soglia de minimis per il ECCN) oppure viene sanzionato il paese di destinazione. </li><li>Tutti i cittadini statunitensi, indipendentemente dall’attuale posizione geografica, sono tenuti a rispettare le leggi e normative in materia commerciale vigenti negli Stati Uniti e alle quali sono soggetti. </li> </ul>]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;">
+					<text style="margin-bottom: 15px;"><![CDATA[<b>Parzialmente corretto.</b> Le normative in materia di commercio vigenti negli Stati Uniti sono extraterritoriali. <ul> <li>Tutti gli articoli e la tecnologia che si trovano negli Stati Uniti o detenuti da un cittadino statunitense, sono soggetti alle leggi e alle normative in materia di commercio vigenti negli Stati Uniti.  </li><li>Tutti gli articoli provenienti dagli Stati Uniti, indipendentemente dall’attuale posizione geografica, sono soggetti alle leggi e normative in materia di commercio vigenti negli Stati Uniti.  </li><li>Tutti gli articoli non statunitensi, fabbricati impiegando componenti o dati tecnici provenienti dagli Stati Uniti controllati dall’ITAR, sono soggetti alle leggi e normative in materia di commercio vigenti negli Stati Uniti. </li><li>Tutti gli articoli non statunitensi, fabbricati impiegando componenti o tecnologia provenienti dagli Stati Uniti controllati dall’EAR sono soggetti alle leggi e normative in materia di commercio vigenti negli Stati Uniti se è stata soddisfatta la soglia de minimis (qualora vi sia una soglia de minimis per il ECCN) oppure viene sanzionato il paese di destinazione. </li><li>Tutti i cittadini statunitensi, indipendentemente dall’attuale posizione geografica, sono tenuti a rispettare le leggi e normative in materia commerciale vigenti negli Stati Uniti e alle quali sono soggetti. </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>La risposta è errata.</b> Le normative in materia di commercio vigenti negli Stati Uniti sono extraterritoriali. <ul> <li>Tutti gli articoli e la tecnologia che si trovano negli Stati Uniti o detenuti da un cittadino statunitense, sono soggetti alle leggi e alle normative in materia di commercio vigenti negli Stati Uniti.  </li><li>Tutti gli articoli provenienti dagli Stati Uniti, indipendentemente dall’attuale posizione geografica, sono soggetti alle leggi e normative in materia di commercio vigenti negli Stati Uniti.  </li><li>Tutti gli articoli non statunitensi, fabbricati impiegando componenti o dati tecnici provenienti dagli Stati Uniti controllati dall’ITAR, sono soggetti alle leggi e normative in materia di commercio vigenti negli Stati Uniti. </li><li>Tutti gli articoli non statunitensi, fabbricati impiegando componenti o tecnologia provenienti dagli Stati Uniti controllati dall’EAR sono soggetti alle leggi e normative in materia di commercio vigenti negli Stati Uniti se è stata soddisfatta la soglia de minimis (qualora vi sia una soglia de minimis per il ECCN) oppure viene sanzionato il paese di destinazione. </li><li>Tutti i cittadini statunitensi, indipendentemente dall’attuale posizione geografica, sono tenuti a rispettare le leggi e normative in materia commerciale vigenti negli Stati Uniti e alle quali sono soggetti. </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Quali tipi di documenti potrebbero essere soggetti a limitazioni sulle esportazioni?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Progetti]]></option>
+                <option><![CDATA[Formule]]></option>
+                <option><![CDATA[Manuali]]></option>
+                <option><![CDATA[Istruzioni]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 160px;">
+					<text><![CDATA[<b>Risposta esatta.</b> In ambito di controlli commerciali, qualsivoglia documento contenente informazione sulle tecnologie è soggetto al controllo delle esportazioni.  Le informazioni di carattere tecnico comprendono dati, che sono richiesti per la progettazione, per lo sviluppo, la produzione, la fabbricazione, l’assemblaggio, l’operazione, la riparazione, il controllo, la manutenzione o la modifica di un prodotto, come anche informazioni classificate correlate ai prodotti, informazioni coperte da un ordine di segretezza sulle invenzioni e software.]]></text>
+					<text><![CDATA[Costituiscono esempi di informazioni tecniche: <ul> <li>Progetti</li><li>Disegni</li><li>Fotografie</li><li>Piani</li><li>Diagrammi</li><li>Modelli</li><li>Formule</li><li>Tabelle</li><li>Progetti di costruzione</li><li>Specifiche</li><li>Manuali</li><li>Istruzioni</li></ul>]]></text>
+				</correct>
+                <partialCorrect style="height: 160px;">
+					<text><![CDATA[<b>Parzialmente corretto.</b> In ambito di controlli commerciali, qualsivoglia documento contenente informazione sulle tecnologie è soggetto al controllo delle esportazioni.  Le informazioni di carattere tecnico comprendono dati, che sono richiesti per la progettazione, per lo sviluppo, la produzione, la fabbricazione, l’assemblaggio, l’operazione, la riparazione, il controllo, la manutenzione o la modifica di un prodotto, come anche informazioni classificate correlate ai prodotti, informazioni coperte da un ordine di segretezza sulle invenzioni e software.]]></text>
+					<text><![CDATA[Costituiscono esempi di informazioni tecniche: <ul> <li>Progetti</li><li>Disegni</li><li>Fotografie</li><li>Piani</li><li>Diagrammi</li><li>Modelli</li><li>Formule</li><li>Tabelle</li><li>Progetti di costruzione</li><li>Specifiche</li><li>Manuali</li><li>Istruzioni</li></ul>]]></text>
+				</partialCorrect>
+                <incorrect style="height: 160px;">
+					<text><![CDATA[<b>La risposta è errata.</b> In ambito di controlli commerciali, qualsivoglia documento contenente informazione sulle tecnologie è soggetto al controllo delle esportazioni.  Le informazioni di carattere tecnico comprendono dati, che sono richiesti per la progettazione, per lo sviluppo, la produzione, la fabbricazione, l’assemblaggio, l’operazione, la riparazione, il controllo, la manutenzione o la modifica di un prodotto, come anche informazioni classificate correlate ai prodotti, informazioni coperte da un ordine di segretezza sulle invenzioni e software.]]></text>
+					<text><![CDATA[Costituiscono esempi di informazioni tecniche: <ul> <li>Progetti</li><li>Disegni</li><li>Fotografie</li><li>Piani</li><li>Diagrammi</li><li>Modelli</li><li>Formule</li><li>Tabelle</li><li>Progetti di costruzione</li><li>Specifiche</li><li>Manuali</li><li>Istruzioni</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Quali dei seguenti casi si configurerebbe come una riesportazione o ritrasferimento che può necessitare autorizzazione?]]></text>
+			</questionText>
+             <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,0,1">
+                <option><![CDATA[Il trasferimento di un prodotto precedentemente esportato a un nuovo utente finale]]></option>
+                <option><![CDATA[Il trasferimento di un prodotto precedentemente esportato presso la tua struttura a otto chilometri di distanza sulla strada]]></option>
+                <option><![CDATA[Il trasferimento di un prodotto precedentemente esportato presso un fornitore all’interno dello stesso paese]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Si definisce riesportazione o ritrasferimento qualsiasi trasferimento di un prodotto, di dati, di un articolo che incorpora un articolo soggetto a controlli sulle esportazioni, o un articolo fabbricato utilizzando informazioni tecniche soggette a controlli sulle esportazioni, per un utilizzo finale, a un utente finale o qualsivoglia destinazione o entità non autorizzata in precedenza.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Si definisce riesportazione o ritrasferimento qualsiasi trasferimento di un prodotto, di dati, di un articolo che incorpora un articolo soggetto a controlli sulle esportazioni, o un articolo fabbricato utilizzando informazioni tecniche soggette a controlli sulle esportazioni, per un utilizzo finale, a un utente finale o qualsivoglia destinazione o entità non autorizzata in precedenza.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Si definisce riesportazione o ritrasferimento qualsiasi trasferimento di un prodotto, di dati, di un articolo che incorpora un articolo soggetto a controlli sulle esportazioni, o un articolo fabbricato utilizzando informazioni tecniche soggette a controlli sulle esportazioni, per un utilizzo finale, a un utente finale o qualsivoglia destinazione o entità non autorizzata in precedenza.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 
+    </module>
+	<module id="6" pick="3">
+       
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Quale delle seguenti affermazioni è vera?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[In tutte le relazioni commerciali per conto di Johnson Controls, devi essere leale, anche quando si tratta dei concorrenti ]]></option>
+                <option><![CDATA[In tutte le relazioni commerciali per conto di Johnson Controls, devi fare tutto quanto il possibile per proteggere Johnson Controls dalle nuove società che tentano di fargli concorrenza]]></option>
+                <option><![CDATA[In tutte le relazioni commerciali per conto di Johnson Controls, devi fare il possibile per offrire alle società più recenti l’opportunità di competere]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Le leggi sulla concorrenza variano a seconda del paese ma, in genere, sono basate su tre principi chiave:<ul><li>Promuovere la scelta del consumatore</li><li>Incoraggiare accordi commerciali leali</li><li>Premiare l'innovazione e il miglioramento continuo</li></ul>]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Le leggi sulla concorrenza variano a seconda del paese ma, in genere, sono basate su tre principi chiave:<ul><li>Promuovere la scelta del consumatore</li><li>Incoraggiare accordi commerciali leali</li><li>Premiare l'innovazione e il miglioramento continuo</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Ted sta partecipando a un convegno del settore, dove incontra un rappresentante del principale concorrente di Johnson Controls. Quali dei seguenti argomenti può discutere Ted con un concorrente?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0,0,0">
+                <option><![CDATA[Nuove leggi che possono incidere negativamente sulla competitività dell’intero settore]]></option>
+                <option><![CDATA[L'intenzione dell'azienda di rettificare i prezzi ai clienti]]></option>
+                <option><![CDATA[Un recente aumento dei costi, dovuto all'introduzione di un nuovo regime fiscale]]></option>
+                <option><![CDATA[L'intenzione di partecipare a una gara d'appalto per un contratto vantaggioso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Ted deve evitare di parlare di offerte, prezzi, costi o altri argomenti commercialmente sensibili con un concorrente e deve consultare sempre l’Ufficio legale circa tutti i contatti dei concorrenti.]]></text>
+					<text><![CDATA[Alcune discussioni con i concorrenti possono essere legittime e possono perfino promuovere la concorrenza, ma alcuni scambi di informazioni potrebbero essere visti come un tentativo di raggiungere un accordo anticompetitivo. In caso di dubbi, deve andarsene e segnalare la conversazione all’Ufficio legale.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Ted deve evitare di parlare di offerte, prezzi, costi o altri argomenti commercialmente sensibili con un concorrente e deve consultare sempre l’Ufficio legale circa tutti i contatti dei concorrenti.]]></text>
+					<text><![CDATA[Alcune discussioni con i concorrenti possono essere legittime e possono perfino promuovere la concorrenza, ma alcuni scambi di informazioni potrebbero essere visti come un tentativo di raggiungere un accordo anticompetitivo. In caso di dubbi, deve andarsene e segnalare la conversazione all’Ufficio legale.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[In genere, le leggi antitrust vietano alle società concorrenti di fornirsi a vicenda prodotti e servizi.]]></text>
+				<text><![CDATA[Questo enunciato è vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> È legittimo che i concorrenti siano fornitori e clienti gli uni degli altri.]]></text>
+					<text><![CDATA[È invece illegale che i concorrenti utilizzino la catena di approvvigionamento per limitare i commerci, ad esempio complottando per ripartirsi il mercato. Le leggi antitrust vietano questo tipo di azioni.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> È legittimo che i concorrenti siano fornitori e clienti gli uni degli altri.]]></text>
+					<text><![CDATA[È invece illegale che i concorrenti utilizzino la catena di approvvigionamento per limitare i commerci, ad esempio complottando per ripartirsi il mercato. Le leggi antitrust vietano questo tipo di azioni.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Barbara, una dipendente di Johnson Controls, riceve una telefonata da Bonnie, dirigente di una delle aziende concorrenti di Johnson Controls. Bonnie chiede a Johnson Controls se sono disposti ad aumentare i prezzi in alcuni mercati europei qualora la loro società accettasse di diminuire i prezzi in Nord America. Se Barbara acconsente alla proposta di Bonnie, che cosa sta facendo? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Sta coinvolgendo Johnson Controls in uno schema illegale di fissazione dei prezzi]]></option>
+                <option><![CDATA[Non sta violando le leggi antitrust, poiché l’accordo tra Barbara e Bonnie aiuterebbe tanti clienti quanti ne danneggerebbe]]></option>
+                <option><![CDATA[Sta coinvolgendo Johnson Controls in uno schema illegale di controllo delle offerte]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> L’accordo, come indicato, costituisce la fissazione dei prezzi. In Johnson Controls tale comportamento è illegale e severamente vietato.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> L’accordo, come indicato, costituisce la fissazione dei prezzi. In Johnson Controls tale comportamento è illegale e severamente vietato.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Lucy, la responsabile delle vendite di un concorrente di lunga data di Johnson Controls, chiama per chiedere a Johnson Controls di non fare offerte per quel che riguarda un progetto. Lucy promette che, in cambio, la sua società non farà alcuna controfferta a Johnson Controls per quanto riguarda i due progetti scelti da te. Che cosa dovresti dire a Lucy?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Accettare, poiché si tratta di una soluzione che per Johnson Controls si rivelerà vincente a lungo termine.]]></option>
+                <option><![CDATA[Accettare, poiché si tratta di un accordo etico dal momento che non prevede alcun pagamento.]]></option>
+                <option><![CDATA[Non accettare, poiché quella proposta da Lucy è una manovra illegale di manipolazione delle offerte.]]></option>
+			</options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> La manipolazione costituisce un comportamento anticoncorrenziale illecito, che potrebbe causare procedimenti penali e pesanti sanzioni ed è severamente vietata in Johnson Controls.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> La manipolazione costituisce un comportamento anticoncorrenziale illecito, che potrebbe causare procedimenti penali e pesanti sanzioni ed è severamente vietata in Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Un accordo fra concorrenti può violare le leggi antitrust anche se non è stato messo per iscritto.]]></text>
+				<text><![CDATA[Questo enunciato è vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+             <options answer="1,0">
+                <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Qualsiasi accordo fra concorrenti per limitare il commercio, scritto, orale o implicito nella condotta, o in altra forma, potrebbe violare le leggi antitrust.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Qualsiasi accordo fra concorrenti per limitare il commercio, scritto, orale o implicito nella condotta, o in altra forma, potrebbe violare le leggi antitrust.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Amanda, responsabile vendite di Johnson Controls, riceve una telefonata da Aaron, dirigente di uno dei principali concorrenti di Johnson Controls. Aaron chiede ad Amanda perché Johnson Controls ha venduto a clienti di mercati che “appartengono” ad Aaron e alla sua società, e chiede che Amanda ordini al proprio team di vendita di bloccare le vendite in quei mercati. Se Amanda acconsente alla richiesta di Aaron, che cosa sta facendo?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Sta coinvolgendo Johnson Controls in uno schema illecito di fissazione dei prezzi]]></option>
+                <option><![CDATA[Sta rafforzando la reputazione e le relazioni aziendali di Johnson Controls]]></option>
+                <option><![CDATA[Sta coinvolgendo Johnson Controls in uno schema illegale di allocazione dei mercati]]></option>
+                <option><![CDATA[Nessuno dei punti precedenti]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Se Amanda acconsente alla richiesta di Aaron, coinvolge Johnson Controls in uno schema illegale di allocazione dei mercati. Gli accordi fra concorrenti per dividersi i mercati o i clienti sono un’allocazione di mercato e sono illegali. Un segnale che avverte di schemi di allocazione del mercato è una frase del tipo “smettete di vendere ai ‘miei’ clienti”.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Se Amanda acconsente alla richiesta di Aaron, coinvolge Johnson Controls in uno schema illegale di allocazione dei mercati. Gli accordi fra concorrenti per dividersi i mercati o i clienti sono un’allocazione di mercato e sono illegali. Un segnale che avverte di schemi di allocazione del mercato è una frase del tipo “smettete di vendere ai ‘miei’ clienti”.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Sia Johnson Controls sia qualsiasi dipendente coinvolto potrebbero andare incontro a procedimenti penali, incluse multe pesanti e pene detentive, per violazione delle leggi antitrust.]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+			<options answer="1,0">
+                <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> La maggior parte delle leggi antitrust prevede azioni penali nei confronto delle società e delle persone. Ad esempio, le leggi antitrust degli Stati Uniti prevedono pene pecuniarie fino a 100 milioni di dollari USA per le aziende e 1 milione di dollari USA per le persone, oltre a 10 anni di detenzione. Nell’anno fiscale 2014, il governo statunitense ha condannato al carcere numerosi alti dirigenti e ha comminato più di 1 miliardo di dollari USA di multe per violazioni delle leggi antitrust commesse dalla sola industria automobilistica.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> La maggior parte delle leggi antitrust prevede azioni penali nei confronto delle società e delle persone. Ad esempio, le leggi antitrust degli Stati Uniti prevedono pene pecuniarie fino a 100 milioni di dollari USA per le aziende e 1 milione di dollari USA per le persone, oltre a 10 anni di detenzione. Nell’anno fiscale 2014, il governo statunitense ha condannato al carcere numerosi alti dirigenti e ha comminato più di 1 miliardo di dollari USA di multe per violazioni delle leggi antitrust commesse dalla sola industria automobilistica.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Mark, un dipendente di Johnson Controls, riceve una telefonata da Meredith, dirigente di uno dei maggiori concorrenti di Johnson Controls. Presumendo che Mark sia d’accordo, quale delle seguenti richieste di Meredith esporrebbe Johnson Controls a sanzioni antitrust?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,1,1">
+                <option><![CDATA[Meredith chiede a Mark di presentare un’offerta alta per un progetto, in modo che la società di Meredith possa ottenerlo, accordandosi di restituire il favore a Mark su una futura offerta]]></option>
+                <option><![CDATA[Meredith chiede a Mark di non presentare un’offerta per un progetto, in modo che la società di Meredith possa ottenerlo, accordandosi di restituire il favore a Mark su una futura offerta]]></option>
+                <option><![CDATA[Meredith chiede a Mark di ritirare l’offerta di Johnson Controls, in modo che la società di Meredith ottenga il contratto, accordandosi di ingaggiare Johnson Controls come subappaltatore per il progetto]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text><![CDATA[<b>Risposta esatta.</b> Tutte le idee proposte per Meredith violerebbero le leggi antitrust e potrebbero esporre Johnson Controls e Mark a sanzioni antitrust. ]]></text>
+					<text><![CDATA[Presentare un’offerta artificialmente elevata in un progetto per influenzarne l’esito, affinché la società di Meredith vinca, costituisce una forma di offerta manipolata, ed è contrario all’etica oltre che illegale.]]></text>
+					<text><![CDATA[Anche accettare di non fare alcuna offerta in un progetto per permettere di vincere all'azienda di Meredith costituisce una forma di offerta manipolata, ed è contrario all’etica e illegale.]]></text>
+					<text><![CDATA[Ritirare un’offerta, affinché questa volta vinca la società di Meredith e Johnson Controls possa vincere la prossima volta costituisce una forma di offerta manipolata, ed è contrario all’etica e illegale.]]></text>
+					<text><![CDATA[Tutte e tre le opzioni sono proibite per legge dalla politica di Johnson Controls.]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;">
+					<text><![CDATA[<b>Parzialmente corretto.</b> Tutte le idee proposte per Meredith violerebbero le leggi antitrust e potrebbero esporre Johnson Controls e Mark a sanzioni antitrust. ]]></text>
+					<text><![CDATA[Presentare un’offerta artificialmente elevata in un progetto per influenzarne l’esito, affinché la società di Meredith vinca, costituisce una forma di offerta manipolata, ed è contrario all’etica oltre che illegale.]]></text>
+					<text><![CDATA[Anche accettare di non fare alcuna offerta in un progetto per permettere di vincere all'azienda di Meredith costituisce una forma di offerta manipolata, ed è contrario all’etica e illegale.]]></text>
+					<text><![CDATA[Ritirare un’offerta, affinché questa volta vinca la società di Meredith e Johnson Controls possa vincere la prossima volta costituisce una forma di offerta manipolata, ed è contrario all’etica e illegale.]]></text>
+					<text><![CDATA[Tutte e tre le opzioni sono proibite per legge dalla politica di Johnson Controls.]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>La risposta è errata.</b> Tutte le idee proposte per Meredith violerebbero le leggi antitrust e potrebbero esporre Johnson Controls e Mark a sanzioni antitrust. ]]></text>
+					<text><![CDATA[Presentare un’offerta artificialmente elevata in un progetto per influenzarne l’esito, affinché la società di Meredith vinca, costituisce una forma di offerta manipolata, ed è contrario all’etica oltre che illegale.]]></text>
+					<text><![CDATA[Anche accettare di non fare alcuna offerta in un progetto per permettere di vincere all'azienda di Meredith costituisce una forma di offerta manipolata, ed è contrario all’etica e illegale.]]></text>
+					<text><![CDATA[Ritirare un’offerta, affinché questa volta vinca la società di Meredith e Johnson Controls possa vincere la prossima volta costituisce una forma di offerta manipolata, ed è contrario all’etica e illegale.]]></text>
+					<text><![CDATA[Tutte e tre le opzioni sono proibite per legge dalla politica di Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[In una conversazione tra membri di un’associazione di categoria di diverse società concorrenti, si discutono i metodi per ostacolare un’altra società, in quanto le sue “prassi sleali sui prezzi” violano le leggi antitrust.]]></text>
+				<text><![CDATA[Questo enunciato è vero o falso?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Vero]]></option>
+                <option><![CDATA[Falso]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Devi fare molta attenzione alle conversazioni con dipendenti di società concorrenti. Se ti accorgi che ti stai addentrando in una conversazione con un rappresentante di un’azienda concorrente relativa a prezzi, allocazione di mercato o qualsiasi forma di manipolazione dei commerci, devi interrompere la conversazione, dire che questi argomenti potrebbero violare le leggi antitrust, lasciare la stanza e comunicare quanto prima l’accaduto al consulente legale.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Devi fare molta attenzione alle conversazioni con dipendenti di società concorrenti. Se ti accorgi che ti stai addentrando in una conversazione con un rappresentante di un’azienda concorrente relativa a prezzi, allocazione di mercato o qualsiasi forma di manipolazione dei commerci, devi interrompere la conversazione, dire che questi argomenti potrebbero violare le leggi antitrust, lasciare la stanza e comunicare quanto prima l’accaduto al consulente legale.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls è una grande multinazionale e in molte sedi deteniamo la maggioranza delle quote di mercato nel nostro settore. Quando occupiamo una posizione di dominanza sul mercato, che cosa dobbiamo preoccuparci di evitare?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[Un’ulteriore crescita ]]></option>
+                <option><![CDATA[Pratiche discriminatorie o predatorie]]></option>
+                <option><![CDATA[Avere i prezzi più bassi]]></option>
+                <option><![CDATA[Espandere la nostra linea di prodotti]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 38px;height:160px;">
+					<text><![CDATA[<b>Risposta esatta.</b> Le leggi in materia di concorrenza proibiscono una condotta discriminatoria o predatoria volta a ottenere o a preservare un regime di monopolio o una quota dominante di mercato. L’abuso di mercato può verificarsi quando per i clienti non esistono alternative concrete e devono rivolgersi all’azienda dominante.]]></text>
+					<text><![CDATA[Se occupiamo una posizione dominante sul mercato, le persone saranno tenute ad acquistare da noi. Ciò ci espone all’essere accusati di pratiche predatorie. ]]></text>
+					<text><![CDATA[Quando occupiamo una posizione dominante sul mercato, dobbiamo prestare attenzione al danno alla reputazione ed essere consapevoli dei rischi legali.]]></text>
+					<text><![CDATA[Stabilire una posizione di mercato dominante e come agire in riferimento alla stessa rappresenta una questione complessa. Se hai dei dubbi, consulta l’Ufficio legale di Johnson Controls oppure l’Ufficio conformità al fine di ricevere indicazioni.]]></text>
+				</correct>
+                <incorrect style="top: 38px;height:160px;">
+					<text><![CDATA[<b>La risposta è errata.</b> Le leggi in materia di concorrenza proibiscono una condotta discriminatoria o predatoria volta a ottenere o a preservare un regime di monopolio o una quota dominante di mercato. L’abuso di mercato può verificarsi quando per i clienti non esistono alternative concrete e devono rivolgersi all’azienda dominante.]]></text>
+					<text><![CDATA[Se occupiamo una posizione dominante sul mercato, le persone saranno tenute ad acquistare da noi. Ciò ci espone all’essere accusati di pratiche predatorie. ]]></text>
+					<text><![CDATA[Quando occupiamo una posizione dominante sul mercato, dobbiamo prestare attenzione al danno alla reputazione ed essere consapevoli dei rischi legali.]]></text>
+					<text><![CDATA[Stabilire una posizione di mercato dominante e come agire in riferimento alla stessa rappresenta una questione complessa. Se hai dei dubbi, consulta l’Ufficio legale di Johnson Controls oppure l’Ufficio conformità al fine di ricevere indicazioni.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Quali dei seguenti argomenti devono essere evitati quando sono presenti dei concorrenti?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Prezzi attuali o futuri]]></option>
+                <option><![CDATA[Livelli di profitto, in particolare ciò che rappresenta un profitto “giusto”]]></option>
+                <option><![CDATA[Dettagli delle offerte o partecipazione a offerte specifiche]]></option>
+                <option><![CDATA[Previsioni o strategie della società]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Parlando con i concorrenti, non devi mai svelare informazioni sensibili per la concorrenza, riguardanti la fissazione dei prezzi attuali o futuri. Non devi mai discutere di livelli di profitto, in particolare su ciò che rappresenta un profitto “giusto”, e non devi mai lasciarti coinvolgere nei dettagli di un’offerta o in offerte specifiche. Devi anche evitare qualsiasi discussione relativa a previsioni o strategie della società. Se ti trovi coinvolto in una discussione di questo tipo devi abbandonarla immediatamente e segnalare l’accaduto all’Ufficio legale di Johnson Controls.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Parlando con i concorrenti, non devi mai svelare informazioni sensibili per la concorrenza, riguardanti la fissazione dei prezzi attuali o futuri. Non devi mai discutere di livelli di profitto, in particolare su ciò che rappresenta un profitto “giusto”, e non devi mai lasciarti coinvolgere nei dettagli di un’offerta o in offerte specifiche. Devi anche evitare qualsiasi discussione relativa a previsioni o strategie della società. Se ti trovi coinvolto in una discussione di questo tipo devi abbandonarla immediatamente e segnalare l’accaduto all’Ufficio legale di Johnson Controls.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Parlando con i concorrenti, non devi mai svelare informazioni sensibili per la concorrenza, riguardanti la fissazione dei prezzi attuali o futuri. Non devi mai discutere di livelli di profitto, in particolare su ciò che rappresenta un profitto “giusto”, e non devi mai lasciarti coinvolgere nei dettagli di un’offerta o in offerte specifiche. Devi anche evitare qualsiasi discussione relativa a previsioni o strategie della società. Se ti trovi coinvolto in una discussione di questo tipo devi abbandonarla immediatamente e segnalare l’accaduto all’Ufficio legale di Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+    </module>
+	<module id="7" pick="3">
+       <question type="mrq">
+            <questionText>
+				<text><![CDATA[Quali dei seguenti esempi sono considerati proprietà intellettuale?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,1,1,0,0">
+                <option><![CDATA[Invenzioni]]></option>
+                <option><![CDATA[Progetti ]]></option>
+                <option><![CDATA[Nomi e loghi dell’azienda]]></option>
+                <option><![CDATA[Un rapporto finanziario interno]]></option>
+                <option><![CDATA[Un elenco di dati dei dipendenti]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text><![CDATA[<b>Risposta esatta.</b> Con proprietà intellettuale si indica un lavoro creativo che può essere trattato come un bene e protetto dalla legge, quali ad esempio:<ul> <li>Invenzioni</li> <li>Lavori scritti</li> <li>Progetti</li> <li>Simboli</li> <li>Nomi e immagini</li> </ul>]]></text>
+					<text><![CDATA[Hai la responsabilità di proteggere la nostra proprietà intellettuale.]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;">
+					<text><![CDATA[<b>Parzialmente corretto.</b> Con proprietà intellettuale si indica un lavoro creativo che può essere trattato come un bene e protetto dalla legge, quali ad esempio:<ul> <li>Invenzioni</li> <li>Lavori scritti</li> <li>Progetti</li> <li>Simboli</li> <li>Nomi e immagini</li> </ul>]]></text>
+					<text><![CDATA[Hai la responsabilità di proteggere la nostra proprietà intellettuale.]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>La risposta è errata.</b> Con proprietà intellettuale si indica un lavoro creativo che può essere trattato come un bene e protetto dalla legge, quali ad esempio:<ul> <li>Invenzioni</li> <li>Lavori scritti</li> <li>Progetti</li> <li>Simboli</li> <li>Nomi e immagini</li> </ul>]]></text> 
+					<text><![CDATA[Hai la responsabilità di proteggere la nostra proprietà intellettuale.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Quali tipi di software possono essere protetti da un brevetto?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Tutti i tipi di software]]></option>
+                <option><![CDATA[Il software tecnico ]]></option>
+                <option><![CDATA[Nessun software di alcun tipo]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Anche se il software tecnico è generalmente brevettabile, ci sono limitazioni per il software che integra idee astratte o metodi finanziari.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Anche se il software tecnico è generalmente brevettabile, ci sono limitazioni per il software che integra idee astratte o metodi finanziari.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Quali dei seguenti mezzi utilizziamo per proteggere l’estetica di design dei nostri prodotti?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Brevetti]]></option>
+                <option><![CDATA[Copyright]]></option>
+                <option><![CDATA[Diritti di modello]]></option>
+                <option><![CDATA[Marchi]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> I diritti di modello possono essere utilizzati per favorire la tutela dei progetti dei nostri prodotti Johnson Controls.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> I diritti di modello possono essere utilizzati per favorire la tutela dei progetti dei nostri prodotti Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Quali dei seguenti mezzi utilizziamo per proteggere la proprietà intellettuale contenuta nel nostro codice software?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,1,0,0">
+                <option><![CDATA[Brevetti]]></option>
+                <option><![CDATA[Copyright]]></option>
+                <option><![CDATA[Diritti di modello]]></option>
+                <option><![CDATA[Marchi]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Il software può essere protetto da copyright e, in caso di software tecnici, da brevetto.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Il software può essere protetto da copyright e, in caso di software tecnici, da brevetto.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Il software può essere protetto da copyright e, in caso di software tecnici, da brevetto.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Quali di queste affermazioni relative all’impegno di Johnson Controls per la protezione della proprietà intellettuale (IP) sono vere?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[Ci impegniamo solo a proteggere i nostri diritti di proprietà intellettuale]]></option>
+                <option><![CDATA[Rispettiamo i diritti validi di proprietà intellettuale di tutte le terze parti ]]></option>
+                <option><![CDATA[Adottiamo le iniziative necessarie per proteggere la nostra proprietà intellettuale]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> In Johnson Controls siamo impegnati a proteggere i nostri diritti di proprietà intellettuale e a rispettare i diritti validi di proprietà intellettuale delle terze parti.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> In Johnson Controls siamo impegnati a proteggere i nostri diritti di proprietà intellettuale e a rispettare i diritti validi di proprietà intellettuale delle terze parti.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> In Johnson Controls siamo impegnati a proteggere i nostri diritti di proprietà intellettuale e a rispettare i diritti validi di proprietà intellettuale delle terze parti.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Gunther sta lavorando a un nuovo team di sviluppo del prodotto, e hanno creato un prodotto innovativo che promette un successo straordinario. Gunther ha pensato a un’astuta denominazione commerciale per il nuovo prodotto. Qual è il passaggio che Johnson Controls ritiene indispensabile prima di impiegare tale denominazione commerciale?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Innescare una ricerca del marchio di fabbrica prima di adottare la denominazione]]></option>
+                <option><![CDATA[Registrare il disegno del logo con gli uffici del marchio]]></option>
+                <option><![CDATA[Non sono richiesti passaggi particolari prima di impiegare la denominazione commerciale sul mercato. La ricerca del marchio è richiesta unicamente prima di registrare il marchio]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Gunther dovrebbe avviare una ricerca del marchio prima di adottare qualsiasi nuova denominazione o disegno grafico per il prodotto. Questo è obbligatorio.]]></text>
+					<text><![CDATA[La registrazione di un nuovo marchio è raccomandabile ma non necessaria.]]></text>
+					<text><![CDATA[In molti paesi, il diritti sul marchio possono essere acquisiti mediante l’impiego del marchio stesso o del logo, anche in assenza di una registrazione formale, sebbene quest’ultima rappresenti il modo più sicuro. ]]></text>
+					<text><![CDATA[Se un marchio commerciale non viene utilizzato correttamente, se ad esempio è usato dal pubblico come termine generico, il diritto di proteggere il marchio può decadere, anche se è stato registrato.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Gunther dovrebbe avviare una ricerca del marchio prima di adottare qualsiasi nuova denominazione o disegno grafico per il prodotto. Questo è obbligatorio.]]></text>
+					<text><![CDATA[La registrazione di un nuovo marchio è raccomandabile ma non necessaria.]]></text>
+					<text><![CDATA[In molti paesi, il diritti sul marchio possono essere acquisiti mediante l’impiego del marchio stesso o del logo, anche in assenza di una registrazione formale, sebbene quest’ultima rappresenti il modo più sicuro. ]]></text>
+					<text><![CDATA[Se un marchio commerciale non viene utilizzato correttamente, se ad esempio è usato dal pubblico come termine generico, il diritto di proteggere il marchio può decadere, anche se è stato registrato.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Vuoi che un fornitore verifichi la fattibilità di un nuovo progetto sviluppato dagli ingegneri di Johnson Controls. Che cosa puoi fare per proteggere la proprietà intellettuale di Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="0,1,0,1">
+                <option><![CDATA[Riferire la questione al team per il Programma di conformità delle terze parti]]></option>
+                <option><![CDATA[Chiedere a un fornitore di firmare un accordo di non divulgazione]]></option>
+                <option><![CDATA[Registrare una domanda di brevetto dopo aver condiviso le informazioni con il fornitore]]></option>
+                <option><![CDATA[Contattare il legale incaricato della proprietà intellettuale per ricevere consigli ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> In questa situazione, puoi registrare una domanda di brevetto, a condizione che il progetto sia nuovo e creativo, ma devi farlo prima di condividere le informazioni con il fornitore. Fino alla registrazione del brevetto, devi chiedere al fornitore di firmare un accordo di non divulgazione.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> In questa situazione, puoi registrare una domanda di brevetto, a condizione che il progetto sia nuovo e creativo, ma devi farlo prima di condividere le informazioni con il fornitore. Fino alla registrazione del brevetto, devi chiedere al fornitore di firmare un accordo di non divulgazione.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> In questa situazione, puoi registrare una domanda di brevetto, a condizione che il progetto sia nuovo e creativo, ma devi farlo prima di condividere le informazioni con il fornitore. Fino alla registrazione del brevetto, devi chiedere al fornitore di firmare un accordo di non divulgazione.]]></text>
+				</incorrect>
+            </feedback>
+        </question>			
+    </module>
+	<module id="8" pick="3">
+       <question type="mrq">
+            <questionText>
+				<text><![CDATA[Quali dei seguenti esempi di informazioni sono considerati <i><b>informazioni riservate</b></i>?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="0,0,1,1,1">
+                <option><![CDATA[Un articolo di giornale relativo a Johnson Controls]]></option>
+                <option><![CDATA[Il nostro Corporate Social Responsibility Report ]]></option>
+                <option><![CDATA[Un elenco di nomi, indirizzi e dati personali dei dipendenti]]></option>
+                <option><![CDATA[Un rapporto finanziario interno]]></option>
+                <option><![CDATA[Un documento contenente informazioni tecniche su un nuovo prodotto in fase di sviluppo]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Le informazioni riservate possono essere su carta, stampate o in formato elettronico software. Qualsiasi elemento che non sia pubblicato o altrimenti di dominio pubblico viene considerato un’informazione riservata.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Le informazioni riservate possono essere su carta, stampate o in formato elettronico software. Qualsiasi elemento che non sia pubblicato o altrimenti di dominio pubblico viene considerato un’informazione riservata.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Le informazioni riservate possono essere su carta, stampate o in formato elettronico software. Qualsiasi elemento che non sia pubblicato o altrimenti di dominio pubblico viene considerato un’informazione riservata.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Quando sei tenuto a impiegare un accordo di non divulgazione (NDA)?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Un NDA deve essere utilizzato solo quando condividiamo informazioni personali sensibili con altri, internamente o esternamente]]></option>
+                <option><![CDATA[Un NDA deve sempre essere utilizzato quando le informazioni riservate vengono condivise internamente]]></option>
+                <option><![CDATA[Un NDA deve essere utilizzato quando le informazioni riservate vengono condivise con una terza parte esterna]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Un NDA deve essere utilizzato quando le informazioni riservate vengono condivise con entità o persone esterne a Johnson Controls. Un NDA è un metodo efficace per assicurarsi che le informazioni riservate condivise rimangano riservate.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Un NDA deve essere utilizzato quando le informazioni riservate vengono condivise con entità o persone esterne a Johnson Controls. Un NDA è un metodo efficace per assicurarsi che le informazioni riservate condivise rimangano riservate.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Susan sta stampando una copia di un documento contenente informazioni riservate sulla Società. La stampante ha esaurito l’inchiostro, ma Susan è già in ritardo per una riunione. Che cosa dovrebbe fare?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,0,0,1">
+                <option><![CDATA[Deve cambiare l’inchiostro e attendere il documento]]></option>
+                <option><![CDATA[Susan deve recarsi alla riunione e preoccuparsi più tardi della stampante]]></option>
+                <option><![CDATA[Deve chiedere all’addetto alla reception di raccogliere gli stampati quando escono dalla stampante]]></option>
+                <option><![CDATA[Susan dovrebbe chiedere a un collega autorizzato a vedere le informazioni di sostituire l’inchiostro e ritirare il documento stampato al posto suo]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Susan deve cambiare personalmente l’inchiostro e attendere la stampa del documento oppure chiedere a qualcuno autorizzato a vedere i documenti di ritirarlo al posto suo. Evitare di recarsi semplicemente alla riunione preoccupandosi del documento in un momento successivo. Susan ha la responsabilità di assicurarsi che la copia stampata delle informazioni riservate sia gestita adeguatamente.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Susan deve cambiare personalmente l’inchiostro e attendere la stampa del documento oppure chiedere a qualcuno autorizzato a vedere i documenti di ritirarlo al posto suo. Evitare di recarsi semplicemente alla riunione preoccupandosi del documento in un momento successivo. Susan ha la responsabilità di assicurarsi che la copia stampata delle informazioni riservate sia gestita adeguatamente.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Susan deve cambiare personalmente l’inchiostro e attendere la stampa del documento oppure chiedere a qualcuno autorizzato a vedere i documenti di ritirarlo al posto suo. Evitare di recarsi semplicemente alla riunione preoccupandosi del documento in un momento successivo. Susan ha la responsabilità di assicurarsi che la copia stampata delle informazioni riservate sia gestita adeguatamente.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Stai lavorando sul tuo computer a un rapporto contenente informazioni riservate sui dipendenti. Devi andare a prendere un caffè. Che cosa dovresti fare?]]></text>
+			</questionText>
+			<instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Tenere aperto il rapporto sul computer in modo da continuare immediatamente a lavorare su di esso quando torni]]></option>
+                <option><![CDATA[Bloccare il computer in modo che sia necessaria una password per aprirlo nuovamente]]></option>
+                <option><![CDATA[Chiedere a un collega di tenere d’occhio la tua scrivania mentre sei assente]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Devi sempre assicurarti che lo schermo del tuo computer sia bloccato quando non sei alla scrivania. Anche se sei assente dalla scrivania per un periodo di tempo molto breve, devi comunque assicurarti di bloccarlo, in modo che nessun altro possa accedere ai file, alla nostra rete o ai nostri rapporti contenenti informazioni riservate.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Devi sempre assicurarti che lo schermo del tuo computer sia bloccato quando non sei alla scrivania. Anche se sei assente dalla scrivania per un periodo di tempo molto breve, devi comunque assicurarti di bloccarlo, in modo che nessun altro possa accedere ai file, alla nostra rete o ai nostri rapporti contenenti informazioni riservate.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Come dipendente di Johnson Controls, quali responsabilità hai riguardo alle informazioni riservate?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Ho soltanto la responsabilità di proteggere le informazioni di dipendenti, clienti e altre terze parti]]></option>
+                <option><![CDATA[Ho la responsabilità di proteggere la riservatezza delle informazioni sui colleghi, ma non la riservatezza di qualsiasi altra informazione aziendale]]></option>
+                <option><![CDATA[Ho la responsabilità di proteggere la riservatezza delle informazioni di proprietà di Johnson Controls e delle informazioni che conserviamo su clienti, fornitori e altre terze parti]]></option>
+                <option><![CDATA[Ho soltanto la responsabilità di proteggere la riservatezza delle informazioni della Società, ma non delle persone]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> In quanto dipendente di Johnson Controls, devi proteggere la riservatezza delle informazioni di proprietà di Johnson Controls e delle informazioni che conserviamo su clienti, fornitori e altre terze parti. Devi assicurarti che non siano impropriamente rivelate alle persone all’interno e all’esterno di Johnson Controls.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> In quanto dipendente di Johnson Controls, devi proteggere la riservatezza delle informazioni di proprietà di Johnson Controls e delle informazioni che conserviamo su clienti, fornitori e altre terze parti. Devi assicurarti che non siano impropriamente rivelate alle persone all’interno e all’esterno di Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Sulla tua scrivania c’è una pila di documenti riservati che dovrai utilizzare nuovamente domani. Stai uscendo al termine della giornata, che cosa dovresti fare con i documenti?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[Portarli a casa nella valigetta del portatile]]></option>
+                <option><![CDATA[Chiuderli a chiave in un cassetto prima di lasciare l’ufficio]]></option>
+                <option><![CDATA[Mettere i documenti in una cartelletta e appoggiarli sulla mensola sopra la tua scrivania]]></option>
+                <option><![CDATA[Gettali nel cestino dei rifiuti]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 35px;">
+					<text><![CDATA[<b>Risposta esatta.</b> Le informazioni riservate devono essere conservate al sicuro quando non vengono usate. ]]></text>
+					<text><![CDATA[Devi assicurarti che nessuna informazione archiviata su carta, chiavette USB o su qualsiasi altro dispositivo di memorizzazione sia lasciata incustodita, prima, dopo o durante l’orario di lavoro. ]]></text>
+					<text><![CDATA[Per proteggere le informazioni riservate, devi:<ul><li>Limitare l’accesso alle informazioni riservate solo a chi deve accedervi e ha l’autorizzazione per vederle</li><li>Proteggere le informazioni riservate mediante password, archiviazione protetta e blocco del computer</li><li>Distruggere le informazioni riservate eliminandole in modo sicuro</li></ul>]]></text>
+				</correct>
+                <incorrect style="top: 35px;">
+					<text><![CDATA[<b>La risposta è errata.</b> Le informazioni riservate devono essere conservate al sicuro quando non vengono usate. ]]></text>
+					<text><![CDATA[Devi assicurarti che nessuna informazione archiviata su carta, chiavette USB o su qualsiasi altro dispositivo di memorizzazione sia lasciata incustodita, prima, dopo o durante l’orario di lavoro. ]]></text>
+					<text><![CDATA[Per proteggere le informazioni riservate, devi:<ul><li>Limitare l’accesso alle informazioni riservate solo a chi deve accedervi e ha l’autorizzazione per vederle</li><li>Proteggere le informazioni riservate mediante password, archiviazione protetta e blocco del computer</li><li>Distruggere le informazioni riservate eliminandole in modo sicuro</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>				
+    </module>
+	<module id="9" pick="3">
+       <question type="mcq">
+            <questionText>
+				<text><![CDATA[Ti trovi a una conferenza di settore e indossi un cartellino che ti identifica come un dipendente di Johnson Controls. Al bar, incontri Mark, che lavora per un concorrente. Scambiando convenevoli, Alice, una delle collaboratrici di Mark, si avvicina e inizia a parlare dell’imminente aumento dei prezzi. Puoi utilizzare le informazioni?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Sì]]></option>
+                <option><![CDATA[No]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Le informazioni sulla fissazione dei prezzi sono riservate e andrebbero protette. In questo caso Alice non lo fa e discute l’aumento dei prezzi al bar, un luogo pubblico, in presenza dei concorrenti. La mancata riservatezza da parte di Alice riguardo alle informazioni inerenti la fissazione dei prezzi del suo datore di lavoro, di cui lei parla pubblicamente, fa sì che le medesime informazioni diventino pubbliche. Pertanto, puoi servirtene. Dovresti svelare al tuo responsabile, all’Ufficio legale o all’Ufficio per la conformità la fonte di tali informazioni prima di servirtene.  ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Le informazioni sulla fissazione dei prezzi sono riservate e andrebbero protette. In questo caso Alice non lo fa e discute l’aumento dei prezzi al bar, un luogo pubblico, in presenza dei concorrenti. La mancata riservatezza da parte di Alice riguardo alle informazioni inerenti la fissazione dei prezzi del suo datore di lavoro, di cui lei parla pubblicamente, fa sì che le medesime informazioni diventino pubbliche. Pertanto, puoi servirtene. Dovresti svelare al tuo responsabile, all’Ufficio legale o all’Ufficio per la conformità la fonte di tali informazioni prima di servirtene.  ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Qual è la questione fondamentale per stabilire se puoi servirti o meno delle informazioni ottenute sulla concorrenza?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Le informazioni ci aiutano a posizionarci nei confronti dei nostri concorrenti?]]></option>
+                <option><![CDATA[Sono stati utilizzati trucchi, comportamenti sleali o inganni per raccogliere queste informazioni?]]></option>
+                <option><![CDATA[Le informazioni ci aiuteranno a evitare errori costosi?]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Le informazioni sulla concorrenza sono preziose, ma possono essere utilizzate unicamente se ottenute con metodi legali ed etici. Johnson Controls non può servirsi di informazioni ottenute in modo illecito, per mezzo di false dichiarazioni o ricevute in conseguenza della violazione di un accordo di riservatezza del concorrente.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Le informazioni sulla concorrenza sono preziose, ma possono essere utilizzate unicamente se ottenute con metodi legali ed etici. Johnson Controls non può servirsi di informazioni ottenute in modo illecito, per mezzo di false dichiarazioni o ricevute in conseguenza della violazione di un accordo di riservatezza del concorrente.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Un cliente offre di fornirti una proposta che gli è stata inviata da un concorrente di Johnson Controls. Che cosa dovresti fare?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Ringrazi ampiamente il cliente e ti servi delle informazioni per redigere la tua prossima proposta]]></option>
+                <option><![CDATA[Leggi la proposta nell’ufficio del tuo cliente, ma eviti di portarla con te]]></option>
+                <option><![CDATA[Rifiuti educatamente la proposta e segnali l'accaduto al tuo responsabile, all’Ufficio legale o all’Ufficio per la conformità]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> La proposta di un concorrente si considera un’informazione riservata sul concorrente. Non puoi accettare la proposta, e dovresti avvisare immediatamente l’Ufficio legale.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> La proposta di un concorrente si considera un’informazione riservata sul concorrente. Non puoi accettare la proposta, e dovresti avvisare immediatamente l’Ufficio legale.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Quali delle seguenti costituiscono fonti di informazione accettabili relative ai concorrenti di Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Registrazioni presso le agenzie governative]]></option>
+                <option><![CDATA[Rapporti degli analisti]]></option>
+                <option><![CDATA[Annunci di lavoro]]></option>
+                <option><![CDATA[Domande pubblicate di brevetti e marchi]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Sei libero di usufruire di qualsivoglia informazione inerente i nostri concorrenti che sia pubblicamente disponibile. Sono comprese informazioni da parte di:<ul> <li>Registrazioni presso le agenzie governative</li><li>Rapporti degli analisti</li><li>Annunci di lavoro</li><li>Domande pubblicate di brevetti e marchi</li></ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Sei libero di usufruire di qualsivoglia informazione inerente i nostri concorrenti che sia pubblicamente disponibile. Sono comprese informazioni da parte di:<ul> <li>Registrazioni presso le agenzie governative</li><li>Rapporti degli analisti</li><li>Annunci di lavoro</li><li>Domande pubblicate di brevetti e marchi</li></ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Sei libero di usufruire di qualsivoglia informazione inerente i nostri concorrenti che sia pubblicamente disponibile. Sono comprese informazioni da parte di:<ul> <li>Registrazioni presso le agenzie governative</li><li>Rapporti degli analisti</li><li>Annunci di lavoro</li><li>Domande pubblicate di brevetti e marchi</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Sandra, una nuova dipendente di Johnson Controls, precedentemente impiegata presso un’azienda concorrente, e che conosce il nuovo prodotto che stanno sviluppando. Stai lavorando a un prodotto simile. Come puoi ottenere informazioni da Sandra circa il prodotto della sua ex azienda?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[L’approccio più semplice consiste nel chiedere a Sandra di parlarti del prodotto del concorrente]]></option>
+                <option><![CDATA[Puoi descrivere il tuo prodotto e chiedere come questo può essere paragonato al prodotto del concorrente]]></option>
+                <option><![CDATA[Ottenere informazioni riservate inerenti il prodotto di un’azienda concorrente da parte di un ex dipendente della stessa è contrario alla politica di Johnson Controls ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> I progetti relativi a un nuovo prodotto costituiscono informazioni riservate. Non chiedere, fare allusioni o esercitare pressione nei confronti di un ex dipendente di un'azienda concorrente al fine di ricevere informazioni riservate da parte dello stesso.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> I progetti relativi a un nuovo prodotto costituiscono informazioni riservate. Non chiedere, fare allusioni o esercitare pressione nei confronti di un ex dipendente di un'azienda concorrente al fine di ricevere informazioni riservate da parte dello stesso.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Quali tra i seguenti metodi per acquisire informazioni sulla concorrenza non sono ritenuti accettabili?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="0,1,1,1">
+                <option><![CDATA[Richiedere copie di archivi pubblici delle agenzie governative]]></option>
+                <option><![CDATA[Contattare un concorrente fingendo di essere un potenziale cliente]]></option>
+                <option><![CDATA[Chiedere a un cliente di mostrarti la proposta di un concorrente in modo da poter battere il prezzo]]></option>
+                <option><![CDATA[Offrire un regalo al dipendente di un concorrente in cambio di informazioni]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Johnson Controls non accetterà né utilizzerà informazioni sulla concorrenza ottenute indebitamente, mediante metodi quali:<ul> <li>Fingersi un potenziale cliente</li><li>Chiedere a un cliente la proposta di un concorrente</li><li>Offrire un regalo al dipendente di un concorrente in cambio di informazioni</li></ul>]]></text>
+					<text><![CDATA[È opportuno richiedere copie di archivi pubblici delle agenzie governative.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Johnson Controls non accetterà né utilizzerà informazioni sulla concorrenza ottenute indebitamente, mediante metodi quali:<ul> <li>Fingersi un potenziale cliente</li><li>Chiedere a un cliente la proposta di un concorrente</li><li>Offrire un regalo al dipendente di un concorrente in cambio di informazioni</li></ul>]]></text>
+					<text><![CDATA[È opportuno richiedere copie di archivi pubblici delle agenzie governative.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Johnson Controls non accetterà né utilizzerà informazioni sulla concorrenza ottenute indebitamente, mediante metodi quali:<ul> <li>Fingersi un potenziale cliente</li><li>Chiedere a un cliente la proposta di un concorrente</li><li>Offrire un regalo al dipendente di un concorrente in cambio di informazioni</li></ul>]]></text>
+					<text><![CDATA[È opportuno richiedere copie di archivi pubblici delle agenzie governative.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Stai visitando un fornitore, Juan, che fornisce materiale anche alla concorrenza di Johnson Controls. Juan ti fornisce la brochure del nuovo prodotto che la concorrenza ha pubblicato recentemente. Puoi servirti delle informazioni riportate nella brochure?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona la scelta corretta, quindi fai clic su INOLTRA.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Sì, la brochure del prodotto è pubblicamente disponibile pertanto possiamo servircene]]></option>
+                <option><![CDATA[No, non possiamo mai servirci di informazioni della concorrenza che non abbiamo raccolto noi personalmente]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Non dovremmo mai raccogliere informazioni sulla concorrenza per mezzo di inganni, stratagemmi o altri metodi contrari all’etica. Possiamo accettare informazioni sulla concorrenza a condizione che siano pubblicamente disponibili ed estrapolate in modo etico.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Non dovremmo mai raccogliere informazioni sulla concorrenza per mezzo di inganni, stratagemmi o altri metodi contrari all’etica. Possiamo accettare informazioni sulla concorrenza a condizione che siano pubblicamente disponibili ed estrapolate in modo etico.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Harry è un nuovo dipendente che ha precedentemente lavorato per un concorrente. Ti racconta che il suo ex datore di lavoro sta progettando di ridurre i prezzi del 2% il prossimo anno. Che cosa dovresti fare?]]></text>
+			</questionText>
+            <instruction><![CDATA[Seleziona <strong><i>tutte</i></strong> le ipotesi corrette, quindi fai clic su INOLTRA.]]></instruction>
+            <extraInstruction><![CDATA[Vi possono essere più risposte corrette.]]></extraInstruction>
+            <options answer="0,1,1,0">
+                <option><![CDATA[Raccomandi una riduzione del 2% dei nostri prezzi]]></option>
+                <option><![CDATA[Ricordi a Harry che non deve divulgare le informazioni riservate del suo precedente datore di lavoro]]></option>
+                <option><![CDATA[Informi il tuo responsabile, l’Ufficio legale e l’Ufficio per la conformità dell’accaduto]]></option>
+                <option><![CDATA[Verifichi se Harry ha violato qualche legge condividendo le informazioni]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Risposta esatta.</b> Harry ha divulgato informazioni riservate appartenenti al suo precedente datore di lavoro. Non puoi servirti delle informazioni. Dovresti piuttosto informare il tuo responsabile, l’Ufficio legale o l’Ufficio per la conformità.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Parzialmente corretto.</b> Harry ha divulgato informazioni riservate appartenenti al suo precedente datore di lavoro. Non puoi servirti delle informazioni. Dovresti piuttosto informare il tuo responsabile, l’Ufficio legale o l’Ufficio per la conformità.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>La risposta è errata.</b> Harry ha divulgato informazioni riservate appartenenti al suo precedente datore di lavoro. Non puoi servirti delle informazioni. Dovresti piuttosto informare il tuo responsabile, l’Ufficio legale o l’Ufficio per la conformità.]]></text>
+				</incorrect>
+            </feedback>
+        </question>				
+    </module>
+</assessment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/knowledgeCheck/knowledge_check_intro" id="0"><![CDATA[Dokončili jste kurz a nyní si ověřte znalosti zodpovězením následujících otázek. Pokud zkoušku úspěšně složíte, můžete si vytisknout certifikát o absolvování. Kliknutím na Další spustíte kontrolu znalostí.]]></text>
+	</transcript>
+	<contentBg style="padding: 0;top: 70px;width: 430px;right: 20px;"></contentBg>
+	<pageTitle style="padding:15px 20px 10px 25px;width: 360px;margin-bottom:0px;"></pageTitle>
+	<contentText>
+		<text><![CDATA[Zkontrolujte si své znalostí zodpovězením následujících otázek.]]></text>
+		<text><![CDATA[Otázky:]]></text>
+		<text><![CDATA[Úspěšný výsledek:]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="17px" left="0px" bgColor="transparent" color="#0080B6" padding="0px" position="relative"><![CDATA[<i>Začněte kliknutím na tlačítko Další <span class="nexticon" >[<img src="content/images/ltr/preAssessment/Next_icon.png" />]</span>.</i>]]></text>
+	</contentText>
+    <contentBackground>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentIntro.jpg" minwidth="800" minheight="600"><![CDATA[Zaměstnanci společnosti Johnson Controls v práci]]></img>
+	</contentBackground>
+	
+</contents>

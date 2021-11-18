@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s09">
+	<transcript>
+		<text path="audio/module4/m04s09" id="0"><![CDATA[טלפונים ניידים ומחשים ניידים מציעים דרך נפלאה לעבודה בדרכים, אך הם יכולים גם להפוך אותנו לפגיעים. שמור על ערנות והגן על עצמך ועל כל מי שעובד איתך.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[כאשר אתה משתמש בטלפונים ניידים, מחשבים ניידים או מכשירים ניידים אחרים, אתה נושא איתך את מקום העבודה שלך. עבריינים מחפשים הזדמנות בכל פעם שהם יכולים, לכן חשוב לעמוד על המשמר ולא לחשוף את עצמנו לסיכונים מיותרים.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/rtl/module4/m04s09/contentBackground.jpg" minwidth="769"><![CDATA[עובד משתמש בטלפון נייד בנמל תעופה]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[לחץ על כל כותרת.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:160px;">
+		<revealCallOut width="230px" height="190px" top="15px" right="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/rtl/module4/m04s09/btn1.png" minwidth="769"><![CDATA[שני עובדים מנהלים שיחה פרטית]]></img>
+			<buttonText style="height: 56px;"><![CDATA[שמור על הפרטיות של שיחות פרטיות]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: -20px;width: 958px;">
+				<text><![CDATA[אל תדון במידע פרטי או סוגי בטלפון או פנים אל פנים, כאשר אחרים עלולים לשמוע.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" right="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/rtl/module4/m04s09/btn2.png" minwidth="769"><![CDATA[עיר עם נקודות חמות רבות של Wi-Fi]]></img>
+			<buttonText style="height: 56px;"><![CDATA[הימנע משימוש ברשת Wi-Fi ציבורית]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 75px;top: -20px;width: 958px;">
+				<text><![CDATA[מידע שאתה שולח ברשת ציבורית לא מאובטחת ניתן ליירוט בקלות רבה יותר. במקום זאת, בחר נקודות Wi-Fi מוכרות שמוצעות בדרך כלל על-ידי עסקים. אם עליך להשתמש ברשת Wi-Fi ציבורית, הקפד להשתמש ב-VPN כדי לגשת לרשתות של Johnson Controls.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" right="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/rtl/module4/m04s09/btn3.png" minwidth="769"><![CDATA[עובד שעובד על מחשב נייד בשדה תעופה]]></img>
+			<buttonText style="height: 56px;"><![CDATA[בדוק את סביבתך]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: -20px;width: 958px;">
+				<text><![CDATA[שים לב לאנשים שנמצאים סביבך, שעשויים לראות את המסך שלך. שקול להשתמש במסך פרטיות מעל הצג של המכשיר שלך.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" right="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/rtl/module4/m04s09/btn4.png" minwidth="769"><![CDATA[עובד משתמש בכרטיס כניסה מגנטי]]></img>
+			<buttonText style="height: 56px;"><![CDATA[שמור את כרטיס הכניסה המגנטי צמוד אליך]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: -20px;width: 958px;">
+				<text><![CDATA[ודא שאתה יודע היכן נמצא כרטיס הכניסה המגנטי כל הזמן. זכור להכניס את כרטיס הכניסה המגנטי לבגדים שלך כאשר <br />אתה הולך וחוזר למקום העבודה שלך.]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

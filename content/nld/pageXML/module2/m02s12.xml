@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m02s12">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[Kijk of u weet wat al dan niet aanvaardbaar is op het vlak van amusement. Duid 'Aanvaardbaar' of 'Onaanvaardbaar' aan voor deze opties en klik vervolgens op 'Indienen'.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[Kelner die de rekening brengt]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;right: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Duid aan of deze handelingen 'Aanvaardbaar' of 'Onaanvaardbaar' zijn.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Duid voor iedere optie 'Aanvaardbaar' of 'Onaanvaardbaar' aan en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img01.png"><![CDATA[4 tickets voor een sportevenement]]></img>
+			<text style="width: 356px;"><![CDATA[Een leverancier biedt u vier tickets aan om samen met hem een belangrijk sportevenement bij te wonen. Ze zijn elk ongeveer 100 dollar waard. Voordat u ermee instemt, meldt u zijn aanbod.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img02.png"><![CDATA[Werknemer die een aanbesteding doorneemt]]></img>
+			<text style="width: 356px;"><![CDATA[U komt erachter dat deze leverancier een offerte voor een lopende aanbesteding heeft ingediend. Aangezien u er niet rechtstreeks bij betrokken bent, besluit u de tickets te aanvaarden.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img04.png"><![CDATA[Werknemer en leverancier in gesprek]]></img>	
+			<text style="width: 356px;"><![CDATA[Een andere verkoper die momenteel geen offerte heeft ingediend biedt u andere tickets aan voor een kleiner evenement, met elk een waarde van 20 dollar. U weigert deze om naar het ander evenement te kunnen gaan.]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[Acceptabel]]></text>
+		<text styleWidth="width:110px;"><![CDATA[Onacceptabel]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Dat klopt.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[<ul> <li>Aangezien de waarde van de andere tickets meer dan 200 dollar bedraagt, moeten ze worden gemeld.</li> <li>U mag nooit geschenken of entertainment van of aan klanten of leveranciers aanvaarden of schenken op een moment dat er over contracten of aanbestedingen wordt onderhandeld.</li><li>De waarde van deze tickets is gepaster, maar zelfs deze vorm van amusement zou ongepast zijn als het doel ervan is om u op ongepaste wijze te beïnvloeden.</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Dat klopt niet.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[<ul> <li>Aangezien de waarde van de andere tickets meer dan 200 dollar bedraagt, moeten ze worden gemeld.</li> <li>U mag nooit geschenken of entertainment van of aan klanten of leveranciers aanvaarden of schenken op een moment dat er over contracten of aanbestedingen wordt onderhandeld.</li><li>De waarde van deze tickets is gepaster, maar zelfs deze vorm van amusement zou ongepast zijn als het doel ervan is om u op ongepaste wijze te beïnvloeden.</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

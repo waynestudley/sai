@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[誰かが個人データを意図しない人物に送信してしまった場合、どうするべきでしょうか？]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:14px; font-weight: bold;line-height:21px;"><![CDATA[この場合、どうすべきでしょうか？ ]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;line-height:21px;"><![CDATA[新しい請求プロセスについて契約業者に通知する作業があります。 ]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;line-height:21px;"><![CDATA[別の部署の従業員に電子メールアドレスのリストを送ってもらうように頼んだところ、彼が送ってきたスプレッドシートには、誕生日や、母親の名前、社会保障番号など、アカウントの安全性を保つために使用される個人情報も含まれていました ]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[皆さんならどうするでしょうか？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[ビジネスマン]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:26px;"></pageTitle>	
+	<instructionText style="line-height:21px">
+		<text><![CDATA[選択肢を1つ選んで提出してください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px;font-size:14px;line-height:28px">
+		<option><![CDATA[電子メールを削除して、privacy@jci.comにメールを送り、データプライバシーチームに報告します]]></option>
+		<option><![CDATA[電子メールで送信してはいけない例として、職場の同僚に転送します]]></option>
+		<option><![CDATA[スプレッドシートから必要な情報のみ入手し、残りは安全に処分します]]></option>
+		<option><![CDATA[すべての契約業者にメールを送信し、個人データが漏えいしていることを伝えます]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:135px;" fcStyle="top:-161px">
+			<text style="font-size:17px;"><![CDATA[正解です。]]></text>
+			<text><![CDATA[データプライバシー法と、Johnson Controlsのプライバシー規定は、顧客やビジネスパートナーと同じく、従業員の個人情報にも適用されます。 自分の責任を理解し、Johnson Controlsプライバシー規定と、関連するすべての保護およびプライバシー法に従うようにしてください。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:135px;" fcStyle="top:-161px">
+			<text style="font-size:17px;"><![CDATA[不適切です。]]></text>
+			<text><![CDATA[データプライバシー法と、Johnson Controlsのプライバシー規定は、顧客やビジネスパートナーと同じく、従業員の個人情報にも適用されます。 自分の責任を理解し、Johnson Controlsプライバシー規定と、関連するすべての保護およびプライバシー法に従うようにしてください。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

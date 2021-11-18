@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[Gefeliciteerd, u bent geslaagd voor de definitieve kennistest.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[Helaas bent u niet geslaagd voor de definitieve kennistest. ]]></text>		
+	</transcript>
+	<contentBg style="width: 420px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Gefeliciteerd!]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Werknemers van Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Werknemers van Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[Klik op 'Startpagina' om terug te keren naar het hoofdmenu. Van hieruit kunt u uw certificaat van voltooiing voor de cursus raadplegen.]]></text>
+		<text><![CDATA[Klik op 'Startpagina' om terug te keren naar het hoofdmenu.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[Met een score van <b>##%</b> bent u geslaagd voor de kennistest voor de: <span class="courseTitleAss" >De ethische code toepassen: cursus Integer zakendoen</span>.]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[Met een score van <b>##%</b> bent u niet geslaagd voor de cursus.]]></text>
+		<text><![CDATA[U moet <span>#%</span> of meer behalen om te slagen. Neem het programma opnieuw door en leg nadien deze kennistest opnieuw af.]]></text>
+	</feedbackFail>
+</contents>

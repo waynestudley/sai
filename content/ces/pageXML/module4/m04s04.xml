@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s04">
+	<transcript>
+		<text path="audio/module4/m04s04" id="0"><![CDATA[Všichni chceme, aby naše osobní údaje byly v bezpečí.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Co je v sázce, nezajistíme-li ochranu osobních údajů?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s04/contentBackground.jpg" minwidth="769"><![CDATA[Pozadí kanceláře]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;"></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Kliknutím na jednotlivé osoby přehrajete jejich pohledy na věc.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 168px;">
+		<revealCallOut width="180px" height="184px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s04/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 50px;font-size:12px;"><![CDATA[Zaměstnanec společnosti Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 80px;top: -15px;">
+				<text><![CDATA[Zákazníci nám důvěřují, že jejich osobní údaje zabezpečíme. Narušení bezpečnosti by mohlo poškodit naši pověst a podkopat důvěru zákazníků.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="214px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s04/btn2.png" minwidth="769"><![CDATA[Zákazník]]></img>
+			<buttonText style="height: 50px;font-size:12px;"><![CDATA[Zákazník]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 120px;top: -15px;">
+				<text><![CDATA[V mém životě již není místo na žádné další marketingové hovory či nevyžádané e-maily. Pokud nějaké společnosti poskytnu své kontaktní údaje, očekávám, že je udrží v bezpečí, nenechá je padnout do nepovolaných rukou ani je nepoužije žádným jiným způsobem, než se kterým jsem souhlasil.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="409px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn3.png" minwidth="769"><![CDATA[Vedoucí pracovník společnosti Johnson Controls]]></img>
+			<buttonText style="height: 50px;font-size:12px;"><![CDATA[Vedoucí pracovník společnosti Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: -15px;">
+				<text><![CDATA[Aktivně se zapojuji do politických organizací, ale nechci, aby mé politické přesvědčení ovlivňovalo práci týmu nebo vztahy se zákazníky. Je nutné zachovat důvěrnost těchto informací.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="603px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn4.png" minwidth="769"><![CDATA[Zaměstnanec společnosti Johnson Controls]]></img>
+			<buttonText style="height: 50px;font-size:12px;"><![CDATA[Zaměstnanec společnosti Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -15px;">
+				<text><![CDATA[Informace o svých zdravotních potížích považuji za důvěrné a nechci, aby byly přístupné jiným zaměstnancům, kteří je nepotřebují znát.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="798px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn5.png" minwidth="769"><![CDATA[Dodavatel]]></img>
+			<buttonText style="height: 50px;font-size:12px;"><![CDATA[Dodavatel]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 100px;top: -15px;">
+				<text><![CDATA[Před několika lety někdo ukradl informace o mém bankovním účtu. Způsobilo mi to značné nepříjemnosti a náklady. Chápu, že firmy, s nimiž obchodně spolupracuji, potřebují znát určité finanční informace o mém podnikání, ale očekávám, že zajistí jejich bezpečí a důvěrnost.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

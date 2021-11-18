@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0"><![CDATA[機密保持契約のような法的契約は、共有する情報を他者が保護することを保証できる1つの方法です。 それぞれの開示ボタンをクリックして詳細を確認してください。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[機密保持契約またはNDAは、サードパーティと共有される機密情報が機密のまま保たれるようにする効果的な方法です。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg" minwidth="769"><![CDATA[文書]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[それぞれの開示ボタンをクリックして詳細を確認してください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[開示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style=""><![CDATA[機密保持契約書]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[いつ使用するか]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[あなたが社外で機密情報を誰かと共有している場合、NDAを使用します。 NDAが署名される前に、機密情報を決して開示しないでください。 Johnson Controls法務部は、異なる状況にテンプレートを提供することができます。]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style=""><![CDATA[機密保持契約書を見直している人]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[他のNDAを用いる]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[時おり、社外から独自のNDAを使用するように希望がある場合があります。 受け入れないでください。 そのようなサードパーティのNDAは、当社ではなくサードパーティの利益を保護するために書かれているため、当社は法務部の確認と承認を受けた後のみそれらを受け入れることができます。]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style=""><![CDATA[NDA用途を従業員に説明している主任]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[NDAに同意するとき]]></buttonText>
+			<popText style="height:188px;">
+				<text style="font-size:14px;"><![CDATA[時おり、当社は別の企業の情報を保護するために、NDAに署名することがあります。 その場合、当社が責任を順守するために必要なステップをとることは非常に重要であり、そうしないと、当社は契約違反として告訴される可能性があります。 情報を取り扱う人物は全員、情報を保護する義務があることを認識していると確認します。]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0"><![CDATA[Mark si vo svojej doručenej pošte všimol nový e-mail označený ako naliehavý. Kliknite na hlavičku e-mailu, aby ste videli, čo sa v ňom píše.]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;line-height:25px;"></pageTitle>
+	<contentBg style="width: 591px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Prišiel nový e-mail, je označený ako naliehavý.]]></text>	
+		
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[Nový e-mail]]></img>
+		<img path="content/images/ltr/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[Hlavička e-mailu]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;left: 2px;top: 205px;font-size: 15px;line-height:19px;">		
+		<img path="" minwidth="769"><![CDATA[E-mailová správa]]></img>	
+		<text style="margin-bottom:3px"><![CDATA[Od: arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px"><![CDATA[Predmet: Vaša pomoc je potrebná]]></text> 	
+		<text style=""><![CDATA[Dobrý deň,]]></text> 				
+		<text style=""><![CDATA[som zákazník spoločnosti Johnson Controls so sídlom v Marseilles vo Francúzsku a mám problémy s integráciou jedného z vašich výrobkov na predchádzanie požiarom do existujúceho systému.]]></text> 				
+		<text style=""><![CDATA[Zavolal som váš tím podpory a tí mi poradili, aby som sa na vás obrátil a požiadal vás o technické výkresy a príručku pre integráciu, ktoré by nám mali pomôcť lepšie vyriešiť problém.]]></text> 				
+		<text style=""><![CDATA[Pošlite nám ich, prosím, čo možno najskôr e-mailom.]]></text> 				
+		<text style="margin-bottom:0px"><![CDATA[Ďakujem a ostávam s pozdravom]]></text> 		
+		<text style="margin-bottom:0px"><![CDATA[A. Richter]]></text> 		
+	</revelCollOut>
+	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Kliknite na hlavičku e-mailu.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path=""><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;left: 97px; width: 475px;"><![CDATA[<span style="padding-right: 32px;">arichter_8888@gmail.com</span><span>Vaša pomoc je potrebná</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s09">
+	<transcript>
+		<text path="audio/module4/m04s09" id="0"><![CDATA[Mobilní telefony a notebooky jsou skvělé pro práci na cestách, ale mohou také zvyšovat naši zranitelnost. Buďte opatrní a chraňte sebe i všechny ostatní, s nimiž pracujete.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Když používáte mobilní telefony, notebooky a jiná přenosná zařízení, nosíte s sebou své pracoviště. Zločinci hledají příležitost všude, kde je to možné, a proto je důležité zachovat opatrnost a nevystavovat se zbytečnému riziku.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s09/contentBackground.jpg" minwidth="769"><![CDATA[Zaměstnanec používající mobilní telefon na letišti]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Klikněte na jednotlivé nadpisy.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="190px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn1.png" minwidth="769"><![CDATA[Dva zaměstnanci při soukromém rozhovoru]]></img>
+			<buttonText style="height: 56px;font-size:14px;"><![CDATA[Zajistěte, aby soukromé rozhovory zůstaly soukromé]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: 0px;width: 958px;">
+				<text><![CDATA[O soukromých a důvěrných informacích nehovořte po telefonu ani osobně na místech, kde by je mohli zaslechnout jiní lidé.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn2.png" minwidth="769"><![CDATA[Město s několika hotspoty Wi-Fi]]></img>
+			<buttonText style="height: 56px;font-size:14px;"><![CDATA[Nepoužívejte veřejné sítě Wi-Fi.]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 95px;top: 0px;width: 958px;">
+				<text><![CDATA[Informace, které pošlete přes nezabezpečenou veřejnou síť, lze snáze zachytit. Namísto toho používejte známé Wi-Fi připojení, které obvykle nabízejí firmy. Pokud potřebujete použít veřejnou síť Wi-Fi, nezapomeňte pro přístup k sítím společnosti Johnson Controls použít síť VPN.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn3.png" minwidth="769"><![CDATA[Zaměstnanec pracující na notebooku na letišti]]></img>
+			<buttonText style="height: 56px;font-size:14px;"><![CDATA[Zkontrolujte okolí.]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: 0px;width: 958px;">
+				<text><![CDATA[Všímejte si okolo sebe lidí, kteří mohou vidět na vaši obrazovku. Zvažte, zda displej zařízení nezakrýt ochranným filtrem omezujícím úhel viditelnosti.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn4.png" minwidth="769"><![CDATA[Zaměstnanec používající bezpečnostní kartu]]></img>
+			<buttonText style="height: 56px;font-size:14px;"><![CDATA[Bezpečnostní kartu mějte vždy u sebe.]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 95px;top: 0px;width: 958px;">
+				<text><![CDATA[Je nutné, abyste v každém okamžiku věděli, kde se nachází vaše bezpečnostní karta. Při příchodu a odchodu z pracoviště nezapomeňte uložit kartu do oblečení.]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s06">
+	<transcript>
+		<text path="audio/module6/m06s06" id="0"><![CDATA[市場における立場の乱用を避けるために他にできることは何でしょうか？ それぞれの開示ボタンをクリックして詳細を確認してください。]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[市場において支配的立場であるとき、その立場を乱用しているとみなされるような行動や戦略を避ける必要があります。]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s06/contentBackground.jpg" minwidth="769"><![CDATA[オフィスのバックラウンドで2人が戦略を練る]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[それぞれの開示ボタンをクリックして詳細を確認してください。 回答すべてを読むにはスクロールの必要がある場合があります。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[開示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s06/img1.png"><![CDATA[たくさんの製品]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[抱き合わせ]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[抱き合わせは会社が製品を抱き合わせ販売し、別々に購入できないようにする場合に発生します。]]></text>						
+				<text><![CDATA[最終的な結果として、消費者が本当に欲しい製品を購入するために、欲しくない製品も買うように強制されます。]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s06/img2.png"><![CDATA[購入者と販売者が製品価格を調査する]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[独占取引]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[通常一定期間、購入者がほとんどまたはすべての製品やサービスを、1箇所の販売者から購入するように効果的に強制される場合に発生します。]]></text>					
+				<text><![CDATA[ヨーロッパ委員会は、市場から他の競合他社を排除するために、忠誠心を強化するための見返りを顧客に支払ったとして、インテルに€10億6000万の罰金を課しました」。 リベートは、支配的な事業からの要求されるすべて、またはほとんどすべてを購入することを条件にしています。]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img3.png"><![CDATA[ショッピングカートの50%の割引の説明]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[法外な値付け]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[企業が人工的に安い価格で消費者に販売し、故意に損失を招くときに法外な値付けが発生します。]]></text>			
+				<text><![CDATA[一般的に、そのような低価格を維持できない競合他社を排除し、その結果市場からの撤退を選択させるために企業は法外な値付けを行います。]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img4.png"><![CDATA[価格向上を示す図]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[取引の拒否]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[1つの企業が別の企業への販売を拒否したり、非常に高価格でのみ販売するときに、取引の拒否が発生します。]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img5.png"><![CDATA[握手取引は卸売業者が特定の顧客に販売することを防ぐためのものです]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[ブランド内競争を防ぐ]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[特定の領域や特定の顧客に販売することを防ぐため、企業が卸業者と合意を結ぶときに、ブランド内競争の妨害が発生します。]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[Умеете ли вы распознавать рискованные ситуации? Прочитайте представленный сценарий, выберите «Согласен» или «Не согласен» для каждого вопроса, а затем нажмите «Отправить».]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[Коридор в офисе]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Консультант, с которым вы работаете на Ближнем Востоке, сообщает вам, что в связи с высокой суммой таможенной пошлины на импорт товара он нашел «дешевое решение» и обеспечил ввоз товара. С какими из приведенных ниже утверждений вы согласны?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Выберите «Согласен» или «Не согласен» для каждого варианта, а затем нажмите «Отправить». ]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[Порт]]></img>
+			<text style="width: 450px;"><![CDATA[«Дешевое решение» могло подразумевать предоставление кому-либо взятки. ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[Порт]]></img>
+			<text style="width: 450px;"><![CDATA[Вы должны сообщить о возникших у вас подозрениях руководителю или в юридический отдел.   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[Порт]]></img>	
+			<text style="width: 450px;"><![CDATA[Вы должны дождаться развития событий и после этого обсудить ситуацию с руководителем.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[Порт]]></img>	
+			<text style="width:450px;"><![CDATA[Если консультант дал кому-либо взятку от имени нашей компании, ответственность возлагается на него, а не на компанию.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[Порт]]></img>	
+			<text style="width:450px;"><![CDATA[Вы должны поблагодарить консультанта за то, что он сэкономил компании деньги, и предоставлять ему больше заказов.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Согласен]]></text>
+		<text><![CDATA[Не согласен]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style="font-size:14px;"><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 40px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Верно.]]></text>			
+			<text style="font-size: 13px;line-height:15px;"><![CDATA[«Дешевое решение» могло подразумевать предоставление взятки. Взяточничество может быть неявным. В этой ситуации вы должны немедленно сообщить о возникших у вас подозрениях руководителю и представителю юридического отдела или отдела нормативно-правового соответствия или обратиться на горячую линию компании по вопросам добросовестного поведения. ]]></text>			
+			<text style="font-size: 13px;line-height:15px;"><![CDATA[Если третье лицо дает кому-либо взятку от имени компании Johnson Controls, мы несем за это ответственность.]]></text>			
+		</correct>
+		<incorrect style="top: 40px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Неверно.]]></text>	
+			<text style="font-size: 13px;line-height:15px;"><![CDATA[«Дешевое решение» могло подразумевать предоставление взятки. Взяточничество может быть неявным. В этой ситуации вы должны немедленно сообщить о возникших у вас подозрениях руководителю и представителю юридического отдела или отдела нормативно-правового соответствия или обратиться на горячую линию компании по вопросам добросовестного поведения. ]]></text>			
+			<text style="font-size: 13px;line-height:15px;"><![CDATA[Если третье лицо дает кому-либо взятку от имени компании Johnson Controls, мы несем за это ответственность.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

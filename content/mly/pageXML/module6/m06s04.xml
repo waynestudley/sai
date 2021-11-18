@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[Bagaimanakah anda mengenal pasti persaingan yang tidak adil?]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 16px;font-size:14px;line-height:18px;"><![CDATA[Bagaimanakah anda mengenal pasti persaingan yang tidak adil? Sambungkan beberapa contoh persaingan yang tidak adil dengan jenis perjanjian yang sedang berlaku.]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;left:785px;top:0px;"><![CDATA[SERAH]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;right: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;line-height:25px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 18px;height:36px">
+		<text><![CDATA[Pilih item dari lajur yang pertama, kemudian seret anak panah ke jenis persaingan tidak adil yang sepadan dalam lajur kedua. Setelah anda selesai, klik serah.]]></text>
+		<text><![CDATA[Klik pada tanda soal untuk mengetahui lebih lanjut.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[SENARIO]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img01.png"><![CDATA[Dua orang pesaing makan tengah hari]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Dua orang pesaing makan tengah hari]]></dragIcon>
+				<text style="font-size:12px; line-height:12px;"><![CDATA[Dua orang pesaing berjumpa untuk makan tengah hari. Seorang bersetuju untuk menumpukan usaha jualan di utara negara sementara seorang lagi akan fokus di sebelah selatan.]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:553px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img02.png"><![CDATA[Tiga orang pesaing sedang bercakap]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Tiga orang pesaing sedang bercakap]]></dragIcon>
+				<text style="font-size:12px; line-height:12px;"><![CDATA[Tiga orang pesaing yang berkhidmat dengan pasaran kecil yang sama duduk merancang untuk tahun yang akan datang. Mereka menyemak tender yang akan datang dan bersetuju untuk mengambil giliran sebagai pembida yang paling rendah sementara yang lain meletakkan harga yang terlalu tinggi untuk dipertimbangkan.]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:553px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img03.png"><![CDATA[Eksekutif jualan kanan di persidangan dagangan]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Eksekutif jualan kanan di persidangan dagangan]]></dragIcon>
+				<text style="font-size:12px; line-height:12px;"><![CDATA[Di persidangan dagangan, beberapa orang eksekutif jualan berpangkat kanan membincangkan bagaimana pembekal terbesar dalam pasaran mereka telah menaikkan harga secara tidak adil. Mereka bersetuju yang mereka akan mengurangkan sebahagian besar pesanan mereka – atau membatalkan sepenuhnya apabila perlu – dan mencari pembekal lain sehingga harga turun kembali.]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:553px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img04.png"><![CDATA[Kumpulan tanda peratusan]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Kumpulan tanda peratusan]]></dragIcon>
+				<text style="font-size:12px; line-height:12px;"><![CDATA[Kumpulan pesaing dalam industri di mana harga bahan mentah meningkat mempunyai perjanjian tidak rasmi iaitu tidak membenarkan diskaun pelanggan lebih daripada 10%.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;left: 640px;">		
+			<heder><![CDATA[JENIS PERTANDINGAN TIDAK ADIL]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 643px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[Menguntukkan pasaran]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img05.png"><![CDATA[Carta pai]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 643px;top: 89px;height: 70px;">
+				<text><![CDATA[Penipuan bidaan]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img06.png"><![CDATA[Dua orang peniaga bekerjasama pada bidaan]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 643px;top: 170px;height: 70px;">
+				<text><![CDATA[Boikot kumpulan]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img07.png"><![CDATA[Kumpulan membuat keputusan untuk memboikot pelanggan bagi menghukum mereka]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 643px;top: 251px;height: 70px;">
+				<text><![CDATA[Penetapan harga]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img08.png"><![CDATA[Dua pesaing menetapkan harga]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="left: 712px;top: 169px;width: 236px;">
+				<text style=""><![CDATA[Membahagikan pelanggan atau kawasan – dikenali sebagai penetapan pasaran – berlaku apabila pesaing bersetuju untuk membahagikan pelanggan, produk atau kawasan geografi. Dengan melakukan ini, persaingan akan dikurangkan dalam bidang tertentu dan mengurangkan pilihan pelanggan.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="left: 712px;top: 169px;width: 236px;">
+				<text style=""><![CDATA[Penipuan bidaan berlaku apabila pesaing melaraskan bidaan mereka untuk mempengaruhi hasil proses bidaan.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 169px;width: 236px;">
+				<text style=""><![CDATA[Sebuah syarikat, bertindak sendiri, biasanya mempunyai hak untuk memilih dengan siapa yang ingin menjalankan perniagaan. Tetapi apabila dua atau lebih syarikat bersetuju untuk tidak menjalankan perniagaan dengan syarikat lain, boikot mereka boleh melanggar undang-undang persaingan.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 169px;width: 236px;">
+				<text style=""><![CDATA[Menetapkan harga melibatkan perjanjian di antara pesaing untuk menyelaraskan harga atau terma persaingan mereka, sebaliknya bersaing dengan bebas dan rela terhadap satu sama lain.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

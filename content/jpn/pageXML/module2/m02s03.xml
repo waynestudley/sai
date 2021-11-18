@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[贈答品と接待に関する当社の規定について、あなたはどの程度よく知っているでしょうか? 各オプションについて、正しいか間違いかを答え「送信」をクリックしてください。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[従業員]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[贈答品と接待に関するこれらの説明は、正しいですか間違いですか?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[各オプションについて、正しいか間違いかを答え「送信」をクリックしてください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[接待を受けながら、贈答品を受け取る人物]]></img>
+			<text style="width: 390px;"><![CDATA[Johnson Controlsの規定は、贈答品と接待に関連するあらゆる状況を取り扱っています。 曖昧な点はありません]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[思慮深い従業員]]></img>
+			<text style="width: 390px;"><![CDATA[接待や贈答品を受領する際には、常に自問してください。 「彼らは、見返りとして何かを期待しているだろうか?」 ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[思慮深い従業員]]></img>	
+			<text style="width: 390px;"><![CDATA[あなたが贈答品や接待を申し出ている相手が、見返りとしてあなたが何かを期待している、と考えている場合には、先に進めてはなりません]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[思慮深い従業員]]></img>	
+			<text style="width:390px;"><![CDATA[贈答品と接待を申し出もせず、受け取りもしないのが最善です。 危険が大きすぎます]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text styleWidth="font-size:10px"><![CDATA[正しい。]]></text>
+		<text styleWidth="font-size:10px"><![CDATA[間違っている。]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -1px;width: 220px;height: 350px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[正解です。]]></text>			
+			<text style="font-size: 15px;"><![CDATA[贈答品と接待の授受は、適切な状況下においては許容されますが、判断力が必要であり、Johnson Controlsの規定を理解している必要があります。]]></text>			
+			<text style="font-size: 15px;"><![CDATA[当社の規定では、あらゆる状況を予測することはできませんので、あなたは状況を注意深く考慮し、判断力を用いる必要がありますが、はっきりしない場合には先へ進める前に助言を求めてください。]]></text>			
+		</correct>
+		<incorrect style="top: -1px;width: 220px;height: 350px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[不正解です。]]></text>	
+			<text style="font-size: 15px;"><![CDATA[贈答品と接待の授受は、適切な状況下においては許容されますが、判断力が必要であり、Johnson Controlsの規定を理解している必要があります。]]></text>			
+			<text style="font-size: 15px;"><![CDATA[当社の規定では、あらゆる状況を予測することはできませんので、あなたは状況を注意深く考慮し、判断力を用いる必要がありますが、はっきりしない場合には先へ進める前に助言を求めてください。]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

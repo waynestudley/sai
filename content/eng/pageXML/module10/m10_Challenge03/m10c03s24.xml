@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText >
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg"  minwidth="769" ><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="" ></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;" >
+		<text><![CDATA[Select each heading to learn more.]]></text>
+		<text><![CDATA[Click on Next to reconsider your decision and try again.]]></text>
+	</instructionText>	
+	<accordionContent >
+		<accordion style="width: 619px;" iconparDefHt="44"  iconparHeight="127">			
+			<buttonText style="" ><![CDATA[Too much to drink]]></buttonText>
+			<popupArrow style=""/>
+			<popText >
+				<text><![CDATA[Several members of the group get very drunk – and one person falls down some stairs and breaks his arm. A new person has to be hired to cover, and he is a much slower worker, so the project gets delayed. ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44"  iconparHeight="127">
+			<buttonText  ><![CDATA[Customer is unhappy]]></buttonText>
+			<popupArrow style=""/>
+			<popText>
+				<text><![CDATA[After overhearing a few conversations, the customer realizes that the project delay is due to an event where Carlos treated some of the workers to drinks at a sports bar. She calls Carlos’ manager to complain. ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44"  iconparHeight="138">
+			<buttonText  ><![CDATA[Facebook posts]]></buttonText>
+			<popupArrow style=""/>
+			<popText>
+				<text><![CDATA[One of the subcontractors posts a picture of the accident on Facebook. He writes in his post saying “last time I’m drinking with the Johnson Controls crew...” ]]></text>					
+				<text><![CDATA[Carlos wonders if the injured subcontractor can sue the company.]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[Quanto sei bravo a riconoscere situazioni di rischio? Leggi questo scenario e stabilisci se rappresenta un caso di conflitto di interessi.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[Un ufficio]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 5px;"></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Sei in grado di riconoscere un conflitto di interessi?  Stabilisci se le seguenti situazioni presentano o meno un possibile conflitto e se dovrebbero essere dichiarate:]]></text>
+	</contentText>
+	<instructionText style="margin-top: 5px;">
+		<text><![CDATA[Seleziona Sì oppure No per ciascuna ipotesi, quindi fai clic su Inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+		<text><![CDATA[Fai clic sui punti interrogativi per saperne di più.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[Donna in grembiule come se lavorasse in un panificio]]></img>
+			<text style="width: 450px;"><![CDATA[Jennifer, una dipendente di Johnson Controls, programma di lavorare nel nuovo panificio di sua sorella nel fine settimana, questa settimana però si è data malata per aiutare a gestire il negozio in vista dell’inaugurazione.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[Uomo in giacca e cravatta]]></img>
+			<text style="width: 450px;"><![CDATA[Alex, un dipendente del settore acquisti a Johnson Controls, reputa che il suo amico Steve sarebbe perfetto per una posizione lavorativa che si è aperta in azienda. Parla a Steve del lavoro e gli suggerisce di compilare la candidatura online.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[Donna mediorientale in abiti da lavoro]]></img>	
+			<text style="width: 450px;"><![CDATA[Basma è un ingegnere per la qualità a Johnson Controls. Un fornitore che lei gestisce le offre un'opportunità come consulente. Egli dice che stanno cercando aiuto per creare il controllo di qualità in uscita per una nuova linea di prodotti che hanno realizzato per Johnson Controls. Il fornitore chiarisce che Basma può completare il lavoro la sera o nei fine settimana, al di fuori del suo normale orario di lavoro.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[Uomo in giacca e cravatta]]></img>	
+			<text style="width:450px;"><![CDATA[Carl era responsabile per la selezione di un fornitore IT per supportare Johnson Controls in un importante progetto. Precedentemente, nel corso dell’anno, egli ha fatto un grosso investimento nell'azienda IT del suo amico e la stessa ha ora inviato un’offerta per il lavoro.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Sì]]></text>
+		<text><![CDATA[No]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[Risposta corretta.]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[Risposta errata. ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[Fai clic sui punti interrogativi per saperne di più.]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[Non è un problema che Jennifer lavori al panificio nei fine settimana per aiutare la sorella. Tuttavia, ciò crea un conflitto se il suo impegno per la sorella influisce sulle sue responsabilità lavorative a Johnson Controls, come quando si è data malata assentandosi un giorno dal lavoro durante la settimana per prestare il suo aiuto al panificio.]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[Sebbene Alex lavori nel reparto acquisti, non si è servito della propria posizione per aiutare il suo amico a ottenere il lavoro. Il fatto che Alex raccomandi a Steve di compilare la candidatura online è accettabile, dato che così Steve affronterà la stessa procedura alla quale saranno sottoposti tutti gli altri candidati.]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[Basma supervisiona il lavoro di un fornitore e contemporaneamente sta considerando l’offerta di lavorare con lo stesso. Qualora fosse impiegata di entrambe le società, da quale parte si mostrerebbe leale? C’è la possibilità che lei viva un conflitto, e situazioni di questo tipo vanno evitate. Basma necessita, quantomeno, di dichiarare il possibile conflitto di interessi.]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[Carl avrà un vantaggio finanziario se la società nella quale ha investito si aggiudica la gara. La sua personale connessione alla decisione potrebbe influire sulla sua capacità di assumere una decisione imparziale, dando adito a un conflitto di interessi.]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

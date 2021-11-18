@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0"><![CDATA[Wie würden in diesem Fall reagieren? Wählen Sie eine Option aus und bestätigen Sie anschließend durch „Übermitteln“.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Angenommen, Sie senden dem Kunden wie gewünscht die technischen Zeichnungen und die Einbauanleitung – gilt dies als Export?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s05/contentBackground.jpg" minwidth="769"><![CDATA[Technische Zeichnungen]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und bestätigen Sie anschließend durch „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Nein. Nicht, wenn diese Person Kunde bei Johnson Controls ist.]]></option>	
+		<option><![CDATA[Ja. Das Versenden von technischen Zeichnungen und Einbauanleitungen, die Exportvorschriften unterliegen, an einen Kunden in Frankreich gilt als Export.]]></option>	
+		<option><![CDATA[Ja. Aber nur, wenn die Person in einem Land ansässig ist, für das Exportbeschränkungen gelten, z. B. Iran.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;padding-top:20px;"><![CDATA[Das ist richtig.]]></text>
+			<text><![CDATA[Das Versenden von technischen Informationen, die Exportvorschriften unterliegen, einschließlich Produktzeichnungen oder -anleitungen, an eine im Ausland ansässige Person gilt als Export und muss vorab genehmigt werden.]]></text>
+			<text><![CDATA[Angesichts dessen sollten Sie die angefragten Informationen nicht übermitteln, bis Sie mehr über die Identität und den Standort des Kunden wissen. Anhand dieser Daten können Sie dann feststellen, welche Genehmigungen für den Export erforderlich sind.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;padding-top:20px;"><![CDATA[Das stimmt leider nicht.]]></text>
+			<text><![CDATA[Das Versenden von technischen Informationen, die Exportvorschriften unterliegen, einschließlich Produktzeichnungen oder -anleitungen, an eine im Ausland ansässige Person gilt als Export und muss vorab genehmigt werden.]]></text>
+			<text><![CDATA[Angesichts dessen sollten Sie die angefragten Informationen nicht übermitteln, bis Sie mehr über die Identität und den Standort des Kunden wissen. Anhand dieser Daten können Sie dann feststellen, welche Genehmigungen für den Export erforderlich sind.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

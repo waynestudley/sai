@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[В конверте наличные на сумму 300 долл. США. Цзян отказался от подарка, а поставщик настаивал. Какие действия он должен предпринять?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[Конференц-зал]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Выберите один из вариантов и щелкните «ОК».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Взять наличные. Процесс отбора поставщиков уже завершен, и Цзян утратил полномочия повлиять на выбор поставщика.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Отказаться от наличных снова. Но, когда поставщик предложит ему подарочную карту на 100 долл. США в любимый ресторан Эдуардо, согласиться.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Снова отказаться от наличных снова, но принять приглашение поставщика для Цзяна на обед с командой.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОК]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Цзян взял наличные, полагая, что никто не узнает об этом.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[После повторного отказа Цзяна от наличных поставщик настойчиво предлагает принять хотя бы подарочную карту на 100 долл. США для похода в ресторан.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Цзян снова вежливо отказывается от наличных, но принимает приглашение поставщика на обед с командой.]]></text>
+		</correct>
+	</feedback>
+</contents>

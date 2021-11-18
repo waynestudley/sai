@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s06">
+	<transcript>
+		<text path="audio/module7/m07s06" id="0"><![CDATA[כל אחד מהעובדים הללו הצהיר הצהרה על הקניין הרוחני. בחר את כל ההצהרות שאיתן אתה מסכים ולאחר מכן לחץ על 'שלח'.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module7/m07s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 580px;left: 430px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[האם אתה מסכים או לא מסכים עם כל אחת מההצהרות האלה לגבי קניין רוחני?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[בחר אם אתה מסכים או לא מסכים עם הצהרות אלה ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="width:582px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module7/m07s06/img01.png"><![CDATA[עובד זכר]]></img>
+			<text style="width: 312px;"><![CDATA[אם אני יוצר משהו בזמן שאני עובד עבור Johnson Controls, יש לי זכות להשתמש ביצירה שלי ככל העולה על רוחי]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module7/m07s06/img02.png"><![CDATA[עובד זכר]]></img>
+			<text style="width: 312px;"><![CDATA[כאשר משהו מוגן על-ידי סימן מסחר או זכויות יוצרים, הוא תמיד מוגן]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module7/m07s06/img03.png"><![CDATA[עובדת]]></img>	
+			<text style="width: 312px;"><![CDATA[פרסום הקניין הרוחני של Johnson Controls עלול לגרום נזק לעסק שלנו]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module7/m07s06/img04.png"><![CDATA[עובדת]]></img>	
+			<text style="width:312px;"><![CDATA[אם מידע או תמונות זמינים בחינם באינטרנט, אני יכול להשתמש בהם למטרות עסקיות]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[מסכים]]></text>
+		<text><![CDATA[לא מסכים]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -64px;width: 378px;height: auto;padding-top: 20px;left: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[נכון.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>כל מה שאתה יוצר, ממציא או מזקק בעבודה שלך ב-Johnson Controls שייך בדרך כלל ל-Johnson Controls ולא לך. כשתעזוב את החברה, כל הקניין הרוחני ימשיך להיות שייך ל-Johnson Controls ואתה לא תוכל להשתמש בו באופן עצמאי או בחברה אחרת, או לשתף אותו עם אחרים.</li> <li>זכויות קניין רוחני, כולל סימני מסחר וזכויות יוצרים, עלולות להיחלש או ללכת לאיבוד כתוצאה משימוש בלתי הולם או חוסר זהירות. בעוד שעורי הדין של Johnson Controls עובדים קשה כדי להגן על זכויות הקניין הרוחני שלנו, לכל אחד מאיתנו גם יש תפקיד. עלינו להגן בקפידה על הקניין הרוחני שלנו בכל הפעילויות העסקיות היום יומיות.</li> <li>הקניין הרוחני של Johnson Controls הוא חיוני לעסקי החברה. שימוש שגוי או חשיפתו לנמענים לא מורשים עלולים ליצור בעיות חמורות עבור החברה. במקרים מסוימים, הגנות על הקניין הרוחני עלולות להתבטל כתוצאה משימוש לרעה, בעוד שחשיפת סודות המסחר או העיצובים של Johnson Controls עלולה לפגוע ביתרון התחרותי שלנו בשוק.</li> <li>יש לנו גישה נוחה לכמויות אדירות של מידע באינטרנט, אך זה שמידע כלשהו זמין לציבור הרחב אינו אומר שיש לנו זכות להשתמש בו. רוב מה שניתן למצוא באינטרנט מוגן, כולל טקסטים כתובים, תמונות, דמויות מצוירות, קטעי קוד ותוכנות. לעולם אין להשתמש במידע שמצאת באינטרנט למטרות העסקיות של Johnson Controls, אלא אם אתה בטוח שיש לך הרשאות מהבעלים לעשות זאת.</li> </ul>]]></text>
+		</correct>
+		<incorrect style="top: -64px;width: 378px;height: auto;padding-top: 20px;left: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[לא נכון.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>כל מה שאתה יוצר, ממציא או מזקק בעבודה שלך ב-Johnson Controls שייך בדרך כלל ל-Johnson Controls ולא לך. כשתעזוב את החברה, כל הקניין הרוחני ימשיך להיות שייך ל-Johnson Controls ואתה לא תוכל להשתמש בו באופן עצמאי או בחברה אחרת, או לשתף אותו עם אחרים.</li> <li>זכויות קניין רוחני, כולל סימני מסחר וזכויות יוצרים, עלולות להיחלש או ללכת לאיבוד כתוצאה משימוש בלתי הולם או חוסר זהירות. בעוד שעורי הדין של Johnson Controls עובדים קשה כדי להגן על זכויות הקניין הרוחני שלנו, לכל אחד מאיתנו גם יש תפקיד. עלינו להגן בקפידה על הקניין הרוחני שלנו בכל הפעילויות העסקיות היום יומיות.</li> <li>הקניין הרוחני של Johnson Controls הוא חיוני לעסקי החברה. שימוש שגוי או חשיפתו לנמענים לא מורשים עלולים ליצור בעיות חמורות עבור החברה. במקרים מסוימים, הגנות על הקניין הרוחני עלולות להתבטל כתוצאה משימוש לרעה, בעוד שחשיפת סודות המסחר או העיצובים של Johnson Controls עלולה לפגוע ביתרון התחרותי שלנו בשוק.</li> <li>יש לנו גישה נוחה לכמויות אדירות של מידע באינטרנט, אך זה שמידע כלשהו זמין לציבור הרחב אינו אומר שיש לנו זכות להשתמש בו. רוב מה שניתן למצוא באינטרנט מוגן, כולל טקסטים כתובים, תמונות, דמויות מצוירות, קטעי קוד ותוכנות. לעולם אין להשתמש במידע שמצאת באינטרנט למטרות העסקיות של Johnson Controls, אלא אם אתה בטוח שיש לך הרשאות מהבעלים לעשות זאת.</li> </ul>]]></text>	
+		</incorrect>		
+	</feedback>
+	
+</contents>

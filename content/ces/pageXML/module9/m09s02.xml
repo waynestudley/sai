@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m09s02">
+	<transcript>
+		<text path="audio/module9/m09s02" id="0"><![CDATA[Zde je několik lidí, kteří to mysleli dobře, ale ve skutečnosti vážně ohrozili své společnosti. Kliknutím na jednotlivé osoby se dozvíte více.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Vidíte, proč by konkurenční informace byly cenné. Avšak bez ohledu na to, jak užitečné by mohly být, nikdy nesmíme přijmout informace o konkurenci, které byly získány nezákonným či neetickým jednáním, viz příklady níže.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s02/contentBackground.jpg" minwidth="769" />
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Klikněte na jednotlivé osoby.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="190px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn1.png" minwidth="769"><![CDATA[Zaměstnanec]]></img>
+			<buttonText style="height: 58px;"><![CDATA[Vydávání se za někoho jiného]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 70px;top: 0px;">
+				<text><![CDATA[Zavolal jsem jednomu z konkurentů a předstíral jsem, že jsem klient. Myslel jsem, že když zjistím informace o jeho cenách, budu mu moci lépe konkurovat.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn2.png" minwidth="769"><![CDATA[Zaměstnanec]]></img>
+			<buttonText style="height: 58px;font-size:14px;"><![CDATA[Prohledávání odpadků]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 70px;top: 0px;">
+				<text><![CDATA[Jednou večer po práci jsem prohledal kontejnery před sídlem konkurenta. Skutečně se mi podařilo najít nějaké informace o nových produktech, které uvádí na trh.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn3.png" minwidth="769"><![CDATA[Zaměstnankyně]]></img>
+			<buttonText style="height: 58px;font-size:14px;"><![CDATA[Získávání interních informací za úplatu]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 70px;top: 0px;">
+				<text><![CDATA[Zaplatil jsem bývalému zaměstnanci, aby mi poskytl hesla k sítím společnosti. Získal jsem spoustu skvělých informací a nikdo si ani nevšiml, že jsem tam byl.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="749px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn4.png" minwidth="769"><![CDATA[Zaměstnankyně]]></img>
+			<buttonText style="height: 58px;font-size:14px;"><![CDATA[Uzavření tajné dohody s neetickým klientem]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: 0px;">
+				<text><![CDATA[Předtím, než jsme podali nabídku na chystaný projekt, jsem se sešel s klientem. Během schůzky na chvíli odešel z místnosti a řekl, že bych se měl podívat do složky na jeho stole. Otevřel jsem ji a zjistil jsem, že jde o nabídku našeho konkurenta, včetně nabídkové ceny. Tyto informace jsem použil k předložení lepší nabídky. ]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

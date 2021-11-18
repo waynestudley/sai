@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[Tento príbeh sa stal v reálnom živote zamestnanca spoločnosti Johnson Controls. Ako by ste sa v takejto situácii zachovali? Vyberte jednu možnosť a potom kliknite na tlačidlo Odoslať.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Ste skupinovým manažérom na bežnom stretnutí s kupujúcim zákazníkom. Počas stretnutia otvoríte dôvernú databázu o cenách zákazníkov a objeme predaja, aby ste odpovedali na otázky klienta. Keď sa klient pozrie cez vaše rameno, nalieha, aby ste mu poslali celý súbor. Čo urobíte?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[Skupinový manažér na stretnutí s kupujúcim zákazníkom]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;">
+		<text><![CDATA[Vyberte jednu možnosť a potom kliknite na tlačidlo Odoslať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:25px 15px 17px">
+		<option><![CDATA[Zdieľajte databázu s klientom. Úspech našich klientov je našou kľúčovou prioritou]]></option>	
+		<option><![CDATA[Vysvetlite, že databáza obsahuje informácie týkajúce sa aj ostatných zákazníkov, takže ju nemôžete zdieľať. Ak klient na tom trvá, ukončite schôdzku a kontaktujte svojho manažéra alebo právny tím za účelom porady]]></option>	
+		<option><![CDATA[Súhlaste s tým, že budete zdieľať databázu s klientom, ale až potom, ako podpíše dohodu o mlčanlivosti]]></option>	
+		<option><![CDATA[Obráťte sa na právnika a začnite súdne konanie proti klientovi skôr, ako bude môcť používať výhradné informácie vo vlastnom podnikaní]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="height:280px;" fcStyle="top:-270px">
+			<text style="font-size:17px;"><![CDATA[To je správne.]]></text>
+			<text><![CDATA[Údaje o zákazníkoch, ako sú údaje o kontakte a bankové informácie, sa vždy poskytujú spoločnosti Johnson Controls s očakávaním, že ich udržíme v tajnosti.]]></text>
+			<text><![CDATA[Tento typ zákonom chránených zákazníckych údajov nesmie byť nikdy zdieľaný s ostatnými zákazníkmi spoločnosti Johnson Controls.]]></text>
+			<text><![CDATA[Niektoré dôsledky zdieľania týchto informácií môžu byť: <ul> <li>môžeme byť žalovaní zákazníkmi, ktorých informácie boli zverejnené,</li> <li>mohli by sme byť obvinení z fixovania cien,</li> <li>mohli by sme vystaviť riziku naše práva duševného vlastníctva vložené do databázy,</li> <li>mohli by sme ohroziť našu schopnosť ponúknuť našim zákazníkom služby skupinového manažéra.</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="height:280px;" fcStyle="top:-270px">
+			<text style="font-size:17px;"><![CDATA[To nie je správne.]]></text>
+			<text><![CDATA[Údaje o zákazníkoch, ako sú údaje o kontakte a bankové informácie, sa vždy poskytujú spoločnosti Johnson Controls s očakávaním, že ich udržíme v tajnosti.]]></text>
+			<text><![CDATA[Tento typ zákonom chránených zákazníckych údajov nesmie byť nikdy zdieľaný s ostatnými zákazníkmi spoločnosti Johnson Controls.]]></text>
+			<text><![CDATA[Niektoré dôsledky zdieľania týchto informácií môžu byť: <ul> <li>môžeme byť žalovaní zákazníkmi, ktorých informácie boli zverejnené,</li> <li>mohli by sme byť obvinení z fixovania cien,</li> <li>mohli by sme vystaviť riziku naše práva duševného vlastníctva vložené do databázy,</li> <li>mohli by sme ohroziť našu schopnosť ponúknuť našim zákazníkom služby skupinového manažéra.</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

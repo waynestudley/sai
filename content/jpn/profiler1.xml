@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript style="">
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentTitle>
+		<text><![CDATA[職場環境]]></text>		
+	</contentTitle>
+	<contentBg style="padding: 0;top: 20px;width: 878px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	
+	<contentText>
+		<text style="width:836px;font-size:13px;"><![CDATA[あなたの役割にもっとも適切なコンテンツを示すため、あなたが勤めている環境について詳細をおしえてください。 ]]></text>
+		<text style="margin: 5px 0px 0px 0px;width:836px;font-size:13px;"><![CDATA[もっとも当てはまる職場環境を選択してください。]]></text>
+	</contentText>
+	
+	
+	
+	<instructionText style="margin-top: 5px;min-height: auto;">
+		<text><![CDATA[あなたの職場環境をクリックし、「続行」をクリックします。]]></text>
+	</instructionText>
+	
+	<optionContent>
+		<option profilerId="OMSE">
+			<img path="content/images/ltr/subprofiler/img_01.png"><![CDATA[オフィス環境]]></img>
+			<text><![CDATA[オフィスに拠点を置く専門家。例として、営業、マーケティング、法務、財務、購買など]]></text>
+		</option>
+		<option profilerId="CSCE">
+			<img path="content/images/ltr/subprofiler/img_02.png"><![CDATA[オフィス環境]]></img>
+			<text><![CDATA[顧客サポートセンター]]></text>
+		</option>
+		<option profilerId="OIE">
+			<img path="content/images/ltr/subprofiler/img_03.png"><![CDATA[オフィス環境]]></img>
+			<text><![CDATA[現場外の設置とサービス]]></text>
+		</option>		
+	</optionContent>
+	 <contentBackground>		
+		<img path="content/images/ltr/subprofiler/welcomeScreen.jpg" minwidth="800" minheight="600"><![CDATA[Johnson Controls従業員]]></img>
+	</contentBackground>
+	<buttonText>		
+		<text><![CDATA[継続]]></text>
+	</buttonText>
+	
+</contents>

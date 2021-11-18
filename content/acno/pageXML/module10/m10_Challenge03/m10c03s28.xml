@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m10c03s28">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Un desenlace inesperado.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s28/contentBackground.jpg" minwidth="769"><![CDATA[Un desenlace inesperado]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 574px;"></pageTitle>
+	<instructionText style="width: 574px;">
+		<text><![CDATA[Haga clic en cada persona.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para volver a considerar su decisión e intentarlo de nuevo.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:158px;">
+		<revealCallOut width="300px" height="196px" top="15px" left="370px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module10/m10c03/m10c03s28/img_01.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Carlos]]></buttonText>
+			<popupArrow style="left:140px; top: -15px;" />
+			<popText showHeader="true" arrowleft="" style="height: 205px;top:-227px; display: block; left: 370px; width: 608px;line-height:20px;">			
+				<text style="margin-bottom: 7px;"><![CDATA[Solo iba a ir por un trago. Pero, mientras estaba en el club, se desató una pelea y llamaron a la policía. Dado que vi todo el incidente, ahora tengo que ir al tribunal como testigo.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="196px" top="15px" left="678px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module10/m10c03/m10c03s28/img_02.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Chen, gerente de Carlos]]></buttonText>
+			<popupArrow style="left:460px; top: -15px;" />
+			<popText showHeader="true" arrowleft="" style="height: 235px;top:-227px; display: block; left: 370px; width: 608px;">
+				<text style="margin-bottom: 10px;"><![CDATA[Estoy decepcionado por la elección de Carlos. Para empezar, nunca debería haber estado en el club. Si los periódicos informan de la pelea, podrían vincularlo a nuestra empresa.]]></text>					
+				<text style="margin-bottom: 0px;"><![CDATA[Carlos estaba representando a Johnson Controls en un evento relacionado con los negocios y tendría que haberse dado cuenta de que el club no era un lugar apropiado.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

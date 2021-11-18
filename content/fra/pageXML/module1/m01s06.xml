@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m01s06">
+	<transcript>
+		<text path="audio/module1/m01s06" id="0"><![CDATA[Lorsqu’ils ne sont pas gérés, les conflits d’intérêts peuvent entraîner une insatisfaction des clients, une utilisation abusive des fonds de l’entreprise, une mauvaise relation avec les fournisseurs, une perte d’opportunités commerciales et une dégradation de la réputation de l’entreprise et des individus impliqués.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Que se passe-t-il lorsque les conflits d’intérêts ne sont pas bien gérés ?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s06/contentBackground.jpg" minwidth="769"><![CDATA[Bureau en arrière-plan]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;height: 40px;">
+		<text><![CDATA[Cliquez sur chaque personne pour savoir comment un conflit d’intérêts lui a fait changer d’avis sur une situation et lui a donné une mauvaise image de Johnson Controls.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:192px;">
+		<revealCallOut width="300px" height="178px" top="0px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module1/m01s06/btn1.png" minwidth="769"><![CDATA[Employé caucasien]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Carter, employé de Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 100px;top: -15px;">
+				<text><![CDATA[J’occupe le même poste qu’Anna depuis des années, mais je suis là depuis bien plus longtemps qu’elle et j’ai de meilleurs résultats. <i>Elle</i> a eu une promotion parce que son frère travaille aux RH et a usé de son influence pour l’aider. À quoi ça sert de travailler dur si ça ne compte pas ?]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="178px" top="0px" left="349px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module1/m01s06/btn2.png" minwidth="769"><![CDATA[Homme indien]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Rajesh, fournisseur de Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 115px;top: -15px;">
+				<text><![CDATA[Notre entreprise travaille avec Johnson Controls depuis des années et nous avons toujours fait du bon travail. Récemment, John, mon interlocuteur chez Johnson Controls, a décidé de faire appel à l’entreprise de son meilleur ami plutôt qu’à la nôtre. J’ai toujours cru que je pouvais faire confiance à Johnson Controls pour prendre des décisions objectives. Visiblement, je me suis trompé.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="178px" top="0px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module1/m01s06/btn3.png" minwidth="769"><![CDATA[Homme originaire de Russie/d’Europe de l’Est]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Sergei, client Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 135px;top: -15px;">
+				<text><![CDATA[En début d’année, j’ai parlé de nos nouveaux besoins à mon interlocutrice chez Johnson Controls, Vinca. Plutôt que de me recommander une solution Johnson Controls, elle m’a conseillé de faire appel à une petite entreprise qui pouvait faire la même chose. Nous avons suivi ses conseils et sommes très satisfaits du travail de cette entreprise. Je viens néanmoins d’apprendre que Vinca est copropriétaire de cette entreprise. Je me demande donc si elle n’a pas enfreint les règles de déontologie et oublié qu’elle était censée agir dans notre intérêt et celui de Johnson Controls.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

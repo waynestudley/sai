@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[いくつか日常のシチュエーションを見てみましょう。 これらの人々は個人データをリスクにさらしているでしょうか？]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="font-size:15px;"><![CDATA[以下のうちデータのプライバシーをリスクにさらす可能性があるものはどれでしょう？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[忙しいオフィス、コンピュータで作業する従業員]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[個人データをリスクにさらすと思うシナリオをすべて選んでください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[正解が一つ以上ある場合があります。]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px;font-size:15px;">
+		<option><![CDATA[公衆Wi-Fiを使用する]]></option>	
+		<option><![CDATA[2箇所で同じパスワードを使用する]]></option>	
+		<option><![CDATA[ソーシャルメディアに、背景にホワイトボードが映ったチームミーティングの写真を投稿する]]></option>	
+		<option><![CDATA[公共の場にてクライアントと電話で財務情報を話す]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[正解です。]]></text>
+			<text><![CDATA[これらの例はすべて、データのプライバシーをリスクにさらします。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[不適切です。]]></text>
+			<text><![CDATA[これらの例はすべて、データのプライバシーをリスクにさらします。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

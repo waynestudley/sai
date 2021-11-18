@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[Que feriez-vous si quelqu’un vous envoyait des données personnelles que vous n’êtes pas censé voir ?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;line-height:18px;"><![CDATA[Que feriez-vous ? ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[On vous a demandé d’informer les sous-traitants du nouveau processus de facturation. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Vous demandez à un autre salarié dans un département différent de vous envoyer la liste des adresses e-mail mais la feuille de calcul qu'il vous envoie contient également des informations personnelles utilisées pour sécuriser leur compte, telles que la date de naissance, leur nom de jeune fille et leur numéro de sécurité sociale. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Que devez-vous faire ?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[Hommes et femmes d'affaires]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Sélectionnez une option puis cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px;line-height:18px;">
+		<option><![CDATA[Supprimer l’e-mail et le signaler à l’équipe chargée de la protection des données à l’adresse privacy@jci.com]]></option>
+		<option><![CDATA[Transférer l’e-mail à vos collègues de travail pour montrer un exemple de ce qu'il ne faut pas envoyer par e-mail]]></option>
+		<option><![CDATA[Prendre uniquement ce dont vous avez besoin dans la feuille de calcul et supprimer le reste de manière sécurisée]]></option>
+		<option><![CDATA[Envoyer un e-mail aux sous-traitants pour leur dire que leurs données personnelles ont potentiellement été divulguées]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:173px;" fcStyle="top:-200px">
+			<text style="font-size:17px;"><![CDATA[Bonne réponse.]]></text>
+			<text><![CDATA[Les lois sur la protection des données et la politique de confidentialité des données de Johnson Controls s’appliquent aux informations personnelles concernant les salariés, mais aussi les clients et partenaires commerciaux. Vous devez bien comprendre vos responsabilités et respecter la politique de confidentialité de Johnson Controls et toutes les lois en vigueur en matière de protection et de confidentialité des données.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:173px;" fcStyle="top:-200px">
+			<text style="font-size:17px;"><![CDATA[C'est inexact.]]></text>
+			<text><![CDATA[Les lois sur la protection des données et la politique de confidentialité des données de Johnson Controls s’appliquent aux informations personnelles concernant les salariés, mais aussi les clients et partenaires commerciaux. Vous devez bien comprendre vos responsabilités et respecter la politique de confidentialité de Johnson Controls et toutes les lois en vigueur en matière de protection et de confidentialité des données.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

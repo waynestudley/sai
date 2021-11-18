@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s09" id="0"><![CDATA[Verifique seu entendimento do que é e não é aceitável. Selecione Aceitável ou Inaceitável em cada opção e clique em Enviar.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s09/contentBackground.jpg" minwidth="769"><![CDATA[Um presente]]></img>
+	</contentBackground>
+	<contentBg style="width: 647px;right: 358px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Esses presentes são Aceitáveis ou Inaceitáveis?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Selecione Aceitável ou Inaceitável em cada opção e clique em Enviar.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent style="width:650px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img01.png"><![CDATA[Caneta da Johnson Controls]]></img>
+			<text style="width: 336px;"><![CDATA[Um funcionário da Johnson Controls envia uma caneta com o logotipo da Johnson Controls para um cliente importante para marcar o fim de um projeto bem-sucedido.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img02.png"><![CDATA[Funcionário segurando um vale-presente]]></img>
+			<text style="width: 336px;"><![CDATA[Durante as férias, um fornecedor envia um vale-presente de USD 50 para um funcionário da Johnson Controls]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img03.png"><![CDATA[Camarote]]></img>	
+			<text style="width: 336px;"><![CDATA[Um fornecedor dá a um funcionário da Johnson Controls quatro ingressos para o camarote de um jogo esportivo profissional, dizendo ao funcionário que ele ganhou os ingressos de sua empresa]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img04.png"><![CDATA[Funcionário segurando uma garrafa de champanhe]]></img>	
+			<text style="width:336px;"><![CDATA[Um fornecedor antigo, que enviou uma proposta para obter um contrato com a Johnson Controls, envia algumas garrafas de champanhe para a equipe da Johnson Controls]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[Aceitável]]></text>
+		<text styleWidth="width:100px;"><![CDATA[Inaceitável]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -91px;width: 300px;height: 440px;padding-top: 20px;right: -335px;line-height:18px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[Está correto.]]></text>			
+			<text style="font-size: 14px;line-height:16px;"><![CDATA[<ul> <li>O limite da Johnson Controls para relatar presentes é de USD 200. </li> <li>Você pode aceitar presentes com valor inferior a USD 200, desde que não haja intenção de influenciá-lo indevidamente ou de criar uma obrigação futura. </li> <li>Se você receber um presente de no mínimo USD 200, como ingressos para um jogo, é preciso informá-los por meio do formulário de presentes. O formulário será analisado e você será aconselhado a manter ou não o presente.</li> <li>Você não pode oferecer ou aceitar qualquer valor em dinheiro ou equivalentes como vale-presentes.</li> <li>Todos os presentes oferecidos para clientes de negócios devem ser aprovados com antecedência pelo seu gerente comercial. </li> <li>Presentes oferecidos a funcionários do governo exigem pré-aprovação com sete dias de antecedência por meio do formulário AB.</li> <li>Os formulários podem ser encontrados em <a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a></li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -91px;width: 300px;height: 440px;padding-top: 20px;right: -335px;line-height:18px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[Não está correto.]]></text>	
+			<text style="font-size: 14px;line-height:16px;"><![CDATA[<ul> <li>O limite da Johnson Controls para relatar presentes é de USD 200. </li> <li>Você pode aceitar presentes com valor inferior a USD 200, desde que não haja intenção de influenciá-lo indevidamente ou de criar uma obrigação futura. </li> <li>Se você receber um presente de no mínimo USD 200, como ingressos para um jogo, é preciso informá-los por meio do formulário de presentes. O formulário será analisado e você será aconselhado a manter ou não o presente.</li> <li>Você não pode oferecer ou aceitar qualquer valor em dinheiro ou equivalentes como vale-presentes.</li> <li>Todos os presentes oferecidos para clientes de negócios devem ser aprovados com antecedência pelo seu gerente comercial. </li> <li>Presentes oferecidos a funcionários do governo exigem pré-aprovação com sete dias de antecedência por meio do formulário AB.</li> <li>Os formulários podem ser encontrados em <a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a></li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

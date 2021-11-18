@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[Qual destas situações você acha que pode ser problemática?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Você acha que esses exemplos podem ser considerados suborno?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[Empresários]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Selecione <span class="fontBold">todas</span> os situações problemáticas e clique em Enviar.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Pode haver mais de uma resposta correta.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Você promete a um cliente um presente em dinheiro em troca de uma decisão comercial favorável]]></option>
+		<option><![CDATA[Um subempreiteiro que deseja fazer negócios com você lhe convida para vários jantares e eventos esportivos]]></option>
+		<option><![CDATA[Você faz uma contribuição para a campanha de um funcionário do governo que é um cliente em potencial]]></option>
+		<option><![CDATA[Seu gerente contrata a filha de um cliente em troca da prorrogação do contrato atual]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Está correto.]]></text>
+			<text><![CDATA[Na verdade, todas essas situações podem ser consideradas subornos dependendo das circunstâncias. A intenção de influenciar é um fator importante, mas também devemos nos lembrar de que mesmo a aparência de suborno pode ser problemática para você e a Johnson Controls, portanto, pense antes de agir!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Não está correto.]]></text>
+			<text><![CDATA[Na verdade, todas essas situações podem ser consideradas subornos dependendo das circunstâncias. A intenção de influenciar é um fator importante, mas também devemos nos lembrar de que mesmo a aparência de suborno pode ser problemática para você e a Johnson Controls, portanto, pense antes de agir!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

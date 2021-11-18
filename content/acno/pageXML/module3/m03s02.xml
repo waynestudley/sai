@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[¿Qué tan bueno es a la hora de reconocer situaciones riesgosas? Lea esta situación, seleccione “Estoy de acuerdo” o “No estoy de acuerdo” para cada opción y, luego, haga clic en Enviar.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[Pasillo de oficina]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Un consultor con el que trabaja en el Medio Oriente le dice que el arancel de importación para un envío era alto, pero que encontró “una solución más barata” y que el envío ya se ha despachado. ¿Con cuál de estas afirmaciones está de acuerdo?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Seleccione “Estoy de acuerdo” o “No estoy de acuerdo” para cada opción y, luego, haga clic en Enviar. ]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[Muelles]]></img>
+			<text style="width: 450px;"><![CDATA[La “solución más barata” podría implicar que alguien reciba un soborno. ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[Muelles]]></img>
+			<text style="width: 450px;"><![CDATA[Debería informar sus sospechas a su gerente o al Departamento Legal.   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[Muelles]]></img>	
+			<text style="width: 450px;"><![CDATA[Debería esperar y ver qué sucede; luego, debería hablar con su gerente.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[Muelles]]></img>	
+			<text style="width:450px;"><![CDATA[Si el consultor pagó un soborno en nombre de nuestra empresa, él sería considerado responsable, no Johnson Controls.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[Muelles]]></img>	
+			<text style="width:450px;"><![CDATA[Debería agradecerle al consultor por ahorrar dinero y, además, debería enviarle más trabajo en el futuro.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text styleWidth="font-size:11px;line-height:10px;"><![CDATA[Estoy de acuerdo]]></text>
+		<text styleWidth="font-size:11px;line-height:10px;"><![CDATA[No estoy de acuerdo]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 22px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 18px;"><![CDATA[La respuesta es correcta.]]></text>			
+			<text style="font-size: 13px;"><![CDATA[La “solución más barata” podría ser un soborno. A veces los sobornos pueden ser muy sutiles. Ante este tipo de situaciones, debe informar sus sospechas sin demora a su gerente y a un miembro del Departamento Legal o de Cumplimiento, o informar su inquietud a la Línea de ayuda de integridad. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Si un tercero paga un soborno en nombre de Johnson Controls, seguimos siendo responsables desde el punto de vista legal.]]></text>			
+		</correct>
+		<incorrect style="top: 22px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 18px;"><![CDATA[La respuesta no es correcta.]]></text>	
+			<text style="font-size: 13px;"><![CDATA[La “solución más barata” podría ser un soborno. A veces los sobornos pueden ser muy sutiles. Ante este tipo de situaciones, debe informar sus sospechas sin demora a su gerente y a un miembro del Departamento Legal o de Cumplimiento, o informar su inquietud a la Línea de ayuda de integridad. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Si un tercero paga un soborno en nombre de Johnson Controls, seguimos siendo responsables desde el punto de vista legal.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

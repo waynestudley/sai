@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[Keďže vie, že strávi niekoľko hodín čakaním v nemocnici, Jian zvažuje, že si vezme prácu so sebou. Čo by podľa vás mal urobiť? Vyberte jednu možnosť a potom kliknite na tlačidlo OK.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:15px;"><![CDATA[Jian musí odísť, aby sa pripojil k svojej žene v nemocnici, ale sú tu naliehavé projekty, ktoré si vyžadujú jeho pozornosť. Môže si vziať svoj prenosný počítač do nemocnice, ale vie, že práca na diaľku na jeho prenosnom počítači nie je tak bezpečná ako v spoločnosti.]]></text>
+		<text><![CDATA[Ako sa Jian môže najlepšie uistiť, že svoju prácu dokončí v termíne?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[Kancelárske priestory]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Zvoľte jednu možnosť a potom vyberte tlačidlo OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Jian nahrá informácie o projekte Texela, a to vrátane hlavného súboru dodávateľa, na svoj osobný účet v aplikácii Dropbox. Týmto spôsobom sa môže k nemu dostať prostredníctvom svojho prenosného počítača v nemocnici, ale informácie sa nebudú zasielať cez internet ani sa nebudú lokálne preberať do jeho počítača.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian prenesie informácie dodávateľa a hlavný súbor dodávateľa na prenosný disk a zašifruje ich. Zdá sa mu to byť bezpečnejšie ako elektronický prístup k informáciám.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian opätovne prerokuje predĺženie termínu projektu, na ktorom pôvodne pracoval, a dokončí prácu na projekte Texela ešte pred odchodom do nemocnice.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jianovo rozhodnutie vystaví údaje spoločnosti, zákazníka a dodávateľa riziku porušenia ochrany osobných údajov.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian podnikol kroky na ochranu informácií spoločnosti a dodávateľa, ale vytvoril tým iný problém?]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top:-223px;">
+			<text style="padding-top:25px;"><![CDATA[Jian opätovne prerokuje predĺženie termínu projektu, na ktorom pôvodne pracoval, a dokončí prácu na projekte Texela ešte pred odchodom do nemocnice.]]></text>
+			<text><![CDATA[Jian dokáže doručiť odporúčania svojho dodávateľa ešte pred odchodom z práce a v dôsledku toho nemusí so sebou brať kópiu dôverných informácií dodávateľa alebo hlavného súboru dodávateľa. Úspešným vyrokovaním predĺženia časového harmonogramu odovzdania druhého projektu zabránil nepriaznivému dopadu na celkový projekt.]]></text>
+			<text><![CDATA[A čo je ešte lepšie, Jian môže tráviť čas so svojou ženou bez toho, aby ho rozptyľovali naliehavé termíny.]]></text>
+		</correct>
+	</feedback>
+</contents>

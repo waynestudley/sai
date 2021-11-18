@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[このシナリオでは、Johnson Controls従業員の実生活について見ていきましょう。 この状況であなたはどうする必要があるでしょうか。 選択肢を1つ選び、「提出」をクリックします。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:14px;line-height:18px;"><![CDATA[あなたは、顧客購入者とルーティンミーティングを行うカテゴリーマネージャーです。 ミーティング中にあなたは、クライアントの質問に答えるために、顧客価格設定と売上高が記された機密データベースを開きました。 依頼人があなたの肩ごし目を通して、彼はあなたに全ファイルを送るように求めました。 皆さんならどうするでしょうか？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[顧客の購入者とミーティングを行うカテゴリーマネージャー]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:26px;"></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;line-height:23px;">
+		<text><![CDATA[選択肢を1つ選び、「提出」をクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px;font-size:14px;line-height:18px;">
+		<option><![CDATA[データベースをクライアントと共有します。 当社のクライアントの成功は、重要なプライオリティーです]]></option>	
+		<option><![CDATA[データベースには他の顧客に関連した情報を含むため、共有できないと説明します。 クライアントが主張する場合、ミーティングを終了し、マネージャーまたは法務部チームに助言を求めます]]></option>	
+		<option><![CDATA[データベースをクライアントと共有することに同意しますが、機密保持契約に署名した後にのみ共有します]]></option>	
+		<option><![CDATA[彼が自身のビジネスで機密を使用できるようになる前に、弁護士に連絡して、クライアントに対して訴訟を開始思案す]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="height:240px;" fcStyle="top:-215px">
+			<text style="font-size:17px;"><![CDATA[正解です。]]></text>
+			<text style="font-size:14px;"><![CDATA[例えば連絡先やと銀行の詳細などの顧客データは、常に当社が機密を保持するという前提で、Johnson Controlsに伝えられます。]]></text>
+			<text style="font-size:14px;"><![CDATA[この種の機密顧客データは、他のJohnson Controlsの顧客と共有することはできません。]]></text>
+			<text style="font-size:14px;"><![CDATA[この情報を共有すると、以下のような結果となる可能性があります。 <ul> <li>情報が公表された顧客によって告訴される可能性があります</li> <li>価格協定により非難される可能性があります</li> <li>データベースの知的資産がリスクにさらされる可能性があります</li> <li>カテゴリー管理サービスを顧客に提供する能力をリスクにさらす可能性があります</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="height:240px;" fcStyle="top:-215px">
+			<text style="font-size:17px;"><![CDATA[不正解です。]]></text>
+			<text style="font-size:14px;"><![CDATA[例えば連絡先やと銀行の詳細などの顧客データは、常に当社が機密を保持するという前提で、Johnson Controlsに伝えられます。]]></text>
+			<text style="font-size:14px;"><![CDATA[この種の機密顧客データは、他のJohnson Controlsの顧客と共有することはできません。]]></text>
+			<text style="font-size:14px;"><![CDATA[この情報を共有すると、以下のような結果となる可能性があります。 <ul> <li>情報が公表された顧客によって告訴される可能性があります</li> <li>価格協定により非難される可能性があります</li> <li>データベースの知的資産がリスクにさらされる可能性があります</li> <li>カテゴリー管理サービスを顧客に提供する能力をリスクにさらす可能性があります</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

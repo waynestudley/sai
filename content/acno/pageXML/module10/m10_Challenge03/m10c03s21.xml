@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[El sobre contiene USD 250 en efectivo. Carlos ya rechazó el regalo, pero el proveedor insiste. ¿Qué debería hacer?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Quedarse con el dinero en efectivo, pero dividirlo con su equipo, de modo que nadie reciba un monto considerable.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Rechazar de nuevo el dinero en efectivo.  Cuando Chris responde invitando a Carlos a ir con él y el equipo a un bar deportivo durante un partido importante, Carlos acepta.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Negarse a aceptar el dinero en efectivo y también <span class="fontBoldItalic" >rechazar</span> el ofrecimiento de Chris de ir con él y el equipo a un bar deportivo durante un partido importante.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos divide el dinero en efectivo con su equipo, razonando que ninguna persona recibió un monto que superara el límite de regalos de Johnson Controls. Muchos meses después, otra empresa inició una investigación sobre acusaciones de que el subcontratista estaba utilizando regalos inapropiados para incentivar una relación comercial continua.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Después de que Carlos rechazara el dinero en efectivo por segunda vez, Chris se dio cuenta de que hablaba en serio y cambió el ofrecimiento. En su lugar, invitó a Carlos a ir con él y el equipo a un bar deportivo durante un partido importante.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Después de que Carlos rechazara el dinero en efectivo por segunda vez y el ofrecimiento de Chris de invitar a su equipo a cenar, Chris se dio cuenta de que hablaba en serio y dejó de insistir.]]></text>
+		</correct>
+	</feedback>
+</contents>

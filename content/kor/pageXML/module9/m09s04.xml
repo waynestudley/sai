@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="hotSpotCustom" className="m09s04">
+	<transcript>
+		<text path="audio/module9/m09s04" id="0"><![CDATA[불공정한 정보 수집의 대상이 된 기업은 소송을 제기할 수 있으며, 법은 흔히 그들의 편입니다. 일이 잘못될 경우 어떤 일이 일어날 수 있는지 보려면 각 제목을 클릭하십시오.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 490px;margin-bottom: 0px;"><![CDATA[아래의 사례가 보여주듯이 많은 기업과 사람들이 경쟁업체 또는 제품 정보를 수집한 방식 때문에 심각한 결과에 직면했습니다.]]></text>	
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s04/contentBackground.jpg" className="bg-pos-right-center" ipadPath="content/images/ltr/module9/m09s04/contentBackground.jpg" minwidth="769"><![CDATA[신문을 읽고 있는 사람]]></img>
+		<img path="content/images/ltr/module9/m09s04/img_02.png" minwidth="769"><![CDATA["The World" 신문]]></img>
+	</contentBackground>
+	 <contentBg style="padding:20px 20px 10px 20px;"></contentBg>
+	<popBackground>		
+		<img path="" />		
+	</popBackground>
+	<pageTitle style="width: 490px;"></pageTitle>
+	<instructionText style="width: 490px;">
+		<text><![CDATA[신문 헤드라인을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<hotSpotContent>
+		<hotSpot width="150px" top="72px" left="17px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="40px"><![CDATA[Proctor &amp; Gamble]]></buttonText>
+			<popText animPosRight="400px" animPosTop="300px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Proctor &amp; Gamble]]></text> 				
+				<text style="width:370px"><![CDATA[Proctor &amp; Gamble 직원들은 외부 계약업자가 Unilever 사무실 밖에 있는 쓰레기통에서 서류를 찾아 6개월 동안 Proctor &amp; Gamble 직원에게 보고했다는 사실이 밝혀진 후 Unilever에 1,000만 달러를 지불했습니다. ]]></text> 				
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup1_img.png" />]]></text> 				
+			</popText>
+			<tick style="right: -35px;top:5px;"></tick>
+		</hotSpot>
+		
+		
+		<hotSpot width="132px" top="238px" left="105px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="55px"><![CDATA[The Oracle Corporation]]></buttonText>
+			<popText animPosRight="400px" animPosTop="460px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[The Oracle Corporation]]></text>				
+				<text style="width:370px"><![CDATA[Oracle은 Microsoft를 대리하여 활동하는 어느 조직의 사무실에서 수거한 쓰레기통을 가져다준 건물 관리인들에게 돈을 지불한 사실을 인정했습니다. 뉴스가 나오자 Oracle의 주가는 13% 하락했으며, 증권 애널리스트들은 그 회사의 등급을 하향 조정했습니다.]]></text>
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup2_img.png" />]]></text> 						
+			</popText>
+			<tick style="right: -35px;top:10px;"></tick>
+		</hotSpot>
+		
+		<hotSpot width="116px" top="30px" left="248px" letter_spacing="0px">	
+			<buttonText paddingTop="0px" height="50px"><![CDATA[Apple]]></buttonText>
+			<popText animPosRight="230px" animPosTop="250px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Apple]]></text>				
+				<text style="width:370px"><![CDATA[술집에서 습득한 Apple iPhone 4 시제품을 기자에게 건넨 2명의 남성이 경범죄로 유죄 판결을 받은 후 집행 유예 및 사회봉사 명령을 선고받았으며, 각각 수백 달러의 벌금을 냈습니다.]]></text>
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup3_img.png" />]]></text> 		
+			</popText>
+			<tick style="right: -35px;top:10px;"></tick>
+		</hotSpot>
+		
+		<hotSpot width="118px" top="176px" left="351px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="48px"><![CDATA[Google]]></buttonText>
+			<popText animPosRight="230px" animPosTop="400px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Google]]></text>				
+				<text style="width:370px"><![CDATA[최근 Google의 Waymo는 Google의 한 직원이 Uber에 입사하기 위해 퇴사하면서 자율 주행 기술에 대한 14,000건의 비밀 서류를 다운로드했다고 주장하며 Uber에 소송을 제기했습니다. Google은 미화 26억 달러의 손해 배상을 요구하고 있습니다.]]></text>	
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup4_img.png" />]]></text> 		
+			</popText>
+			<tick style="left: -35px;top:10px;"></tick>
+		</hotSpot>
+	</hotSpotContent>	
+</contents>

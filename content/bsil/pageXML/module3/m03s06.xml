@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s06">
+	<transcript>
+		<text path="audio/module3/m03s06" id="0"><![CDATA[Vamos ver um caso que aconteceu em uma de nossas subsidiárias.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px" lineHeight="20px"><![CDATA[O suborno pode ocorrer em qualquer lugar e nem sempre é óbvio. Há pouco tempo tivemos um problema com suborno na Johnson Controls. Vamos analisar este caso para ver o que podemos aprender com ele.]]></text>
+	</contentText>
+	<contentBg style="top: 40px;"></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[Clique nas setas para saber mais.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top: 168px;" btnConStyle="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module3/m03s06/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Funcionário trabalhando com exportações no estaleiro]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:390px;" />
+				<text style="line-height:20px"><![CDATA[A Johnson Controls adquiriu, da York, a empresa marinha asiática China Marine em 2005. Antes da aquisição, a York havia sido multada pela SEC por usar agentes de vendas para pagar subornos aos fabricantes de navios e estaleiros do governo chinês, violando a Foreign Corrupt Practices Act (Lei dos EUA sobre práticas de corrupção no exterior).]]></text>
+				<text style="line-height:20px"><![CDATA[Depois de adquirir a York, a Johnson Controls demitiu 15 funcionários que estavam envolvidos no esquema de suborno da York, contratou uma nova gerência para fiscalizar o negócio da China Marine e limitou rigorosamente o uso de agentes de vendas. ]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module3/m03s06/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Pessoa com prancheta rodeada de contêineres de remessas]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:390px;" />
+				<text style="line-height:20px"><![CDATA[De 2007 a 2013, o novo gerente da China Marine controlou um novo esquema, envolvendo a contratação de subempreiteiros falsos para pagar suborno aos fabricantes de navios e estaleiros do governo chinês para conseguir negócios e enviar o dinheiro de volta para os funcionários da Johnson Controls que também faziam parte do esquema.]]></text>
+				<text style="line-height:20px"><![CDATA[Depois de descobrir evidências desse comportamento inadequado, a Johnson Controls denunciou voluntariamente as circunstâncias ao governo dos EUA, realizou uma investigação interna completa e cooperou totalmente com as autoridades dos EUA. ]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module3/m03s06/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Prédio da SEC em Washington, DC]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style=""><![CDATA[A SEC afirmou que a Johnson Controls não planejou e não manteve um sistema adequado de controle contábil interno, apesar de saber que a China Marine apresentava problemas com a FCPA e que o negócio da empresa tinha um alto risco de corrupção.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripBackground>				
+				<img path="content/images/ltr/module3/m03s06/Strip_04.png" minwidth="700" minheight="550"><![CDATA[Martelo sobre dinheiro]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style=""><![CDATA[A Johnson Controls Inc. não admitiu nem negou as acusações da SEC e concordou em pagar USD 14 milhões para encerrar o caso.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="5">
+			<stripBackground>				
+				<img path="content/images/ltr/module3/m03s06/Strip_05.png" minwidth="700" minheight="550"><![CDATA[Prédio do Departamento de Justiça em DC]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style=""><![CDATA[A O Departamento de Justiça encerrou a investigação e não aplicou nenhuma punição à Johnson Controls em relação à China Marine.  ]]></text>
+				<text style=""><![CDATA[O Departamento de Justiça explicou que não processou a empresa pois ela havia divulgado o esquema, realizado uma investigação completa, cooperado totalmente com a lei e implementado melhoras significativas na conformidade.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="6">
+			<stripBackground>				
+				<img path="content/images/ltr/module3/m03s06/Strip_06.png" minwidth="700" minheight="550"><![CDATA[Funcionário da Johnson Controls cooperando com o investigador]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style=""><![CDATA[Se a Johnson Controls não tivesse descoberto o problema ou não tivesse cooperado totalmente, as consequências poderia ter sido muito piores. É por isso que todos precisamos estar alertas aos sinais de suborno em nosso negócio, para que possamos agir rápido para resolver a situação.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[次はあなたが、貿易コンプライアンスのルールを適用する方法に関する認識度を示す番です。 左のそれぞれの状況を右の正しい解決法につなげて、「提出」をクリックします。]]></text>
+	</transcript>
+	<contentText>
+		<text style="font-size:14px;line-height:18px"><![CDATA[このような状況でそれぞれどうするべきか示してください。 ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[送信]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[最初の列から項目を選択し、矢印を2列目のマッチする解決策までドラッグします。 終わったら「送信」をクリックします。]]></text>
+		<text><![CDATA[クエスチョンマークをクリックして、さらに詳しく学習しましょう。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[状況]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img01.png"><![CDATA[北京]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[あなたは出張で北京に向かっています。 同僚があなたに、製品サンプルを出張先に持っていってもらえないか頼んできました。]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:553px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img02.png"><![CDATA[シリア国籍のクローズアップ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[あなたは英国の市民権を持っており、EUを訪れている顧客です。 あなたはシリア国籍の卸業者に会い、彼に製品サンプルを持ってきてほしいと頼まれました。]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:553px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img03.png"><![CDATA[サウジアラビアの顧客担当]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[サウジアラビアの顧客担当が、当社製品の1つのテストプロトコルと設計技術に関して質問するため電話をかけてきました。]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:553px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img04.png"><![CDATA[ビジネスチーム]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[チームはOneDriveを使用して、グローバルな顧客と協力しています。 プロジェクトマネージャー自身が顧客の国にハードコピーを送信することが許可されていないため、あなたに技術情報をアップロードするよう求めてきました。]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[解決策]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 643px;top: 8px;height: 60px;">
+				<text style=""><![CDATA[処理の前にそれが実際に行われており、ライセンスが必要かどうか確認する]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img05.png"><![CDATA[電話中の従業員 ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 79px;height: 60px;">
+				<text><![CDATA[丁重に断ります。 ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img06.png"><![CDATA[生真面目な男性のクローズアップ]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 643px;top: 150px;height: 60px;">
+				<text><![CDATA[会話を延期するよう求めめます。]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img07.png"><![CDATA[電話中の従業員]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 221px;height: 60px;">
+				<text><![CDATA[断ります。]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img08.png"><![CDATA[電話中の従業員]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[そうです。すべての回答を正解にマッチさせました。]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[不正解です。 では、それぞれの解決策をクリックし、さらに理解を深めましょう。]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top:183px">
+				<text style=""><![CDATA[この状況で実行するなら、前もってサンプルを発送するのが最適です。 貿易担当が手持ちでの運搬を許可されている場合、国を出入する際に何を運んでいるか、顧客に適切に開示する必要があります。]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top:183px">
+				<text style=""><![CDATA[シリアなど規制されている国から来ている人物に製品サンプルを共有することは禁止されているため、この状況では丁重に断りましょう。]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:183px">
+				<text style=""><![CDATA[この情報を共有する前に、詳細情報が必要です。 この情報をこの人物に共有可能かどうか、貿易コンプライアンスの専門家とダブルチェックします。]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:183px">
+				<text style=""><![CDATA[依頼を拒否する必要があります。 物質的な文書を輸出することが禁止されている場合、同じ文書の電子バージョンにも同じ規制が適用されます。]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

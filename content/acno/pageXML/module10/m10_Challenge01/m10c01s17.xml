@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Eduardo está sugiriendo que visiten un popular club de caballeros cercano. El resto del equipo parece estar interesado en ir.]]></text>
+		<text><![CDATA[¿Cómo debería responder Jian?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[Restaurante]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Visitar el club con Eduardo y su equipo, pero insistir en pagar para que la atención de cortesía de Eduardo no sea excesiva.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Ir por un trago para ser amable y evitar avergonzar a Eduardo, pero no debe quedarse mucho tiempo.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Rechazar amablemente la invitación e irse a su casa.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian tiene razón al pensar en cuántas atenciones de cortesía está aceptando, pero hay otro asunto que debe considerar.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Aunque Jian tenía la intención de quedarse poco tiempo con Eduardo y su equipo, esto generó problemas imprevistos para Jian y para Johnson Controls.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Esta es una opción segura.]]></text>
+		</correct>
+	</feedback>
+</contents>

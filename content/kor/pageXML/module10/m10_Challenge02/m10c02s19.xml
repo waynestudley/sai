@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Tom은 Emma에게 Johnson Controls 고객인 유명 인사의 주소를 알려줄 것을 부탁하고 있습니다. Tom은 Emma에게 주소를 알려주면 수익을 배분해 주겠다고 제안합니다. Emma는 어떻게 해야 할까요?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[돈을 받고 싶은 것은 아니지만 어쨌든 주소 목록을 준다는 점을 Tom에게 분명히 밝힙니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Tom에게 주소 목록을 제공하기를 거절하되, 그녀가 관련되어 있다고 여겨질 경우에 대비해 아무에게도 말하지 않습니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Tom에게 주소 목록을 제공하기를 거절하고 그 상황을 상사에게 보고합니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Emma가 Tom에게 주소를 제공한다는 데 동의하면 그녀가 그의 수익금 일부를 받지 않더라도 두 사람 모두 위험에 처하게 됩니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma가 Tom에게 주소 목록을 제공하기를 거절한 것은 옳은 행동이었지만 그녀는 그의 요청 자체도 문제가 있음을 인식해야 합니다.]]></text>
+			<text><![CDATA[Emma는 상사나 법무 부서의 일원과 이야기해야 합니다. Tom이 계속해서 이 요청을 할 경우 이는 회사에 프라이버시 침해 위험을 초래하게 될 수 있습니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma는 Tom에게 주소를 제공하기를 거절하고 또한 그의 요청을 상사에게 보고함으로써 올바른 행동을 했습니다. 그녀가 Tom에게 그 정보를 제공했다면 그녀는 고객 프라이버시를 침해했을 것입니다. 또한, 그녀는 제보를 하여 회사가 그러한 사고를 방지하도록 도왔습니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[Senario ini hadir dalam kehidupan sebenar pekerja Johnson Controls. Apakah yang akan anda lakukan dalam situasi ini? Buat satu pilihan dan kemudian, klik Serah.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Anda seorang pengurus kategori dalam mesyuarat rutin dengan pembeli pelanggan. Semasa mesyuarat, anda membuka pangkalan data bagi harga dan jumlah jualan pelanggan untuk menjawab soalan pelanggan. Ketika pelanggan melihat melalui bahu anda, dia berkeras supaya anda menghantar keseluruhan fail. Apakah yang anda akan lakukan?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[Pengurus kategori dalam mesyuarat dengan pembeli pelanggan]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;line-height:20px;">
+		<text><![CDATA[Buat satu pilihan dan kemudian, klik Serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px;line-height:18px;">
+		<option><![CDATA[Berkongsi pangkalan data dengan pelanggan. Kejayaan pelanggan kami ialah keutamaan utama kami]]></option>	
+		<option><![CDATA[Terangkan bahawa pangkalan data tersebut termasuk maklumat berkaitan dengan pelanggan lain, jadi anda tidak boleh kongsikannya. Jika pelanggan berkeras, tamatkan mesyuarat dan hubungi pengurus anda atau pasukan Undang-undang untuk mendapatkan panduan]]></option>	
+		<option><![CDATA[Bersetuju untuk berkongsi pangkalan data dengan pelanggan tetapi hanya selepas dia menandatangani perjanjian tidak boleh dedah]]></option>	
+		<option><![CDATA[Hubungi peguam dan mulakan litigasi terhadap pelanggan sebelum dia boleh menggunakan maklumat proprietari dalam perniagaannya sendiri]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-234px">
+			<text style="font-size:17px;"><![CDATA[Itu betul.]]></text>
+			<text style="line-height:18px;"><![CDATA[Data pelanggan, seperti butiran kenalan dan perbankan, sentiasa diberikan kepada Johnson Controls dengan harapan supaya kita menyimpannya secara sulit.]]></text>
+			<text style="line-height:18px;"><![CDATA[Data proprietari pelanggan jenis ini tidak boleh dikongsikan sama sekali dengan pelanggan Johnson Controls.]]></text>
+			<text style="line-height:18px;"><![CDATA[Beberapa keadaan perkongsian maklumat ini boleh jadi: <ul> <li>kita boleh disaman oleh pelanggan yang maklumat mereka telah didedahkan</li> <li>kita boleh dituduh menetapkan harga</li> <li>kita boleh meletakkan hak Harta Intelektual pangkalan data kita berisiko</li> <li>kita boleh membahayakan kebolehan kita untuk menawarkan perkhidmatan kategori kepada pelanggan</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-234px">
+			<text style="font-size:17px;"><![CDATA[Itu salah.]]></text>
+			<text style="line-height:18px;"><![CDATA[Data pelanggan, seperti butiran kenalan dan perbankan, sentiasa diberikan kepada Johnson Controls dengan harapan supaya kita menyimpannya secara sulit.]]></text>
+			<text style="line-height:18px;"><![CDATA[Data proprietari pelanggan jenis ini tidak boleh dikongsikan sama sekali dengan pelanggan Johnson Controls.]]></text>
+			<text style="line-height:18px;"><![CDATA[Beberapa keadaan perkongsian maklumat ini boleh jadi: <ul> <li>kita boleh disaman oleh pelanggan yang maklumat mereka telah didedahkan</li> <li>kita boleh dituduh menetapkan harga</li> <li>kita boleh meletakkan hak Harta Intelektual pangkalan data kita berisiko</li> <li>kita boleh membahayakan kebolehan kita untuk menawarkan perkhidmatan kategori kepada pelanggan</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

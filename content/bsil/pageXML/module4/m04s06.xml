@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m04s06">
+	<transcript>
+		<text path="audio/module4/m04s06" id="0"><![CDATA[Para proteger os dados pessoais, lembre-se: restringir, proteger e excluir.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Nossos fornecedores, clientes e funcionários valorizam a privacidade e esperam que seus dados sejam protegidos por nós. Ao processar dados pessoais, como coletar, copiar, corrigir, armazenar, excluir ou tomar alguma outra medida em relação a eles, devemos defender três princípios-chave: restringir, proteger e excluir. Leia cada painel abaixo para saber mais.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Clique em cada botão revelar para saber mais. Role para baixo para ler a resposta completa.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[REVELAR]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img1.png" style=""><![CDATA[Funcionário ao telefone e trabalhando no laptop com dados pessoais]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Restringir]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Processe os dados pessoais apenas mediante o consentimento da pessoa ou quando necessário para finalidades comerciais legítimas. <ul><li>Nunca colete os dados pessoais sem uma finalidade comercial clara e legítima.</li><li>Certifique-se de que os dados pessoais coletados sejam adequados, relevantes e não excessivos para a finalidade comercial. Nunca colete mais dados pessoais do que o necessário.</li><li>Utilize dados pessoais somente com o objetivo para o qual foram coletados.</li></ul>]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img2.png" style=""><![CDATA[Ícone de criptografia]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Proteger]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Certifique-se de que os dados pessoais sejam protegidos contra uso não autorizado e perdas, danos ou destruições acidentais.<ul><li>Apenas os funcionários e prestadores de serviços autorizados e com uma necessidade válida podem acessar os dados pessoais.</li><li>Mantenha apenas cópias digitais dos dados sempre que possível e proteja os arquivos contra uso não autorizado, criptografando ou colocando uma senha segura. Cópias impressas podem ser extraviadas ou acessadas com mais facilidade e devem ser mínimas ou evitadas sempre que possível.</li><li>Nunca salve os dados pessoais em arquivos ou diretórios compartilhados que podem ser acessados por pessoas sem a necessidade ou autoridade para vê-los.</li><li>Evite manter registros eletrônicos em vários locais, sem consistência de manutenção.</li></ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module4/m04s06/img3.png" style=""><![CDATA[Ícone de lixeira no teclado]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Excluir]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[Guarde os dados pessoais apenas pelo tempo exigido por lei, ou pelo tempo relevante para a finalidade comercial original para a qual foram coletados.<ul><li>Revise os dados periodicamente para garantir que estejam atualizados, corretos e relevantes às finalidades comerciais para as quais foram coletados originalmente.</li><li>Descarte os dados de forma segura assim que não forem mais necessários, picotando-os ou colocando-os em lixeiras de descarte confidencial, se houver em seu local.</li></ul>]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

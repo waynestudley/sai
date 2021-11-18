@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;">
+		<text><![CDATA[Výběrem jednotlivých nadpisů zobrazíte další informace.]]></text>
+		<text><![CDATA[Klikněte na tlačítko Další – zkuste to znovu a přehodnoťte své rozhodnutí.]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">			
+			<buttonText style=""><![CDATA[Když se pije příliš]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Několik členů skupiny se velmi opije a jeden člověk spadne ze schodů a zlomí si ruku. Je nutné místo něj najmout nového pracovníka, který je ale mnohem pomalejší, a projekt se tím zpozdí. ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">
+			<buttonText><![CDATA[Zákazník je nespokojený.]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Zákazník vyslechne několik rozhovorů a uvědomí si, že zpoždění projektu je způsobeno událostí, při které Carlos platil některým pracovníkům drinky ve sportovním baru. Zatelefonuje Carlosovu nadřízenému a stěžuje si. ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="138">
+			<buttonText><![CDATA[Příspěvky na Facebooku]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Jeden ze subdodavatelů zveřejnil fotografii nehody na Facebooku. Ve svém příspěvku napíše: „to bylo naposledy, co jsem pil s týmem Johnson Controls...“ ]]></text>					
+				<text><![CDATA[Carlos by rád věděl, zda zraněný subdodavatel nemůže společnost žalovat.]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="graphicReveal1" className="m10c03s06">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>		
+	</transcript>
+	<pageTitle style="width: 354px;"></pageTitle>
+	<contentBg style="width: 456px;right: 30px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px;" ></contentBg>
+	<contentText >
+		<text style=""><![CDATA[Carlos is at another location, working with a client, Hilde, on a system update. That afternoon, Ingrid, a Johnson Controls sales representative, comes by to meet with Hilde about renewing their contract.]]></text>
+		<text style=""><![CDATA[Ingrid knows Hilde is taking bids from other companies. To strengthen the relationship, she offers to take both Hilde and Carlos out to dinner. Later that night, when Ingrid arrives at the restaurant, Hilde is already seated at the table.]]></text>
+	</contentText>	
+	 <contentBackground  >		
+		<img path="content/images/ltr/module10/m10c03/m10c03s06/contentBackground.jpg" minwidth="769" className="bg-pos-left-bottom"><![CDATA[]]></img>
+	</contentBackground>	
+	<revelCollOut style="width: 450px;left: 0px;top:-200px;height:210px;position: relative;">		
+		<img path=""  ><![CDATA[]]></img>	
+		<text style="" ><![CDATA[Hi, Ingrid. We got here early – and I hope you don’t mind, but I’ve already ordered wine for the table. It’s expensive but I absolutely love it. I couldn’t resist!]]></text>
+	</revelCollOut>	
+	<instructionText >
+		<text><![CDATA[Click on Hilde.]]></text>
+		<text ><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<RevealButton style="top:10px;left: 0px;width: 450px;height: 210px;position: relative;">
+		<buttonImg path="content/images/ltr/module10/m10c03/m10c03s06/img_01.png" style="width:450px;height:165px;"><![CDATA[]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width:450px;height:210px;"><![CDATA[Hilde]]></buttonText>		
+	</RevealButton>
+	
+	
+	<tickCross left="145px" bottom="284px" ></tickCross>
+</contents>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m08s10" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module8/m08s10"><![CDATA[ดังนั้น จงปฏิบัติตามสิ่งเหล่านี้ในชีวิตจริง คุณจะดำเนินการอย่างไรต่อสถานการณ์เช่นนี้ จับคู่แต่ละสถานการณ์ทางด้านซ้ายกับคำตอบทางด้านขวาและกด ส่ง]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[พิสูจน์ให้เห็นว่าคุณรู้ว่าต้องทำอะไรในแต่ละสถานการณ์ ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module8/m08s10/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top: -15px;"><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[เลือกข้อมูลจากแถวแรก จากนั้นลากลูกศรไปเพื่อจับคู่กับวิธีแก้ปัญหาในแถวสอง เมื่อเสร็จแล้วให้คลิก “ส่ง”]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="990" lineHolderH="250">
+		<leftSideTabs>
+			<heder><![CDATA[สถานการณ์]]></heder>
+			
+			<tab id="1" style="height:100px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 100px;">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img01.png"><![CDATA[คนกำลังจับชิ้นส่วน]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[คุณทำงานร่วมกับซัพพลายเออร์ซึ่งกำลังประมูลส่วนประกอบสำหรับผลิตภัณฑ์ใหม่ ]]></text>				
+			</tab>			
+			<tab id="2" style="height:100px" dragPosition="left:430px; top:119px;z-index:5;height:100px">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img02.png"><![CDATA[คนกำลังเลือกไอคอนเปิดอีเมล]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[คุณกำลังเปิดเอกสารที่คุณต้องทำให้เสร็จ ดังนั้นคุณจึงคิดที่จะส่งอีเมลไปหาตัวเองที่บ้าน]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[วิธีแก้ปัญหา]]></heder>
+			<tab id="2" style="height:100px" dropPosition="left: 528px;top: 8px;height: 100px;">
+				<text style=""><![CDATA[หาวิธีอื่นในการเข้าถึงเอกสาร เพราะอีเมลอาจสูญหาย ถูกแฮ็ก หรือถูกขโมยได้]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img04.png"><![CDATA[ไอคอนโฟลเดอร์]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:100px" dropPosition="left: 528px;top: 119px;height: 100px;">
+				<text><![CDATA[เรียกร้องให้พวกเขาเซ็นเอกสารข้อตกลงเก็บรักษาความลับ ก่อนแชร์ข้อมูลผลิตภัณฑ์ใหม่ และจัดให้ข้อมูลนั้นเป็นความลับ ]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img03.png"><![CDATA[คนกำลังเซ็นสัญญาเก็บรักษาความลับ]]></rightIcon>
+			</tab>	
+		</rightSideTabs>		
+		<feedback type="normal">
+			<correct id="1" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[ใช่แล้ว คุณจับคู่ถูกทุกข้อเลย ]]></text>
+			</correct>			
+			<incorrect id="2" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[ไม่ถูกต้อง]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[Ověřte si, zda rozumíte tomu, co je a co není přijatelné, pokud jde o pohoštění. Označte následující položky jako přijatelné nebo nepřijatelné a pak klikněte na tlačítko Odeslat.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[Číšník přináší účet]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;right: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Rozhodněte, zda je uvedené jednání přijatelné, nebo nepřijatelné.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[U každé položky vyberte možnost Přijatelné nebo Nepřijatelné a pak klikněte na tlačítko Odeslat.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img01.png"><![CDATA[Čtyři vstupenky na sportovní akci]]></img>
+			<text style="width: 356px;"><![CDATA[Dodavatel vám nabízí čtyři vstupenky a zve vás, abyste se spolu s ním zúčastnili významné sportovní akce. Každá ze vstupenek má hodnotu přibližně 100 USD, a proto je nutné před jejich přijetím nabídku nahlásit.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img02.png"><![CDATA[Zaměstnanec procházející cenovou nabídku]]></img>
+			<text style="width: 356px;"><![CDATA[Zjistíte, že společnost právě zvažuje cenovou nabídku tohoto dodavatele, ale protože se procesu výběru přímo neúčastníte, rozhodnete se vstupenky přijmout.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img04.png"><![CDATA[Zaměstnanec hovoří s dodavatelem]]></img>	
+			<text style="width: 356px;"><![CDATA[Jiný dodavatel, který se neúčastní žádného aktivního výběrového řízení, vám nabídne jiné vstupenky na menší akci, přičemž hodnota jedné vstupenky je 20 USD. Vy je odmítnete a raději přijmete vstupenky na významnou akci.]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[Přijatelné]]></text>
+		<text styleWidth="width:110px;"><![CDATA[Nepřijatelné]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -95px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Správně.]]></text>			
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>Hodnota vstupenek na významnou akci přesahuje 200 USD, a proto je nutné vstupenky nahlásit.</li> <li>V případě odběratelů a dodavatelů byste nikdy neměli poskytnout ani přijmout dar či pohoštění v době, kdy se jedná o cenové nabídce, zakázce nebo smlouvě.</li><li>Hodnota těchto vstupenek je vhodnější, ale i toto pohoštění by bylo nevhodné, dojde-li k pokusu vás nepřípustně ovlivnit.</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -95px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[To není správně.]]></text>	
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>Hodnota vstupenek na významnou akci přesahuje 200 USD, a proto je nutné vstupenky nahlásit.</li> <li>V případě odběratelů a dodavatelů byste nikdy neměli poskytnout ani přijmout dar či pohoštění v době, kdy se jedná o cenové nabídce, zakázce nebo smlouvě.</li><li>Hodnota těchto vstupenek je vhodnější, ale i toto pohoštění by bylo nevhodné, dojde-li k pokusu vás nepřípustně ovlivnit.</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

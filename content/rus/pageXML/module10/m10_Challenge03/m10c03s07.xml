@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Ингрид подозревает, что вино, которое заказала Хильда, очень дорогое. Как ей следует поступить? ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Выберите один из вариантов и щелкните «ОК».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Не вмешиваться в ход развития событий и надеяться, что в ее отчете о расходах за обед никто не заметит цену вина.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Не вмешиваться в ход развития событий, ведь она не может отказаться оплачивать вино, не создав при этом неловкой ситуации. Однако, она намеревается попросить отдельный счет для вина и оплатить его за свой счет.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Поговорить с Хильдой наедине до того, как обслуживающий персонал принесет вино, и сказать ей, что ее компания не одобрит цену вина. Либо Хильде придется оплатить его за свой счет или им следует заказать бутылку по более доступной цене.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОК]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Ингрид оплачивает обед и предоставляет отчет о расходах.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Ингрид оплачивает обед и предоставляет отчет о расходах, в который не включено вино.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Хильду, кажется, удивили слова Ингрид о том, что она не может оплатить вино. Но в конце вечера она просит два отдельных чека и оплачивает его за свой счет.]]></text>
+		</correct>
+	</feedback>
+</contents>

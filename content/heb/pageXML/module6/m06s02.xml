@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[מה ידוע לך על המטרות שאותן מקדמים חוקי ההגבלים העסקיים? בחר את כל האפשרויות שאתה חושב שהן נכונות, ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[איזו מטרה משרתים חוקי ההגבלים העסקיים?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[מאזני הצדק]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;left: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[בחר את כל האפשרויות המתאימות]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[ייתכן שיש יותר מתשובה אחת נכונה.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[קידום הבחירה של הצרכנים]]></option>	
+		<option><![CDATA[הצגת מחסומי מסחר]]></option>	
+		<option><![CDATA[מניעת הצמיחה בתעשיות מסוימות]]></option>	
+		<option><![CDATA[עידוד התקשרויות עסקיות הוגנות]]></option>	
+		<option><![CDATA[תגמול על חדשנות ועל שיפור מתמיד]]></option>	
+		<option><![CDATA[הענשת חברות מצליחות מדי]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-244px;">
+			<text style=""><![CDATA[נכון.]]></text>
+			<text style=""><![CDATA[המטרה של חוקי ההגבלים העסקיים היא להבטיח שחברות יצליחו מהסיבות הנכונות: מאחר שהן מציעות את המוצרים, השירותים והמחירים הטובים ביותר. אין בכוונתם להעניש על הצלחה, למנוע צמיחה או להציב מחסומי מסחר.]]></text>
+			<text style=""><![CDATA[חוקי ההגבלים העסקיים משפיעים על הדרך שבה אנו יוצרים אינטראקציה עם העולם החיצוני, כולל מתחרים, ספקים, מפיצים ולקוחות.]]></text>
+			<text style="margin-bottom:50px;"><![CDATA[חשוב מאוד לדעת כיצד חוקי ההגבלים העסקיים חלים עליך ולהבטיח שתציית לחוקים אלה בכל מקום שבו אתה עובד ועושה עסקים במודול זה, נלמד את עקרונות חוקי התחרות ואת שיטות העבודה המשויכות אליהם.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-244px; ">
+			<text style=""><![CDATA[לא נכון.]]></text>
+			<text style=""><![CDATA[המטרה של חוקי ההגבלים העסקיים היא להבטיח שחברות יצליחו מהסיבות הנכונות: מאחר שהן מציעות את המוצרים, השירותים והמחירים הטובים ביותר. אין בכוונתם להעניש על הצלחה, למנוע צמיחה או להציב מחסומי מסחר.]]></text>
+			<text style=""><![CDATA[חוקי ההגבלים העסקיים משפיעים על הדרך שבה אנו יוצרים אינטראקציה עם העולם החיצוני, כולל מתחרים, ספקים, מפיצים ולקוחות.]]></text>
+			<text style="margin-bottom:50px;"><![CDATA[חשוב מאוד לדעת כיצד חוקי ההגבלים העסקיים חלים עליך ולהבטיח שתציית לחוקים אלה בכל מקום שבו אתה עובד ועושה עסקים במודול זה, נלמד את עקרונות חוקי התחרות ואת שיטות העבודה המשויכות אליהם.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

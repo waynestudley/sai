@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[أي من هذه السيناريوهات تعتقد أنه يمكن أن يكون منطويًّا على مشاكل؟]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[هل تعتقد أن هذه النماذج يمكن أن يُنظر إليها بوصفها رشوة؟]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[رجال أعمال]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;left: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[حدد <span class="fontBold">كل</span> السيناريوهات التي تنطوي على مشاكل، ثم انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[قد تكون هناك أكثر من إجابة صحيحة واحدة.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[أن تتعهد لزبون بهدية نقدية في مقابل قرار لصالحك في مجال العمل]]></option>
+		<option><![CDATA[متعهد من الباطن يريد العمل معك يدعوك إلى العديد من المأدبات والفعاليات الرياضية]]></option>
+		<option><![CDATA[أن تنظم حملة تبرعات لصالح حملة خاصة بمسؤول حكومي تعتبره زبونًا محتملاً]]></option>
+		<option><![CDATA[يوظف مديرك ابنة الزبون في مقابل موافقته على تمديد عقده الحالي]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[هذا صحيح.]]></text>
+			<text><![CDATA[في الحقيقة، كل هذه السيناريوهات يمكن أن تمثل رشاوى حسب الظروف المحيطة بها. إن قصد التأثير عامل رئيسي، لكن من المهم كذلك أن تتذكر أن حتى الظهور في مظهر الريبة في ما يخص الرشاوى يمكن أن تترتب عليه مشاكل لشركة Johnson Controls، لذلك عليك أن تفكر في الأمر قبل أن تهمّ باتخاذ إجراء!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[هذا ليس صحيحًا.]]></text>
+			<text><![CDATA[في الحقيقة، كل هذه السيناريوهات يمكن أن تمثل رشاوى حسب الظروف المحيطة بها. إن قصد التأثير عامل رئيسي، لكن من المهم كذلك أن تتذكر أن حتى الظهور في مظهر الريبة في ما يخص الرشاوى يمكن أن تترتب عليه مشاكل لشركة Johnson Controls، لذلك عليك أن تفكر في الأمر قبل أن تهمّ باتخاذ إجراء!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

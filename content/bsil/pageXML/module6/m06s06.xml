@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s06">
+	<transcript>
+		<text path="audio/module6/m06s06" id="0"><![CDATA[O que mais pode ser feito para evitar o abuso de mercado? Clique em cada botão revelar para saber mais.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Quando ocupamos uma posição dominante, precisamos evitar ações ou estratégias que podem ser consideradas abuso dessa posição.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s06/contentBackground.jpg" minwidth="769"><![CDATA[Escritório ao fundo de duas pessoas discutindo estratégias]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Clique em cada botão revelar para saber mais. Role para baixo para ler a resposta completa.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[REVELAR]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s06/img1.png"><![CDATA[Grupo de produtos]]></buttonImg>
+			<buttonText style="height:90px;width:167px;line-height:16px;"><![CDATA[Venda casada]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Isto acontece quando uma empresa agrupa seus produtos e não os disponibiliza para compra separadamente.]]></text>						
+				<text><![CDATA[O resultado final é que o consumidor é forçado a comprar um produto que ele pode não querer a fim de comprar o produto que realmente quer.]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s06/img2.png"><![CDATA[Comprador e vendedor analisando o preço de um produto]]></buttonImg>
+			<buttonText style="height:90px;width:167px;line-height:16px;"><![CDATA[Negociação exclusiva]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Isto acontece quando o comprador é forçado a comprar a maioria dos ou todos os produtos ou serviços de um vendedor, geralmente durante um período determinado.]]></text>					
+				<text><![CDATA[A Comissão Europeia multou a Intel em 1,06 bilhões de euros por conceder descontos de fidelidade aos clientes para excluir outros concorrentes do mercado. Os descontos eram condicionais à compra de todos ou quase todos os requisitos do empreendimento dominante.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img3.png"><![CDATA[Ilustração de 50% de desconto em um carrinho de compras]]></buttonImg>
+			<buttonText style="height:90px;width:167px;line-height:16px;"><![CDATA[Preço predatório]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Isto acontece quando uma empresa vende aos clientes por um preço artificialmente baixo e incorre um prejuízo intencional.]]></text>			
+				<text><![CDATA[Geralmente, as empresas fazem isso para eliminar os concorrentes que não conseguem sustentar os preços em um nível tão baixo e, portanto, acabam saindo do mercado.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img4.png"><![CDATA[Tabela mostrando aumento no preço]]></buttonImg>
+			<buttonText style="height:90px;width:167px;line-height:16px;"><![CDATA[Recusa de negociação]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Isto acontece quando uma empresa recusa vender para outra ou apenas venderá por um preço inviavelmente alto.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img5.png"><![CDATA[Acordo verbal para evitar que o distribuidor venda para determinados clientes]]></buttonImg>
+			<buttonText style="height:90px;width:167px;line-height:16px;"><![CDATA[Prevenção de concorrência intramarcas]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Isto acontece quando as empresas fazem acordos com distribuidores para evitar que façam vendas em certos territórios ou para certos clientes.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

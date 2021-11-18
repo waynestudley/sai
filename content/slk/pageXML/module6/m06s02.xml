@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[Koľko viete o tom, čo presadzujú zákony o hospodárskej súťaži? Vyberte všetky možnosti, ktoré si myslíte, že sú pravdivé, a potom kliknite na tlačidlo Odoslať.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Na aký účel slúžia zákony o hospodárskej súťaži?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[Váhy spravodlivosti]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Vyberte všetky, ktoré platia.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Správnych môže byť viac odpovedí.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:12px 15px 17px">
+		<option><![CDATA[Podporovať výber spotrebiteľov]]></option>	
+		<option><![CDATA[Zaviesť obchodné prekážky]]></option>	
+		<option><![CDATA[Odradiť rast v určitých odvetviach]]></option>	
+		<option><![CDATA[Podporovať férové obchodné rokovania]]></option>	
+		<option><![CDATA[Odmeňovať inovácie a neustále zlepšovanie]]></option>	
+		<option><![CDATA[Potrestať spoločnosti, ktoré sú príliš úspešné]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-235px">
+			<text><![CDATA[To je správne.]]></text>
+			<text><![CDATA[Cieľom zákonov o hospodárskej súťaži je zabezpečiť, aby spoločnosti boli úspešné zo správnych dôvodov: pretože ponúkajú najlepšie produkty, služby a ceny. Nie sú určené na potrestanie úspechu, odrádzanie od rastu alebo zavedenie obchodných prekážok.]]></text>
+			<text><![CDATA[Zákony o hospodárskej súťaži ovplyvňujú spôsob našej interakcie s okolitým svetom, a to vrátane konkurentov, dodávateľov, distribútorov a zákazníkov.]]></text>
+			<text><![CDATA[Je veľmi dôležité, aby ste vedeli, ako sa na vás vzťahujú zákony o hospodárskej súťaži, a že dodržiavate tieto zákony všade tam, kde pracujete a uzatvárate obchody. V tomto module budú obsiahnuté zásady zákona o hospodárskej súťaži a postupy.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-235px">
+			<text><![CDATA[To nie je správne.]]></text>
+			<text><![CDATA[Cieľom zákonov o hospodárskej súťaži je zabezpečiť, aby spoločnosti boli úspešné zo správnych dôvodov: pretože ponúkajú najlepšie produkty, služby a ceny. Nie sú určené na potrestanie úspechu, odrádzanie od rastu alebo zavedenie obchodných prekážok.]]></text>
+			<text><![CDATA[Zákony o hospodárskej súťaži ovplyvňujú spôsob našej interakcie s okolitým svetom, a to vrátane konkurentov, dodávateľov, distribútorov a zákazníkov.]]></text>
+			<text><![CDATA[Je veľmi dôležité, aby ste vedeli, ako sa na vás vzťahujú zákony o hospodárskej súťaži, a že dodržiavate tieto zákony všade tam, kde pracujete a uzatvárate obchody. V tomto module budú obsiahnuté zásady zákona o hospodárskej súťaži a postupy.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

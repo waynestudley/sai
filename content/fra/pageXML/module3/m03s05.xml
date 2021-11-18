@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[D’après vous, quels scénarios pourraient poser un problème ?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Pensez-vous que ces exemples pourraient être perçus comme des actes de corruption ?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[Hommes et femmes d'affaires]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 14px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Sélectionnez <span class="fontBold">tous</span> les scénarios problématiques, puis cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Plusieurs bonnes réponses sont possibles.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Vous promettez un don en espèces à un client en échange d’une décision commerciale favorable]]></option>
+		<option><![CDATA[Un sous-traitant intéressé par vos activités vous invite à plusieurs dîners et événements sportifs]]></option>
+		<option><![CDATA[Vous faites un don pour la campagne d'un représentant du gouvernement qui est un client potentiel]]></option>
+		<option><![CDATA[Votre responsable embauche la fille d’un client en échange d’un accord de prolongation du contrat existant avec ce client]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[C’est exact.]]></text>
+			<text><![CDATA[En réalité, tous ces scénarios peuvent être considérés comme des pots-de-vin en fonction des circonstances. L’intention d’influencer est un facteur essentiel mais il est également important de garder à l’esprit qu’un acte perçu comme de la corruption peut s’avérer problématique pour vous et pour Johnson Controls, alors réfléchissez avant d’agir !]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[C’est faux.]]></text>
+			<text><![CDATA[En réalité, tous ces scénarios peuvent être considérés comme des pots-de-vin en fonction des circonstances. L’intention d’influencer est un facteur essentiel mais il est également important de garder à l’esprit qu’un acte perçu comme de la corruption peut s’avérer problématique pour vous et pour Johnson Controls, alors réfléchissez avant d’agir !]]></text>
+		</incorrect>
+	</feedback>
+</contents>

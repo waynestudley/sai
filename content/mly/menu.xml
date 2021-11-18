@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <transcript>
+        <text path="" id="0"><![CDATA[]]></text>        
+        <text path="" id="1"><![CDATA[]]></text>        
+    </transcript>
+	<contentBg style="top:10px;right:17px;padding:0px;width:992px;" chanStyle="width:846px;margin: 0 auto;right:0;float:none;"></contentBg>
+	<pageTitle style="margin-bottom:5px;padding:15px 15px 0;"></pageTitle>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/menuBg.jpg" minwidth="769"><![CDATA[Pekerja Johnson Controls]]></img>	
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/submenuBg.jpg" minwidth="769"><![CDATA[Pekerja Johnson Controls]]></img>	
+	</contentBackground>
+	<nextLockAlertPopupText>
+        <text><![CDATA[Anda mesti klik pada semua bahagian sebelum anda boleh teruskan.]]></text>
+        <text><![CDATA[Pilih respons dan kemudian, klik OK untuk teruskan.]]></text>
+        <text><![CDATA[Sila tonton video sepenuhnya sebelum teruskan.]]></text>
+        <buttonText>
+            <text><![CDATA[OK]]></text>
+        </buttonText>
+    </nextLockAlertPopupText>	
+    <closeCourse>
+        <text><![CDATA[Adakah anda pasti untuk keluar daripada kursus?]]></text>
+        <buttonText>
+            <text><![CDATA[Ya]]></text>
+            <text><![CDATA[Tidak]]></text>
+        </buttonText>
+    </closeCourse>	
+    <title>
+        <text><![CDATA[Menu Utama ]]></text>
+        <text><![CDATA[Cabaran]]></text>
+        <text><![CDATA[Menggunakan Kod Etika: Menjalankan Perniagaan dengan Integriti]]></text>
+        <text><![CDATA[Cabaran Kod Etika]]></text>
+    </title>	
+    <instructionText style="margin-bottom:0px;padding:0px 15px 15px;">
+        <text><![CDATA[Pilih modul.]]></text>
+        <text><![CDATA[Pilih cabaran.]]></text>		
+        <text><![CDATA[Pilih modul untuk menyemak semula pelajaran anda atau klik Tutup.]]></text>		
+        <text><![CDATA[Klik pada butang Laman Utama untuk kembali ke menu Laman Utama.]]></text>		
+        <text><![CDATA[Klik pada butang LAMAN UTAMA untuk kembali ke menu utama dan lengkapkan latihan anda. ]]></text>		
+    </instructionText>
+	
+    <contentText>
+        <text><![CDATA[Selamat datang ke Gunakan Kod Etika: Menjalankan Perniagaan dengan Integriti.]]></text>
+        <text><![CDATA[Bagi menerima kredit untuk kursus ini dan mengakses ke sijil pelengkapan, anda perlu berjaya melengkapkan semua modul kursus yang diserlahkan. Ini dipaparkan dalam warna penuh. ]]></text>
+        <text><![CDATA[Anda juga boleh melihat modul yang diwarnakan kelabu dan tandakan "Pilihan" kerana peranan anda atau prestasi anda pada penilaian awal. Anda boleh mengakses ke modul ini, tetapi anda tidak perlu untuk melengkapkannya melainkan anda mahu melengkapkannya.]]></text>			
+        <text><![CDATA[]]></text>			
+    </contentText>
+	
+    <buttonText>
+        <text><![CDATA[Mula]]></text>
+    </buttonText>
+	<optionalText>
+        <text><![CDATA[Pilihan]]></text>
+    </optionalText>
+    <bookMark>
+        <text><![CDATA[Adakah anda ingin Teruskan ke<br />halaman yang terakhir dilawati?]]></text>
+        <buttonText>
+            <text><![CDATA[Teruskan]]></text>
+            <text><![CDATA[Mulakan semula]]></text>
+        </buttonText>
+    </bookMark>
+    <monthArr>
+        <text><![CDATA[Januari]]></text>
+        <text><![CDATA[Februari]]></text>
+        <text><![CDATA[Mac]]></text>
+        <text><![CDATA[April]]></text>
+        <text><![CDATA[Mei]]></text>
+        <text><![CDATA[Jun]]></text>
+        <text><![CDATA[Julai]]></text>
+        <text><![CDATA[Ogos]]></text>
+        <text><![CDATA[September]]></text>
+        <text><![CDATA[Oktober]]></text>
+        <text><![CDATA[November]]></text>
+        <text><![CDATA[Disember]]></text>
+    </monthArr>
+    <module id="1" imgPath="content/images/ltr/menuImages/Module_01.png" imgPopPath="content/images/ltr/menuImages/Module_01_popup.png">
+        <title><![CDATA[Konflik Kepentingan]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Konflik kepentingan berlaku apabila anda memiliki kepentingan peribadi yang boleh bercanggah dengan kepentingan syarikat, yang boleh menjejaskan kebolehan anda untuk membuat keputusan perniagaan yang baik.</p><p>Pelajari cara untuk mengenal pasti dan mengelakkan konflik kepentingan dalam kerja anda untuk Johnson Controls.</p><span>Masa diperlukan: 6 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[Selamat datang ke: Mengelakkan Konflik Kepentingan.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Konflik berpotensi dalam keadaan biasa]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Mengenal pasti konflik kepentingan]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Mengenal pasti konflik kepentingan]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Kes kajian: Konflik kepentingan boleh membahayakan syarikat]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Akibat konflik]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Cara untuk menangani konflik]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Ringkasan dan kenalan utama]]></title>
+        </page>			
+    </module>
+    <module id="2" imgPath="content/images/ltr/menuImages/Module_02.png" imgPopPath="content/images/ltr/menuImages/Module_02_popup.png">
+        <title><![CDATA[Menggunakan Hadiah dan Hiburan Dengan Wajar]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Saling bertukar hadiah atau hiburan boleh membantu membina hubungan perniagaan tetapi ia juga boleh mewujudkan masalah jika tidak dikendalikan dengan betul.</p><p>Ketahui cara untuk memastikan bahawa anda menawarkan atau menerima hanya hadiah dan hiburan yang wajar.</p><span>Masa diperlukan: 6 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[Selamat datang ke: Menggunakan Hadiah dan Hiburan Dengan Wajar.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Penilaian yang baik diperlukan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Benar atau Salah?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pertimbangan Hadiah dan Hiburan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Hadiah atau Hiburan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Giliran anda]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Lebih banyak tentang hadiah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Senarai semak hadiah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Giliran anda]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Lebih banyak tentang hiburan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Senarai semak hiburan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Giliran anda]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Berurusan dengan pegawai kerajaan]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Ringkasan dan kenalan utama]]></title>
+        </page>				
+    </module>
+    <module id="3" imgPath="content/images/ltr/menuImages/Module_03.png" imgPopPath="content/images/ltr/menuImages/Module_03_popup.png">
+        <title><![CDATA[Mengelakkan Rasuah dalam Perniagaan kita]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Reputasi kita bergantung pada cara kita melakukan perniagaan secara jujur dan adil. Rasuah dan sogokan adalah menyalahi undang-undang dan itu bukan cara kita bekerja.</p><p>Pelajari cara untuk mengenal pasti walaupun bentuk lembut rasuah dan sogokan, dan lindunginya daripada terlibat secara tanpa disedari dalam aktiviti jenayah berpotensi.</p><span>Masa diperlukan: 6 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[Selamat datang ke: Mengelakkan Rasuah dalam Perniagaan kita.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Mengenal pasti situasi berisiko]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Mengenal pasti rasuah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Mengenal pasti sogokan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Giliran anda]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kes kajian: Bekerjasama dan pendedahan penuh]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Cara anda boleh membantu menghalang rasuah dan sogokan]]></title>
+        </page>
+       <page>
+            <title><![CDATA[Akibat]]></title>
+        </page> 
+        <page>
+            <title><![CDATA[Bagaimanakah tentang bayaran pemudahan?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ringkasan dan kenalan utama]]></title>
+        </page>				
+    </module>
+    <module id="4" imgPath="content/images/ltr/menuImages/Module_04.png" imgPopPath="content/images/ltr/menuImages/Module_04_popup.png">
+        <title><![CDATA[Menyimpan Data Peribadi Dengan Selamat]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Kita semua bertanggungjawab untuk melindungi data peribadi pelanggan, pekerja dan rakan perniagaan.</p><p>Pelajari cara anda boleh membantu menyokong komitmen syarikat kita terhadap privasi data dan penggunaan media sosial secara bertanggungjawab.</p><span>Masa diperlukan: 6 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[Selamat datang ke: Menyimpan Data Peribadi Dengan Selamat]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kes yang mudah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Gambaran keseluruhan data peribadi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Mengapakah privasi data penting?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Mengenal pasti maklumat peribadi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Melindungi data peribadi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Memahami perlindungan data peribadi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Privasi dan media sosial]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kekal Selamat dalam Umum]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Perlindungan kata laluan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Adakah anda meletakkan data peribadi berisiko?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ringkasan dan kenalan utama]]></title>
+        </page>				
+    </module>
+    <module id="5" imgPath="content/images/ltr/menuImages/Module_05.png" imgPopPath="content/images/ltr/menuImages/Module_05_popup.png">
+        <title><![CDATA[Keperluan Dagangan untuk Menjalankan Perniagaan Secara Global ]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Sebagai syarikat global, Johnson Controls tertakluk pada julat kawalan luas yang ditubuhkan oleh organisasi antarabangsa dan kerajaan asing.</p><p>Pelajari cara kawalan dagangan boleh menjejaskan kerja anda dan perkara yang anda boleh lakukan untuk menyokong tanggungjawab dagangan syarikat kita.</p><span>Masa diperlukan: 6 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[Selamat datang ke: Keperluan Dagangan untuk Menjalankan Perniagaan Secara Global.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Permintaan luar negara]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Permintaan luar negara]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Permintaan luar negara]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Permintaan luar negara]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Permintaan luar negara]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Permintaan luar negara]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Cara untuk mengenal pasti eksport]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Sahkan pemahaman anda]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Mengapa kawalan dagangan wujud]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Apa yang anda perlu lakukan]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Giliran anda]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Ringkasan dan kenalan utama]]></title>
+        </page>				
+    </module>
+    <module id="6" imgPath="content/images/ltr/menuImages/Module_06.png" imgPopPath="content/images/ltr/menuImages/Module_06_popup.png">
+        <title><![CDATA[Menjual dengan Integriti]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Di Johnson Controls, kami menjual dengan integriti dan mematuhi undang-undang persaingan. Undang-undang ini memastikan keadilan dan kebebasan dalam pasaran dan melarang syarikat daripada menyalahgunakan kedudukan dominan.</p><p>Pelajari tentang komitmen syarikat terhadap persaingan adil, serta cara untuk mendukung standard kita dalam bidang ini.</p><span>Masa diperlukan: 6 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[Selamat datang ke: Menjual dengan Integriti.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Mengapa undang-undang persaingan wujud]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Mengenal pasti perjanjian tidak wajar]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Mengenal pasti persaingan tidak adil]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Menangani kedudukan dominan]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Mengelakkan Penyalahgunaan Dominan]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Kes kajian]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Mengelakkan pelanggaran undang-undang persaingan]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Ringkasan dan kenalan utama]]></title>
+        </page>				
+    </module>
+    <module id="7" imgPath="content/images/ltr/menuImages/Module_07.png" imgPopPath="content/images/ltr/menuImages/Module_07_popup.png">
+        <title><![CDATA[Melindungi Harta Intelektual]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Harta intelektual, seperti paten, tanda dagangan dan hak cipta, adalah penting kepada perniagaan Johnson Controls dan kita bertanggungjawab untuk melindunginya. </p><p>Pelajari cara tindakan anda boleh membantu melindungi harta intelektual kita daripada dicuri atau disalah guna.</p><span>Masa diperlukan: 6 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[Selamat datang ke: Melindungi Harta Intelektual Kita.]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Apakah itu Harta Intelektual?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Semak pemahaman anda]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Jenis Harta Intelektual]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Harga kehilangan IP]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Giliran anda]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Peranan anda]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Menggunakan tanda dagangan]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Apakah yang akan anda lakukan?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Ringkasan dan kenalan utama]]></title>
+        </page>				
+    </module>
+    <module id="8" imgPath="content/images/ltr/menuImages/Module_08.png" imgPopPath="content/images/ltr/menuImages/Module_08_popup.png">
+        <title><![CDATA[Melindungi Maklumat Sulit]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Anda boleh mengetahui maklumat sulit tentang syarikat, pelanggan atau perniagaan kita di tempat kerja.</p><p>Pelajari tentang keperluan Johnson Controls untuk mengendalikan dan melindungi maklumat seperti itu.</p><span>Masa diperlukan: 6 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[Selamat datang ke: Melindungi Maklumat Sulit.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Situasi yang berisiko]]></title>
+        </page>
+		<page>
+            <title><![CDATA[Situasi yang berisiko]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Situasi yang berisiko]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Situasi yang berisiko]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Bekerja dengan maklumat pada setiap hari]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Apakah yang perlu dikekalkan sulit?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Hadkan, Lindungi, Padam]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Apa yang anda boleh lakukan untuk melindungi maklumat sulit]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Giliran anda]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Gunakan NDA untuk menambahkan tahap perlindungan tambahan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ringkasan dan kenalan utama]]></title>
+        </page>
+    </module>
+    <module id="9" imgPath="content/images/ltr/menuImages/Module_09.png" imgPopPath="content/images/ltr/menuImages/Module_09_popup.png">
+        <title><![CDATA[Peroleh Kepintaran Persaingan Secara Adil]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Kepintaran persaingan membantu kami untuk lebih memahami persekitaran perniagaan kita, tetapi terdapat standard etika yang ketat untuk cara mendapatkan maklumat ini.</p><p>Pelajari cara untuk mengumpulkan kepintaran persaingan dalam cara yang konsisten dengan dasar Johnson Controls dan undang-undang.</p><span>Masa diperlukan: 6 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[Selamat datang ke: Peroleh Kepintaran Persaingan Secara Adil.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Mengumpulkan maklumat dengan cara yang salah]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Maklumat apakah yang sulit?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Apakah yang boleh berlaku?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Elakkan penipuan, ketaksetiaan atau kelicikan]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Sahkan pemahaman anda]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Ringkasan dan kenalan utama]]></title>
+        </page>				
+    </module>
+    <module id="10" imgPath="content/images/ltr/menuImages/Module_10.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup.png">
+        <title><![CDATA[Cabaran Kod Etika 2018]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Gunakan perkara yang telah anda pelajari dalam cabaran amali. Buat keputusan baik yang mencapai matlamat perniagaan dan elakkan keadaan yang merosakkan.</p><span>Masa diperlukan: 10 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[]]></title>
+        </page>					
+    </module>
+    <module id="11" imgPath="content/images/ltr/menuImages/Module_10_1.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup1.png">
+        <title><![CDATA[Persekitaran Pejabat, Pemasaran dan Jualan]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+		<overText><![CDATA[<span class="subMenuStart">Klik "Mula" untuk masuk ke Cabaran.</span>]]></overText>
+        <page>
+            <title><![CDATA[Permintaan Mustahak]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mustahak]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mustahak]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mustahak]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Permintaan Mustahak]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pelajaran Penting]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pelajaran Penting]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pembekal Apresiatif]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Pelajaran Penting]]></title>
+        </page>				
+    </module>
+    <module id="12" imgPath="content/images/ltr/menuImages/Module_10_2.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup2.png">
+        <title><![CDATA[Sokongan Pelanggan]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+         <overText><![CDATA[<span class="subMenuStart">Klik "Mula" untuk masuk ke Cabaran.</span>]]></overText>
+        <page>
+            <title><![CDATA[Kewajipan Bercanggah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kewajipan Bercanggah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kewajipan Bercanggah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kewajipan Bercanggah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kewajipan Bercanggah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kewajipan Bercanggah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kewajipan Bercanggah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kewajipan Bercanggah]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pelajaran Penting]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Membantu rakan sekerja]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Membantu rakan sekerja]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Membantu rakan sekerja]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Membantu rakan sekerja]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Membantu rakan sekerja]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Membantu rakan sekerja]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Membantu rakan sekerja]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pelajaran Penting]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Luar Biasa]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Luar Biasa]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Luar Biasa]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Luar Biasa]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Luar Biasa]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Luar Biasa]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pelajaran Penting]]></title>
+        </page>
+    </module>
+    <module id="13" imgPath="content/images/ltr/menuImages/Module_10_3.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup3.png">
+        <title><![CDATA[Persekitaran Luar Tapak]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[<span class="subMenuStart">Klik "Mula" untuk masuk ke Cabaran.</span>]]></overText>
+        <page>
+            <title><![CDATA[Permintaan Mengejutkan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mengejutkan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mengejutkan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mengejutkan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mengejutkan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mengejutkan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mengejutkan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mengejutkan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mengejutkan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Mengejutkan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pelajaran Penting]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pelajaran Penting]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Keluar Malam]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Keluar Malam]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Permintaan Tidak Sekata]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Keluar Malam]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Keluar Malam]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Keluar Malam]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Keluar Malam]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Keluar Malam]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Keluar Malam]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pelajaran Penting]]></title>
+        </page>
+    </module>
+    <module id="14" imgPath="content/images/ltr/menuImages/Module_11.png" imgPopPath="content/images/ltr/menuImages/Module_11_popup.png">
+        <title><![CDATA[Semakan Pengetahuan]]></title>
+        <altText><![CDATA[Pekerja Johnson Controls]]></altText>
+        <overText><![CDATA[Tunjukkan perkara yang telah anda pelajari dan akses sijil tamat kursus anda.<span>Masa diperlukan: 5-10 minit</span>]]></overText>
+        <page>
+            <title><![CDATA[Semakan Pengetahuan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Semakan Pengetahuan]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Keputusan anda]]></title>
+        </page>
+    </module>
+    <module id="15" imgPath="content/images/ltr/menuImages/Module_12.png" imgPopPath="content/images/ltr/menuImages/Module_12_popup.png">
+        <title><![CDATA[Sijil Anda]]></title>
+        <altText><![CDATA[Seorang lelaki menggunakan PC]]></altText>
+        <overText><![CDATA[Akses sijil tamat kursus anda.]]></overText>
+        <page>
+            <title><![CDATA[Sijil Anda]]></title>
+        </page>
+    </module>
+	
+    <tootTip>
+        <element button=".btn_Next" location="top" gap="8" leftGap="10" width="auto"><![CDATA[Seterusnya]]></element>
+        <element button=".nextBlink" location="top" gap="8" leftGap="10" width="auto"><![CDATA[Seterusnya]]></element>
+        <element button=".btn_Back" location="top" gap="8" width="auto"><![CDATA[Kembali]]></element>
+        <element button=".replayPage" location="top" gap="10" width="auto"><![CDATA[Main semula]]></element>
+        <element button=".transcriptOn" location="top" gap="10" width="auto"><![CDATA[Transkrip Mati]]></element>
+        <element button=".transcriptOff" location="top" gap="10" width="auto"><![CDATA[Transkrip Hidup]]></element>
+        <element button=".audioOn" location="top" gap="10" width="auto"><![CDATA[Audio Mati]]></element>
+        <element button=".audioOff" location="top" gap="10" width="auto"><![CDATA[Audio Hidup]]></element>
+        <element button=".btn_Menu" location="top" gap="10" width="auto"><![CDATA[Laman Utama]]></element>
+        <element button=".fw_CloseTranscript" location="bottom" gap="10" width="auto"><![CDATA[Tutup]]></element>
+        <element button=".fw_MenuClose" location="top" gap="10" width="auto"><![CDATA[Tutup]]></element>
+        <element button=".menuBlink" location="top" gap="10" leftGap="10" width="auto"><![CDATA[Seterusnya]]></element> 
+        <element button=".fw_GlossaryClose" location="top" gap="10" width="auto"><![CDATA[Tutup]]></element> 
+        <element button=".btn_Exit" location="top" gap="10" width="auto"><![CDATA[Tutup]]></element> 
+    </tootTip>
+	
+    <transcriptGlobalText>
+	  <text><![CDATA[Kotak Seret]]></text>
+    </transcriptGlobalText>
+	
+    <reEntryProfilerPopup>
+        <text><![CDATA[Jika anda menukar pemilihan profil anda, semua data kemajuan kursus akan hilang. Ini bermaksud anda perlu melengkapkan semua modul tugasan anda, termasuk yang telah anda lengkapkan. Jika anda telah berjaya melengkapkan Semakan pengetahuan, data lengkap ini akan terus dikekalkan. Adakah anda masih ingin teruskan?]]></text>
+        <text><![CDATA[Ya]]></text>
+        <text><![CDATA[Tidak]]></text>
+    </reEntryProfilerPopup>
+ 
+</course>

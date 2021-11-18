@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m08s10" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module8/m08s10"><![CDATA[Übertragen wir diese Inhalte nun auf die Praxis. Wie würden Sie sich in den folgenden Situationen verhalten? Verbinden Sie jede Situationsbeschreibung links mit der richtigen Lösung rechts und klicken Sie auf „Übermitteln“.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Zeigen Sie, dass Sie in jeder dieser Situationen richtig handeln würden. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module8/m08s10/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:865px;top: -15px;"><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<instructionText style="height:34px;">
+		<text><![CDATA[Wählen Sie eine Beschreibung aus der ersten Spalte aus und verknüpfen Sie sie durch Ziehen der Pfeile mit der jeweils passenden Lösung in der zweiten Spalte. Wenn Sie alles zugeordnet haben, klicken Sie auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="990" lineHolderH="250">
+		<leftSideTabs>
+			<heder><![CDATA[DIE SITUATION]]></heder>
+			
+			<tab id="1" style="height:100px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 100px;">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img01.png"><![CDATA[Person bei der Bearbeitung von Komponenten]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Sie arbeiten mit potenziellen Lieferanten zusammen, die sich als Anbieter von Komponenten für ein neues Produkt bei Ihnen bewerben ]]></text>				
+			</tab>			
+			<tab id="2" style="height:100px" dragPosition="left:430px; top:119px;z-index:5;height:100px">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img02.png"><![CDATA[Person wählt ein Symbol zum Öffnen einer E-Mail aus]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Sie arbeiten an einem Dokument, dass Sie unbedingt fertigstellen müssen. Daher spielen Sie mit dem Gedanken, das Dokument per E-Mail an Ihre eigene Adresse zu senden, damit Sie zu Hause weiter daran arbeiten können]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[DIE LÖSUNG]]></heder>
+			<tab id="2" style="height:100px" dropPosition="left: 528px;top: 8px;height: 100px;">
+				<text style=""><![CDATA[Ich würde mir etwas anderes überlegen, um auf das Dokument zuzugreifen, da E-Mails möglicherweise verloren gehen, gehackt werden oder an die falsche Adresse gelangen.]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img04.png"><![CDATA[Ordnersymbol]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:100px" dropPosition="left: 528px;top: 119px;height: 100px;">
+				<text><![CDATA[Ich lasse sie eine obligatorische Geheimhaltungsvereinbarung unterzeichnen, ehe ich Informationen zu neuen Produkten weitergebe, und kennzeichne diese Informationen als vertraulich. ]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img03.png"><![CDATA[Person beim Unterzeichnen einer Geheimhaltungsvereinbarung]]></rightIcon>
+			</tab>	
+		</rightSideTabs>		
+		<feedback type="normal">
+			<correct id="1" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[Das war‘s. Sie haben alles richtig zugeordnet. ]]></text>
+			</correct>			
+			<incorrect id="2" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[Das stimmt leider nicht.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

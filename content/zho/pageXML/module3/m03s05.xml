@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[您认为下列哪个场景可能存在问题？]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[您认为这些示例是否可能会被视为贿赂？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[商务人士]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[选择<span class="fontBold">所有</span>有问题的场景并单击“提交”。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[正确答案可能不止一项。]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[您承诺向客户提供现金礼物，以换取有利业务决策]]></option>
+		<option><![CDATA[一位希望跟您合作的分包商多次邀请您共进晚宴、观看体育比赛]]></option>
+		<option><![CDATA[您为潜在政府官员客户提供捐款，支持其竞选活动]]></option>
+		<option><![CDATA[您的经理聘用某位客户的女儿，以换取该客户同意续约]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[正确。]]></text>
+			<text><![CDATA[事实上，所有这些场景均有可能会被视为贿赂（视具体情况而定）。 试图影响他人决定是一项重要因素，但同时也必须牢记这一点：即使只是贿赂表象也可能会给您和 Johnson Controls 招致麻烦，故务必三思而后行！]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[错误。]]></text>
+			<text><![CDATA[事实上，所有这些场景均有可能会被视为贿赂（视具体情况而定）。 试图影响他人决定是一项重要因素，但同时也必须牢记这一点：即使只是贿赂表象也可能会给您和 Johnson Controls 招致麻烦，故务必三思而后行！]]></text>
+		</incorrect>
+	</feedback>
+</contents>

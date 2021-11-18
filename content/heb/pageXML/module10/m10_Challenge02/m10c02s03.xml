@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[חנה עובדת במשרה שנייה כמתווכת עבור החברה החדשה של הגיס שלה, אך הדבר פוגע בעבודתה ב-Johnson Controls.]]></text>
+		<text><![CDATA[אילו מהתרחישים הבאים יהיה מהלך הפעולה הנכון עבור חנה?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[חנה ממשיכה לעבוד בשתי המשרות. כאשר יש לה עומס עבודה כמתווכת, היא מבקשת מעמיתים בעבודה לגבות אותה ולוקחת ימי מחלה מ-Johnson Controls.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[חנה ממשיכה לעבוד בשתי המשרות ועושה כמיטב יכולה כדי לתמרן בין שתי העבודות. כשיש שקט ב-Johnson Controls, היא מקבלת שיחות שקשורות לעבודת התיווך שלה ושולחת דוא"ל מהטלפון החכם האישי שלה.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[חנה מדברת עם המנהל על עבודתה בחברה של הגיס שלה, והם דנים בדרכים שבהן תוכל להפריד בין משרה זו לבין עבודתה ב-Johnson Controls]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[החלטה של חנה לעבוד עבור חברת הנדל"ן של הגיס שלה עלול ליצור נדל"ן פוטנציאלי, במיוחד כשהעבודה הצדדית שלה מתחילה לדרוש יותר זמן ותשומת לב.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[חנה עדיין חושבת שהיא יכולה לתמרן בין המשימות, כך שהעבודה החדשה שלה לא תשפיע על תחומי האחריות שלה ב-Johnson Controls. אך האם הדבר מציאותי? היא מחליטה לדבר עם המנהל שלה בכל מקרה.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -185px;">
+			<text style="padding-top:25px;"><![CDATA[חנה משוחחת עם המנהל על עבודתה השנייה.]]></text>
+			<text><![CDATA[המנהל מדבר איתה על מה שמצופה ממנה בזמן שהיא בעבודה, ומציין שאין איסור לקחת עבודות חיצוניות, אבל:<ul> <li>הן לא יכולות להפריע לעבודתה ב-Johnson Controls. </li> <li>היא אינה רשאית להשתמש במשאבי החברה כדי לבצע את עבודתה החיצונית, כולל זמן העבודה שלה ב-Johnson Controls.</li> </ul>]]></text>
+			<text><![CDATA[הם מסכימים שהיא לא תעסוק בעבודתה כמתווכת במהלך שעות העבודה ב-Johnson Controls, ושאם עבודתה תיפגע, הם יצטרכו לדון שוב בנושא.]]></text>
+		</correct>
+	</feedback>
+</contents>

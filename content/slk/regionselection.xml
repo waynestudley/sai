@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path=""><![CDATA[]]></text>
+	</transcript>
+	<contentText>		
+		<text><![CDATA[Vyberte váš región]]></text>		
+	
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/Location_Selection.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[Pokračovať]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="R0"><![CDATA[Vyberte región]]></option>
+			<option id="R1"><![CDATA[Ázia a Tichomorie]]></option>
+			<option id="R2"><![CDATA[Latinská Amerika]]></option>
+			<option id="R3"><![CDATA[Stredný východ]]></option>
+			<option id="R4"><![CDATA[Európa/Afrika]]></option>
+			<option id="R5"><![CDATA[Severná Amerika]]></option>
+	</dropDownMenu>
+</contents>

@@ -1,0 +1,15 @@
+/*----------------------------------------
+	Name: jquery.fw_CloseCourse
+	Developed by: Suyog Shaha
+	Date Created: 06-Sep-2012	
+	Copyright:
+----------------------------------------*/
+.fw_CloseCoursePopWindow{ background-color:#FFF; border: 1px solid #0057a6; display:block; height:177px; margin: 0 auto; position: relative; top: 200px; width:420px;z-index:999999; border-width: 1px 1px 10px 1pt;}
+.fw_CloseCourseText{ color: #000; font-size:17px; height:54px; right:0; position:absolute; text-align:center; top:39px; width:100%;}
+.fw_CloseCourseYes, .fw_CloseCourseNo{ background-color:#D3D645; color:#333740; cursor:pointer; font-size:16px; height: 30px;
+padding-top: 5px;position:absolute; text-align:center; width:88px;}
+.fw_CloseCourseYes{ right:111px; top:106px;}
+.fw_CloseCourseNo{ right:211px; top:106px;}
+.fw_CloseCourseYes:hover, .fw_CloseCourseNo:hover{ background-color: #F6EE44;}
+.closeSemiBlack{background-color:#CCCCCC; filter:alpha(opacity=60); opacity:0.6; position:absolute; z-index:5;right:0px;top:0px;width: 100%; height: 100%;}
+.closeParent{position:absolute; height: 100%;top: 0px;z-index: 888888;width: 100%; }

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="reveal2">
+	<transcript>
+		<text path="audio/module8/m08s07" id="0"><![CDATA[Quel type d'information doit rester confidentiel ? Voici quelques exemples, même s'il existe d’autres types d’informations confidentielles qui ne sont pas listées ici. Cliquez sur chaque titre pour confirmer votre connaissance.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:635px;margin-bottom:0px;font-size:15px;"><![CDATA[Les informations confidentielles peuvent prendre de nombreuses formes. Elles peuvent être écrites, communiquées de façon verbale ou enregistrées dans une base de données. Ce qui importe, c’est le contenu communiqué.]]></text>			
+	</contentText>
+	<pageTitle style="width: 635px;margin-bottom: 5px;"></pageTitle>
+	<instructionText style="width: 635px;">
+		<text><![CDATA[Sélectionnez chaque titre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<contentBg style="top:15px;"></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s07/contentBackground.jpg" minwidth="769"><![CDATA[Informations numériques]]></img>
+	</contentBackground>
+	<popupBackground>
+		<img path="content/images/ltr/module8/m08s07/img_01.png"><![CDATA[]]></img>
+	</popupBackground>
+	<tabHolder style=""></tabHolder>
+	<tabs style="">
+		<tab id="1" type="callOut" style="">
+			<tabName><![CDATA[Plans et stratégies d’entreprise]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup1.png"><![CDATA[]]></img>
+			</backgroungImg>
+			<tabText style="width: 268px;">
+				<text style="font-size:15px;"><![CDATA[Protégez toutes les informations sur le futur de notre entreprise. Si des concurrents apprennent ce que nous prévoyons de faire, cela pourrait leur donner un avantage significatif.]]></text>
+			</tabText>
+		</tab>		
+		<tab id="2" type="planeText" style="top: 32px;">
+			<tabName><![CDATA[Informations financières non publiées]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup2.png"><![CDATA[Employé respectant la procédure d’autorisation]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[Considérez toutes les informations non publiques relatives à la performance financière ou aux tarifs de Johnson Controls comme confidentielles. Cela inclut des informations sur les acquisitions potentielles. Notre entreprise doit suivre des règles strictes concernant la façon dont nous publions et partageons des informations financières, puisque cela peut modifier la vision des investisseurs vis-à-vis de l’entreprise.]]></text>
+				</tabText>
+		</tab>		
+		<tab id="3" type="planeText" style="top: 59px;">
+			<tabName><![CDATA[Informations sur la clientèle ou le marché]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup3.png"><![CDATA[Fonctionnaire]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[Protégez les listes de clients, les accords clients, les données de parts de marché, les accords avec les fournisseurs et les informations similaires. Elles contiennent des informations importantes sur notre entreprise, et si quelqu’un en a connaissance, cela peut compromettre nos avantages concurrentiels.]]></text>
+				</tabText>
+		</tab>	
+		<tab id="4" type="planeText" style="top: 82px;">
+			<tabName><![CDATA[Produits et informations techniques]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup4.png"><![CDATA[Employé remplissant des formulaires d’autorisation]]></img>
+			</backgroungImg>
+			<tabText style="width:255px;">
+				 <text style="font-size:15px;"><![CDATA[Notre valeur en tant qu’entreprise découle de nos produits et de notre savoir-faire. Les codes sources des logiciels, les dessins de produits, les manuels techniques et les documents de recherche et développement doivent être protégés avec soin.]]></text>
+				</tabText>
+		</tab>
+	</tabs>	
+</contents>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m05s09" maxAttempt="2">
+	<transcript>
+		<text path="audio/module5/m05s09" id="0"><![CDATA[الآن حان دورك. فلنرَ إذا كنت قادرًا على تمييز ما يعدُّ تصديرًا أو ما لا يعدُّ كذلك من هذه العناصر. اسحب كل عنصر إلى مربع "تصدير" أو "ليس تصديرًا" ثم انقر فوق "إرسال".]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[إلى أي مدى تشعر بالثقة في قدرتك على تحديد ما يعدُّ تصديرًا أو ما لا يعدُّ كذلك؟ لكل عنصر من هذه العناصر، اختر ما إذا كانت تمثل عمليات تصدير أم لا.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module5/m05s09/contentBackground.jpg" minwidth="769"><![CDATA[موظفون يعملون على مستندات خاصة بالشركة]]></img>
+	</contentBackground>
+	 <contentBg style="top: 20px;"></contentBg>
+	<pageTitle style="width: 588px;margin-bottom:6px;"></pageTitle>
+	<instructionText style="width: 588px;margin-top:6px;">
+		<text><![CDATA[اسحب كل عنصر على أحد المربعين، ثم انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+		<text><![CDATA[انقر على زر "محاولة مرة أخرى" لإعادة المحاولة.]]></text>
+		<text><![CDATA[انقر فوق زر "إظهار الإجابة".]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;right:0;background-color: #ffffff;width: 330px; padding: 4px 10px; text-align: center; font-size: 14px;"><![CDATA[المواقف]]></lable> 
+		<option>			
+			<option height="51px" right="0" top="27px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[نشر معلومات تصميم عبر الإنترنت]]></option>
+		</option>
+		<option>			
+			<option height="51px" right="0" top="88px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[كشف معلومات تقنية خاضعة لضوابط التصدير لعميل من دولة أخرى أثناء جولة في أحد المصانع]]></option>
+		</option>
+		<option>			
+			<option height="51px" right="0" top="149px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[نشر ورقة تقنية عن مستقبل التدفئة، والتهوية، وتكييف الهواء في مجلة الأخبار الدولية]]></option>
+		</option>
+		<option>			
+			<option height="51px" right="0" top="210px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[تقديم مساعدة في تصميم منتج جديد أو إدماج منتج من شركة Johnson Controls إلى مواطن يحمل جنسية دولة أخرى في عنصر نهائي خاص به]]></option>
+		</option>
+		<option>			
+			<option height="51px" right="0" top="271px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[تحميل الرسومات إلى بوابة إلكترونية تتشاركها مع مورّدين دوليين]]></option>
+		</option>
+		<option>			
+			<option height="51px" right="0" top="332px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[تخزين مستندات تقنية على شبكات كمبيوتر داخلية إذا كان الوصول مقصورًا على الموظفين الموجودين في الدولة نفسها أو يحملون جنسيتها فقط]]></option>
+		</option>
+		<option>			
+			<option height="51px" right="0" top="393px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[إرسال منتج عن طريق البريد إلى عميل في مدينتك أو العميل مواطن ولديه رخصة لمزاولة العمل في بلدك]]></option>
+		</option>
+		<option>			
+			<option height="51px" right="0" top="455px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[إرسال بريد إلكتروني إلى عميل في بلد آخر لدعوته إلى مأدبة وتهنئته بفوز كبير حققه مؤخرًا]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="1" topGap="149" bottomGap="33">
+		<dropArea maxDrop="5" style="width:312px;right: 357px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="5" style="width:312px;right: 672px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:20px;right:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[تصدير]]></text>
+		<text style="width:301px;height:20px;right:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[ليس تصديرًا]]></text>
+		<text style="width:301px;right: 277px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[إفلات هنا]]></text>
+		<text style="width:301px;right: 277px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[إفلات هنا]]></text>
+		<text style="width:301px;right: 277px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[إفلات هنا]]></text>
+		<text style="width:301px;right: 277px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[إفلات هنا]]></text>
+		<text style="width:301px;right: 277px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[إفلات هنا]]></text>
+		<text style="width:301px;right: 593px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[إفلات هنا]]></text>
+		<text style="width:301px;right: 593px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[إفلات هنا]]></text>
+		<text style="width:301px;right: 593px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[إفلات هنا]]></text>
+		<text style="width:301px;right: 593px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[إفلات هنا]]></text>
+		<text style="width:301px;right: 593px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[إفلات هنا]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 480px;right: 230px;z-index: 10;"><![CDATA[إرسال]]></text>
+		<text style="position:absolute;top: 480px;right: 190px;z-index: 10; width: 130px;"><![CDATA[المحاولة مرة أخرى]]></text>	
+		<text style="position:absolute;top: 480px;right: 200px;z-index: 10; width: 125px;"><![CDATA[إظهار الإجابة]]></text>	
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct style="top: 146px;height: 145px;"> 
+			<text style="font-size:17px;"><![CDATA[هذا صحيح.]]></text>
+			<text><![CDATA[تذكر أنه إذا خامرك شك بخصوص ما يعدُّ تصديرًا وما لا يعدُّ كذلك، فاستشر خبراء الامتثال التجاري.]]></text>
+			
+		</correct>
+		<incorrect style="top: 146px;height: 145px;"> 
+			<text style="font-size:17px;"><![CDATA[عذرًا، هذا ليس صحيحًا.]]></text>
+			<text><![CDATA[تذكر أنه إذا خامرك شك بخصوص ما يعدُّ تصديرًا وما لا يعدُّ كذلك، فاستشر خبراء الامتثال التجاري.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

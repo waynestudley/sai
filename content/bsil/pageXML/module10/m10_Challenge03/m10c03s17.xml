@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Clique em Próximo para continuar.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[O que Ingrid deve fazer?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s17/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Escolha uma opção e selecione OK.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Concordar com o esquema de David e criar ordens de compra falsas para permitir que ele compre os equipamentos.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Recusar participar do esquema e reportar as ações de David para o Departamento de Conformidade, contando o que ela sabe.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[David e Ingrid continuam trabalhando juntos à medida que o negócio secundário se expande.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[David reclama, mas para de aceitar trabalhos por fora dos clientes da Johnson Controls. ]]></text>
+		</correct>
+	</feedback>
+</contents>

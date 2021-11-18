@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[Jian weiß, dass er mehrere Stunden im Krankenhaus warten wird und erwägt, dort weiterzuarbeiten. Was soll er Ihrer Meinung nach jetzt machen? Wählen Sie eine Antwort aus und klicken Sie auf „OK“.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Jian muss seinen Arbeitsplatz verlassen, um zu seiner Frau ins Krankenhaus zu fahren, hat jedoch auch dringende Projekte, die seiner Aufmerksamkeit bedürfen. Er kann seinen Laptop mitnehmen, um im Krankenhaus weiterzuarbeiten, weiß aber, dass die Arbeit per Fernzugriff nicht so sicher ist wie über das Unternehmensnetzwerk.]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Wie sollte Jian am besten vorgehen, um sicherzustellen, dass er seine Arbeit fristgerecht abschließt?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[Büroumgebung]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian lädt die Informationen für das Texela-Projekt, darunter auch die Lieferanten-Masterdatei, in sein privates Dropbox-Konto hoch. So kann er im Krankenhaus über seinen Laptop darauf zugreifen, muss sie aber nicht online versenden oder lokal in seinen Laptop herunterladen.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian lädt die Lieferanteninformationen und die Masterdatei auf einen USB-Stick und verschlüsselt diesen. Dies erscheint ihm sicherer, als auf elektronischem Wege auf die Informationen zuzugreifen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian handelt eine Verlängerung für das Projekt aus, an dem er zuerst gearbeitet hatte, und erledigt die Arbeiten für das Texela-Projekt, bevor er zum Krankenhaus aufbricht.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jians Entscheidung setzt die Daten von Unternehmen, Kunde und Lieferant dem Risiko einer Datenschutzverletzung aus.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian hat Maßnahmen zum Schutz der Unternehmens- und Lieferanteninformationen ergriffen, doch entsteht daraus ein anderes Problem?]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -210px;">
+			<text style="padding-top:25px;"><![CDATA[Jian handelt eine Verlängerung für das Projekt aus, an dem er zuerst gearbeitet hatte, und erledigt die Arbeiten für das Texela-Projekt, bevor er zum Krankenhaus aufbricht.]]></text>
+			<text><![CDATA[Jian schafft es, die Lieferantenempfehlung zu liefern, bevor er seinen Arbeitsplatz verlässt, und muss daher keine Kopie der vertraulichen Lieferanteninformationen oder der Lieferanten-Masterdatei mitnehmen. Durch das Aushandeln einer Fristverlängerung für das andere Projekt hat er dafür gesorgt, dass das Gesamtprojekt nicht beeinträchtigt wird.]]></text>
+			<text><![CDATA[Ein weiterer Vorteil ist, dass Jian Zeit mit seiner Frau verbringen kann, ohne von dringenden Fristen abgelenkt zu werden.]]></text>
+		</correct>
+	</feedback>
+</contents>

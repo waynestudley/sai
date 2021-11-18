@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0" ><![CDATA[How would you respond here? Select one option and then submit.]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+	</transcript>
+	<contentText >
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[If you send the technical drawing and integration instructions as requested, is that an export?]]></text>
+	</contentText>
+	<contentBackground >		
+		<img path="content/images/ltr/module5/m05s05/contentBackground.jpg" minwidth="769" ><![CDATA[Technical Drawings]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"  ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText >
+		<text><![CDATA[Select one option and then submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option ><![CDATA[No, not if the person is a Johnson Controls customer]]></option>	
+		<option ><![CDATA[Yes, sending export-controlled technical drawings and integration instructions to a customer in France is an export]]></option>	
+		<option ><![CDATA[Yes, but only if the person is in a restricted country like Iran]]></option>	
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback >
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[That’s correct.]]></text>
+			<text><![CDATA[Sending export-controlled technical information, including product drawings or instructions, to someone in another country is an export that requires authorization in advance.]]></text>
+			<text><![CDATA[With that in mind, you should not send the information until you know more about the customer’s identity and location, so that you can determine what authorizations are required to permit the export.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Sorry, that’s not correct.]]></text>
+			<text><![CDATA[Sending export-controlled technical information, including product drawings or instructions, to someone in another country is an export that requires authorization in advance.]]></text>
+			<text><![CDATA[With that in mind, you should not send the information until you know more about the customer’s identity and location, so that you can determine what authorizations are required to permit the export.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

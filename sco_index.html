@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script>
+//browser detection
+ intervalID=null;
+var openWin = null;
+var strText = "Please do not close this window while running a training course. Once you have completed the course and closed the course window, this window should also be closed."
+function redirect()
+{
+	
+	fnLaunchPopup("launch.html");
+}
+
+function fnLaunchPopup(val){
+	var winwidth = screen.availWidth;
+	var winheight = screen.availHeight;
+	
+	winheight= winheight - 5;
+	winwidth = winwidth - 5
+	
+	
+	if (navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/Android/i)|| navigator.userAgent.match(/iPad/i)|| navigator.userAgent.match(/BlackBerry/i)|| navigator.userAgent.match(/iPhone|iPod/i)) {
+		openWin = window.open(val, 'course', 'scrollbars=0,screenX=0,screenY=0,status=no,top=' + 0 + ',left=' + 0 + '');
+	}
+	else {		
+		openWin = window.open(val, 'course', 'width=' + winwidth + ',height=' + winheight + ',directories=no,dialog=no,titlebar=no,toolbar=no,location=no,status=yes,menubar=no,scrollbars=no,resizable=yes,top=' + 0 + ',left=' + 0 + '');	
+	}
+	//---edit for issue IE 11 window size bigger than view port
+		openWin.resizeTo(screen.availWidth,screen.availHeight);
+	//---
+	intervalID = window.setInterval(checkWindow, 500);
+	openWin.focus();
+}
+function checkWindow() {
+	if (openWin && openWin.closed) {
+		openWin=null;
+		window.clearInterval(intervalID);
+		window.top.close();
+	}
+}
+function closeWin(){	
+	if(openWin!=null){
+		openWin.close();
+	}		
+}	
+function addText(id,text)
+	{
+	var obj = document.getElementById(id);
+	obj.innerHTML = text;
+	}
+
+</script>
+</head>
+
+<body onload="redirect();" onunload="closeWin();" bgcolor="#ffffff">
+<span id="spn1" name="spn1" style="font-family:arial, helvetica; color:#064F8B;">
+	<script>addText('spn1',strText);</script>
+</span>
+</body>
+</html>

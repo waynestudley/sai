@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="revealCallOut2" className="m01s06">
+	<transcript>
+		<text path="audio/module1/m01s06" id="0" ><![CDATA[When conflicts of interest go unaddressed, they can lead to poor customer service, misuse of company funds, poor relationships with vendors, lost business and harm to our company’s reputation along with the reputation of the individuals involved.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[What happens when conflicts of interest are not properly addressed?]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module1/m01s06/contentBackground.jpg" minwidth="769"><![CDATA[Office Background]]></img>
+	</contentBackground>	
+	 <contentBg style="" ></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;" >
+		<text><![CDATA[Click on each person to learn how a conflict changed their view of a situation and negatively impacted their opinion of Johnson Controls.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<revealCallOutContent >
+		<revealCallOut width="300px" height="178px" top="0px" left="20px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module1/m01s06/btn1.png" minwidth="769" ><![CDATA[Caucasian employee]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Carter, Johnson Controls employee]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="90px" style="height: 100px;top: -20px;">
+				<text><![CDATA[Anna and I have worked in the same role for years, but I have been here much longer than she has and my job performance has been better. <i>She</i> got the promotion because her brother works in HR and used his influence to help her. What’s the point of working hard if that doesn’t matter?]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="178px" top="0px" left="349px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module1/m01s06/btn2.png" minwidth="769" ><![CDATA[Indian male]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Rajesh, Johnson Controls vendor]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="400px" style="height: 100px;top: -20px;">
+				<text><![CDATA[Our company has worked with Johnson Controls for many years and we’ve always done good work. Recently, John, my Johnson Controls account rep, chose to use his best friend’s company instead. I always thought I could trust Johnson Controls to make fair decisions – looks like that’s no longer the case.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="178px" top="0px" left="678px" ticktop="5px" tickleft="3px" >
+			<img path="content/images/ltr/module1/m01s06/btn3.png" minwidth="769" ><![CDATA[Russian/Eastern European male]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Sergei, Johnson Controls client]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="760px" style="height: 125px;top: -20px;">
+				<text><![CDATA[Earlier this year, I told my Johnson Controls contact, Vinca, about a need we had. Rather than suggesting a solution Johnson Controls could provide, she recommended us to a smaller company who could do the same thing. We engaged them and are happy with their work so far. But I recently learned that Vinca is a part-owner of the smaller company, which makes me wonder if her recommendation was unethical and not in my best interest or that of Johnson Controls.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

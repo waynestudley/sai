@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentTitle>
+		<text><![CDATA[Предварительное оценивание]]></text>		
+	</contentTitle>
+	<contentBg style="padding:30px 0 0 0;top: 70px;width: 510px;right: 20px;"></contentBg>
+	<pageTitle style="padding:0px 30px;width: 360px;margin-bottom: 10px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/preAssessment/preassessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Сотрудник компании Johnson Controls]]></img>
+	</contentBackground>	
+	<instructionText style="padding:0px 30px 30px;min-height: auto;">		
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<feedbackPass>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[Вы продемонстрировали высокий уровень знаний! Содержимое вашего курса было скорректировано, и при необходимости вы сможете пропустить некоторые разделы.]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="normal" left="0px" color="#00549E" bgColor="#D5D547" padding="20px 30px" position="relative"><![CDATA[Отличная работа]]></text>
+	</feedbackPass>
+	<feedbackPartial>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[Вы продемонстрировали высокий уровень знаний! Содержимое вашего курса было скорректировано, и при необходимости вы сможете пропустить некоторые разделы.]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="normal" left="0px" color="#00549E" bgColor="#D5D547" padding="20px 30px" position="relative"><![CDATA[Отличная работа]]></text>
+	</feedbackPartial>
+	<feedbackFail>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[В этот раз вы не ответили на все вопросы правильно. Перейдите к прохождению курса. После того как вы рассмотрите основные понятия, у вас будет еще одна возможность продемонстрировать свои знания.]]></text>			
+	</feedbackFail>
+</contents>

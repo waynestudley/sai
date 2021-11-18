@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m08s10" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module8/m08s10"><![CDATA[では、これを実生活に適用してみましょう。 以下の状況にどのように対応しますか？ 左のそれぞれの状況を右の正しい解決法につなげて、「提出」をクリックします。]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[このような状況でそれぞれどうするべきか示してください。 ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module8/m08s10/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top: -15px;"><![CDATA[送信]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[最初の列から項目を選択し、矢印を2列目のマッチする解決策までドラッグします。 終わったら「送信」をクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="990" lineHolderH="250">
+		<leftSideTabs>
+			<heder><![CDATA[状況]]></heder>
+			
+			<tab id="1" style="height:100px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 100px;">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img01.png"><![CDATA[コンポーネントで作業している人物]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[新製品のコンポーネントを供給するために入札している、潜在的なサプライヤーとあなたは仕事をしています。 ]]></text>				
+			</tab>			
+			<tab id="2" style="height:100px" dragPosition="left:430px; top:119px;z-index:5;height:100px">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img02.png"><![CDATA[電子メールを開くためにアイコンを選択している人物]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[あなたは終わらせる必要がある文書を処理しているため、自宅のアドレスに電子メールで送信することを考えています]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[解決策]]></heder>
+			<tab id="2" style="height:100px" dropPosition="left: 528px;top: 8px;height: 100px;">
+				<text style=""><![CDATA[電子メールが紛失したり、ハッキングされたり、宛先を間違える可能性があるため、文書にアクセスするもう一つの方法を見つけてください]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img04.png"><![CDATA[フォルダアイコン]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:100px" dropPosition="left: 528px;top: 119px;height: 100px;">
+				<text><![CDATA[新製品の情報を共有し、機密とマークする前に、機密保持契約に署名する必要があります ]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img03.png"><![CDATA[NDAに署名している人]]></rightIcon>
+			</tab>	
+		</rightSideTabs>		
+		<feedback type="normal">
+			<correct id="1" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[そうです。すべての回答を正解にマッチさせました。 ]]></text>
+			</correct>			
+			<incorrect id="2" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[間違っています。.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[Wählen Sie Ihre bevorzugte Ansicht aus:]]></text>		
+		<text><![CDATA[Zur Unterstützung des Lernprozesses beinhaltet diese Schulung Audio- und Videoelemente. Wir empfehlen Ihnen, diesen Kurs im Audio-/Video-Modus anzuzeigen. Wenn Sie diesen Kurs jedoch lieber im Text-/Grafik-Modus anzeigen möchten, werden anstelle der Audio- und Videodateien Transkripte und Bilder angezeigt.]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[Schallwellen]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[Fortfahren]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[Bevorzugte Ansicht auswählen]]></option>
+			<option id="A1"><![CDATA[Audio-/Video-Modus]]></option>
+			<option id="A2"><![CDATA[Text-/Grafik-Modus]]></option>
+	</dropDownMenu>
+</contents>

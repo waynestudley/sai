@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[La busta contiene 250 dollari USA in contanti. Carlos ha già rifiutato il regalo e il fornitore sta insistendo. Che cosa deve fare?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[Seleziona un’opzione e fai clic su OK.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Tieni i contanti ma dividili con la sua squadra, in modo che nessuno riceva grandi quantità.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Rifiuta di nuovo il denaro.  Quando Chris risponde invitando Carlos a unirsi a lui e al team in un bar che trasmette sport durante una partita importante, Carlos accetta.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Rifiuta di nuovo il denaro e <span class="fontBoldItalic" >rifiuta</span> anche l'offerta di Chris di unirsi a lui e al suo team in un bar che trasmette sport durante un evento importante.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos ha diviso i soldi con la sua squadra, ragionando sul fatto che nessuna persona ha ricevuto una somma superiore al limite dei regali di Johnson Controls. Ma, molti mesi dopo, un'altra società ha avviato un'indagine accusando lo stesso subappaltatore di utilizzare regali inappropriati per incoraggiare il ripetersi delle attività commerciali.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Dopo che Carlos ha rifiutato il denaro una seconda volta, Chris si è reso conto della sua serietà e ha modificato l'offerta. Invece, ha invitato Carlos ad unirsi a lui e alla squadra durante una partita importante in un bar che trasmette eventi sportivi.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Dopo che Carlos ha rifiutato il denaro una seconda volta e ha rifiutato l'offerta di Chris di portare a cena la sua squadra, Chris si è reso conto della serietà e ha smesso di insistere.]]></text>
+		</correct>
+	</feedback>
+</contents>

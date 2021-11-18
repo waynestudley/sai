@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[有人向您发送您不该看到的个人数据时，您应该怎么做？]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;"><![CDATA[您会怎么做？ ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[您需要向承包商通报一项新结算流程。 ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[您要求其他部门的员工发给您一份电子邮件地址列表，但是他发给您的电子表格还包含用来保护账户的个人信息，例如出生日期、母亲姓名和社会保险号。 ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[您要怎么做？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[商务人士]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后提交。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[删除这封电子邮件并发送电子邮件至 privacy@jci.com，向数据隐私团队报告]]></option>
+		<option><![CDATA[将其转发给您的同事，作为不得通过邮件发送的信息的示例]]></option>
+		<option><![CDATA[仅从电子表格内选用您需要的信息并安全处理余下部分]]></option>
+		<option><![CDATA[向所有的承包商发送电子邮件，告诉他们其个人数据可能遭到泄露]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:126px;" fcStyle="top:-151px">
+			<text style="font-size:17px;"><![CDATA[正确。]]></text>
+			<text><![CDATA[数据隐私法和 Johnson Controls 的数据隐私政策适用于员工、客户和业务合作伙伴的个人信息。 确保您理解自己的职责，并且遵守 Johnson Controls 隐私政策和所有数据保护法和隐私法。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:126px;" fcStyle="top:-151px">
+			<text style="font-size:17px;"><![CDATA[错误。]]></text>
+			<text><![CDATA[数据隐私法和 Johnson Controls 的数据隐私政策适用于员工、客户和业务合作伙伴的个人信息。 确保您理解自己的职责，并且遵守 Johnson Controls 隐私政策和所有数据保护法和隐私法。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

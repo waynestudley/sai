@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0"><![CDATA[Mark remarque un nouvel e-mail dans sa boîte de réception marqué comme urgent. Cliquez sur l'en-tête de l'e-mail pour découvrir son contenu.]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;"></pageTitle>
+	<contentBg style="width: 591px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[Un nouvel e-mail marqué comme urgent est arrivé.]]></text>	
+		
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[Un nouvel e-mail]]></img>
+		<img path="content/images/ltr/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[En-tête de l’e-mail]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;left: 2px;top: 212px;font-size: 14px;">		
+		<img path="" minwidth="769"><![CDATA[E-mail]]></img>	
+		<text style="margin-bottom:3px"><![CDATA[De : arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px"><![CDATA[Objet : Besoin d’aide]]></text> 	
+		<text style=""><![CDATA[Bonjour,]]></text> 				
+		<text style=""><![CDATA[Je suis un client de Johnson Controls basé à Marseille en France. J'ai du mal à intégrer l’un de vos produits d’extinction des incendies dans le système existant.]]></text> 				
+		<text style=""><![CDATA[J'ai appelé votre équipe d'assistance et ils m'ont conseillé de vous contacter pour vous demander les dessins techniques et le manuel d'intégration qui devraient nous aider à résoudre le problème plus facilement.]]></text> 				
+		<text style=""><![CDATA[Pourriez-vous me les envoyer par e-mail dès que possible, s’il vous plaît ?]]></text> 				
+		<text style="margin-bottom:0px"><![CDATA[Je vous remercie, Cordialement,]]></text> 		
+		<text style="margin-bottom:0px"><![CDATA[A. Richter]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[Cliquez sur l'en-tête de l'e-mail.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path=""><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;left: 97px; width: 475px;"><![CDATA[<span style="padding-right: 32px;">arichter_8888@gmail.com</span><span>Besoin d’aide</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

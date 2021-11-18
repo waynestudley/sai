@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s26">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Chris propose de se rendre dans un club de strip-tease au bout de la rue. D’autres membres de l’équipe semblent intéressés.]]></text>
+		<text><![CDATA[Comment doit réagir Carlos ?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s26/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Sélectionnez votre réponse, puis cliquez sur « OK ».]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Se rendre au club avec Chris et son équipe, mais insister pour payer afin que la marque d’hospitalité de Chris ne soit pas excessive.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Prendre un verre pour être poli et éviter d’embarrasser Chris, mais faire en sorte de partir rapidement.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Décliner poliment l’invitation et rentrer chez lui.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos se rend au club avec Chris et son équipe.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos se rend au club avec Chris et son équipe, mais il part peu de temps après son arrivée.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[L’un des membres de l’équipe de Chris est impliqué dans une bagarre au club. La police est appelée et par la suite, une partie du groupe doit comparaître pour témoigner.]]></text>
+			<text><![CDATA[Mais comme Carlos est parti après le dîner et ne les a pas rejoints au club, il n’a pas été impliqué et n’est pas appelé à comparaître. Sa décision de quitter le club lui évite d’être dans l’embarras, tout comme Johnson Controls, par association.]]></text>
+		</correct>
+	</feedback>
+</contents>

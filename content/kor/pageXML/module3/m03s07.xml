@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[이곳에서 뇌물 수수 및 부패가 일어나지 않도록 하는 것은 우리 모두에게 달렸습니다. 각 제목을 클릭하여 여러분이 무엇을 할 수 있는지 확인하십시오.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Johnson Controls는 뇌물 수수 방지 및 부패 방지법을 준수하기 위해 노력합니다. 실제로 이것이 의미하는 바는 다음과 같습니다.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[점검 목록]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[자세한 내용을 보려면 각 제목을 선택하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[뇌물을 제공하지 않기]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[비즈니스 담당자의 판단에 영향을 줄 의도로 그에게 가치 있는 어떤 것을 절대로 주지 마십시오.]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[정확한 기록 관리 ]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[접대 또는 선물에 대한 지출을 숨기거나 허위로 보고하려고 하지 마십시오. 모든 거래를 정직하고 정확하게 기록해야 합니다. 자세한 내용은 <a href="content/kor/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">제3자 여행, 선물 및 접대 정책</a>을 참고하십시오.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[비즈니스 파트너에게도 책임 묻기]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[우리가 함께 일하는 제3자에게 우리의 뇌물 수수 방지 표준을 분명하게 소개하십시오. 그들의 활동을 감시하고 부패가 의심되면 보고하십시오. 부패 행위에 관여하는 비즈니스 파트너와 함께 일하지 마십시오.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[제3자에 대해 확실히 알기]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[여러분이 제3자 관리를 담당하고 있다면 그들이 Johnson Controls의 제3자 프로그램 요건에 따라 완전히 승인되었는지 확인하십시오.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c01s17">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3" ><![CDATA[Click on Next to find out what happened.]]></text>
+		
+	</transcript>
+	<contentText >
+		<text><![CDATA[Eduardo is suggesting that they visit a popular gentleman’s club down the street. The rest of the team seems interested in going.]]></text>
+		<text><![CDATA[How should Jian respond?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[Restaurant]]></img>
+	</contentBackground>
+	<instructionText >
+		<text><![CDATA[Choose one option then select OK.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1" ><![CDATA[Visit the club with Eduardo and his team, but insist on paying so that Eduardo’s hospitality is not too excessive.]]></option>
+		<option answer="1" feedbackId="2" ><![CDATA[Go for one drink to be polite and avoid embarrassing Eduardo, but make sure that he leaves after a short amount of time.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Politely decline and go home.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="" >
+			<text style="padding-top:12px;"><![CDATA[Jian is right to think about how much hospitality he is accepting, but there’s another issue to consider.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[Although Jian intended to join Eduardo and his team for just a short time, this still caused unforeseen problems for Jian and Johnson Controls.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[This is a safe choice.]]></text>
+		</correct>
+	</feedback>
+</contents>

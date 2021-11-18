@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[تتعامل الحكومات والجهات التنظيمية بصرامة شديدة مع تقديم الرشوة. ولهذا من المهم أن نزاول جميعًا دورًا فعالاً في منعه. هل يمكنك توصيل التصرف في العمود الأيسر مع عواقبه في العمود الأيمن؟]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[ماذا يحدث للشركات الضالعة في الرشوة والفساد؟]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/rtl/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[مكتب]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;left: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;right:892px;top:0px;"><![CDATA[إرسال]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[حدد عنصرًا من العمود الأول، ثم اسحب الأسهم لتوصيله بالنتيجة المطابقة له في العمود الثاني. عندما تنتهي من مهمتك، انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[التصرف]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 530px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/rtl/module3/m03s08/img01.png" style=""><![CDATA[موظف يكافئ شخصًا ما بفترة تدريب ]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[المصرفيون الاستثماريون في منطقة آسيا والمحيط الهادئ التابعة لشركة جي بي مورجان نظموا برنامجًا يعطي وظائف وفترات تدريب كمكافآت لأفراد أسر العملاء المحتملين وأصدقائهم، بما في ذلك المسؤولون الحكوميون. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:530px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/rtl/module3/m03s08/img02.png" style=""><![CDATA[مسؤول حكومي يأخذ رشوة ]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[دفعت شركات فرعية لشركة دولة كبيرة متخصصة في صناعة أسلاك النحاس والألومنيوم والأسلاك المصنعة من الألياف البصرية ملايين الدولارات إلى وكلاء وموزعين خارجيين. وقد تم استخدام بعض هذه الأموال لتقديم رشوة إلى المسؤولين الحكوميين من أجل الحصول على الأعمال، بما ساهم في تحقيق الشركة صافي أرباح بلغ 51 مليون دولار.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[العواقب]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 431px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[صدر حكم يلزم الشركة بدفع 76 مليون دولار أمريكي، وحُكم على اثنين من المسؤولين التنفيذيين كانا على علم بأمر الرشاوى بإعادة تسديد ملايين الدولارات. ]]></text>
+				<rightIcon path="content/images/rtl/module3/m03s08/img04.png" style=""><![CDATA[قاضٍ يمسك بمطرقة]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 431px;top: 149px;height: 130px;">
+				<text><![CDATA[ وجدت الحكومة الأمريكية أن الشركة "ضالعة في مؤامرة رشوة" أدت بها إلى تقديم مكافآت عمل كبيرة. صدر حكم ضد الشركة بدفع غرامة قيمتها 264 مليون دولار.]]></text>
+				<rightIcon path="content/images/rtl/module3/m03s08/img03.png" style=""><![CDATA[مبنى الكابيتول الأمريكي يظهر عبر درجات سلم مبنى المحكمة]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[يمكن تكون نتائج الرشوة والفساد وخيمة – سواء بالنسبة للأفراد أو الشركات، ويمكن أن تتراوح بين الغرامات وأحكام السجن.  تعتمد شركة Johnson Controls عليك دائمًا لتجنب تقديم الرشوة في جميع الأوقات والإبلاغ فورًا عن أي أنشطة مريبة في هذا الصدد.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[يمكن تكون نتائج الرشوة والفساد وخيمة – سواء بالنسبة للأفراد أو الشركات، ويمكن أن تتراوح بين الغرامات وأحكام السجن.  تعتمد شركة Johnson Controls عليك دائمًا لتجنب تقديم الرشوة في جميع الأوقات والإبلاغ فورًا عن أي أنشطة مريبة في هذا الصدد.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

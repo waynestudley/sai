@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[卡洛斯倍感压力，如果不维修这些设备，便会面临丢失这栋大楼里诸多合约的风险。 卡洛斯应该怎么做？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[收下金钱，并维修设备，这样 Johnson Controls 便不会丢失这栋大楼的其他大合约，但要让拉斐尔知道下不为例。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[拒收金钱，但仍维修设备，这样 Johnson Controls 便不会丢失这栋大楼的其他大合约。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[找借口结束谈话，并联系经理。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[卡洛斯收下拉斐尔的钱，对这些未正确安装的设备进行维修。 Johnson Controls 保有这栋大楼里的合约。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[卡洛斯完成了工作，但未收下拉斐尔的钱。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[卡洛斯联系经理寻求建议。]]></text>
+			<text style=""><![CDATA[卡洛斯的经理指示他与团队成员离开。 卡洛斯回到办公室后，他们一起致电合规部门。 ]]></text>
+			<text style=""><![CDATA[公司展开调查，发现拉斐尔过去多次提出这种请求，而 Johnson Controls 的其他技术人员都接受了贿赂。 公司对这些技术人员进行了纪律处分。 ]]></text>
+		</correct>
+	</feedback>
+</contents>

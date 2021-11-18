@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[ยินดีด้วย คุณทดสอบความรู้ขั้นสุดท้ายผ่านแล้ว  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[เสียใจด้วย คุณยังทดสอบความรู้ขั้นสุดท้ายยังไม่ผ่าน ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[ขอแสดงความยินดี!]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[พนักงาน Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[พนักงาน Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[คลิกที่ หน้าหลัก เพื่อกลับไปยังเมนูหลัก จากที่นี่ คุณสามารถเข้าถึงประกาศนียบัตรรับรองผลของการจบหลักสูตร]]></text>
+		<text><![CDATA[คลิกที่ หน้าหลัก เพื่อกลับไปยังเมนูหลัก]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[คุณทดสอบความรู้ผ่าน ด้วยคะแนน <b>##%</b> สำหรับหลักสูตร: <span class="courseTitleAss" >การประยุกต์ใช้แนวปฏิบัติทางจรรยาบรรณ: การทำธุรกิจด้วยความซื่อสัตย์</span>]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[คุณไม่ผ่านหลักสูตร ด้วยคะแนน <b>##%</b>]]></text>
+		<text><![CDATA[คุณจำเป็นต้องได้คะแนนอย่างน้อย <span>#%</span> กรุณากลับไปที่โปรแกรมอีก แล้วทำแบบทดสอบความรู้นี้อีกครั้ง]]></text>
+	</feedbackFail>
+</contents>

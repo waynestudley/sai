@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Emma ha un secondo lavoro come broker per la nuova società di suo cognato, ma il suo lavoro alla Johnson Controls ne soffre.]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Quale scenario fra i seguenti pensi che sia la linea d'azione migliore per Emma?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Seleziona un’opzione e fai clic su OK.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent style="font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma prosegue con entrambi i lavori. Quando il suo lavoro di broker diventa impegnativo, chiede ai colleghi di coprirla e si prende dei giorni di malattia da Johnson Controls.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma continua a fare entrambi i lavori e fa del suo meglio per destreggiarsi tra le responsabilità. Quando le cose sono tranquille in Johnson Controls, risponde alle chiamate relative al lavoro di intermediazione e invia le e-mail dal suo smartphone personale.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma parla con il responsabile del suo lavoro per la società del cognato, e discutono il modo in cui tenere quel lavoro separato da quello in Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[La decisione di Emma di lavorare per la società immobiliare di suo cognato potrebbe creare un potenziale conflitto di interessi, soprattutto perché il lavoro secondario inizia a richiedere più tempo e attenzione.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma pensa ancora di potersi destreggiare tra le attività in modo che il suo nuovo lavoro non influenzi le sue responsabilità in Johnson Controls. Ma è realista? Decide di parlare con il suo responsabile per ogni evenienza.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:250px" fcStyle="top: -242px;">
+			<text style="padding-top:25px;"><![CDATA[Emma parla con il suo responsabile del suo secondo lavoro.]]></text>
+			<text><![CDATA[Il responsabile discute con lei di che cosa ci si aspetta da lei mentre è al lavoro, e di come tenere i lavori esterni non sia proibito, ma:<ul> <li>Non possono interferire con il suo lavoro in Johnson Controls. </li> <li>Non dovrebbe utilizzare alcuna risorsa aziendale fuori dal lavoro, compreso il tempo di lavoro per Johnson Controls.</li> </ul>]]></text>
+			<text><![CDATA[Si accordano sul fatto che lei non gestirà la sua attività durante l’orario di lavoro in Johnson Controls e che se il suo lavoro ne risente, dovranno riparlare dell’argomento.]]></text>
+		</correct>
+	</feedback>
+</contents>

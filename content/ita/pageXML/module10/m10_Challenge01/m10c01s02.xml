@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s02">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s02/contentBackground.jpg" minwidth="769"><![CDATA[Ambiente d'ufficio ]]></img>
+	</contentBackground>
+	<contentText>
+		<text style=""><![CDATA[Jian sta cercando di finire il suo lavoro su un progetto importante quando Holly si ferma nel suo ufficio. ]]></text>
+	</contentText>
+	<instructionText>
+		<text><![CDATA[Fai clic su ciascuna fase della storia.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_01.png" minwidth="700" minheight="550"><![CDATA[Uomo e donna in un ufficio]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="573" y="248" width="255" />
+				<text><![CDATA[<span style="font-weight: bold;">Jian</span>, Responsabile acquisti, Johnson Controls]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="10" y="245" width="248" />
+				<text><![CDATA[<span style="font-weight: bold;">Holly</span>, Project Manager, Johnson Controls]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="45" y="10" width="170" />
+				<text><![CDATA[Jian, hanno spostato la scadenza del progetto Texela. Dobbiamo scegliere un fornitore prima della fine della settimana.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="606" y="10" width="140" />
+				<text><![CDATA[Non so se posso farlo. Mia moglie deve subire un intervento e sarò assente per i prossimi due giorni. In effetti, esco tra un'ora per raggiungerla in ospedale.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="45" y="10" width="170" arrowStyle="top:10px" />
+				<text><![CDATA[Puoi riguardare i fornitori prima di andartene, vero? Hai detto di aver ricevuto le informazioni finanziarie la scorsa settimana. E puoi fare una consultazione incrociata delle offerte con il file principale del fornitore.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="606" y="10" width="140" arrowStyle="top:10px" />
+				<text><![CDATA[Sì, ma sto cercando di concludere prima un progetto diverso. Anche questo è urgente. ]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripThumImg numberText="4">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_04.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="45" y="10" width="170" arrowStyle="top:10px" />
+				<text><![CDATA[Beh, sei l’unico che è stato coinvolto nel progetto sin dall'inizio. Non posso chiedere a qualcun altro di entrarci ora, siamo troppo avanti con il lavoro.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="606" y="10" width="140" arrowStyle="top:10px" />
+				<text><![CDATA[Lo so. Vedrò che cosa posso fare. In ospedale aspetterò per qualche ora, quindi forse posso finirlo lì.]]></text>			
+			</stripCallOut>
+		</strip>
+	</comicStrip>
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[让我们看一些日常情景。 这些人是否将个人数据置于风险中？]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[以下哪些会对数据隐私构成风险？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[忙碌的办公室，员工都在电脑前工作]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[选择您认为将个人数据置于风险中的所有场景。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[正确答案可能不止一项。]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[使用公共 Wi-Fi]]></option>	
+		<option><![CDATA[在两个地方使用同一个密码]]></option>	
+		<option><![CDATA[将一张背景内包含白板的团队会议照片发布在社交媒体上]]></option>	
+		<option><![CDATA[在公众场所通过电话与客户讨论财务信息]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[正确。]]></text>
+			<text><![CDATA[上述所有示例都会对数据隐私构成风险。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[错误。]]></text>
+			<text><![CDATA[上述所有示例都会对数据隐私构成风险。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

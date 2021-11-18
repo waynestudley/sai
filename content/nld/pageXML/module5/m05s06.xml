@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[Ziet u hier waarschuwingssignalen? Duid er aan als u er hebt opgemerkt en klik op 'Indienen'.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Wat zijn de waarschuwingssignalen betreffende deze e-mail?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[Postvak IN van een e-mailaccount]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Duid alle waarschuwingssignalen aan en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[De verzender beweert een klant van Johnson Controls te zijn]]></option>	
+		<option><![CDATA[De klant heeft het over zaken, maar gebruikt hiervoor een Gmail-account]]></option>	
+		<option><![CDATA[De klant vraagt om informatie die mogelijk gereguleerd is, maar zonder veel informatie over zichzelf te verstrekken]]></option>	
+		<option><![CDATA[De klant zegt dat hij zich in Frankrijk bevindt, maar u kunt dit niet nagaan via de e-mail]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text style="font-size:15px;line-height:17px;padding-top:15px;"><![CDATA[Dat klopt.]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[De klant vraagt om technische informatie waarvan de export mogelijk gereguleerd is. Ook verstrekt hij bitter weinig informatie over zichzelf.]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[U moet op zijn minst meer over zijn identiteit en locatie en de geldende handelsbeperkingen achterhalen voordat u technische ondersteuning verstrekt. ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text style="font-size:15px;line-height:17px;padding-top:15px;"><![CDATA[Sorry, dit klopt niet.]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[De klant vraagt om technische informatie waarvan de export mogelijk gereguleerd is. Ook verstrekt hij bitter weinig informatie over zichzelf.]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[U moet op zijn minst meer over zijn identiteit en locatie en de geldende handelsbeperkingen achterhalen voordat u technische ondersteuning verstrekt. ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

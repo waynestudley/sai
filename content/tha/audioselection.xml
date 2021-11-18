@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[เลือกมุมมองที่คุณต้องการ:]]></text>		
+		<text><![CDATA[หลักสูตรนี้ใช้ระบบออดิโอและวิดีโอเพื่อสนับสนุนการเรียนรู้ เราขอแนะนำให้คุณดูหลักสูตรในโหมดออดิโอ/วิดีโอ อย่างไรก็ตาม หากคุณเลือกดูหลักสูตรในโหมดข้อความและกราฟฟิก จะมีบทบรรยายและรูปภาพแสดงขึ้นแทนออดิโอและวิดีโอ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[คลื่นเสียง]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[ดำเนินการต่อ]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[เลือกมุมมองที่ต้องการ]]></option>
+			<option id="A1"><![CDATA[โหมดออดิโอ/วิดีโอ]]></option>
+			<option id="A2"><![CDATA[โหมดข้อความและกราฟฟิก]]></option>
+	</dropDownMenu>
+</contents>

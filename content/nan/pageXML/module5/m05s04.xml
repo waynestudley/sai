@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[馬克考慮要如何回覆客戶的電子郵件。 您知道在這個情況下該怎麼做嗎？ 選取其中一個選項並提交您的答案。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[如果您回信請客戶提供更詳細的資訊，例如他們的公司名稱及職銜，您的電子郵件算是出口嗎？您知道為什麼嗎？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[員工]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[選擇一個項目然後提交。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[是，每封電子郵件都可能算是出口，因為伺服器位於不同的國家，電子郵件會跨過許多國界]]></option>	
+		<option><![CDATA[是，要求他國人士提供資訊的電子郵件一律算是出口，因為會收到個人資訊]]></option>	
+		<option><![CDATA[否，只回信要求客戶提供詳細資訊並不算是出口]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[正確。]]></text>
+			<text><![CDATA[為了確保自己遵守貿易管制規定，您應該寫信要求客戶提供詳細資訊。]]></text>
+			<text><![CDATA[但是，僅僅發送這封電子郵件並不構成出口，除非信件中有包含或附加設計圖、技術或其他管制產品資訊。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[抱歉，您答錯了。]]></text>
+			<text><![CDATA[為了確保自己遵守貿易管制規定，您應該寫信要求客戶提供詳細資訊。]]></text>
+			<text><![CDATA[但是，僅僅發送這封電子郵件並不構成出口，除非信件中有包含或附加設計圖、技術或其他管制產品資訊。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

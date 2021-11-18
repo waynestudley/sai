@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[Čo si myslíte vy? Robia títo zamestnanci dosť na to, aby uchovali osobné údaje v bezpečí?]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[Zamestnanec pracujúci s údajmi na prenosnom počítači]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Myslíte si, že títo zamestnanci primerane chránia osobné údaje?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Vyberte možnosť Áno alebo Nie pre každú možnosť a potom kliknite na položku Odoslať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img01.png"><![CDATA[Zamestnanec vyhadzujúci dokument]]></img>
+			<text style="width: 390px;"><![CDATA[Vyhodenie dokumentu s osobnými údajmi tam, kde k nemu môžu mať iné osoby prístup]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img02.png"><![CDATA[Zamestnanec idúci po kávu]]></img>
+			<text style="width: 390px;"><![CDATA[Odchod po kávu počas čakania na dokončenie tlačovej úlohy s dôvernými údajmi o zákazníkoch]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img03.png"><![CDATA[Heslo]]></img>	
+			<text style="width: 390px;"><![CDATA[Používanie silných hesiel na ochranu dokumentov obsahujúcich osobné údaje]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img04.png"><![CDATA[Kalendár]]></img>	
+			<text style="width:390px;"><![CDATA[Uchovávanie osobných údajov dlho po tom, ako boli potrebné/nevyhnutné „len tak, pre istotu“]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Áno]]></text>
+		<text><![CDATA[Nie]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Správne.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Ochrana osobných, finančných a bankových údajov zamestnancov, zákazníkov a obchodných partnerov je životne dôležitá. Dodržiavajte všetky naše bezpečnostné opatrenia a nikdy nenechávajte osobné údaje na mieste, kde ich môžu ostatní vidieť, aj keď len na chvíľu a keď sú okolo osoby, ktorým dôverujete. Informácie správne zlikvidujte, ak už neexistuje legitímna potreba ich uchovávať.]]></text>			
+		</correct>
+		<incorrect style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Nesprávne.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Ochrana osobných, finančných a bankových údajov zamestnancov, zákazníkov a obchodných partnerov je životne dôležitá. Dodržiavajte všetky naše bezpečnostné opatrenia a nikdy nenechávajte osobné údaje na mieste, kde ich môžu ostatní vidieť, aj keď len na chvíľu a keď sú okolo osoby, ktorým dôverujete. Informácie správne zlikvidujte, ak už neexistuje legitímna potreba ich uchovávať.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

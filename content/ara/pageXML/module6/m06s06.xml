@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s06">
+	<transcript>
+		<text path="audio/module6/m06s06" id="0"><![CDATA[ما الذي يمكن القيام به كذلك لتجنب التلاعب بالسوق؟ انقر فوق كل زر كشف لمعرفة المزيد.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[عندما نتبوأ وضع الهيمنة، نحتاج إلى تجنب التصرفات أو الاستراتيجيات التي يمكن اعتبارها إساءة استغلال لذلك الوضع.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/rtl/module6/m06s06/contentBackground.jpg" minwidth="769"><![CDATA[خلفية مكتبة يظهر فيها شخصان يضعان استراتيجية]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;left: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[انقر فوق كل زر كشف لمعرفة المزيد. ستحتاج إلى التمرير بالماوس لقراءة الإجابة الكاملة.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[كشف]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/rtl/module6/m06s06/img1.png"><![CDATA[مجموعة من المنتجات]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[الربط بين المنتجات]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[يحدث هذا عندما تقوم شركة بإنشاء حزمة من المنتجات ولا تتيحها للشراء على نحو مستقل.]]></text>						
+				<text><![CDATA[والنتيجة النهائية هي إجبار المستهلك على شراء منتج قد لا يرغب فيه ليتاح له شراء منتج يريده.]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/rtl/module6/m06s06/img2.png"><![CDATA[بائع ومشترٍ يراجعان أسعار المنتجات]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[التعامل الحصري]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[يحدث هذا عندما يتم إجبار مشترٍ على نحو فعال على شراء معظم أو كل المنتجات أو الخدمات من بائع واحد، ويكون ذلك عادةً لفترة معينة.]]></text>					
+				<text><![CDATA[فرضت المفوضية الأوروبية غرامة تبلغ 1.06 مليار يورو على شركة Intel لقيامها بمنح تخفيضات تحسين ولاء إلى عملائها لطرد الجهات المنافسة الأخرى من السوق. كانت التخفيضات مشروطة بأن يتم شراء جميع أو أغلبية متطلباتها من المؤسسة المهيمنة.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/rtl/module6/m06s06/img3.png"><![CDATA[صورة لخصم بنسبة 50% في عربة تسوق]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[التسعير المضر بالمنافسة (التوحشي)]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[يحدث هذا عند بيع شركة ما إلى المستهلكين بسعر منخفض على نحو غير طبيعي وبقصد تحمل خسارة.]]></text>			
+				<text><![CDATA[عادةً ما تفعل الشركات هذا الأمر للقضاء على الجهات المنافسة التي لا تتحمل الأسعار عند هذا المستوى المنخفض ولذلك تختار الخروج من السوق.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/rtl/module6/m06s06/img4.png"><![CDATA[مخطط يوضح ارتفاع الأسعار]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[رفض التعامل]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[يحدث هذا الأمر عند رفض شركة ما البيع إلى شركة أخرى ولا توافق على البيع لها إلا بسعر باهظ للغاية.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/rtl/module6/m06s06/img5.png"><![CDATA[اتفاق شفهي لمنع موزع من البيع إلى عملاء معينين]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[منع التنافس داخل العلامة التجارية الواحدة]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[يحدث هذا عند قيام شركات بعقد اتفاقات مع الموزعين لمنعهم من البيع في مناطق معينة أو إلى عملاء محددين.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

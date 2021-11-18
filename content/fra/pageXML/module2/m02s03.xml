@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[Dans quelle mesure connaissez-vous notre politique d’entreprise relative aux cadeaux et divertissements ? Pour chaque proposition, sélectionnez « Vrai » ou « Faux », puis cliquez sur Valider.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[Salariés]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Les affirmations suivantes sur les cadeaux et divertissements sont-elles vraies ou fausses ?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Pour chaque proposition, sélectionnez « Vrai » ou « Faux », puis cliquez sur Valider.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[Personne recevant un cadeau et divertissement en cours en arrière-plan]]></img>
+			<text style="width: 390px;"><![CDATA[Les politiques de Johnson Controls couvrent toutes les situations relatives aux cadeaux et divertissements : il n’y a aucun doute possible.]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[Salarié ayant l’air songeur]]></img>
+			<text style="width: 390px;"><![CDATA[Quand vous recevez un divertissement ou un cadeau, posez-vous toujours cette question : « Attendent-ils quelque chose de moi en échange ? » ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[Salarié ayant l’air songeur]]></img>	
+			<text style="width: 390px;"><![CDATA[Si la personne à laquelle vous offrez un cadeau ou un divertissement risque de penser que vous attendez quelque chose en retour, ne lui offrez rien.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[Salarié ayant l’air songeur]]></img>	
+			<text style="width:390px;"><![CDATA[Mieux vaut ne jamais offrir ni accepter de cadeaux et divertissements : c’est trop risqué.]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Vrai]]></text>
+		<text><![CDATA[Faux]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 6px;width: 220px;height: 341px;right: -256px;line-height:19px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[C’est exact.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Dans certaines circonstances, il est acceptable d’offrir et de recevoir des cadeaux et divertissements, mais cela demande de faire preuve de discernement et de comprendre les recommandations de Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Nos politiques ne peuvent pas prévoir tous les cas de figure et vous devez donc étudier attentivement la situation, faire preuve de bon sens et, en cas de doute, demander conseil avant d’agir.]]></text>			
+		</correct>
+		<incorrect style="top: 6px;width: 220px;height: 341px;right: -256px;line-height:19px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[C’est faux.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Dans certaines circonstances, il est acceptable d’offrir et de recevoir des cadeaux et divertissements, mais cela demande de faire preuve de discernement et de comprendre les recommandations de Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Nos politiques ne peuvent pas prévoir tous les cas de figure et vous devez donc étudier attentivement la situation, faire preuve de bon sens et, en cas de doute, demander conseil avant d’agir.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

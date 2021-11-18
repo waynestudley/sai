@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0" ><![CDATA[What do you know already about risks to Intellectual Property? Explore Maria’s situation, select all the appropriate responses and then click on Submit.]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+	</transcript>
+	<contentText >
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Maria began working at Johnson Controls a few months ago and has been involved with the launch of a new product, which is causing excitement in the industry.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Maria’s friend, Pete, who is in a similar industry, asks her how her job is going and starts to ask specific questions about the new product.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[How should Maria respond?]]></text>
+	</contentText>
+	<contentBackground >		
+		<img path="content/images/ltr/module7/m07s03/contentBackground.jpg" minwidth="769" ><![CDATA[Maria and Pete]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"  ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;">
+		<text><![CDATA[Select all the appropriate responses and then click on Submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<extraInstructionText >
+		<text><![CDATA[There may be more than one correct answer.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option ><![CDATA[She should make Pete promise not to reveal anything she is about to tell him before discussing details of the product and the launch]]></option>	
+		<option ><![CDATA[She should tell Pete how she feels about the work (e.g., it's exciting, challenging, etc.) without revealing any details about the product or the launch]]></option>	
+		<option ><![CDATA[She should tell Pete that the work she is doing is confidential and she can't reveal any details]]></option>	
+		<option ><![CDATA[She should only talk about her projects and share details that aren’t available to the general public with close friends and family that she trusts]]></option>	
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback >
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-236px" >
+			<text><![CDATA[That’s correct.]]></text>
+			<text><![CDATA[Maria can tell Pete how she feels about the work, but shouldn’t reveal any of the company’s confidential information – including details about the new product or its launch.]]></text>
+			<text><![CDATA[The key point to remember is to NEVER reveal trade secrets or any other confidential information to unauthorized people outside our company for any reason.]]></text>
+			<text><![CDATA[Under no condition should even trusted friends and family be made aware of trade secrets being used or IP being developed by Johnson Controls. ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-236px" >
+			<text><![CDATA[That’s not correct.]]></text>
+			<text><![CDATA[Maria can tell Pete how she feels about the work, but shouldn’t reveal any of the company’s confidential information – including details about the new product or its launch.]]></text>
+			<text><![CDATA[The key point to remember is to NEVER reveal trade secrets or any other confidential information to unauthorized people outside our company for any reason.]]></text>
+			<text><![CDATA[Under no condition should even trusted friends and family be made aware of trade secrets being used or IP being developed by Johnson Controls. ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

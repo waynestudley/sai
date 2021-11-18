@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle="padding:10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 6px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text style="position:relative;top:0px;line-height:18px;font-size:15px;"><![CDATA[Depois de falar com Nolan, Jian está preocupado com a solicitação do fornecedor, principalmente por estarem falando abertamente sobre fazer o pagamento para obter a licença mais rapidamente. ]]></text>
+		<text style="position:relative;top:6px;line-height:18px;font-size:15px;"><![CDATA[Então ele foi falar com o Departamento Jurídico. ]]></text>
+	</contentText>
+	<instructionText style="margin-top: 10px;">
+		<text><![CDATA[Clique em cada sequência da história.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="13" y="262" width="178" />
+				<text><![CDATA[<span class="fontBold">Jian</span>]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="598" y="262" width="210" />
+				<text><![CDATA[<span class="fontBold">Li-Hua</span>, advogado]]></text>			
+			</stripCallOut>
+		</strip>		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="40" y="32" width="282" arrowStyle="top:62px;" />
+				<text><![CDATA[Eu não estava confortável com a situação. A TSR estava pedindo dinheiro para fazer um pagamento de facilitação, o que é totalmente contra a política da Johnson Controls. Fui falar com nossos advogados e contei a eles toda a história.]]></text>
+			</stripCallOut>
+		</strip>		
+		<strip id="3">
+			<stripThumImg numberText="3">
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s11/Page_11_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="527" y="12" width="240" arrowStyle="top: 85px;" />
+				<text style="margin-bottom:10px;"><![CDATA[Jian fez o certo ao não aprovar o pagamento de facilitação e ao falar conosco para informar suas preocupações sobre a solicitação do fornecedor. Assumiremos a partir daqui.]]></text>
+				<text><![CDATA[Também garantimos a Jian que há uma certa flexibilidade na cláusula de penalidade do contrato do cliente, sendo que os atrasos fora de nosso controle não geram penalidades.]]></text>
+			</stripCallOut>
+		</strip>
+	</comicStrip>
+</contents>

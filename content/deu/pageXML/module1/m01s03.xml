@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[Wie gut sind Sie darin, riskante Situationen zu erkennen? Lesen Sie dieses Szenario und entscheiden Sie, ob hier ein Interessenkonflikt besteht.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[Ein Büro]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 10px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:14px;line-height:15px;margin-bottom:0px;"><![CDATA[Können Sie einen Interessenkonflikt erkennen?  Entscheiden Sie, ob in den folgenden Situationen ein potenzieller Interessenkonflikt vorliegt, der offengelegt werden muss:]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Wählen Sie für jede Option „Ja“ oder „Nein“ aus und klicken Sie auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+		<text><![CDATA[Klicken Sie auf die Fragezeichen, um mehr zu erfahren.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[Frau trägt eine Schürze, als ob Sie in einer Bäckerei arbeite]]></img>
+			<text style="width: 450px;"><![CDATA[Jennifer, eine Johnson Controls-Mitarbeiterin, plant, an den Wochenenden in der neuen Bäckerei ihrer Schwester zu arbeiten. Diese Woche hat sie sich allerdings krankgemeldet, um bei der großen Eröffnung auszuhelfen.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[Mann in Geschäftskleidung]]></img>
+			<text style="width: 450px;"><![CDATA[Alex, Beschaffungsmitarbeiter bei Johnson Controls, ist der Meinung, dass sein Freund Steve perfekt für eine derzeit offene Stelle im Unternehmen geeignet wäre. Er erzählt Steve von der Stelle und schlägt ihm vor, die Online-Bewerbung auszufüllen.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[Frau in Geschäftskleidung (aus dem Nahen Osten)]]></img>	
+			<text style="width: 450px;"><![CDATA[Basma ist Qualitätsingenieurin bei Johnson Controls. Einer der Anbieter, die sie betreut, bietet ihr eine Beratungsmöglichkeit an. Der Anbieter erklärt, dass er für eine neue Produktreihe, die er für Johnson Controls erstellt, Hilfe bei der Einrichtung von ausgehenden Qualitätschecks benötigt. Er stellt klar, dass Basma ihre Arbeiten abends oder am Wochenende verrichten kann – also außerhalb ihrer Arbeitszeiten.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[Mann in Geschäftskleidung]]></img>	
+			<text style="width:450px;"><![CDATA[Carl war verantwortlich für die Auswahl eines Anbieters, der Johnson Controls bei einem wichtigen Projekt unterstützen sollte. Anfang des Jahres hat er in beträchtlichem Umfang in das IT-Unternehmen eines Freundes investiert, und dieses Unternehmen hat jetzt ein Angebot für das Projekt abgegeben.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Ja]]></text>
+		<text><![CDATA[Nein]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[Das ist richtig.]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[Das stimmt leider nicht. ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[Klicken Sie auf die Fragezeichen, um mehr zu erfahren.]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[Es stellt kein Problem dar, wenn Jennifer am Wochenende in der Bäckerei ihrer Schwester aushilft. Allerdings liegt ein Interessenkonflikt vor, wenn ihre Verpflichtung ihrer Schwester gegenüber Einfluss auf ihre Verantwortlichkeiten bei Johnson Controls nimmt – dies war zum Beispiel der Fall, als sie sich krankschreiben ließ und einen Arbeitstag unter der Woche versäumte, um ihrer Schwester zu helfen.]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[Alex arbeitet zwar in der Beschaffung, hat seine Position aber nicht eingesetzt, um seinem Freund dabei zu helfen, die Stelle zu bekommen. Alex‘ Empfehlung an Steve, die Online-Bewerbung auszufüllen, ist zulässig, da Steve denselben Prozess durchlaufen wird wie alle anderen Bewerber auch.]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[Basma überwacht die Arbeit eines Anbieters und erwägt nun, eine Nebenbeschäftigung bei diesem Anbieter anzunehmen. Wo liegt ihre Loyalität, wenn sie bei beiden Unternehmen beschäftigt ist? Sie könnte potenziell in einen Interessenkonflikt geraten, und eine solche Situation ist unbedingt zu vermeiden. Basma muss mindestens den potenziellen Interessenkonflikt offenlegen.]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[Carl wird davon profitieren, wenn das Unternehmen, in das er investiert hat, den Auftrag erteilt bekommt. Sein persönliches Interesse an der Entscheidung könnte sich auf seine Fähigkeit zur neutralen Entscheidungsfällung auswirken, sodass hier ein Interessenkonflikt vorliegt.]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

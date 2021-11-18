@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[ما مدى مهارتك في التعرّف على المواقف المحفوفة بالمجازفات؟ اقرأ هذا السيناريو، وحدد "أوافق" أو "أرفض" لكل خيار، ثم انقر فوق "إرسال".]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[رواق الموظفين]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;left: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[أحد المستشارين تعمل معه في الشرق الأوسط يخبرك أن جمارك استيراد شحنة معينة مرتفعة للغاية، لكنه عثر على "حل أرخص" والشحنة تم الإفراج عنها الآن. أي هذه العبارات توافق عليها؟]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[حدد "أوافق" أو "أرفض" لكل خيار ثم انقر فوق "إرسال". ]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module3/m03s02/img01.png"><![CDATA[أحواض سفن]]></img>
+			<text style="width: 450px;"><![CDATA["الحل الأرخص" يمكن أن يعني دفع رشوة إلى أحد الأشخاص ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module3/m03s02/img02.png"><![CDATA[أحواض سفن]]></img>
+			<text style="width: 450px;"><![CDATA[عليك أن تبلغ عن أي حالات اشتباه إلى مديرك أو قسم الشؤون القانونية   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module3/m03s02/img03.png"><![CDATA[أحواض سفن]]></img>	
+			<text style="width: 450px;"><![CDATA[وعليك أن تنتظر لترى ما يحدث ثم ناقش الأمر مع مديرك]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module3/m03s02/img04.png"><![CDATA[أحواض سفن]]></img>	
+			<text style="width:450px;"><![CDATA[إذا قام مستشارك بدفع مبلغ رشوة بالنيابة عن شركتك، فسوف يتحمل هو المسؤولية، وليس شركة Johnson Controls]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module3/m03s02/img05.png"><![CDATA[أحواض سفن]]></img>	
+			<text style="width:450px;"><![CDATA[عليك أن تشكر المستشار لتوفيره للمال وأن تسيّر المزيد من العمل على طريقته في المستقبل]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[أوافق]]></text>
+		<text><![CDATA[لا أوافق]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[هذا صحيح.]]></text>			
+			<text style="font-size: 13px;"><![CDATA[يمكن أن يكون "الحل الأرخص" دفع رشوة. في بعض الأحيان يمكن أن يكون تقديم الرشوة خفيًّا للغاية. في حالة كهذه، ينبغي لك الإبلاغ عن شكوكك فورًا إلى مديرك وأحد أفراد قسم الشؤون القانونية أو قسم الامتثال، أو تقوم بالإبلاغ عن مخاوفك عبر الخط الساخن للنزاهة. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[إذا قامت جهة خارجية بدفع رشوة بالنيابة عن شركة Johnson Controls، فنحن لا نزال مسؤولين عن ذلك قانونًا.]]></text>			
+		</correct>
+		<incorrect style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[هذا ليس صحيحًا.]]></text>	
+			<text style="font-size: 13px;"><![CDATA[يمكن أن يكون "الحل الأرخص" دفع رشوة. في بعض الأحيان يمكن أن يكون تقديم الرشوة خفيًّا للغاية. في حالة كهذه، ينبغي لك الإبلاغ عن شكوكك فورًا إلى مديرك وأحد أفراد قسم الشؤون القانونية أو قسم الامتثال، أو تقوم بالإبلاغ عن مخاوفك عبر الخط الساخن للنزاهة. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[إذا قامت جهة خارجية بدفع رشوة بالنيابة عن شركة Johnson Controls، فنحن لا نزال مسؤولين عن ذلك قانونًا.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

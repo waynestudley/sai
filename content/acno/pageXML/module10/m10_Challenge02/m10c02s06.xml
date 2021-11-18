@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[Emma está haciendo un esfuerzo para no dejar que su empleo secundario la distraiga de su trabajo en Johnson Controls. Sin embargo, ya se corrió la voz en la oficina, y ahora Emma tiene tres compañeros de trabajo que están interesados en la propiedad más nueva que tiene para vender.  Mientras está atendiendo una llamada de un cliente, Emma recibe un mensaje instantáneo de Sandy, que trabaja en Contabilidad.]]></text>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[<i>“Hola, Emma. Me ENCANTARÍA ver el lugar que tienes en Newbury Road. El enlace que enviaste se ve fantástico. Es exactamente lo que estábamos buscando. ¿Crees que podrías irte un poco más temprano hoy para evitar el tráfico y mostrarme el lugar?”</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:8px;">
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;font-size:14px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma acepta salir temprano del trabajo para mostrarle a Sandy la propiedad.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma le dice a Sandy que tiene más llamadas que atender y papeleo que terminar, por lo que no puede irse temprano. Pero le comenta que tiene más fotos y videos en su computadora portátil, y que Sandy puede pasar por su escritorio en cualquier momento del día para verlos y hablar al respecto en más detalle.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma le dice a Sandy que no puede mostrarle la propiedad esa misma tarde, pero que le enviará más fotos después de la llamada con el cliente. Le pide a Sandy que la llame a su casa más tarde para hablar al respecto en más detalle.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height: 210px;" fcStyle="top: -203px;">
+			<text style="padding-top:12px;"><![CDATA[Esta es la opción más riesgosa. Veamos lo que sucede cuando Emma toma esta decisión.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 210px;" fcStyle="top: -198px;">
+			<text style="padding-top:25px;"><![CDATA[A pesar de que Emma no se fue temprano, usó los bienes de Johnson Controls y el tiempo de la empresa para llevar adelante un negocio externo, lo cual no debería hacer y, además, distrae a otros compañeros de trabajo que están interesados en ver propiedades.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 210px;" fcStyle="top: -203px;">
+			<text style="padding-top:25px;"><![CDATA[Emma está tomando medidas para mantener sus dos trabajos separados. Sin embargo, no debería usar la computadora portátil del trabajo ni el servicio de mensajería instantánea o de correo electrónico del trabajo para llevar adelante un negocio externo. Además, su comportamiento distrae a otros compañeros de trabajo que están interesados en ver propiedades.]]></text>
+		</correct>
+	</feedback>
+</contents>

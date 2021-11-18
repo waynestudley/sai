@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s05">
+	<transcript>
+		<text path="audio/module4/m04s05" id="0"><![CDATA[סוגים מסוימים של נתונים אישיים הם ברורים, אך אחרים עשויים להיות עדינים יותר. ]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[למידע אישי יכולות להיות צורות רבות. לחץ על כל סוג למטה לקבלת דוגמאות נוספות של סוגי המידע שעשויים להיחשב לאישיים או פרטיים.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/rtl/module4/m04s05/contentBackground.jpg" minwidth="769"><![CDATA[אישה וארון תיקיות]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[לחץ על כל סוג מידע כדי לראות דוגמאות]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:145px">
+		<revealCallOut width="230px" height="178px" top="15px" right="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/rtl/module4/m04s05/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 44px;"><![CDATA[פרטי יצירת קשר]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 50px;top: -45px;width: 958px;">
+				<text><![CDATA[שם, מספר טלפון וכתובת דוא"ל]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" right="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/rtl/module4/m04s05/btn2.png" minwidth="769"><![CDATA[דת]]></img>
+			<buttonText style="height: 44px;"><![CDATA[מידע אישי רגיש]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 60px;top: -45px;width: 958px;">
+				<text><![CDATA[מצב רפואי, נטייה מינית, חברות במפלגה פוליטית, דת או מידע דומה אודות ההשקפות הפרטיות של מישהו.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" right="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/rtl/module4/m04s05/btn3.png" minwidth="769"><![CDATA[קורות חיים]]></img>
+			<buttonText style="height: 44px;"><![CDATA[פרטי תעסוקה]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 50px;top: -45px;width: 958px;">
+				<text><![CDATA[היסטוריית עבודה ושכר]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" right="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/rtl/module4/m04s05/btn4.png" minwidth="769"><![CDATA[כרטיס אשראי]]></img>
+			<buttonText style="height: 44px;"><![CDATA[מידע פיננסי]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 50px;top: -45px;width: 958px;">
+				<text><![CDATA[מספרי כרטיס אשראי או חשבון בנק]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

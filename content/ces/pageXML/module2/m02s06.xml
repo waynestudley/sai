@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[U každého z uvedených příkladů vyberte možnost Dar nebo Pohoštění a klikněte na tlačítko Odeslat.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[Pracovníci v kanceláři]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Zkuste v jednotlivých případech rozpoznat, zda se jedná o dar, nebo pohoštění.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[U každé položky zvolte možnost Dar nebo Pohoštění a pak klikněte na tlačítko Odeslat.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png"><![CDATA[Zaměstnanci při týmovém obědě s dodavatelem]]></img>
+			<text style="width: 406px;"><![CDATA[Dodavatel pozve celý projektový tým do restaurace kvůli oslavě ukončení velkého projektu.]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png"><![CDATA[Zamyšlený zaměstnanec]]></img>
+			<text style="width: 406px;"><![CDATA[Zákazník vám dá poukaz na masáž v místním resortu jako poděkování za vaši práci.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png"><![CDATA[Zamyšlený zaměstnanec]]></img>	
+			<text style="width: 406px;"><![CDATA[Jste na veletrhu jako zástupce společnosti a pořadatelé pozvou účastníky na večerní akci.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png"><![CDATA[Zamyšlený zaměstnanec]]></img>	
+			<text style="width:406px;"><![CDATA[Dodavatel nabízí, že po schůzce na pracovišti zaplatí vašemu týmu jídlo v místní restauraci, kterého se však sám nebude účastnit.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png"><![CDATA[Zamyšlený zaměstnanec]]></img>	
+			<text style="width:406px;"><![CDATA[Dodavatelka vás pozve na sportovní akci, pak jí ale není dobře a řekne vám, ať jdete sami.]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;font-size:12px;"><![CDATA[Dar]]></text>
+		<text styleWidth="width:100px;font-size:12px;line-height:11px;"><![CDATA[Zábava a pohoštění]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -95px;width: 230px;height: 416px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Správně.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Pro hlášení darů a pohoštění platí odlišná pravidla. Nezapomeňte, že v případě pohoštění sdílí prospěch i dárce – jde na večeři, účastní se akce, atd.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Když dodavatel pozve tým na jídlo nebo když se účastníte večerní akce na veletrhu, jedná se o pohoštění, protože obě situace poskytují příležitost k hovoru o obchodních záležitostech a dárce sdílí prospěch. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Dárkové certifikáty či pozvání na události, kterých se dárce neúčastní, se považují za dary. ]]></text>			
+		</correct>
+		<incorrect style="top: -95px;width: 230px;height: 416px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[To není správně.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Pro hlášení darů a pohoštění platí odlišná pravidla. Nezapomeňte, že v případě pohoštění sdílí prospěch i dárce – jde na večeři, účastní se akce, atd.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Když dodavatel pozve tým na jídlo nebo když se účastníte večerní akce na veletrhu, jedná se o pohoštění, protože obě situace poskytují příležitost k hovoru o obchodních záležitostech a dárce sdílí prospěch. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Dárkové certifikáty či pozvání na události, kterých se dárce neúčastní, se považují za dary. ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

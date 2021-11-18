@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[Un cliente ha chiesto a Carlos di svolgere del lavoro extra. Come pensi che dovrebbe rispondere? Seleziona un’opzione quindi fai clic su OK.]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Che cosa deve fare Carlos?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Seleziona un’opzione e fai clic su OK.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Accettare il lavoro, far promettere a David di mantenere il segreto e completare il lavoro insieme prima di andarsene.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Dire a David di fare il lavoro se lo desidera, ma che non sarà coinvolto.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Spiegare educatamente al cliente che non possono accettarlo, perché ciò toglierebbe il lavoro a Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos e David completano il lavoro prima di andarsene. È semplice! E portano sempre qualche sensore di ricambio in modo Johnson Controls non si accorga di nulla.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[David accetta di accettare il lavoro extra.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos chiama il suo responsabile, che mette a conoscenza il team di vendita e gli prepara un preventivo per il lavoro aggiuntivo. Il lavoro va a Johnson Controls, anziché venire dirottato personalmente a Carlos o David.]]></text>
+		</correct>
+	</feedback>
+</contents>

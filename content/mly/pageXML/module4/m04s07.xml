@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[Apakah pendapat anda? Adakah pekerja-pekerja ini menyimpan data peribadi dengan selamat dan secukupnya?]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[Pekerja yang bekerja dengan data di komputer riba]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Adakah anda fikir bahawa pekerja ini melindungi data peribadi dengan secukupnya?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Pilih Ya atau Tidak untuk setiap pilihan, kemudian klik Serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img01.png"><![CDATA[Pekerja membuang kertas sebaran]]></img>
+			<text style="width: 390px;"><![CDATA[Membuang kertas sebaran yang mengandungi maklumat peribadi di mana orang lain boleh mengaksesnya]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img02.png"><![CDATA[Pekerja mengambil kopi]]></img>
+			<text style="width: 390px;"><![CDATA[Mengambil kopi sambil menunggu kerja cetakan yang mengandungi data sulit pelanggan]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img03.png"><![CDATA[Kata laluan]]></img>	
+			<text style="width: 390px;"><![CDATA[Gunakan kata laluan yang kukuh untuk melindungi dokumen yang mengandungi maklumat peribadi]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img04.png"><![CDATA[Kalendar]]></img>	
+			<text style="width:390px;"><![CDATA[Menyimpan data peribadi dengan lama selepas diminta/diperlukan "sekiranya perlu"]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Ya]]></text>
+		<text><![CDATA[Tidak]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Betul.]]></text>			
+			<text style="font-size: 15px;line-height:18px;"><![CDATA[Melindungi maklumat kewangan dan perbankan peribadi pekerja, pelanggan dan rakan perniagaan adalah sangat penting. Patuhi semua langkah keselamatan kita dan jangan sekali-kali tinggalkan maklumat peribadi dalam kawasan di mana orang lain boleh melihatnya, walaupun sekejap dan di sekeliling orang lain yang anda percaya. Lupuskan maklumat dengan betul apabila tiada lagi keperluan sah untuk menyimpannya.]]></text>			
+		</correct>
+		<incorrect style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Tidak betul.]]></text>	
+			<text style="font-size: 15px;line-height:18px;"><![CDATA[Melindungi maklumat kewangan dan perbankan peribadi pekerja, pelanggan dan rakan perniagaan adalah sangat penting. Patuhi semua langkah keselamatan kita dan jangan sekali-kali tinggalkan maklumat peribadi dalam kawasan di mana orang lain boleh melihatnya, walaupun sekejap dan di sekeliling orang lain yang anda percaya. Lupuskan maklumat dengan betul apabila tiada lagi keperluan sah untuk menyimpannya.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

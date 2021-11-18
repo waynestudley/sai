@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m03s03">
+	<transcript>
+		<text path="audio/module3/m03s03" id="0"><![CDATA[El soborno no siempre implica un intercambio de dinero en efectivo. Haga clic en cada botón de mostrar para leer más información.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Verifique su comprensión del soborno.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s03/contentBackground.jpg" minwidth="769"><![CDATA[Figuras en sombra]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Haga clic en cada botón de mostrar para leer más información. Es posible que deba desplazarse para leer la respuesta completa.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[MOSTRAR]]></text>
+	</buttonText>	
+	<flipCardContent width="230px">
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img1.png" style=""><![CDATA[¿Cuándo ocurre el soborno?]]></buttonImg>
+			<buttonText style=""><![CDATA[¿Cuándo ocurre el soborno?]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[<span class="fontBold">Los sobornos</span> tienen lugar cuando se entrega algún elemento de valor a una persona en un intento por influir de manera indebida en sus decisiones o acciones.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img2.png" style=""><![CDATA[Una persona pasándole un sobre marrón a otra]]></buttonImg>
+			<buttonText style=""><![CDATA[¿Qué significa “cualquier elemento de valor”?]]></buttonText>		
+			<popText style="">
+				<text><![CDATA[Puede tratarse de dinero en efectivo, pero también puede incluir lo siguiente:<ul> <li>acciones de una empresa;</li> <li>regalos o propinas;</li> <li>atenciones de cortesía o entretenimiento excesivos;</li> <li>excursiones o vacaciones, incluso en relación con un viaje de negocios legítimo;</li> <li>rebajas injustificadas o comisiones excesivas;</li> <li>contribuciones políticas o benéficas;</li> <li>empleos para clientes y los familiares o amigos de estos;</li> <li>asignaciones y gastos poco comunes o encubiertos;</li> <li>cualquier otro elemento de valor para el destinatario.</li> </ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img3.png" style=""><![CDATA[Una persona pasándole un sobre marrón a otra]]></buttonImg>
+			<buttonText style=""><![CDATA[¿El soborno está prohibido en todas partes?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[<ul> <li>Muchos países de todo el mundo han promulgado leyes contra el soborno, incluso países en los que el soborno ha sido históricamente generalizado.</li> <li>Nuestra política prohíbe el soborno en cualquier país donde hagamos negocios; como corporación multinacional, nuestras acciones en un país pueden llevar a la aplicación de la ley en todos los demás lugares donde operamos.</li> <li>En muchas jurisdicciones de todo el mundo, el soborno también es un delito, y las personas pueden ser acusadas, juzgadas y condenadas por participar en un plan de soborno.</li> </ul>]]></text>		
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img4.png" style=""><![CDATA[Una persona pasándole un sobre marrón a otra]]></buttonImg>
+			<buttonText style=""><![CDATA[¿Es relevante si usted entrega o recibe un soborno?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[En casi todas las jurisdicciones, es tan ilegal entregar un soborno como recibirlo. La política de Johnson Controls prohíbe ofrecer y recibir sobornos de cualquier tipo.]]></text>			
+			</popText>
+		</flipCard>		
+	</flipCardContent>	
+</contents>

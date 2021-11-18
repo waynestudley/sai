@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s06">
+	<transcript>
+		<text path="audio/module6/m06s06" id="0"><![CDATA[시장 남용을 피하기 위해 할 수 있는 다른 일로 무엇이 있을까요? 자세히 알아보려면 각 '표시' 버튼을 클릭하십시오.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[지배적인 지위에 있을 때 우리는 그 지위의 남용으로 간주될 수 있는 행동이나 전략을 피해야 합니다.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s06/contentBackground.jpg" minwidth="769"><![CDATA[전략을 세우는 두 사람이 있는 사무실 배경]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[자세히 알아보려면 각 '표시' 버튼을 클릭하십시오. 전체 답변을 읽으려면 스크롤해야 할 수 있습니다.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[표시]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s06/img1.png"><![CDATA[제품 한 묶음]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[끼워팔기]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[끼워팔기는 한 기업이 제품들을 함께 묶어서 개별적으로 구매할 수 없게 하는 경우에 발생합니다.]]></text>						
+				<text><![CDATA[그 결과, 소비자는 원하는 제품을 구매하기 위해 원하지 않는 제품도 사야 합니다.]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s06/img2.png"><![CDATA[제품 가격을 검토하는 구매자와 판매자]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[배타적 거래]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[이것은 구매자가 일반적으로 일정 기간 동안 한 판매자로부터 대부분 또는 모든 제품이나 서비스를 구매하도록 사실상 강요할 때 발생합니다.]]></text>					
+				<text><![CDATA[유럽위원회(European Commission)는 다른 경쟁업체들을 시장에서 배제하기 위해 고객들에게 충성도 강화를 위한 리베이트를 제공한 Intel에 대해 10억 6천만 유로의 과징금을 부과했습니다. 이 리베이트는 모든 또는 거의 모든 제품을 이 지배적인 기업에서 구매하는 것이 조건이었습니다.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img3.png"><![CDATA[장바구니 안에 보이는 50% 할인 표시 그림]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[약탈적 가격 책정]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[이것은 기업이 인위적으로 낮은 가격으로 소비자에게 판매하여 의도적으로 손실을 입을 때 발생합니다.]]></text>			
+				<text><![CDATA[일반적으로 기업들은 경쟁업체가 낮은 수준으로 가격을 유지할 수 없어서 시장을 떠나게 만들기 위해 이렇게 합니다.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img4.png"><![CDATA[가격 인상을 보여주는 차트]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[거래 거부]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[이것은 한 기업이 다른 기업에 대하여 판매를 거부하거나 지나치게 높은 가격으로만 판매하는 경우에 발생합니다.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img5.png"><![CDATA[유통업체가 일부 고객들에게 판매하지 못하게 하는 비공식 거래(handshake deal)]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[브랜드 내 경쟁 방지]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[이것은 기업들이 유통업체들과 합의하여 그들이 특정 지역 또는 특정 고객에게 판매하지 않을 때 발생합니다.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[Vyberte si preferovaný spôsob sledovania:]]></text>		
+		<text><![CDATA[Tento kurz využíva audio a video pomôcky na podporu vzdelávania. Odporúčame vám sledovať kurz v režime audio/video. Ak sa však rozhodnete sledovať kurz v textovom a grafickom režime, všetky zvuky a video sa nahradia textom a obrázkami.]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[Zvukové vlny]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[Pokračovať]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[Vybrať preferované sledovanie]]></option>
+			<option id="A1"><![CDATA[Režim audio/video]]></option>
+			<option id="A2"><![CDATA[Režim text a grafika]]></option>
+	</dropDownMenu>
+</contents>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[כל הכבוד, השלמת בהצלחה את הקורס. כעת תוכל להדפיס את התעודה שלך. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/rtl/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[אדם משתמש במחשב]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" right="0px" position="relative" padding="0"><![CDATA[השלמת בהצלחה את הקורס <span style="color:#00539E;font-weight:bold;font-size:17px;" >החלת הקוד האתי: הקורס 'מנהלים עסקים ביושרה'</span>]]></text>
+		<text width="450px" height="120px" top="10px" right="0px" position="relative" padding="0"><![CDATA[לחץ על 'הדפס תעודה' ולאחר מכן לחץ על 'דף הבית' כדי לחזור לתפריט הראשי, או לחץ על 'סגור' כדי לצאת מהקורס.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="150px" right="20px"><![CDATA[הדפס תעודה]]></text>
+	</buttonText>	
+	<instructionText>
+		<text><![CDATA[לחץ על 'הדפס תעודה'.]]></text>
+	</instructionText>
+</contents>

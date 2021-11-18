@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[Výborně, kurz jste úspěšně absolvovali. Nyní si vytiskněte certifikát. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[Muž pracující na PC]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="470px" height="auto" top="0px" left="0px" position="relative" padding="0"><![CDATA[Úspěšně jste absolvovali kurz <span style="color:#00539E;font-weight:bold;font-size:17px;" >Uplatňování etického kodexu: Podnikáme s integritou</span>.]]></text>
+		<text width="470px" height="120px" top="10px" left="0px" position="relative" padding="0"><![CDATA[Klikněte na tlačítko Vytisknout certifikát, pak se kliknutím na tlačítko Domů vraťte do hlavní nabídky, nebo kurz ukončete kliknutím na tlačítko Zavřít.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="175px" left="20px"><![CDATA[a Vytisknout certifikát]]></text>
+	</buttonText>	
+	<instructionText style="top:10px;">
+		<text><![CDATA[Klikněte na tlačítko Vytisknout certifikát.]]></text>
+	</instructionText>
+</contents>

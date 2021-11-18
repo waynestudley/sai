@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[Giliran anda untuk menunjukkan apa yang anda tahu tentang cara untuk menggunakan peraturan pematuhan dagangan. Sambungkan setiap situasi di sebelah kiri ke penyelesaian yang betul di sebelah kanan dan klik Serah.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Tunjukkan yang anda tahu apa yang perlu dilakukan dalam setiap situasi ini. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[SERAH]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[Pilih item dari lajur pertama, kemudian seret anak panah ke penyelesaian yang sepadan dalam lajur kedua. Setelah anda selesai, klik serah.]]></text>
+		<text><![CDATA[Klik pada tanda soal untuk mengetahui lebih lanjut.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[SITUASI]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img01.png"><![CDATA[Beijing]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:12px;"><![CDATA[Anda akan menuju ke Beijing untuk urusan perniagaan. Seorang rakan sekerja meminta anda membawa sampel produk kepada kenalan di sana.]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:553px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img02.png"><![CDATA[Gambar dekat Warganegara Syria]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:12px;"><![CDATA[Anda merupakan warganegara UK yang melawat pelanggan di EU. Anda berjumpa pengedar yang merupakan warganegara Syria dan dia meminta sampel produk.]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:553px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img03.png"><![CDATA[Wakil pelanggan di Arab Saudi]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:12px;"><![CDATA[Wakil pelanggan dari Arab menghubungi dengan soalan tentang ujian protokol dan reka bentuk teknologi bagi salah satu produk kami.]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:553px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img04.png"><![CDATA[Pasukan Perniagaan]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:12px;"><![CDATA[Pasukan anda bekerjasama dengan pelanggan global menggunakan OneDrive. Pengurus projek meminta anda memuat naik maklumat teknikal memandangkan dia tidak dibenarkan untuk menghantar salinan ke negara pelanggan.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[PENYELESAIAN]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 643px;top: 8px;height: 60px;">
+				<text style="font-size:12px;"><![CDATA[Semak untuk melihat jika ini dibenarkan dan jika anda perlukan lesen sebelum teruskan]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img05.png"><![CDATA[Pekerja sedang bercakap di telefon ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 79px;height: 60px;">
+				<text style="font-size:12px;"><![CDATA[Tolak dengan sopan. ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img06.png"><![CDATA[Gambar dekat seorang lelaki yang serius]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 643px;top: 150px;height: 60px;">
+				<text style="font-size:12px;"><![CDATA[Minta untuk menunda perbualan.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img07.png"><![CDATA[Pekerja sedang bercakap di telefon]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 221px;height: 60px;">
+				<text style="font-size:12px;"><![CDATA[Tolak daripada melakukannya.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img08.png"><![CDATA[Pekerja sedang bercakap di telefon]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[Betul – anda telah memadankan semuanya dengan betul.]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[Itu salah. Sekarang klik pada setiap penyelesaian untuk mengetahui lebih lanjut.]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top: 187px;">
+				<text style=""><![CDATA[Jika dibenarkan, dalam situasi ini, ia adalah terbaik untuk menghantar sampel tersebut dengan lebih awal. Jika anda dibenarkan oleh kakitangan dagangan untuk membawa menggunakan tangan, anda perlu mendedahkan kepada kastam dengan betul tentang barang yang anda bawa ketika anda keluar dan masuk ke negara tersebut.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top: 187px;">
+				<text style=""><![CDATA[Anda tidak boleh berkongsi sampel produk dengan seseorang dari negara isbat seperti Syria, jadi dalam situasi ini, anda perlu menolak dengan sopan.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top: 187px;">
+				<text style=""><![CDATA[Anda perlukan lebih banyak maklumat sebelum anda boleh berkongsi maklumat ini. Semak dua kali dengan pakar pematuhan dagangan sama ada maklumat ini boleh dikongsi dengan orang ini.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top: 187px;">
+				<text style=""><![CDATA[Anda sepatutnya menolak permintaan tersebut. Jika anda tidak dibenarkan untuk mengeksport dokumen dalam versi fizikal, sekatan yang sama dikenakan kepada versi elektronik bagi dokumen yang sama.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

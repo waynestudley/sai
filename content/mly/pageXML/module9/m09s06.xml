@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m09s06" maxAttempt="2">
+	<transcript>
+		<text path="audio/module9/m09s06" id="0"><![CDATA[Lihat jika anda boleh mengenal pasti perkara yang betul dan salah. Seret setiap item sama ada ke kotak Sesuai atau Tidak Sesuai, kemudian klik Serah.]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[Baca situasi berikut dan tentukan jika ia sesuai atau tidak untuk menerima kepintaran persaingan di bawah keadaan tersebut.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module9/m09s06/contentBackground.jpg" minwidth="769"><![CDATA[Pekerja bekerja dengan dokumen Syarikat]]></img>
+	</contentBackground>
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 588px;"></pageTitle>
+	<instructionText style="width: 588px;">
+		<text><![CDATA[Seret setiap item ke satu daripada dua kotak, kemudian klik Serah.]]></text>
+		<text><![CDATA[Klik Seterusnya untuk teruskan.]]></text>
+		<text><![CDATA[Klik butang Cuba lagi untuk mencuba semula.]]></text>
+		<text><![CDATA[Klik butang Tunjukkan jawapan.]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 291px; padding: 0px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[SITUASI]]></lable> 	
+		<option>			
+			<option height="68px" left="0" top="21px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[Pesaing anda telah menyiarkan iklan kerja untuk kepakaran yang mencadangkan perubahan dalam strategi mereka]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="99px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[Anda memperoleh transkrip ucapan oleh CEO pesaing yang bercakap di persidangan industri pada tahun lepas dan butiran pembaharuan pengeluaran yang dikongsi.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="177px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[Anda mengkaji lukisan produk dalam permohonan terkini paten pesaing]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="255px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[Bekas rakan sekerja yang sekarang bekerja untuk pesaing dan berkongsi maklumat tentang kontrak penting dengan anda ]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="334px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[Seorang kontraktor yang juga bekerja untuk pesaing anda menawarkan untuk menunjukkan beberapa lukisan produk yang ada pada telefonnya kepada anda]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="413px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[Seorang pekerja baharu yang sebelum ini bekerja untuk pesaing, jadi anda meminta mereka untuk butiran harga tentang perkhidmatan baharu syarikat]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="0" topGap="149" bottomGap="37">
+		<dropArea maxDrop="3" style="width:312px;left: 330px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="3" style="width:312px;left: 648px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Sesuai]]></text>
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Tidak Sesuai]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[Lepaskan Di Sini]]></text>
+		<text style="width:301px;left: 277px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[Lepaskan Di Sini]]></text>
+		<text style="width:301px;left: 277px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[Lepaskan Di Sini]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[Lepaskan Di Sini]]></text>
+		<text style="width:301px;left: 593px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[Lepaskan Di Sini]]></text>
+		<text style="width:301px;left: 593px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[Lepaskan Di Sini]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[Serah]]></text>
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[Cuba lagi]]></text>	
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10; width: 125px;font-size:15px;line-height:15px;height: 46px;"><![CDATA[Tunjukkan jawapan]]></text>
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct> 
+			<text style="font-size:17px;"><![CDATA[Itu betul.]]></text>
+			<text><![CDATA[Sesuai untuk menerima kepintaran persaingan jika ia datang daripada sumber umum yang tersedia.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[Jangan letakkan seseorang dalam keadaan di mana mereka harus melanggar kewajipan kerahsiaan mereka dengan syarikat lain.]]></text>
+			
+		</correct>
+		<incorrect> 
+			<text style="font-size:17px;"><![CDATA[Maaf, itu tidak betul.]]></text>
+			<text><![CDATA[Sesuai untuk menerima kepintaran persaingan jika ia datang daripada sumber umum yang tersedia.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[Jangan letakkan seseorang dalam keadaan di mana mereka harus melanggar kewajipan kerahsiaan mereka dengan syarikat lain.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

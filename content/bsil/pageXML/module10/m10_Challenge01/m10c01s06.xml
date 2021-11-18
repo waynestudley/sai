@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[O procedimento da esposa de Jian foi um sucesso, mas os médicos preferem que ela fique internada durante a noite para observação. No dia seguinte, como o TI não terá um laptop substituto para Jian até o fim do dia, ele usa seu laptop pessoal e trabalha do quarto de sua esposa. Com seu laptop, ele consegue visualizar as informações do arquivos principal do fornecedor.]]></text>
+		<text style="line-height:18px;"><![CDATA[Qual a melhor maneira de enviar essas alterações para Holly?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[Quarto da esposa de Jian no hospital]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="padding-bottom:13px;line-height:20px;">
+		<text><![CDATA[Escolha uma opção e selecione OK.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian usa o Wi-Fi público e envia por e-mail o arquivo atualizado contido no pen drive usando sua conta de e-mail pessoal.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian percebe que enviar o arquivo principal atualizado para Holly fazer o upload pode causar problemas, pois terceiros podem ter editado o arquivo principal original em sua ausência e suas atualizações podem se sobrepor às edições dos outros. Portanto, enquanto ele almoça na lanchonete do hospital, Jian liga para Holly e explica as alterações a serem inseridas no arquivo principal no sistema da empresa.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian pede para Holly pegar com ele o pen drive criptografado no hospital.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:280px;" fcStyle="top: -210px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[Jian envia as informações para Holly, mas ao baixar os arquivos, é criada uma cópia que conflita com o banco de dados atual do fornecedor e a equipe precisa passar várias horas atualizando e confirmando as informações.]]></text>
+			<text style="font-size:15px;"><![CDATA[Faturas  falsas são enviadas para a empresa de Jian alegando ser de fornecedores legítimos, mas elas contêm informações da conta bancária de pessoas tentando enganar a empresa. Meses depois, o esquema é descoberto e os resultados da investigação apontam para uma violação na segurança do banco de dados do fornecedor mais ou menos na mesma época em que Jian estava no hospital. Jian precisa explicar algumas coisas!]]></text>
+			<text style="font-size:15px;"><![CDATA[A opção mais segura teria sido Jian pedir para Holly pegar o pen drive criptografado. Embora isso não evite que a equipe passe horas combinando as edições de Jian com as contidas no banco de dados do fornecedor, isso teria garantido a proteção dos dados sigilosos.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:220px;" fcStyle="top: -210px;">
+			<text style="padding-top:25px;"><![CDATA[Holly consegue atualizar o arquivo principal do fornecedor e ela comete apenas alguns erros que são encontrados e corrigidos posteriormente.]]></text>
+			<text><![CDATA[No entanto, outras pessoas que estão comendo na lanchonete do hospital ouvem cada palavra de Jian, que expõe desnecessariamente as informações do fornecedor.]]></text>
+			<text><![CDATA[A opção mais segura teria sido Jian pedir para Holly pegar o pen drive criptografado. Isso teria garantido a proteção dos dados sensíveis.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:250px;" fcStyle="top: -210px;">
+			<text style="padding-top:25px;"><![CDATA[Holly pega o pen drive, mas enquanto Jian estava trabalhando remotamente em sua cópia, seus colegas editaram o original. Quando Holly faz o upload da versão de Jian, as alterações dos colegas são substituídas. A equipe precisa passar horas atualizando e confirmando informações.]]></text>
+			<text><![CDATA[Jian é advertido por baixar o arquivo principal, mas pelo menos as informações estão seguras. Holly não deveria ter feito o upload do arquivo revisado sem verificar com os outros atores se haviam feito atualizações que poderiam ser afetadas.]]></text>
+			<text><![CDATA[Esta é a ação mais segura, pois garantiu a proteção dos dados sigilosos.]]></text>
+		</correct>
+	</feedback>
+</contents>

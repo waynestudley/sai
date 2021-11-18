@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma segnala la situazione al suo responsabile, Roger, ma Roger non fa nulla. Che cosa dovrebbe fare ora Emma?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Seleziona un’opzione e fai clic su OK.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[Nulla. Emma l’ha segnalato, e ora Roger ha la responsabilità di seguire la faccenda.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Parlare con qualcuno dell’ufficio conformità o dell’ufficio legale o contattare la Helpline per l’integrità, riguardo alle sue preoccupazioni.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:18px;"><![CDATA[Emma ha fatto la cosa giusta parlando con il suo responsabile Roger. Ma Emma non è convinta che Roger farà qualcosa a riguardo, quindi dovrebbe portare le sue preoccupazioni a un livello superiore. Potrebbe contattare un membro dell’ufficio conformità o dell’ufficio legale, il suo rappresentante delle risorse umane o aprire un ticket riguardo alla sua preoccupazione con la Helpline per l'integrità.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma ha fatto la cosa giusta parlando con il suo responsabile Roger. Ma Emma pensa che Roger non intraprenderà ulteriori azioni per affrontare tale preoccupazione. Quindi, anche Emma ha fatto la cosa giusta facendo un ulteriore passo avanti parlando ad alcune risorse aggiuntive dell’azienda, in modo da esaminare e affrontare appropriatamente la questione.]]></text>
+		</correct>
+	</feedback>
+</contents>

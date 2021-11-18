@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[您已知知识产权存在哪些风险？ 让我们来看看玛利亚遇到的情况，选择所有恰当的回应并单击提交。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[玛利亚几个月前入职 Johnson Controls，并参与了一款新产品的上市，这款新产品在业内引起了轰动。]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[玛利亚的朋友皮特在同类行业中工作，他向玛利亚了解工作进展情况并开始询问与新产品有关的具体问题。]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[玛利亚应如何回应？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA[玛利亚和皮特]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;">
+		<text><![CDATA[选择所有恰当的回应，然后单击“提交”。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[正确答案可能不止一项。]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[在讨论新产品和上市相关细节前，她应要求皮特保证不会泄露她将要讲的内容]]></option>	
+		<option><![CDATA[她应该告诉皮特她对这份工作的感受（例如，工作很刺激、很有挑战性等），但不应透露有关产品或上市的任何细节]]></option>	
+		<option><![CDATA[她应告诉皮特她的工作内容需要保密，所以无法透露任何细节]]></option>	
+		<option><![CDATA[她应只跟她信任的亲朋好友谈论她的项目情况，并与他们分享尚未对大众公开的细节]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 170px;" fcStyle="top:-208px;">
+			<text><![CDATA[正确。]]></text>
+			<text><![CDATA[玛利亚可以告诉皮特她对这份工作的感受，但不能透露任何公司机密信息 – 包括新产品及其上市的相关细节。]]></text>
+			<text><![CDATA[关键一点是要切记无论任何理由，绝对不能向我们公司以外的未经授权的人士透露商业秘密或任何其他机密信息。]]></text>
+			<text><![CDATA[无论在任何情况下，即使对信任的亲朋好友也不得透露 Johnson Controls 使用的商业机密或研发的知识产权。<br ><br >]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 170px;" fcStyle="top:-208px;">
+			<text><![CDATA[错误。]]></text>
+			<text><![CDATA[玛利亚可以告诉皮特她对这份工作的感受，但不能透露任何公司机密信息 – 包括新产品及其上市的相关细节。]]></text>
+			<text><![CDATA[关键一点是要切记无论任何理由，绝对不能向我们公司以外的未经授权的人士透露商业秘密或任何其他机密信息。]]></text>
+			<text><![CDATA[无论在任何情况下，即使对信任的亲朋好友也不得透露 Johnson Controls 使用的商业机密或研发的知识产权。<br ><br >]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[許多利益衝突的案例在小規模和個人的層面發生。 有些衝突卻大到能上頭條新聞。]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[大多數利益衝突比較小規模比較個人，但有些大到足以上新聞。]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[按一下箭號以瞭解詳情。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top:135px;">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[投資組合經理與 SEC 調查員對話]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:380px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[標題： 資產管理公司支付 1200 萬美元解決衝突指控]]></text>
+				<text style="font-size:15px;"><![CDATA[一家大型資產管理公司 Blackrock，由於其投資組合經理的行為而支付了 1200 萬美元解決對利益衝突的指控。]]></text>
+				<text style="font-size:15px;"><![CDATA[美國 證券交易委員會發現監管 Blackrock 能源基金的經紀人，同時成立了一家家族石油與天然氣公司之後，提出了指控。 該家族公司與煤礦公司合作，而這家煤礦公司的股票是該經紀人操作基金中最大宗。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[醫院董事會成員在新聞發布會上]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[標題： 醫院董事會成員個人罰款 13,500 美元]]></text>
+				<text style="font-size:15px;"><![CDATA[紐約市立公立醫院系統一名董事會成員，因被發現其董事會身分與其位於格瑞那達的醫學院職位產生衝突而遭受個人罰款。]]></text>
+				<text style="font-size:15px;"><![CDATA[城市衝突委員會發現該名醫師錯誤使用其董事會身分遊說市立醫院，增加其工作的醫學院學生的安置人數。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[看股票的人 ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[標題： 摩根大通為在交易中提出妥協建議，付了 3500 萬美元]]></text>
+				<text style="font-size:15px;"><![CDATA[投資巨擘摩根大通支付 3500 萬美元，以平息因其在 2015 年底將 Good Technology 賣給 BlackBerry 時的行為所致的指控。 ]]></text>
+				<text style="font-size:15px;"><![CDATA[Good Technology 股東指控，摩根大通因意圖自 BlackBerry 獲取未來投資銀行業務而將 Good Technology 以低於市價出售。 法院贊同，給予股東嚴重判決。]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

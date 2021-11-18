@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0"><![CDATA[Právní dohody, jako například dohody o mlčenlivosti, jsou jedním ze způsobů jak zajistit, aby ostatní chránili informace, které s nimi sdílíme. Kliknutím na jednotlivá tlačítka zobrazíte další informace.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Dohody o mlčenlivosti jsou účinným způsobem jak zajistit, aby důvěrné informace sdílené s třetí stranou zůstaly důvěrné.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg" minwidth="769"><![CDATA[Dokumenty]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Kliknutím na jednotlivá tlačítka zobrazíte další informace.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ZOBRAZIT]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style=""><![CDATA[Dohoda o mlčenlivosti]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Kdy použít]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Použijte dohodu o mlčenlivosti, pokud sdílíte důvěrné informace s kýmkoli mimo společnost. Důvěrné informace nikdy nesdělujte před podepsáním dohody o mlčenlivosti. Právní oddělení společnosti Johnson Controls poskytne šablony pro různé situace.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style=""><![CDATA[Osoba prohlížející dohodu o mlčenlivosti]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Použití jiných dohod o mlčenlivosti]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Občas se může stát, že externí společnosti nabídnou k použití své vlastní dohody o mlčenlivosti. Takovou nabídku nepřijímejte. Nabízené dohody lze přijmout až poté, co byly posouzeny a schváleny právním oddělením, protože dohody o mlčenlivosti třetí strany byly připraveny za účelem ochrany zájmů této třetí strany, nikoli našich zájmů.]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style=""><![CDATA[Nadřízený vysvětlující zaměstnanci použití dohody o mlčenlivosti]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Když se zavážeme dohodou o mlčenlivosti]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[Je možné, že občas podepíšeme dohodu o mlčenlivosti, abychom ochránili informace jiné společnosti. V takových případech je naprosto nezbytné zajistit, abychom podnikli veškeré kroky k splnění svých povinností, jinak bychom mohli čelit žalobě pro porušení dohody. Zajistěte, aby každý, kdo s těmito informacemi pracuje, věděl o naší povinnosti je chránit.]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[คุณรับรู้ถึงสถานการณ์เสี่ยงได้ดีแค่ไหน อ่านสถานการณ์สมมตินี้ และเลือกเห็นด้วยหรือไม่เห็นด้วยในแต่ละตัวเลือก จากนั้นคลิกส่ง]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[ทางเดินในสำนักงาน]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[ที่ปรึกษาที่คุณทำงานด้วยในตะวันออกกลางบอกคุณว่าภาษีสำหรับการขนส่งนั้นสูง แต่เขามี “วิธีที่ถูกกว่า” และการขนส่งก็ดำเนินการไปแล้ว คุณเห็นด้วยกับข้อความไหน]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[เลือกเห็นด้วยหรือไม่เห็นด้วยในแต่ละตัวเลือกจากนั้นคลิกส่ง ]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[ท่าเรือ]]></img>
+			<text style="width: 450px;"><![CDATA[“วิธีที่ถูกกว่า” นี้อาจรวมถึงการจ่ายสินบนให้ใครบางคน ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[ท่าเรือ]]></img>
+			<text style="width: 450px;"><![CDATA[คุณควรรายงานข้อสงสัยนี้แก่ผู้จัดการหรือฝ่ายกฎหมายของคุณ   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[ท่าเรือ]]></img>	
+			<text style="width: 450px;"><![CDATA[คุณควรรอดูสิ่งที่เกิดขึ้นและหารือกับผู้จัดการของคุณ]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[ท่าเรือ]]></img>	
+			<text style="width:450px;"><![CDATA[หากที่ปรึกษาได้ติดสินบนในนามของบริษัทเรา เขาควรเป็นผู้รับผิดชอบ ไม่ใช่จอห์นสัน คอนโทรลส์]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[ท่าเรือ]]></img>	
+			<text style="width:450px;"><![CDATA[คุณควรขอบคุณที่ปรึกษาของคุณที่ช่วยประหยัดค่าใช้จ่ายและเปิดทางให้เขาในอนาคต]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[เห็นด้วย]]></text>
+		<text><![CDATA[ไม่เห็นด้วย]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[ถูกต้อง]]></text>			
+			<text style="font-size: 13px;"><![CDATA[“วิธีที่ถูกกว่า” อาจเป็นการติดสินบน บางครั้งการติดสินบนก็อาจสังเกตได้ยาก ในสถานการณ์เช่นนี้ คุณควรรายงานข้อสงสัยไปยังผู้จัดการและสมาชิกฝ่ายกฎหมายและการกำกับดูแลการปฏิบัติตามกฎทันที หรือรายงานข้อกังวลไปยังสายตรงความซื่อสัตย์ ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[หากบุคคลที่สามติดสินบนในนามของจอห์นสัน คอนโทรลส์ บริษัทของเราก็ยังคงต้องรับผิดชอบ]]></text>			
+		</correct>
+		<incorrect style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[ไม่ถูกต้อง]]></text>	
+			<text style="font-size: 13px;"><![CDATA[“วิธีที่ถูกกว่า” อาจเป็นการติดสินบน บางครั้งการติดสินบนก็อาจสังเกตได้ยาก ในสถานการณ์เช่นนี้ คุณควรรายงานข้อสงสัยไปยังผู้จัดการและสมาชิกฝ่ายกฎหมายและการกำกับดูแลการปฏิบัติตามกฎทันที หรือรายงานข้อกังวลไปยังสายตรงความซื่อสัตย์ ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[หากบุคคลที่สามติดสินบนในนามของจอห์นสัน คอนโทรลส์ บริษัทของเราก็ยังคงต้องรับผิดชอบ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

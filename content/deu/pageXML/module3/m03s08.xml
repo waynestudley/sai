@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[Regierungs- und Aufsichtsbehörden wenden bei Bestechungsfällen strenge Maßnahmen an. Daher ist es sehr wichtig, dass wir alle aktiv an der Vermeidung von Bestechung mitwirken. Können Sie diese Handlungen (linke Spalte) den Folgen (rechte Spalte) richtig zuordnen?]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Was passiert mit Unternehmen, die sich an Bestechung und Korruption beteiligen?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[Ein Büro]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:862px;top:0px;"><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Handlung aus der ersten Spalte aus und verknüpfen Sie sie durch Ziehen der Pfeile mit den jeweils passenden Folgen in der zweiten Spalte. Wenn Sie alle Paare zugeordnet haben, klicken Sie auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[DIE HANDLUNG]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[Mitarbeiter gibt jemandem einen Praktikumsplatz im Unternehmen ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Investmentbanker, die für JP Morgan in der Region Asien-Pazifik tätig waren, führten ein Programm durch, in dessen Rahmen Arbeits- und Praktikumsplätze an Angehörige und Freunde potenzieller Kunden, darunter auch Regierungsbeamte, vergeben wurden. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[Regierungsbeamter mit Bestechungsgeld ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Tochtergesellschaften eines großen internationalen Unternehmens, das Kupfer-, Aluminium- und Glasfaserkabel herstellte, zahlten mehrere Millionen Dollar an Vertreter und Vertriebshändler von Dritten. Ein Teil des Geldes wurde zur Bestechung von Regierungsbeamten zur Erlangung von Geschäften verwendet, sodass das Unternehmen Gewinne in Höhe von 51 Mio. USD (netto) verzeichnete.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[DIE FOLGEN]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[Das Unternehmen wurde zu einer Zahlung von 76 Mio. US-Dollar verurteilt, und zwei Führungskräfte, die Kenntnis von den Bestechungsgeldern hatten, mussten Millionen zurückzahlen. ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[Richter mit Hammer]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ Nach Auffassung der US-Regierung hatte sich das Unternehmen „ein systematisches Bestechungsprogramm betrieben“ und sich dadurch erhebliche Geschäftsvorteile verschafft. Das Unternehmen wurde zu einer Zahlung von 264 Millionen US-Dollar verurteilt.]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[Ansicht eines Gebäudes in der US-Hauptstadt von den Stufen eines Gerichtsgebäudes]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[Bestechung und Korruption können schwerwiegende Folgen nach sich ziehen – sowohl für einzelne Mitarbeiter als auch für das gesamte Unternehmen. Das Strafmaß reicht von Bußgeldern bis hin zu Freiheitsstrafen.  Johnson Controls verlässt sich darauf, dass Sie in jeder Situation – und bei jedem Schritt – Bestechung vermeiden und verdächtige Aktivitäten in diesem Bereich unverzüglich melden.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[Bestechung und Korruption können schwerwiegende Folgen nach sich ziehen – sowohl für einzelne Mitarbeiter als auch für das gesamte Unternehmen. Das Strafmaß reicht von Bußgeldern bis hin zu Freiheitsstrafen.  Johnson Controls verlässt sich darauf, dass Sie in jeder Situation – und bei jedem Schritt – Bestechung vermeiden und verdächtige Aktivitäten in diesem Bereich unverzüglich melden.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

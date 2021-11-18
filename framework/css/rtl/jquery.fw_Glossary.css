@@ -1,0 +1,39 @@
+﻿.fw_Glossary_parent{height:100%;right:0;position:absolute;top:0;width:100%;z-index:888888}
+.semiBlack{background-color:#CCC;height:100%;right:0;filter:alpha(opacity=60); opacity:0.6;position:absolute;top:35px;width:100%;z-index:5}
+.fw_Glossary{background-color:#FFF;border:2px solid #000;color:#000;display:block;height:300px;margin:0 auto;position:relative;top:200px;width:600px;z-index:6}
+.fw_GloSearchTxt{background-color:transparent;border:medium none;float:left;height:19px;margin:0;padding:0;width:160px}
+.fw_GlossarySearch{background-color:transparent;background-image:url("../../../framework/images/rtl/fw_Glossary/srchglo.png");background-position:2px 0;background-repeat:no-repeat;float:left;font-style:italic;height:21px;width:180px}
+.fw_SrchBtn{background-image:none;cursor:pointer;float:left;height:20px;text-decoration:none;width:20px}
+.fw_GlossaryText{color:#FFF}
+.fw_Glossary .fw_GlossaryContent{height:265px;padding:5px 0;position:relative}
+.fw_Glossary .fw_GlossaryList{background-color:#FFF;float:right;height:225px;margin-bottom:5px;margin-right:6px;overflow:hidden;padding-top:5px;position:relative;width:290px}
+.fw_Glossary .fw_GlossaryInfo{background-color:#FFF; border-right:1px solid gray;float:left;height:225px;margin-bottom:5px;margin-left:6px;overflow:hidden;padding-top:5px;position:relative;width:290px}
+.fw_Glossary .fw_GlossarySelector{  clear:both;height:26px;margin:0 5px;position:relative}
+.fw_Glossary a.fw_GlossaryChar{background-color:#CBE67C;color:#545A8F;cursor:default;display:block;float:right;font-size:17px;font-weight:bold;margin:3px 2px;padding:0 1px;text-align:center;text-decoration:none;width:16px}
+.fw_Glossary a.fw_GlossaryChar:first-child{margin-right:10px}
+.fw_Glossary a.fw_GlossaryChar.fw_GloPointer{background-color:#666;color:#FFF;cursor:pointer}
+.fw_Glossary .fw_GloListDiv{display:none;width:100%}
+.fw_Glossary .fw_GloListDiv.showList{display:block !important}
+.fw_Glossary .fw_GloListDiv a{color:#000;display:block;float:none;font-size:15px;padding:0 10px;text-align:right;text-decoration:none}
+.fw_Glossary .fw_GlossaryHeader{background-color:#303030;font-weight:700;height:26px;padding-right:10px;padding-top:3px}
+.fw_Glossary div.fw_GlossaryText{float:left}
+.fw_Glossary a.fw_GlossaryClose{background-image:url("../../images/rtl/imageSprit.png");  background-position:-172px 1px;  background-repeat:no-repeat;  float:left;  height:20px; margin-left:10px;  width:22px}
+.fw_Glossary div.fw_GloInfoTitle{ border-bottom:1px solid #999;  color:#C00010;  font-weight:bold;  margin:0 5px;  width:280px}
+.fw_Glossary div.fw_GloInfoContent{ height:200px;  margin:2px 5px;  width:280px}
+.fw_Glossary div.fw_GlossaryChar{}
+.fw_Glossary a.fw_GlossaryChar{ background-color:#BBB;  border:1px solid #999;  color:#999;  cursor:default;  display:block;  float:right;  font-size:15px;  font-weight:bold;  margin:3px 1px;  padding:0 1px;  text-align:center;  text-decoration:none;  width:16px}
+.fw_Glossary a.fw_GloPointer:hover,.fw_Glossary a.fw_GloPointer:focus{ background-color:#C00010;  border:1px solid #999;  color:#FFF}
+.fw_Glossary .fw_GlossaryScrollable{ overflow:hidden;  position:absolute;  width:600px}
+.fw_Glossary #fw_GlossaryScrollbarList{ cursor:pointer;  margin-top:30px;  overflow:hidden;  position:absolute;  left:0;  top:0;  width:5px;  z-index:400}
+.fw_Glossary #barBgList{ background:none repeat scroll 0 0 #9C0;  cursor:pointer;  height:100%;  right:13px;  margin:0 auto;  position:absolute;  top:0;  width:50%;  z-index:400}
+.fw_Glossary #fw_GlossaryScrollbarInfo{ cursor:pointer;  margin-top:30px;  overflow:hidden;  position:absolute;  left:0;  top:0;  width:5px;  z-index:400}
+.fw_Glossary #barBgInfo{ background:none repeat scroll 0 0 #9C0;  cursor:pointer;  height:100%;  right:13px;  margin:0 auto;  position:absolute;  top:0;  width:50%;  z-index:400}
+.fw_GloListDiv a.fw_GloListCurrent{ background-color:#E4E4E4;  color:#C00010;  font-weight:bold}
+.fw_Glossary a.fw_GloPointer.fw_GloCharCurrent{ background-color:#C00010;  border:1px solid #FFF;  color:#FFF}
+.fw_Glossary a.fw_GlossaryClose:hover{ background-position:-197px 1px}
+.fw_GlossarySearch{ display:none}
+.fw_Glossary a.fw_GloCharList:hover{ background-color: #999999;color: #303030;}
+
+@media only screen and (max-width: 599px) {
+	.fw_Glossary_parent{display:none;}
+}

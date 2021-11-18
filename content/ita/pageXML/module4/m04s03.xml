@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s03">
+	<transcript>
+		<text path="audio/module4/m04s03" id="0"><![CDATA[Che cosa si intende esattamente con dati personali? Diamo un’occhiata.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Che cosa si intende per dati personali?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s03/contentBackground.jpg" minwidth="769"><![CDATA[Dipendente pensieroso al computer]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Seleziona ciascun titolo.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:160px;">
+		<revealCallOut width="300px" height="174px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn1.png" minwidth="769"><![CDATA[Dati personali]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Dati personali]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 72px;top: -30px;width: 958px;">
+				<text><![CDATA[Per dati personali si intendono tutte quelle informazioni che possono essere utilizzate per identificare un soggetto, come il nome di una persona o l’indirizzo.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="350px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn2.png" minwidth="769"><![CDATA[Dati personali sensibili]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Dati personali sensibili]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 100px;top: -30px;width: 958px;">
+				<text><![CDATA[Per dati personali sensibili si intendono tutte quelle informazioni riguardo a un soggetto che potrebbero causare danni sostanziali, imbarazzo, disagio o iniquità se perse, compromesse o divulgate senza autorizzazione, come lo stato di salute di una persona o le credenze religiose.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s03/btn3.png" minwidth="769"><![CDATA[Protezione dei dati]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Protezione dei dati]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -30px;width: 958px;">
+				<text><![CDATA[Tutte le informazioni personali dei nostri dipendenti, clienti e business partner devono essere protette. Questa è una delle tue responsabilità più importanti in qualità di dipendente di Johnson Controls.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

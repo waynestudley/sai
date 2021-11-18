@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style="line-height: 25px;"></pageTitle>
+	<contentText>
+		<text style="line-height: 18px;"><![CDATA[Jian의 아내의 수술은 성공했지만 의사들은 밤새 아내의 상태를 지켜봅니다. 다음날, 그날 업무 시간이 끝날 때까지 IT 부서에서 Jian에게 교체 노트북을 줄 수 있는 상황이 아니어서 Jian은 개인 노트북을 사용하여 아내의 병실에서 작업합니다. 그는 자신의 노트북을 사용하여 공급업체 마스터 파일에 있는 정보를 볼 수 있습니다.]]></text>
+		<text style="line-height: 18px;"><![CDATA[Holly에게 그러한 변경사항을 전달하는 가장 좋은 방법은 무엇일까요?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[Jian의 아내가 있는 병실]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="padding-bottom:8px;line-height: 20px;">
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent style="line-height: 18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian은 공용 Wi-Fi에 로그온하고 개인 이메일 계정을 사용하여 썸드라이브의 업데이트된 파일을 이메일로 전송합니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian은 업데이트된 마스터 파일을 Holly에게 보내서 업로드하는 것이 문제가 될 수 있음을 알아차립니다. 그가 회사에 없을 때 다른 사람이 원본 마스터 파일을 수정했을 수 있는데 그가 업데이트를 하면 그 수정 사항들을 덮어쓸 수 있기 때문입니다. 그래서 그는 병원 식당에서 점심을 먹는 동안 그녀에게 전화하여 변경사항을 확인해 회사 시스템에서 마스터 파일에 입력해 달라고 부탁합니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian은 Holly에게 병원에 있는 자신이 작업한 암호화된 썸드라이브를 가져가도록 요청합니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:250px;" fcStyle="top: -200px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[Jian은 Holly에게 정보를 보냅니다. 하지만 파일을 다운로드하면 현재 공급업체 데이터베이스와 충돌하는 사본이 만들어지기 때문에 팀은 많은 시간을 들여 정보를 업데이트하고 확인해야 합니다.]]></text>
+			<text style="font-size:15px;"><![CDATA[가짜 송장이 합법적인 공급업체에서 온 것처럼 Jian의 회사에 전달되지만, 사실 여기에는 이 회사에 사기를 치려고 하는 사람의 은행 계좌 정보가 포함되어 있습니다. 몇 달 후 이 계획이 들통나고, 조사 결과 Jian이 병원에 있을 무렵에 공급업체 데이터베이스에서 보안 침해가 발생했음이 드러났습니다. Jian은 뭔가 해명해야 합니다!]]></text>
+			<text style="font-size:15px;"><![CDATA[가장 안전한 방법은 Jian이 Holly에게 암호화된 썸드라이브를 가져가도록 요청하는 것이었습니다. 이렇게 해도 팀은 Jian이 수정한 사항을 공급업체 데이터베이스에 결합하는 데 많은 시간을 들여야 하지만, 민감한 데이터를 보호할 수는 있습니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:200px;" fcStyle="top: -200px;">
+			<text style="padding-top:25px;"><![CDATA[Holly는 마스터 공급업체 파일을 업데이트할 수 있으며 나중에 발견되어 수정해야 하는 오류는 몇 가지밖에 되지 않습니다.]]></text>
+			<text><![CDATA[하지만 병원 식당에서 식사하는 다른 사람들이 Jian의 말을 하나하나 다 들을 수 있기 때문에 불필요하게 공급업체 정보를 노출하게 됩니다.]]></text>
+			<text><![CDATA[가장 안전한 방법은 Jian이 Holly에게 암호화된 썸드라이브를 가져가도록 요청하는 것이었습니다. 이렇게 하면 민감한 데이터를 보호할 수는 있습니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:250px;" fcStyle="top: -200px;">
+			<text style="padding-top:25px;"><![CDATA[Holly는 플래시 드라이브를 가져옵니다. 하지만 Jian이 사본을 가지고 원격으로 작업하고 있는 동안 그의 동료들이 원본을 수정했습니다. Holly가 Jian의 버전을 업로드하자 이 버전이 동료들의 수정사항을 덮어씁니다. 팀은 많은 시간을 들여 정보를 업데이트하고 확인해야 합니다.]]></text>
+			<text><![CDATA[Jian은 마스터 파일을 다운로드한 것에 대해 문책을 받지만 적어도 정보는 안전합니다. Holly는 다른 작성자가 업데이트를 했으며 그 사항이 영향을 받을 수 있는지를 확인하지 않은 상태에서 수정된 파일을 업로드해서는 안 됩니다.]]></text>
+			<text><![CDATA[이는 민감한 데이터를 보호한다는 점에서 가장 안전한 행동입니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

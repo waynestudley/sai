@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[Het is de taak van ons allen om omkoping en corruptie hier te bannen. Klik op iedere titel om te ontdekken wat u kunt doen.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Bij Johnson Controls verbinden we ons ertoe alle wetten inzake de bestrijding van omkoping en corruptie na te leven. In de praktijk houdt dit in:]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[Checklist]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Selecteer iedere titel voor meer informatie.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[Bied geen steekpenningen aan ]]></buttonText>
+			<popText style="">
+				<text style="line-height:18px;font-size:15px"><![CDATA[Bied een zakelijke contactpersoon nooit iets van waarde aan met de intentie zijn/haar oordeel te beïnvloeden.]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[Houd een nauwkeurige administratie bij ]]></buttonText>			
+			<popText style="">
+				<text style="line-height:18px;font-size:15px"><![CDATA[Tracht de kosten van amusement of geschenken niet te verbergen of verkeerd voor te stellen. Registreer alle transacties op eerlijke, accurate wijze. Raadpleeg ons <a href="content/nld/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">beleid inzake transport, reizen en amusement voor derden</a> voor meer informatie.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[Stel zakenpartners aansprakelijk]]></buttonText>
+			<popText style="">
+				<text style="line-height:18px;font-size:15px"><![CDATA[Maak onze antiomkopingsnormen duidelijk aan alle derden waarmee we samenwerken. Houd toezicht op hun activiteiten en meld ieder vermoeden van corruptie. Ga niet met zakenpartners in zee die zich bezighouden met corrupte praktijken.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[Ken de derden waarmee u samenwerkt]]></buttonText>
+			<popText style="">
+				<text style="line-height:17px;font-size:15px"><![CDATA[Als u verantwoordelijk bent voor het beheer van derden, zorg er dan voor dat ze volledig zijn goedgekeurd volgens de vereisten van het programma voor derden van Johnson Controls.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

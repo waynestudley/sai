@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m05s09" maxAttempt="2">
+	<transcript>
+		<text path="audio/module5/m05s09" id="0"><![CDATA[À vous de jouer. Pouvez-vous reconnaître ce qui constitue ou non une exportation parmi ces éléments ? Faites glisser chaque élément dans la case Exportation ou Pas une exportation, puis cliquez sur Soumettre.]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[Pensez-vous que vous pouvez identifier ce qui constitue ou non une exportation ? Pour chacun de ces éléments, décidez s’il s'agit d'une exportation ou non.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s09/contentBackground.jpg" minwidth="769"><![CDATA[Salariés travaillant avec des documents de l’entreprise]]></img>
+	</contentBackground>
+	 <contentBg style="top: 15px;"></contentBg>
+	<pageTitle style="width: 588px;margin-bottom:6px;"></pageTitle>
+	<instructionText style="width: 588px;margin-top:6px;">
+		<text><![CDATA[Faites glisser chaque élément dans l’une des deux cases, puis cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+		<text><![CDATA[Cliquez sur le bouton Réessayer pour recommencer.]]></text>
+		<text><![CDATA[Cliquez sur le bouton Afficher la réponse.]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;top:5px;background-color: #ffffff;width: 330px; padding: 4px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[SITUATIONS]]></lable> 
+		<option>			
+			<option height="51px" left="0" top="27px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Poster une information relative à la conception en ligne]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="88px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Montrer des informations techniques contrôlées à l’exportation à un client étranger lors d'une visite d’usine]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="149px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Publier un article technique sur le futur des CVC dans un magazine d’informations internationales]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="210px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Fournir à un client citoyen d'un autre pays une assistance pour la conception d'un nouveau produit ou l’intégration d'un produit Johnson Controls dans leur produit final]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="271px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Télécharger des dessins sur un portail web partagé avec des fournisseurs internationaux]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="332px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[Enregistrer des documents techniques sur les réseaux informatiques internes si leur accès est restreint aux salariés situés dans le/ayant la citoyenneté du même pays]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="393px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[Envoyer un produit à un client dans votre ville, si le client est citoyen et enregistré pour exercer son activité dans votre pays]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="455px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[Envoyer un e-mail à un client dans un autre pays pour l’inviter à un repas et le féliciter d'une grande réussite récente]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="1" topGap="149" bottomGap="33">
+		<dropArea maxDrop="5" style="width:312px;left: 355px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="5" style="width:312px;left: 670px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Exportation]]></text>
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Pas une exportation]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[Déposez ici]]></text>
+		<text style="width:301px;left: 277px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[Déposez ici]]></text>
+		<text style="width:301px;left: 277px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[Déposez ici]]></text>
+		<text style="width:301px;left: 277px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[Déposez ici]]></text>
+		<text style="width:301px;left: 277px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[Déposez ici]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[Déposez ici]]></text>
+		<text style="width:301px;left: 593px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[Déposez ici]]></text>
+		<text style="width:301px;left: 593px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[Déposez ici]]></text>
+		<text style="width:301px;left: 593px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[Déposez ici]]></text>
+		<text style="width:301px;left: 593px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[Déposez ici]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 480px;left: 190px;z-index: 10;width: 150px;"><![CDATA[Soumettre]]></text>
+		<text style="position:absolute;top: 480px;left: 190px;z-index: 10;width: 160px;"><![CDATA[Essayez à nouveau]]></text>	
+		<text style="position:absolute;top: 480px;left: 190px;z-index: 10; width: 160px;"><![CDATA[Afficher la réponse]]></text>	
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct style="top: 146px;height: 160px;"> 
+			<text style="font-size:17px;"><![CDATA[C’est exact.]]></text>
+			<text><![CDATA[Rappelez-vous, si vous ne savez pas ce qui est ou n’est pas une exportation, consultez nos experts de la conformité des échanges commerciaux.]]></text>
+			
+		</correct>
+		<incorrect style="top: 146px;height: 160px;"> 
+			<text style="font-size:17px;"><![CDATA[Désolé, ce n’est pas la bonne réponse.]]></text>
+			<text><![CDATA[Rappelez-vous, si vous ne savez pas ce qui est ou n’est pas une exportation, consultez nos experts de la conformité des échanges commerciaux.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

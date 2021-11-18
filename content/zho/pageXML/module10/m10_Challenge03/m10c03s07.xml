@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[单击“下一步”继续。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[英格丽猜想希尔德点的红酒价格昂贵。 她该怎么办？ ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[继续共进晚餐，希望没人注意到开支报告中的红酒花费。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[继续共进晚餐，因为拒绝为红酒买单会让情况变得很尴尬。 然而，她打算单独开具红酒发票，个人自掏腰包。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[在侍者准备红酒前，跟希尔达私下谈谈，告诉她公司不会批准红酒花费。 希尔达可以选择自己支付，或者换一瓶便宜的红酒。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[英格丽支付晚餐费用，并提交开支报告。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[英格丽支付晚餐费用，并提交开支报告，其中不包括红酒花费。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[当英格丽告诉希尔达自己无法支付红酒费用时，她看起来很惊讶。 但当晚用餐结束时，她要求单独开具账单，自己自掏腰包。]]></text>
+		</correct>
+	</feedback>
+</contents>

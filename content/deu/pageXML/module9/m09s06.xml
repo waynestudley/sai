@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m09s06" maxAttempt="2">
+	<transcript>
+		<text path="audio/module9/m09s06" id="0"><![CDATA[Erkennen Sie, was angemessen ist und was nicht? Ziehen Sie jedes Element in das Feld „Angemessen“ oder in das Feld „Unangemessen“ und klicken Sie anschließend auf „Übermitteln“.]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px;font-size:14px;line-height:18px;"><![CDATA[Lesen Sie die folgenden Situationsbeschreibungen und entscheiden Sie, ob es angemessen wäre, Wettbewerbsinformationen unter den gegebenen Umständen anzunehmen.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module9/m09s06/contentBackground.jpg" minwidth="769"><![CDATA[Mitarbeiter mit Firmendokumenten]]></img>
+	</contentBackground>
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 588px;"></pageTitle>
+	<instructionText style="width: 588px;">
+		<text><![CDATA[Ziehen Sie jedes Element in eines der beiden Felder und klicken Sie anschließend auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+		<text><![CDATA[Klicken Sie auf „Erneut versuchen“, um einen neuen Versuch zu unternehmen.]]></text>
+		<text><![CDATA[Klicken Sie auf „Antwort anzeigen“.]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 291px; padding: 0px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[SITUATIONEN]]></lable> 	
+		<option>			
+			<option height="68px" left="0" top="21px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="0"><![CDATA[Ein Wettbewerber hat Stellenanzeigen veröffentlicht, deren Anforderungsprofil auf einen Strategiewechsel hindeutet]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="99px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="0"><![CDATA[Sie erhalten ein Manuskript für eine Rede, die der CEO eines Konkurrenzunternehmens im vergangenen Jahr auf einer Branchenkonferenz hielt und in der er auf die neuesten Verbesserungen in der Produktion einging.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="177px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="0"><![CDATA[Sie sehen sich Produktzeichnungen aus einer Patentanmeldung an, die ein anderer Wettbewerber kürzlich eingereicht hat]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="255px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="1"><![CDATA[Ein ehemaliger Kollege arbeitet nun für ein Konkurrenzunternehmen und gibt Informationen über wichtige Verträge dieses Unternehmens an Sie weiter ]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="334px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="1"><![CDATA[Ein Auftragnehmer, der auch für einen Ihrer Konkurrenten tätig ist, bietet Ihnen an, Ihnen einige Produktzeichnungen auf seinem Smartphone zu zeigen]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="413px" width="287px" padding="2px 10px" fontSize="12px" lineHeight="12px" dropId="1"><![CDATA[Ein neuer Mitarbeiter war vorher für einen anderen Wettbewerber tätig. Daher fragen Sie ihn nach genauen Preisangaben zum neuen Service dieses Unternehmens]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="0" topGap="149" bottomGap="37">
+		<dropArea maxDrop="3" style="width:312px;left: 330px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="3" style="width:312px;left: 648px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Angemessen]]></text>
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Unangemessen]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier ablegen]]></text>
+		<text style="width:301px;left: 277px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier ablegen]]></text>
+		<text style="width:301px;left: 277px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier ablegen]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier ablegen]]></text>
+		<text style="width:301px;left: 593px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier ablegen]]></text>
+		<text style="width:301px;left: 593px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[Hier ablegen]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[Übermitteln]]></text>
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10; width: 160px;"><![CDATA[Erneut versuchen]]></text>	
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10; width: 160px;"><![CDATA[Antwort anzeigen]]></text>
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct style="height:275px;top:147px;"> 
+			<text style="font-size:17px;"><![CDATA[Das ist richtig.]]></text>
+			<text><![CDATA[Es ist angemessen, Wettbewerbsinformationen anzunehmen, wenn sie von öffentlich zugänglichen Quellen stammen.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[Bringen Sie eine Person niemals in eine Position, in der sie ihre Geheimhaltungspflichten gegenüber einem anderen Unternehmen verletzen müsste.]]></text>
+			
+		</correct>
+		<incorrect style="height:275px;top:147px;"> 
+			<text style="font-size:17px;"><![CDATA[Das stimmt leider nicht.]]></text>
+			<text><![CDATA[Es ist angemessen, Wettbewerbsinformationen anzunehmen, wenn sie von öffentlich zugänglichen Quellen stammen.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[Bringen Sie eine Person niemals in eine Position, in der sie ihre Geheimhaltungspflichten gegenüber einem anderen Unternehmen verletzen müsste.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[הגיע תורך להוכיח שאתה יודע כיצד ליישם את כללי תאימות הסחר. חבר כל מצב בצד שמאל לפתרון הנכון בצד ימין ולחץ על 'שלח'.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[הראה שאתה יודע מה צריך לעשות בכל אחד מהמצבים הללו. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/rtl/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;left: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;right:836px;top:0px;"><![CDATA[שלח]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[בחר פריט מתוך העמודה הראשונה ולאחר מכן גרור את החצים לפתרון המתאים בעמודה השנייה. כשתסיים, לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על סימני השאלה לקבלת מידע נוסף.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;right: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[המצב]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 348px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/rtl/module5/m05s12/img01.png"><![CDATA[בייג'ין]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[אתה נוסע לבייג'ין למטרה עסקית. עמית מבקש ממך להביא דוגמה למוצר לאחד מאנשי הקשר שנמצאים שם.]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:348px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/rtl/module5/m05s12/img02.png"><![CDATA[תקריב של אזרח סורי]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[אתה אזרח בריטי שמבקר לקוחות באירופה אתה נפגש עם מפיץ שהוא אזרח סורי ומבקש דוגמה למוצר.]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:348px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/rtl/module5/m05s12/img03.png"><![CDATA[נציג של לקוח בערב הסעודית]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[נציג של לקוח מערב הסעודית מתקשר עם שאלות בנוגע לפרוטוקול בדיקות וטכנולוגיית תכנון של אחד המוצרים שלנו.]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:348px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/rtl/module5/m05s12/img04.png"><![CDATA[צוות עסקי]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[הצוות שלך משתף פעולה עם הלקוח הבינלאומי באמצעות OneDrive. מנהל הפרויקט מבקש ממך להעלות מידע טכני מאחר שהוא לא מורשה לשלוח עותק מודפס למדינה של הלקוח.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;right: 640px;">		
+			<heder><![CDATA[הפתרון]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 258px;top: 8px;height: 60px;">
+				<text style=""><![CDATA[בדוק אם הדבר מותר ואם דרוש לך רישיון כדי להמשיך]]></text>
+				<rightIcon style="height:60px" path="content/images/rtl/module5/m05s12/img05.png"><![CDATA[עובד משוחח בטלפון ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 258px;top: 79px;height: 60px;">
+				<text><![CDATA[סרב בעדינות. ]]></text>
+				<rightIcon style="height:60px" path="content/images/rtl/module5/m05s12/img06.png"><![CDATA[תקריב של אדם רציני]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 258px;top: 150px;height: 60px;">
+				<text><![CDATA[בקש לדחות את השיחה]]></text>
+				<rightIcon style="height:60px" path="content/images/rtl/module5/m05s12/img07.png"><![CDATA[עובד משוחח בטלפון]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 258px;top: 221px;height: 60px;">
+				<text><![CDATA[סרב לעשות זאת.]]></text>
+				<rightIcon style="height:60px" path="content/images/rtl/module5/m05s12/img08.png"><![CDATA[עובד משוחח בטלפון]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[זה הכול - התאמת את כולם כראוי.]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[לא נכון. כעת לחץ על כל פתרון לקבלת מידע נוסף.]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top: 178px;right: 690px;">
+				<text style=""><![CDATA[אם הדבר מותר, במצב זה הכי כדאי לשלוח את הדוגמה מראש. אם קיבלת אישור מאנשי הסחר לשאת את המוצר באופן אישי, עליך לדווח כראוי לרשויות המכס מה תיקח איתך כאשר תצא מהמדינה ותיכנס אליה.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top: 178px;right: 690px;">
+				<text style=""><![CDATA[אינך יכול לשתף את דוגמת המוצר עם אדם ממדינה שמוטלות עליה סנקציות כמו סוריה לכן במצב זה עליך לסרב בעדינות.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top: 178px;right: 690px;">
+				<text style=""><![CDATA[דרוש לך מידע נוסף כדי שתוכל לשתף מידע זה. בדוק היטב עם מומחי התאימות לסחר האם ניתן לשתף מידע עם אדם זה.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top: 178px;right: 690px;">
+				<text style=""><![CDATA[עליך לדחות את הבקשה. אם אינך מורשה לייצא את הגרסה הפיזית של מסמך, אותן הגבלות חלות על הגרסה האלקטרונית של אותו מסמך.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

@@ -1,0 +1,12 @@
+/*----------------------------------------
+	Name: jquery.fw_BookMark.css
+	Developed by: Suyog Shaha
+----------------------------------------*/
+.fw_BookMarkparent{height:100%;position:absolute;top:0;width:100%;z-index:888888}
+.fw_BookMarkPopWindow{background-color:#FFFFFF;display:block;height:125px;padding-top:1px;position:relative;width:310px;top:90px;border-color:#0057a6;border-style:solid;border-width:1px 1px 10px 1pt;margin:0 auto}
+.fw_BookMarkText{color:#333740;font-size:15px;height:auto;margin-top:20px;text-align:center;top:39px;width:95%;margin-right:7px;}
+.fw_BookMarkYes,.fw_BookMarkNo{background-color: #D3D645;color:#333740;cursor:pointer;font-size:16px;height: 37px;min-width: 130px;text-align:center;width:auto;display: table-cell;vertical-align: middle;/* margin-right: 25px; */}
+.fw_ButtonDiv{display:table;position: relative;top: 20px;text-align: center;margin: 0 auto;}
+.fw_ButtonGap {width:20px;}
+.fw_BookMarkYes:hover,.fw_BookMarkNo:hover,.fw_BookMarkYes:focus,.fw_BookMarkNo:focus{background-color: #F6EE44;}
+.fw_BookMarkPopWindow:focus{border-color:#0057a6!important;border-style:solid!important;border-width:1px 1px 10px 1px!important;}

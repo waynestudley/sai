@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m07s04">
+	<transcript>
+		<text path="audio/module7/m07s04" id="0"><![CDATA[Vamos analisar os diferentes tipos de propriedade intelectual que temos na Johnson Controls. Clique em cada botão revelar para saber mais.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[O sucesso da Johnson Controls depende em parte da nossa capacidade de proteger o seguinte:]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module7/m07s04/contentBackground.jpg" minwidth="769"><![CDATA[Histórico do escritório]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Clique em cada botão revelar para saber mais. Role para baixo para ler a resposta completa.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[REVELAR]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module7/m07s04/img1.png"><![CDATA[Pasta de arquivo chamada "patentes"]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Patentes]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[As patentes protegem uma invenção técnica, incluindo software técnico, da Johnson Controls.]]></text>
+				<text><![CDATA[O processo de registro de uma patente pode ser moroso e dispendioso, mas, uma vez obtido, uma patente permite impedir o uso da invenção por terceiros. Isso nos garante uma vantagem competitiva potencialmente grande.]]></text>						
+			</popText>	
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module7/m07s04/img2.png"><![CDATA[Acordo de confidencialidade]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Segredos comerciais]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Os segredos comerciais incluem os negócios, processos e informações técnicas confidenciais da Johnson Controls, como protocolos de fabricação e dados coletados. Quaisquer informações sobre nosso negócio que não sejam conhecidas amplamente nos dá uma vantagem econômica no mercado e estão sujeitas a medidas razoáveis para que sejam protegidas como segredo comercial.]]></text>					
+				<text><![CDATA[Nem todos os países têm leis de proteção a segredos comerciais, mas podemos estabelecê-las sendo cuidadosos em não compartilhar tais segredos com pessoas não autorizadas a recebê-los. Além disso, pedimos que o destinatário assine um acordo de não divulgação (NDA).]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img3.png"><![CDATA[Símbolo de direitos autorais]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Direitos autorais]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Na Johnson Controls, usamos direitos autorais para proteger nosso código de software, embalagens e manuais.]]></text>			
+				<text><![CDATA[Em muitos países, os direitos autorais podem proteger a Propriedade Intelectual por 70 anos após a morte do autor. Nenhum requerimento é necessário para proteger direitos autorais, mas é necessário o registro para a aplicação dos direitos autorais nos EUA.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img4.png"><![CDATA[Funcionário trabalhando em um produto da Johnson Controls]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Direitos de design]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Os direitos de design, também conhecidos como patentes de design, protegem o design de um produto (e não suas características técnicas).]]></text>			
+				<text><![CDATA[Por exemplo, direitos de design podem proteger a aparência de um detector e impedir que concorrentes copiem o design. Contudo, os direitos de design não protegem a tecnologia que faz o detector funcionar. A Johnson Controls teria de obter uma patente específica a esse aspecto do produto.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img5.png"><![CDATA[Símbolo de marca comercial]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Marcas comerciais]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[As marcas comerciais, incluindo marcas de serviços, protegem nossas marcas e logomarcas. São os nomes ou símbolos que usamos para identificar nossos produtos e serviços.]]></text>			
+				<text><![CDATA[Muitas coisas podem se transformar em uma marca comercial, incluindo cores, formas e até mesmo aromas e sons. O nome "Coca-Cola" é uma marca comercial, assim como o "swoosh" da Nike.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

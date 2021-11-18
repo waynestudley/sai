@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript >
+		<text id="0" path="audio/module6/m06s04"><![CDATA[How well can you recognize unfair competition?]]></text>
+	</transcript>
+	<contentText >
+
+		<text style="line-height: 16px;font-size:14px;"><![CDATA[How well can you recognize unfair competition? Connect some examples of unfair competition with the type of agreement that’s occurring.]]></text>
+
+	</contentText>
+	<buttonText >		
+		<text style="position: relative;left:785px;top:0px;"><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<contentBackground cName="" >		
+		<img path="content/images/ltr/module6/m06s04/contentBackground.jpg"  minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;right: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;" ></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 16px;">
+		<text><![CDATA[Select an item from the first column, then drag the arrows to its matching type of unfair competition in the second. When you're done, click on submit.]]></text>
+		<text><![CDATA[Click on the question marks to learn more.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[SCENARIO]]></heder>			
+			<tab id = "1" style = "height:70px"  dragPosition = "left: 553px;top: 8px;z-index: 5;height: 70px;"  >
+				<leftIcon style = "height:70px" path = "content/images/ltr/module6/m06s04/img01.png" ><![CDATA[Two competitors at lunch]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = "" ><![CDATA[Two competitors at lunch]]></dragIcon>
+				<text style = ""><![CDATA[Two competitors meet for lunch. One agrees to concentrate sales efforts in the north of the country while the other will focus on the south.]]></text>				
+			</tab>			
+			<tab id = "2" style = "height:70px" dragPosition = "left:553px; top:89px;z-index:5;height:70px" >
+				<leftIcon style = "height:70px" path = "content/images/ltr/module6/m06s04/img02.png" ><![CDATA[Three competitors talking]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = ""><![CDATA[Three competitors talking]]></dragIcon>
+				<text style = ""><![CDATA[Three competitors who serve the same small market sit down to plan the upcoming year. They review upcoming tenders and agree to take turns as the lowest bidder while the others keep prices too high to be considered.]]></text>
+			</tab>	
+			<tab id = "3" style = "height:70px" dragPosition = "left:553px; top:170px;z-index:5;height:70px" >
+				<leftIcon style = "height:70px" path = "content/images/ltr/module6/m06s04/img03.png" ><![CDATA[Senior sales execs at a trade conference]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = ""><![CDATA[Senior sales execs at a trade conference]]></dragIcon>
+				<text style = ""><![CDATA[At a trade conference, several senior-level sales executives discuss how the largest supplier in their market has been unfairly raising prices. They agree that they will reduce their orders substantially – or cancel them completely when possible – and seek another supplier until prices go back down.]]></text>
+			</tab>
+			<tab id = "4" style = "height:70px" dragPosition = "left:553px; top:251px;z-index:5;height:70px" >
+				<leftIcon style = "height:70px" path = "content/images/ltr/module6/m06s04/img04.png" ><![CDATA[Group of percent signs]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = ""><![CDATA[Group of percent signs]]></dragIcon>
+				<text style = ""><![CDATA[A group of competitors in an industry where the price of raw materials is rising have an informal agreement not to allow customer discounts of more than 10%.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;left: 640px;">		
+			<heder><![CDATA[TYPE OF UNFAIR COMPETITION]]></heder>
+			<tab id = "1" style = "height:70px" dropPosition = "left: 643px;top: 8px;height: 70px;">
+				<text  style = ""><![CDATA[Market allocation]]></text>
+				<rightIcon style= "height:70px" path = "content/images/ltr/module6/m06s04/img05.png" ><![CDATA[Pie chart]]></rightIcon>
+			</tab>	
+			<tab id = "2" style = "height:70px" dropPosition = "left: 643px;top: 89px;height: 70px;">
+				<text><![CDATA[Bid rigging]]></text>
+				<rightIcon style = "height:70px" path = "content/images/ltr/module6/m06s04/img06.png" ><![CDATA[Two business people collaborating on a bid]]></rightIcon>
+			</tab>	
+			<tab id = "3" style = "height:70px" dropPosition = "left: 643px;top: 170px;height: 70px;">
+				<text><![CDATA[Group boycott]]></text>
+				<rightIcon style = "height:70px" path = "content/images/ltr/module6/m06s04/img07.png" ><![CDATA[Group deciding to boycott a customer to punish them]]></rightIcon>
+			</tab>	
+			<tab id = "4" style = "height:70px" dropPosition = "left: 643px;top: 251px;height: 70px;">
+				<text><![CDATA[Price fixing]]></text>
+				<rightIcon style = "height:70px" path = "content/images/ltr/module6/m06s04/img08.png" ><![CDATA[Two competitors fixing a price]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal" >
+			<optfeedback id = "1" style = "left: 712px;top: 147px;width: 236px;">
+				<text style = ""><![CDATA[Dividing customers or territories – known as market allocation – happens when competitors agree to split up customers, products or geographical areas. Doing this reduces competition within the specified areas, and reduces customer options.]]></text>
+			</optfeedback>			
+			<optfeedback id = "1" style = "left: 712px;top: 147px;width: 236px;">
+				<text style = ""><![CDATA[Bid rigging occurs when competitors coordinate their bids to influence the outcome of the bidding process.]]></text>
+			</optfeedback>	
+			<optfeedback id = "1" style = "left: 712px;top: 147px;width: 236px;">
+				<text style = ""><![CDATA[A company, acting alone, generally has the right to choose whom to do business with. But when two or more companies agree not to do business with another company, their boycott may violate competition laws.]]></text>
+			</optfeedback>	
+			<optfeedback id = "1" style = "left: 712px;top: 147px;width: 236px;">
+				<text style = ""><![CDATA[Price fixing involves an agreement between competitors to coordinate their prices or other competitive terms, instead of competing freely and independently against one another.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

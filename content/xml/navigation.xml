@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<course>
+    <module id="0"> 
+        <title lang="acno"><![CDATA[Aplicar el Código de Ética: Hacer negocios con integridad]]></title>
+        <title lang="ara"><![CDATA[تطبيق مدونة السلوكيات: ممارسة الأعمال التجارية بشكل نزيه]]></title>
+        <title lang="bsil"><![CDATA[Aplicação do Código de Ética: Realizar Negócios com Integridade]]></title>
+        <title lang="ces"><![CDATA[Uplatňování etického kodexu: Podnikáme s integritou]]></title>
+        <title lang="deu"><![CDATA[Anwendung des Verhaltenskodexes: Integre Geschäftsführung]]></title>
+		<title lang="eng"><![CDATA[Applying the Ethics Code: Doing Business with Integrity]]></title>
+        <title lang="fra"><![CDATA[Appliquer le Code d’éthique : Faire des affaires en toute intégrité]]></title>
+        <title lang="heb"><![CDATA[החלת הקוד האתי: מנהלים עסקים ביושרה]]></title>
+        <title lang="ita"><![CDATA[Applicare il Codice etico: Lavorare con integrità]]></title>
+        <title lang="jpn"><![CDATA[倫理規範を適用: インテグリティを持ってビジネスを運営する]]></title>
+        <title lang="kor"><![CDATA[윤리 강령 적용: 정직한 사업 수행]]></title>
+        <title lang="mly"><![CDATA[Menggunakan Kod Etika: Menjalankan Perniagaan dengan Integriti]]></title>
+        <title lang="nan"><![CDATA[踐行道德準則： 誠信經營]]></title>
+        <title lang="nld"><![CDATA[De ethische code toepassen: integer zakendoen]]></title>
+        <title lang="rus"><![CDATA[«Соблюдение кодекса этики: добросовестное ведение бизнеса»]]></title>
+        <title lang="slk"><![CDATA[Aplikácia etického kódexu: Bezúhonné obchodovanie]]></title>
+        <title lang="tha"><![CDATA[การประยุกต์ใช้แนวปฏิบัติทางจรรยาบรรณ: การทำธุรกิจด้วยความซื่อสัตย์]]></title>
+        <title lang="zho"><![CDATA[应用道德准则： 诚信经营]]></title>
+        <page pageType = "languageSelection" xmlPath="content/xml/languageselection.xml" defaultPath="true" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "welcomeScreen"  xmlPath="welcomescreen.xml" defaultPath="true" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "audioSelection" xmlPath="audioselection.xml" tincanverb="attended" mandatory="false" ></page>
+        <page pageType = "regionSelection" xmlPath="regionselection.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+        <page pageType = "profileSelection" xmlPath="profiler.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+        <page pageType = "profileSelection1" xmlPath="profiler1.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+        <page pageType = "preAssessmentIntro" xmlPath="pageXML/preAssessment/preAssessmentIntro.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" ></page>		
+		<page pageType = "preAssessment" xmlPath="assessment.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+        <page pageType = "preAssessmentSummary" xmlPath="pageXML/preAssessment/preAssessmentSummary.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "simplePresentation" xmlPath="pageXML/module0/m00s01.xml" tincanverb="attended" mandatory="false"></page>
+    </module>	
+    <module id="1" profilerQueId="1Y,2Y,3Y,11Y,12Y"  profilerLocId="R1,R2,R3" > 
+        <page pageType = "simplePresentation" xmlPath="pageXML/module1/m01s01.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module1/m01s02.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "formativeAgreeDisagree" xmlPath="pageXML/module1/m01s03.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module1/m01s04.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "comicStripWithNav" xmlPath="pageXML/module1/m01s05.xml" tincanverb="attended" mandatory="true"></page>
+		<page pageType = "revealCallOut" xmlPath="pageXML/module1/m01s06.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "reveal" xmlPath="pageXML/module1/m01s07.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module1/m01s08.xml" tincanverb="attended" mandatory="false"></page>
+    </module>		
+    <module id="2" profilerQueId="2Y,3Y,9Y,10Y,12Y"  profilerLocId="NONE" > 
+        <page pageType = "simplePresentation" xmlPath="pageXML/module2/m02s01.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module2/m02s02.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "formativeAgreeDisagree" xmlPath="pageXML/module2/m02s03.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module2/m02s04.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module2/m02s05.xml" tincanverb="attended" mandatory="true"></page>
+		<page pageType = "formativeAgreeDisagree" xmlPath="pageXML/module2/m02s06.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module2/m02s07.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "reveal" xmlPath="pageXML/module2/m02s08.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "formativeAgreeDisagree" xmlPath="pageXML/module2/m02s09.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module2/m02s10.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "reveal" xmlPath="pageXML/module2/m02s11.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "formativeAgreeDisagree" xmlPath="pageXML/module2/m02s12.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "reveal" xmlPath="pageXML/module2/m02s13.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module2/m02s14.xml" tincanverb="attended" mandatory="false"></page>
+    </module>	
+    <module id="3" profilerQueId="1Y,2Y,3Y,9Y,10Y,12Y" profilerLocId="R1,R2,R3" > 
+		
+        <page pageType = "simplePresentation" xmlPath="pageXML/module3/m03s01.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "formativeAgreeDisagree" xmlPath="pageXML/module3/m03s02.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "flipCard" xmlPath="pageXML/module3/m03s03.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module3/m03s04.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "formativeTAWA" xmlPath="pageXML/module3/m03s05.xml" tincanverb="attended" mandatory="true"></page>
+		<page pageType = "comicStripWithNav" xmlPath="pageXML/module3/m03s06.xml" tincanverb="attended" mandatory="true"></page>
+       <page pageType = "accordion" xmlPath="pageXML/module3/m03s07.xml" tincanverb="attended" mandatory="true"></page>
+		
+		<page pageType = "matching" xmlPath="pageXML/module3/m03s08.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module3/m03s09.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module3/m03s10.xml" tincanverb="attended" mandatory="false"></page>
+    </module>	
+    <module id="4" profilerQueId="4Y,5Y" profilerLocId="R1,R2,R3,R4,R5" > 
+        <page pageType = "simplePresentation" xmlPath="pageXML/module4/m04s01.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "formativeMCQ" xmlPath="pageXML/module4/m04s02.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module4/m04s03.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module4/m04s04.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module4/m04s05.xml" tincanverb="attended" mandatory="true"></page>
+		<page pageType = "flipCard" xmlPath="pageXML/module4/m04s06.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "formativeAgreeDisagree" xmlPath="pageXML/module4/m04s07.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "interactiveVideo" xmlPath="pageXML/module4/m04s08.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module4/m04s09.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "interactiveVideo" xmlPath="pageXML/module4/m04s10.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+        <page pageType = "formativeTAWA" xmlPath="pageXML/module4/m04s11.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation"  xmlPath="pageXML/module4/m04s12.xml" tincanverb="attended" mandatory="false"></page>
+    </module>	
+    <module id="5" profilerQueId="6Y,7Y,11Y"  profilerLocId="NONE" > 
+        <page pageType = "simplePresentation" xmlPath="pageXML/module5/m05s01.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module5/m05s02.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "graphicReveal" xmlPath="pageXML/module5/m05s03.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "formativeMCQ" xmlPath="pageXML/module5/m05s04.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "formativeMCQ" xmlPath="pageXML/module5/m05s05.xml" tincanverb="attended" mandatory="true"></page>
+		<page pageType = "formativeTAWA" xmlPath="pageXML/module5/m05s06.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module5/m05s07.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module5/m05s08.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "dragNDrop1" xmlPath="pageXML/module5/m05s09.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module5/m05s10.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module5/m05s11.xml" tincanverb="attended" mandatory="true"></page>
+	<page pageType = "matchingMultiAns" xmlPath="pageXML/module5/m05s12.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation"  xmlPath="pageXML/module5/m05s13.xml" tincanverb="attended" mandatory="false"></page>
+    </module>	
+    <module id="6" profilerQueId="1Y,2Y,3Y,8Y,12Y"  profilerLocId="R4"> 
+        <page pageType = "simplePresentation" xmlPath="pageXML/module6/m06s01.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "formativeTAWA" xmlPath="pageXML/module6/m06s02.xml" tincanverb="attended" mandatory="true" ></page>
+        <page pageType = "flipCard" xmlPath="pageXML/module6/m06s03.xml" tincanverb="attended" mandatory="true"></page>
+       <page pageType = "matching" xmlPath="pageXML/module6/m06s04.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "flipCard" xmlPath="pageXML/module6/m06s05.xml" tincanverb="attended" mandatory="true" ></page>
+	   
+	
+		<page pageType = "flipCard" xmlPath="pageXML/module6/m06s06.xml" tincanverb="attended" mandatory="true"  ></page>
+        <page pageType = "comicStripWithNav" xmlPath="pageXML/module6/m06s07.xml" tincanverb="attended" mandatory="true" ></page>
+        <page pageType = "reveal" xmlPath="pageXML/module6/m06s08.xml" tincanverb="attended" mandatory="true" ></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module6/m06s09.xml" tincanverb="attended" mandatory="false" ></page>
+    </module>	
+    <module id="7" profilerQueId="11Y"  profilerLocId="NONE" > 
+        <page pageType = "simplePresentation" xmlPath="pageXML/module7/m07s01.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module7/m07s02.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "formativeTAWA" xmlPath="pageXML/module7/m07s03.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "flipCard" xmlPath="pageXML/module7/m07s04.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "comicStripWithNav" xmlPath="pageXML/module7/m07s05.xml" tincanverb="attended" mandatory="true"></page>
+		<page pageType = "formativeAgreeDisagree" xmlPath="pageXML/module7/m07s06.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "flipCard" xmlPath="pageXML/module7/m07s07.xml" tincanverb="attended" mandatory="true" ></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module7/m07s08.xml" tincanverb="attended" mandatory="true" ></page>
+        <page pageType = "formativeMCQ" xmlPath="pageXML/module7/m07s09.xml" tincanverb="attended" mandatory="false" ></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module7/m07s10.xml" tincanverb="attended" mandatory="false" ></page>
+    </module>	
+    <module id="8" profilerQueId="2Y,3Y,4Y,5Y,11Y,12Y" profilerLocId="NONE" > 
+        <page pageType = "simplePresentation" xmlPath="pageXML/module8/m08s01.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module8/m08s02.xml" tincanverb="attended" mandatory="true"></page>
+       <page pageType = "graphicReveal" xmlPath="pageXML/module8/m08s03.xml" tincanverb="attended" mandatory="true"></page> 
+        <page pageType = "formativeMCQ" xmlPath="pageXML/module8/m08s04.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "formativeMCQ" xmlPath="pageXML/module8/m08s05.xml" tincanverb="attended" mandatory="true"></page>
+		<page pageType = "simplePresentation" xmlPath="pageXML/module8/m08s06.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "reveal" xmlPath="pageXML/module8/m08s07.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "interactiveVideo" xmlPath="pageXML/module8/m08s08.xml" tincanverb="attended" isTranscriptBlank="true" mandatory="true"></page>
+        <page pageType = "flipCard" xmlPath="pageXML/module8/m08s09.xml" tincanverb="attended" mandatory="true"></page>
+       <page pageType = "matching" xmlPath="pageXML/module8/m08s10.xml" tincanverb="attended" mandatory="true"></page>
+	   
+        <page pageType = "flipCard" xmlPath="pageXML/module8/m08s11.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module8/m08s12.xml" tincanverb="attended" mandatory="false"></page>
+    </module>	
+    <module id="9" profilerQueId="1Y,3Y,4Y,7Y,11Y,12Y" profilerLocId="NONE" > 
+        <page pageType = "simplePresentation" xmlPath="pageXML/module9/m09s01.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module9/m09s02.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module9/m09s03.xml" tincanverb="attended" mandatory="false"></page>
+        <page pageType = "hotSpotCustom" xmlPath="pageXML/module9/m09s04.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "revealCallOut" xmlPath="pageXML/module9/m09s05.xml" tincanverb="attended" mandatory="true"></page>
+		<page pageType = "dragNDrop1" xmlPath="pageXML/module9/m09s06.xml" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "simplePresentation" xmlPath="pageXML/module9/m09s07.xml" tincanverb="attended" mandatory="false"></page>
+    </module>	
+   
+	<module id="10" profilerQueId="All" profilerLocId="All" subModule="true" modType="challanges">
+        <page></page>
+    </module>		
+	 <module id="11" challenge="1" subMod="1" profilerQueId="All" profilerLocId="All" subProfilerQueId="OMSE">
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s01.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s02.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s03.xml" tincanverb="attended" mandatory="true" correctJump="4" partialJump="2" incorrectJump="1" challengeQue="true" ></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s04.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "graphicReveal"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s05.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s06.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" correctJump="1" partialJump="1" incorrectJump="1" challengeQue="true" ></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s07.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s08.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s09.xml" tincanverb="attended" mandatory="true" correctJump="2"  incorrectJump="1" challengeQue="true"></page>
+		
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s10.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s11.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s12.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s13.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s14.xml" tincanverb="attended" mandatory="true" correctJump="2" partialJump="7" incorrectJump="1" challengeQue="true" isTranscriptBlank="true"></page>
+		
+		<page pageType = "graphicReveal"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s15.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-1"></page>
+		
+		<page pageType = "graphicReveal"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s16.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s17.xml" tincanverb="attended" mandatory="true"  correctJump="3" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true" ></page>
+		
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s18.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-1"></page>
+		
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s19.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-2"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s20.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="6" ></page>
+		<page pageType = "graphicReveal"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s21.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s22.xml" tincanverb="attended" mandatory="true" correctJump="3" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true" ></page>
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s23.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s24.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-2"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s25.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge01/m10c01s26.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" setCompletion="true"></page>
+	</module>
+	<module id="12" challenge="2" subMod="2" profilerQueId="All" profilerLocId="All" subProfilerQueId="CSCE">
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s01.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" ></page>
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s02.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s03.xml" tincanverb="attended" mandatory="true" correctJump="6" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true"></page>
+		
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s04.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "graphicReveal"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s05.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s06.xml" tincanverb="attended" mandatory="true" correctJump="3" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true"></page>
+		
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s07.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s08.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-2"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s09.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s10.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s11.xml" tincanverb="attended" mandatory="true" correctJump="6" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true"></page>
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s12.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s13.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s14.xml" tincanverb="attended" mandatory="true" correctJump="3" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true"></page>
+		<page pageType = "accordion"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s15.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s16.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-2"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s17.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s18.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s19.xml" tincanverb="attended" mandatory="true" correctJump="3" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true" ></page>
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s20.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s21.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-2"></page>
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s22.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s23.xml" tincanverb="attended" mandatory="true" correctJump="1" partialJump="1"  challengeQue="true" isTranscriptBlank="true"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge02/m10c02s24.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" setCompletion="true"></page>
+	</module>
+	<module id="13" challenge="3" subMod="3" profilerLocId="All" profilerQueId="All" subProfilerQueId="OIE">
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s01.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s02.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s03.xml" tincanverb="attended" mandatory="true" correctJump="3" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true" ></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s04.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-1"></page>
+		
+		<page pageType = "graphicReveal"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s05.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "graphicReveal"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s06.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s07.xml" tincanverb="attended" mandatory="true" correctJump="3" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s08.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s09.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-2"></page>
+		
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s10.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s11.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s12.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s13.xml" tincanverb="attended" mandatory="true" correctJump="6" partialJump="2" incorrectJump="1" challengeQue="true"></page>
+		<page pageType = "accordion"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s14.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-1"></page>
+		
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s15.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		
+		<page pageType = "graphicReveal"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s16.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s17.xml" tincanverb="attended" mandatory="true" correctJump="2"  incorrectJump="1" challengeQue="true" isTranscriptBlank="true"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s18.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s19.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true"></page>
+		
+		<page pageType = "comicStrip"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s20.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s21.xml" tincanverb="attended" mandatory="true" correctJump="4" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true"></page>
+		<page pageType = "graphicReveal"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s22.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s23.xml" tincanverb="attended" mandatory="true" correctJump="6" incorrectJump="1" challengeQue="true" isTranscriptBlank="true"></page>
+		<page pageType = "accordion"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s24.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-1" ></page>
+		<page pageType = "graphicReveal"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s25.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true"></page>
+		<page pageType = "formativeMCQChallenge"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s26.xml" tincanverb="attended" mandatory="true" correctJump="3" partialJump="2" incorrectJump="1" challengeQue="true" isTranscriptBlank="true"></page>
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s27.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-1"></page>
+		<page pageType = "revealCallOut"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s28.xml" tincanverb="attended" mandatory="true" isTranscriptBlank="true" nextJump="-2"></page>
+		<page pageType = "simplePresentation"  xmlPath="pageXML/module10/m10_Challenge03/m10c03s29.xml" tincanverb="attended" mandatory="false" isTranscriptBlank="true" setCompletion="true"></page>
+	</module>
+	<module id="14" profilerQueId="All" profilerLocId="All"  modType="assessment" >
+        <page pageType = "knowledgeCheckIntro" xmlPath="pageXML/knowledgeCheck/knowledgeCheck_intro.xml" tincanverb="attended" mandatory="false"></page>		
+        <page pageType = "assessment" xmlPath="none" tincanverb="attended" mandatory="true"></page>
+        <page pageType = "knowledgeCheckSummary" xmlPath="pageXML/knowledgeCheck/knowledgeCheckSummary.xml" tincanverb="attended" mandatory="false"></page>
+    </module>
+    <module id="15" profilerQueId="All" profilerLocId="All"  modType="certificate" > 
+        <page pageType = "simplePresentation" xmlPath="pageXML/module12/m12s01.xml" tincanverb="attended" mandatory="false"></page>
+    </module>
+    
+    <menuGroup>
+        <group id="1"  moduleId="1"></group>
+        <group id="2"  moduleId="2"></group>
+        <group id="3"  moduleId="3"></group>
+        <group id="4"  moduleId="4"></group>
+        <group id="5"  moduleId="5"></group>
+        <group id="6"  moduleId="6"></group>
+        <group id="7"  moduleId="7"></group>
+        <group id="8"  moduleId="8"></group>
+        <group id="9"  moduleId="9"></group>
+        <group id="10" moduleId="10,11,12,13"></group>
+        <group id="11" moduleId="14"></group>
+        <group id="12" moduleId="15"></group>
+    </menuGroup>
+	
+    <inst lang="acno">
+        <text><![CDATA[Se ha perdido la conexión con el sistema de administración del aprendizaje; inicie sesión nuevamente. Si el problema continúa, contacte al servicio de asistencia de TI.]]>		
+        </text>
+        <text><![CDATA[Ha fallado en enlace de API, inicie sesión nuevamente. Si el problema continúa, contacte al servicio de asistencia de TI.]]>		
+        </text>
+        <text><![CDATA[Aceptar]]></text>
+    </inst>	
+	<inst lang="ara">
+         <text><![CDATA[فُقد اتصال LMS، الرجاء تسجيل الدخول مرة أخرى. إذا استمرت المشكلة، فالرجاء الاتصال بدعم تقنية المعلومات.]]>		
+        </text>
+        <text><![CDATA[فشل رابط API، الرجاء تسجيل الدخول مرة أخرى. إذا استمرت المشكلة، فالرجاء الاتصال بدعم تقنية المعلومات.]]>		
+        </text>
+        <text><![CDATA[حسنًا]]></text>
+    </inst>	
+	<inst lang="bsil">
+        <text><![CDATA[Conexão LMS perdida. Faça login novamente. Se o problema persistir, entre em contato com o suporte de TI.]]>		
+        </text>
+        <text><![CDATA[Falha no link da API. Faça login novamente. Se o problema persistir, entre em contato com o suporte de TI.]]>		
+        </text>
+        <text><![CDATA[OK]]></text>
+    </inst>	
+	<inst lang="ces">
+         <text><![CDATA[Připojení k systému LMS bylo přerušeno, přihlaste se znovu. Pokud problém přetrvává, obraťte se na podporu IT.]]>		
+        </text>
+        <text><![CDATA[Připojení k rozhraní API selhalo, přihlaste se znovu. Pokud problém přetrvává, obraťte se na podporu IT.]]>		
+        </text>
+        <text><![CDATA[OK]]></text>
+    </inst>	
+	<inst lang="deu">
+        <text><![CDATA[LMS-Verbindung unterbrochen. Bitte melden Sie sich erneut an. Wenn das Problem fortbesteht, wenden Sie sich bitte an den IT-Support.]]>		
+        </text>
+        <text><![CDATA[API-Link fehlgeschlagen. Bitte melden Sie sich erneut an. Wenn das Problem fortbesteht, wenden Sie sich bitte an den IT-Support.]]>		
+        </text>
+        <text><![CDATA[OK]]></text>
+    </inst>	
+	<inst lang="eng">
+        <text><![CDATA[LMS connection lost, please log in again. If the problem persists please contact IT Support.]]>		
+        </text>
+        <text><![CDATA[API link failed, please log in again. If the problem persists please contact IT Support.]]>		
+        </text>
+        <text><![CDATA[OK]]></text>
+    </inst>	
+	<inst lang="fra">
+        <text><![CDATA[Problème de connexion au serveur LMS. Veuillez vous reconnecter. Si le problème persiste, contactez le service d'assistance informatique.]]>		
+        </text>
+        <text><![CDATA[Erreur de connexion API. Veuillez vous reconnecter. Si le problème persiste, contactez le service d'assistance informatique.]]>		
+        </text>
+        <text><![CDATA[OK]]></text>
+    </inst>	
+	<inst lang="heb">
+        <text><![CDATA[אבד החיבור לשירותי ניהול למידה (LMS), התחבר שוב. אם הבעיה נמשכת, פנה למחלקת התמיכה במערכות מידע]]>		
+        </text>
+        <text><![CDATA[קישור ה-API נכשל, התחבר שוב. אם הבעיה נמשכת, פנה למחלקת התמיכה במערכות מידע]]>		
+        </text>
+        <text><![CDATA[אישור]]></text>
+	</inst>	
+	<inst lang="ita">
+         <text><![CDATA[Connessione LMS persa, accedi di nuovo. Se il problema persiste, contatta il supporto IT.]]>		
+        </text>
+        <text><![CDATA[Errore collegamento API, accedi di nuovo. Se il problema persiste, contatta il supporto IT.]]>		
+        </text>
+        <text><![CDATA[OK]]></text>
+    </inst>	
+	<inst lang="jpn">
+        <text><![CDATA[LMS接続が切断されました。再度ログインしてください。 問題が持続する場合は、ITサポートに連絡してください。]]>		
+        </text>
+        <text><![CDATA[APIリンクに失敗しました。再度ログインしてください。 問題が持続する場合は、ITサポートに連絡してください。]]>		
+        </text>
+        <text><![CDATA[OK]]></text>
+    </inst>	
+	<inst lang="kor">
+        <text><![CDATA[LMS 연결이 끊어졌습니다. 다시 로그인하십시오. 문제가 지속되면 IT 지원팀에 문의하십시오.]]>		
+        </text>
+        <text><![CDATA[API 연결에 실패했습니다. 다시 로그인하십시오. 문제가 지속되면 IT 지원팀에 문의하십시오.]]>		
+        </text>
+        <text><![CDATA[확인]]></text>
+    </inst>	
+	<inst lang="mly">
+        <text><![CDATA[Sambungan LMS hilang, sila log masuk sekali lagi. Jika masalah masih berterusan, sila hubungi Sokongan IT.]]>		
+        </text>
+        <text><![CDATA[Pautan API gagal, sila log masuk sekali lagi. Jika masalah masih berterusan, sila hubungi Sokongan IT.]]>		
+        </text>
+        <text><![CDATA[OK]]></text>
+    </inst>	
+	<inst lang="nan">
+        <text><![CDATA[LMS 連線已中斷，請再次登入。 如問題持續，請聯絡資訊技術支援部。]]>		
+        </text>
+        <text><![CDATA[LMS 連結失敗，請再次登入。 如問題持續，請聯絡資訊技術支援部。]]>		
+        </text>
+        <text><![CDATA[確定]]></text>
+    </inst>	
+	<inst lang="nld">
+        <text><![CDATA[De verbinding met het LMS werd verbroken, meld u opnieuw aan. Neem contact op met de dienst IT-ondersteuning als het probleem blijft aanhouden.]]>		
+        </text>
+        <text><![CDATA[De API-koppeling is mislukt, meld u opnieuw aan. Neem contact op met de dienst IT-ondersteuning als het probleem blijft aanhouden.]]>		
+        </text>
+        <text><![CDATA[OK]]></text>
+    </inst>	
+	<inst lang="rus">
+         <text><![CDATA[Потеряно соединение с LMS, выполните вход еще раз. If the problem persists please contact IT Support.]]>		
+        </text>
+        <text><![CDATA[Потеря связи с API, выполните вход еще раз. If the problem persists please contact IT Support.]]>		
+        </text>
+        <text><![CDATA[ОК]]></text>
+    </inst>	
+	<inst lang="slk">
+         <text><![CDATA[Pripojenie k systému LMS prerušené – prihláste sa znovu. V prípade, že problém pretrváva, kontaktujte IT podporu.]]>		
+        </text>
+        <text><![CDATA[Prepojenie API bolo prerušené – prihláste sa znovu. V prípade, že problém pretrváva, kontaktujte IT podporu.]]>		
+        </text>
+        <text><![CDATA[OK]]></text>
+    </inst>	
+	<inst lang="tha">
+         <text><![CDATA[การเชื่อมต่อระบบการจัดการการเรียนรู้ขาดหาย กรุณาเข้าสู่ระบบอีกครั้ง หากยังมีปัญหาเกิดขึ้น กรุณาติดต่อฝ่ายสนับสนุนด้าน IT]]>		
+        </text>
+        <text><![CDATA[ลิงก์ช่องทางการเชื่อมต่อระหว่างเว็บไซต์ล้มเหลว กรุณาเข้าระบบอีกครั้ง หากยังมีปัญหาเกิดขึ้น กรุณาติดต่อฝ่ายสนับสนุนด้าน IT]]>		
+        </text>
+        <text><![CDATA[ตกลง]]></text>
+    </inst>	
+	<inst lang="zho">
+        <text><![CDATA[LMS 联机中断，请重新登录。 如果问题仍然存在，请与 IT 支持人员联系。]]>		
+        </text>
+        <text><![CDATA[API 联机已中断，请再次登录。 如果问题仍然存在，请与 IT 支持人员联系。]]>		
+        </text>
+        <text><![CDATA[确定]]></text>
+    </inst>		
+
+
+	
+</course>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Ingrid má podozrenie, že víno, ktoré Hilde objednala, bolo veľmi drahé. Čo by mala urobiť? ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Zvoľte jednu možnosť a potom vyberte tlačidlo OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Pokračovať vo večeri a len dúfať, že si nikto nevšimne na výkaze výdavkov náklady na víno.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Pokračovať vo večeri, pretože nemôže odmietnuť zaplatiť za víno bez toho, aby tým vznikla nepríjemná situácia. Chce však požiadať, aby bolo víno na bloku samostatne a zaplatí ho zo svojich peňazí.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Porozprávať sa s Hilde medzi štyrmi očami, kým personál pripraví víno a povedať jej, že náklady na víno nebudú schválené jej spoločnosťou. Hilde má možnosť zaplatiť si za seba alebo si môže objednať lacnejšiu fľašu.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Ingrid zaplatí za večeru a predloží výkaz výdavkov.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Ingrid zaplatí za večeru a predloží výkaz výdavkov bez toho, aby na ňom uviedla víno.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Hilde sa zdá byť prekvapená, keď jej Ingrid povie, že nemôže zaplatiť za víno. Ale po večeri si vypýta samostatné bloky a zaplatí to z vlastných peňazí.]]></text>
+		</correct>
+	</feedback>
+</contents>

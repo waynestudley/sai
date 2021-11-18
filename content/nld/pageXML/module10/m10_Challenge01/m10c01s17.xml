@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Eduardo stelt voor dat ze naar een populaire herenclub een beetje verder in de straat gaan. De rest van het team lijkt geïnteresseerd om te gaan.]]></text>
+		<text><![CDATA[Hoe moet Jian reageren?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[Restaurant]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Met Eduardo en zijn team naar de club gaan, maar erop staan zelf te betalen zodat de gastvrijheid van Eduardo niet te buitensporig is.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Een drankje meepikken uit beleefdheid en om Eduardo niet voor het hoofd te stoten, maar niet te lang blijven.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Het aanbod beleefd afwijzen en naar huis gaan.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian heeft gelijk om stil te staan bij de mate van gastvrijheid waarmee hij mag instemmen, maar hij moet nog bij iets anders stilstaan.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Hoewel Jian van plan was Eduardo en zijn team maar voor even te vergezellen, heeft dit alsnog voor onverwachte problemen gezorgd voor Jian en Johnson Controls.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Dit is een veilige keuze.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m09s06" maxAttempt="2">
+	<transcript>
+		<text path="audio/module9/m09s06" id="0"><![CDATA[여러분이 무엇이 적절하고 무엇은 적절하지 않은지를 구분할 수 있는지 확인해 보십시오. 각 항목을 '적절' 또는 '적절하지 않음' 상자로 끌어간 후 '제출'을 클릭하십시오.]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[다음 상황을 읽고 경쟁 정보를 받는 것이 적절한지 아닌지를 결정하십시오.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module9/m09s06/contentBackground.jpg" minwidth="769"><![CDATA[회사 문서로 작업하는 직원들]]></img>
+	</contentBackground>
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 588px;"></pageTitle>
+	<instructionText style="width: 588px;">
+		<text><![CDATA[각 항목을 두 상자 중 하나로 끌어간 후 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+		<text><![CDATA[다시 하려면 '다시 시도' 버튼을 클릭하십시오.]]></text>
+		<text><![CDATA['정답 표시' 버튼을 클릭하십시오.]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 291px; padding: 0px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[상황]]></lable> 	
+		<option>			
+			<option height="68px" left="0" top="21px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[경쟁사가 전략의 변화를 시사하는 전문가 구인 광고를 게시했습니다.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="99px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[작년에 업계 콘퍼런스 연설에서 최근의 생산 개선 사항에 대한 정보를 공유한 경쟁사 CEO의 연설문을 입수했습니다.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="177px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[여러분은 한 경쟁업체의 최근 특허 출원에 포함된 제품 도면을 연구 중입니다.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="255px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[전 동료가 현재 경쟁업체에서 일하고 있는데, 그 회사의 주요 계약에 대한 정보를 여러분과 공유합니다. ]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="334px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[우리 회사의 경쟁업체와도 일하는 한 계약업자가 자신의 휴대전화에 있는 제품 도면 몇 개를 보여주겠다고 제안합니다.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="413px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[신입 직원이 전에 경쟁업체에서 일했기 때문에 그 회사의 새로운 서비스에 대한 가격 정보를 그에게 물어봅니다.]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="0" topGap="149" bottomGap="37">
+		<dropArea maxDrop="3" style="width:312px;left: 330px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="3" style="width:312px;left: 648px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[적절]]></text>
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[적절하지 않음]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 277px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 277px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 593px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 593px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[제출]]></text>
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[다시 시도]]></text>	
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10; width: 125px;"><![CDATA[정답 표시]]></text>
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct> 
+			<text style="font-size:17px;"><![CDATA[정답입니다.]]></text>
+			<text><![CDATA[공개적으로 사용할 수 있는 출처의 경쟁 정보를 받는 것은 적절합니다.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[누군가를 다른 회사에 대한 그의 기밀 유지 의무를 위반해야 하는 입장에 처하게 하지 마십시오.]]></text>
+			
+		</correct>
+		<incorrect> 
+			<text style="font-size:17px;"><![CDATA[죄송합니다. 정답이 아닙니다.]]></text>
+			<text><![CDATA[공개적으로 사용할 수 있는 출처의 경쟁 정보를 받는 것은 적절합니다.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[누군가를 다른 회사에 대한 그의 기밀 유지 의무를 위반해야 하는 입장에 처하게 하지 마십시오.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

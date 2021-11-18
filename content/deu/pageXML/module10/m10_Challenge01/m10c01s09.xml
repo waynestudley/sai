@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[Ein wichtiger Lieferant hat um eine sofortige Zahlung gebeten. Was sollte Jian Ihrer Meinung nach tun? Wählen Sie eine Antwort aus und klicken Sie auf „OK“.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Jian wird unter Druck gesetzt, die sofortige Zahlung einer Lieferantenrechnung zu genehmigen, und möglicherweise hängt der Erfolg eines Projekts davon ab.]]></text>
+		<text><![CDATA[Was sollte er tun?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[Jian telefoniert in seiner Küche mit Nolan]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Er sollte Nolan anweisen, die Zahlung zu genehmigen. Es erscheint sinnvoll, 1000 USD auszugeben, um wesentlich höhere Vertragsstrafen aufgrund von Lieferverzug zu vermeiden.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Er sollte Nolan anweisen, die Zahlung nicht zu genehmigen, bis sie nähere Informationen zum Verwendungszweck des Geldes in Zusammenhang mit der Genehmigung erhalten haben.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian weist die Buchhaltung an, die Rechnung zu bezahlen. Es scheint die beste Vorgehensweise zu sein, um das Projekt im Zeitplan zu halten, und ist weniger teuer als die Vertragsstrafen des Kunden.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Nach dem Gespräch mit Nolan hat Jian Bedenken aufgrund der Anfrage des Lieferanten.]]></text>
+		</correct>
+	</feedback>
+</contents>

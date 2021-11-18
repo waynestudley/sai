@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[Apakah yang anda akan lakukan jika seseorang menghantar data peribadi anda yang tidak sepatutnya dilihat?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold; line-height:18px;"><![CDATA[Apakah yang akan anda lakukan? ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Anda telah ditugaskan untuk memberitahu kontraktor tentang proses pengebilan baharu. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Anda meminta pekerja jabatan lain untuk menghantar senarai alamat e-mel tetapi hamparan yang dihantar kepada anda juga memasukkan maklumat peribadi yang digunakan untuk melindungi akaun mereka, seperti tarikh lahir, nama ibu dan nombor Keselamatan Sosial. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Apakah yang anda akan lakukan?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[Orang perniagaan]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Buat satu pilihan dan kemudian, serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px;line-height:18px;">
+		<option><![CDATA[Padamkan e-mel dan laporkan kepada Pasukan Privasi Data dengan menghantar e-mel kepada privacy@jci.com]]></option>
+		<option><![CDATA[Majukannya kepada rakan sekerja di tempat kerja sebagai contoh perkara yang tidak boleh dihantar melalui e-mel]]></option>
+		<option><![CDATA[Ambil hanya apa yang anda perlukan dari hamparan dan lupuskan selebihnya dengan selamat]]></option>
+		<option><![CDATA[E-mel kepada semua kontraktor untuk memberitahu bahawa data peribadi mereka telah terdedah]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:170px;" fcStyle="top:-193px">
+			<text style="font-size:17px;"><![CDATA[Betul.]]></text>
+			<text><![CDATA[Undang-undang privasi data dan dasar privasi data Johnson Controls, terpakai untuk maklumat peribadi pekerja serta pelanggan dan rakan perniagaan. Pastikan anda memahami tanggungjawab anda dan mematuhi dasar privasi Johnson Controls serta semua undang-undang perlindungan data dan privasi yang berkaitan.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:170px;" fcStyle="top:-193px">
+			<text style="font-size:17px;"><![CDATA[Tidak betul.]]></text>
+			<text><![CDATA[Undang-undang privasi data dan dasar privasi data Johnson Controls, terpakai untuk maklumat peribadi pekerja serta pelanggan dan rakan perniagaan. Pastikan anda memahami tanggungjawab anda dan mematuhi dasar privasi Johnson Controls serta semua undang-undang perlindungan data dan privasi yang berkaitan.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

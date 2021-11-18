@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[Отлично! Вы успешно завершили этот курс. Теперь вы можете распечатать свой сертификат. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[Мужчина использует ПК]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative" padding="0"><![CDATA[Вы успешно завершили курс <span style="color:#00539E;font-weight:bold;font-size:17px;" >«Применение кодекса этики: добросовестное ведение бизнеса»</span>.]]></text>
+		<text width="450px" height="150px" top="10px" left="0px" position="relative" padding="0"><![CDATA[Щелкните «Распечатать сертификат», а затем щелкните «Главная», чтобы вернуться в главное меню, или щелкните «Закрыть», чтобы выйти из курса.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="190px" left="20px"><![CDATA[Распечатать сертификат]]></text>
+	</buttonText>	
+	<instructionText>
+		<text><![CDATA[Щелкните «Распечатать сертификат».]]></text>
+	</instructionText>
+</contents>

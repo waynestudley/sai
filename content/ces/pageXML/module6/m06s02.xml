@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[Kolik toho víte o tom, co prosazují zákony na ochranu hospodářské soutěže? Vyberte všechny možnosti, které jsou podle vás pravdivé, a pak klikněte na tlačítko Odeslat.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[K čemu slouží zákony na ochranu hospodářské soutěže?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[Váhy spravedlnosti]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style = "width: 100%;line-height:20px;height:30px;">
+		<text><![CDATA[Vyberte všechny správné odpovědi.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Správných odpovědí může být více.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option style="width:380px;"><![CDATA[Podporují možnost volby spotřebitele]]></option>	
+		<option style="width:380px;"><![CDATA[Vytvářejí obchodní překážky]]></option>	
+		<option style="width:380px;"><![CDATA[Brání růstu některých průmyslových odvětví]]></option>	
+		<option style="width:380px;"><![CDATA[Podporují poctivé obchodní jednání]]></option>	
+		<option style="width:380px;"><![CDATA[Odměňují inovaci a neustálé zvyšování kvality]]></option>	
+		<option style="width:380px;"><![CDATA[Trestají společnosti, které jsou příliš úspěšné]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-245px">
+			<text><![CDATA[Správně.]]></text>
+			<text><![CDATA[Zákony na ochranu hospodářské soutěže mají zajistit, aby firmy prosperovaly z těch správných důvodů: proto, že nabízejí nejlepší produkty, služby a ceny. Jejich cílem není trestat úspěch, zrazovat od růstu ani vytvářet obchodní překážky.]]></text>
+			<text><![CDATA[Zákony na ochranu hospodářské soutěže ovlivňují náš způsob interakce s okolním světem, včetně konkurentů, dodavatelů, distributorů a zákazníků.]]></text>
+			<text><![CDATA[Je velmi důležité, abyste věděli, jak se na vás vztahují zákony na ochranu hospodářské soutěže, a abyste tyto zákony dodržovali všude tam, kde pracujete a obchodujete. V tomto modulu se budeme zabývat zásadami a postupy zákonů na ochranu hospodářské soutěže.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-245px">
+			<text><![CDATA[To není správně.]]></text>
+			<text><![CDATA[Zákony na ochranu hospodářské soutěže mají zajistit, aby firmy prosperovaly z těch správných důvodů: proto, že nabízejí nejlepší produkty, služby a ceny. Jejich cílem není trestat úspěch, zrazovat od růstu ani vytvářet obchodní překážky.]]></text>
+			<text><![CDATA[Zákony na ochranu hospodářské soutěže ovlivňují náš způsob interakce s okolním světem, včetně konkurentů, dodavatelů, distributorů a zákazníků.]]></text>
+			<text><![CDATA[Je velmi důležité, abyste věděli, jak se na vás vztahují zákony na ochranu hospodářské soutěže, a abyste tyto zákony dodržovali všude tam, kde pracujete a obchodujete. V tomto modulu se budeme zabývat zásadami a postupy zákonů na ochranu hospodářské soutěže.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

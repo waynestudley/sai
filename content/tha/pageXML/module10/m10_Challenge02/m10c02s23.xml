@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[เอ็มม่ารายงานสถานการณ์ให้โรเจอร์ซึ่งเป็นผู้จัดการของเธอทราบ แต่โรเจอร์นิ่งเฉย เอ็มม่าควรทำอย่างไรในที่นี้]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[ไม่มีอะไร เอ็มม่ารายงานแล้ว และเป็นหน้าที่รับผิดชอบของโรเจอร์ที่จะต้องติดตามเรื่องในตอนนี้]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[พูดกับบางคนในฝ่ายกำกับดูแลการปฏิบัติตามกฎหรือฝ่ายกฎหมาย หรือแจ้งความกังวลโดยติดต่อสายด่วนแจ้งเรื่องราวเกี่ยวกับความซื่อสัตย์]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[เอ็มม่าทำในสิ่งที่ถูกต้องโดยการที่พูดกับโรเจอร์ซึ่งเป็นผู้จัดการของเธอ แต่เอ็มม่าไม่มั่นใจว่าโรเจอร์จะดำเนินการใด ๆ เกี่ยวกับเรื่องนี้ ดังนั้นเธอจึงมีความกังวลเพิ่มขึ้น เธอครติดต่อสมาชิกในฝ่ายกำกับดูแลการปฏิบัติตามกฎหรือฝ่ายกฎหมาย ตัวแทนฝ่ายบุคคล หรือแจ้งข้อกังวลของเธอให้สายด่วนแจ้งเรื่องราวเกี่ยวกับความซื่อสัตย์]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[เอ็มม่าทำในสิ่งที่ถูกต้องโดยการที่พูดกับโรเจอร์ซึ่งเป็นผู้จัดการของเธอ แต่เอ็มม่าเชื่อว่าโรเจอร์จะไม่ดำเนินการใด ๆ ต่อเพื่อจัดการกับข้อกังวลของเธอ ดังนั้นเอ็มม่าจึงทำสิ่งที่ถูกต้องโดยการดำเนินการขั้นต่อไปและพูดกับคนอื่นในบริษัทซึ่งเป็นผู้ที่สามารถตรวจสอบและจัดการเรื่องที่เกิดขึ้นได้อย่างเหมาะสม]]></text>
+		</correct>
+	</feedback>
+</contents>

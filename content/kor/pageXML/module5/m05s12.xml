@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[이제 여러분이 무역 규정 준수 규칙을 적용하는 방법을 알고 있는지 보여줄 차례입니다. 왼쪽의 각 상황을 오른쪽에 있는 올바른 해결책에 연결하고 '제출'을 클릭하십시오.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[다음의 각 상황에서 여러분이 해야 할 일을 알고 있는지 보여주십시오. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[제출]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[첫 번째 열에서 항목을 선택한 후 화살표를 두 번째 열의 적절한 해결책으로 끌어가십시오. 완료되면 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[자세히 알아보려면 물음표를 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[상황]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img01.png"><![CDATA[베이징]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[여러분은 사업차 베이징으로 가고 있습니다. 한 동료가 제품 샘플을 그곳에 있는 고객사 직원에게 가져다 달라고 합니다.]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:553px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img02.png"><![CDATA[시리아 국민의 클로즈업]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[여러분은 EU 지역에 있는 고객을 방문하는 영국인입니다. 여러분은 시리아 국민인 유통업자를 만났는데, 그가 제품 샘플을 요청합니다.]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:553px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img03.png"><![CDATA[사우디아라비아의 고객사 직원]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[사우디아라비아의 한 고객사 직원이 전화를 걸어 와서 우리 제품 중 하나의 테스트 프로토콜과 설계 기술에 대해 질문합니다.]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:553px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img04.png"><![CDATA[비즈니스팀]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[여러분의 팀은 OneDrive를 사용하여 글로벌 고객과 협업합니다. 프로젝트 관리자가 자신은 고객의 국가에 하드 카피를 보낼 수 없기 때문에 기술 정보를 업로드해 달라고 여러분에게 요청합니다.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[해결책]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 643px;top: 8px;height: 60px;">
+				<text style=""><![CDATA[이것이 허용되는지 그리고 진행하기 전에 면허가 필요한지 확인합니다.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img05.png"><![CDATA[통화 중인 직원 ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 79px;height: 60px;">
+				<text><![CDATA[정중히 거절합니다. ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img06.png"><![CDATA[심각한 남자의 클로즈업]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 643px;top: 150px;height: 60px;">
+				<text><![CDATA[대화의 연기를 요청합니다.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img07.png"><![CDATA[통화 중인 직원]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 221px;height: 60px;">
+				<text><![CDATA[그것을 거절합니다.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img08.png"><![CDATA[통화 중인 직원]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[다 됐습니다. 모두 정확하게 짝지어졌습니다.]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[정답이 아닙니다. 이제 각 해결책을 다시 클릭하여 자세히 알아보십시오.]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top:187px">
+				<text style=""><![CDATA[허용된다면 이 상황에서는 사전에 샘플을 발송하는 것이 가장 좋을 것입니다. 여러분이 직접 갖고 가는 것이 허용된다면 출국 및 입국할 때 무엇을 휴대하고 있는지 세관에 적절히 신고해야 합니다.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top:187px">
+				<text style=""><![CDATA[시리아와 같이 제재 대상 국가의 누군가와는 제품 샘플을 공유할 수 없으므로 이 경우에는 정중히 거절해야 합니다.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:187px">
+				<text style=""><![CDATA[이 정보를 공유하려면 더 많은 정보가 필요합니다. 이 정보를 이 사람과 공유할 수 있는지 무역 규정 준수 전문가에게 다시 확인하십시오.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:187px">
+				<text style=""><![CDATA[요청을 거절해야 합니다. 물리적인 버전의 문서를 수출하는 것이 허용되지 않는다면 같은 문서의 전자 버전에도 동일한 제한이 적용됩니다.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

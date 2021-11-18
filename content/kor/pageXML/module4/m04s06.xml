@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m04s06">
+	<transcript>
+		<text path="audio/module4/m04s06" id="0"><![CDATA[개인 데이터 보호에 관해서는 다음을 기억하십시오. 제한, 보호, 삭제.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[우리의 공급업체, 고객 및 직원들은 자신의 개인 정보를 중요하게 생각하며 우리가 그들의 데이터를 보호해 주기를 기대합니다. 개인 데이터를 수집, 복사, 수정, 저장, 삭제 또는 기타 조치를 취하는 등 처리할 때는 다음의 세 가지 주요 원칙을 준수해야 합니다. 제한, 보호, 삭제. 자세히 알아보려면 아래의 각 패널을 읽어보십시오.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[자세히 알아보려면 각 '표시' 버튼을 클릭하십시오. 전체 답변을 읽으려면 스크롤해야 할 수 있습니다.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[표시]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img1.png" style=""><![CDATA[개인 데이터를 갖고 전화와 노트북으로 작업하는 직원]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[제한]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[개인의 동의를 얻고 합법적인 업무 목적을 위해 필요한 경우에만 개인 데이터를 처리하십시오. <ul><li>데이터에 대한 명확하고 합법적인 업무 목적 없이 절대로 개인 데이터를 수집하지 마십시오.</li><li>여러분이 수집하는 개인 데이터가 업무 목적에 적절하고 관련이 있으며 과도하지 않은지 확인하십시오. 필요 이상으로 많은 개인 데이터를 수집하지 마십시오.</li><li>개인 데이터는 그것을 수집할 때 밝힌 목적을 위해서만 사용하십시오.</li></ul>]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img2.png" style=""><![CDATA[암호화 아이콘]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[보호]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[개인 데이터를 무단 사용, 우발적 손실, 손상 또는 파기로부터 보호하십시오.<ul><li>정당한 업무 관련 필요가 있는 허가된 직원 및 계약업자만 개인 데이터에 액세스할 수 있습니다.</li><li>가능하면 데이터의 소프트 카피(디지털 형식)만 보관하고, 암호화하거나 강력한 비밀번호로 보호하여 파일의 무단 사용을 방지하십시오. 하드 카피(인쇄물)는 잃어버리거나 보다 쉽게 액세스할 수 있으므로 가능한 한 최소한으로 유지하거나 만들지 않는 것이 좋습니다.</li><li>개인 데이터를 그것을 볼 필요나 권한이 없는 사람들이 액세스할 수 있는 공유 파일 또는 디렉터리에 저장하지 마십시오.</li><li>보관의 일관성 없이 전자 기록을 여러 위치에 저장해서는 안 됩니다.</li></ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module4/m04s06/img3.png" style=""><![CDATA[키보드의 휴지통 아이콘]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[삭제]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[개인 데이터는 법으로 요구되거나 그것을 수집한 원래의 비즈니스 사유와 관련이 있는 경우에만 보관하십시오.<ul><li>데이터를 정기적으로 검토하여 해당 데이터가 최신 상태이고, 정확하며, 처음에 그것을 수집한 비즈니스 목적과 아직 관련성이 있는지 확인하십시오.</li><li>데이터가 더 이상 필요하지 않으면 파쇄하거나 사업장에 있는 기밀 처리 용기에 넣어서 안전하게 폐기하십시오.</li></ul>]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

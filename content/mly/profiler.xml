@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;right:20px;height: 500px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[Peranan Anda]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[Sila jawab soalan tentang peranan anda.]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[Adakah anda berinteraksi dengan orang atau organisasi yang bersaing dengan Johnson Controls?]]></text>
+		<text id="2"><![CDATA[Adakah anda bertanggungjawab untuk membuat keputusan pembelian untuk Johnson Controls?]]></text>
+		<text id="3"><![CDATA[Adakah kerja anda melibatkan pemasaran, jualan atau rundingan dengan pelanggan dan pelanggan yang berpotensi?]]></text>
+		<text id="4"><![CDATA[Adakah anda mempunyai akses tentang pelanggan, kontraktor, pembekal atau rakan perniagaan Johnson Controls, atau mana-mana individu yang bekerja dengan mereka?]]></text>
+		<text id="5"><![CDATA[Adakah anda mempunyai akses ke maklumat tentang pekerja Johnson Controls?]]></text>
+		<text id="6"><![CDATA[Adakah anda berurusan terus dengan pekerja, pelanggan atau pembekal Johnson Controls yang berpangkalan di luar negara atau mempunyai akses ke maklumat teknikal?]]></text>
+		<text id="7"><![CDATA[Adakah kerja anda melibatkan perjalanan antarabangsa, mengehoskan pelawat antarabangsa atau mengangkut produk, orang atau maklumat Johnson Controls ke lokasi luar negara?]]></text>
+		<text id="8"><![CDATA[Adakah anda terlibat dalam kesatuan dagangan industri atau menghadiri persidangan industri?]]></text>
+		<text id="9"><![CDATA[Pernahkah anda memberikan hadiah kepada pihak ketiga atau menerima hadiah daripada pihak ketiga, seperti pelanggan atau pembekal?]]></text>
+		<text id="10"><![CDATA[Pernahkah anda menghiburkan pihak ketiga atau anda pernah dihiburkan oleh pihak ketiga, seperti pelanggan atau pembekal?]]></text>
+		<text id="11"><![CDATA[Adakah kerja anda melibatkan penyelidikan, pembangunan atau kejuruteraan bagi produk dan perkhidmatan Johnson Controls?]]></text>
+		<text id="12"><![CDATA[Adakah anda bertanggungjawab untuk membina perniagaan dengan pelanggan baharu atau sedia ada di lokasi baharu atau dalam industri baharu?]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/profileSelection.jpg" minwidth="769"><![CDATA[Pekerja Johnson Controls]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[Ya]]></text>
+		<text><![CDATA[Tidak]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[Teruskan]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 400px;">
+		<text><![CDATA[Pilih Ya atau Tidak untuk setiap soalan, kemudian klik Teruskan.]]></text>
+	</instructionText>
+	
+</contents>

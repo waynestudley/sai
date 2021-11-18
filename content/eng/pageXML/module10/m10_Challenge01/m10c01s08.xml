@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m10c01s08" >
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle="" ></contentBg>
+	<pageTitle style="margin-bottom: 6px;"></pageTitle>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c01/m10c01s08/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText >
+		<text  style="" ><![CDATA[Jian has just brought his wife home from the hospital and is preparing dinner when he gets an urgent call from Nolan.]]></text>
+	</contentText>
+	<instructionText style="margin-top: 5px;">
+		<text><![CDATA[Click on each stage of the story.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1" >	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_01.png" minwidth="700" minheight="550" ><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="10" y="250" width="305" />
+				<text ><![CDATA[<span class="fontBold">Nolan</span>, Accounts Payable Manager, Johnson Controls]]></text>			
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="558" y="250" width="268" />
+				<text ><![CDATA[<span class="fontBold">Jian</span>, Procurement Manager, Johnson Controls]]></text>
+			</stripCallOut>
+			
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2" >
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_02.png" minwidth="700" minheight="550" ><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="29" y="12" width="188" arrowStyle="top:60px" />
+				<text ><![CDATA[Jian, I’m sorry to bother you when you are out of the office, but TSR is demanding immediate payment on a new invoice for USD$1000. They say a project’s success is riding on it. Do you know anything about this?]]></text>
+			</stripCallOut>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="462" y="44" width="200" />
+				<text ><![CDATA[TSR? No, I know they’re a critical supplier but I’m not sure what they’re currently working on.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3" >	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_03.png" minwidth="700" minheight="550" ><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="29" y="12" width="188" arrowStyle="top:110px" />
+				<text ><![CDATA[I spoke with the supplier. They say we need permits to finish a project, but government employees are on the verge of industrial action that could last for weeks. They want to make sure their permits get through before that happens.]]></text>
+			</stripCallOut>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="469" y="55" width="200" arrowStyle="top:1px" />
+				<text ><![CDATA[That’s understandable.]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripThumImg numberText="4" >	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_04.png" minwidth="700" minheight="550" ><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="89" y="16" width="260" arrowStyle="top:66px" />
+				<text ><![CDATA[They also say there’s a penalty clause in our contract with the customer – it costs us USD$10,000 for every day we’re late – so if we are delayed due to lack of a permit, it could get expensive fast.]]></text>
+			</stripCallOut>			
+		</strip>
+	</comicStrip>
+</contents>

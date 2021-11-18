@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m08s10" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript >
+		<text id="0" path="audio/module8/m08s10"><![CDATA[So, let’s apply this to real life. How would you handle the following situations? Connect each situation on the left to the correct solution on the right and click Submit.]]></text>
+	</transcript>
+	<contentText >
+		<text><![CDATA[Demonstrate you know what to do in each of these situations. ]]></text>
+	</contentText>
+	<contentBackground cName="" >		
+		<img path="content/images/ltr/module8/m08s10/contentBackground.jpg"  minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText >		
+		<text style="position: relative;left:892px;top: -15px;"><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<instructionText >
+		<text><![CDATA[Select an item from the first column, then drag the arrows to its matching solution in the second. When you're done, click on submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="990" lineHolderH="250">
+		<leftSideTabs>
+			<heder><![CDATA[THE SITUATION]]></heder>
+			
+			<tab id = "1" style = "height:100px"  dragPosition = "left: 430px;top: 8px;z-index: 5;height: 100px;"  >
+				<leftIcon style = "height:100px" path = "content/images/ltr/module8/m08s10/img01.png" ><![CDATA[Person working on Components]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = "" ><![CDATA[]]></dragIcon>
+				<text style = ""><![CDATA[You are working with potential suppliers who are bidding to supply components for a new product ]]></text>				
+			</tab>			
+			<tab id = "2" style = "height:100px" dragPosition = "left:430px; top:119px;z-index:5;height:100px" >
+				<leftIcon style = "height:100px" path = "content/images/ltr/module8/m08s10/img02.png" ><![CDATA[Person selecting icon to open email]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = ""><![CDATA[]]></dragIcon>
+				<text style = ""><![CDATA[You are working on a document you need to finish, so you consider emailing it to yourself at home]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[THE SOLUTION]]></heder>
+			<tab id = "2" style = "height:100px" dropPosition = "left: 528px;top: 8px;height: 100px;">
+				<text  style = ""><![CDATA[Find another way to access the document, as emails can be lost, hacked or misdirected]]></text>
+				<rightIcon style= "height:100px" path = "content/images/ltr/module8/m08s10/img04.png" ><![CDATA[Folder Icon]]></rightIcon>
+			</tab>	
+			<tab id = "1" style = "height:100px" dropPosition = "left: 528px;top: 119px;height: 100px;">
+				<text><![CDATA[Require them to sign nondisclosure agreements before sharing any new product information and mark it as confidential ]]></text>
+				<rightIcon style = "height:100px" path = "content/images/ltr/module8/m08s10/img03.png" ><![CDATA[Person signing an NDA]]></rightIcon>
+			</tab>	
+		</rightSideTabs>		
+		<feedback type="normal" >
+			<correct id = "1" style = "padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style = ""><![CDATA[That’s it – you’ve matched them all correctly. ]]></text>
+			</correct>			
+			<incorrect id = "2" style = "padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style = ""><![CDATA[That’s  not correct]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

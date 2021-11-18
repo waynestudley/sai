@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[לקוח ביקש מאיתי לבצע עבודה נוספת. מה לדעתך צריכה להיות התגובה שלו? בחר אפשרות אחת ולאחר מכן לחץ על 'אישור'.]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[מה איתי צריך לעשות?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[להסכים לעבודה, להשביע את דויד שישמור על סודיות ולבצע יחד איתו את העבודה לפני שהם עוזבים.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[להגיד לדויד לעשות את העבודה עם הוא רוצה, אך הוא לא מתכוון להיות מעורב.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[להסביר בנימוס ללקוחה שהוא לא יכול לקבל את הצעתה, מאחר שהוא פוגע בעסקים של Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[איתי ודויד מבצעים את העבודה לפני שהם עוזבים. זה כה פשוט! תמיד יש להם כמה חיישנים רזרביים כך ש-Johnson Controls לא תשים לב.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[דויד מסכים לקחת את העבודה מהצד.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[איתי מתקשר למנהל שלו שמדווח על כך לצוות המכירות, והם מוציאים הצעת מחיר לעבודה הנוספת. העבודה עוברת ל-Johnson Controls, במקום שאיתי ודויד יבצעו אותה באופן פרטי.]]></text>
+		</correct>
+	</feedback>
+</contents>

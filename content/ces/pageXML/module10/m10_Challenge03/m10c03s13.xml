@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[Zákazník požádal Carlose o dodatečnou práci. Jak by podle vás měl reagovat? Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Co by měl Carlos udělat?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Souhlasit s prací, zavázat Davida slibem mlčenlivosti a před odchodem společně práci provést.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Říci Davidovi, aby práci udělal, pokud chce, ale že on se na tom podílet nebude.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Zdvořile klientovi vysvětlit, že nemohou návrh přijmout, protože by tím připravili společnost Johnson Controls o podnikatelskou příležitost.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos a David provedou práci předtím, než odejdou. Je to snadné! Navíc s sebou vždy vozí několik náhradních senzorů, takže se o tom společnost Johnson Controls nikdy nemusí dozvědět.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[David souhlasí, že práci provede jako melouch.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos zavolá svému nadřízenému, který informuje prodejní tým, a ten připraví cenovou nabídku na dodatečné práce. Práce zajistí společnost Johnson Controls, a nebudou tedy „neoficiálně“ zadány Carlosovi a Davidovi osobně.]]></text>
+		</correct>
+	</feedback>
+</contents>

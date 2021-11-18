@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m05s08">
+	<transcript>
+		<text path="audio/module5/m05s08" id="0"><![CDATA[何が輸出で何が輸出でないか認識することは、忙しい業務の中では特に難しい場合があります。 それぞれの画像をクリックして、何が輸出とみなされるのか理解度をチェックします。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px;font-size:14px;line-height:21px;"><![CDATA[何かを輸出する際の行動を認識していなかったことで、意図せず法や貿易規制に違反する可能性があります。 輸出には以下のことが含まれる可能性があります。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module5/m05s08/contentBackground.jpg" minwidth="769"><![CDATA[輸出を待っているコンテナ]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;"></contentBg>
+	<pageTitle style="width: 924px;line-height:26px;"></pageTitle>
+	<instructionText style="width: 924px;line-height:23px;">
+		<text><![CDATA[それぞれの画像を選択し、さらに理解を深めてください。 次を読むには、「X」をクリックしてテキストボックスを閉じます。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 190px;">
+		<revealCallOut width="230px" height="175px" top="10px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module5/m05s08/btn1.png" minwidth="769"><![CDATA[船に積載されたコンテナ]]></img>
+			<buttonText style="height: 40px;"><![CDATA[物理的な輸出]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 195px;top:-200px; width: 957px;">
+				<text><![CDATA[国境を越えて発送および持ち出しされる物、個人や団体に提供される物、別の国の市民権を持つ物。 例えば：<ul> <li>製品サンプルを手で別の国に持ち出す</li> <li>別の国、あなたの国、どこかに示される技術的図面</li> <li>工場がある国の市民権を持たない人物による工場または施設見学</li> </ul>]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="175px" top="10px" left="262px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module5/m05s08/btn2.png" minwidth="769"><![CDATA[技術に関して話している従業員]]></img>
+			<buttonText style="height: 40px;"><![CDATA[技術の輸出]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 260px;top: -200px; width: 957px;">
+				<text><![CDATA[個人や団体に提供される、またはハードコピーやまたは電子形式で別の国の市民権を持つ輸出管理された技術情報 例えば： <ul> <li>配達</li> <li>電子メール</li> <li>ウェブで共有</li> <li>共有フォルダに投稿</li> <li>ビデオ会議、工場見学、公共の会議中に交換</li> <li>チャットルームでの会話</li> </ul>]]></text>				
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="175px" top="10px" left="504px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module5/m05s08/btn3.png" minwidth="769"><![CDATA[製品の修理]]></img>
+			<buttonText style="height: 40px;"><![CDATA[サービス]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 195px;top: -200px; width: 957px;">
+				<text><![CDATA[別の国にいる、別の国から来ている、別の国の市民権を持つ人物に、製品の開発、生産、使用、操作、設置、保守、修理、点検、改装に関するサポートを提供すること。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="175px" top="10px" left="747px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module5/m05s08/btn4.png" minwidth="769"><![CDATA[技術情報に関して話している人々]]></img>
+			<buttonText style="height: 40px;"><![CDATA[再輸出または転送]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 175px;top: -200px; width: 957px;">
+				<text><![CDATA[同じ国でも、受け取った製品や技術情報を別の人物や団体に転送すること。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

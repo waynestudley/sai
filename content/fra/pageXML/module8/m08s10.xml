@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m08s10" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module8/m08s10"><![CDATA[Appliquons cela à la vie de tous les jours. Comment géreriez-vous les situations suivantes ? Reliez chaque situation à gauche à la solution correspondante à droite, puis cliquez sur Soumettre.]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Montrez que vous savez quoi faire dans chacune de ces situations. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module8/m08s10/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:865px;top: -15px;"><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<instructionText style = "width: 100%;line-height:20px;height:40px;">
+		<text><![CDATA[Sélectionnez un élément de la première colonne, puis faites glisser les flèches pour le relier à la solution correspondante dans la seconde colonne. Quand vous avez terminé, cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="990" lineHolderH="250">
+		<leftSideTabs style="width:430px;">
+			<heder><![CDATA[LA SITUATION]]></heder>
+			
+			<tab id="1" style="height:100px" dragPosition="left: 400px;top: 8px;z-index: 5;height: 100px;">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img01.png"><![CDATA[Personne travaillant sur des composants]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Vous travaillez avec des fournisseurs potentiels qui font une offre pour fournir des composants pour un nouveau produit ]]></text>				
+			</tab>			
+			<tab id="2" style="height:100px" dragPosition="left:400px; top:119px;z-index:5;height:100px">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img02.png"><![CDATA[Personne sélectionnant une icône pour ouvrir un e-mail]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Vous travaillez sur un document que vous devez terminer, et vous envisagez donc de vous l’envoyer par e-mail chez vous]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width:430px;">		
+			<heder><![CDATA[LA SOLUTION]]></heder>
+			<tab id="2" style="height:100px" dropPosition="left: 528px;top: 8px;height: 100px;">
+				<text style=""><![CDATA[Vous trouvez un autre moyen d'accéder au document car les e-mails peuvent se perdre, être piratés ou arriver chez le mauvais destinataire]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img04.png"><![CDATA[Icône de dossier]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:100px" dropPosition="left: 528px;top: 119px;height: 100px;">
+				<text><![CDATA[Vous leur demandez de signer des accords de confidentialité avant de partager toute information sur les nouveaux produits et marquez-les comme confidentielles ]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img03.png"><![CDATA[Personne signant un NDA]]></rightIcon>
+			</tab>	
+		</rightSideTabs>		
+		<feedback type="normal">
+			<correct id="1" style="padding:10px;position: relative;width: 936px;top: -15px;left:-14px;">
+				<text style=""><![CDATA[C’est exact, vous avez relié toutes les situations à leur solution. ]]></text>
+			</correct>			
+			<incorrect id="2" style="padding:10px;position: relative;width: 936px;top: -15px;left:-14px;">
+				<text style=""><![CDATA[Ce n'est pas la bonne réponse]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

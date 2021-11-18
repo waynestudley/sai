@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s03">
+	<transcript>
+		<text path="audio/module6/m06s03" id="0"><![CDATA[Qu’est-ce que les lois sur la concurrence interdisent ? Cliquez sur chaque bouton pour en savoir plus.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Les lois sur la concurrence interdisent les accords entre concurrents qui ont un effet sur les prix ou qui limitent le choix du client.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s03/contentBackground.jpg" minwidth="769"><![CDATA[Réunion entre concurrents]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Cliquez sur chaque bouton pour en savoir plus. Faites défiler le texte pour lire toute la réponse si nécessaire.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[DÉVOILER]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s03/img1.png"><![CDATA[Image montrant des réductions sur les prix]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Entente sur les prix]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[L’entente sur les prix est un accord entre deux concurrents ou plus pour fixer les prix de biens ou services. Ces accords sont toujours illégaux.]]></text>						
+				<text><![CDATA[Il y a entente sur les prix si vous et un concurrent vous mettez d'accord pour : <ul> <li>fixer des prix fermes</li> <li>adopter une formule connue pour calculer les prix</li> <li>respecter une grille de frais minimum ou une grille tarifaire</li> <li>supprimer ou réduire les remises</li> </ul>]]></text>						
+			</popText>
+			
+			
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s03/img2.png"><![CDATA[Concurrents passant un accord]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Concertation sur les offres]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[La concertation sur les offres est un accord entre au moins deux concurrents qui prédétermine quel concurrent remportera un projet ou un appel d'offres spécifique.]]></text>					
+				<text><![CDATA[Il y a concertation sur les offres si vous et un concurrent vous mettez d'accord pour : <ul> <li>ne pas faire d’offre ou vous retirer d’une offre déjà soumise afin que l’offre du concurrent (ou la vôtre) soit choisie</li> <li>soumettre des offres volontairement trop élevées pour remporter le projet, mais faire croire qu’elles sont légitimes : les offres ne sont pas soumises pour être choisies, mais pour être écartées et laisser votre concurrent gagner comme convenu au préalable</li> <li>soumettre des offres, en faisant en sorte d’être l'offre la plus basse à tour de rôle</li> </ul>]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img3.png"><![CDATA[Concurrents se mettant d'accord pour ne pas traiter avec un fournisseur spécifique]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Boycotts collectifs]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Les boycotts collectifs sont un accord entre au moins deux concurrents qui vise à refuser de traiter avec un fournisseur ou client spécifique afin de sanctionner, punir ou même nuire au fournisseur ou au client en raison de ses actions.]]></text>
+				<text><![CDATA[Il y a boycott collectif lorsque vous et un concurrent décidez de ne pas travailler avec un client spécifique pour le punir d'avoir choisi un autre concurrent pour un projet précédent de grande ampleur.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img4.png"><![CDATA[Concurrents se mettant d'accord pour répartir les clients]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Répartition des marchés]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[La répartition des marchés est un accord entre au moins deux concurrents pour répartir les clients ou les marchés.]]></text>			
+				<text><![CDATA[Il peut y avoir répartition des marchés si vous et un concurrent décidez de travailler avec des clients spécifiques, p. ex. :<ul><li>« Je m’occupe du client A, vous vous occupez du client B »</li><li>« Je prends les clients dans le nord et vous dans le sud »</li></ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img5.png"><![CDATA[Deux personnes concluant un accord]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Accords]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Une infraction à la loi sur la concurrence ou antitrust se produit s’il y a « accord », mais que cela signifie-t-il ?]]></text>			
+				<text><![CDATA[Pour enfreindre la loi, un accord ne doit pas nécessairement être écrit. Cela peut être un accord oral. En réalité, une pratique concertée ou un type de comportement suffisent pour être classés en tant qu’accords.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

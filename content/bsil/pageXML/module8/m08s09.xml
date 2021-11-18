@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s09">
+	<transcript>
+		<text path="audio/module8/m08s09" id="0"><![CDATA[Há coisas importantes que você pode fazer para ajudar a manter nossas informações protegidas. Clique em cada botão revelar para saber mais.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Pratique esses hábitos:]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s09/contentBackground.jpg" minwidth="769"><![CDATA[impressão digital]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Clique em cada botão revelar para saber mais. Role para baixo para ler a resposta completa.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[REVELAR]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module8/m08s09/img1.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:14px;line-height:15px;"><![CDATA[Marque informações como confidenciais]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Se outros funcionários não sabem que são confidenciais, eles podem não saber como protegê-las. ]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module8/m08s09/img2.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:14px;line-height:15px;"><![CDATA[Armazene as informações confidenciais de forma segura ]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Tranque os materiais físicos e proteja arquivos eletrônicos e seu computador com uma senha forte. Nunca compartilhe sua senha com ninguém e evite usar a mesma senha para múltiplos arquivos ou aplicativos.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img3.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:14px;line-height:15px;"><![CDATA[Tenha cuidado enquanto se desloca]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Celulares ou unidades USB são facilmente perdidos ou roubados. Pense duas vezes antes de se deslocar com informações confidenciais e não trabalhe com elas ou as discuta em locais em que terceiros podem vê-lo ou ouvi-lo. ]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img4.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:13px;line-height:15px;"><![CDATA[Compartilhe as informações confidenciais apenas se houver a necessidade de sabê-las]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[Não compartilhe as informações confidenciais com clientes, parceiros, fornecedores, outros terceiros ou outros funcionários da Johnson Controls, exceto se: <ul> <li>for necessário</li> <li>você tiver a devida autorização</li> <li>a pessoa que recebe as informações souber que são confidenciais e esteja autorizada a visualizá-las</li> <li>assinarem um contrato legal para protegê-las (como um acordo de não divulgação). Mesmo assim, compartilhe apenas a quantidade de informações realmente necessária para a pessoa realizar suas tarefas</li> </ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img5.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:14px;line-height:15px;"><![CDATA[Tenha cuidado com as redes sociais]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[Uma vez que as informações estão na internet, não é possível controlar o que os outros fazem com elas.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

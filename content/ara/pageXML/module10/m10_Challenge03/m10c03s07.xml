@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[راودت إنجريد الشكوك بأن النبيذ الذي طلبته هيلدا غالي الثمن للغاية. ماذا يتعين عليها أن تفعل؟ ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[متابعة العشاء، مع تمني ألا يلحظ أحد تكلفة النبيذ في تقرير النفقات الخاص بها.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[متابعة العشاء، لأنها لا يمكنها رفض دفع ثمن النبيذ بدون خلق موقف غير جيد. ومع ذلك، تنوي طلب إيصال منفصل للنبيذ ودفع ثمنه من جيبها الخاص.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[التحدث إلى هيلدا بشكل خاص قبل أن يجهّز فريق العمل في المطعم النبيذ وإخبارها بأن الشركة لن توافق على دفع تكلفة النبيذ. يتاح أمام هيلدا خيار دفع ثمن النبيذ من جيبها، أو يمكنهم طلب زجاجة ثمنها في المتناول بشكل أكثر.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[تقوم إنجريد بدفع تكاليف العشاء وتقوم بتقديم تقرير النفقات.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[تقوم إنجريد بدفع تكاليف العشاء وتقوم بتقديم تقرير النفقات بدون تضمين ثمن النبيذ.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[تبدو هيلدا متعجبةً عندما تخبرها إنجريد بأنها لا يمكنها دفع ثمن النبيذ. ولكن، في نهاية الليلة، تطلب شيكات منفصلة وتدفع لنفسها.]]></text>
+		</correct>
+	</feedback>
+</contents>

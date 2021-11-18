@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false" >
+	<transcript >
+		<text id="0" path="audio/module3/m03s08"><![CDATA[Governments and regulators treat bribery harshly. That’s why it’s so important that we all take an active role in preventing it. Can you match the action in the left column with the consequences on the right?]]></text>
+	</transcript>
+	<contentText >
+		<text><![CDATA[What happens to companies who engage in bribery and corruption?]]></text>
+	</contentText>
+	<contentBackground cName="" >		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg"  minwidth="769"><![CDATA[An office]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText >		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<instructionText >
+		<text><![CDATA[Select an item from the first column, then drag the arrows to connect to its matching consequence in the second. When you’re done, click on Submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" >
+		<leftSideTabs>
+			<heder><![CDATA[THE ACTION]]></heder>
+			
+			<tab id = "1" style = "height:130px"  dragPosition = "left: 430px;top: 8px;z-index: 5;height: 130px;"  >
+				<leftIcon path = "content/images/ltr/module3/m03s08/img01.png" style = ""><![CDATA[Employee awarding someone an internship ]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = "" ><![CDATA[]]></dragIcon>
+				<text style = ""><![CDATA[Investment bankers in JP Morgan’s Asia-Pacific region ran a program that awarded jobs and internships to the family members and friends of potential clients, including government officials. ]]></text>				
+			</tab>			
+			<tab id = "2" style = "height:130px" dragPosition = "left:430px; top:149px;z-index:5;height:130px" >
+				<leftIcon path = "content/images/ltr/module3/m03s08/img02.png" style = ""><![CDATA[Government Official holding a bribe ]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = ""><![CDATA[]]></dragIcon>
+				<text style = ""><![CDATA[Subsidiaries of a huge international company that made copper, aluminum and fiber-optic wire, paid millions of dollars to third-party agents and distributors. Some of the money was used to bribe government officials to obtain business, netting the company USD$51 million in profits.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[THE CONSEQUENCES]]></heder>
+			<tab id = "2" style = "height:130px" dropPosition = "left: 528px;top: 8px;height: 130px;">
+				<text  style = ""><![CDATA[The company was ordered to pay USD$76 million, and two executives, who had knowledge of the bribes, had to repay millions. ]]></text>
+				<rightIcon path = "content/images/ltr/module3/m03s08/img04.png" style = ""><![CDATA[Judge with gavel]]></rightIcon>
+			</tab>	
+			<tab id = "1" style = "height:130px" dropPosition = "left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ The U.S. government found the company “engaged in a systematic bribery scheme” that led to significant business rewards. The company was ordered to pay USD$264 million.]]></text>
+				<rightIcon path = "content/images/ltr/module3/m03s08/img03.png" style = ""><![CDATA[US Capital building seen through courthouse steps]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack" >
+			<correct id = "1" style = "">
+				<text style = ""><![CDATA[The consequences of bribery and corruption can be severe – both to an individual and a company and can range from fines to imprisonment.  Johnson Controls counts on you – every step of the way – to avoid bribery at all times and to immediately report any suspicious activities in this area.]]></text>
+			</correct>			
+			<incorrect id = "2" style = "">
+				<text style = ""><![CDATA[The consequences of bribery and corruption can be severe – both to an individual and a company and can range from fines to imprisonment.  Johnson Controls counts on you – every step of the way – to avoid bribery at all times and to immediately report any suspicious activities in this area.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

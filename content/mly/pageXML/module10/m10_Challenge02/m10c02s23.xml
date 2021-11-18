@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma melaporkan situasi tersebut kepada pengurusnya, Roger, tetapi Roger tidak berbuat apa-apa. Apakah yang perlu Emma lakukan?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[Tiada apa-apa. Emma melaporkannya dan menjadi tanggungjawab Roger untuk membuat tindakan susulan sekarang.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Bercakap dengan seseorang dalam jabatan Pematuhan atau Undang-undang, atau hubungi Talian Bantuan Integriti, tentang kebimbangannya.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:18px;"><![CDATA[Tindakan Emma betul dengan bercakap kepada pengurusnya, Roger. Tetapi Emma tidak yakin yang Roger akan berbuat apa-apa tentangnya, jadi dia perlu menyebarkan kebimbangannya. Dia perlu menghubungi ahli jabatan Pematuhan atau Undang-undang, wakil HR atau merekodkan kebimbangannya dengan Talian Bantuan Integriti.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Tindakan Emma betul dengan bercakap kepada pengurusnya, Roger. Tetapi Emma percaya yang Roger tidak akan mengambil sebarang tindakan lanjut untuk menangani kebimbangannya. Jadi, Emma juga melakukan perkara yang betul dengan melangkah setapak ke hadapan dan bercakap dengan sumber tambahan di syarikat, orang yang boleh menyemak semula dan menangani perkara tersebut dengan wajar.]]></text>
+		</correct>
+	</feedback>
+</contents>

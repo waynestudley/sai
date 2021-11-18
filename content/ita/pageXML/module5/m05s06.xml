@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[Vedi qualche segnale di allarme qui? Seleziona tutti quelli che riconosci, quindi fai clic su Inoltra.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Quali sono i segnali d’allarme relativi a questa e-mail?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[E-mail in arrivo]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleziona i segnali d’allarme, quindi fai clic su Inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Vi possono essere più risposte corrette.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Il mittente afferma di essere un cliente di Johnson Controls]]></option>	
+		<option><![CDATA[Il cliente parla di lavoro, ma utilizza un account gmail]]></option>	
+		<option><![CDATA[Il cliente domanda delle informazioni che potrebbero essere soggette a controlli senza dare molte informazioni su di sé]]></option>	
+		<option><![CDATA[Il cliente afferma di essere in Francia, ma non puoi verificarlo dall’e-mail]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Risposta corretta.]]></text>
+			<text><![CDATA[Il cliente domanda delle informazioni tecniche che potrebbero essere soggette a restrizioni per l’esportazione e non dà molte informazioni su di sé.]]></text>
+			<text><![CDATA[Come minimo, hai bisogno di maggiori informazioni sulla sua identità e ubicazione e su qualsiasi restrizione commerciale applicabile prima di fornire qualsiasi aiuto tecnico.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Risposta errata.]]></text>
+			<text><![CDATA[Il cliente domanda delle informazioni tecniche che potrebbero essere soggette a restrizioni per l’esportazione e non dà molte informazioni su di sé.]]></text>
+			<text><![CDATA[Come minimo, hai bisogno di maggiori informazioni sulla sua identità e ubicazione e su qualsiasi restrizione commerciale applicabile prima di fornire qualsiasi aiuto tecnico.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[装有 300 美元现金的信封。 建安已经拒绝接收这个礼物，但供应商始终坚持。 他应该怎么做？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[会议室]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[收下现金。 供应商遴选流程已结束，因此建安对供应商不再具有影响力。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[再次拒绝收下现金。 但是，当供应商为他提供一张爱德华多最喜欢餐厅的 100 美元礼品卡时，可以收下。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[再次拒绝收下现金，但当供应商邀请建安共进团队晚餐时，可以接受。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[建安收下现金，假定没人发现。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[建安第二次拒绝收下现金后，供应商坚持让他至少收下 100 美元的餐厅礼券。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[建安再次婉拒，但当供应商邀请建安共进团队晚餐时，可以接受。]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[Até que ponto você tem familiaridade com a política da empresa sobre presentes e entretenimento? Selecione Verdadeiro ou Falso para cada afirmação e clique em Enviar.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[Funcionários]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Essas afirmações sobre presentes e entretenimento são verdadeiras ou falsas?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Selecione Verdadeiro ou Falso para cada afirmação e clique em Enviar.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[Pessoa recebendo presente com um entretenimento ao fundo]]></img>
+			<text style="width: 390px;"><![CDATA[As políticas da Johnson Controls abrangem todas as situações relacionadas a presentes e entretenimento: não há ambiguidades]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[Funcionário pensativo]]></img>
+			<text style="width: 390px;"><![CDATA[Quando você recebe presentes ou entretenimento, sempre pergunte a si mesmo: "Eles esperam algo de mim em retorno?" ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[Funcionário pensativo]]></img>	
+			<text style="width: 390px;"><![CDATA[Se a pessoa para quem você oferece os presentes ou entretenimento pode pensar que você espera algo em troca, não prossiga]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[Funcionário pensativo]]></img>	
+			<text style="width:390px;"><![CDATA[É melhor nunca oferecer ou aceitar presentes e entretenimento: é arriscado demais.]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Verdadeiro]]></text>
+		<text><![CDATA[Falso]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[Está correto.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Oferecer e receber entretenimento e presentes é aceitável sob as circunstâncias certas, mas requer bom senso e um entendimento das diretrizes da Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Nossas políticas não antecipam todas as situações, então é preciso considerar as circunstâncias com cuidado, usar seu bom senso ou, se não tiver certeza, procurar conselhos antes de prosseguir.]]></text>			
+		</correct>
+		<incorrect style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[Não está correto.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Oferecer e receber entretenimento e presentes é aceitável sob as circunstâncias certas, mas requer bom senso e um entendimento das diretrizes da Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Nossas políticas não antecipam todas as situações, então é preciso considerar as circunstâncias com cuidado, usar seu bom senso ou, se não tiver certeza, procurar conselhos antes de prosseguir.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

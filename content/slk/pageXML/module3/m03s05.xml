@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[Ktorý z týchto scenárov si myslíte, že by mohol byť problematický?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Myslíte si, že tieto príklady by mohli byť vnímané ako úplatkárstvo?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[Podnikatelia]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Vyberte <span class="fontBold">všetky</span> problematické scenáre a potom kliknite na tlačidlo Odoslať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Správnych môže byť viac odpovedí.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Sľúbite klientovi peňažný dar výmenou za priaznivé obchodné rozhodnutie]]></option>
+		<option><![CDATA[Subdodávateľ, ktorý chce vaše podnikanie, vás niekoľkokrát pozve na večere a športové podujatia]]></option>
+		<option><![CDATA[Prispejete na kampaň štátneho úradníka, ktorý je potenciálnym klientom]]></option>
+		<option><![CDATA[Váš manažér najme dcéru klienta výmenou za to, že klient bude súhlasiť s predĺžením jeho súčasnej zmluvy]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[To je správne.]]></text>
+			<text><![CDATA[V skutočnosti by sa všetky tieto scenáre mohli považovať za úplatky, a to v závislosti od okolností. Hlavným faktorom je zámer ovplyvniť, ale je dôležité mať na pamäti aj to, že už samotné zdanie úplatku by mohlo byť problematické pre vás a pre spoločnosť Johnson Controls, a preto premýšľajte skôr, ako konáte!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[To nie je správne.]]></text>
+			<text><![CDATA[V skutočnosti by sa všetky tieto scenáre mohli považovať za úplatky, a to v závislosti od okolností. Hlavným faktorom je zámer ovplyvniť, ale je dôležité mať na pamäti aj to, že už samotné zdanie úplatku by mohlo byť problematické pre vás a pre spoločnosť Johnson Controls, a preto premýšľajte skôr, ako konáte!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[非常好，您已經成功完成本課程！ 現在可以列印結業證書。 ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[使用個人電腦的男士]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative" padding="0"><![CDATA[您已經成功完成<span style="color:#00539E;font-weight:bold;font-size:17px;" >踐行道德準則： 誠信經營</span>課程。]]></text>
+		<text width="450px" height="120px" top="10px" left="0px" position="relative" padding="0"><![CDATA[按一下「列印證書」，然後按「首頁」返回主功能表，或是按「關閉」離開課程。]]></text>
+	</panelText>
+	<buttonText>
+		<text top="140px" left="20px"><![CDATA[列印證書]]></text>
+	</buttonText>	
+	<instructionText>
+		<text><![CDATA[按一下「列印證書」。]]></text>
+	</instructionText>
+</contents>

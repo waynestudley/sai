@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0"><![CDATA[ברק מבחין בהודעת דוא"ל חדשה בתיבת הדואר הנכנס שלו, שמסומנת כדחופה. לחץ על כותרת הודעת הדוא"ל כדי לראות מה כתוב בה.]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;"></pageTitle>
+	<contentBg style="width: 591px;left: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[הגיעה הודעת דוא"ל חדשה שמסומנת כדחופה.]]></text>	
+		
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/rtl/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[הודעת דוא"ל חדשה]]></img>
+		<img path="content/images/rtl/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[כותרת הדוא"ל]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;right: 2px;top: 203px;font-size: 15px;">		
+		<img path="" minwidth="769"><![CDATA[המסר של הודעת הדוא"ל]]></img>	
+		<text style="margin-bottom:3px"><![CDATA[מאת: arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px"><![CDATA[נושא: בקשת עזרה]]></text> 	
+		<text style=""><![CDATA[שלום,]]></text> 				
+		<text style=""><![CDATA[אני לקוח של Johnson Controls, שנמצא במרסיי, צרפת, ואני מתקשה לשלב את אחד ממוצרי כיבוי האש שלכם במערכת הקיימת.]]></text> 				
+		<text style=""><![CDATA[התקשרתי לצוות התמיכה והם המליצו לי ליצור קשר עמך כדי לבקש את השרטוטים הטכניים ואת מדריך השילוב שיכולים לעזור לי לפתור את הבעיה בצורה טובה יותר.]]></text> 				
+		<text style=""><![CDATA[האם תוכל לשלוח לי מסמכים אלה בדוא"ל חוזר בהקדם האפשרי?]]></text> 				
+		<text style="margin-bottom:0px"><![CDATA[תודה ובברכה,]]></text> 		
+		<text style="margin-bottom:0px"><![CDATA[א. ריכטר]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[לחץ על כותרת הודעת הדוא"ל.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path=""><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;right: 97px; width: 475px;"><![CDATA[<span style="padding-left: 32px;">arichter_8888@gmail.com</span><span>בקשת עזרה</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

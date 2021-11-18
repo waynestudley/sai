@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[Mark piensa en cómo responder al mensaje de correo electrónico del cliente. ¿Sabría qué hacer en esta situación? Seleccione una opción y, luego, envíe su respuesta.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Si usted responde al cliente solicitando más información, como el nombre de la empresa y el puesto que ocupa el cliente en ella, ¿el correo electrónico que usted envié se consideraría una exportación? ¿Sabría por qué?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[Empleado]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Sí. Cada mensaje de correo electrónico es potencialmente una exportación, ya que los servidores se pueden encontrar en países diferentes. Por lo tanto, su mensaje de correo electrónico puede cruzar muchas fronteras internacionales.]]></option>	
+		<option><![CDATA[Sí. Cualquier mensaje de correo electrónico en el que se solicite información de alguien que está en otro país siempre constituye una exportación, ya que usted recibiría información personal.]]></option>	
+		<option><![CDATA[No. El mero hecho de responder a un cliente para solicitar más información no es una exportación.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="height:200px" fcStyle="top: -223px;">
+			<text style="font-size:17px;padding-top:15px;"><![CDATA[La respuesta es correcta.]]></text>
+			<text><![CDATA[Para asegurarse de cumplir con los controles al comercio, debe escribirle al cliente para obtener más información.]]></text>
+			<text><![CDATA[No obstante, el simple hecho de enviar este mensaje correo electrónico no implica una exportación, a menos que también comparta o adjunte dibujos de diseño, tecnología u otra información controlada sobre los productos.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="height:200px" fcStyle="top: -223px;">
+			<text style="font-size:17px;padding-top:20px;"><![CDATA[Lamentablemente, la respuesta no es correcta.]]></text>
+			<text><![CDATA[Para asegurarse de cumplir con los controles al comercio, debe escribirle al cliente para obtener más información.]]></text>
+			<text><![CDATA[No obstante, el simple hecho de enviar este mensaje correo electrónico no implica una exportación, a menos que también comparta o adjunte dibujos de diseño, tecnología u otra información controlada sobre los productos.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

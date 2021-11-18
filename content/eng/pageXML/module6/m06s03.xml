@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="flipCard" className="m06s03">
+	<transcript>
+		<text path="audio/module6/m06s03" id="0" ><![CDATA[What do competition laws prohibit? Click on each reveal button to learn more.]]></text>		
+	</transcript>
+	<contentText >
+		<text style=""><![CDATA[Competition laws prohibit agreements between competitors that have an effect on price or that limit customer choice.]]></text>
+	</contentText>
+	
+	<contentBackground >
+		<img path="content/images/ltr/module6/m06s03/contentBackground.jpg"  minwidth="769"><![CDATA[Meeting between competitors]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Click on each reveal button to learn more. You may need to scroll to read the full answer.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<buttonText >
+		<text><![CDATA[REVEAL]]></text>
+	</buttonText>	
+	<flipCardContent >
+		<flipCard style="width:187px;height: 362px;" >	
+			<buttonImg path="content/images/ltr/module6/m06s03/img1.png" ><![CDATA[Image showing pricing discounts]]></buttonImg>
+			<buttonText  style="height:90px;width:167px;"><![CDATA[Price fixing]]></buttonText>
+			<popText  style="height:230px;">
+				<text><![CDATA[Price fixing is an agreement by two or more competitors to set prices for goods or services. These agreements are always illegal.]]></text>						
+				<text><![CDATA[Price fixing occurs if you and a competitor agree to: <ul> <li>hold prices firm</li> <li>adopt a known formula for computing prices</li> <li>stick to a minimum-fee or price schedule</li> <li>eliminate or reduce discounts</li> </ul>]]></text>						
+			</popText>
+			
+			
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s03/img2.png"  ><![CDATA[Competitors making an agreement]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Bid rigging]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Bid rigging is an agreement by two or more competitors where they predetermine which competitor will win a specific bid or tender.]]></text>					
+				<text><![CDATA[Bid rigging occurs if you and a competitor agree to: <ul> <li>not bid or to withdraw from an already-submitted bid so that the competitor’s (or your) bid will win</li> <li>submit bids that are intentionally too high to win, but give the appearance of being legitimate – the bids are not submitted to win, they are submitted to lose so that your competitor wins as prearranged</li> <li>submit bids, but take turns being the low bidder</li> </ul>]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img3.png"  ><![CDATA[Competitors agreeing not to deal with a specific supplier]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Group boycotts]]></buttonText>
+			<popText  style="height:230px;">
+				<text><![CDATA[Group boycotts are an agreement by two or more competitors to refuse to deal with a specific supplier or customer in order to discipline, punish or otherwise damage the supplier or customer for its actions.]]></text>
+				<text><![CDATA[Group boycotts occur if you and a competitor agree not to work with a specific customer as a punishment for that customer choosing another competitor for a prior big project.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img4.png"  ><![CDATA[Competitors agreeing to divide customers]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Market allocation]]></buttonText>			
+			<popText  style="height:230px;">
+				<text><![CDATA[Market allocation is an agreement by two or more competitors to divide customers or markets.]]></text>			
+				<text><![CDATA[Market allocation could happen if you and a competitor agree to work with specific customers, e.g.:<ul><li>“I take customer A, you take customer B”</li><li>“I take customers in the North, you take customers in the South”</li></ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img5.png"  ><![CDATA[Two people making an agreement]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Agreements]]></buttonText>			
+			<popText  style="height:230px;">
+				<text><![CDATA[Antitrust or competition law violations require an “agreement,” but what does that mean?]]></text>			
+				<text><![CDATA[An agreement does not have to be put in writing to break the law. It could be a verbal agreement. In fact, a concerted practice or pattern of behavior is enough to be classified as agreement.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

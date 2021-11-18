@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[ברכותנו, עברת בהצלחה את בדיקת הידע הסופית.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[למרבה הצער, עדיין לא עברת את בדיקת הידע הסופית. ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[כל הכבוד!]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/rtl/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[עובדים של Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/rtl/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[עובדים של Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[לחץ על 'דף הבית' כדי לחזור לתפריט הראשי. מכאן, תוכל לגשת לתעודת סיום הקורס שלך.]]></text>
+		<text><![CDATA[לחץ על 'דף הבית' כדי לחזור לתפריט הראשי.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[עברת את בדיקת הידע עם ציון <b>##%</b> עבור: <span class="courseTitleAss" >החלת הקוד האתי: הקורס 'מנהלים עסקים ביושרה'</span>]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[קיבלת את הציון <b>##%</b>, ולא עברת את הקורס.]]></text>
+		<text><![CDATA[דרוש לך ציון של <span>#%</span> או יותר כדי לעבור. בקר שוב בתכנית ולאחר מכן נסה שוב לבצע בדיקת ידע זו.]]></text>
+	</feedbackFail>
+</contents>

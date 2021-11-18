@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[يحتوي الظرف على 250 دولارًا نقدًا. وقد رفض كارلوس الهدية بالفعل، إلا أن المورد أصر على قبوله لها. ما الذي ينبغي عليه فعله؟]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[الاحتفاظ بالأموال، لكن عليه أن يقوم بتقسيمها على فريقه، بحيث لا يحصل أي من الأفراد على مبلغ أكبر من الآخرين]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[رفض النقود مرة أخرى.  عندما رد كريس بدعوة كارلوس للانضمام إليه هو والفريق في حانة رياضية أثناء مباراة ضخمة، يوافق كارلوس.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[رفض الأموال مرة أخرى وكذلك <span class="fontBoldItalic" >رفض</span> طلب كريس للانضمام إليه هو والفريق في حانة رياضية أثناء مباراة ضخمة.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[يقوم كارلوس بتقسيم الأموال على فريقه، معللاً الأمر بأنه لا يوجد أي شخص تلقى مبلغًا أكبر من حدود الهدايا الذي تضعه شركة Johnson Controls. ولكن، بعد عدة شهور من ذلك، أطلقت شركة أخرى تحقيقًا في مزاعم بأن المقاول من الباطن كان يستخدم الهدايا غير المناسبة للتشجيع على تكرار ممارسة الأعمال.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[بعد أن رفض كارلوس النقد لمرة ثانية، أدرك كريس أنه جاد وقام بتغيير العرض. فبدلاً من الأموال، دعاه كارلوس للانضمام إليه هو والفريق في حانة رياضية أثناء مباراة ضخمة.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[بعد أن رفض كارلوس النقد لمرة ثانية، كما رفض عرض كريس لدعوة الفريق على العشاء، أدرك كريس أنه جاد وتوقف عن الإلحاح.]]></text>
+		</correct>
+	</feedback>
+</contents>

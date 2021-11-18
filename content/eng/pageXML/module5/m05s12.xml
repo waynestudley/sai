@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript >
+		<text id="0" path="audio/module5/m05s12"><![CDATA[Your turn to demonstrate you know how to apply the trade compliance rules. Connect each situation on the left to the correct solution on the right and click Submit.]]></text>
+	</transcript>
+	<contentText >
+		<text><![CDATA[Demonstrate you know what to do in each of these situations. ]]></text>
+	</contentText>
+	<contentBackground cName="" >		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg"  minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<buttonText >		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<instructionText >
+		<text><![CDATA[Select an item from the first column, then drag the arrows to its matching solution in the second. When you're done, click on submit.]]></text>
+		<text><![CDATA[Click on the question marks to learn more.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[THE SITUATION]]></heder>
+			
+			<tab id = "1" style = "height:60px"  dragPosition = "left: 553px;top: 8px;z-index: 5;height: 60px;"  >
+				<leftIcon style = "height:60px" path = "content/images/ltr/module5/m05s12/img01.png" ><![CDATA[Beijing]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = "" ><![CDATA[]]></dragIcon>
+				<text style = ""><![CDATA[You are heading to Beijing for business. A colleague asks you to bring a product sample to a contact there.]]></text>				
+			</tab>			
+			<tab id = "2" style = "height:60px" dragPosition = "left:553px; top:79px;z-index:5;height:60px" >
+				<leftIcon style = "height:60px" path = "content/images/ltr/module5/m05s12/img02.png" ><![CDATA[Close-up of the Syrian National]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = ""><![CDATA[]]></dragIcon>
+				<text style = ""><![CDATA[You are a UK citizen visiting customers in the EU. You meet a distributor who is a Syrian national and he asks to have a product sample.]]></text>
+			</tab>	
+			<tab id = "3" style = "height:60px" dragPosition = "left:553px; top:150px;z-index:5;height:60px" >
+				<leftIcon style = "height:60px" path = "content/images/ltr/module5/m05s12/img03.png" ><![CDATA[Customer representative in Saudi Arabia]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = ""><![CDATA[]]></dragIcon>
+				<text style = ""><![CDATA[A customer representative from Saudi Arabia calls with questions about the test protocol and design technology of one of our products.]]></text>
+			</tab>
+			<tab id = "4" style = "height:60px" dragPosition = "left:553px; top:221px;z-index:5;height:60px" >
+				<leftIcon style = "height:60px" path = "content/images/ltr/module5/m05s12/img04.png" ><![CDATA[Business Team]]></leftIcon>
+				<dragIcon path = "content/images/ltr/arrow.png" style = ""><![CDATA[]]></dragIcon>
+				<text style = ""><![CDATA[Your team collaborates with a global customer using OneDrive. The project manager asks you to upload technical information since he’s not allowed to send a hard copy to the customer’s country.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[THE SOLUTION]]></heder>
+			<tab id = "1,1" style = "height:60px" dropPosition = "left: 643px;top: 8px;height: 60px;">
+				<text  style = ""><![CDATA[Check to see if this is permitted and if you need a license before proceeding]]></text>
+				<rightIcon style= "height:60px" path = "content/images/ltr/module5/m05s12/img05.png" ><![CDATA[Employee on the phone ]]></rightIcon>
+			</tab>	
+			<tab id = "2,4" style = "height:60px" dropPosition = "left: 643px;top: 79px;height: 60px;">
+				<text><![CDATA[Politely refuse. ]]></text>
+				<rightIcon style = "height:60px" path = "content/images/ltr/module5/m05s12/img06.png" ><![CDATA[Close-up of serious man]]></rightIcon>
+			</tab>	
+			<tab id = "3,3" style = "height:60px" dropPosition = "left: 643px;top: 150px;height: 60px;">
+				<text><![CDATA[Ask to postpone the conversation.]]></text>
+				<rightIcon style = "height:60px" path = "content/images/ltr/module5/m05s12/img07.png" ><![CDATA[Employee on the phone]]></rightIcon>
+			</tab>	
+			<tab id = "2,4" style = "height:60px" dropPosition = "left: 643px;top: 221px;height: 60px;">
+				<text><![CDATA[Decline to do it.]]></text>
+				<rightIcon style = "height:60px" path = "content/images/ltr/module5/m05s12/img08.png" ><![CDATA[Employee on the phone]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal" >
+			<correct id = "1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style = ""><![CDATA[That’s it – you’ve matched them all correctly.]]></text>
+			</correct>			
+			<incorrect id = "2" style = "padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style = ""><![CDATA[That’s not correct. Now click on each solution again to learn more.]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal" >
+			<optfeedback id = "1" style = "top:184px">
+				<text style = ""><![CDATA[If permitted, in this situation it would be best to ship the sample in advance. If you are permitted by trade personnel to hand-carry, you should properly disclose to customs what you are carrying when you exit and enter the country.]]></text>
+			</optfeedback>			
+			<optfeedback id = "1" style = "top:184px">
+				<text style = ""><![CDATA[You can’t share a product sample with someone from a sanctioned country such as Syria, so in this situation you must politely refuse.]]></text>
+			</optfeedback>	
+			<optfeedback id = "1" style = "top:184px">
+				<text style = ""><![CDATA[You need more information before you can share this information. Double check with trade compliance experts whether this information can be shared with this person.]]></text>
+			</optfeedback>	
+			<optfeedback id = "1" style = "top:184px">
+				<text style = ""><![CDATA[You should decline the request. If you are not allowed to export the physical version of a document, the same restrictions apply to an electronic version of that same document.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

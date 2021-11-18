@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[هذا السيناريو وقع فعليًّا لأحد موظفي شركة Johnson Controls. ماذا يمكن أن تفعل في هذا الموقف؟ حدد خيارًا واحدًا ثم انقر فوق "إرسال".]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[أنت مدير فئة منتج في اجتماع دوري مع مشترٍ تابع لأحد العملاء. أثناء الاجتماع، تفتح قاعدة بيانات لتسعير العميل وحجم مبيعاته للإجابة على أسئلة الزبون. وبينما ينظر الزبون حولك ليرى هل هناك من يتابعك، يطلب منك بإصرار على أن ترسل له الملف بأكمله. ماذا تفعل؟]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[مدير فئة منتج في اجتماع مع مشترٍ تابع لأحد العملاء]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;left: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;">
+		<text><![CDATA[حدد خيارًا واحدًا ثم انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[تشارك قاعدة البيانات مع الزبون. فنجاح زبائننا هو أولى أولوياتنا]]></option>	
+		<option><![CDATA[تشرح أن قاعدة البيانات تتضمن معلومات تتعلق بعملاء آخرين ولا يمكنك لذلك مشاركتها مع أحد. إذا أصر الزبون، فعليك بإنهاء الاجتماع والاتصال بمديرك أو بفريق الشؤون القانونية طلبًا لتوجيهاتهم]]></option>	
+		<option><![CDATA[توافق على مشاركة قاعدة البيانات مع الزبون ولكن فقط بعد توقيع اتفاقية عدم إفصاح عن معلومات]]></option>	
+		<option><![CDATA[تتصل بمحامٍ وتشرع في إقامة دعوى ضد الزبون قبل أن يتمكن من استخدام المعلومات الخاصة في أعماله الشخصية]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-184px">
+			<text style="font-size:17px;"><![CDATA[هذا صحيح.]]></text>
+			<text><![CDATA[بيانات العميل، مثل تفاصيل جهات الاتصال والبنك، دائمًا ما تُعطى لشركة Johnson Controls مع توقعهم أننا سنبقيها طي السرية.]]></text>
+			<text><![CDATA[هذا النوع من البيانات الخاصة بالعميل لا يمكن أبدًا مشاركته مع أي عملاء آخرين تابعين لشركة Johnson Controls.]]></text>
+			<text><![CDATA[من بين عواقب مشاركة هذه المعلومات ما يلي: <ul> <li>يمكن أن يقوم العملاء الذين تم الإفصاح عن معلوماتهم برفع دعوى قضائية ضدنا</li> <li>قد توجه إلينا اتهامات بتثبيت الأسعار</li> <li>يمكن أن نخاطر بحقوق ملكيتنا الفكرية في قاعدة البيانات</li> <li>يمكن أن نجازف بقدرتنا على توفير خدمات إدارة الفئات إلى عملائنا</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-184px">
+			<text style="font-size:17px;"><![CDATA[هذا ليس صحيحًا.]]></text>
+			<text><![CDATA[بيانات العميل، مثل تفاصيل جهات الاتصال والبنك، دائمًا ما تُعطى لشركة Johnson Controls مع توقعهم أننا سنبقيها طي السرية.]]></text>
+			<text><![CDATA[هذا النوع من البيانات الخاصة بالعميل لا يمكن أبدًا مشاركته مع أي عملاء آخرين تابعين لشركة Johnson Controls.]]></text>
+			<text><![CDATA[من بين عواقب مشاركة هذه المعلومات ما يلي: <ul> <li>يمكن أن يقوم العملاء الذين تم الإفصاح عن معلوماتهم برفع دعوى قضائية ضدنا</li> <li>قد توجه إلينا اتهامات بتثبيت الأسعار</li> <li>يمكن أن نخاطر بحقوق ملكيتنا الفكرية في قاعدة البيانات</li> <li>يمكن أن نجازف بقدرتنا على توفير خدمات إدارة الفئات إلى عملائنا</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

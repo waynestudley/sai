@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s05">
+	<transcript>
+		<text path="audio/module8/m08s05" id="0"><![CDATA[ตอนนี้เด็บบี้ได้รับข้อความแล้ว เธอควรจะตอบโต้อย่างไร เลือกหนึ่งตัวเลือกแล้วส่ง]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[ในส่วนนี้เด็บบี้ควรตอบโต้อย่างไร]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module8/m08s05/contentBackground.jpg" minwidth="769"><![CDATA[ผู้หญิงกำลังมองคอมพิวเตอร์โน๊ตบุ๊ค]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[เลือกหนึ่งตัวเลือกแล้วส่ง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[บอกคิมว่าอย่าทำอีก]]></option>	
+		<option><![CDATA[ปรึกษากับผู้จัดการ]]></option>	
+		<option><![CDATA[ส่งรูปจากที่ทำงานให้คิมเป็นการตอบแทน]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[ถูกต้อง]]></text>
+			<text><![CDATA[เห็นได้ชัดว่าคิมไม่ได้ตระหนักถึงความเสี่ยงของการลงข้อความที่เกี่ยวกับงานในโซเชียลมีเดีย และเด็บบี้อาจรู้สึกว่าเป็นหน้าที่ของเธอที่จะเอ่ยถึงประเด็นนี้ แต่ที่จริงแล้วผู้จัดการจำเป็นต้องได้รับทราบถึงการกระทำที่อาจมีการรั่วไหลของข้อมูลลับของลูกค้า ด้วยวิธีนี้จะทำให้สามารถจัดการกับความเสี่ยงของการเปิดเผยข้อมูลทั้งในปัจจุบันและอนาคต]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[ขอโทษ คำตอบนี้ไม่ถูกต้อง]]></text>
+			<text><![CDATA[เห็นได้ชัดว่าคิมไม่ได้ตระหนักถึงความเสี่ยงของการลงข้อความที่เกี่ยวกับงานในโซเชียลมีเดีย และเด็บบี้อาจรู้สึกว่าเป็นหน้าที่ของเธอที่จะเอ่ยถึงประเด็นนี้ แต่ที่จริงแล้วผู้จัดการจำเป็นต้องได้รับทราบถึงการกระทำที่อาจมีการรั่วไหลของข้อมูลลับของลูกค้า ด้วยวิธีนี้จะทำให้สามารถจัดการกับความเสี่ยงของการเปิดเผยข้อมูลทั้งในปัจจุบันและอนาคต]]></text>
+		</incorrect>
+	</feedback>
+</contents>

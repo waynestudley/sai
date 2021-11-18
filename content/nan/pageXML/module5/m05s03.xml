@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0"><![CDATA[馬克注意到收件匣裡有一封標示為緊急的新郵件。 他按一下電子郵件標題，觀看郵件內容。]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;"></pageTitle>
+	<contentBg style="width: 591px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[剛收到一封標示為緊急的新電子郵件。]]></text>	
+		
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[一封新的電子郵件]]></img>
+		<img path="content/images/ltr/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[電子郵件標題]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;left: 2px;top: 215px;font-size: 15px;">		
+		<img path="" minwidth="769"><![CDATA[電子郵件內文]]></img>	
+		<text style="margin-bottom:3px"><![CDATA[寄件人： arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px"><![CDATA[主旨： 需要您的協助]]></text> 	
+		<text style=""><![CDATA[您好，]]></text> 				
+		<text style=""><![CDATA[我是 Johnson Controls 在法國馬賽的客戶。我在將貴公司的滅火產品整合到既有系統中時發生問題。]]></text> 				
+		<text style=""><![CDATA[我打電話給你們的支援團隊，他們建議我與您聯絡，請您提供工程圖和整合手冊以利協助我們解決問題。]]></text> 				
+		<text style=""><![CDATA[麻煩您盡速以回覆郵件的方式將這些資料寄給我們。]]></text> 				
+		<text style="margin-bottom:0px"><![CDATA[謝謝您，敬祝商安]]></text> 		
+		<text style="margin-bottom:0px"><![CDATA[A. Richter]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[按一下電子郵件標題。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path=""><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;left: 97px; width: 475px;"><![CDATA[<span style="padding-right: 32px;">arichter_8888@gmail.com</span><span>需要您的協助</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

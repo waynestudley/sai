@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0" ><![CDATA[Mark thinks about how to respond to the customer email. Would you know what to do in this situation? Select one option and then submit your answer.]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+	</transcript>
+	<contentText >
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[If you write back to the customer asking for more information – like the name of their company and their position – is your email considered an export and would you know why?]]></text>
+	</contentText>
+	<contentBackground >		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769" ><![CDATA[Employee]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText >
+		<text><![CDATA[Select one option and then submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option ><![CDATA[Yes, every email is potentially an export, since servers can be located in different countries, and so your email can cross many international borders]]></option>	
+		<option ><![CDATA[Yes, any email requesting information from someone in another country is always an export because you are receiving personal information]]></option>	
+		<option ><![CDATA[No, simply writing back to a customer to request more information is not an export]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback >
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[That’s correct.]]></text>
+			<text><![CDATA[In order to make sure you comply with the trade controls, you should write to the customer to learn more information.]]></text>
+			<text><![CDATA[However, simply sending this email is not an export, unless you also shared or attached design drawings, technology or other controlled product information.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Sorry, that’s not correct.]]></text>
+			<text><![CDATA[In order to make sure you comply with the trade controls, you should write to the customer to learn more information.]]></text>
+			<text><![CDATA[However, simply sending this email is not an export, unless you also shared or attached design drawings, technology or other controlled product information.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

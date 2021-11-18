@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Bagaimanakah sepatutnya respons Dan kepada permintaan Emma?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s14/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Dia perlu bertindak terhadap permintaan Emma untuk membantu menyokong rakan sekerja.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Dan tidak perlu terus memberikan sebarang maklumat perubatan dalam e-mel, tetapi dia boleh menghantar pautan ke blog Emma.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Selain menghantar e-mel ke seluruh syarikat, Dan mencadangkan bahawa Emma bertanya kepada Sandy jika ada apa-apa yang boleh mereka lakukan untuk membantu.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Dan menghantar e-mel kepada semua pekerja Johnson Controls dengan maklumat mengenai kemalangan Sandy dan satu pautan ke blog Emma.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Dan menghantar e-mel dengan pautan ke blog Emma. Nampaknya dia tidak menyedari bahawa ini merupakan penggunaan senarai e-mel pekerja yang tidak wajar.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Apabila Emma bertanya perkara yang boleh dia lakukan untuk membantu, Sandy mencadangkan yang Emma boleh memberitahu beberapa orang rakannya di tempat kerja tentang halaman Facebook yang telah keluarganya sediakan.]]></text>
+			<text><![CDATA[Emma berkongsi maklumat ini hanya dengan orang yang Sandy cadangkan. Siaran rakan sekerjanya mendapat mesej sambutan yang bagus, yang meningkatkan semangat Sandy. Beberapa orang telah memberikan sumbangan kepada dana untuk perbelanjaan perubatan Sandy, yang membantu mengurangkan kebimbangannya.]]></text>
+		</correct>
+	</feedback>
+</contents>

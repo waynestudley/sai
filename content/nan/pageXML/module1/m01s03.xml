@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[您有多會辨識風險的情況？ 請閱讀這個情境，判斷是否發生利益衝突。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[辦公室]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[您能辨識利益衝突嗎？  判斷下列情況是否發生可能的衝突並且需要揭露：]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[針對每個選項選擇「是」或「否」，然後按一下「提交」。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+		<text><![CDATA[按一下問號，瞭解詳細資訊。]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[像是在烘焙坊工作，穿著圍裙的女士]]></img>
+			<text style="width: 450px;"><![CDATA[一位 Johnson Controls 員工珍妮佛，打算週末時在姐姐新開的烘焙坊工作，但這星期她打電話請病假去幫忙店鋪的開幕活動。]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[穿著商務裝的男士]]></img>
+			<text style="width: 450px;"><![CDATA[Johnson Controls 的採購人員亞歷士認為他的朋友史提夫很適合公司新開的一個職缺。 他告訴史提夫這個職缺，並建議他去填寫線上申請。]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[穿著商業套裝的中東裔女士]]></img>	
+			<text style="width: 450px;"><![CDATA[貝詩瑪是 Johnson Controls 的品管工程師。 她管理的供應商提供她一個諮詢機會。 他說他們正在替為 Johnson Controls 建立的新生產線設立出貨檢驗尋求協助。 供應商向貝詩瑪明確表示她可以在晚上或週末做這個工作，不在她日常工作時程內。]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[穿著商務裝的男士]]></img>	
+			<text style="width:450px;"><![CDATA[卡爾負責挑選一家資訊科技廠商支援 Johnson Controls 的一項重要專案。 今年早些時候，他在朋友的資訊科技公司投資大筆資金，而這家公司有參與投標此工作。]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[是]]></text>
+		<text><![CDATA[否]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[正確。]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[錯誤。 ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[按一下問號，瞭解詳細資訊。]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[珍妮佛在週末幫助姐姐在烘焙坊工作沒有問題。 然而，如果她對姐姐的承諾影響她在 Johnson Controls 的職責，就構成了衝突，像是她裝病在週間曠職一天去幫助烘焙坊。]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[即使亞歷士在採購部門工作，他並沒有利用他的職位幫助朋友取得工作。 亞歷士建議史提夫填寫線上申請表是可以接受的，因為史提夫會經過所有其他申請人依循的相同程序。]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[貝詩瑪監督供應商的工作，正在考慮供應商提供的兼職工作。 如果兩家公司都僱用她，她要對哪一邊忠心？ 她有可能發生衝突，這種情況需要避免。 至少貝斯瑪必須揭露這個可能的利益衝突。]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[如果卡爾投資的公司贏得投標，他將在財務上受益。 他個人與決策的關係，會影響他做出公正決定的能力，使之構成利益衝突。]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

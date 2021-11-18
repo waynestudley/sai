@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[تحقق من مدى فهمك لما يعدُّ مقبولاً وما لا يعدُّ كذلك عندما يتعلق الأمر بوسائل الترفيه. حدد "مقبول" أو "غير مقبول" لهذه الخيارات، ثم انقر فوق "إرسال".]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[النادل يأتي بالفاتورة]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;left: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[حدد ما إذا كانت هذه الإجراءات مقبولة أم غير مقبولة.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[حدد "مقبول" أو "غير مقبول" لكل خيار ثم انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="left:12px;" crossSt="left:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s12/img01.png"><![CDATA[4 تذاكر لفعالية رياضية]]></img>
+			<text style="width: 356px;"><![CDATA[يعرض أحد البائعين عليك أربع تذاكر لحضور فاعلية رياضية كبرى معه. وتبلغ قيمة كل تذكرة منها 100 دولار أمريكي ولهذا سوف تقوم بالإبلاغ عن هذا العرض قبل أن تقبله.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s12/img02.png"><![CDATA[موظف يراجع عطاءً]]></img>
+			<text style="width: 356px;"><![CDATA[تكتشف وجود عطاء مفتوح مع هذا البائع لكنك غير مشارك فيه بطريقة مباشرة، ولذلك تقرر قبول التذاكر.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s12/img04.png"><![CDATA[موظف وبائع يتحدثان]]></img>	
+			<text style="width: 356px;"><![CDATA[بائع آخر ليس مشاركًا في عطاء نشط يعرض تذاكر بديلة عليك لحضور فعالية أقل أهمية، وتبلغ قيمة كل تذكرة 20 دولارًا. ترفض هذه التذاكر لصالح تذاكر الفعالية الكبرى.]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[مقبول]]></text>
+		<text styleWidth="width:110px;"><![CDATA[غير مقبول]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -40px;width: 258px;height: auto;padding-top: 20px;left: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[هذا صحيح.]]></text>			
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>ونظرًا لأن قيمة تذاكر الفعالية الكبرى تتجاوز الحد البالغ 200 دولار، فعليك أن تبلغ عن هذه التذاكر.</li> <li>يجب ألا تقدم على الإطلاق على إعطاء جوائز أو وسائل ترفيه لعملاء أو بائعين أو أو قبولهما منهما أثناء فترة التفاوض على عطاءات أو عقود.</li><li>قيمة هذه التذاكر أكبر من القيمة الملائمة، ولكن حتى هذه الوسائل الترفيهية ستكون غير مناسبة إذا كانت هناك أي محاولة للتأثير عليك بطريقة غير مشروعة.</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -40px;width: 258px;height: auto;padding-top: 20px;left: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[هذا ليس صحيحًا.]]></text>	
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>ونظرًا لأن قيمة تذاكر الفعالية الكبرى تتجاوز الحد البالغ 200 دولار، فعليك أن تبلغ عن هذه التذاكر.</li> <li>يجب ألا تقدم على الإطلاق على إعطاء جوائز أو وسائل ترفيه لعملاء أو بائعين أو أو قبولهما منهما أثناء فترة التفاوض على عطاءات أو عقود.</li><li>قيمة هذه التذاكر أكبر من القيمة الملائمة، ولكن حتى هذه الوسائل الترفيهية ستكون غير مناسبة إذا كانت هناك أي محاولة للتأثير عليك بطريقة غير مشروعة.</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

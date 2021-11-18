@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[Seleccione su preferencia de audio:]]></text>		
+		<text><![CDATA[Este curso cuenta con audio y video como elemento de respaldo para el aprendizaje. Le recomendamos que vea el curso en el modo de audio/video. Sin embargo, si opta por verlo en modo de texto y gráficos, se mostrarán una transcripción e imágenes en lugar de todo el audio y video.]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[Ondas sonoras]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[Continuar]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[Seleccionar preferencia de visualización]]></option>
+			<option id="A1"><![CDATA[Modo de audio/video]]></option>
+			<option id="A2"><![CDATA[Modo de texto y gráficos]]></option>
+	</dropDownMenu>
+</contents>

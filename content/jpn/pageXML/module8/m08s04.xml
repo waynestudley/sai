@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s04">
+	<transcript>
+		<text path="audio/module8/m08s04" id="0"><![CDATA[デビーはキムの写真に驚きました。 キムがやったことと同じことをしたことがありますか？ 選択肢を1つ選んで回答を提出します。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[職場で自分自身の写真を撮って、ソーシャルメディアに投稿するのはなぜいけないのでしょうか？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module8/m08s04/contentBackground.jpg" minwidth="769"><![CDATA[家にいる女性]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[選択肢を1つ選んで提出してください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px;font-size:15px;">
+		<option><![CDATA[見られた後に投稿を削除するなら、何も悪くありません]]></option>	
+		<option><![CDATA[誰に送るかについて次第です]]></option>	
+		<option><![CDATA[機密情報が背景に含まれている可能性があるため、問題となる場合があります]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[正解です。]]></text>
+			<text><![CDATA[当社は請求や支払情報など、機密の顧客情報を保護する必要があります。 当社には、顧客データを保護し、法に基づき処理する法的義務があります。 そうでない場合、当社には厳格な罰金が課される可能性があります。  ]]></text>
+			<text><![CDATA[たとえ機密情報を漏えいする意図がなかったとしても、企業と顧客に非常に大きな損害を与える可能性があります。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[残念。間違っています。.]]></text>
+			<text><![CDATA[当社は請求や支払情報など、機密の顧客情報を保護する必要があります。 当社には、顧客データを保護し、法に基づき処理する法的義務があります。 そうでない場合、当社には厳格な罰金が課される可能性があります。]]></text>
+			<text><![CDATA[たとえ機密情報を漏えいする意図がなかったとしても、企業と顧客に非常に大きな損害を与える可能性があります。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

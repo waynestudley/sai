@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;right:20px;height: 500px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[Vaša úloha]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[Odpovedzte na tieto otázky o vašej úlohe.]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[Spolupracujete s ľuďmi alebo organizáciami, ktoré súťažia so spoločnosťou Johnson Controls?]]></text>
+		<text id="2"><![CDATA[Ste zodpovední za rozhodovanie o nákupoch pre spoločnosť Johnson Controls?]]></text>
+		<text id="3"><![CDATA[Zahŕňa vaša práca marketing, predaj alebo rokovanie so zákazníkmi a potenciálnymi zákazníkmi?]]></text>
+		<text id="4"><![CDATA[Máte prístup k informáciám o zákazníkoch, zmluvných dodávateľoch, dodávateľoch alebo obchodných partneroch spoločnosti Johnson Controls alebo o ľubovoľných osobách, ktoré pre nich pracujú?]]></text>
+		<text id="5"><![CDATA[Máte prístup k informáciám o zamestnancoch spoločnosti Johnson Controls?]]></text>
+		<text id="6"><![CDATA[Jednáte priamo so zamestnancami, zákazníkmi alebo dodávateľmi spoločnosti Johnson Controls, ktorí sídlia v zámorí alebo majú prístup k technickým informáciám?]]></text>
+		<text id="7"><![CDATA[Zahŕňa vaša práca medzinárodné cestovanie, hosťovanie medzinárodných návštevníkov alebo prepravu produktov spoločnosti Johnson Controls, ľudí alebo informácií do zahraničia?]]></text>
+		<text id="8"><![CDATA[Zúčastňujete sa združenia priemyslu alebo navštevujete priemyselné konferencie?]]></text>
+		<text id="9"><![CDATA[Dali ste niekedy dary tretím stranám alebo ste dostali dary od tretích strán, ako sú zákazníci alebo dodávatelia?]]></text>
+		<text id="10"><![CDATA[Hostili ste niekedy tretie strany alebo vás niekedy hostili tretie strany, napríklad zákazníci alebo dodávatelia?]]></text>
+		<text id="11"><![CDATA[Zahŕňa vaša práca výskum, vývoj alebo inžinierstvo produktov a služieb spoločnosti Johnson Controls?]]></text>
+		<text id="12"><![CDATA[Ste zodpovedný za rozvoj podnikania s novými alebo existujúcimi zákazníkmi na nových miestach alebo v nových odvetviach?]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/profileSelection.jpg" minwidth="769"><![CDATA[Zamestnanci spoločnosti Johnson Controls]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[Áno]]></text>
+		<text><![CDATA[Nie]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[Pokračovať]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 560px;">
+		<text><![CDATA[Vyberte Áno alebo Nie pre každú otázku a potom kliknite na tlačidlo Pokračovať.]]></text>
+	</instructionText>
+	
+</contents>

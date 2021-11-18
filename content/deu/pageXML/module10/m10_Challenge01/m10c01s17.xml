@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Eduardo schlägt vor, einen beliebten Nachtclub in der Nähe zu besuchen. Der Rest seines Teams scheint interessiert zu sein.]]></text>
+		<text><![CDATA[Wie sollte Jian reagieren?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[Restaurant]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Den Club mit Eduardo und seinem Team besuchen, jedoch darauf bestehen, die Rechnung selbst zu bezahlen, damit Eduardos Bewirtung nicht zu hoch ausfällt.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Aus Höflichkeit und um Eduardo nicht bloßzustellen, auf einen Drink mitgehen, jedoch schon nach kurzer Zeit wieder gehen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Höflich ablehnen und nach Hause gehen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian handelt richtig, wenn er darüber nachdenkt, wie viel Bewirtung er annimmt, aber er muss noch ein weiteres Problem berücksichtigen.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Obwohl Jian beabsichtigt hatte, sich Eduardo und seinem Team nur kurz anzuschließen, ergaben sich daraus trotzdem unvorhergesehene Probleme für Jian und Johnson Controls.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Dies ist eine sichere Vorgehensweise.]]></text>
+		</correct>
+	</feedback>
+</contents>

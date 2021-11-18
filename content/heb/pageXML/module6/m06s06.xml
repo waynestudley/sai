@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s06">
+	<transcript>
+		<text path="audio/module6/m06s06" id="0"><![CDATA[מה עוד ניתן לעשות כדי למנוע ניצול לרעה של השוק? לחץ על כל לחצן חשיפה לקבלת מידע נוסף.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[כאשר יש לנו מעמד דומיננטי, עלינו להימנע מפעולות או אסטרטגיות שעלולות להיחשב לניצול לרעה של המעמד.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/rtl/module6/m06s06/contentBackground.jpg" minwidth="769"><![CDATA[רקע משרדי עם 2 אנשים שמתכננים אסטרטגיות]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;left: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[לחץ על כל לחצן חשיפה לקבלת מידע נוסף. ייתכן שתצטרך לגלול כדי לקרוא את התשובה המלאה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[חשוף]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/rtl/module6/m06s06/img1.png"><![CDATA[חבילה של מוצרים]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[קשירה]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[תופעה זו מתרחשת כאשר חברה קושרת יחד מוצרים בחבילה אחת ולא מאפשרת לרכוש אותם בנפרד.]]></text>						
+				<text><![CDATA[התוצאה הסופית היא שהצרכן נאלץ לקנות מוצר שהוא לא רוצה כדי לקנות את המוצר שהוא רוצה.]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/rtl/module6/m06s06/img2.png"><![CDATA[קונה ומוכר עוברים על מחירון של מוצרים]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[עסקאות בלעדיות]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[תופעה זו מתרחשת כאשר קונה נאלץ בפועל לרכוש את רוב או כל המוצרים או השירותים ממשווק אחד, בדרך כלל בתקופה שנקבעה.]]></text>					
+				<text><![CDATA[הנציבות האירופית קנסה את Intel בסכום של 1.06 מיליארד ליש"ט על כך שהעניקה הנחות לחיזוק הנאמנות ללקוחותיה במטרה להרחיק מתחרים אחרים מהשוק. ההנחות היו מותנות ברכישה של כל הדרישות, או כמעט כולן, מהחברה הדומיננטית.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/rtl/module6/m06s06/img3.png"><![CDATA[איור של 50% הנחה בעגלת קניות]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[תמחור טורפני]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[תופעה זו מתרחשת כאשר חברה מוכרת לצרכנים במחיר נמוך באופן מלאכותי ונושאת בהפסד באופן מכוון.]]></text>			
+				<text><![CDATA[בדרך כלל, חברות בוחרות בדרך זו כדי למנוע ממתחרים שאינם יכולים להרשות לעצמם מחירים כה נמוכים להשתלב בשוק.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/rtl/module6/m06s06/img4.png"><![CDATA[תרשים שמראה עלייה במחירים]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[סירוב לעסקה]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[תופעה זו מתרחשת כאשר חברה אחת מסרבת למכור לחברה אחרת או תמכור לה רק במחיר גבוה במיוחד.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/rtl/module6/m06s06/img5.png"><![CDATA[לחיצת יד לעסקה שמטרתה למנוע ממפיץ למכור ללקוחות מסוימים]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[מניעת תחרות בין מותגים]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[תופעה זו מתרחשת כאשר חברות מגיעות להסכמים עם מפיצים, שמונעים מהם למכור באזורים מסוימים או ללקוחות מסוימים.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m01s05" >
+	<transcript>
+		<text path="audio/module1/m01s05" id="0" ><![CDATA[Many conflicts of interest cases happen on a small scale and on a personal level. But some conflicts are big enough to make headline news.]]></text>
+	</transcript>
+	<contentText >
+		<text  position="relative" width="648px" height="auto" left="0" top="0px" ><![CDATA[Most conflicts of interest are smaller scale and more personal – but some are big enough to make the news.]]></text>
+	</contentText>
+	<contentBg style="" ></contentBg>
+	<contentBackground >
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769" ><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;" >
+		<text><![CDATA[Click on the arrow to learn more.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" >
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550" ><![CDATA[Portfolio manager speaking with SEC investigator]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:380px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[Headline: Asset management company pays USD$12m to settle conflicts charges]]></text>
+				<text style="font-size:15px;"><![CDATA[Blackrock, a large asset management company, paid USD$12 million to settle charges of conflicts of interest due to the actions of one of its portfolio managers.]]></text>
+				<text style="font-size:15px;"><![CDATA[The U.S. Securities and Exchange Commission brought charges after it discovered that a broker who oversaw some Blackrock energy funds also founded a family-owned oil and gas company during the same time. The family company partnered with a coal company – and that same coal company’s shares were the largest holding in a fund the broker ran.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550" ><![CDATA[Hospital board member in press conference]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[Headline: Hospital board member personally fined $13,500]]></text>
+				<text style="font-size:15px;"><![CDATA[A board member of the New York City public hospital system was personally fined for conflicts discovered between his board role and his position at a medical school in Grenada.]]></text>
+				<text style="font-size:15px;"><![CDATA[The City Conflicts Board found that the doctor had wrongly used his board position to lobby city hospitals to increase the number of placements from students at the medical school he worked for.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550" ><![CDATA[Person looking at stocks ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[Headline: JP Morgan pays USD$35m after giving compromised advice during deal]]></text>
+				<text style="font-size:15px;"><![CDATA[Investment giant JP Morgan paid USD$35 million to settle charges stemming from its actions during the sale of Good Technology to BlackBerry in late 2015. ]]></text>
+				<text style="font-size:15px;"><![CDATA[Good Technology shareholders had charged that the company was sold below its market value and that JP Morgan pushed Good Technology into a sale because it wanted to win future investment banking business from BlackBerry. The court agreed, and awarded the shareholders a large judgment.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

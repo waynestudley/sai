@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[如果有人將您不應該看到的個人資料寄給您，您會怎麼作？]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;"><![CDATA[您會怎麼做？ ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[您被指派通知承包商新的結算流程。 ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[您要求其他部門的員工寄給您一份電子郵件清單，但他寄給您的試算表中還包含了用來保護其帳號的個人資訊，包括生日、母親的名字、身份證號碼等。 ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[您會怎樣做？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[商人]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[選擇一個項目然後提交。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[刪除這封電子郵件，並寄電子郵件到 privacy@jci.com 向資料隱私權團隊呈報]]></option>
+		<option><![CDATA[轉發給您的同事，當作不該用電子郵件傳遞的範例]]></option>
+		<option><![CDATA[只從試算表中獲取需要的部分，安全的丟棄其餘部分]]></option>
+		<option><![CDATA[電子郵件通知所有承包商，告知他們其個人資料可能已洩露]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:126px;" fcStyle="top:-151px">
+			<text style="font-size:17px;"><![CDATA[正確。]]></text>
+			<text><![CDATA[資料隱私權法及 Johnson Controls 資料隱私權政策適用於員工及客戶與商業合作夥伴的個人資訊。 請務必瞭解自己的職責，並遵守 Johnson Controls 隱私權政策及所有相關的資料保護法與隱私權法。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:126px;" fcStyle="top:-151px">
+			<text style="font-size:17px;"><![CDATA[錯誤。]]></text>
+			<text><![CDATA[資料隱私權法及 Johnson Controls 資料隱私權政策適用於員工及客戶與商業合作夥伴的個人資訊。 請務必瞭解自己的職責，並遵守 Johnson Controls 隱私權政策及所有相關的資料保護法與隱私權法。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

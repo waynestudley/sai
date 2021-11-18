@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s03">
+	<transcript>
+		<text path="audio/module4/m04s03" id="0"><![CDATA[Co přesně jsou osobní údaje? Pojďme se na to podívat.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Co jsou osobní údaje?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s03/contentBackground.jpg" minwidth="769"><![CDATA[Zamyšlený zaměstnanec u počítače]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Vyberte jednotlivé nadpisy.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:160px;">
+		<revealCallOut width="300px" height="174px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn1.png" minwidth="769"><![CDATA[Osobní údaje]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Osobní údaje]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: -30px;width: 958px;">
+				<text><![CDATA[Osobní údaje jsou jakékoli informace, které lze použít k identifikaci jednotlivce, například jméno či adresa osoby.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="350px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn2.png" minwidth="769"><![CDATA[Citlivé osobní údaje]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Citlivé osobní údaje]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 100px;top: -30px;width: 958px;">
+				<text><![CDATA[Citlivé osobní údaje jsou jakékoli informace o jednotlivci, jejichž ztráta či neoprávněné zveřejnění by dotyčnému mohly způsobit značnou škodu, trapnou situaci, nepříjemnosti a případně by byl cílem neférového jednání – patří sem například zdravotní stav nebo náboženské přesvědčení dotyčného.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s03/btn3.png" minwidth="769"><![CDATA[Ochrana dat]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Ochrana dat]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -30px;width: 958px;">
+				<text><![CDATA[Veškeré osobní údaje našich zaměstnanců, zákazníků a obchodních partnerů se musí chránit. Je to jedna z vašich nejdůležitějších povinností ve společnosti Johnson Controls.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

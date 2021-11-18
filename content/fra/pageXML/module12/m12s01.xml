@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[Bravo, vous avez terminé cette formation avec succès. Vous pouvez maintenant imprimer votre certificat. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[Homme utilisant un ordinateur]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative" padding="0"><![CDATA[Vous avez terminé la formation <span style="color:#00539E;font-weight:bold;font-size:17px;" >Appliquer le Code d’éthique : « Faire des affaires en toute intégrité »</span>.]]></text>
+		<text width="450px" height="120px" top="10px" left="0px" position="relative" padding="0"><![CDATA[Cliquez sur « Imprimer mon certificat », puis sur « Accueil » pour revenir au menu principal ou « Fermer » pour quitter la formation.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="175px" left="20px"><![CDATA[Imprimer le certificat]]></text>
+	</buttonText>	
+	<instructionText style="top:10px;">
+		<text><![CDATA[Cliquez sur « Imprimer mon certificat ».]]></text>
+	</instructionText>
+</contents>

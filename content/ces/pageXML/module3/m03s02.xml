@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[Jak dobře dokážete rozpoznávat rizikové situace? Přečtěte si tento scénář, u každé položky vyberte možnost Souhlasím nebo Nesouhlasím a poté klikněte na tlačítko Odeslat.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[Chodba s pracovníky]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Konzultant, s nímž spolupracujete na Blízkém východě, vám řekne, že určitá zásilka podléhala vysokému dovoznímu clu, ale podařilo se mu najít „levnější řešení“ a zásilka byla právě odbavena. S kterým z následujících tvrzení byste souhlasili?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[U každé položky vyberte možnost Souhlasím nebo Nesouhlasím a pak klikněte na tlačítko Odeslat. ]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[Doky]]></img>
+			<text style="width: 450px;"><![CDATA[Toto „levnější řešení“ může znamenat, že byl někdo uplacen. ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[Doky]]></img>
+			<text style="width: 450px;"><![CDATA[Své podezření byste měli nahlásit nadřízenému nebo právnímu oddělení.   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[Doky]]></img>	
+			<text style="width: 450px;"><![CDATA[Měli byste počkat, co se stane, a pak se obrátit na nadřízeného.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[Doky]]></img>	
+			<text style="width:450px;"><![CDATA[Pokud konzultant uplácel jménem naší společnosti, je za to odpovědný on, nikoli společnost Johnson Controls.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[Doky]]></img>	
+			<text style="width:450px;"><![CDATA[Měli byste konzultantovi poděkovat za to, že ušetřil peníze, a napříště mu svěřit více práce.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text styleWidth="font-size:12px;"><![CDATA[Souhlasím]]></text>
+		<text styleWidth="font-size:12px;"><![CDATA[Nesouhlasím]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 70px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Správně.]]></text>			
+			<text style="font-size: 13px;"><![CDATA[„Levnější řešení“ by mohlo znamenat úplatek. Úplatek může být někdy velmi nenápadný. V takovém případě byste měli své podezření ihned nahlásit nadřízenému a právnímu oddělení nebo oddělení pro dodržování předpisů, případně své obavy oznámit na linku pro otázky integrity. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Neseme odpovědnost i v případě, že jménem společnosti Johnson Controls uplácí třetí strana.]]></text>			
+		</correct>
+		<incorrect style="top: 70px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[To není správně.]]></text>	
+			<text style="font-size: 13px;"><![CDATA[„Levnější řešení“ by mohlo znamenat úplatek. Úplatek může být někdy velmi nenápadný. V takovém případě byste měli své podezření ihned nahlásit nadřízenému a právnímu oddělení nebo oddělení pro dodržování předpisů, případně své obavy oznámit na linku pro otázky integrity. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Neseme odpovědnost i v případě, že jménem společnosti Johnson Controls uplácí třetí strana.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

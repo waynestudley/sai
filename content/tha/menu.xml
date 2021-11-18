@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <transcript>
+        <text path="" id="0"><![CDATA[]]></text>        
+        <text path="" id="1"><![CDATA[]]></text>        
+    </transcript>
+	<contentBg style="top:10px;right:17px;padding:0px;width:992px;" chanStyle="width:846px;margin: 0 auto;right:0;float:none;"></contentBg>
+	<pageTitle style="margin-bottom:5px;padding:15px 15px 0;"></pageTitle>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/menuBg.jpg" minwidth="769"><![CDATA[พนักงาน Johnson Controls]]></img>	
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/submenuBg.jpg" minwidth="769"><![CDATA[พนักงาน Johnson Controls]]></img>	
+	</contentBackground>
+	<nextLockAlertPopupText>
+        <text><![CDATA[คุณต้องคลิกทุกส่วนก่อนที่จะสามารถดำเนินการต่อไปได้]]></text>
+        <text><![CDATA[เลือก คำตอบ แล้วคลิก ตกลง เพื่อดำเนินการต่อ]]></text>
+        <text><![CDATA[โปรดดูวิดีโอทั้งหมดก่อนดำเนินการต่อ]]></text>
+        <buttonText>
+            <text><![CDATA[ตกลง]]></text>
+        </buttonText>
+    </nextLockAlertPopupText>	
+    <closeCourse>
+        <text><![CDATA[คุณแน่ใจหรือไม่ว่าคุณต้องการออกจากหลักสูตร]]></text>
+        <buttonText>
+            <text><![CDATA[ใช่]]></text>
+            <text><![CDATA[ไม่ใช่]]></text>
+        </buttonText>
+    </closeCourse>	
+    <title>
+        <text><![CDATA[เมนูหลัก ]]></text>
+        <text><![CDATA[ความท้าทาย]]></text>
+        <text><![CDATA[การประยุกต์ใช้แนวปฏิบัติทางจรรยาบรรณ: การทำธุรกิจด้วยความซื่อสัตย์]]></text>
+        <text><![CDATA[แบบทดสอบแนวปฏิบัติทางจรรยาบรรณ]]></text>
+    </title>	
+    <instructionText style="margin-bottom:0px;padding:0px 15px 15px;">
+        <text><![CDATA[เลือกโมดูล]]></text>
+        <text><![CDATA[เลือกแบบทดสอบ]]></text>		
+        <text><![CDATA[เลือกโมดูลที่จะทบทวนการเรียนรู้ หรือคลิก ปิด]]></text>		
+        <text><![CDATA[คลิกปุ่ม หน้าหลัก เพื่อกลับไปที่ เมนูหลัก]]></text>		
+        <text><![CDATA[คลิกที่ปุ่ม หน้าแรก เพื่อกลับไปยังเมนูหลัก และสำเร็จการอบรม ]]></text>		
+    </instructionText>
+	
+    <contentText>
+        <text><![CDATA[ยินดีต้อนรับสู่ การนำแนวปฏิบัติทางจรรยาบรรณไปใช้: การทำธุรกิจด้วยความซื่อสัตย์]]></text>
+        <text><![CDATA[เพื่อรับเครดิตสำหรับหลักสูตรนี้ และรับประกาศนียบัตรแสดงการสำเร็จหลักสูตร คุณต้องศึกษาโมดูลหลักสูตรที่ไฮไลท์ทั้งหมดให้สำเร็จ ซึ่งแสดงในรูปแบบสี ]]></text>
+        <text><![CDATA[คุณอาจเห็นโมดูลที่เป็นสีเทา และมีการกำกับไว้ว่า “ทางเลือก” เนื่องจากบทบาทหรือคะแนนของคุณในแบบประเมินก่อนเริ่มหลักสูตร คุณสามารถดูหลักสูตรเหล่านี้ได้แต่ไม่จำเป็นต้องศึกษาให้สำเร็จ ยกเว้นในกรณีที่คุณต้องการ]]></text>			
+        <text><![CDATA[]]></text>			
+    </contentText>
+	
+    <buttonText>
+        <text><![CDATA[เริ่ม]]></text>
+    </buttonText>
+	<optionalText>
+        <text><![CDATA[ทางเลือก]]></text>
+    </optionalText>
+    <bookMark>
+        <text><![CDATA[คุณต้องการไปยัง<br />หน้าที่อ่านล่าสุดหรือไม่]]></text>
+        <buttonText>
+            <text><![CDATA[ดำเนินการต่อ]]></text>
+            <text><![CDATA[เริ่มใหม่]]></text>
+        </buttonText>
+    </bookMark>
+    <monthArr>
+        <text><![CDATA[มกราคม]]></text>
+        <text><![CDATA[กุมภาพันธ์]]></text>
+        <text><![CDATA[มีนาคม]]></text>
+        <text><![CDATA[เมษายน]]></text>
+        <text><![CDATA[พฤษภาคม]]></text>
+        <text><![CDATA[มิถุนายน]]></text>
+        <text><![CDATA[กรกฎาคม]]></text>
+        <text><![CDATA[สิงหาคม]]></text>
+        <text><![CDATA[กันยายน]]></text>
+        <text><![CDATA[ตุลาคม]]></text>
+        <text><![CDATA[พฤศจิกายน]]></text>
+        <text><![CDATA[ธันวาคม]]></text>
+    </monthArr>
+    <module id="1" imgPath="content/images/ltr/menuImages/Module_01.png" imgPopPath="content/images/ltr/menuImages/Module_01_popup.png">
+        <title><![CDATA[ผลประโยชน์ทับซ้อน]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<p>ผลประโยชน์ทับซ้อนเกิดขึ้นเมื่อผลประโยชน์ส่วนตัวของคุณขัดแย้งกับผลประโยชน์ของบริษัท ซึ่งอาจเป็นอันตรายต่อความสามารถในการตัดสินใจทางธุรกิจที่ดีของคุณ</p><p>เรียนรู้วิธีในการดูรู้และหลีกเลี่ยงผลประโยชน์ทับซ้อนในการทำงานให้กับจอห์นสัน คอนโทรลส์ ของคุณ</p><span>เวลาที่ใช้ 6 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[ยินดีต้อนรับสู่: การหลีกเลี่ยงผลประโยชน์ทับซ้อน]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ความขัดแย้งที่อาจเกิดขึ้นได้ในสถานการณ์ทั่วไป]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[การดูรู้ว่ามีผลประโยชน์ทับซ้อน]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[การดูรู้ว่ามีผลประโยชน์ทับซ้อน]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[กรณีศึกษา: ผลประโยชน์ทับซ้อนสามารถทำร้ายบริษัทได้]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ผลที่ตามมาของผลประโยชน์ทับซ้อน]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[วิธีการรับมือกับผลประโยชน์ทับซ้อน]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[บทสรุปและรายชื่อติดต่อที่สำคัญ]]></title>
+        </page>			
+    </module>
+    <module id="2" imgPath="content/images/ltr/menuImages/Module_02.png" imgPopPath="content/images/ltr/menuImages/Module_02_popup.png">
+        <title><![CDATA[การใช้ของกำนัลและความบันเทิงอย่างเหมาะสม]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<p>แลกเปลี่ยนของกำนัลหรือความบันเทิงสามารถสร้างความสัมพันธ์ทางธุรกิจได้ แต่อาจเกิดปัญหาหากไม่ได้รับการจัดการอย่างเหมาะสม</p><p>เรียนรู้วิธีทำให้แน่ใจว่าคุณเสนอหรือรับเฉพาะของกำนัลและความบันเทิงที่เหมาะสม</p><span>เวลาที่ใช้ 6 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[ยินดีต้อนรับสู่: การใช้ของกำนัลและความบันเทิงอย่างเหมาะสม]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ต้องมีการตัดสินใจที่ดี]]></title>
+        </page>
+        <page>
+            <title><![CDATA[จริงหรือเท็จ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การพิจารณาของกำนัลและความบันเทิง]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ของกำนัลและความบันเทิง:]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ถึงคราวของคุณแล้ว]]></title>
+        </page>
+        <page>
+            <title><![CDATA[อื่น ๆ เกี่ยวกับของกำนัล]]></title>
+        </page>
+        <page>
+            <title><![CDATA[เช็คลิสต์สำหรับของกำนัล]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ถึงคราวของคุณแล้ว]]></title>
+        </page>
+        <page>
+            <title><![CDATA[อื่น ๆ เกี่ยวกับความบันเทิง]]></title>
+        </page>
+        <page>
+            <title><![CDATA[เช็คลิสต์สำหรับความบันเทิง]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ถึงคราวของคุณแล้ว]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การติดต่อกับเจ้าหน้าที่ของรัฐ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[บทสรุปและรายชื่อติดต่อที่สำคัญ]]></title>
+        </page>				
+    </module>
+    <module id="3" imgPath="content/images/ltr/menuImages/Module_03.png" imgPopPath="content/images/ltr/menuImages/Module_03_popup.png">
+        <title><![CDATA[การหลีกเลี่ยงการติดสินบนในธุรกิจของเรา]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<p>ชื่อเสียงของเราต้องอาศัยการประกอบธุรกิจอย่างซื่อสัตย์และเป็นธรรม การติดสินบนและการทุจริตเป็นสิ่งผิดกฎหมาย และไม่ใช่วิธีที่เราใช้</p><p>เรียนรู้เกี่ยวกับการดูรู้ว่าเป็นการติดสินบนและการทุจริตแม้ในรูปแบบที่ละเอียดอ่อน และปกป้องการเข้าไปพัวพันกับอาชญากรรมที่อาจเกิดขึ้นได้โดยไม่รู้เนื้อรู้ตัว</p><span>เวลาที่ใช้ 6 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[ยินดีต้อนรับสู่: การหลีกเลี่ยงการติดสินบนในธุรกิจของเรา]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การดูออกว่าสถานการณ์ใดเป็นสถานการณ์ที่มีความเสี่ยง]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การดูรู้ว่าเป็นการติดสินบน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การดูรู้ว่าเป็นการทุจริต]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ถึงคราวของคุณแล้ว]]></title>
+        </page>
+        <page>
+            <title><![CDATA[กรณีศึกษา การให้ความร่วมมืออย่างเต็มที่และเปิดเผยข้อมูล]]></title>
+        </page>
+        <page>
+            <title><![CDATA[คุณสามารถป้องกันการติดสินบนและการทุจริตได้อย่างไร]]></title>
+        </page>
+       <page>
+            <title><![CDATA[ผลลัพธ์]]></title>
+        </page> 
+        <page>
+            <title><![CDATA[การจ่ายค่าอำนวยความสะดวกคืออะไร?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[บทสรุปและรายชื่อติดต่อที่สำคัญ]]></title>
+        </page>				
+    </module>
+    <module id="4" imgPath="content/images/ltr/menuImages/Module_04.png" imgPopPath="content/images/ltr/menuImages/Module_04_popup.png">
+        <title><![CDATA[การเก็บข้อมูลส่วนตัวให้ปลอดภัย]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<p>พวกเราทุกคนต่างมีความรับผิดชอบที่จะต้องรักษาข้อมูลส่วนบุคคลของผู้ซื้อ พนักงาน และพาร์ทเนอร์ธุรกิจ</p><p>เรียนรู้วิธีที่คุณสามารถช่วยสนับสนุนความมุ่งมั่นของบริษัทในด้านความเป็นส่วนตัวของข้อมูลและการใช้โซเชียลมีเดียอย่างมีความรับผิดชอบ</p><span>เวลาที่ใช้ 6 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[ยินดีต้อนรับสู่: การเก็บข้อมูลส่วนตัวให้ปลอดภัย]]></title>
+        </page>
+        <page>
+            <title><![CDATA[กรณีความสะดวก]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ภาพรวมของข้อมูลส่วนบุคคล]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ทำไมความเป็นส่วนตัวจึงสำคัญ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การดูรู้ว่าเป็นข้อมูลส่วนบุคคล]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การปกป้องข้อมูลส่วนบุคคล]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การเข้าใจการปกป้องข้อมูลส่วนบุคคล]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ความเป็นส่วนตัวและโซเชียลมีเดีย]]></title>
+        </page>
+        <page>
+            <title><![CDATA[อยู่อย่างปลอดภัยในที่สาธารณะ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การปกป้องพาร์สเวิร์ด]]></title>
+        </page>
+        <page>
+            <title><![CDATA[คุณกำลังทำให้ข้อมูลส่วนบุคคลตกอยู่ในความเสี่ยงหรือไม่]]></title>
+        </page>
+        <page>
+            <title><![CDATA[บทสรุปและรายชื่อติดต่อที่สำคัญ]]></title>
+        </page>				
+    </module>
+    <module id="5" imgPath="content/images/ltr/menuImages/Module_05.png" imgPopPath="content/images/ltr/menuImages/Module_05_popup.png">
+        <title><![CDATA[ข้อกำหนดทางการค้าในการทำธุรกิจทั่วโลก ]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<p>ในฐานะบริษัทที่ดำเนินธุรกิจทั่วโลก จอห์นสัน คอนโทรลส์ ต้องปฏิบัติตามการควบคุมทางการค้าหลากหลายประเภทที่ตั้งขึ้นโดยองค์กรนานาชาติและรัฐบาลต่างประเทศ</p><p>เรียนรู้เกี่ยวกับการควบคุมทางการค้าที่อาจกระทบกับงานของคุณ และสิ่งที่คุณสามารถทำได้เพื่อสนับสนุนความรับผิดชอบทางการค้าของบริษัทเรา</p><span>เวลาที่ใช้ 6 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[ยินดีต้อนรับสู่: ข้อกำหนดทางการค้าในการทำธุรกิจทั่วโลก]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ข้อเรียกร้องจากต่างประเทศ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ข้อเรียกร้องจากต่างประเทศ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ข้อเรียกร้องจากต่างประเทศ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ข้อเรียกร้องจากต่างประเทศ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ข้อเรียกร้องจากต่างประเทศ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ข้อเรียกร้องจากต่างประเทศ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[จะรับรู้ว่าเป็นการส่งออกได้อย่างไร]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ยืนยันความเข้าใจของคุณ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ทำไมจึงมีการควบคุมทางการค้า]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[คุณต้องทำอะไรบ้าง]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ถึงคราวของคุณแล้ว]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[บทสรุปและรายชื่อติดต่อที่สำคัญ]]></title>
+        </page>				
+    </module>
+    <module id="6" imgPath="content/images/ltr/menuImages/Module_06.png" imgPopPath="content/images/ltr/menuImages/Module_06_popup.png">
+        <title><![CDATA[การขายโดยมีศีลธรรม]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<p>ที่จอห์นสัน คอนโทรลส์ เราทำการขายโดยมีศีลธรรม และปฏิบัติตามกฎหมายด้านการแข่งขันทั้งหมด กฎหมายนี้ทำให้แน่ใจว่ามีความยุติธรรมและความอิสระในตลาด และห้ามไม่ไห้บริษัทใช้ตำแหน่งที่เหนือกว่าอย่างไม่เป็นธรรม</p><p>เรียนรู้เกี่ยวกับความมุ่งมั่นของบริษัทของเราในการแข่งขันอย่างยุติธรรม และวิธีที่จะรักษามาตรฐานของเราในด้านนี้</p><span>เวลาที่ใช้ 6 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[ยินดีต้อนรับสู่: การขายโดยมีศีลธรรม]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ทำไมจึงมีกฎหมายด้านการแข่งขัน]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[การดูรู้ว่าข้อตกลงไม่เหมาะสม]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[การดูรู้ว่าการแข่งขันไม่ยุติธรรม]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[การรับมือกับตำแหน่งผู้นำในตลาด]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[การหลีกเลี่ยงการใช้ตำแหน่งผู้นำในตลาดอย่างไม่เป็นธรรม]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[กรณีศึกษา]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[การหลีกเลี่ยงการละเมิดกฎหมายด้านการแข่งขัน]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[บทสรุปและรายชื่อติดต่อที่สำคัญ]]></title>
+        </page>				
+    </module>
+    <module id="7" imgPath="content/images/ltr/menuImages/Module_07.png" imgPopPath="content/images/ltr/menuImages/Module_07_popup.png">
+        <title><![CDATA[การปกป้องทรัพย์สินทางปัญญา]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<p>ทรัพย์สินทางปัญญา เช่น สิทธิบัตร เครื่องหมายทางการค้า และลิขสิทธิ์ มีความสำคัญต่อธุรกิจของจอห์นสัน คอนโทรลส์ และเรามีหน้าที่ต้องปกป้องสิ่งเหล่านี้ </p><p>เรียนรู้ว่าการกระทำของคุณสามารถช่วยปกป้องทรัพย์สินทางปัญญาของบริษัทไม่ให้ถูกขโมย หรือนำใช้ไปในทางที่ผิดได้อย่างไร</p><span>เวลาที่ใช้ 6 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[ยินดีต้อนรับสู่: การปกป้องทรัพย์สินทางปัญญาของเรา]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[อะไรคือทรัพย์สินทางปัญญา]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[ตรวจสอบความเข้าใจของคุณ]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[ประเภทของทรัพย์สินทางปัญญา]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[ค่าสูญเสียทรัพย์สินทางปัญญา]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[ถึงคราวของคุณแล้ว]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[หน้าที่ของคุณ]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[การใช้เครื่องหมายการค้า]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[คุณจะทำอย่างไร]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[บทสรุปและรายชื่อติดต่อที่สำคัญ]]></title>
+        </page>				
+    </module>
+    <module id="8" imgPath="content/images/ltr/menuImages/Module_08.png" imgPopPath="content/images/ltr/menuImages/Module_08_popup.png">
+        <title><![CDATA[การรักษาข้อมูลที่เป็นความลับ]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<p>ในที่ทำงาน คุณอาจรู้ข้อมูลลับเกี่ยวกับบริษัท ลูกค้า หรือธุรกิจของเรา</p><p>เรียนรู้เกี่ยวกับข้อกำหนดของจอห์นสัน คอนโทรลส์ สำหรับการจัดการและปกป้องข้อมูลดังกล่าว</p><span>เวลาที่ใช้ 6 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[ยินดีต้อนรับสู่: การรักษาข้อมูลที่เป็นความลับ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[สถานการณ์ที่มีความเสี่ยง]]></title>
+        </page>
+		<page>
+            <title><![CDATA[สถานการณ์ที่มีความเสี่ยง]]></title>
+        </page>
+        <page>
+            <title><![CDATA[สถานการณ์ที่มีความเสี่ยง]]></title>
+        </page>
+        <page>
+            <title><![CDATA[สถานการณ์ที่มีความเสี่ยง]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การทำงานเกี่ยวกับข้อมูลทุกวัน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[อะไรบ้างที่คุณควรเก็บเป็นความลับ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[จำกัด ปกป้อง ลบ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[มีอะไรบ้างที่คุณสามารถทำเพื่อปกป้องข้อมูลความลับ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ถึงคราวของคุณแล้ว]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ใช้ข้อตกลงรักษาความลับเพื่อเพิ่มการปกป้องขึ้นอีกชั้น]]></title>
+        </page>
+        <page>
+            <title><![CDATA[บทสรุปและรายชื่อติดต่อที่สำคัญ]]></title>
+        </page>
+    </module>
+    <module id="9" imgPath="content/images/ltr/menuImages/Module_09.png" imgPopPath="content/images/ltr/menuImages/Module_09_popup.png">
+        <title><![CDATA[การได้มาซึ่งความรอบรู้ในเชิงการแข่งขันอย่างยุติธรรม]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<p>ความรอบรู้ในเชิงการแข่งขันสามารถช่วยให้เราเข้าใจสภาพแวดล้อมของธุรกิจของเราได้ดียิ่งขึ้น แต่มีมาตรฐานทางจริยธรรมที่เข้มงวดสำหรับวิธีที่เราได้ข้อมูลนี้มา</p><p>เรียนรู้วิธีรวบรวมและใช้ความรอบรู้ในเชิงการแข่งขันในแบบที่สอดคล้องกับนโยบายของจอห์นสัน คอนโทรลส์ และกฎหมาย</p><span>เวลาที่ใช้ 6 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[ยินดีต้อนรับสู่: การได้มาซึ่งความรอบรู้ในเชิงการแข่งขันอย่างยุติธรรม]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[การรวบรวมข้อมูลอย่างผิดวิธี]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ข้อมูลอะไรบ้างที่เป็นความลับ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[มีอะไรผิดพลาดได้บ้าง]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[หลีกเลี่ยงการหลอกลวง ความไม่ซื่อสัตย์ และกลโกง]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ยืนยันความเข้าใจของคุณ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[บทสรุปและรายชื่อติดต่อที่สำคัญ]]></title>
+        </page>				
+    </module>
+    <module id="10" imgPath="content/images/ltr/menuImages/Module_10.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup.png">
+        <title><![CDATA[บททดสอบแนวปฏิบัติทางจรรยาบรรณ 2018]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<p>ใช้สิ่งที่คุณได้เรียนรู้ในบททดสอบในทางปฏิบัติ ใช้การตัดสินใจที่ดีที่ทำให้บรรลุเป้าหมายทางธุรกิจและหลีกเลี่ยงผลที่ตามมาซึ่งก่อให้เกิดความเสียหาย</p><span>เวลาที่ใช้ 10 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[]]></title>
+        </page>					
+    </module>
+    <module id="11" imgPath="content/images/ltr/menuImages/Module_10_1.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup1.png">
+        <title><![CDATA[สำนักงาน สภาพแวดล้อมการตลาดและการขาย]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+		<overText><![CDATA[<span class="subMenuStart">คลิกที่ “เริ่มต้น” เพื่อเข้าสู่บททดสอบ</span>]]></overText>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องด่วน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องด่วน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องด่วน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องด่วน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ข้อเรียกร้องด่วน]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[บทเรียนสำคัญ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[บทเรียนสำคัญ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ซัพพลายเออร์ที่น่าพอใจ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[บทเรียนสำคัญ]]></title>
+        </page>				
+    </module>
+    <module id="12" imgPath="content/images/ltr/menuImages/Module_10_2.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup2.png">
+        <title><![CDATA[ฝ่ายบริการลูกค้า]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+         <overText><![CDATA[<span class="subMenuStart">คลิกที่ “เริ่มต้น” เพื่อเข้าสู่บททดสอบ</span>]]></overText>
+        <page>
+            <title><![CDATA[หน้าที่ที่ขัดแย้งกัน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[หน้าที่ที่ขัดแย้งกัน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[หน้าที่ที่ขัดแย้งกัน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[หน้าที่ที่ขัดแย้งกัน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[หน้าที่ที่ขัดแย้งกัน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[หน้าที่ที่ขัดแย้งกัน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[หน้าที่ที่ขัดแย้งกัน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[หน้าที่ที่ขัดแย้งกัน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[บทเรียนสำคัญ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การช่วยเหลือเพื่อนร่วมงาน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การช่วยเหลือเพื่อนร่วมงาน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การช่วยเหลือเพื่อนร่วมงาน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การช่วยเหลือเพื่อนร่วมงาน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การช่วยเหลือเพื่อนร่วมงาน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การช่วยเหลือเพื่อนร่วมงาน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การช่วยเหลือเพื่อนร่วมงาน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[บทเรียนสำคัญ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดวิสัย]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดวิสัย]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดวิสัย]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดวิสัย]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดวิสัย]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดวิสัย]]></title>
+        </page>
+        <page>
+            <title><![CDATA[บทเรียนสำคัญ]]></title>
+        </page>
+    </module>
+    <module id="13" imgPath="content/images/ltr/menuImages/Module_10_3.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup3.png">
+        <title><![CDATA[สภาพแวดล้อมนอกสถานที่ทำงาน]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[<span class="subMenuStart">คลิกที่ “เริ่มต้น” เพื่อเข้าสู่บททดสอบ</span>]]></overText>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่น่าประหลาดใจ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่น่าประหลาดใจ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่น่าประหลาดใจ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่น่าประหลาดใจ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่น่าประหลาดใจ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่น่าประหลาดใจ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่น่าประหลาดใจ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่น่าประหลาดใจ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่น่าประหลาดใจ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่น่าประหลาดใจ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[บทเรียนสำคัญ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[บทเรียนสำคัญ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การออกไปเที่ยวกลางคืน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การออกไปเที่ยวกลางคืน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ข้อเรียกร้องที่ผิดปกติ]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การออกไปเที่ยวกลางคืน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การออกไปเที่ยวกลางคืน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การออกไปเที่ยวกลางคืน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การออกไปเที่ยวกลางคืน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การออกไปเที่ยวกลางคืน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การออกไปเที่ยวกลางคืน]]></title>
+        </page>
+        <page>
+            <title><![CDATA[บทเรียนสำคัญ]]></title>
+        </page>
+    </module>
+    <module id="14" imgPath="content/images/ltr/menuImages/Module_11.png" imgPopPath="content/images/ltr/menuImages/Module_11_popup.png">
+        <title><![CDATA[การตรวจสอบความรู้]]></title>
+        <altText><![CDATA[พนักงานของจอห์นสัน คอนโทรลส์]]></altText>
+        <overText><![CDATA[แสดงให้เห็นว่าคุณเรียนรู้อะไรบ้าง และรับประกาศนียบัตรสำเร็จการศึกษาหลักสูตร<span>เวลาที่กำหนด: 5-10 นาที</span>]]></overText>
+        <page>
+            <title><![CDATA[การตรวจสอบความรู้]]></title>
+        </page>
+        <page>
+            <title><![CDATA[การตรวจสอบความรู้]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ผลการทดสอบของคุณ]]></title>
+        </page>
+    </module>
+    <module id="15" imgPath="content/images/ltr/menuImages/Module_12.png" imgPopPath="content/images/ltr/menuImages/Module_12_popup.png">
+        <title><![CDATA[ประกาศนียบัตรของคุณ]]></title>
+        <altText><![CDATA[ผู้ชายกำลังใช้คอมพิวเตอร์]]></altText>
+        <overText><![CDATA[รับประกาศนียบัตรสำเร็จการศึกษาหลักสูตรของคุณ]]></overText>
+        <page>
+            <title><![CDATA[ประกาศนียบัตรของคุณ]]></title>
+        </page>
+    </module>
+	
+    <tootTip>
+        <element button=".btn_Next" location="top" gap="8" width="60"><![CDATA[ถัดไป]]></element>
+        <element button=".nextBlink" location="top" gap="8" width="60"><![CDATA[ถัดไป]]></element>
+        <element button=".btn_Back" location="top" gap="8" width="60"><![CDATA[กลับ]]></element>
+        <element button=".replayPage" location="top" gap="10" width="60"><![CDATA[เล่นซ้ำ]]></element>
+        <element button=".transcriptOn" location="top" gap="10" width="100"><![CDATA[ปิดคำบรรยาย]]></element>
+        <element button=".transcriptOff" location="top" gap="10" width="100"><![CDATA[เปิดคำบรรยาย]]></element>
+        <element button=".audioOn" location="top" gap="10" width="80"><![CDATA[ปิดเสียง]]></element>
+        <element button=".audioOff" location="top" gap="10" width="80"><![CDATA[เปิดเสียง]]></element>
+        <element button=".btn_Menu" location="top" gap="10" width="60"><![CDATA[หน้าหลัก]]></element>
+        <element button=".fw_CloseTranscript" location="bottom" gap="10" width="60"><![CDATA[ปิด]]></element>
+        <element button=".fw_MenuClose" location="top" gap="10" width="60"><![CDATA[ปิด]]></element>
+        <element button=".menuBlink" location="top" gap="10" width="60"><![CDATA[ถัดไป]]></element> 
+        <element button=".fw_GlossaryClose" location="top" gap="10" width="60"><![CDATA[ปิด]]></element> 
+        <element button=".btn_Exit" location="top" gap="10" width="60"><![CDATA[ปิด]]></element> 
+    </tootTip>
+	
+    <transcriptGlobalText>
+	  <text><![CDATA[ช่องสำหรับลาก]]></text>
+    </transcriptGlobalText>
+	
+    <reEntryProfilerPopup>
+        <text><![CDATA[หากมีการเปลี่ยนแปลงโปรไฟล์ของคุณ ข้อมูลสถานะในบทเรียนทั้งหมดของคุณจะหายไป ซึ่งหมายความว่าคุณจะต้องเข้าร่วมโมดูลที่กำหนดทั้งหมดใหม่ รวมทั้งที่ศึกษาเสร็จแล้ว หากคุณผ่านหัวข้อการตรวจสอบความรู้แล้ว ข้อมูลการผ่านกิจกรรมจะยังคงเก็บรักษาไว้ตามเดิม คุณยังต้องการดำเนินการต่อหรือไม่]]></text>
+        <text><![CDATA[ใช่]]></text>
+        <text><![CDATA[ไม่ใช่]]></text>
+    </reEntryProfilerPopup>
+ 
+</course>

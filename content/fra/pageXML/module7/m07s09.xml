@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[Ce scénario s’est présenté à un salarié Johnson Controls. Que feriez-vous dans une telle situation ? Sélectionnez une option puis cliquez sur Soumettre.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Vous êtes un gestionnaire de produits dans une réunion de routine avec l'acheteur d’un client. Lors de la réunion, vous ouvrez une base de données confidentielle contenant les tarifs client et les volumes de vente pour répondre aux questions du client. L’acheteur a regardé par-dessus votre épaule et insiste pour que vous lui envoyiez le fichier complet. Que devez-vous faire ?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[Gestionnaire de produits dans une réunion avec l'acheteur d’un client]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 10px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;line-height:20px;">
+		<text><![CDATA[Sélectionnez une option puis cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px;line-height:18px;">
+		<option><![CDATA[Partager la base de données avec le client. La réussite de notre client est une de nos principales priorités]]></option>	
+		<option><![CDATA[Expliquer que la base de données inclut des informations appartenant à d’autres clients et que vous ne pouvez pas la partager. Si le client insiste, mettez un terme à la réunion et contactez votre responsable ou le service juridique pour obtenir des conseils]]></option>	
+		<option><![CDATA[Partager la base de données avec le client après qu’il ait signé un accord de confidentialité]]></option>	
+		<option><![CDATA[Contacter un avocat et initier une procédure litigieuse à l’encontre du client avant qu’il utilise les informations exclusives dans son entreprise]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="line-height:18px;" fcStyle="top:-230px;z-index: 9;">
+			<text style="font-size:17px;"><![CDATA[C’est exact.]]></text>
+			<text><![CDATA[Les clients communiquent leurs données, telles que les coordonnées et les informations bancaires, en s’attendant à ce que Johnson Controls protège leur confidentialité.]]></text>
+			<text><![CDATA[Ce type d’informations confidentielles sur des clients ne doit jamais être communiqué à d’autres clients de Johnson Controls.]]></text>
+			<text><![CDATA[Voici quelques conséquences du partage de ces informations : <ul> <li>les clients dont les informations ont été divulguées pourraient nous attaquer en justice</li> <li>nous pourrions être accusés d’entente sur les prix</li> <li>nous pourrions compromettre les droits de propriété intellectuelle relatifs à notre base de données</li> <li>nous pourrions compromettre notre capacité à proposer des services de management de produits à nos clients</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="line-height:18px;" fcStyle="top:-230px;z-index: 9;">
+			<text style="font-size:17px;"><![CDATA[C’est faux.]]></text>
+			<text><![CDATA[Les clients communiquent leurs données, telles que les coordonnées et les informations bancaires, en s’attendant à ce que Johnson Controls protège leur confidentialité.]]></text>
+			<text><![CDATA[Ce type d’informations confidentielles sur des clients ne doit jamais être communiqué à d’autres clients de Johnson Controls.]]></text>
+			<text><![CDATA[Voici quelques conséquences du partage de ces informations : <ul> <li>les clients dont les informations ont été divulguées pourraient nous attaquer en justice</li> <li>nous pourrions être accusés d’entente sur les prix</li> <li>nous pourrions compromettre les droits de propriété intellectuelle relatifs à notre base de données</li> <li>nous pourrions compromettre notre capacité à proposer des services de management de produits à nos clients</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

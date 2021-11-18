@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s03">
+	<transcript>
+		<text path="audio/module6/m06s03" id="0"><![CDATA[竞争法禁止的行为有哪些？ 单击每个“显示”按钮，了解更多信息。]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[竞争法禁止竞争对手之间达成会影响价格或限制客户选择的协议。]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s03/contentBackground.jpg" minwidth="769"><![CDATA[竞争对手间的会议]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[单击每个“显示”按钮，了解更多信息。 您可能需要滑动以查看完整答案。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[显示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s03/img1.png"><![CDATA[显示价格折扣的照片]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[价格操纵]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[价格操纵是指两个或多个竞争对手为确定商品或服务的价格而达成的协议。 这类协议通常为非法的。]]></text>						
+				<text><![CDATA[价格操纵的情形包括您和另一竞争对手商定： <ul> <li>保持物价稳定</li> <li>采用大家熟知的价格计算公式</li> <li>坚持最低费用或价格计划</li> <li>取消或减少折扣</li> </ul>]]></text>						
+			</popText>
+			
+			
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s03/img2.png"><![CDATA[竞争对手间达成协议]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[围标]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[围标是指两个或多个竞争对手之间达成协议，预先确定由其中一家赢得特定竞标或招标。]]></text>					
+				<text><![CDATA[围标的情形包括您和另一竞争对手商定： <ul> <li>不竞标或撤出已提交的竞标，从而让某一竞争对手（或您）赢得竞标</li> <li>故意提交不可能赢得竞标，但披有合法外衣的虚高的竞标价格 - 此类竞标目的并非中标，而是有意失败，从而保证竞争对手可以按预先计划赢得竞标</li> <li>提交竞标，但轮流成为低价竞标者</li> </ul>]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img3.png"><![CDATA[竞争对手商定不与特定供应商进行交易]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[联合抵制]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[联合抵制指两家或多家竞争对手间达成协议，拒绝与特定供应商或客户进行交易，以惩罚、处罚该供应商或客户的行为或损害其利益。]]></text>
+				<text><![CDATA[联合抵制的情形包括您由于某特定客户先前曾选择与其他竞争对手合作某大型项目，而与另一竞争对手商定不与该客户合作，以示惩罚。]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img4.png"><![CDATA[竞争对手商定划分客户]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[市场划分]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[市场划分指两个或多个竞争对手为划分客户或市场而达成的协议。]]></text>			
+				<text><![CDATA[如果您和另一竞争对手间达成与特定客户交易的协议，就可能会被认定为划分市场，例如：<ul><li>“我负责客户 A，你负责客户 B”</li><li>“我负责北部的客户，你负责南部的客户”</li></ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img5.png"><![CDATA[两个人在商定协议]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[协议]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[违反反托拉斯法或竞争法的行为需要“协议”，但协议具体指什么？]]></text>			
+				<text><![CDATA[违反法律的协议不一定必须以书面形式呈现。 口头协议也可能会违反法律。 事实上，商定的做法或行为模式足以被归类为协议。]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

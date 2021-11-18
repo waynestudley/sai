@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s06">
+	<transcript>
+		<text path="audio/module6/m06s06" id="0"><![CDATA[Que peut-on faire de plus pour éviter les abus de marché ? Cliquez sur chaque bouton pour en savoir plus.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Lorsque nous sommes en position dominante, nous devons éviter toute action ou stratégie qui pourrait être considérée comme un abus de cette position.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s06/contentBackground.jpg" minwidth="769"><![CDATA[Arrière-plan de bureau avec 2 personnes établissant une stratégie]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 8px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Cliquez sur chaque bouton pour en savoir plus. Faites défiler le texte pour lire toute la réponse si nécessaire.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[DÉVOILER]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s06/img1.png"><![CDATA[Un ensemble de produits]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[La vente liée]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Cela se produit lorsqu’une entreprise regroupe des produits et ne les vend pas séparément.]]></text>						
+				<text><![CDATA[Le résultat est que le consommateur est forcé d’acheter un produit qu’il ne veut pas forcément pour obtenir le produit qu’il veut.]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s06/img2.png"><![CDATA[Acheteur et vendeur examinant les prix des produits]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Accord exclusif]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Cela se produit lorsqu’un acheteur est véritablement forcé d'acheter la plupart ou la totalité des produits ou services à un vendeur, généralement pendant une période donnée.]]></text>					
+				<text><![CDATA[La Commission européenne a infligé une amende de 1,06 milliard d’euros à Intel pour avoir accordé des rabais pour fidéliser ses clients afin d’exclure d'autres concurrents du marché. Les rabais étaient effectués si le client achetait la plupart ou la totalité de ce dont il avait besoin à l’entreprise dominante.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img3.png"><![CDATA[Illustration d’un panier avec une réduction de 50 %]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Prix d’éviction]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Cela se produit lorsqu’une entreprise vend des biens à des consommateurs à un prix trop bas en vendant volontairement à perte.]]></text>			
+				<text><![CDATA[Généralement, les entreprises font cela pour éliminer les concurrents qui ne peuvent pas rivaliser avec des prix aussi bas et choisissent de se retirer du marché.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img4.png"><![CDATA[Graphique montrant une hausse des prix]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Refus de transaction]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Cela se produit lorsqu’une entreprise refuse de vendre à une autre, ou uniquement à un prix beaucoup trop élevé.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img5.png"><![CDATA[Accord avec poignée de main pour empêcher un distributeur de vendre à certains clients]]></buttonImg>
+			<buttonText style="height:90px;width:167px;line-height: 16px;"><![CDATA[Prévention de la concurrence intramarque]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Elle se produit lorsque des entreprises concluent des accords avec des distributeurs qui les empêchent de vendre dans certains territoires ou à certains clients.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

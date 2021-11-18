@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s06">
+	<transcript>
+		<text path="audio/module7/m07s06" id="0"><![CDATA[Každý z těchto zaměstnanců něco řekl o duševním vlastnictví. Vyberte všechna tvrzení, se kterými souhlasíte, a pak klikněte na tlačítko Odeslat.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module7/m07s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 580px;right: 430px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Souhlasíte, nebo nesouhlasíte s jednotlivými tvrzeními o duševním vlastnictví?]]></text>
+	</contentText>
+	<instructionText style="line-height:20px;height:30px;">
+		<text><![CDATA[Vyberte, zda s těmito tvrzeními souhlasíte nebo nesouhlasíte, a klikněte na tlačítko Odeslat.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent style="width:582px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img01.png"><![CDATA[Zaměstnanec]]></img>
+			<text style="width: 312px;"><![CDATA[Pokud při práci pro společnost Johnson Controls něco vytvořím, mám právo svůj výtvor používat, jakkoli si přeji.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img02.png"><![CDATA[Zaměstnanec]]></img>
+			<text style="width: 312px;"><![CDATA[Jakmile máte k něčemu zaregistrovanou ochrannou známku či autorská práva, je to navždy chráněno.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img03.png"><![CDATA[Zaměstnankyně]]></img>	
+			<text style="width: 312px;"><![CDATA[Únik duševního vlastnictví společnosti Johnson Controls nás může obchodně poškodit.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img04.png"><![CDATA[Zaměstnankyně]]></img>	
+			<text style="width:312px;"><![CDATA[Pokud jsou informace či fotografie zdarma dostupné online, mohu je použít pro obchodní účely.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text styleWidth = "font-size:12px;"><![CDATA[Souhlasím]]></text>
+		<text styleWidth = "font-size:12px;"><![CDATA[Nesouhlasím]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -102px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Správně.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Vše co vytvoříte, vymyslíte či zdokonalíte při práci pro společnost Johnson Controls, většinou patří společnosti Johnson Controls, nikoli vám. Když z firmy odejdete, duševní vlastnictví zůstává majetkem společnosti Johnson Controls a vy ho nesmíte použít – ať už sami nebo v jiné firmě – ani ho komukoli sdělovat.</li> <li>Práva na ochranu duševního vlastnictví, včetně ochranných známek a autorských práv, se mohou oslabit, či se o ně dokonce dá přijít v důsledku nesprávného používání či nedbalosti. Na ochranu našeho duševního vlastnictví sice dohlížejí právníci společnosti Johnson Controls, ale svou úlohu tu máme všichni. Duševní vlastnictví musíme chránit při každé běžné pracovní činnosti.</li> <li>Duševní vlastnictví společnosti Johnson Controls má pro naše podnikání zásadní význam. Jeho zneužitím či sdělením nepovolaným osobám mohou firmě vzniknout vážné problémy. Někdy může dojít ke zneužití našeho duševního vlastnictví, jindy stojí za snížením konkurenceschopnosti společnosti Johnson Controls vyzrazení obchodního tajemství nebo únik průmyslových vzorů.</li> <li>Máme snadný přístup k neuvěřitelnému množství informací online, ale je-li něco veřejně dostupné, ještě to neznamená, že máme právo to používat. Většina věcí na internetu, např. texty, fotografie, animace, kód nebo software, je chráněná. Pro práci ve společnosti Johnson Controls nikdy nepoužívejte nic, co jste našli na internetu, pokud nevíte jistě, že k tomu máme svolení příslušného vlastníka.</li> </ul>]]></text>
+		</correct>
+		<incorrect style="top: -102px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[To není správně.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Vše co vytvoříte, vymyslíte či zdokonalíte při práci pro společnost Johnson Controls, většinou patří společnosti Johnson Controls, nikoli vám. Když z firmy odejdete, duševní vlastnictví zůstává majetkem společnosti Johnson Controls a vy ho nesmíte použít – ať už sami nebo v jiné firmě – ani ho komukoli sdělovat.</li> <li>Práva na ochranu duševního vlastnictví, včetně ochranných známek a autorských práv, se mohou oslabit, či se o ně dokonce dá přijít v důsledku nesprávného používání či nedbalosti. Na ochranu našeho duševního vlastnictví sice dohlížejí právníci společnosti Johnson Controls, ale svou úlohu tu máme všichni. Duševní vlastnictví musíme chránit při každé běžné pracovní činnosti.</li> <li>Duševní vlastnictví společnosti Johnson Controls má pro naše podnikání zásadní význam. Jeho zneužitím či sdělením nepovolaným osobám mohou firmě vzniknout vážné problémy. Někdy může dojít ke zneužití našeho duševního vlastnictví, jindy stojí za snížením konkurenceschopnosti společnosti Johnson Controls vyzrazení obchodního tajemství nebo únik průmyslových vzorů.</li> <li>Máme snadný přístup k neuvěřitelnému množství informací online, ale je-li něco veřejně dostupné, ještě to neznamená, že máme právo to používat. Většina věcí na internetu, např. texty, fotografie, animace, kód nebo software, je chráněná. Pro práci ve společnosti Johnson Controls nikdy nepoužívejte nic, co jste našli na internetu, pokud nevíte jistě, že k tomu máme svolení příslušného vlastníka.</li> </ul>]]></text>	
+		</incorrect>		
+	</feedback>
+	
+</contents>

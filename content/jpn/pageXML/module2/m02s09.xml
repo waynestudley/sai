@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s09" id="0"><![CDATA[受け入れられるものと受け入れられないものについて、あなたの理解を確認してみましょう。 各オプションについて、受け入れられるか受け入れられないかを答え「送信」をクリックしてください。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s09/contentBackground.jpg" minwidth="769"><![CDATA[贈答品]]></img>
+	</contentBackground>
+	<contentBg style="width: 647px;right: 358px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[これらの贈答品は受け入れられるでしょうか受け入れられないでしょうか?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[<span style="font-size:13px;">各オプションについて、受け入れられるか受け入れられないかを答え「送信」をクリックしてください。</span>]]></text>
+		<text><![CDATA[<span style="font-size:13px;">先に進むには「次へ」をクリックします。</span>]]></text>
+	</instructionText>
+	<optionContent style="width:650px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img01.png"><![CDATA[Johnson Controlsのペン]]></img>
+			<text style="width: 336px;"><![CDATA[Johnson Controlsでは、プロジェクトが無事完了すると、お客様にJohnson Controlsのロゴの入ったペンを送ります]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img02.png"><![CDATA[ギフトカードを持っている従業員]]></img>
+			<text style="width: 336px;"><![CDATA[ホリデーの間、サプライヤーがJohnson Controlsの従業員に50米ドル相当のギフト券を贈りました。]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img03.png"><![CDATA[ボックス席]]></img>	
+			<text style="width: 336px;"><![CDATA[ベンダーが、プロフェッショナルスポーツの優勝決定戦のボックスシート座席を4枚くれて、このチケットはベンダーの会社から無料でもらったものだから、と言います。]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img04.png"><![CDATA[シャンペンのボトルを持つ従業員]]></img>	
+			<text style="width:336px;"><![CDATA[Johnson Controlsの最近の契約に入札している、長きにわたって関係のあるサプライヤーが、Johnson Controlsチームにシャンペンのボトルを数本送ってきました]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;font-size:11px;"><![CDATA[受け入れられる]]></text>
+		<text styleWidth="width:100px;font-size:11px;"><![CDATA[受け入れられない]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -91px;width: 300px;height: 430px;padding-top: 20px;right: -335px;line-height:18px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[正解です。]]></text>			
+			<text style="font-size: 12px;line-height:17px"><![CDATA[<ul> <li>Johnson Controlsで報告の必要な贈答品のしきい値は、200米ドルです。 </li> <li>あなたに影響を与えようという意図、または将来義務感を抱かせるような意図がないことを条件に、200米ドル以下の贈答品であれば受け入れることができます。 </li> <li>200米ドル以上（試合のチケットなど）の贈答品を提供されたら、贈答品フォームを使ってこれを開示する必要があります。 フォームを確認した後、その贈答品を保持していてよいか否かについてあなたに指示が行きます。</li> <li>ギフトカードのような現金同等物または現金については、提供することも受け取ることもできません。</li> <li>民間企業のお客様に提供される贈答品は、あなたの事業部門のマネージャーにより事前に承認される必要があります。 </li> <li>政府職員に提供される贈答品には、ABフォームを使用し、7日前の事前申請が必要です。</li> <li>フォームは <a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a> にあります</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -91px;width: 300px;height: 430px;padding-top: 20px;right: -335px;line-height:18px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[不正解です。]]></text>	
+			<text style="font-size: 12px;line-height:17px"><![CDATA[<ul> <li>Johnson Controlsで報告の必要な贈答品のしきい値は、200米ドルです。 </li> <li>あなたに影響を与えようという意図、または将来義務感を抱かせるような意図がないことを条件に、200米ドル以下の贈答品であれば受け入れることができます。 </li> <li>200米ドル以上（試合のチケットなど）の贈答品を提供されたら、贈答品フォームを使ってこれを開示する必要があります。 フォームを確認した後、その贈答品を保持していてよいか否かについてあなたに指示が行きます。</li> <li>ギフトカードのような現金同等物または現金については、提供することも受け取ることもできません。</li> <li>民間企業のお客様に提供される贈答品は、あなたの事業部門のマネージャーにより事前に承認される必要があります。 </li> <li>政府職員に提供される贈答品には、ABフォームを使用し、7日前の事前申請が必要です。</li> <li>フォームは <a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a> にあります</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

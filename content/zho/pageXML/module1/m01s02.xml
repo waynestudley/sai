@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m01s02">
+	<transcript>
+		<text path="audio/module1/m01s02" id="0"><![CDATA[考虑外部人员对某一状况的观感至关重要。 您是否看起来像是受到特殊待遇或偏袒所影响？ 若是，则可能构成冲突。 以下是一些可能发生冲突的状况。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[以下是一些产生利益冲突的常见状况：]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s02/contentBackground.jpg" minwidth="769"><![CDATA[同事在谈话]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[选择每个标题。 请单击 X 关闭文本框读取接下来的内容。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="230px" top="-2px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module1/m01s02/btn1.png" minwidth="769"><![CDATA[正在接受面试的家庭成员]]></img>
+			<buttonText style="height: 100px;"><![CDATA[一位朋友或家庭成员就职于，或希望就职于 Johnson Controls。]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="90px" style="height: 230px;top: -222px;">
+				<text><![CDATA[如果您的朋友或亲属在 Johnson Controls 工作或申请工作，并不会自动产生利益冲突。]]></text>						
+				<text><![CDATA[然而，如果您有权做出或影响那些可能左右他们职位的决策，如招聘、加薪、奖金、晋升等，则会产生冲突，且必须进行披露。]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="230px" top="-2px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module1/m01s02/btn2.png" minwidth="769"><![CDATA[与 Johnson controls 供应商合作的家庭成员]]></img>
+			<buttonText style="height: 100px;"><![CDATA[一位朋友或家庭成员为 Johnson Controls 供货商、供应商、客户或竞争对手工作。]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="400px" style="height: 230px;top: -222px;">
+				<text><![CDATA[这种情况属于潜在的利益冲突，必须予以披露。]]></text>
+				<text><![CDATA[您可能还需要回避与 Johnson Controls 及您的朋友或亲属工作的公司有关的任何商业决策。]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="230px" top="-2px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module1/m01s02/btn3.png" minwidth="769"><![CDATA[股票交易员进行家庭成员的交易]]></img>
+			<buttonText style="height: 100px;"><![CDATA[您或您的直系亲属在客户、供应商或竞争对手处拥有大量金融股权。]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="760px" style="height: 230px;top: -222px;">
+				<text><![CDATA[投资于外部公司通常不会产生利益冲突，除非您在 Johnson Controls 客户、供应商或竞争对手处拥有大量股权。 当您个人（或您直系亲属）的财务收益受到 Johnson Controls 决策和行动的影响时，则会产生需要披露的潜在利益冲突。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="230px" top="-2px" left="749px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module1/m01s02/btn4.png" minwidth="769"><![CDATA[员工与经理谈论潜在的工作冲突]]></img>
+			<buttonText style="height: 100px;"><![CDATA[您就职于 Johnson Controls 之外的另一家公司。]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="760px" style="height: 230px;top: -222px;">
+				<text><![CDATA[公司并不禁止公司外供职这一行为本身，但在某些情况下可能会构成利益冲突，如：<ul> <li>您在 Johnson Controls 之外的职责影响您在 Johnson Controls 的工作职责或业绩。</li> <li>您在 Johnson Controls 之外的职位需要使用 Johnson Controls 的财产、信息或人脉。</li> <li>您供职于 Johnson Controls 的供货商、供应商、客户。</li> <li>您直接或间接帮助 Johnson Controls 的竞争对手。</li> </ul>]]></text>			
+				<text><![CDATA[在这些情况下，您必须向 Johnson Controls 报告您的兼职情况或可能的兼职情况，以获得继续工作的许可。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

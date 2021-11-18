@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[어떻게 생각하세요? 이 직원들은 개인 데이터를 충분히 안전하게 관리하고 있습니까?]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[노트북에서 데이터로 작업하는 직원]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[이 직원들이 개인 데이터를 적절히 보호하고 있다고 생각하십니까?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[각 보기에서 '예' 또는 '아니요'를 선택하고 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img01.png"><![CDATA[유인물을 버리는 직원]]></img>
+			<text style="width: 390px;"><![CDATA[다른 사람들이 액세스할 수 있는 개인 정보가 포함된 유인물을 버리는 행위]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img02.png"><![CDATA[커피를 가져가는 직원]]></img>
+			<text style="width: 390px;"><![CDATA[기밀 고객 데이터가 포함된 인쇄 작업을 기다리는 동안 커피 가지러 가기]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img03.png"><![CDATA[비밀번호]]></img>	
+			<text style="width: 390px;"><![CDATA[강력한 비밀번호를 사용하여 개인 정보가 들어 있는 문서 보호]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img04.png"><![CDATA[달력]]></img>	
+			<text style="width:390px;"><![CDATA[필요한 "만일의 경우"가 한참 지난 후에도 개인 데이터 보관]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[예]]></text>
+		<text><![CDATA[아니요]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[정답입니다.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[직원, 고객 및 비즈니스 파트너의 개인 금융 및 은행 정보를 보호하는 것은 대단히 중요합니다. 우리의 모든 보안 조치를 준수하고 다른 사람이 볼 수 있는 곳에 잠깐이라도 개인 정보를 두지 마십시오. 보관할 정당한 이유가 없어지면 정보를 적절히 폐기하십시오.]]></text>			
+		</correct>
+		<incorrect style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[틀렸습니다.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[직원, 고객 및 비즈니스 파트너의 개인 금융 및 은행 정보를 보호하는 것은 대단히 중요합니다. 우리의 모든 보안 조치를 준수하고 다른 사람이 볼 수 있는 곳에 잠깐이라도 개인 정보를 두지 마십시오. 보관할 정당한 이유가 없어지면 정보를 적절히 폐기하십시오.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

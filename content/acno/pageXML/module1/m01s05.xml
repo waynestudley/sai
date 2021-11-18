@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[Muchos casos de conflictos de intereses ocurren a pequeña escala y a nivel personal. No obstante, algunos conflictos son lo suficientemente graves como para llegar a los titulares de los medios.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[La mayoría de los conflictos de intereses son de menor escala y más personales, pero algunos son lo suficientemente graves como para ser noticia.]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[Haga clic en la flecha para obtener más información.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Gerente de cartera hablando con investigador de la Comisión de Bolsa y Valores​(SEC) de EE. UU.]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:394px;" />
+				<text style="font-weight:bold;font-size:14px;line-height:17px;"><![CDATA[Titular: Empresa de gestión de activos paga USD 12 millones para resolver acusaciones de conflictos]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[Blackrock, una importante empresa de gestión de activos, pagó USD 12 millones para resolver acusaciones de conflictos de intereses debido a las acciones de uno de sus gerentes de cartera.]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[La Comisión de Bolsa y Valores​(SEC) de EE. UU. presentó acusaciones tras descubrir que un agente que supervisaba algunos fondos de energía de Blackrock también fundó una empresa familiar de petróleo y gas durante el mismo período. La empresa familiar se había asociado con una empresa de carbón, y las acciones de esa misma empresa de carbón eran el mayor holding en un fondo que manejaba el agente.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Miembro de la junta directiva de un hospital en una conferencia de prensa]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:14px;line-height:18px;"><![CDATA[Titular: Un miembro de la junta directiva de un hospital debe pagar una multa personal de USD 13 500]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[Un miembro de la junta directiva del sistema de hospitales públicos de la ciudad de Nueva York fue multado personalmente por los conflictos descubiertos entre su función en la junta directiva y su cargo en una escuela de medicina en Granada.]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[Según las investigaciones de la Junta de Conflictos de Nueva York, se determinó que el médico había aprovechado su cargo en la junta para presionar a los hospitales de la ciudad a fin de que incrementaran el número de colocaciones para estudiantes en la escuela de medicina para la que trabajaba.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Una persona mirando acciones ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:14px;line-height:18px;"><![CDATA[Titular: JP Morgan paga USD 35 millones después de dar asesoramiento comprometido durante un acuerdo]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[El gigante de las inversiones JP Morgan pagó USD 35 millones para resolver acusaciones derivadas de sus acciones durante la venta de Good Technology a BlackBerry a fines de 2015. ]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[Los accionistas de Good Technology habían alegado que la empresa había sido vendida por debajo de su valor de mercado y que JP Morgan había obligado a Good Technology a realizar la venta porque quería conseguir el futuro negocio de banca de inversiones de BlackBerry. El tribunal estuvo de acuerdo, y concedió a los accionistas una sentencia significativa.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

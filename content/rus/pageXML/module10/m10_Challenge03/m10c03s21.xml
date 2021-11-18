@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[В конверте наличные на сумму 250 долл. США. Карлос уже отказался от подарка, а поставщик настаивает. Какие действия он должен предпринять?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[Выберите один из вариантов и щелкните «ОК».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Взять наличные и поделиться с командой так, чтобы никто не получил слишком большой суммы.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Отказаться от наличных снова.  Когда Крис отвечает, приглашая Карлоса присоединиться к нему и команде в спортивном баре во время важной игры, Карлос соглашается.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Снова отказаться от наличных, а также <span class="fontBoldItalic" >отказаться</span> от предложения пойти вместе с Крисом и его командой в спортбар на важную игру.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОК]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Карлос делится наличными с командой таким образом, чтобы никто не получил суммы, которая, согласно Johnson Controls, превышает максимальную стоимости подарка. Однако много месяцев спустя другая компания начинает расследование, обвиняя того же субподрядчика в использовании неуместных подарков с целью поощрения повторной сделки.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[После повторного отказа Карлоса от наличных, Крис осознает серьезность его намерений и делает другое предложение. Он приглашает Карлоса на важную игру в спортбаре вместе с ним и его командой.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[После повторного отказа Карлоса от наличных и приглашения команды на обед Крис осознает серьезность его намерений и больше не настаивает.]]></text>
+		</correct>
+	</feedback>
+</contents>

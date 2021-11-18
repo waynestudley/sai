@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[In de enveloppe steekt 250 dollar in contanten. Carlos heeft het geschenk al geweigerd, maar de leverancier dringt aan. Wat moet hij doen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Het contant geld houden en onder zijn teamleden verdelen, zodat niemand een groot bedrag krijgt.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Het contant geld nogmaals weigeren.  Wanneer Chris hierop reageert door Carlos uit te nodigen om met hem en het team naar een sportbar te gaan tijdens een grote wedstrijd, stemt Carlos hiermee in.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Het contant geld nogmaals weigeren, evenals het <span class="fontBoldItalic" >aanbod</span> van Chris om samen met hem naar een sportbar te gaan tijdens een grote wedstrijd.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos heeft de contanten onder zijn teamleden verdeeld, zodat geen enkele persoon een bedrag zou krijgen dat de drempelwaarde voor geschenken van Johnson Controls overschreed. Vele maanden later startte een ander bedrijf echter een onderzoek naar aantijgingen dat de onderaannemer ongepaste geschenken zou gebruiken om zich van vervolgopdrachten te verzekeren.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Nadat Carlos het contant geld een tweede maal had geweigerd, besefte Chris dat hij het meende en deed hij een nieuw aanbod. In de plaats daarvan nodigde hij Carlos uit om samen met zijn team naar een sportbar te gaan tijdens een grote wedstrijd.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Nadat Carlos het contant geld een tweede maal had geweigerd en het aanbod van Chris om met zijn team te gaan dineren had afgeslagen, besefte Chris dat hij het meende en drong hij niet langer aan.]]></text>
+		</correct>
+	</feedback>
+</contents>

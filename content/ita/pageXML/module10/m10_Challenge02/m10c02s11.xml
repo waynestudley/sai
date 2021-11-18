@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma si sente malissimo per la situazione di Sandy. Pensa che coinvolgere gli altri potrebbe essere d’aiuto. Come può fare Emma ad aiutare la sua collega?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;">
+		<text><![CDATA[Seleziona un’opzione e fai clic su OK.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Sorprendere Sandy creando un sito di raccolta fondi online per documentare la ripresa e le difficoltà finanziarie di Sandy e raccogliere fondi per contribuire alle spese mediche.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Utilizzare il suo blog immobiliare per cercare di fare donare più persone possibili alla raccolta fondi della famiglia.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Chiedere il permesso a Sandy prima di contattare tutti o di scrivere su ogni social media riguardo all’'incidente e alla fatica di Sandy per riprendersi.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Emma crea un sito di raccolta fondi per Sandy e include informazioni riguardanti le condizioni di salute e la prognosi aggiornate di Sandy.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma ha molto traffico sul sito web e sul blog, quindi pensa che questo sia un ottimo modo per far conoscere a un maggior numero di persone la sventura di Sandy e convincerle a donare. Decide di aggiungere informazioni sull’incidente di Sandy e sugli sforzi della sua famiglia per raccogliere fondi sul suo sito immobiliare e sul suo blog.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:220px;" fcStyle="top:-199px;">
+			<text style="padding-top:25px;"><![CDATA[Emma chiede a Sandy il permesso di raccontare l’incidente e di pubblicarlo sul suo blog per raccogliere donazioni per l'assistenza medica di Sandy.]]></text>
+			<text><![CDATA[Sandy è d'accordo, ma chiede che le donazioni vadano invece a un fondo per la struttura medica.]]></text>
+			<text><![CDATA[Chiedendo il permesso di Sandy riguardo a ciò che può condividere e in che modo utilizzerà le informazioni personali, Emma garantisce che non abuserà delle informazioni personali di Sandy e che è effettivamente rispettosa della sua privacy.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m10c03s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<pageTitle style="width: 354px;"></pageTitle>
+	<contentBg style="width: 456px;right: 30px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[Carlos는 다른 곳에서 고객인 Hilde와 시스템 업데이트 작업에서 협력하고 있습니다. 그날 오후 Johnson Controls 영업 담당자인 Ingrid가 와서 Hilde를 만나 계약 갱신에 대해 논의했습니다.]]></text>
+		<text style=""><![CDATA[Ingrid는 Hilde가 다른 회사의 입찰을 받고 있다는 것을 압니다. 그녀는 관계를 강화하기 위해 Hilde와 Carlos를 저녁 식사에 데려가겠다고 제안합니다. 그날 밤, Ingrid가 식당에 도착해 보니 Hilde가 벌써 테이블에 앉아 있습니다.]]></text>
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s06/contentBackground.jpg" minwidth="769" className="bg-pos-left-bottom"><![CDATA[]]></img>
+	</contentBackground>	
+	<revelCollOut style="width: 450px;left: 0px;top:-200px;height:210px;position: relative;">		
+		<img path=""><![CDATA[]]></img>	
+		<text style=""><![CDATA[Ingrid, 안녕하세요. 우리가 여기 일찍 도착했어요. 폐를 끼치는 게 아니었으면 하는데, 이 테이블로 와인을 이미 주문했어요. 좀 비싸지만 제가 정말 좋아하는 와인이거든요. 참을 수가 없어서요!]]></text>
+	</revelCollOut>	
+	<instructionText>
+		<text><![CDATA[Hilde를 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<RevealButton style="top:10px;left: 0px;width: 450px;height: 210px;position: relative;">
+		<buttonImg path="content/images/ltr/module10/m10c03/m10c03s06/img_01.png" style="width:450px;height:165px;"><![CDATA[]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width:450px;height:210px;"><![CDATA[Hilde]]></buttonText>		
+	</RevealButton>
+	
+	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

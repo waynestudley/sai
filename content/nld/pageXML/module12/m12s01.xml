@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[Goed gedaan, u hebt de cursus met succes voltooid. U kunt nu uw certificaat afdrukken. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[Man die een pc gebruikt]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative" padding="0" fontSize="14px" lineHeight="16px" ><![CDATA[U hebt de cursus <span style="color:#00539E;font-weight:bold;font-size:17px;" >Toepassing van de ethische code met succes voltooid: cursus Integer zakendoen</span>.]]></text>
+		<text width="450px" height="120px" top="10px" left="0px" position="relative" padding="0" fontSize="14px" lineHeight="16px" ><![CDATA[Klik op 'Certificaat afdrukken' en klik vervolgens op 'Startpagina' om terug te keren naar het hoofdmenu of klik op 'Sluiten' om de cursus te verlaten.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="150px" left="20px"><![CDATA[Certificaat afdrukken]]></text>
+	</buttonText>	
+	<instructionText>
+		<text><![CDATA[Klik op 'Certificaat afdrukken'.]]></text>
+	</instructionText>
+</contents>

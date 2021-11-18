@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0"><![CDATA[Nur durch rechtliche Vereinbarungen wie Geheimhaltungsvereinbarungen können wir sicherstellen, dass andere die Informationen schützen, die wir an sie weitergeben. Klicken Sie auf die einzelnen „Aufdecken“-Schaltflächen, um mehr zu erfahren.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Geheimhaltungsvereinbarungen sind eine wirksame Möglichkeit, um zu gewährleisten, dass vertrauliche Informationen nach ihrer Weitergabe an Dritte weiterhin vertraulich behandelt werden.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg" minwidth="769"><![CDATA[Dokumente]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Klicken Sie auf die einzelnen „Aufdecken“-Schaltflächen, um mehr zu erfahren.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[AUFDECKEN]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style=""><![CDATA[Geheimhaltungsvereinbarung]]></buttonImg>
+			<buttonText style="height:90px;width:294px;font-size:15px;"><![CDATA[Anwendungssituationen]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Lassen Sie eine Geheimhaltungsvereinbarung unterzeichnen, wenn Sie vertrauliche Informationen an Außenstehende weitergeben. Geben Sie vertrauliche Informationen niemals preis, bevor eine Geheimhaltungsvereinbarung unterzeichnet wurde. Die Rechtsabteilung von Johnson Controls kann Ihnen Vorlagen für verschiedene Situationen bereitstellen.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style=""><![CDATA[Person beim Durchlesen einer Geheimhaltungsvereinbarung]]></buttonImg>
+			<buttonText style="height:90px;width:294px;font-size:15px;"><![CDATA[Externe Geheimhaltungsvereinbarungen]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Gelegentlich möchten andere Unternehmen Sie von ihren eigenen Geheimhaltungsvereinbarungen überzeugen. Lassen Sie sich nicht darauf ein. Wir können externe Geheimhaltungsvereinbarungen nur nach einer rechtlichen Prüfung und entsprechenden Genehmigung akzeptieren, da solche Geheimhaltungsvereinbarungen statt unseren Interessen die Interessen Dritter schützen sollen.]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style=""><![CDATA[Vorgesetzter erklärt einem Mitarbeiter, wann und warum Geheimhaltungsvereinbarungen geschlossen werden]]></buttonImg>
+			<buttonText style="height:90px;width:294px;font-size:15px;"><![CDATA[Wenn wir einer Geheimhaltungsvereinbarung zustimmen]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[Zuweilen kann es vorkommen, dass wir eine Geheimhaltungsvereinbarung zum Schutz der Informationen eines anderen Unternehmens unterzeichnen. In diesen Fällen müssen wir unbedingt die nötigen Schritte unternehmen, um unseren Verpflichtungen nachzukommen. Andernfalls könnten wir wegen Vertragsbruchs verklagt werden. Sorgen Sie dafür, dass sich jeder, der mit diesen Informationen umgeht, über unsere Verpflichtungen zum Schutz der Informationen bewusst ist.]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

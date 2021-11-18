@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[Welche der folgenden Szenarien könnte problematisch sein?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="font-size:15px;"><![CDATA[Könnten diese Beispielfälle Ihrer Einschätzung nach als Bestechung wahrgenommen werden?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[Geschäftsleute]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Wählen Sie <span class="fontBold">alle</span> problematischen Szenarien aus und klicken Sie anschließend auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Es ist möglich, dass mehrere Antworten richtig sind.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px;font-size:15px;">
+		<option><![CDATA[Sie versprechen einem Kunden ein Geldgeschenk als Gegenleistung für eine vorteilhafte Geschäftsentscheidung.]]></option>
+		<option><![CDATA[Ein Subunternehmer, der sich einen Auftrag von Ihnen wünscht, lädt Sie mehrmals zum Abendessen und zu Sportveranstaltungen ein.]]></option>
+		<option><![CDATA[Sie unterstützen mit finanziellen Mitteln die Kampagne eines Amtsträgers, der zu Ihren potenziellen Kunden zählt.]]></option>
+		<option><![CDATA[Ihr Vorgesetzter stellt die Tochter eines Kunden in Ihrem Unternehmen ein, damit dieser seinen laufenden Vertrag verlängert.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text style="font-size:14px;line-height:20px;"><![CDATA[Das ist richtig.]]></text>
+			<text style="font-size:14px;line-height:20px;"><![CDATA[Tatsächlich könnten alle diese Szenarien abhängig von den jeweiligen Umständen als Bestechung betrachtet werden. Die versuchte Beeinflussung ist ein wichtiger Faktor, doch es ist auch unbedingt zu beachten, dass bereits der Anschein einer Bestechung für Sie und Johnson Controls problematisch sein könnte. Denken Sie also gut nach, ehe Sie handeln!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text style="font-size:14px;line-height:20px;"><![CDATA[Das stimmt leider nicht.]]></text>
+			<text style="font-size:14px;line-height:20px;"><![CDATA[Tatsächlich könnten alle diese Szenarien abhängig von den jeweiligen Umständen als Bestechung betrachtet werden. Die versuchte Beeinflussung ist ein wichtiger Faktor, doch es ist auch unbedingt zu beachten, dass bereits der Anschein einer Bestechung für Sie und Johnson Controls problematisch sein könnte. Denken Sie also gut nach, ehe Sie handeln!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

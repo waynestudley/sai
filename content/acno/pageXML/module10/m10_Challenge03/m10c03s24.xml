@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;">
+		<text><![CDATA[Seleccione cada título para saber más.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para volver a considerar su decisión e intentarlo de nuevo.]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">			
+			<buttonText style=""><![CDATA[Demasiada bebida]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Varios miembros del grupo se embriagan mucho, y una persona cae por las escaleras y se quiebra el brazo. Como consecuencia, hay que contratar a una nueva persona para cubrir a ese trabajador. Dado que el sustituto trabaja mucho más lento, el proyecto se retrasa. ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">
+			<buttonText><![CDATA[La clienta está disconforme]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Después de escuchar algunas conversaciones, la clienta se da cuenta de que el retraso del proyecto se debe a un evento en el que Carlos invitó a algunos de los trabajadores a beber en un bar deportivo. Llama al gerente de Carlos para quejarse. ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="138">
+			<buttonText><![CDATA[Publicaciones de Facebook]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Uno de los subcontratistas publica una foto del accidente en Facebook. En su publicación, escribe: “Última vez que bebo con el equipo de Johnson Controls...”. ]]></text>					
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Carlos se pregunta si el subcontratista herido puede demandar a la empresa.]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[How good are you at recognizing risky situations? Read this scenario, select Agree or Disagree for each option, then click on Submit.]]></text>		
+	</transcript>
+	 <contentBackground cName="" >		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg"  minwidth="769"><![CDATA[Officer corridor]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText >
+		<text style=""><![CDATA[A consultant you work with in the Middle East tells you that the import duty for a shipment was high but he found “a cheaper solution” and the shipment has now been released. Which of these statements do you agree with?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Select Agree or Disagree for each option then click on Submit. ]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0" >
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png" ><![CDATA[Docks]]></img>
+			<text style="width: 450px;"><![CDATA[This “cheaper solution” could involve someone being paid a bribe ]]></text>			
+		</option>
+		<option answer="1,0" >
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png" ><![CDATA[Docks]]></img>
+			<text style="width: 450px;" ><![CDATA[You should report your suspicions to your manager or the Law Department   ]]></text>
+		</option>
+		<option answer="0,1" >
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png" ><![CDATA[Docks]]></img>	
+			<text style="width: 450px;" ><![CDATA[You should wait and see what happens, and then discuss with your manager]]></text>	
+		</option>
+		<option answer="0,1" >
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png" ><![CDATA[Docks]]></img>	
+			<text style="width:450px;" ><![CDATA[If the consultant has paid a bribe on our company’s behalf, he would be held responsible, not Johnson Controls]]></text>	
+		</option>
+		<option answer="0,1" >
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png" ><![CDATA[Docks]]></img>	
+			<text style="width:450px;" ><![CDATA[You should thank the consultant for saving money and channel more work his way in the future]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Agree]]></text>
+		<text><![CDATA[Disagree]]></text>
+	</optionAnswer>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[That’s correct.]]></text>			
+			<text style="font-size: 13px;"><![CDATA[The “cheaper solution” could be a bribe. Sometimes bribery can be very subtle. In such a situation, you should report your suspicions immediately to your manager and a member of the Legal or Compliance Department, or report your concern to the Integrity Helpline. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[If a third party pays a bribe on behalf of Johnson Controls, we are still liable.]]></text>			
+		</correct>
+		<incorrect style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[That’s not correct.]]></text>	
+			<text style="font-size: 13px;"><![CDATA[The “cheaper solution” could be a bribe. Sometimes bribery can be very subtle. In such a situation, you should report your suspicions immediately to your manager and a member of the Legal or Compliance Department, or report your concern to the Integrity Helpline. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[If a third party pays a bribe on behalf of Johnson Controls, we are still liable.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

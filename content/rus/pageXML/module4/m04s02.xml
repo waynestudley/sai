@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[Как бы вы поступили, если бы кто-то отправил вам персональные данные, которые вы не имеете права просматривать?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:17px;font-weight: bold;"><![CDATA[Как, по-вашему, лучше поступить? ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:17px;"><![CDATA[Вас попросили уведомить подрядчиков о введении новой процедуры выставления счетов. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:17px;"><![CDATA[Вы попросили сотрудника из другого отдела прислать вам список адресов электронной почты подрядчиков, однако сотрудник отправляет вам таблицу, в которой, помимо прочего, содержатся персональные данные, используемые для защиты доступа к учетным записям подрядчиков (дата рождения, имя матери, номер в системе социального страхования и т. д.). ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:17px;"><![CDATA[Как вам следует поступить?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[Деловые люди]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Выберите один вариант и щелкните «Отправить».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px;line-height:17px;">
+		<option><![CDATA[Удалить электронное письмо с таблицей и сообщить о случившемся сотруднику отдела по вопросам конфиденциальности данных по адресу privacy@jci.com.]]></option>
+		<option><![CDATA[Переслать электронное письмо с таблице коллегам по работе в качестве примера файлов, которые нельзя отправлять по электронной почте.]]></option>
+		<option><![CDATA[Скопировать необходимые данные и уничтожить остальные надежным образом.]]></option>
+		<option><![CDATA[Сообщить всем подрядчикам, что их персональные данные могут быть раскрыты посторонним лицам.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:155px;" fcStyle="top:-180px">
+			<text style="font-size:17px;"><![CDATA[Верно.]]></text>
+			<text><![CDATA[Законы о конфиденциальности данных и политика компании Johnson Controls в отношении конфиденциальности данных распространяются на персональную информацию сотрудников, клиентов и деловых партнеров. Вы должны понимать свои обязанности в этой сфере и соблюдать политику компании в отношении конфиденциальности данных и все применимые законы о конфиденциальности и защите данных.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:155px;" fcStyle="top:-180px">
+			<text style="font-size:17px;"><![CDATA[Неверно.]]></text>
+			<text><![CDATA[Законы о конфиденциальности данных и политика компании Johnson Controls в отношении конфиденциальности данных распространяются на персональную информацию сотрудников, клиентов и деловых партнеров. Вы должны понимать свои обязанности в этой сфере и соблюдать политику компании в отношении конфиденциальности данных и все применимые законы о конфиденциальности и защите данных.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

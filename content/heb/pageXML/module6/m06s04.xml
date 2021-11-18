@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[באיזו מידה אתה יכול לזהות תחרות לא הוגנת?]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 16px;font-size:14px;"><![CDATA[באיזו מידה אתה יכול לזהות תחרות לא הוגנת? חבר כמה מהדוגמאות לתחרות לא הוגנת עם סוג ההסכם שעומד מאחריהן.]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;right:785px;top:0px;"><![CDATA[שלח]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/rtl/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;left: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 16px;">
+		<text><![CDATA[בחר פריט מתוך העמודה הראשונה ולאחר מכן גרור את החצים לסוג המתאים של תחרות לא הוגנת בעמודה השנייה. כשתסיים, לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על סימני השאלה לקבלת מידע נוסף.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;right: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[תרחיש]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 299px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/rtl/module6/m06s04/img01.png"><![CDATA[שני מתחרים בארוחת צהריים]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[שני מתחרים בארוחת צהריים]]></dragIcon>
+				<text style=""><![CDATA[שני המתחרים נפגשים לארוחת צהריים. אחד מהם מסכים לרכז את מאמצי המכירות בצפון המדינה והשנה יתמקד בדרום.]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:299px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/rtl/module6/m06s04/img02.png"><![CDATA[שלושה מתחרים מדברים]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[שלושה מתחרים מדברים]]></dragIcon>
+				<text style=""><![CDATA[שלושה מתחרים שמשרתים את אותו שוק קטן יושבים כדי לתכנן את השנה הקרובה. הם בודקים את המכרזים הקרובים ומסכימים שכל חברה בתורה תציע את ההצעה הנמוכה ביותר ושתי החברות האחרות יציעו מחירים גבוהים מדי מכדי לזכות במכרז.]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:299px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/rtl/module6/m06s04/img03.png"><![CDATA[מנהלי מכירות בכירים נפגשים בכנס מסחרי]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[מנהלי מכירות בכירים נפגשים בכנס מסחרי]]></dragIcon>
+				<text style=""><![CDATA[בכנס מסחרי, כמה מנהלי מכירות בכירים מדברים על הספק הגדול ביותר בשוק שלהם שהעלה את המחירים בצורה לא הוגנת. הם מסכמים להקטין את נפח ההזמנות שלהם באופן משמעותי, או לבטל אותן לגמרי כאשר הדבר אפשרי, ולחפש ספק אחר עד שהמחירים ירדו בחזרה.]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:299px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/rtl/module6/m06s04/img04.png"><![CDATA[קבוצה של סימני אחוזים]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[קבוצה של סימני אחוזים]]></dragIcon>
+				<text style=""><![CDATA[קבוצת מתחרים בתעשייה שבה מחיר החומרים הגולמיים עולה הגיעה להסכם לא רשמי לא לאפשר הנחות של יותר מ-10% ללקוחות.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;right: 640px;">		
+			<heder><![CDATA[סוג התחרות הבלתי הוגנת]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 209px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[חלוקת שווקים]]></text>
+				<rightIcon style="height:70px" path="content/images/rtl/module6/m06s04/img05.png"><![CDATA[תרשים עוגה]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 209px;top: 89px;height: 70px;">
+				<text><![CDATA[תיאום מכרזים]]></text>
+				<rightIcon style="height:70px" path="content/images/rtl/module6/m06s04/img06.png"><![CDATA[שני אנשי עסקים משתפים פעולה לגבי הצעת מחיר]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 209px;top: 170px;height: 70px;">
+				<text><![CDATA[חרם קבוצתי]]></text>
+				<rightIcon style="height:70px" path="content/images/rtl/module6/m06s04/img07.png"><![CDATA[הקבוצה מחליטה להחרים לקוח כדי להעניש אותו]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 209px;top: 251px;height: 70px;">
+				<text><![CDATA[תיאום מחירים]]></text>
+				<rightIcon style="height:70px" path="content/images/rtl/module6/m06s04/img08.png"><![CDATA[שני מתחרים מתאמים מחירים]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="right: 712px;top: 128px;width: 236px;">
+				<text style=""><![CDATA[חלוקות לקוחות או אזורים - שנקראת 'חלוקת שווקים' - מתרחשת כאשר המתחרים מסכימים לחלק ביניהם את הלקוחות, המוצרים או האזורים הגיאוגרפיים. פעולה זו מקטינה את התחרות בתחומים שצוינו ומצמצמת את האפשרויות שמוצעות ללקוחות.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="right: 712px;top: 128px;width: 236px;">
+				<text style=""><![CDATA[תיאום מכרזים מתרחש כאשר מתחרים מתאמים את הצעות המחיר שלהם כדי להשפיע על התוצאה של תהליך הצעת המחיר.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="right: 712px;top: 128px;width: 236px;">
+				<text style=""><![CDATA[לחברה, שפועלת לבדה, בדרך כלל יש זכות לבחור עם מי היא רוצה לעשות עסקים. אך כאשר שתי חברות או יותר מסכימות לא לעשות עסקים עם חברה אחרת, החרם שלהן עלול להפר את חוקי ההגבלים העסקיים.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="right: 712px;top: 128px;width: 236px;">
+				<text style=""><![CDATA[תיאום מחירים כולל הסכם בין המתחרים לתיאום המחירים או תנאים תחרותיים אחרים, במקום להתחרות באופן חופשי ובלתי תלוי זו מול זו.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

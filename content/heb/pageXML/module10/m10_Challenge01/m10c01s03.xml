@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[בידיעה שצפויות לו כמה שעות המתנה בבית החולים, חנן שוקל לקחת איתו את העבודה שלו. מה לדעתך הוא צריך לעשות? בחר אפשרות אחת ולאחר מכן לחץ על 'אישור'.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[חנן צריך לצאת כדי להצטרף לאשתו בבית החולים, אך ישנם פרויקטים דחופים שעליו לטפל בהם. הוא יכול לקחת איתו את המחשב הנייד ולהשתמש בו בבית החולים, אך הוא יודע שעבודה מרחוק על המחשב הנייד אינה מאובטח כמו להיות מחובר לרשת החברה.]]></text>
+		<text><![CDATA[מה הדרך הטובה ביותר שבה חנן צריך לבחור כדי להבטיח שעבודתו תושלם עד תאריך היעד?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[סביבה משרדית]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[חנן מעלה את המידע הקשור לפרויקט של Texela, כולל קובץ הספקים הראשי, לחשבון Dropbox האישי שלו. בדרך זו, הוא יוכל לגשת אליו באמצעות המחשב הנייד שלו בבית החולים, בלי לשלוח אותו דרך האינטרנט או להוריד אותו למחשב ולשמור אותו באופן מקומי.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[חנן שומר את המידע על הספקים ואת קובץ הספקים הראשי על דיסק און קי ומצפין אותו. נראה לו שזה יותר בטוח מגישה אלקטרונית למידע.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[חנן מנסה שוב לבקש דחייה לפרויקט שעליו הוא עבד לפני כן, ומשלים את העבודה על פרויקט Texela לפני שהוא יוצא לבית החולים.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[החלטתו של חנן מסכנת את נתוני החברה, הלקוחות והספקים כאשר היא חושפת אותם להפרת פרטיות.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[חנן נקט צעדים להגנה על פרטי החברה והספקים, אך האם הוא יצר בעיה אחרת?]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -190px;">
+			<text style="padding-top:25px;"><![CDATA[חנן מנסה שוב לבקש דחייה לפרויקט שעליו הוא עבד לפני כן, ומשלים את העבודה על פרויקט Texela לפני שהוא יוצא לבית החולים.]]></text>
+			<text><![CDATA[חנן יכול לספק את המלצותיו על ספקים לפני שהוא עוזב את העבודה, וכך לא יצטרך לקחת איתו עותק של המידע הסודי על ספקים או את קובץ הספקים הראשי. לאחר שניהל משא ומתן מוצלח לקבלת דחייה בלוח הזמנים למסירת הפרויקט השני, הוא יכול להיות בטוח שבאופן כללי הפרויקט לא יושפע לרעה.]]></text>
+			<text style="margin-bottom:40px;"><![CDATA[יתרה מכך, חנן יכול לבלות עם אשתו בלי שיצטרך להטריד את עצמו עם תאריכי יעד לחוצים.]]></text>
+		</correct>
+	</feedback>
+</contents>

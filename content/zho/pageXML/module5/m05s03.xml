@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0"><![CDATA[马克注意到信箱内有一封标记为紧急的电子邮件。 单击电子邮件标题，了解电子邮件内容。]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;"></pageTitle>
+	<contentBg style="width: 591px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[有一封标记为紧急的新电子邮件。]]></text>	
+		
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[一封新电子邮件]]></img>
+		<img path="content/images/ltr/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[电子邮件标题]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;left: 2px;top: 217px;font-size: 15px;">		
+		<img path="" minwidth="769"><![CDATA[电子邮件信息]]></img>	
+		<text style="margin-bottom:3px"><![CDATA[发件人： arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px"><![CDATA[主题： 需要您的帮助]]></text> 	
+		<text style=""><![CDATA[您好：]]></text> 				
+		<text style=""><![CDATA[我是法国马赛的一名 Johnson Controls 客户，我在将贵公司消防产品装配到现有系统时遇到了问题。]]></text> 				
+		<text style=""><![CDATA[我已经给贵公司支持团队打过电话，他们建议我与您联系，索要技术图纸和装配手册，以帮助我们解决问题。]]></text> 				
+		<text style=""><![CDATA[您能否尽快回复邮件，并附上这些资料。]]></text> 				
+		<text style="margin-bottom:0px"><![CDATA[谢谢并借此致意，]]></text> 		
+		<text style="margin-bottom:0px"><![CDATA[A. Richter]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[单击电子邮件标题。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path=""><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;left: 97px; width: 475px;"><![CDATA[<span style="padding-right: 32px;">arichter_8888@gmail.com</span><span>需要您的帮助</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="flipCard" className="m08s09">
+	<transcript>
+		<text path="audio/module8/m08s09" id="0" ><![CDATA[There are important things you can do to help keep our information secure. Click on each reveal button to learn more.]]></text>		
+	</transcript>
+	<contentText >
+		<text style=""><![CDATA[Practice these habits:]]></text>
+	</contentText>
+	
+	<contentBackground >
+		<img path="content/images/ltr/module8/m08s09/contentBackground.jpg"  minwidth="769"><![CDATA[fingerprint]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Click on each reveal button to learn more. You may need to scroll to read the full answer.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<buttonText >
+		<text><![CDATA[REVEAL]]></text>
+	</buttonText>	
+	<flipCardContent >
+		<flipCard style="width:187px;height: 362px;" >	
+			<buttonImg path="content/images/ltr/module8/m08s09/img1.png" ><![CDATA[]]></buttonImg>
+			<buttonText  style="height:100px;width:167px;"><![CDATA[Mark information as confidential]]></buttonText>
+			<popText  style="height:220px;">
+				<text><![CDATA[If other employees don’t know it is confidential, they may not know to protect it. ]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module8/m08s09/img2.png"  ><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[Store confidential information securely ]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Lock away physical materials and protect electronic files and your computer with a strong password. Never share your password with anyone, and avoid using the same password for multiple files or applications.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img3.png"  ><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[Show care when traveling]]></buttonText>
+			<popText  style="height:220px;">
+				<text><![CDATA[Mobile phones or USB drives are easily lost or stolen. Think twice before traveling with confidential information, and don’t work with it or discuss it where others can see or hear you. ]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img4.png"  ><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[Share confidential information on a “need-to-know” basis]]></buttonText>			
+			<popText  style="height:220px;">
+				<text><![CDATA[Don’t share confidential information with customers, partners, suppliers, other third parties or other Johnson Controls' employees unless: <ul> <li>it is necessary</li> <li>you have proper authorization</li> <li>the person receiving the information knows it is confidential and is authorized to view it</li> <li>they have signed a legal agreement to protect it (like a nondisclosure agreement). Even then, only share as much information as the person needs to complete their task</li> </ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img5.png"  ><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[Be careful with social media]]></buttonText>			
+			<popText  style="height:220px;">
+				<text><![CDATA[Once information is online, you can’t control what others do with it.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

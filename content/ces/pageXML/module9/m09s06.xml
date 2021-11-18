@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m09s06" maxAttempt="2">
+	<transcript>
+		<text path="audio/module9/m09s06" id="0"><![CDATA[Zjistěte, zda rozpoznáte, co je a co není vhodné. Přetáhněte jednotlivé položky do pole Vhodné nebo Nevhodné a poté klikněte na tlačítko Odeslat.]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[Přečtěte si následující situace a rozhodněte, zda by za daných okolností bylo či nebylo vhodné přijmout informace o konkurenci.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module9/m09s06/contentBackground.jpg" minwidth="769"><![CDATA[Zaměstnanci pracující s dokumenty společnosti]]></img>
+	</contentBackground>
+	 <contentBg style="top:20px;"></contentBg>
+	<pageTitle style="width: 588px;"></pageTitle>
+	<instructionText style="width: 588px;">
+		<text><![CDATA[Přetáhněte jednotlivé položky do jednoho z obou obdélníků a poté klikněte na možnost Odeslat.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+		<text><![CDATA[Chcete-li to zkusit znovu, klikněte na tlačítko Zkusit znovu.]]></text>
+		<text><![CDATA[Klikněte na tlačítko Zobrazit odpověď.]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 291px; padding: 0px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[SITUACE]]></lable> 	
+		<option>			
+			<option height="68px" left="0" top="21px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[Konkurent zveřejnil inzerát na pracovní místo, přičemž požadované odborné znalosti naznačují změnu strategie.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="99px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[Získáte přepis proslovu výkonného ředitele konkurenční firmy, který v loňském roce vystoupil na oborové konferenci a podrobně informoval o nedávných vylepšeních v oblasti výroby.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="177px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[Prostudujete technické výkresy produktu v nedávno podané patentové přihlášce konkurenční firmy.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="255px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[Bývalý kolega nyní pracuje pro konkurenční firmu a poskytne vám informace o jejích klíčových zakázkách. ]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="334px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[Dodavatel, který pracuje také pro konkurenční firmu, nabídne, že vám ukáže technické výkresy produktu, které má uložené v telefonu.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="413px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[Nový kolega přišel od konkurence, tak se jej vyptáte na ceny jejich nové služby.]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="0" topGap="149" bottomGap="37">
+		<dropArea maxDrop="3" style="width:312px;left: 330px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="3" style="width:312px;left: 648px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Vhodné]]></text>
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Nevhodné]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[Přetáhněte sem]]></text>
+		<text style="width:301px;left: 277px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[Přetáhněte sem]]></text>
+		<text style="width:301px;left: 277px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[Přetáhněte sem]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[Přetáhněte sem]]></text>
+		<text style="width:301px;left: 593px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[Přetáhněte sem]]></text>
+		<text style="width:301px;left: 593px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[Přetáhněte sem]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[Odeslat]]></text>
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;width: 125px;"><![CDATA[Zkusit znovu]]></text>	
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10; width: 145px;"><![CDATA[Zobrazit odpověď]]></text>
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct> 
+			<text style="font-size:17px;"><![CDATA[Správně.]]></text>
+			<text><![CDATA[Je vhodné přijímat informace o konkurenci, pokud pocházejí z veřejně dostupných zdrojů.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[Nikdy nikoho nestavte do pozice, kdy by musel porušit povinnost mlčenlivosti vůči jiné společnosti.]]></text>
+			
+		</correct>
+		<incorrect> 
+			<text style="font-size:17px;"><![CDATA[Je nám líto, to není správně.]]></text>
+			<text><![CDATA[Je vhodné přijímat informace o konkurenci, pokud pocházejí z veřejně dostupných zdrojů.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[Nikdy nikoho nestavte do pozice, kdy by musel porušit povinnost mlčenlivosti vůči jiné společnosti.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

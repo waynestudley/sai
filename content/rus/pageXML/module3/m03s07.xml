@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[Каждый из нас обязан предотвращать взяточничество и коррупцию в нашей компании. Чтобы закрепить знания о тех действиях, которые вы можете предпринимать, щелкните каждый заголовок.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Компания Johnson Controls стремится соблюдать все законы о борьбе со взяточничеством и коррупцией. На практике это означает следующее.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[Список действий]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Чтобы узнать больше, выберите каждый заголовок.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[Не предлагайте взятки]]></buttonText>
+			<popText style="line-height:18px">
+				<text style=""><![CDATA[Ни в коем случае не предлагайте деловым партнерам какие бы то ни было ценности для оказания влияния на их суждения.]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="140">			
+			<buttonText style=""><![CDATA[Ведите точный учет ]]></buttonText>			
+			<popText style="line-height:16px">
+				<text style=""><![CDATA[Не пытайтесь скрыть или исказить информацию о расходах на развлекательные мероприятия и подарки, документируйте все операции честно и точно. Дополнительную информацию см. в <a href="content/rus/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">политике нашей компании в отношении поездок, подарков и деловых развлекательных мероприятий для третьих лиц</a>.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[Привлекайте к ответственности деловых партнеров]]></buttonText>
+			<popText style="line-height:16px">
+				<text style=""><![CDATA[Разъясняйте всем третьим лицам, с которыми мы работаем, антикоррупционные стандарты нашей компании. Следите за деятельностью партнеров и уведомляйте компанию обо всех возникших у вас подозрениях относительно коррупции. Не работайте с деловыми партнерами, вовлеченными в коррупционные схемы.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[Будьте в курсе, кем являются работающие с нами третьи лица]]></buttonText>
+			<popText style="line-height:16px">
+				<text style=""><![CDATA[Если вы обязаны руководить работой третьих лиц, убедитесь в том, что эти лица прошли процедуру утверждения в соответствии с требованиями программы нормативно-правового соответствия Johnson Controls для третьих сторон.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m10c02s18" >
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle="padding: 10px;" ></contentBg>
+	<pageTitle style="margin-bottom: 5px;"></pageTitle>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c02/m10c02s18/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText >
+		<text  style="line-height: 18px;font-size: 14px;" ><![CDATA[Several days after Emma posts Sandy’s story to her blog, she's contacted by a local celebrity who wants to help with Sandy's medical costs. In a phone conversation with the celebrity, Emma discovers that she's also a customer. A manager from another department, Tom, overhears her conversation and later approaches her.]]></text>
+	</contentText>
+	<instructionText style="margin-top:5px;">
+		<text><![CDATA[Click on each stage of the story.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1" >	
+				<img path="content/images/ltr/module10/m10c02/m10c02s18/Page_18_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c02/m10c02s18/Page_18_Strip_01.png" minwidth="700" minheight="550" ><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="531" y="245" width="296"  />
+				<text ><![CDATA[<span style="font-weight: bold;">Emma</span>, Johnson Controls Customer Service Representative]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="13" y="245" width="200" />
+				<text ><![CDATA[<span style="font-weight: bold;">Tom</span>, Johnson Controls Engineering Manager]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2" >
+				<img path="content/images/ltr/module10/m10c02/m10c02s18/Page_18_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c02/m10c02s18/Page_18_Strip_02.png" minwidth="700" minheight="550" ><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="55" y="63" width="170"  />
+				<text ><![CDATA[Emma, I overheard you talking to Anastasia earlier. Sounds like we have a lot of celebrity clients here at Johnson Controls.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false" >
+					<callOut minwidth="700" minheight="550" x="525" y="104" width="190" arrowStyle="top:20px"/>
+				<text ><![CDATA[Yes, they buy our high-end security products. I deal with them all the time. It’s an exciting part of the job.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3" >	
+				<img path="content/images/ltr/module10/m10c02/m10c02s18/Page_18_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c02/m10c02s18/Page_18_Strip_03.png" minwidth="700" minheight="550" ><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="33" y="23" width="190" arrowStyle="top:58px" />
+				<text ><![CDATA[Listen, between us, I just started a side job as a photographer. It was a hobby for years and now my work is starting to get recognized. If I could get a few shots of celebrities coming out of their homes, I could make a lot of money and get some good exposure selling them to the tabloids.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false" >
+					<callOut minwidth="700" minheight="550" x="525" y="104" width="170" arrowStyle="top:20px"/>
+				<text ><![CDATA[Seriously? There is a business for that kind of thing?]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripThumImg numberText="4" >	
+				<img path="content/images/ltr/module10/m10c02/m10c02s18/Page_18_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c02/m10c02s18/Page_18_Strip_04.png" minwidth="700" minheight="550" ><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="33" y="61" width="190" arrowStyle="top:20px" />
+				<text ><![CDATA[There is now! And my daughter just started college, so I could use the money. Getting their addresses would give me a great chance to get some candid pictures. It would be a huge help.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false" >
+					<callOut minwidth="700" minheight="550" x="525" y="116" width="170" arrowStyle="top:3px"/>
+				<text ><![CDATA[I don’t know, Tom…]]></text>			
+			</stripCallOut>
+		</strip>
+	</comicStrip>
+</contents>

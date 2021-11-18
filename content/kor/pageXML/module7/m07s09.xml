@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[이 시나리오는 Johnson Controls 직원의 실제 생활에 기반하여 구성한 것입니다. 이 상황에서 여러분은 어떻게 하시겠습니까? 하나의 보기를 선택하고 '제출'을 클릭하십시오.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[여러분은 상품 기획자이며, 고객사 구매 담당자와 일상적 회의 중입니다. 회의 중에 여러분은 고객의 질문에 답하기 위해 고객 가격 책정 및 판매량에 대한 기밀 데이터베이스를 엽니다. 그 고객은 여러분의 어깨너머로 들여다보면서 자신에게 전체 파일을 보내 달라고 요구합니다. 어떻게 해야 할까요?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[고객사 구매 담당자와 회의 중인 상품 기획자]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;">
+		<text><![CDATA[하나의 보기를 선택하고 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[그 고객과 데이터베이스를 공유합니다. 고객의 성공이 우리의 최우선 과제]]></option>	
+		<option><![CDATA[데이터베이스에는 다른 고객에 관한 정보가 포함되어 있으므로 공유할 수 없다고 설명합니다. 고객이 계속 요구하면 회의를 종료하고 관리자나 법무팀으로 연락하여 지침을 구합니다.]]></option>	
+		<option><![CDATA[비밀 유지 협약에 서명해야만 데이터베이스를 공유하겠다고 말합니다.]]></option>	
+		<option><![CDATA[고객이 그의 업무에 그 독점 정보를 사용하기 전에 변호사에게 연락하여 고객에 대해 소송을 제기합니다.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-224px">
+			<text style="font-size:17px;"><![CDATA[정답입니다.]]></text>
+			<text><![CDATA[연락처 및 은행 거래 정보와 같은 고객 데이터는 항상 기밀로 유지될 것이라는 기대와 함께 우리 Johnson Controls에 제공됩니다.]]></text>
+			<text><![CDATA[그런 유형의 독점적 고객 데이터는 다른 Johnson Controls 고객과 절대로 공유할 수 없습니다.]]></text>
+			<text><![CDATA[그 정보를 공유하면 다음과 같은 결과가 발생할 수 있습니다. <ul> <li>자신의 정보가 공개된 고객으로부터 우리가 고소를 당할 수 있습니다.</li> <li>우리가 가격 담합으로 기소될 수 있습니다.</li> <li>데이터베이스에 있는 우리의 지적 재산권이 위험에 처할 수 있습니다.</li> <li>우리가 상품 관리 서비스를 고객들에게 제공하는 업무가 위태로워질 수 있습니다.</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-224px">
+			<text style="font-size:17px;"><![CDATA[정답이 아닙니다.]]></text>
+			<text><![CDATA[연락처 및 은행 거래 정보와 같은 고객 데이터는 항상 기밀로 유지될 것이라는 기대와 함께 우리 Johnson Controls에 제공됩니다.]]></text>
+			<text><![CDATA[그런 유형의 독점적 고객 데이터는 다른 Johnson Controls 고객과 절대로 공유할 수 없습니다.]]></text>
+			<text><![CDATA[그 정보를 공유하면 다음과 같은 결과가 발생할 수 있습니다. <ul> <li>자신의 정보가 공개된 고객으로부터 우리가 고소를 당할 수 있습니다.</li> <li>우리가 가격 담합으로 기소될 수 있습니다.</li> <li>데이터베이스에 있는 우리의 지적 재산권이 위험에 처할 수 있습니다.</li> <li>우리가 상품 관리 서비스를 고객들에게 제공하는 업무가 위태로워질 수 있습니다.</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

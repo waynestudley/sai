@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[De enveloppe bevat 300 Amerikaanse dollar in contanten. Jian heeft het geschenk al geweigerd, maar de leverancier stond erop. Wat moet hij doen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[Vergaderzaal]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Het contant geld houden. Het selectieproces voor leveranciers is al afgerond, dus Jian kan de leverancier in kwestie niet meer beïnvloeden.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Het contant geld nogmaals weigeren. Vervolgens akkoord gaan wanneer Eduardo hem een cadeaubon van 100 Amerikaanse dollar voor zijn favoriete restaurant aanbiedt.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Het contant geld weigeren, maar er vervolgens mee instemmen een teamdiner op kosten van de leverancier bij te wonen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian heeft het geld gehouden in de veronderstelling dat niemand het zou ontdekken.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Nadat Jian het contant geld voor de tweede maal weigerde, drong de leverancier erop aan dat hij ten minste een cadeaubon van 100 Amerikaanse dollar voor een restaurant zou aanvaarden.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian heeft het geld opnieuw beleefd geweigerd, maar ging vervolgens akkoord toen de leverancier hem uitnodigde voor een teamdiner.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[อีดูอาร์โดเสนอแนะว่าพวกเขาจะไปเที่ยวคลับสำหรับผู้ชายในซอยแถวนั้น คนที่เหลือในทีมดูเหมือนว่าสนใจที่จะไปด้วย]]></text>
+		<text><![CDATA[จิอานควรตอบสนองอย่างไร]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[ร้านอาหาร]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[ไปเที่ยวคลับกับอีดูอาร์โดและทีมของเขา แต่ปฏิเสธไม่ให้จ่าย เพื่อให้การเลี้ยงรับรองของอีดูอาร์โดไม่แพงมากเกินไป]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[ไปดื่มหนึ่งแก้วเพื่อรักษามารยาทและหลีกเลี่ยงที่จะทำให้อีดูอาร์โดอับอาย แต่ให้แน่ใจว่าอยู่ไม่นาน]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[ปฏิเสธอย่างสุภาพแล้วกลับบ้าน]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[จิอานคิดถูกต้องเกี่ยวกับปริมาณการเลี้ยงรับรองที่เขายอมรับได้ แต่ยังมีปัญหาอื่นที่ต้องกังวล]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[แม้ว่าจิอานเจตนาที่จะไปร่วมกับอีดูอาร์โดและทีมของเขาแค่ในเวลาสั้น ๆ แต่ก็ยังคงก่อให้เกิดปัญหาที่ไม่คาดคิดสำหรับจิอานและจอห์นสัน คอนโทรลส์ได้]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[นี่เป็นตัวเลือกที่ปลอดภัย]]></text>
+		</correct>
+	</feedback>
+</contents>

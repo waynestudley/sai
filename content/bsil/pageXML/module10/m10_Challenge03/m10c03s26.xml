@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s26">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Chris sugere irem a uma boate de strip-tease famosa no fim da rua. Alguns outros membros da equipe parecem interessados.]]></text>
+		<text><![CDATA[Como Carlos deve reagir?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s26/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Escolha uma opção e selecione OK.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Ir à boate com Chris e sua equipe, mas insistir em pagar para que a hospitalidade de Chris não seja tão excessiva.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Tomar uma bebida para ser educado e evitar constranger Chris, mas ir embora logo.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Recusar educadamente e ir embora.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos vai à boate com Chris e sua equipe.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos vai à boate com Chris e sua equipe, mas vai embora logo depois de chegar.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Um dos membros da equipe de Chris entra em uma briga na boate. Alguém chama a polícia e algumas pessoas do grupo devem testemunhar no tribunal.]]></text>
+			<text><![CDATA[Mas como Carlos foi embora depois do jantar e não foi à boate, ele não estava envolvido e não vai ter que testemunhar no tribunal. A decisão dele de ir embora da boate evita constrangimentos para ele e a Johnson Controls por associação.]]></text>
+		</correct>
+	</feedback>
+</contents>

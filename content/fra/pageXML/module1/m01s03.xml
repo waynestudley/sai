@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[Savez-vous reconnaître les situations risquées ? Lisez ce scénario et décidez s’il constitue un conflit d’intérêts.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[Un bureau]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Pouvez-vous identifier un conflit d’intérêts ?  Décidez si les situations suivantes présentent un conflit potentiel et doivent être signalées :]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Sélectionnez Oui ou Non pour chaque option puis cliquez sur Valider.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+		<text><![CDATA[Cliquez sur les points d’interrogation afin d’en savoir plus.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[Femme qui porte un tablier, comme si elle travaillait dans une boulangerie]]></img>
+			<text style="width: 450px;"><![CDATA[Jennifer, une employée de Johnson Controls, prévoit de travailler dans la nouvelle boulangerie de sa sœur uniquement le week-end mais, cette semaine, elle a pris un arrêt maladie pour aider sa sœur à préparer la boulangerie pour l’ouverture.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[Homme en costume]]></img>
+			<text style="width: 450px;"><![CDATA[Alex, qui travaille au service des achats de Johnson Controls, pense que son ami Steve serait parfait pour un poste vacant au sein de l’entreprise. Il parle du poste à Steve et lui conseille de postuler en ligne.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[Femme originaire du Moyen-Orient en tailleur]]></img>	
+			<text style="width: 450px;"><![CDATA[Basma est ingénieure qualité chez Johnson Controls. L’un de ses fournisseurs lui propose un poste de consultante. Il affirme avoir besoin d’aide pour mettre en place les contrôles de qualité d’une nouvelle gamme de produits destinée à Johnson Controls. Le fournisseur explique à Basma qu’elle pourra faire ce travail le soir et le week-end, en dehors de ses horaires de travail.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[Homme en costume]]></img>	
+			<text style="width:450px;"><![CDATA[Carl est chargé de choisir un prestataire de services informatiques pour aider Johnson Controls sur un projet important. Plus tôt dans l’année, il a investi une somme importante dans l’entreprise d’informatique de son ami, qui a répondu à l’appel d’offres de ce projet.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Oui]]></text>
+		<text><![CDATA[Non]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[C’est exact.]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[C’est faux. ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[Cliquez sur les points d’interrogation afin d’en savoir plus.]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[Le fait que Jennifer travaille à la boulangerie le week-end pour aider sa sœur ne pose aucun problème. Cela crée en revanche un conflit d’intérêts si son engagement auprès de sa sœur nuit à ses responsabilités professionnelles chez Johnson Controls, comme lorsqu’elle a fait semblant d’être malade pour prendre une journée afin de donner un coup de main à la boulangerie dans la semaine.]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[Même si Alex travaille au service des achats, il n’a pas usé de son influence pour aider un ami à obtenir le poste. Alex a tout à fait le droit de conseiller à Steve de postuler en ligne, car Steve passera par le même processus que tous les autres candidats.]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[Basma supervise le travail d’un fournisseur pour lequel elle envisage maintenant de travailler en plus de son emploi chez Johnson Controls. Si elle travaille pour les deux entreprises, laquelle privilégiera-t-elle ? Basma risque d’avoir des décisions difficiles à prendre et il faut éviter cette situation. Elle doit au minimum signaler le conflit d’intérêts potentiel.]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[Si l’entreprise dans laquelle il a investi remporte l’appel d’offres, Carl en bénéficiera financièrement. Son implication dans cette décision pourrait remettre en cause sa capacité à faire preuve d’objectivité, ce qui constitue un conflit d’intérêts.]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s06">
+	<transcript>
+		<text path="audio/module7/m07s06" id="0"><![CDATA[Každý z týchto zamestnancov urobil vyhlásenie o duševnom vlastníctve. Vyberte všetky vyhlásenia, s ktorými súhlasíte, a potom kliknite na tlačidlo Odoslať.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module7/m07s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 580px;right: 430px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Súhlasíte alebo nesúhlasíte s každým z týchto vyhlásení o duševnom vlastníctve?]]></text>
+	</contentText>
+	<instructionText style="height:36px;">
+		<text><![CDATA[Vyberte, či súhlasíte alebo nesúhlasíte s týmito vyhláseniami a potom kliknite na tlačidlo Odoslať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent style="width:582px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img01.png"><![CDATA[Zamestnanec]]></img>
+			<text style="width: 312px;"><![CDATA[Ak pri práci pre spoločnosť Johnson Controls niečo vytvorím, mám právo používať moje dielo, ako si želám]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img02.png"><![CDATA[Zamestnanec]]></img>
+			<text style="width: 312px;"><![CDATA[Akonáhle je niečo označené ochrannou známkou alebo chránené autorskými právami, je to vždy chránené]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img03.png"><![CDATA[Zamestnankyňa]]></img>	
+			<text style="width: 312px;"><![CDATA[Uvoľnenie duševného vlastníctva spoločnosti Johnson Controls môže poškodiť naše podnikanie]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img04.png"><![CDATA[Zamestnankyňa]]></img>	
+			<text style="width:312px;"><![CDATA[Ak sú informácie alebo obrázky k dispozícii zadarmo online, môžem ich použiť na obchodné účely]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Súhlasím]]></text>
+		<text><![CDATA[Nesúhlasím]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -114px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[To je správne.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Všetko, čo vytvárate, vymýšľate alebo zdokonaľujete vo svojej práci v spoločnosti Johnson Controls, zvyčajne patrí spoločnosti Johnson Controls a nie vám. Keď opustíte spoločnosť, všetko duševné vlastníctvo naďalej patrí spoločnosti Johnson Controls a nesmiete ho používať samostatne, v inej spoločnosti alebo ho zdieľať s inými.</li> <li>Práva na ochranu duševného vlastníctva, a to vrátane ochranných známok a autorských práv, môžu byť oslabené alebo stratené nevhodným používaním alebo neopatrnosťou. Zatiaľ čo právnici spoločnosti Johnson Controls tvrdo pracujú na tom, aby obhajovali naše práva na ochranu duševného vlastníctva, každý z nás má aj svoju úlohu. Musíme byť starostliví pri ochrane nášho duševného vlastníctva v každodenných obchodných aktivitách.</li> <li>Duševné vlastníctvo spoločnosti Johnson Controls je životne dôležité pre podnikanie. Jeho zneužitie alebo uvoľnenie neoprávneným príjemcom môže spôsobiť spoločnosti vážne problémy. V niektorých prípadoch môže dôjsť k strate ochrany duševného vlastníctva prostredníctvom zneužitia, zatiaľ čo zverejnenie obchodných tajomstiev alebo dizajnov spoločnosti Johnson Controls môže narušiť našu konkurencieschopnosť na trhu.</li> <li>Máme jednoduchý prístup k neuveriteľným množstvám informácií online, ale len preto, že niečo je verejne dostupné, neznamená, že máme právo to používať. Väčšina z toho, čo nájdete na internete, je chránené, a to vrátane písaných textov, fotografií, karikatúr, kódu a softvéru. Nikdy nepoužívajte niečo, čo nájdete online, pre podnikanie spoločnosti Johnson Controls, ak si nie ste istý, že máme povolenie od vlastníka tak urobiť.</li> </ul>]]></text>
+		</correct>
+		<incorrect style="top: -114px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[To nie je správne.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Všetko, čo vytvárate, vymýšľate alebo zdokonaľujete vo svojej práci v spoločnosti Johnson Controls, zvyčajne patrí spoločnosti Johnson Controls a nie vám. Keď opustíte spoločnosť, všetko duševné vlastníctvo naďalej patrí spoločnosti Johnson Controls a nesmiete ho používať samostatne, v inej spoločnosti alebo ho zdieľať s inými.</li> <li>Práva na ochranu duševného vlastníctva, a to vrátane ochranných známok a autorských práv, môžu byť oslabené alebo stratené nevhodným používaním alebo neopatrnosťou. Zatiaľ čo právnici spoločnosti Johnson Controls tvrdo pracujú na tom, aby obhajovali naše práva na ochranu duševného vlastníctva, každý z nás má aj svoju úlohu. Musíme byť starostliví pri ochrane nášho duševného vlastníctva v každodenných obchodných aktivitách.</li> <li>Duševné vlastníctvo spoločnosti Johnson Controls je životne dôležité pre podnikanie. Jeho zneužitie alebo uvoľnenie neoprávneným príjemcom môže spôsobiť spoločnosti vážne problémy. V niektorých prípadoch môže dôjsť k strate ochrany duševného vlastníctva prostredníctvom zneužitia, zatiaľ čo zverejnenie obchodných tajomstiev alebo dizajnov spoločnosti Johnson Controls môže narušiť našu konkurencieschopnosť na trhu.</li> <li>Máme jednoduchý prístup k neuveriteľným množstvám informácií online, ale len preto, že niečo je verejne dostupné, neznamená, že máme právo to používať. Väčšina z toho, čo nájdete na internete, je chránené, a to vrátane písaných textov, fotografií, karikatúr, kódu a softvéru. Nikdy nepoužívajte niečo, čo nájdete online, pre podnikanie spoločnosti Johnson Controls, ak si nie ste istý, že máme povolenie od vlastníka tak urobiť.</li> </ul>]]></text>	
+		</incorrect>		
+	</feedback>
+	
+</contents>

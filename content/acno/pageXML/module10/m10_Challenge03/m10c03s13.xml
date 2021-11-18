@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[Una clienta le ha pedido a Carlos que haga un trabajo extra. ¿Cómo cree que debería responder Carlos? Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[¿Qué debería hacer Carlos?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Aceptar hacer el trabajo, pedirle a David que jure mantener el secreto y completar la tarea juntos antes de irse.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Decirle a David que haga el trabajo si quiere, pero que él no estará involucrado.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Explicarle amablemente a la clienta que no puede aceptar, ya que eso le quitaría negocios a Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos y David completaron el trabajo antes de irse. ¡Es fácil! Además, siempre llevan unos cuantos sensores extra para que Johnson Controls no lo note.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[David acuerda aceptar el trabajo paralelo.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos llama a su gerente, quien informa al equipo de ventas, y ellos determinan una cotización para el trabajo adicional. El trabajo va a Johnson Controls, en lugar de ser desviado a Carlos o David personalmente.]]></text>
+		</correct>
+	</feedback>
+</contents>

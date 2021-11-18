@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[あなたは危険な状況をどの程度認識できていますか? このシナリオを読み、各オプションについて「同意する」または「同意しない」を選択し、「送信」をクリックします。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[役員回廊]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:13px;line-height:17px;"><![CDATA[中東であなたが協業しているあるコンサルタントが、貨物の輸入税は高かったけれど「もっと安く済む解決法」を彼が見つけたので、貨物はリリースされた、とあなたに言います。 次の説明のうち、どれに同意しますか?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[各オプションについて、同意するか同意しないかを答え「送信」をクリックしてください。 ]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[ドック]]></img>
+			<text style="width: 450px;"><![CDATA[この「もっと安く済む解決法」には、賄賂を支払われた人物が関与している可能性があります ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[ドック]]></img>
+			<text style="width: 450px;"><![CDATA[疑念をマネージャーまたは法務部に報告すべきです   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[ドック]]></img>	
+			<text style="width: 450px;"><![CDATA[どうなるかを待って確認し、それからマネージャーと話し合います]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[ドック]]></img>	
+			<text style="width:450px;"><![CDATA[そのコンサルタントが当社の代理として賄賂を支払ったのであれば、彼が責任を負うのであってJohnson Controlsではありません]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[ドック]]></img>	
+			<text style="width:450px;"><![CDATA[お金を節約できたことについて、このコンサルタントに感謝するべきであり、将来はこの方法でもっと仕事を通すべきです]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[同意]]></text>
+		<text><![CDATA[不同意]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 25px;width: 235px;height: 298px;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[正解です。]]></text>			
+			<text style="font-size: 13px;line-height:18px;margin-bottom:10px;"><![CDATA[「もっと安く済む解決法」は、賄賂の可能性があります。 ときとして、賄賂は非常にわかりにくいことがあります。 このような状況では、疑念をただちにマネージャーと法務またはコンプライアンス部門の担当者に報告すべきであり、または懸念をインテグリティヘルプライン（Integrity Helpline）に報告すべきです。 ]]></text>			
+			<text style="font-size: 13px;line-height:18px;"><![CDATA[第三者がJohnson Controlsの代理として賄賂を支払ったとしても、当社は依然として責任を負います。]]></text>			
+		</correct>
+		<incorrect style="top: 25px;width: 235px;height: 298px;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[不正解です。]]></text>	
+			<text style="font-size: 13px;line-height:18px;margin-bottom:10px;"><![CDATA[「もっと安く済む解決法」は、賄賂の可能性があります。 ときとして、賄賂は非常にわかりにくいことがあります。 このような状況では、疑念をただちにマネージャーと法務またはコンプライアンス部門の担当者に報告すべきであり、または懸念をインテグリティヘルプライン（Integrity Helpline）に報告すべきです。 ]]></text>			
+			<text style="font-size: 13px;line-height:18px;"><![CDATA[第三者がJohnson Controlsの代理として賄賂を支払ったとしても、当社は依然として責任を負います。]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

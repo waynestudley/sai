@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s05">
+	<transcript>
+		<text path="audio/module4/m04s05" id="0"><![CDATA[Niektoré typy osobných údajov sú zrejmé, iné sú však citlivejšie. ]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Osobné údaje môžu mať mnoho foriem. Kliknite na každý nižšie uvedený typ a nájdete ďalšie príklady druhov údajov, ktoré sa môžu považovať za osobné alebo súkromné.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s05/contentBackground.jpg" minwidth="769"><![CDATA[Žena s kartotékou]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 10px 20px;"></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Kliknutím na jednotlivé typy informácií zobrazíte príklady.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:178px">
+		<revealCallOut width="230px" height="178px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s05/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 44px;"><![CDATA[Kontaktné údaje]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 50px;top: -15px;width: 958px;">
+				<text><![CDATA[Meno, telefónne číslo a e-mailová adresa]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s05/btn2.png" minwidth="769"><![CDATA[Vierovyznanie]]></img>
+			<buttonText style="height: 44px;"><![CDATA[Citlivé osobné údaje]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height:70px;top: -15px;width: 958px;">
+				<text><![CDATA[Zdravotný stav, sexuálna orientácia, členstvo v politických stranách, vierovyznanie alebo podobné informácie o súkromných presvedčeniach inej osoby]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s05/btn3.png" minwidth="769"><![CDATA[Zhrnutie]]></img>
+			<buttonText style="height: 44px;"><![CDATA[Informácie o zamestnaní]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 50px;top: -15px;width: 958px;">
+				<text><![CDATA[História zamestnaní a platov]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s05/btn4.png" minwidth="769"><![CDATA[Kreditná karta]]></img>
+			<buttonText style="height: 44px;"><![CDATA[Finančné informácie]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 50px;top: -15px;width: 958px;">
+				<text><![CDATA[Číslo kreditnej karty alebo bankového účtu]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

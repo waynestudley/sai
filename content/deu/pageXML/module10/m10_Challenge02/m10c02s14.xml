@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Wie sollte Dan Emmas Anfrage beantworten?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s14/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Er sollte Emmas Anfrage nachkommen, um eine Kollegin zu unterstützen.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Dan darf medizinische Informationen nicht direkt in der E-Mail weitergeben, kann aber einen Link zu Emmas Blog verschicken.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Dan schlägt Emma vor, Sandy zu fragen, ob sie irgendwie helfen können, anstatt eine unternehmensweite E-Mail zu versenden.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Dan verschickt an alle Johnson Controls-Mitarbeiter eine E-Mail mit Informationen zu Sandys Unfall und einem Link zu Emmas Blog.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Dan verschickt eine E-Mail mit einem Link zu Emmas Blog. Anscheinend ist ihm nicht bewusst, dass dies eine unsachgemäße Nutzung des Mitarbeiter-Verteilers darstellt.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Auf Emmas Frage hin, wie sie ihr helfen kann, schlägt Sandy Emma vor, einigen ihrer Freunde auf der Arbeit von der Facebook-Seite zu erzählen.]]></text>
+			<text><![CDATA[Emma teilt diese Informationen nur mit den Personen, die Sandy vorgeschlagen hat. Sandys Kollegen veröffentlichen Genesungswünsche, die Sandy aufmuntern. Viele Menschen spenden für Sandys Behandlungskosten, sodass sich ihre Sorgen zerstreuen.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s09">
+	<transcript>
+		<text path="audio/module4/m04s09" id="0"><![CDATA[手机和笔记本电脑是移动办公的好帮手，但是它们也让我们更容易受到攻击。 保持警惕，保护您自己和您的合作伙伴。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[使用移动电话、笔记本电脑或其他便携式设备时，您相当于随身携带工作场所。 犯罪分子会随时随地寻找机会，因此必须保持警惕，切勿让自己陷入不必要的风险中。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s09/contentBackground.jpg" minwidth="769"><![CDATA[在机场使用手机的员工]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[单击每个标题。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:185px;">
+		<revealCallOut width="230px" height="190px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn1.png" minwidth="769"><![CDATA[谈论保密话题的两名员工]]></img>
+			<buttonText style="height: 56px;"><![CDATA[对保密话题保密]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: 8px;width: 958px;">
+				<text><![CDATA[切勿通过电话或在可能被偷听的场所当面讨论私人或机密信息。]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn2.png" minwidth="769"><![CDATA[设有多个 Wi-Fi 热点的城市]]></img>
+			<buttonText style="height: 56px;"><![CDATA[避免使用公共 Wi-Fi]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 75px;top: 8px;width: 958px;">
+				<text><![CDATA[使用不安全的公共网络发送的信息可能更容易遭到截获。 相反，应选择公司专门提供的知名 Wi-Fi 热点。 如果您需要使用公共 Wi-Fi，请务必使用 VPN 访问 Johnson Controls 网络。]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn3.png" minwidth="769"><![CDATA[在机场使用笔记本电脑工作的员工]]></img>
+			<buttonText style="height: 56px;"><![CDATA[检查周围环境]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: 8px;width: 958px;">
+				<text><![CDATA[注意周围可能会看到您的电脑屏幕的人员。 考虑在设备显示屏上安装防偷窥屏保。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn4.png" minwidth="769"><![CDATA[使用磁卡的员工]]></img>
+			<buttonText style="height: 56px;"><![CDATA[随身带好您的磁卡]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: 8px;width: 958px;">
+				<text><![CDATA[确保您时刻知晓您门禁磁卡的位置。 请谨记，在进出工作场所时， <br />将磁卡放入衣服内随身携带。]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

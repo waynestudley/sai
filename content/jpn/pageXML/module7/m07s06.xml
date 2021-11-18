@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s06">
+	<transcript>
+		<text path="audio/module7/m07s06" id="0"><![CDATA[これらの従業員はそれぞれ、知的財産権に関して発言しています。 同意するすべての文章を選択して「提出」をクリックします。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module7/m07s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 580px;right: 430px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[知的財産について、これらの文章それぞれに同意しますか？同意しませんか？]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[これらの文章に同意するかしないか選択し、「提出」をクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent style="width:582px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img01.png"><![CDATA[男性従業員]]></img>
+			<text style="width: 312px;"><![CDATA[Johnson Controlsで働いている間に何かを製作する場合、私には希望する通りにその制作物を使用する権利があります]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img02.png"><![CDATA[男性従業員]]></img>
+			<text style="width: 312px;"><![CDATA[一旦商標登録されたり、著作権で保護されたりすると、それは常に保護されています]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img03.png"><![CDATA[女性の従業員]]></img>	
+			<text style="width: 312px;"><![CDATA[Johnson Controlsの知的財産を手放すことは、事業に打撃を与える可能性があります]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img04.png"><![CDATA[女性の従業員]]></img>	
+			<text style="width:312px;"><![CDATA[情報または画像が無料でオンラインで利用できるならば、私はビジネス目的のためにそれらを利用することができます]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[同意]]></text>
+		<text><![CDATA[不同意]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -104px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:16px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[正解です。]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Johnson Controlsの仕事で何かを作成、発明、精製する場合、一般的にその制作物はJohnson Controlsに属し、あなた自身には属しません。 一度会社を退職すると、すべてのIPはJohnson Controlsに属し、別の企業で独自に使用したり、他人と共有することはできません。</li> <li>商標や著作権を含むIP権利は、弱くなったり、不適切な使用や不注意によって失われる可能性があります。 Johnson Controlsの弁護士はIP権利を守るために努力し、私たちそれぞれが役割を果たしています。 私たちは、日々の業務において知的財産を保護するように注意する必要があります。</li> <li>Johnson ControlsのIPは、ビジネスに重要です。 誤用したり、認可されていない受取人に手放すと、会社にとって重大な問題を作り出す可能性があります。 いくつかのケースでは、IP保護は誤用により失われる可能性があります。また、Johnson Controlsの企業秘密またはデザインを開示することで、市場において競争的に当社に損害をもたらす可能性もあります。</li> <li>私たちはオンライン上の途方もない量の情報へ簡単にアクセスできますが、一般的に公開されているからといって、その情報を使う権利があることを意味しません。 文書、写真、アニメ、コード、ソフトウェアなど、インターネット上で見つかるほとんどの物は保護されています。 所有者に使用許可を取らない限り、オンラインで見つけたものをJohnson Controlsの業務に使用しないでください。</li> </ul>]]></text>
+		</correct>
+		<incorrect style="top: -104px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:16px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[不正解です。]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Johnson Controlsの仕事で何かを作成、発明、精製する場合、一般的にその制作物はJohnson Controlsに属し、あなた自身には属しません。 一度会社を退職すると、すべてのIPはJohnson Controlsに属し、別の企業で独自に使用したり、他人と共有することはできません。</li> <li>商標や著作権を含むIP権利は、弱くなったり、不適切な使用や不注意によって失われる可能性があります。 Johnson Controlsの弁護士はIP権利を守るために努力し、私たちそれぞれが役割を果たしています。 私たちは、日々の業務において知的財産を保護するように注意する必要があります。</li> <li>Johnson ControlsのIPは、ビジネスに重要です。 誤用したり、認可されていない受取人に手放すと、会社にとって重大な問題を作り出す可能性があります。 いくつかのケースでは、IP保護は誤用により失われる可能性があります。また、Johnson Controlsの企業秘密またはデザインを開示することで、市場において競争的に当社に損害をもたらす可能性もあります。</li> <li>私たちはオンライン上の途方もない量の情報へ簡単にアクセスできますが、一般的に公開されているからといって、その情報を使う権利があることを意味しません。 文書、写真、アニメ、コード、ソフトウェアなど、インターネット上で見つかるほとんどの物は保護されています。 所有者に使用許可を取らない限り、オンラインで見つけたものをJohnson Controlsの業務に使用しないでください。</li> </ul>]]></text>	
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[ซองเงินมุลค่า 250 ดอลลาร์ คาร์ลอสปฏิเสธของกำนัลและซัพพลายเออร์ยังยืนยันที่จะให้ เขาควรทำอย่างไร]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[รับเงินไว้แต่แบ่งกับทีมงานเพื่อไม่ให้ใครคนใดคนหนึ่งได้รับเงินจำนวนมาก]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[ปฏิเสธเงินสดอีกครั้ง  เมื่อคริสตอบสนองด้วยการเชิญคาร์ลอสเข้าร่วมกับเขาและทีมงานที่สปอร์ตบาร์เพื่อชมเกมสำคัญ คาร์ลอสรับข้อเสนอ]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[ปฏิเสธเงินอีกครั้งและ<span class="fontBoldItalic" >ปฏิเสธ</span>ข้อเสนอของคริสที่จะให้เข้าร่วมกับเขาและทีมของเขาที่สปอร์ตบาร์ระหว่างเกมสำคัญ]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[คาร์ลอสแบ่งเงินกับทีมงาน โดยให้เห็นผลว่าไม่มีใครได้รับเงินที่เกนิกว่าขีดจำกัดสำหรับของกำนัลที่กำหนดโดยจอห์นสัน คอนโทรลส์ แต่ในหลายเดือนต่อมา บริษัทอื่นเริ่มสืบสวนข้อกล่าวหาว่าผู้รับเหมาช่วงกำลังใช้ของกำนัลที่ไม่เหมาะสมเพื่อการส่งเสริมธุรกิจซ้ำ]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[หลังคาร์ลอสปฏิเสธเงินเป็นครั้งที่สอง คริสตระหนักว่าเขาจริงจังและเปลี่ยนข้อเสนอ เขาเชิญคาร์ลอสและทีมงานเข้าร่วมเกมสำคัญที่สปอร์ตบาร์แทน]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[หลังคาร์ลอสปฏิเสธเงินเป็นครั้งที่สอง และปฏิเสธข้อเสนอที่จะพาทีมงานของเขาไปรัปบระทานอาหารเย็น คริสตระหนักว่าเขาจริงจังและเลิกฝืน]]></text>
+		</correct>
+	</feedback>
+</contents>

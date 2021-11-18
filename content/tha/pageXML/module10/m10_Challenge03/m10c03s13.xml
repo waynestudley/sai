@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[ลูกค้าขอให้คาร์ลอสทำงานพิเศษ คุณคิดว่าเขาควรทำอย่างไร เลือกหนึ่งตัวเลือก จากนั้นคลิก ตกลง]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[คาร์ลอสควรทำอย่างไร]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[รับงาน ขอให้เดวิดเก็บเป็นความลับ และทำงานกันให้เสร็จก่อนที่จะกลับ]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[บอกเดวิดให้ทำงานหากเขาต้องการ แต่เขาไม่ต้องเข้ามาเกี่ยวข้อง]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[อธิบายแก่ลูกค้าอย่างสุภาพว่าไม่สามารถรับงานได้เนื่องจากจะเป็นการแย่งงานจากจอห์นสัน คอนโทรลส์]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[คาร์ลอสและเดวิดทำงานเสร็จก่อนกลับ ง่ายเลย! และพวกเขามักมีเซ็นเซอร์สำรองไม่กี่ตัว จอห์นสัน คอนโทรลส์ไม่มีทางรู้หรอก]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[เดวิดยอมรับที่จะรับงานนอก]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[คาร์ลอสโทรหาผู้จัดการของเขาซึ่งแจ้งให้ทีมฝ่ายขายทราบและพวกเขาก็ทำใบเสนอราคาสำหรับงานเพิ่มเติม จอห์นสัน คอนโทรลส์ได้งานแทนที่จะโอนไปยังคาร์ลอสหรือเดวิดเป็นการส่วนตัว]]></text>
+		</correct>
+	</feedback>
+</contents>

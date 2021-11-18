@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m02s09">
+	<transcript>
+		<text path="audio/module2/m02s09" id="0"><![CDATA[Semak pemahaman anda tentang perkara yang boleh diterima dan tidak boleh diterima. Pilih boleh diterima atau tidak boleh diterima untuk setiap pilihan, kemudian klik Serah.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s09/contentBackground.jpg" minwidth="769"><![CDATA[Hadiah]]></img>
+	</contentBackground>
+	<contentBg style="width: 647px;right: 358px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Adakah hadiah ini Boleh Diterima atau Tidak Boleh Diterima?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Pilih Boleh Diterima atau Tidak Boleh Diterima untuk setiap pilihan, kemudian klik Serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="width:650px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img01.png"><![CDATA[Pen Johnson Controls]]></img>
+			<text style="width: 336px;"><![CDATA[Seorang pekerja Johnson Controls menghantar sebatang pen yang mempunyai logo Johnson Controls kepada pelanggan untuk menandakan berakhirnya projek yang berjaya]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img02.png"><![CDATA[Pekerja memegang kad hadiah]]></img>
+			<text style="width: 336px;"><![CDATA[Semasa cuti, pembekal menghantar sijil hadiah bernilai USD$50 kepada pekerja Johnson Controls]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img03.png"><![CDATA[Tempat Duduk Di Petak]]></img>	
+			<text style="width: 336px;"><![CDATA[Vendor memberikan pekerja Johnson Controls 4 tiket tempat duduk di petak ke permainan penentuan sukan profesional, memberitahu pekerja tersebut bahawa dia menerima tiket tersebut secara percuma daripada syarikatnya]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img04.png"><![CDATA[Pekerja memegang Botol Champagne]]></img>	
+			<text style="width:336px;"><![CDATA[Pembekal lama, yang pada masa ini membida kontrak Johnson Controls, menghantar beberapa botol champagne kepada pasukan Johnson Controls]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;line-height:22px;font-size:11px;"><![CDATA[Boleh Diterima]]></text>
+		<text styleWidth="width:100px;line-height:11px;font-size:11px;"><![CDATA[Tidak Boleh Diterima]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -91px;width: 300px;height: 430px;padding-top: 20px;right: -335px;line-height:18px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[Itu betul.]]></text>			
+			<text style="font-size: 14px;line-height:14px"><![CDATA[<ul> <li>Had Johnson Controls untuk melaporkan hadiah ialah USD$200. </li> <li>Anda boleh menerima hadiah bernilai kurang daripada USD$200 dengan syarat tiada nilai untuk mempengaruhi anda secara tidak wajar atau mewujudkan kewajipan akan datang. </li> <li>Jika anda ditawarkan hadiah bernilai USD$200 atau ke atas (seperti tiket permainan), anda mesti mendedahkannya menggunakan borang hadiah. Borang akan disemak semula dan anda akan dimaklumkan sama ada anda boleh menyimpan hadiah tersebut atau tidak.</li> <li>Anda tidak boleh menawarkan atau menerima sebarang nilai tunai atau setara tunai seperti kad hadiah.</li> <li>Semua hadiah yang bertujuan untuk ditawarkan kepada pelanggan komersial mesti diluluskan lebih awal oleh pengurus perniagaan anda. </li> <li>Hadiah yang bertujuan untuk ditawarkan kepada pegawai Kerajaan memerlukan kelulusan awal, 7 hari lebih awal, menggunakan borang AB.</li> <li>Borang boleh didapati di <a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a></li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -91px;width: 300px;height: 430px;padding-top: 20px;right: -335px;line-height:18px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[Itu salah.]]></text>	
+			<text style="font-size: 14px;line-height:14px"><![CDATA[<ul> <li>Had Johnson Controls untuk melaporkan hadiah ialah USD$200. </li> <li>Anda boleh menerima hadiah bernilai kurang daripada USD$200 dengan syarat tiada nilai untuk mempengaruhi anda secara tidak wajar atau mewujudkan kewajipan akan datang. </li> <li>Jika anda ditawarkan hadiah bernilai USD$200 atau ke atas (seperti tiket permainan), anda mesti mendedahkannya menggunakan borang hadiah. Borang akan disemak semula dan anda akan dimaklumkan sama ada anda boleh menyimpan hadiah tersebut atau tidak.</li> <li>Anda tidak boleh menawarkan atau menerima sebarang nilai tunai atau setara tunai seperti kad hadiah.</li> <li>Semua hadiah yang bertujuan untuk ditawarkan kepada pelanggan komersial mesti diluluskan lebih awal oleh pengurus perniagaan anda. </li> <li>Hadiah yang bertujuan untuk ditawarkan kepada pegawai Kerajaan memerlukan kelulusan awal, 7 hari lebih awal, menggunakan borang AB.</li> <li>Borang boleh didapati di <a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a></li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

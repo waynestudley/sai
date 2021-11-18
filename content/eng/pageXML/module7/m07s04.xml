@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="flipCard" className="m07s04">
+	<transcript>
+		<text path="audio/module7/m07s04" id="0" ><![CDATA[Let’s explore the different types of Intellectual Property that we have here at Johnson Controls. Click on each reveal button to learn more.]]></text>		
+	</transcript>
+	<contentText >
+		<text style=""><![CDATA[At Johnson Controls, our success depends in part on our ability to protect the following:]]></text>
+	</contentText>
+	
+	<contentBackground >
+		<img path="content/images/ltr/module7/m07s04/contentBackground.jpg"  minwidth="769"><![CDATA[Office Background]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Click on each reveal button to learn more. You may need to scroll to read the full answer.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<buttonText >
+		<text><![CDATA[REVEAL]]></text>
+	</buttonText>	
+	<flipCardContent >
+		<flipCard style="width:187px;height: 362px;" >	
+			<buttonImg path="content/images/ltr/module7/m07s04/img1.png" ><![CDATA[File folder labeled “patents”]]></buttonImg>
+			<buttonText  style="height:90px;width:167px;"><![CDATA[Patents]]></buttonText>
+			<popText  style="height:230px;">
+				<text><![CDATA[Patents protect Johnson Controls’ technical inventions, including technical software.]]></text>
+				<text><![CDATA[The application process for a patent can be time-consuming and expensive, but, once obtained, a patent allows us to prevent others from using the invention. This gives us a potentially significant competitive advantage.]]></text>						
+			</popText>	
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module7/m07s04/img2.png"  ><![CDATA[Non-Disclosure Agreement]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Trade Secrets]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Trade secrets include Johnson Controls’ confidential business, process and technical information, such as manufacturing protocols and collected data. Any information about our business that is not widely known gives us an economic advantage in the market and is subject to reasonable measures to protect it as a trade secret.]]></text>					
+				<text><![CDATA[Trade secrets aren’t protected by law in all countries, but we can add protection by being careful to share them only with people who are authorized to receive them. In addition, we request that the recipient signs a nondisclosure agreement (NDA).]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img3.png"  ><![CDATA[Copyright Symbol]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Copyrights]]></buttonText>
+			<popText  style="height:230px;">
+				<text><![CDATA[At Johnson Controls, we use copyrights to protect our software code, packaging and manuals.]]></text>			
+				<text><![CDATA[In many countries, a copyright can protect intellectual property for 70 years after the death of the author. No application is required to protect a copyright, but registration is required to enforce a copyright in the U.S.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img4.png"  ><![CDATA[Employee working on Johnson Controls product]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Design rights]]></buttonText>			
+			<popText  style="height:230px;">
+				<text><![CDATA[Design rights, also known as design patents, protect the design of a product (rather than its technical features).]]></text>			
+				<text><![CDATA[For example, design rights can protect the appearance of a detector and stop competitors from copying the design. However, design rights would not protect the technology that helps the detector function. Johnson Controls would have to obtain a patent for that aspect of the product.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img5.png"  ><![CDATA[Trademark Symbol]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Trademarks]]></buttonText>			
+			<popText  style="height:230px;">
+				<text><![CDATA[Trademarks (including service marks) protect our brands and logos. These are the names or symbols that we use to identify our products and services.]]></text>			
+				<text><![CDATA[Many things can become a trademark, including colors, shapes and even scents and sounds. The name "Coca­Cola" is a trademark, as is the Nike "swoosh."]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

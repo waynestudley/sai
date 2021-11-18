@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[지적 재산에 대한 위험에 대해 여러분은 무엇을 알고 있습니까? Maria의 상황을 살펴보고 모든 적절한 답을 선택한 후 '제출'을 클릭하십시오.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Maria는 몇 달 전부터 Johnson Controls에서 일하기 시작했으며, 현재 업계에 큰 반향을 일으키고 있는 신제품 출시에 참여해 왔습니다.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[유사한 산업에 종사하는 Maria의 친구 Pete는 Maria에게 회사 생활이 어떤지 물으면서 신제품에 대한 구체적인 질문을 하기 시작합니다.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Maria는 어떻게 대응해야 할까요?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA[Maria와 Pete]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;">
+		<text><![CDATA[모든 적절한 대응을 선택하고 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[정답은 한 개 이상일 수 있습니다.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[그녀는 제품 및 제품의 출시에 대해 상세히 말하기 전에 자신이 말하는 어떤 것도 다른 사람에게 이야기하지 않겠다고 약속하라고 Pete에게 말해야 합니다.]]></option>	
+		<option><![CDATA[그녀는 제품 또는 출시에 대한 상세한 정보를 말하지 말고 회사 생활에 대한 느낌(예: 흥미로움, 도전적임 등)을 Pete에게 말해야 합니다.]]></option>	
+		<option><![CDATA[그녀는 자신이 하는 일이 기밀이므로 상세히 말할 수 없다고 Pete에게 말해야 합니다.]]></option>	
+		<option><![CDATA[그녀는 자신의 프로젝트에 대해서만 이야기하고, 일반인이 알 수 없는 세부 사항은 친한 친구 및 가족과만 공유해야 합니다.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-236px">
+			<text><![CDATA[정답입니다.]]></text>
+			<text><![CDATA[Maria는 회사 생활에 대한 느낌은 Pete에게 말할 수 있지만 신제품이나 그것의 출시에 대한 세부 정보를 포함한 회사의 기밀 정보를 말해서는 안 됩니다.]]></text>
+			<text><![CDATA[기억해야 할 핵심 사항은 영업 비밀이나 기밀 정보를 어떤 이유로도 회사 외부의 허가되지 않은 사람들에게 누설해서는 안 된다는 것입니다.]]></text>
+			<text><![CDATA[어떤 경우에도 Johnson Controls가 사용하는 영업 비밀이나 개발한 지적 재산을 친한 친구와 가족이라도 알게 해서는 안 됩니다.<br /><br /><br />]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-236px">
+			<text><![CDATA[정답이 아닙니다.]]></text>
+			<text><![CDATA[Maria는 회사 생활에 대한 느낌은 Pete에게 말할 수 있지만 신제품이나 그것의 출시에 대한 세부 정보를 포함한 회사의 기밀 정보를 말해서는 안 됩니다.]]></text>
+			<text><![CDATA[기억해야 할 핵심 사항은 영업 비밀이나 기밀 정보를 어떤 이유로도 회사 외부의 허가되지 않은 사람들에게 누설해서는 안 된다는 것입니다.]]></text>
+			<text><![CDATA[어떤 경우에도 Johnson Controls가 사용하는 영업 비밀이나 개발한 지적 재산을 친한 친구와 가족이라도 알게 해서는 안 됩니다.<br /><br /><br />]]></text>
+		</incorrect>
+	</feedback>
+</contents>

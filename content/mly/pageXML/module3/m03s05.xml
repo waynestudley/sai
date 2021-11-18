@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[Manakah antara senario-senario ini yang anda rasa ia boleh bermasalah?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Adakah anda rasa contoh ini boleh dianggap sebagai rasuah?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[Orang perniagaan]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Pilih <span class="fontBold">semua</span> senario yang bermasalah dan kemudian, klik Serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Mungkin terdapat lebih daripada satu jawapan yang betul.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Anda menjanjikan hadiah tunai kepada pelanggan sebagai pertukaran untuk keputusan perniagaan yang pilih kasih]]></option>
+		<option><![CDATA[Seorang subkontraktor yang ingin perniagaan anda menjemput anda ke beberapa acara makan malam dan sukan]]></option>
+		<option><![CDATA[Anda membuat sumbangan kempen kepada pegawai kerajaan yang juga pelanggan berpotensi]]></option>
+		<option><![CDATA[Pengurus anda mengupah anak perempuan pelanggan sebagai pertukaran untuk pelanggan bersetuju memanjangkan kontrak semasanya]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Itu betul.]]></text>
+			<text><![CDATA[Sebenarnya, semua senario ini boleh dianggap sebagai rasuah bergantung pada keadaan. Niat untuk mempengaruhi ialah faktor utama tetapi penting juga untuk diingat bahawa walaupun kelihatan seperti rasuah, ia boleh memberikan masalah kepada anda dan Johnson Controls, jadi fikir sebelum anda bertindak!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Itu salah.]]></text>
+			<text><![CDATA[Sebenarnya, semua senario ini boleh dianggap sebagai rasuah bergantung pada keadaan. Niat untuk mempengaruhi ialah faktor utama tetapi penting juga untuk diingat bahawa walaupun kelihatan seperti rasuah, ia boleh memberikan masalah kepada anda dan Johnson Controls, jadi fikir sebelum anda bertindak!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

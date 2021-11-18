@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s09">
+	<transcript>
+		<text path="audio/module8/m08s09" id="0"><![CDATA[Есть несколько важных вещей, которые вы можете делать, чтобы обеспечивать безопасность нашей информации. Чтобы узнать больше, нажмите каждую кнопку «Показать».]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Практикуйте приведенные ниже привычки.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s09/contentBackground.jpg" minwidth="769"><![CDATA[отпечаток пальца]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Чтобы узнать больше, нажмите каждую кнопку «Показать». Чтобы прочитать ответ до конца, вам, возможно, понадобится прокрутить текст.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ПОКАЗАТЬ]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module8/m08s09/img1.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:13px;line-height:15px;"><![CDATA[Отмечайте информацию грифом конфиденциальности]]></buttonText>
+			<popText style="height:220px;font-size: 14px;">
+				<text><![CDATA[Если другие сотрудники не знают, что информация конфиденциальна, они могут не понимать, что ее необходимо защищать. ]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module8/m08s09/img2.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:13px;line-height:15px;"><![CDATA[Обеспечьте безопасное хранение конфиденциальной информации ]]></buttonText>
+			<popText style="height:220px;font-size: 14px;">
+				<text><![CDATA[Запирайте физические материалы и защищайте электронные файлы и свой компьютер с помощью надежного пароля. Никогда никому не сообщайте свой пароль и старайтесь не использовать один и тот же пароль для нескольких файлов или приложений.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img3.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:13px;line-height:15px;"><![CDATA[Проявляйте бдительность во время поездок]]></buttonText>
+			<popText style="height:220px;font-size: 14px;">
+				<text><![CDATA[Мобильные телефоны и USB-накопители легко могут быть утеряны или украдены. Подумайте дважды, прежде чем ехать куда-то, имея при себе конфиденциальную информацию, а также не работайте с ней и не обсуждайте ее там, где вас могут увидеть или услышать посторонние люди. ]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img4.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:12px;line-height:15px;"><![CDATA[Передавайте конфиденциальную информацию по принципу служебной необходимости]]></buttonText>			
+			<popText style="height:220px;font-size: 14px;">
+				<text><![CDATA[Не передавайте конфиденциальную информацию клиентам, партнерам, поставщикам, другим третьим сторонам или другим сотрудникам Johnson Controls, если не выполнены следующие условия: <ul> <li>это необходимо;</li> <li>у вас есть соответствующее разрешение;</li> <li>лицо, получающее информацию, знает, что она является конфиденциальной, и имеет полномочия для ее просмотра;</li> <li>они подписали юридическое соглашение о защите информации (например, соглашение о неразглашении). Даже в таком случае передавайте только тот объем информации, который необходим человеку для выполнения его задачи.</li> </ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img5.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;font-size:13px;line-height:15px;"><![CDATA[Будьте осторожны при использовании социальных сетей]]></buttonText>			
+			<popText style="height:220px;font-size: 14px;">
+				<text><![CDATA[Когда информация попадает в Интернет, вы не можете контролировать то, что делают с ней другие.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

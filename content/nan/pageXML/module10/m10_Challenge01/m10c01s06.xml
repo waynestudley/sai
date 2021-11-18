@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style="line-height:25px"></pageTitle>
+	<contentText>
+		<text style="line-height:18px"><![CDATA[江太太的療程順利完成了，但醫生要求留院觀察。 隔天，因為 IT 部門無法在工作日結束前提供備用筆記型電腦給小江使用，所以小江在太太病房裡用自己的個人筆記型電腦工作。 他可用他的筆記型電腦檢視供應商主檔中的資訊。]]></text>
+		<text style="line-height:18px"><![CDATA[把變更資訊提供給荷莉的最佳方式是什麼？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[江太太的病房]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<instructionText style="padding-bottom:8px;line-height:20px">
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px">
+		<option answer="0" feedbackId="1"><![CDATA[小江登入公用 Wi-Fi，並用自己的個人電子郵件帳戶把更新過的檔案從隨身碟寄出。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[小江知道把更新過的主檔傳送給荷莉進行更新可能會造成問題，因為其他人可能在他不在公司的時候編輯過原始主檔，而他的更新內容會覆寫原有的主檔。 所以，在他到醫院餐廳吃午餐時，他打電話給荷莉，逐一告訴她變更的內容，同時由她把變更內容輸入公司系統中的主檔。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[小江要荷莉到醫院拿他手上加密過的隨身碟。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:220px;" fcStyle="top: -160px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[小江把資訊傳送給荷莉，但下載檔案時卻產生了與目前供應商資料庫相衝突的副本，工作小組因此必須花上好幾個小時更新和確認資訊。]]></text>
+			<text style="font-size:15px;"><![CDATA[小江的公司收到假裝來自合法供應商的假發票，但其中包含意圖詐騙公司者的銀行帳戶資訊。 幾個月之後，這場騙局被揭發了，且調查結果指向供應商資料庫有安全漏洞，發生時間大約落在小江人在醫院的時候。 小江也有一些事情想解釋！]]></text>
+			<text style="font-size:15px;"><![CDATA[對小江來說，最安全的選擇是要求荷莉到醫院取回已加密的隨身碟。 雖然工作團隊還是必須花上好幾個小時的時間，把小江的編輯內容和供應商資料庫中的內容變動整併在一起，但卻可確保敏感資料的安全。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:170px;" fcStyle="top: -160px;">
+			<text style="padding-top:25px;"><![CDATA[荷莉可以更新供應商主檔，而且她後來只被發現犯了少許錯誤，並已修正。]]></text>
+			<text><![CDATA[不過，其他在醫院餐廳用餐的人都會聽到小江說的每一句話，造成供應商資料在非必要的情況下外洩。]]></text>
+			<text><![CDATA[對小江來說，最安全的選擇是要求荷莉到醫院取回已加密的隨身碟。 以下的作法可以確保敏感資料的安全。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:190px;" fcStyle="top: -160px;">
+			<text style="padding-top:25px;"><![CDATA[荷莉取回隨身碟，但當小江在遠端處理工作副本的時候，他的同事編輯了原始檔案。 荷莉上傳小江的版本時，他同事的變更內容遭到了覆寫。 工作團隊必須花許多時間更新和確認資訊。]]></text>
+			<text><![CDATA[小江因下載主檔而遭到責備，但是至少資料的安全無虞。 在尚未確認過其他編輯者是否做了可能受到影響的任何更新之前，荷莉不應上傳修訂過的檔案。]]></text>
+			<text><![CDATA[這個動作是最安全的選擇，因為如此可確保敏感資料的安全。]]></text>
+		</correct>
+	</feedback>
+</contents>

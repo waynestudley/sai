@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[您有多會辨識風險的情況？ 閱讀這些情境，針對每個項目選擇「同意」或「不同意」，然後按一下「提交」。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[官員通道]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[在中東地區與您合作的顧問告訴您，貨物的進口關稅很高，但他發現一個「便宜的方法」，且貨物已經放行了。 以下選項您同意那一項？]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[針對每個敘述選取「同意」或「不同意」，然後按一下「提交」。 ]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[碼頭]]></img>
+			<text style="width: 450px;"><![CDATA[這個「便宜的方法」可能涉及賄賂某人 ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[碼頭]]></img>
+			<text style="width: 450px;"><![CDATA[您應該向您的經理或法務部門報告您的疑慮   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[碼頭]]></img>	
+			<text style="width: 450px;"><![CDATA[您應該靜觀其變，並與您的經理討論]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[碼頭]]></img>	
+			<text style="width:450px;"><![CDATA[如果這位顧問代表我們公司行賄，他需要負擔責任，而不是 Johnson Controls]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[碼頭]]></img>	
+			<text style="width:450px;"><![CDATA[您應該感謝這位顧問幫忙省錢，將來提供更多工作給他]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[同意]]></text>
+		<text><![CDATA[不同意]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[正確。]]></text>			
+			<text style="font-size: 13px;"><![CDATA[「便宜的方法」可能是賄賂。 有時賄賂十分隱晦。 這種狀況下，您應該立刻向經理及法務部門或法規遵循部門呈報您的疑慮，或向誠信服務熱線呈報您的疑慮。 ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[如果第三方代表 Johnson Controls 行賄，我們依然要承擔責任。]]></text>			
+		</correct>
+		<incorrect style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[錯誤。]]></text>	
+			<text style="font-size: 13px;"><![CDATA[「便宜的方法」可能是賄賂。 有時賄賂十分隱晦。 這種狀況下，您應該立刻向經理及法務部門或法規遵循部門呈報您的疑慮，或向誠信服務熱線呈報您的疑慮。 ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[如果第三方代表 Johnson Controls 行賄，我們依然要承擔責任。]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

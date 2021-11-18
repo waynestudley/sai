@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m05s09" maxAttempt="2">
+	<transcript>
+		<text path="audio/module5/m05s09" id="0"><![CDATA[Ste na rade. Pozrite sa, či môžete rozpoznať, čo je alebo nie je vývoz z týchto položiek. Presuňte každú položku do poľa Vývoz alebo Nie je vývoz a potom kliknite na tlačidlo Odoslať.]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[Ako ste si istý tým, že viete určiť, čo je alebo nie je vývoz? Pre každú z týchto položiek rozhodnite, či ide o vývoz alebo nie.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s09/contentBackground.jpg" minwidth="769"><![CDATA[Zamestnanci pracujúci s dokumentmi spoločnosti]]></img>
+	</contentBackground>
+	 <contentBg style="top: 20px;"></contentBg>
+	<pageTitle style="width: 588px;margin-bottom:6px;"></pageTitle>
+	<instructionText style="width: 588px;margin-top:6px;">
+		<text><![CDATA[Presuňte každú položku do jedného z dvoch políčok a potom kliknite na tlačidlo Odoslať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+		<text><![CDATA[Zopakujte znova kliknutím na tlačidlo Skúsiť znova.]]></text>
+		<text><![CDATA[Kliknite na tlačidlo Zobraziť odpoveď.]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 330px; padding: 4px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[SITUÁCIE]]></lable> 
+		<option>			
+			<option height="51px" left="0" top="27px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Zverejňovanie návrhových informácií online]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="88px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Ukázanie technických informácií, ktoré podliehajú exportu, zákazníkovi z inej krajiny v priebehu prehliadky závodu.]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="149px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Zverejnenie technického dokumentu o budúcnosti HVAC v časopise International News]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="210px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Poskytnutie pomoci zákazníkovi, ktorý má občianstvo inej krajiny, pri navrhovaní nového produktu alebo integrácii produktu Johnson Controls do ich koncovej položky]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="271px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Nahranie výkresov na webový portál, ktorý zdieľate s medzinárodnými dodávateľmi]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="332px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[Ukladanie technických dokumentov do interných počítačových sietí, ak je prístup obmedzený iba na zamestnancov so sídlom v tej istej krajine a držiteľov občianstva tej istej krajiny]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="393px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[Zasielanie produktu zákazníkovi vo vašom meste, ak je zákazník občanom a podnikateľom vašej krajiny]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="455px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[Zaslanie e-mailu zákazníkovi v inej krajine, aby ste ich pozvali na večeru a zablahoželali im k nedávnemu veľkému víťazstvu]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="1" topGap="149" bottomGap="33">
+		<dropArea maxDrop="5" style="width:312px;left: 355px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="5" style="width:312px;left: 670px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Vývoz]]></text>
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Nie je vývoz]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[Pustite sem]]></text>
+		<text style="width:301px;left: 277px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[Pustite sem]]></text>
+		<text style="width:301px;left: 277px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[Pustite sem]]></text>
+		<text style="width:301px;left: 277px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[Pustite sem]]></text>
+		<text style="width:301px;left: 277px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[Pustite sem]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[Pustite sem]]></text>
+		<text style="width:301px;left: 593px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[Pustite sem]]></text>
+		<text style="width:301px;left: 593px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[Pustite sem]]></text>
+		<text style="width:301px;left: 593px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[Pustite sem]]></text>
+		<text style="width:301px;left: 593px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[Pustite sem]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 480px;left: 230px;z-index: 10;"><![CDATA[Odoslať]]></text>
+		<text style="position:absolute;top: 480px;left: 200px;z-index: 10;width: 125px;"><![CDATA[Skúsiť znova]]></text>	
+		<text style="position:absolute;top: 480px;left: 180px;z-index: 10; width: 145px;"><![CDATA[Ukázať odpoveď]]></text>	
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct style="top: 146px;height: 165px;"> 
+			<text style="font-size:17px;"><![CDATA[To je správne.]]></text>
+			<text><![CDATA[Nezabudnite, ak si nie ste istí tým, čo je alebo nie je vývoz, obráťte sa na našich odborníkov v oblasti dodržiavania obchodných predpisov.]]></text>
+			
+		</correct>
+		<incorrect style="top: 146px;height: 165px;"> 
+			<text style="font-size:17px;"><![CDATA[Ľutujeme, to nie je správne.]]></text>
+			<text><![CDATA[Nezabudnite, ak si nie ste istí tým, čo je alebo nie je vývoz, obráťte sa na našich odborníkov v oblasti dodržiavania obchodných predpisov.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

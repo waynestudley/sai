@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[ما رأيك في ذلك؟ هل يقوم هؤلاء الموظفون بما يكفي للحفاظ على أمان البيانات الشخصية؟]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[موظف يعمل على بيانات على كمبيوتر محمول]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;left: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[هل تعتقد أن هؤلاء الموظفين يحمون البيانات الشخصية بطريقة وافية بالغرض؟]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[حدد "نعم" أو "لا" لكل خيار، ثم انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module4/m04s07/img01.png"><![CDATA[موظف يلقي نشرة]]></img>
+			<text style="width: 390px;"><![CDATA[إلقاء نشرة تتضمن معلومات شخصية في مكان يمكن للآخرين الوصول إليه]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module4/m04s07/img02.png"><![CDATA[موظف يحتسي القهوة]]></img>
+			<text style="width: 390px;"><![CDATA[الإمساك بفنجان من القهوة أثناء انتظار مهمة طباعة تتضمن بيانات عملاء سرية]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module4/m04s07/img03.png"><![CDATA[كلمة السر]]></img>	
+			<text style="width: 390px;"><![CDATA[استخدام كلمات السر القوية لحماية المستندات التي تحتوي على معلومات شخصية]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module4/m04s07/img04.png"><![CDATA[تقويم]]></img>	
+			<text style="width:390px;"><![CDATA[إبقاء البيانات الشخصية بعد انتهاء وقت الحاجة إليها/طلبها "تحسبًا للمستجدات"]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[نعم]]></text>
+		<text><![CDATA[لا]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 41px;width: 220px;height: auto;padding-top: 20px;left:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[صحيح.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[حماية المعلومات المالية والمصرفية الشخصية للموظفين والعملاء وشركاء العمل أمر بالغ الأهمية. اتبع جميع تدابير الأمان المحددة بواسطتنا ولا تترك معلومات شخصية مطلقًا في مكان يمكن للآخرين رؤيتها فيه حتى إذا كان ذلك لبرهة فقط وبالقرب من أشخاص آخرين تثق بهم. تخلص من المعلومات بطريقة صحيحة عند عدم وجود أي حاجة مشروعة إلى الإبقاء عليها.]]></text>			
+		</correct>
+		<incorrect style="top: 41px;width: 220px;height: auto;padding-top: 20px;left:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[غير صحيح.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[حماية المعلومات المالية والمصرفية الشخصية للموظفين والعملاء وشركاء العمل أمر بالغ الأهمية. اتبع جميع تدابير الأمان المحددة بواسطتنا ولا تترك معلومات شخصية مطلقًا في مكان يمكن للآخرين رؤيتها فيه حتى إذا كان ذلك لبرهة فقط وبالقرب من أشخاص آخرين تثق بهم. تخلص من المعلومات بطريقة صحيحة عند عدم وجود أي حاجة مشروعة إلى الإبقاء عليها.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[คุณเห็นสัญญาณเตือนอะไรในทีนี้ไหม เลือกสิ่งที่คุณพบและคลิกส่ง]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[อะไรคือสัญญาณเตือนที่เกี่ยวกับอีเมลฉบับนี้]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[กล่องข้อความอีเมล]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[เลือกสัญญาณเตือนทั้งหมดและคลิกส่ง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[คำตอบที่ถูกต้องอาจมีมากกว่าหนึ่งข้อ]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[ผู้ซื้ออ้างว่าตนเป็นผู้ซื้อของจอห์นสัน คอนโทรลส์]]></option>	
+		<option><![CDATA[ผู้ซื้ออ้างว่าติดต่อเกี่ยวกับธุรกิจแต่ใช้บัญชี Gmail]]></option>	
+		<option><![CDATA[ผู้ซื้อกำลังขอข้อมูลที่อาจมีการควบคุมและไม่ได้ให้รายละเอียดเกี่ยวกับตนเองเพิ่ม]]></option>	
+		<option><![CDATA[ผู้ซื้อบอกว่าตนเองมาจากฝรั่งเศสแต่ไม่สามารถยืนยันได้จากอีเมลของเขา]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[ถูกต้อง]]></text>
+			<text><![CDATA[ทางผู้ซื้อนั้นขอข้อมูลทางเทคนิคซึ่งอาจถูกห้ามส่งออกและไม่ได้ให้ข้อมูลเกี่ยวกับตนเองเพิ่ม]]></text>
+			<text><![CDATA[อย่างน้อยที่สุด คุณต้องเรียนรู้เพิ่มเติมเกี่ยวกับตัวตนและสถานที่อยู่และข้อจำกัดทางการค้าที่มีผลก่อนให้ความช่วยเหลือทางเทคนิค]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[ขอโทษ คำตอบนี้ไม่ถูกต้อง]]></text>
+			<text><![CDATA[ทางผู้ซื้อนั้นขอข้อมูลทางเทคนิคซึ่งอาจถูกห้ามส่งออกและไม่ได้ให้ข้อมูลเกี่ยวกับตนเองเพิ่ม]]></text>
+			<text><![CDATA[อย่างน้อยที่สุด คุณต้องเรียนรู้เพิ่มเติมเกี่ยวกับตัวตนและสถานที่อยู่และข้อจำกัดทางการค้าที่มีผลก่อนให้ความช่วยเหลือทางเทคนิค]]></text>
+		</incorrect>
+	</feedback>
+</contents>

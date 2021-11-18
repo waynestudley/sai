@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<course>
+	<config>
+		<revisionNumber>sai_Johnson_cntrl_2017_multi_V4400_html_scorm2004</revisionNumber>		
+		<!--
+		CourseType:
+			1: StandAlone
+			2: SCORM 1.2/OCCAM
+			3: SCORM 2004
+			4: AICC	
+			5: TIN_CAN
+			6: Cookies
+		-->
+		<coursetype>3</coursetype>
+		<bookmark>true</bookmark>
+		<!--this is use for cmi.interactions not to send for OCCAM LMS -->
+		<isOCCAMVer>false</isOCCAMVer>
+		<!--
+			in percentage
+		-->
+		<passingscore>80</passingscore>	
+		<assessmentRandomize>true</assessmentRandomize>
+		<showAssessmentFeedBack>true</showAssessmentFeedBack>
+		
+		<preAssessmentRandomize>true</preAssessmentRandomize>
+		<preAssessmentPassingscore>100</preAssessmentPassingscore>
+		<showPreAssessmentFeedBack>false</showPreAssessmentFeedBack>
+		
+		<!--Course completion criteria		
+		SCORM 1.2 and AICC 	and cookies		
+			lesson_status:"incomplete" :default
+			lesson_status:"passed" based on assessment passed
+			lesson_status:"failed" based on assessment failed
+			
+		SCORM 2004 and TIN CAN
+			lesson_status:"completed" assessment visit
+			lesson_status:"incomplete" :default
+			
+			success_status:"passed" based on assessment passed
+			success_status:"failed" failed on assessment failed
+			success_status:"unknown" :default
+       -->		
+		<glossary>false</glossary>		
+		<disablerightclick >true</disablerightclick>		
+        <linearnavigation>true</linearnavigation>	
+        <addJumpingInSubModule>true</addJumpingInSubModule>	
+		
+		<!-- Alternative Challenges -->
+		<root >
+		  <option challenge="1" />
+		  <option challenge="2" />
+		</root>	
+	</config>
+ <!-- Course  Templates  -->
+    <templates>
+		  
+		  <template name="languageSelection" templatePath="framework/template/pages/languageSelection.html" />
+		  <template name="welcomeScreen" templatePath="framework/template/pages/welcomeScreen.html" />
+		  <template name="profileSelection" templatePath="framework/template/pages/profileSelection.html" />
+		  <template name="profileSelection1" templatePath="framework/template/pages/profileSelection1.html" />
+		  <template name="audioSelection" templatePath="framework/template/pages/audioSelection.html" />
+		  <template name="regionSelection" templatePath="framework/template/pages/regionSelection.html" />
+		  <template name="simplePresentation" templatePath="framework/template/pages/simplePresentation.html" />
+		  <template name="comicStrip" templatePath="framework/template/pages/comicStrip.html" />
+		  <template name="formativeMCQ" templatePath="framework/template/pages/formativeMCQ.html" />
+		  <template name="formativeTAWA" templatePath="framework/template/pages/formativeTAWA.html" />
+		  <template name="knowledgeCheckIntro" templatePath="framework/template/pages/knowledgeCheckIntro.html" />
+		  <template name="knowledgeCheckSummary" templatePath="framework/template/pages/knowledgeCheckSummary.html" />
+		  <template name="reveal" templatePath="framework/template/pages/reveal.html" />
+		  
+		  <template name="formativeTrueFalse" templatePath="framework/template/pages/formativeTrueFalse.html" />
+		  <template name="hotSpot" templatePath="framework/template/pages/hotSpot.html" />
+		  <template name="hotSpotCustom" templatePath="framework/template/pages/hotSpotCustom.html" />
+		  <template name="revealCallOut" templatePath="framework/template/pages/revealCallOut.html" />
+		  <template name="graphicReveal" templatePath="framework/template/pages/graphicReveal.html" />
+		  <template name="formativeMCQChallenge" templatePath="framework/template/pages/formativeMCQChallenge.html" />
+		  <template name="preAssessment" templatePath="framework/template/pages/preAssessment.html" />
+		  <template name="preAssessmentIntro" templatePath="framework/template/pages/preAssessmentIntro.html" />
+		  <template name="preAssessmentSummary" templatePath="framework/template/pages/preAssessmentSummary.html" />
+		  <template name="slider" templatePath="framework/template/pages/slider.html" />
+		  <template name="matching" templatePath="framework/template/pages/matching.html" />
+		  <template name="matchingMultiAns" templatePath="framework/template/pages/matchingMultiAns.html" />
+		  <template name="reflectiveTrueFalseImpact" templatePath="framework/template/pages/reflectiveTrueFalseImpact.html" />
+		  
+		  <template name="reflectiveTrueFalse" templatePath="framework/template/pages/reflectiveTrueFalse.html" />
+		  <template name="formativeAgreeDisagree" templatePath="framework/template/pages/formativeAgreeDisagree.html" />
+		  <template name="dragNDrop" templatePath="framework/template/pages/dragNDrop.html" />
+		  <template name="reflectiveTrueFalseNonLabel" templatePath="framework/template/pages/reflectiveTrueFalseNonLabel.html" />
+		   <template name="dragNDrop1" templatePath="framework/template/pages/dragNDrop1.html" />
+		   <template name="accordion" templatePath="framework/template/pages/accordion.html" />
+		   <template name="flipCard" templatePath="framework/template/pages/flipCard.html" />
+		   <template name="comicStripWithNav" templatePath="framework/template/pages/comicStripWithNav.html" />
+		   <template name="videoPlayerWithText" templatePath="framework/template/pages/videoPlayerWithText.html" />
+		   <template name="interactiveVideo" templatePath="framework/template/pages/interactiveVideo.html" />
+		  
+    </templates>
+	<tabIndexFlow>
+		<element button=".btn_Next" />
+		<element button=".btn_Back"  />
+		<element button="#btn_TranscriptOnOff" />
+		<element button="#btn_AudioOnOff"  />
+		<element button="#btn_PlayPauseReplay" />
+		<element button=".btn_Glossary"  />
+		<element button=".btn_Menu"  />		
+	</tabIndexFlow>	
+</course>

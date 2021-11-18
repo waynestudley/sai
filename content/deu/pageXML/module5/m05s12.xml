@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[Nun können Sie zeigen, dass Sie die Regeln für Handelscompliance richtig anwenden können. Verbinden Sie jede Situationsbeschreibung links mit der richtigen Lösung rechts und klicken Sie auf „Übermitteln“.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Zeigen Sie, dass Sie in jeder dieser Situationen richtig handeln würden. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<instructionText  style="width:910px;height:30px;line-height:16px;">
+		<text><![CDATA[Wählen Sie eine Beschreibung aus der ersten Spalte aus und verknüpfen Sie sie durch Ziehen der Pfeile mit der jeweils passenden Lösung in der zweiten Spalte. Wenn Sie alles zugeordnet haben, klicken Sie auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf die Fragezeichen, um mehr zu erfahren.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[DIE SITUATION]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img01.png"><![CDATA[Peking]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[Sie machen Sie auf zu einer Geschäftsreise nach Peking. Ein Kollege bittet Sie, einem dort ansässigen geschäftlichen Ansprechpartner ein Produktmuster mitzubringen.]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:553px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img02.png"><![CDATA[Nahaufnahme des syrischen Staatsangehörigen]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[Sie sind britischer Staatsbürger und besuchen Kunden in EU-Ländern. Sie treffen sich mit einem Vertriebshändler, der die syrische Staatsangehörigkeit besitzt. Er bittet Sie um ein Produktmuster.]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:553px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img03.png"><![CDATA[Kundenvertreter in Saudi-Arabien]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[Ein Kundenvertreter aus Saudi-Arabien stellt Ihnen am Telefon Fragen zum Testprotokoll und zur Designtechnologie eines unserer Produkte.]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:553px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img04.png"><![CDATA[Geschäftsteam]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[Ihr Team arbeitet mit einem Kunden aus dem Ausland zusammen, der OneDrive nutzt. Der Projektmanager bittet Sie, technische Informationen hochzuladen, da er kein Papierexemplar in das Land des Kunden senden darf.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[DIE LÖSUNG]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 643px;top: 8px;height: 60px;">
+				<text style=""><![CDATA[Prüfen, ob dies zulässig ist und ob Sie vorab eine Lizenz benötigen]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img05.png"><![CDATA[Mitarbeiter am Telefon ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 79px;height: 60px;">
+				<text><![CDATA[Ich lehne höflich ab. ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img06.png"><![CDATA[Nahaufnahme eines ernst wirkenden Mannes]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 643px;top: 150px;height: 60px;">
+				<text><![CDATA[Ich bitte um Verschiebung des Gesprächs.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img07.png"><![CDATA[Mitarbeiter am Telefon]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 221px;height: 60px;">
+				<text><![CDATA[Ich lehne die Bitte ab.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img08.png"><![CDATA[Mitarbeiter am Telefon]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[Das war‘s. Sie haben alles richtig zugeordnet.]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[Das stimmt leider nicht. Klicken Sie nun erneut auf jede Lösung, um mehr zu erfahren.]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top:195px">
+				<text style=""><![CDATA[Sofern zulässig, wäre es in dieser Situation das Beste, das Muster vorab zu verschicken. Wenn Ihnen die Handelsmitarbeiter die Erlaubnis erteilt haben, das Produktmuster persönlich mitzunehmen, sollten Sie beim Verlassen und Betreten des Landes dem Zoll gegenüber ordnungsgemäß erklären, was Sie mit sich führen.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top:195px">
+				<text style=""><![CDATA[Sie dürfen ein Produktmuster nicht einer Person aus einem sanktionierten Land wie Syrien geben oder senden. Daher müssen Sie in dieser Situation die Anfrage höflich ablehnen.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:195px">
+				<text style=""><![CDATA[Ehe Sie diese Informationen weitergeben können, benötigen Sie weitere Informationen. Wenden Sie sich an Experten für Handelscompliance, um zu klären, ob diese Informationen an die betreffende Person weitergegeben werden dürfen.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:195px">
+				<text style=""><![CDATA[Sie sollten die Anfrage ablehnen. Wenn Sie die physische Version eines Dokuments nicht exportieren dürfen, gelten diese Beschränkungen auch für die elektronische Version desselben Dokuments.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

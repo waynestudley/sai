@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s04">
+	<transcript>
+		<text path="audio/module8/m08s04" id="0"><![CDATA[黛比对金姆的照片很吃惊。 您是否有过类似金姆的行为？ 选择一个选项，然后提交答案。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[拍摄工作中照片，发布在社交媒体上有何不妥？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module8/m08s04/contentBackground.jpg" minwidth="769"><![CDATA[在家里的女士]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[选择一个选项，然后提交。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[如果是发送到阅后即焚的网站上就没有问题]]></option>	
+		<option><![CDATA[视照片的发送对象而定]]></option>	
+		<option><![CDATA[这种行为不妥，因为照片背景中可能含有机密信息]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[正确。]]></text>
+			<text><![CDATA[我们需要保护客户敏感信息，例如账单和支付信息。 我们公司负有依法保护和处理客户数据的法律义务。 如果未能依法行事，我们可能面临严重处罚。  ]]></text>
+			<text><![CDATA[即使并非有意泄露敏感信息，但这种行为还是会给个人和公司造成严重损害。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[抱歉，回答错误。]]></text>
+			<text><![CDATA[我们需要保护客户敏感信息，例如账单和支付信息。 我们公司负有依法保护和处理客户数据的法律义务。 如果未能依法行事，我们可能面临严重处罚。]]></text>
+			<text><![CDATA[即使并非有意泄露敏感信息，但这种行为还是会给个人和公司造成严重损害。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

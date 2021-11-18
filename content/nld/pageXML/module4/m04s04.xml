@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s04">
+	<transcript>
+		<text path="audio/module4/m04s04" id="0"><![CDATA[We willen allemaal dat onze persoonsgegevens veilig zijn.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Wat staat er op het spel als we persoonsgegevens niet beschermen?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s04/contentBackground.jpg" minwidth="769"><![CDATA[Kantoorruimte]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;"></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Klik op elke persoon om zijn/haar standpunt te horen.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 168px;">
+		<revealCallOut width="180px" height="184px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s04/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Werknemer van Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 90px;top: -15px;">
+				<text><![CDATA[Onze klanten vertrouwen erop dat we hun persoonsgegevens veilig houden. Een beveiligingsinbreuk kan onze reputatie schaden en het vertrouwen van onze klanten ondermijnen.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="214px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s04/btn2.png" minwidth="769"><![CDATA[Klant]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Klant]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 120px;top: -15px;">
+				<text><![CDATA[Ik heb geen behoefte aan nog meer marketingtelefoontjes of ongewenste e-mail in mijn leven. Als ik een bedrijf mijn contactgegevens toevertrouw, verwacht ik dat het bedrijf:<br /> mijn gegevens veilig bewaart en niet in de verkeerde handen laat terechtkomen of niet gebruikt voor andere doeleinden dan deze waarmee ik heb ingestemd.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="409px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn3.png" minwidth="769"><![CDATA[Manager Johnson Controls]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Manager Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: -15px;">
+				<text><![CDATA[Ik speel een actieve rol in politieke organisaties, maar ik wil mijn overtuigingen gescheiden houden van mijn team op het werk of mijn relatie met klanten. Deze informatie moet privé blijven.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="603px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn4.png" minwidth="769"><![CDATA[Werknemer van Johnson Controls]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Werknemer van Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: -15px;">
+				<text><![CDATA[Ik houd mijn medische problemen voor mezelf en wil ze niet delen met andere werknemers die hier geen zaken mee hebben.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="798px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn5.png" minwidth="769"><![CDATA[Aannemer]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Aannemer]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 95px;top: -15px;">
+				<text><![CDATA[Een aantal jaar geleden stal iemand mijn bankrekeninggegevens. Het was een hele rompslomp, die me duur kwam te staan. Ik begrijp dat de bedrijven waarmee ik zaken doe bepaalde financiële gegevens over mijn bedrijf nodig hebben, maar ik verwacht dat ze deze informatie veilig en privé houden.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Tom está pedindo para Emma fornecer a ele os endereços dos clientes da Johnson Controls que são celebridades. Tom oferece a Emma uma parte do lucro se ela fornecer os endereços. O que Emma deve fazer?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Escolha uma opção e selecione OK]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Esclarecer para Tom que ela não quer pagamento algum, mas ainda passar a lista para ele.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Recusar fornecer a lista de endereços para Tom, mas não dizer para ninguém caso pensem que ela está envolvida.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Recusar fornecer a lista de endereços para Tom e informar a situação para o gerente.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Quando Emma concorda em dar os endereços a Tom, ela coloca ambos em risco, mesmo se não aceitar uma parte dos lucros.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma estava certa ao recusar fornecer a Tom a lista de endereços, mas ela deveria reconhecer que o pedido dele é problemático.]]></text>
+			<text><![CDATA[Emma deveria falar com seu gerente ou um membro do Departamento Jurídico. Se Tom continuar pedindo a lista, isso pode gerar um risco à privacidade para a empresa.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma fez a coisa certa ao recusar fornecer a lista de endereços para Tom e também ao informar o pedido dele para o gerente. Se ela tivesse dado as informações para Tom, Emma teria violado a privacidade dos clientes. E ao se manifestar, ela ajudou a empresa a evitar tal ocorrência.]]></text>
+		</correct>
+	</feedback>
+</contents>

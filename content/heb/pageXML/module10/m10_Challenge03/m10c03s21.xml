@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[המעטפה מכילה 250 דולר במזומן. איתי כבר סירב לקבל את המתנה אבל הספק מתעקש. מה עליו לעשות?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[לקבל את הכסף המזומן אך לחלק אותו עם חברי הצוות, כך שאף אחד לא יקבל סכום גדול.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[לסרב שוב לקבל את הכסף המזומן.  כאשר אמיר מגיב על-ידי הזמנת איתי להצטרף אליו ולצוות שלו לבר ספורט כדי לצפות במשחק חשוב, איתי מסכים.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[לסרב שוב לכסף המזומן וגם <span class="fontBoldItalic" >לדחות</span> את הצעות של אמיר להצטרף אליו ואל הצוות לבר ספורט כדי לצפות במשחק חשוב.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[איתי מחלק את הכסף המזומן בין חברי הצוות, כך שאף אחד לא מקבל סכום שחורג ממגבלת המתנות של Johnson Controls. אך כמה חודשים מאוחר יותר, חברה אחרת פתחה בחקירה בחשד לכך שאותו קבלן משנה השתמש במתנות בלתי הולמות במטרה לקבל הזמנות עבודה נוספות.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[לאחר שאיתי סירב לקבל כסף מזומן בפעם השנייה, אמיר מבין שהוא רציני ושינה את הצעתו. במקום זאת, הוא מזמין את איתי להצטרך אליו ולצוות שלו לצפות במשחק חשוב בבר ספורט.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[אחרי שאיתי מסרב לכסף המזומן בפעם השנייה, וגם להצעתו של אמיר לצאת עם הצוות לארוחת ערב, אמיר מבין שהוא רציני והפסיק להתעקש.]]></text>
+		</correct>
+	</feedback>
+</contents>

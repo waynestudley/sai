@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s22">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[小江獲贈一瓶紅酒，他懷疑是供應商愛德華多送的，雖然他並不確定。 他也不知道那瓶紅酒的價值。]]></text>
+		<text><![CDATA[他該怎樣做？]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s22/contentBackground.jpg" minwidth="769"><![CDATA[餐廳吧台背景]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[接受紅酒。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[決定之前，先詢問紅酒的價格。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[婉拒紅酒。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[小江和江太太邊享用晚餐邊喝紅酒。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[小江請酒侍告訴他紅酒的價格，酒侍表示該瓶紅酒的售價超過 200 美元。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[這是最安全的選擇。]]></text>
+		</correct>
+	</feedback>
+</contents>

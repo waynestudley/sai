@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[إلى أي مدى تعلم ما تعززه قوانين حماية المنافسة؟ حدد كل الخيارات التي تعتقد أنها صحيحة هنا، ثم انقر فوق "إرسال".]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[ما الغرض الذي تخدمه قوانين حماية المنافسة؟]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[ميزان العدالة]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;left: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[حدد كل ما ينطبق.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[قد تكون هناك أكثر من إجابة صحيحة واحدة.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[تعزيز خيار المستهلك]]></option>	
+		<option><![CDATA[إدخال عقبات على التجارة]]></option>	
+		<option><![CDATA[إبطاء النمو في قطاعات صناعية معينة]]></option>	
+		<option><![CDATA[تشجيع الصفقات التجارية النزيهة]]></option>	
+		<option><![CDATA[مكافأة الابتكار والتحسين المستمر]]></option>	
+		<option><![CDATA[معاقبة الشركات الناجحة بدرجة هائلة]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-244px">
+			<text><![CDATA[هذا صحيح.]]></text>
+			<text><![CDATA[تهدف قوانين حماية المنافسة إلى ضمان نجاح الشركات للأسباب الصائبة: لأنها توفر أفضل منتجات وخدمات وأسعار. فهي غير مصممة للعقاب على النجاح وإبطاء النمو أو إدخال عقبات على التجارة.]]></text>
+			<text><![CDATA[تؤثر قوانين حماية المنافسة في الطريقة التي نتعاطى بها مع العالم الخارجي، بما في ذلك الجهات المنافسة والموردون والموزعون والعملاء.]]></text>
+			<text style="margin-bottom:70px;"><![CDATA[من المهم للغاية أن تعرف كيف تنطبق قوانين حماية المنافسة عليك وأن عليك أن تمتثل لهذه القوانين أينما كان موقع عملك وحيثما زاولت نشاطك التجاري. في هذه الوحدة، سوف نتناول مبادئ قانون حماية المنافسة وممارساته.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-244px">
+			<text><![CDATA[هذا ليس صحيحًا.]]></text>
+			<text><![CDATA[تهدف قوانين حماية المنافسة إلى ضمان نجاح الشركات للأسباب الصائبة: لأنها توفر أفضل منتجات وخدمات وأسعار. فهي غير مصممة للعقاب على النجاح وإبطاء النمو أو إدخال عقبات على التجارة.]]></text>
+			<text><![CDATA[تؤثر قوانين حماية المنافسة في الطريقة التي نتعاطى بها مع العالم الخارجي، بما في ذلك الجهات المنافسة والموردون والموزعون والعملاء.]]></text>
+			<text style="margin-bottom:70px;"><![CDATA[من المهم للغاية أن تعرف كيف تنطبق قوانين حماية المنافسة عليك وأن عليك أن تمتثل لهذه القوانين أينما كان موقع عملك وحيثما زاولت نشاطك التجاري. في هذه الوحدة، سوف نتناول مبادئ قانون حماية المنافسة وممارساته.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

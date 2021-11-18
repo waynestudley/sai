@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Carlos는 장치를 정비하라는 압박을 받고 있는데, 정비하지 않으면 대형 건물에 있는 많은 계약을 잃을 위험이 있을 수 있습니다. Carlos는 어떻게 해야 할까요?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[돈을 받고 장치를 정비하여 Johnson Controls가 그 건물 내 다른 큰 계약을 잃지 않도록 합니다. 단, Rafael에게 이것이 일회성 거래라는 것을 알립니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[돈을 받을 수는 없지만 장치를 정비하여 Johnson Controls가 그 건물 내 다른 큰 계약을 잃지 않도록 합니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[그 대화를 끝내고 자신의 상사에게 연락합니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos는 Rafael의 돈을 받고 잘못 설치된 장치를 정비합니다. Johnson Controls는 건물 계약을 유지합니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos는 작업을 완료하되 Rafael의 돈을 받지는 않습니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos는 자신의 상사에게 연락합니다.]]></text>
+			<text style=""><![CDATA[Carlos의 상사는 그의 팀에 맡기라고 그에게 지시합니다. Carlos가 사무실로 돌아왔을 때 그들은 규정 준수 부서에 전화합니다. ]]></text>
+			<text style=""><![CDATA[조사가 시작되었고, Rafael은 과거에도 이 제안을 여러 번 했으며 Johnson Controls의 다른 기술자들이 뇌물을 받은 것으로 드러났습니다. 회사는 이러한 기술자에 대해 징계 조치를 내립니다. ]]></text>
+		</correct>
+	</feedback>
+</contents>

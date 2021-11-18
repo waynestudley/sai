@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s22">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[จิอานได้รับการเสนอด้วยไวน์หนึ่งขวด ซึ่งเขาสงสัยว่ามาจากอีดูอาร์โด ซึ่งเป็นซัพพลายเออร์ แม้ว่าเขาจะไม่แน่ใจก็ตาม เขาไม่ทราบมูลค่าของไวน์อีกด้วย]]></text>
+		<text><![CDATA[เขาควรทำอย่างไร]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s22/contentBackground.jpg" minwidth="769"><![CDATA[พื้นหลังบาร์ร้านอาหาร]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[ยอมรับไวน์]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[สอบถามราคาของไวน์ก่อนจะตัดสินใจ]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[ปฏิเสธไวน์อย่างสุภาพ]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[จิอานและภรรยาของเขาดื่มไวน์พร้อมกับอาหารเย็นของพวกเขาอย่างมีความสุข]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[จิอานสอบถามบริกรว่าไวน์ราคาเท่าไร และเธอบอกว่าขายขวดหนึ่งมากกว่า $200 ดอลลาร์สหรัฐ]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[นี่เป็นตัวเลือกที่ปลอดภัย]]></text>
+		</correct>
+	</feedback>
+</contents>

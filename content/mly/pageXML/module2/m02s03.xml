@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[Setakat manakah anda biasa dengan dasar syarikat kita tentang hadiah dan hiburan? Pilih Benar atau Salah untuk setiap pilihan di sini, kemudian klik Serah.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[Pekerja]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Adakah pernyataan mengenai hadiah dan hiburan ini benar atau salah?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Pilih Benar atau Salah untuk setiap pilihan, kemudian klik Serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[Seseorang menerima hadiah dengan hiburan yang sedang berlaku di latar belakang]]></img>
+			<text style="width: 390px;"><![CDATA[Dasar Johnson Controls merangkumi setiap situasi yang berkaitan dengan hadiah dan hiburan: tiada kesamaran]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[Pekerja Sedang Berfikir]]></img>
+			<text style="width: 390px;"><![CDATA[Apabila anda menerima hiburan atau hadiah, anda sepatutnya sentiasa bertanya kepada diri anda sendiri: “Adakah mereka mengharapkan sesuatu daripada saya sebagai balasan?” ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[Pekerja Sedang Berfikir]]></img>	
+			<text style="width: 390px;"><![CDATA[Jika seseorang yang anda tawarkan hadiah atau hiburan mungkin memikirkan bahawa anda mengharapkan sesuatu sebagai balasan, anda tidak patut meneruskannya]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[Pekerja Sedang Berfikir]]></img>	
+			<text style="width:390px;"><![CDATA[Tidak sekali-kali menawarkan atau menerima hadiah dan hiburan adalah tindakan terbaik: ia hanya terlalu berisiko]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Benar]]></text>
+		<text><![CDATA[Salah]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[Itu betul.]]></text>			
+			<text style="font-size: 15px;line-height:17px;"><![CDATA[Memberi dan menerima hiburan dan hadiah boleh diterima dalam keadaan yang betul tetapi memerlukan pertimbangan yang baik dan memahami garis panduan Johnson Controls.]]></text>			
+			<text style="font-size: 15px;line-height:17px;"><![CDATA[Dasar kita tidak boleh menjangka setiap situasi, jadi anda perlu mempertimbangkan keadaan dengan berhati-hati, gunakan pertimbangan anda atau jika tidak pasti, dapatkan nasihat sebelum anda meneruskannya.]]></text>			
+		</correct>
+		<incorrect style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[Itu salah.]]></text>	
+			<text style="font-size: 15px;line-height:17px;"><![CDATA[Memberi dan menerima hiburan dan hadiah boleh diterima dalam keadaan yang betul tetapi memerlukan pertimbangan yang baik dan memahami garis panduan Johnson Controls.]]></text>			
+			<text style="font-size: 15px;line-height:17px;"><![CDATA[Dasar kita tidak boleh menjangka setiap situasi, jadi anda perlu mempertimbangkan keadaan dengan berhati-hati, gunakan pertimbangan anda atau jika tidak pasti, dapatkan nasihat sebelum anda meneruskannya.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/knowledgeCheck/knowledge_check_intro" id="0"><![CDATA[이제 이 과정을 이수했으므로 일련의 문제에 답하여 배운 내용을 확인해 보십시오. 통과하면 수료증을 인쇄할 수 있습니다. '다음'을 클릭하여 지식 수준 확인을 시작하십시오.]]></text>
+	</transcript>
+	<contentBg style="padding: 0;top: 70px;width: 430px;right: 20px;"></contentBg>
+	<pageTitle style="padding:15px 20px 10px 25px;width: 360px;margin-bottom:0px;"></pageTitle>
+	<contentText>
+		<text><![CDATA[문제에 답하여 귀하의 지식 수준을 확인하십시오.]]></text>
+		<text><![CDATA[문제:]]></text>
+		<text><![CDATA[통과 표시:]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="17px" left="0px" bgColor="transparent" color="#0080B6" padding="0px" position="relative"><![CDATA[<i>시작하려면 '다음' 버튼 <span class="nexticon" >[ <img src="content/images/ltr/preAssessment/Next_icon.png" /> ]</span>을 클릭하십시오.</i>]]></text>
+	</contentText>
+    <contentBackground>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentIntro.jpg" minwidth="800" minheight="600"><![CDATA[근무 중인 Johnson Controls 직원]]></img>
+	</contentBackground>
+	
+</contents>

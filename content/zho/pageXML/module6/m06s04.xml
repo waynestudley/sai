@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[我们来测试一下您鉴别不公平竞争行为的能力如何？]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 16px;font-size:14px;"><![CDATA[我们来测试一下您鉴别不公平竞争行为的能力如何？ 请您将不公平竞争的示例与发生的违法协议类型连线。]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;left:785px;top:0px;"><![CDATA[提交]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;right: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 16px;">
+		<text><![CDATA[从第一列中选择一个项目，然后将箭头拖动至第二列中与其匹配的不公平竞争类型。 完成后，请单击“提交”。]]></text>
+		<text><![CDATA[单击问号按钮，以了解更多。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[场景]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img01.png"><![CDATA[两位竞争对手共进午餐]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[两位竞争对手共进午餐]]></dragIcon>
+				<text style=""><![CDATA[两位竞争对手在午餐时会面。 其中一位同意将销售力量集中于北部，而另一位则将集中于南部。]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:553px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img02.png"><![CDATA[三位竞争对手正在交谈]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[三位竞争对手正在交谈]]></dragIcon>
+				<text style=""><![CDATA[服务于同一小型市场的三位竞争对手共同商讨未来一年的规划。 他们查看未来的竞标，并同意轮流成为最低价的竞标者，而其他两方则出价虚高，从而使招标者不予考虑。]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:553px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img03.png"><![CDATA[高级销售主管出席贸易会议]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[高级销售主管出席贸易会议]]></dragIcon>
+				<text style=""><![CDATA[在一次贸易会议中，几位高级销售主管在讨论当地市场最大的供应商如何以不正当手段哄抬价格。 他们达成协议，在价格回落之前，他们将大幅削减订单（或在可能的情况下完全取消订单），并且寻找其他供应商。]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:553px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img04.png"><![CDATA[联合折扣]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[联合折扣]]></dragIcon>
+				<text style=""><![CDATA[某行业的原材料价格持续上涨，业内一些竞争对手达成非正式协议，给予消费者的折扣不得高于 10%。]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;left: 640px;">		
+			<heder><![CDATA[不公平竞争类型]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 643px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[市场划分]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img05.png"><![CDATA[饼状图]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 643px;top: 89px;height: 70px;">
+				<text><![CDATA[围标]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img06.png"><![CDATA[两名商务人士正在合作竞标]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 643px;top: 170px;height: 70px;">
+				<text><![CDATA[联合抵制]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img07.png"><![CDATA[多方决定联合抵制某一客户，以示惩罚]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 643px;top: 251px;height: 70px;">
+				<text><![CDATA[价格操纵]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img08.png"><![CDATA[两位竞争对手正在操纵价格]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="left: 712px;top: 134px;width: 236px;">
+				<text style=""><![CDATA[划分客户或区域（又称划分市场），是指竞争对手商定划分客户、产品或地理区域而达成的协议。 此举会降低特定区域内的竞争，减少客户的选择。]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="left: 712px;top: 134px;width: 236px;">
+				<text style=""><![CDATA[围标是指竞争对手之间协调竞标，以影响投标流程的结果。]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 134px;width: 236px;">
+				<text style=""><![CDATA[通常而言，一家公司自身有权选择进行业务往来的对象。 但是如果两家或多家公司达成协议不与其他公司交易，那么这种联合抵制行为就会违反竞争法。]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 134px;width: 236px;">
+				<text style=""><![CDATA[价格操纵包括竞争对手间达成协议以协调价格或其他竞争条款，而非自由独立地相互竞争。]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

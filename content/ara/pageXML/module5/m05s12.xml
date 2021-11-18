@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[الآن حان دورك لتوضيح معرفتك بكيفية تطبيق قواعد الامتثال التجاري. قم بتوصيل كل موقف على اليسار بالحل الصحيح على اليمين وانقر فوق "إرسال".]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[عليك بتوضيح معرفتك بما ينبغي لك القيام به في كلّ من هذه المواقف. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/rtl/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;left: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;right:836px;top:0px;"><![CDATA[إرسال]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[حدد عنصرًا من العمود الأول، ثم اسحب الأسهم لتوصيله بالحل في العمود الثاني. عندما تنتهي من مهمتك، انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر على علامات الاستفهام لمعرفة المزيد.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;right: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[الموقف]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 348px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/rtl/module5/m05s12/img01.png"><![CDATA[بكين]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[أنت متوجه إلى بكين في رحلة عمل. يطلب منك زميل إحضار عينة منتج إلى جهة اتصال هناك.]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:348px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/rtl/module5/m05s12/img02.png"><![CDATA[صورة مقربة للمواطن السوري]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[أنت مواطن بريطاني تزور عملاء في الاتحاد الأوروبي. تلتقي موزّعًا يحمل الجنسية السورية ويطلب منك إحضار عينة منتج.]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:348px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/rtl/module5/m05s12/img03.png"><![CDATA[مندوب عميل في المملكة العربية السعودية]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[يتصل بك مندوب أحد العملاء من المملكة العربية السعودية لطرح أسئلة حول بروتوكول اختبار أحد منتجاتنا وتقنية تصميمه.]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:348px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/rtl/module5/m05s12/img04.png"><![CDATA[فريق أعمال]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[يتعاون فريقك مع عميل عالمي باستخدام تطبيق OneDrive. يطلب منك مدير المشروع تحميل المعلومات التقنية لأنه غير مسموح له بإرسال نسخة مطبوعة إلى بلد العميل.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;right: 640px;">		
+			<heder><![CDATA[الحل]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 258px;top: 8px;height: 60px;">
+				<text style=""><![CDATA[تحقق لترى ما إذا كان هذا مسموحًا به أم لا وما إذا كنت بحاجة إلى ترخيص قبل المتابعة]]></text>
+				<rightIcon style="height:60px" path="content/images/rtl/module5/m05s12/img05.png"><![CDATA[موظف يتحدث عبر الهاتف ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 258px;top: 79px;height: 60px;">
+				<text><![CDATA[ارفض بطريقة مهذبة. ]]></text>
+				<rightIcon style="height:60px" path="content/images/rtl/module5/m05s12/img06.png"><![CDATA[صورة مقربة لشخص بملامح جادة]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 258px;top: 150px;height: 60px;">
+				<text><![CDATA[اطلب تأجيل المحادثة.]]></text>
+				<rightIcon style="height:60px" path="content/images/rtl/module5/m05s12/img07.png"><![CDATA[موظف يتحدث عبر الهاتف]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 258px;top: 221px;height: 60px;">
+				<text><![CDATA[ارفض القيام بذلك.]]></text>
+				<rightIcon style="height:60px" path="content/images/rtl/module5/m05s12/img08.png"><![CDATA[موظف يتحدث عبر الهاتف]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[أحسنت – لقد قمت بتوصيل الإجابات كلها بطريقة صحيحة.]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[هذا ليس صحيحًا. الآن انقر فوق كل حل مرة أخرى لمعرفة المزيد.]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top: 178px;right: 690px;">
+				<text style=""><![CDATA[إذا كان هذا مسموحًا به، ففي هذا الموقف سيكون من الأفضل شحن العينة مقدمًا. إذا كان مسموحًا لك من قِبل موظفي القسم التجاري بحمل ذلك بطريقة يدوية، فعليك أن تفصح بطريقة مناسبة لسلطات الجمارك عما تحمله عندما تغادر البلاد وتدخلها.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top: 178px;right: 690px;">
+				<text style=""><![CDATA[لا يمكنك مشاركة عينة منتج مع شخص من دولة تخضع لعقوبات اقتصادية، مثل سوريا ولهذا عليك في هذا الموقف أن ترفض بطريقة مهذبة.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top: 178px;right: 690px;">
+				<text style=""><![CDATA[تحتاج إلى المزيد من المعلومات قبل أن تتمكن من مشاركة هذه المعلومات. تحقق مرة أخرى مع خبراء الامتثال التجاري مما إذا كان من الممكن مشاركة هذه المعلومات مع هذا الشخص أم لا.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top: 178px;right: 690px;">
+				<text style=""><![CDATA[عليك أن ترفض الطلب. إذا لم يكن مسموحًا لك بتصدير الإصدار المادي من مستند ما، فإن القيود نفسها تنطبق على الإصدار الإلكتروني من المستند ذلك نفسه.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

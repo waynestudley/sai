@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[Een belangrijke leverancier heeft om een onmiddellijke betaling gevraagd. Wat vindt u dat Jian moet doen? Kies een optie en klik vervolgens op OK.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Jian wordt onder druk gezet om een onmiddellijke betaling goed te keuren voor een factuur van een leverancier. Het succes van een project zou ervan afhangen.]]></text>
+		<text><![CDATA[Wat moet hij doen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[Jian aan de telefoon met Nolan in zijn keuken]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Nolan zeggen de betaling goed te keuren. Het lijkt redelijk om 1.000 Amerikaanse dollar uit te geven om een aanzienlijk groter bedrag aan boetes wegens laattijdige levering te voorkomen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Nolan zeggen de betaling pas goed te keuren als ze meer informatie hebben over de manier waarop het geld zal worden gebruikt met betrekking tot de vergunningen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian draagt de boekhoudafdeling op de factuur te betalen. Dit lijkt de beste manier om op schema te blijven voor het project en bovendien is het minder duur dan de boete van de klant.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Nadat Jian met Nolan heeft gepraat, is hij bezorgd over het verzoek van de leverancier.]]></text>
+		</correct>
+	</feedback>
+</contents>

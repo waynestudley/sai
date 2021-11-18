@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/knowledgeCheck/knowledge_check_intro" id="0"><![CDATA[Ahora que ha completado este curso, compruebe lo que ha aprendido respondiendo una serie de preguntas. Si aprueba, podrá imprimir un certificado de cumplimiento. Haga clic en Siguiente para comenzar la Comprobación de conocimientos.]]></text>
+	</transcript>
+	<contentBg style="padding: 0;top: 70px;width: 480px;right: 20px;"></contentBg>
+	<pageTitle style="padding:15px 20px 10px 25px;width: 360px;margin-bottom:0px;"></pageTitle>
+	<contentText>
+		<text><![CDATA[Compruebe sus conocimientos respondiendo una serie de preguntas.]]></text>
+		<text><![CDATA[Preguntas:]]></text>
+		<text><![CDATA[Nota para aprobar:]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="17px" left="0px" bgColor="transparent" color="#0080B6" padding="0px" position="relative"><![CDATA[<i>Haga clic en el botón Siguiente <span class="nexticon" >[ <img src="content/images/ltr/preAssessment/Next_icon.png" /> ]</span> para comenzar.</i>]]></text>
+	</contentText>
+    <contentBackground>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentIntro.jpg" minwidth="800" minheight="600"><![CDATA[Personal de Johnson Controls en el trabajo]]></img>
+	</contentBackground>
+	
+</contents>

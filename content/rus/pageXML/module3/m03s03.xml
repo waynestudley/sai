@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m03s03">
+	<transcript>
+		<text path="audio/module3/m03s03" id="0"><![CDATA[Предоставление взятки не всегда подразумевает передачу наличных денег. Чтобы узнать больше, нажмите каждую кнопку «Показать».]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Проверьте, правильно ли вы понимаете, что такое взяточничество.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s03/contentBackground.jpg" minwidth="769"><![CDATA[Темные фигуры]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Чтобы узнать больше, нажмите каждую кнопку «Показать». Чтобы прочитать ответ до конца, вам, возможно, понадобится прокрутить текст.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ПОКАЗАТЬ]]></text>
+	</buttonText>	
+	<flipCardContent width="230px">
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img1.png" style=""><![CDATA[В каких случаях происходит взяточничество?]]></buttonImg>
+			<buttonText style="line-height:16px;"><![CDATA[В каких случаях происходит взяточничество?]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[<span class="fontBold">Взяточничество</span> имеет место, когда человеку предоставляют что-либо ценное в попытках недопустимым образом повлиять на его решения или действия.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img2.png" style=""><![CDATA[Один человек передает другому коричневый конверт]]></buttonImg>
+			<buttonText style="line-height:16px;"><![CDATA[Что значит «что-либо ценное»?]]></buttonText>		
+			<popText style="">
+				<text><![CDATA[Чем-либо ценным могут быть деньги или другие предметы, включая следующие:<ul> <li>акции компании;</li> <li>подарки или вознаграждения;</li> <li>слишком дорогие развлекательные мероприятия или знаки гостеприимства;</li> <li>Экскурсии или отпуска, даже если они связаны с допустимыми деловыми поездками;</li> <li>необоснованные скидки или слишком высокие комиссионные вознаграждения;</li> <li>взносы на политические или благотворительные цели;</li> <li>предложения работы клиентам, их родственникам или друзьям;</li> <li>необычные или неявные пособия и расходы;</li> <li>любые другие предметы, представляющие ценность для получателя.</li> </ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img3.png" style=""><![CDATA[Один человек передает другому коричневый конверт]]></buttonImg>
+			<buttonText style="line-height:16px;"><![CDATA[Все ли страны мира запрещают взяточничество?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[<ul> <li>Во многих странах мира приняты законы о борьбе со взяточничеством — даже в тех странах, где взяточничество прежде было широко распространено.</li> <li>Наша политика запрещает взяточничество во всех странах, где мы ведем коммерческую деятельность, поскольку наша компания является международной корпорацией, наши действия в одной стране могут привести к наложению на компанию взысканий во всех других странах, где мы работаем.</li> <li>Во многих юрисдикциях мира взяточничество, кроме всего прочего, считается уголовным преступлением, таким образом, физическое лицо может быть обвинено в участии во взяточничестве и приговорено судом к наказанию.</li> </ul>]]></text>		
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img4.png" style=""><![CDATA[Один человек передает другому коричневый конверт]]></buttonImg>
+			<buttonText style="line-height:16px;"><![CDATA[Важно ли, кем именно вы являетесь — взяткодателем или взяткополучателем?]]></buttonText>
+			<popText style="">
+				<text><![CDATA[И предоставление, и получение взяток в равной мере противоречат законодательству большинства юрисдикций. Политика компании Johnson Controls запрещает как предоставление, так и получение взяток любого рода.]]></text>			
+			</popText>
+		</flipCard>		
+	</flipCardContent>	
+</contents>

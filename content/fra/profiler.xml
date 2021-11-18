@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;right:20px;height: 500px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[Votre rôle]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[Veuillez répondre aux questions relatives à vos fonctions dans l’entreprise.]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[Interagissez-vous avec des personnes ou des entreprises concurrentes de Johnson Controls ?]]></text>
+		<text id="2"><![CDATA[Devez-vous prendre des décisions d’achat pour Johnson Controls ?]]></text>
+		<text id="3"><![CDATA[Avez-vous pour mission de promouvoir les produits de Johnson Controls, de vendre ou de négocier avec des clients et des prospects ?]]></text>
+		<text id="4"><![CDATA[Avez-vous accès à des informations sur les clients de Johnson Controls, ses sous-traitants, ses fournisseurs, ses partenaires commerciaux ou d’autres personnes qui travaillent pour l’entreprise ?]]></text>
+		<text id="5"><![CDATA[Avez-vous accès à des informations qui concernent les salariés Johnson Controls ?]]></text>
+		<text id="6"><![CDATA[Traitez-vous directement avec des salariés Johnson Controls, des clients ou des fournisseurs basés à l’étranger ou avez-vous accès à des informations techniques ?]]></text>
+		<text id="7"><![CDATA[Êtes-vous amené à voyager à l’étranger, à accueillir des visiteurs étrangers ou êtes-vous responsable du transfert de produits, de personnes ou d’informations appartenant à Johnson Controls vers l’étranger ?]]></text>
+		<text id="8"><![CDATA[Faites-vous partie d’une association professionnelle ou participez-vous à des conférences sectorielles ?]]></text>
+		<text id="9"><![CDATA[Vous arrive-t-il d'échanger des cadeaux avec des tiers, par exemple des clients ou des fournisseurs ?]]></text>
+		<text id="10"><![CDATA[Vous arrive-t-il d’inviter des tiers à des divertissements ou d’être invité(e) à un divertissement par des tiers, par exemple des clients ou des fournisseurs ?]]></text>
+		<text id="11"><![CDATA[Avez-vous pour mission d’étudier, de développer ou de concevoir des produits et des services Johnson Controls ?]]></text>
+		<text id="12"><![CDATA[Avez-vous pour mission de développer des activités avec des nouveaux clients ou des clients existants dans de nouvelles régions ou de nouveaux secteurs ?]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/profileSelection.jpg" minwidth="769"><![CDATA[Employés Johnson Controls]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[Oui]]></text>
+		<text><![CDATA[Non]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[Continuer]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 520px;">
+		<text><![CDATA[Sélectionnez Oui ou Non pour chaque question puis cliquez sur Continuer.]]></text>
+	</instructionText>
+	
+</contents>

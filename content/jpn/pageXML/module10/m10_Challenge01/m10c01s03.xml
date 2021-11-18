@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[ジアンは病院で数時間待機することがわかっており、業務をそこに持ち込むことを考えています。 彼はどうするべきだと思いますか？ 選択肢を1つ選び、「OK」をクリックします。]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;font-size:14px;line-height:20px;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[ジアンは妻に付き添うため病院へ向かう必要がありますが、彼の注意を必要とする緊急のプロジェクトがあります。 彼は病院にノートパソコンを持ち込み使用できますが、ノートパソコンでリモートに作業することは、会社のネットワークで作業するほど安全ではないと知る必要があります。]]></text>
+		<text><![CDATA[ジアンが納期までに業務を完遂するために、最適な方法は何ですか？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[オフィス環境]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent style="font-size:14px;">
+		<option answer="0" feedbackId="1"><![CDATA[ジアンはマスターファイルを含むTexelaプロジェクトの情報を、個人のDropboxアカウントにアップロードします。 その方法では、病院でノートパソコンを使用してアクセスできますが、インターネット上で送信したり、マシンにローカルでダウンロードしたりすることはできません。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[ジアンはサプライヤーの情報とサプライヤーのマスターファイルをサムドライブに置き、暗号化します。 これは情報に電子上でアクセスするより、彼にとっては安全に思えます。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[ジアンは彼が最初から関わっているプロジェクトの納期を延ばすように再度交渉し、病院に向かう前に、プロジェクトの作業を完了します。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[ジアンの決定は、会社、顧客、サプライヤーのデータをプライバシーの侵害のリスクにさらします。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[ジアンは会社と情報を保護する手順を踏んでいますが、別の問題を作り出してはいないでしょうか？]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -200px;">
+			<text style="padding-top:25px;"><![CDATA[ジアンは彼が最初から関わっているプロジェクトの納期を延ばすように再度交渉し、病院に向かう前に、プロジェクトの作業を完了します。]]></text>
+			<text><![CDATA[ジアンは仕事を離れる前に、サプライヤーの推薦を届けることが可能であり、その結果、機密のサプライヤー情報またはサプライヤーマスターファイルのコピーを持ちだす必要はありません。 他のプロジェクトの納期を延長する交渉が成功し、プロジェクト全体は逆に影響を受けないことを確認しました。]]></text>
+			<text><![CDATA[より良いのは、ジアンが最終納期のプレッシャーに振り回されることなく、彼の妻と時間を過ごせるようにすることです。]]></text>
+		</correct>
+	</feedback>
+</contents>

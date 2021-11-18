@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Eduardo navrhuje, aby navštívili vyhledávaný pánský klub o kousek dál v téže ulici. Zdá se, že zbytek týmu má zájem.]]></text>
+		<text style="line-height:18px;"><![CDATA[Jak by měl Jian reagovat?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[Restaurace]]></img>
+	</contentBackground>
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+	</instructionText>
+	<optionContent style="line-height:20px;">
+		<option answer="0" feedbackId="1"><![CDATA[Navštívit klub s Eduardem a jeho týmem, ale trvat na tom, že si vše zaplatí sám, aby se ze strany Eduarda nejednalo o nepřiměřené pohoštění.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Ze zdvořilosti zajít na jeden drink, aby Eduarda neuvedl do rozpaků, ale poté rychle odejít.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Zdvořile odmítnout a jít domů.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian zcela správně přemýšlí o rozsahu pohoštění, které přijímá, je však nutné zvážit ještě jednu otázku.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Ačkoli Jian zamýšlel připojit se k Eduardovi a jeho týmu jen na chvíli, i tak to Jianovi a společnosti Johnson Controls způsobilo nepředvídané problémy.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Toto je bezpečná volba.]]></text>
+		</correct>
+	</feedback>
+</contents>

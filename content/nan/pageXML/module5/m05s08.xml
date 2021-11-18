@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m05s08">
+	<transcript>
+		<text path="audio/module5/m05s08" id="0"><![CDATA[出口行為可能很難清楚界定，尤其是在工作繁忙之時。 按一下每張圖片，檢驗您是否了解構成出口的條件。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[您可能因為不知道自己的行為已構成出口，導致在無意間違反法律或貿易法規。 出口可能包括：]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module5/m05s08/contentBackground.jpg" minwidth="769"><![CDATA[待出口的貨櫃]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;"></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[請選取每張圖片以瞭解詳情。 要閱讀下一項，請點選 X 符號關閉文字框。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 170px;">
+		<revealCallOut width="230px" height="175px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module5/m05s08/btn1.png" minwidth="769"><![CDATA[船上的貨櫃]]></img>
+			<buttonText style="height: 40px;"><![CDATA[實體出口]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 195px;top:-215px; width: 957px;">
+				<text><![CDATA[將物品運出或攜出國界，或是將物品給予位於、來自他國或持有他國國籍的個人或實體。 例如：<ul> <li>將產品樣本攜帶至他國</li> <li>在國內或其他地方，向他國公民展示工程圖</li> <li>帶領非工廠所在國的公民參觀工廠或廠區</li> </ul>]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="175px" top="15px" left="262px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module5/m05s08/btn2.png" minwidth="769"><![CDATA[員工在討論技術]]></img>
+			<buttonText style="height: 40px;"><![CDATA[技術出口]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 260px;top: -215px; width: 957px;">
+				<text><![CDATA[將出口管制的技術資訊 (包括書面或電子格式) 提供給位於、來自他國或持有他國國籍的個人或實體。 例如： <ul> <li>透過快遞</li> <li>透過電子郵件</li> <li>網路公開分享</li> <li>發佈在共用資料夾中</li> <li>在視訊會議、廠房參觀或在公開會議中提及</li> <li>在聊天室裡談論</li> </ul>]]></text>				
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="175px" top="15px" left="504px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module5/m05s08/btn3.png" minwidth="769"><![CDATA[產品維修]]></img>
+			<buttonText style="height: 40px;"><![CDATA[服務]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 195px;top: -215px; width: 957px;">
+				<text><![CDATA[提供位於、來自他國或持有他國國籍的個人有關開發、生產、使用、操作、安裝、維護、維修、檢修、翻新產品方面的協助。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="175px" top="15px" left="747px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module5/m05s08/btn4.png" minwidth="769"><![CDATA[人們在討論技術資訊]]></img>
+			<buttonText style="height: 40px;"><![CDATA[再出口或轉運]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 175px;top: -215px; width: 957px;">
+				<text><![CDATA[將收到的產品或技術資訊轉運給其他個人或實體，即使在相同的國家內也算是出口。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

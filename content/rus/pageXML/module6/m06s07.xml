@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s07">
+	<transcript>
+		<text path="audio/module6/m06s07" id="0"><![CDATA[Как показывает представленный здесь пример из практики, законы о защите конкуренции нарушала и наша компания. Щелкните каждый этап истории.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px" lineHeight="18px"><![CDATA[Недобросовестная конкуренция может иметь место где угодно и не всегда является очевидной. Не так давно с проблемой нарушения законов о защите конкуренции столкнулась компания Johnson Controls. Давайте рассмотрим эту ситуацию и сделаем выводы.]]></text>
+	</contentText>
+	<contentBg style="top: 34px;"></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;line-height:25px"></pageTitle>
+	<instructionText style="width: 648px;line-height:20px">
+		<text><![CDATA[Щелкните каждый этап истории.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top: 170px;">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module6/m06s07/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Руководитель высшего звена на встрече с менеджерами других компаний]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;line-height:19px;" />
+				<text><![CDATA[Компания Johnson Controls сотрудничает с определенными поставщиками батарейного лома. На протяжении нескольких лет один из руководителей высшего звена нашей компании обменивался информацией с менеджерами трех других крупных компаний, которые тоже сотрудничали с поставщиками батарейного лома.]]></text>
+				<text><![CDATA[По-видимому, целью сговора являлось искусственное снижение цен этих поставщиков в Германии, Франции, Бельгии и Нидерландах.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Сотрудник горячей линии по вопросам добросовестного поведения принимает звонок]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;line-height:19px;" />
+				<text><![CDATA[Один из сотрудников компании Johnson Controls сообщил о сговоре на нашу горячую линию по вопросам добросовестного поведения.]]></text>
+				<text><![CDATA[Компания Johnson Controls оказала содействие прозрачному расследованию Европейской комиссии.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Расследование]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;line-height:19px;" />
+				<text><![CDATA[В результате полномасштабного расследования руководитель Johnson Controls, участвовавший в неэтичной деятельности, был уволен.]]></text>
+				<text><![CDATA[На другие участвовавшие в сговоре компании были наложены многомиллионные штрафы, поскольку компания Johnson Controls по собственной инициативе сообщила властям о сговоре и оказала полное содействие расследованию, ей не пришлось выплачивать штраф.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_04.png" minwidth="700" minheight="550"><![CDATA[Информатор держит мобильный телефон]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;line-height:19px;" />
+				<text><![CDATA[Информатор помог компании Johnson Controls выявить и прекратить недопустимую деятельность. Благодаря тому, что компания добровольно сообщила о сговоре властям, Европейская комиссия освободила ее от штрафов. В противном случае компании пришлось бы выплатить 42 млн евро.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="5">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_05.png" minwidth="700" minheight="550"><![CDATA[Европейское подразделение]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;line-height:19px;" />
+				<text><![CDATA[После этого происшествия европейское подразделение компании Johnson Controls внесло значительные изменения в наши внутренние процессы и организационную структуру для предотвращения подобных сговоров в дальнейшем.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

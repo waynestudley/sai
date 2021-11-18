@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Tom meminta Emma untuk memberikan alamat pelanggan selebriti Johnson Controls kepadanya. Tom menawarkan Emma untuk berkongsi keuntungannya jika dia boleh memberikan alamat tersebut. Apakah yang patut Emma lakukan?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Jelaskan kepada Tom bahawa dia tidak mahukan sebarang bayaran, tetapi masih memberikan senarai tersebut kepadanya.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Tolak untuk memberikan senarai alamat kepada Tom, tetapi jangan beritahu sesiapa sekiranya mereka fikir dia terlibat.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Tolak untuk memberikan senarai alamat kepada Tom dan laporkan situasi tersebut kepada pengurusnya.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Apabila Emma bersetuju untuk memberikan alamat tersebut kepada Tom, dia meletakkan mereka berdua dalam risiko, walaupun dia tidak menerima sebahagian daripada keuntungannya.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma betul kerana menolak untuk memberikan senarai alamat kepada Tom, tetapi dia sepatutnya mengenal pasti bahawa permintaannya itu bermasalah.]]></text>
+			<text><![CDATA[Emma perlu bercakap dengan pengurusnya atau ahli jabatan Undang-undang – jika Tom meneruskan untuk mengejar ini, ia boleh mewujudkan risiko privasi untuk syarikat.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma melakukan perkara yang betul dengan menolak daripada memberikan alamat tersebut kepada Tom dan juga melaporkan permintaannya kepada pengurusnya. Jika dia telah memberikan maklumat tersebut kepada Tom, dia boleh melanggar privasi pelanggan. Dan dengan bersuara, dia telah membantu syarikat untuk menghalang kejadian seperti itu.]]></text>
+		</correct>
+	</feedback>
+</contents>

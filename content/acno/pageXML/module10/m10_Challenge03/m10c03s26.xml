@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s26">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Chris está sugiriendo que visiten un popular club de caballeros de la zona. Algunos de los demás miembros del equipo parecen estar interesados en ir.]]></text>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[¿Cómo debería responder Carlos?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s26/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+	</instructionText>
+	<optionContent style="font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Visitar el club con Chris y su equipo, pero insistir en pagar para que la atención de cortesía de Chris no sea excesiva.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Ir por un trago para ser amable y evitar avergonzar a Chris, pero no debe quedarse mucho tiempo.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Rechazar amablemente la invitación e irse a su casa.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos visita el club con Chris y su equipo.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos visita el club con Chris y su equipo, pero se va al poco tiempo de llegar.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Uno de los miembros del equipo de Chris participa en una pelea mientras están en el club. Llaman a la policía y, más tarde, parte del grupo debe comparecer ante el tribunal como testigos.]]></text>
+			<text><![CDATA[Pero, debido a que Carlos se fue después de la cena y no fue con ellos al club, no estuvo involucrado y no fue citado al tribunal. Su decisión de irse del club evita la vergüenza que podría haber implicado el estar en el club, tanto para él mismo como, por asociación, para Johnson Controls.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s09">
+	<transcript>
+		<text path="audio/module8/m08s09" id="0"><![CDATA[情報の安全性を保つため役立つ重要なことがあります。 それぞれの開示ボタンをクリックして詳細を確認してください。]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[これらの習慣を持ちましょう。]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s09/contentBackground.jpg" minwidth="769"><![CDATA[指紋認証]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[それぞれの開示ボタンをクリックして詳細を確認してください。 回答すべてを読むにはスクロールの必要がある場合があります。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[開示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module8/m08s09/img1.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[機密として情報をマークしておく]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[他の従業員がそれが機密であることを知らない場合、彼らはそれを保護するべきものということを知らないかもしれません。 ]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module8/m08s09/img2.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[機密情報を安全に保管します ]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[物理的な資料を保護し、電子ファイルとコンピュータを強力なパスワードで保護します。 パスワードを誰とも決して共有しないでください。そして、複数のファイルまたはアプリケーションで同じパスワードを使用することを避けてください。]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img3.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[旅行時は注意を示します]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[携帯電話やUSBドライブは紛失や盗難しやすいです。 機密情報を持ってどこかに行くときは2回考えて、他の人が見ていたり、聞いていたりする場所で、機密情報を持って作業したり、話したりしないでください。 ]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img4.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[「知る必要性」を基に機密情報を共有します]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[以下の場合を除き、顧客、パートナー、サプライヤー、その他のサードパーティ、その他のJohnson Controlsの従業員に機密情報を共有しないでください： <ul> <li>必要なとき</li> <li>適切な認可を得たとき</li> <li>情報を受け取った人物は、それが機密で、それを見る許可を与えられているいうことを知っています</li> <li>彼らは、それを保護する法的契約（非開示契約のような）に署名しました。 それでも、情報はタスクを完了するために必要な分だけ共有するようにします</li> </ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img5.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[ソーシャルメディアに注意する]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[情報が一度オンラインに上がると、他の人が何をするのかコントロールできません。]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

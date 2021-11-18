@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[Veamos algunas situaciones cotidianas. ¿Estas personas están poniendo en riesgo datos personales?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[¿Cuáles de las siguientes opciones podrían acarrear riesgos para la privacidad de los datos?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[Oficina repleta de gente; un empleado trabajando en una computadora]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleccione todas las situaciones que considere que ponen en riesgo datos personales.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Es posible que haya más de una respuesta correcta.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Conectarse a redes wifi públicas]]></option>	
+		<option><![CDATA[Usar la misma contraseña en dos lugares distintos]]></option>	
+		<option><![CDATA[Publicar en una red social una foto de una reunión del equipo con la pizarra en segundo plano]]></option>	
+		<option><![CDATA[Hablar por teléfono sobre información financiera con un cliente en público]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Correcto.]]></text>
+			<text><![CDATA[Todos estos ejemplos presentan un riesgo para la privacidad de sus datos.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Incorrecto.]]></text>
+			<text><![CDATA[Todos estos ejemplos presentan un riesgo para la privacidad de sus datos.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

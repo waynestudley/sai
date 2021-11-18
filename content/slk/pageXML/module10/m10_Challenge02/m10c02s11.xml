@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma sa cíti zo Sandynej situácie hrozne. Myslí si, že by mohlo pomôcť, keby zapojila aj iných. Ako môže Emma pomôcť kolegyni?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;">
+		<text><![CDATA[Zvoľte jednu možnosť a potom vyberte tlačidlo OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Prekvapí Sandy tým, že vytvorí darcovskú webovú stránku, aby zdokumentovala Sandynu rekonvalescenciu a finančné problémy a aby získala financie od darcov na pomoc s výdavkami za zdravotnú starostlivosť.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Použite svoj blog o nehnuteľnostiach, aby sa pokúsila získať viac ľudí, ktorí by prispeli k úsiliu rodiny o získanie financií.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Požiada Sandy o povolenie ešte skôr, než sa s kýmkoľvek spojí alebo ako napíše na akúkoľvek sociálnu sieť o nehode a Sandynom boji o zotavenie.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Emma vytvorí darcovskú stránku pre Sandy a uvedie na nej informácie o jej zraneniach a súčasnej prognóze.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma má na svojej webovej stránke a blogu veľkú návštevnosť, takže si uvedomí, že je to skvelý spôsob, ako zabezpečiť, aby sa ešte viac ľudí dozvedelo o Sandynej ťažkej situácii a darovali financie. Rozhodla sa pridať informácie o Sandynej nehode a snahe rodiny o získanie finančných prostriedkov na svoju webovú stránku o nehnuteľnostiach a blog.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:220px;" fcStyle="top:-199px;">
+			<text style="padding-top:25px;"><![CDATA[Emma požiada Sandy o povolenie, aby mohla napísať o nehode a zverejniť to na svojom blogu ako prostriedok na získanie darov na Sandynu zdravotnú starostlivosť.]]></text>
+			<text><![CDATA[Sandy súhlasí, ale žiada, aby dary namiesto toho smerovali do fondu pre zdravotnícke zariadenie.]]></text>
+			<text><![CDATA[Tým, že požiada Sandy o povolenie, či a čo môže zdieľať a ako bude používať osobné údaje, si Emma zaistí, že nebude zneužívať osobné údaje Sandy a účinne rešpektuje jej súkromie.]]></text>
+		</correct>
+	</feedback>
+</contents>

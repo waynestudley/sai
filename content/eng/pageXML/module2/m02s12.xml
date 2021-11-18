@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[Check your understanding of what’s acceptable and what’s not when it comes to entertainment. Select acceptable or unacceptable for these options then click on Submit.]]></text>		
+	</transcript>
+	 <contentBackground cName="" >		
+		<img path="content/images/ltr/module2/m02s12/contentBackground.jpg"  minwidth="769"><![CDATA[Waiter bringing the check]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;right: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText >
+		<text style=""><![CDATA[Decide whether these actions are Acceptable or Unacceptable.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Select Acceptable or Unacceptable for each option then click on Submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0" >
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img01.png" ><![CDATA[4 Sporting Event Tickets]]></img>
+			<text style="width: 356px;"><![CDATA[A vendor offers you four tickets to attend a major sporting event with him. They are worth around USD$100 each so, before you accept, you report his offer.]]></text>			
+		</option>
+		<option answer="0,1" >
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img02.png" ><![CDATA[Employee reviewing bid]]></img>
+			<text style="width: 356px;" ><![CDATA[You find out there is an open bid with this vendor but you’re not directly involved, so you decide to accept the tickets.]]></text>
+		</option>
+		<option answer="0,1" >
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s12/img04.png" ><![CDATA[Employee and Vendor talking]]></img>	
+			<text style="width: 356px;" ><![CDATA[A different vendor who is not involved in an active bid offers you alternative tickets to a smaller event, valued at USD$20 each. You reject these in favor of the major event tickets.]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[Acceptable]]></text>
+		<text styleWidth="width:110px;"><![CDATA[Unacceptable]]></text>
+	</optionAnswer>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[That’s correct.]]></text>			
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>Since the value of the major event tickets exceeds USD$200 these must be reported.</li> <li>You should never give or accept gifts or entertainment with customers or vendors during a period when contracts or bids are being negotiated.</li><li>The value of these tickets is more appropriate but even this entertainment would be inappropriate if there is any attempt to improperly influence you.</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 258px;height: 415px;padding-top: 20px;right: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[That’s not correct.]]></text>	
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>Since the value of the major event tickets exceeds USD$200 these must be reported.</li> <li>You should never give or accept gifts or entertainment with customers or vendors during a period when contracts or bids are being negotiated.</li><li>The value of these tickets is more appropriate but even this entertainment would be inappropriate if there is any attempt to improperly influence you.</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>
+

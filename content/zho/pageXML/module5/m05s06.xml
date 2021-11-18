@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[您是否发现任何警示信号？ 选择您发现的所有警示信号，然后单击“提交”。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[这封电子邮件有哪些相关警示信号？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[电子邮件收件箱]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[选择所有警示信号，然后单击“提交”。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[正确答案可能不止一项。]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[发件人声称其为 Johnson Controls 客户]]></option>	
+		<option><![CDATA[客户邮件的内容是关于业务的，但却使用 Gmail 账户]]></option>	
+		<option><![CDATA[客户要求提供可能受管控的信息，但并未提供自身身份的充分信息]]></option>	
+		<option><![CDATA[客户声称自己是法国客户，但您并不能通过该电子邮件确定这一点]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[正确。]]></text>
+			<text><![CDATA[客户要求提供可能属于限制出口的技术信息，但并未提供自身身份的充分信息。]]></text>
+			<text><![CDATA[在提供任何技术支持前，您至少应该了解对方的身份、位置和任何适用贸易限制要求的更多信息。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[抱歉，回答错误。]]></text>
+			<text><![CDATA[客户要求提供可能属于限制出口的技术信息，但并未提供自身身份的充分信息。]]></text>
+			<text><![CDATA[在提供任何技术支持前，您至少应该了解对方的身份、位置和任何适用贸易限制要求的更多信息。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[تقوم إيما بإبلاغ مديرها، روجير، بالموقف، إلا أن روجير لا يفعل أي شيء. ما الذي ينبغي على إيما فعله هنا؟]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[لا شيء. قامت إيما بالإبلاغ عن الأمر، ويجب على روجير متابعة الأمر الآن.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[التحدث مع شخص في قسم الامتثال أو قسم الشؤون القانونية أو الاتصال بخط المساعدة بشأن النزاهة لإخبارهم بمخاوفها.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:18px;"><![CDATA[لقد فعلت إيما الشيء الصواب هنا من خلال التحدث إلى مديرها روجير. إلا أن إيما لا تشعر بالاقتناع بأن روجير سوف يقوم بأي شيء حيال هذا الأمر، وبالتالي يجب عليها تصعيد مخاوفها. يجب أن تتصل بأحد العاملين في قسم الامتثال أو في قسم الشؤون القانونية أو بممثل قسم الموارد البشرية، أو يمكن أن تقوم بتسجيل مخاوفها عبر خط المساعدة بشأن النزاهة.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[لقد فعلت إيما الشيء الصواب هنا من خلال التحدث إلى مديرها روجير. إلا أن إيما ترى أن روجير لن يقوم باتخاذ أي إجراءات أخرى للتعامل مع مخاوفها. وبالتالي، فقد قامت إيما بفعل الشيء الصواب من خلال تصعيد الأمر والتحدث إلى الموارد الإضافية في الشركة والذين يمكنهم مراجعة الأمر والتعامل معه بشكل مناسب.]]></text>
+		</correct>
+	</feedback>
+</contents>

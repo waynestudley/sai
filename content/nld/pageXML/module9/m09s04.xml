@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="hotSpotCustom" className="m09s04">
+	<transcript>
+		<text path="audio/module9/m09s04" id="0"><![CDATA[Bedrijven wier informatie onterecht het mikpunt is, kunnen een proces aanhangig maken en de wet geeft hen vaak gelijk. Klik op elke titel om te kijken wat er kan gebeuren als het misloopt.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 490px;margin-bottom: 0px;"><![CDATA[Veel bedrijven en personen ondervonden ernstige gevolgen nadat ze op ongepaste wijze informatie over concurrerende bedrijven of producten verzamelden, zoals uit deze voorbeelden blijkt.]]></text>	
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s04/contentBackground.jpg" className="bg-pos-right-center" ipadPath="content/images/ltr/module9/m09s04/contentBackground.jpg" minwidth="769"><![CDATA[Persoon die een krant leest]]></img>
+		<img path="content/images/ltr/module9/m09s04/img_02.png" minwidth="769"><![CDATA[Krant 'The World']]></img>
+	</contentBackground>
+	 <contentBg style="padding:20px 20px 10px 20px;"></contentBg>
+	<popBackground>		
+		<img path="" />		
+	</popBackground>
+	<pageTitle style="width: 490px;"></pageTitle>
+	<instructionText style="width: 490px;">
+		<text><![CDATA[Klik op de krantenkoppen.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<hotSpotContent>
+		<hotSpot width="150px" top="72px" left="17px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="40px"><![CDATA[Proctor &amp; Gamble]]></buttonText>
+			<popText animPosRight="400px" animPosTop="300px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Proctor &amp; Gamble]]></text> 				
+				<text style="width:370px"><![CDATA[Proctor &amp; Gamble (P&amp;G) betaalde Unilever 10 miljoen Amerikaanse dollar nadat aan het licht kwam dat externe onderaannemers die aan werknemers van P&amp;G rapporteren zes maanden lang documenten uit afvalcontainers naast de kantoren van Unilever namen. ]]></text> 				
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup1_img.png" />]]></text> 				
+			</popText>
+			<tick style="right: -35px;top:5px;"></tick>
+		</hotSpot>
+		
+		
+		<hotSpot width="132px" top="238px" left="105px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="55px"><![CDATA[The Oracle<br/>Corporation]]></buttonText>
+			<popText animPosRight="400px" animPosTop="460px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[The Oracle Corporation]]></text>				
+				<text style="width:370px"><![CDATA[The Oracle Corporation heeft toegegeven conciërges te hebben vergoed voor het afval dat ze weghaalden uit de kantoren van een groep die namens Microsoft handelt. Nadat het nieuws werd verspreid, daalden de aandeelprijzen van Oracle met 13% en verlaagden effectenanalisten hun rating.]]></text>
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup2_img.png" />]]></text> 						
+			</popText>
+			<tick style="right: -35px;top:10px;"></tick>
+		</hotSpot>
+		
+		<hotSpot width="116px" top="30px" left="248px" letter_spacing="0px">	
+			<buttonText paddingTop="0px" height="50px"><![CDATA[Apple]]></buttonText>
+			<popText animPosRight="230px" animPosTop="250px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Apple]]></text>				
+				<text style="width:370px"><![CDATA[Twee mannen die in een bar een prototype van de Apple iPhone 4 hebben gevonden en aan een journalist hebben gegeven werden schuldig bevonden aan criminele diefstal en veroordeeld tot een voorwaardelijke straf, een werkstraf en boetes van elk honderden dollars.]]></text>
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup3_img.png" />]]></text> 		
+			</popText>
+			<tick style="right: -35px;top:10px;"></tick>
+		</hotSpot>
+		
+		<hotSpot width="118px" top="176px" left="351px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="48px"><![CDATA[Google]]></buttonText>
+			<popText animPosRight="230px" animPosTop="400px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Google]]></text>				
+				<text style="width:370px"><![CDATA[Onlangs heeft Waymo van Google een rechtszaak aangespannen tegen Uber omdat een Google-werknemer 14.000 geheime documenten over de zelfrijdende autotechnologie heeft gedownload alvorens op te stappen en een baan aan te nemen bij Uber. Google eist een schadevergoeding van 2,6 miljard Amerikaanse dollar.]]></text>	
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup4_img.png" />]]></text> 		
+			</popText>
+			<tick style="left: -35px;top:10px;"></tick>
+		</hotSpot>
+	</hotSpotContent>	
+</contents>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[您对于竞争法的作用有何了解？ 选择此处您认为正确的全部选项，然后单击“提交”。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[竞争法的目的是什么？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[维护公正的天平]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[选择所有适用选项。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[正确答案可能不止一项。]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[丰富消费者的选择]]></option>	
+		<option><![CDATA[引入贸易壁垒]]></option>	
+		<option><![CDATA[抑制某些行业的发展]]></option>	
+		<option><![CDATA[鼓励公平的业务交易]]></option>	
+		<option><![CDATA[鼓励创新并持续改进]]></option>	
+		<option><![CDATA[处罚过于成功的公司]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-237px">
+			<text><![CDATA[正确。]]></text>
+			<text><![CDATA[竞争法旨在确保公司以正当原因取得成功： 因为此类法律能够保障提供最优的产品、服务和价格。 此类法律并非旨在处罚成功、阻碍发展或制造贸易壁垒。]]></text>
+			<text><![CDATA[竞争法将影响我们与外界（包括竞争对手、供应商、分销商及客户）互动的方式。]]></text>
+			<text><![CDATA[对您而言，了解竞争法适用于您的情形以及您如何在工作和业务活动中遵守竞争法，是至关重要的。 在本模块中，我们将学习竞争法的原则与惯例。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-237px">
+			<text><![CDATA[错误。]]></text>
+			<text><![CDATA[竞争法旨在确保公司以正当原因取得成功： 因为此类法律能够保障提供最优的产品、服务和价格。 此类法律并非旨在处罚成功、阻碍发展或制造贸易壁垒。]]></text>
+			<text><![CDATA[竞争法将影响我们与外界（包括竞争对手、供应商、分销商及客户）互动的方式。]]></text>
+			<text><![CDATA[对您而言，了解竞争法适用于您的情形以及您如何在工作和业务活动中遵守竞争法，是至关重要的。 在本模块中，我们将学习竞争法的原则与惯例。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

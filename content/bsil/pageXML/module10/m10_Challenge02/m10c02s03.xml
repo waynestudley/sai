@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Clique em Próximo para continuar.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Emma está trabalhando em outro emprego como corretora na nova empresa de seu cunhado, o que está atrapalhando seu trabalho na Johnson Controls.]]></text>
+		<text style="line-height:18px;"><![CDATA[Qual das situações abaixo você acredita que seja o melhor plano de ação para Emma?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;line-height:20px;">
+		<text><![CDATA[Escolha uma opção e selecione OK.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma continua nos dois empregos. Quando ela tiver muito trabalho como corretora, ela pede para seus colegas cobrirem para ela e pega licença médica da Johnson Controls.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma continua nos dois empregos e faz seu melhor para gerenciar suas responsabilidades. Quando o trabalho na Johnson Controls estiver tranquilo, ela atende sua ligações como corretora e envia e-mails de seu smartphone pessoal.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma fala com seu gerente sobre o trabalho dela na empresa do cunhado e eles discutem maneiras de manter esse trabalho separado de suas tarefas na Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[A decisão de Emma de trabalhar na imobiliária de seu cunhado poderia criar um conflito de interesses, principalmente porque seu outro trabalho está começando a exigir mais tempo e atenção.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma ainda acha que consegue lidar com as tarefas para que seu novo trabalho não afete suas responsabilidades na Johnson Controls. Mas ela está sendo realista? Ela decide falar com seu gerente apenas para garantir.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -200px">
+			<text style="padding-top:25px;"><![CDATA[Emma fala com seu gerente sobre o segundo emprego dela.]]></text>
+			<text><![CDATA[O gerente discute com ela o que se espera dela no trabalho e que assumir empregos externos não é proibido, mas:<ul> <li>eles podem interferir no trabalho dela na Johnson Controls. </li> <li>Ela não deve usar nenhum recurso da empresa para realizar o trabalho externo, incluindo o tempo que passa trabalhando na Johnson Controls.</li> </ul>]]></text>
+			<text><![CDATA[Eles concordam que ela não realizará tarefas do outro trabalho durante as horas de trabalho na Johnson Controls e que se o trabalho dela for prejudicado, eles terão que conversar novamente.]]></text>
+		</correct>
+	</feedback>
+</contents>

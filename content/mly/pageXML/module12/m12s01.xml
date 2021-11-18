@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[Bagus, anda telah berjaya melengkapkan kursus. Sekarang anda boleh mencetak sijil anda. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[Seorang lelaki menggunakan PC]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;line-height:25px;"></pageTitle>
+	  <contentBg style="line-height:20px;"></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative" padding="0"><![CDATA[Bagus, anda telah berjaya melengkapkan <span style="color:#00539E;font-weight:bold;font-size:17px;" >Menggunakan Kod Etika: Kursus Menjalankan Perniagaan dengan Integriti</span>.]]></text>
+		<text width="450px" height="140px" top="10px" left="0px" position="relative" padding="0"><![CDATA[Klik pada Cetak sijil, kemudian klik pada Laman Utama untuk kembali ke menu Utama, atau klik pada Tutup untuk meninggalkan kursus.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="170px" left="20px"><![CDATA[Cetak sijil]]></text>
+	</buttonText>	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Klik pada Cetak sijil.]]></text>
+	</instructionText>
+</contents>

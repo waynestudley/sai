@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[คุณคิดอย่างไร พนักงานเหล่านี้ทำเพียงพอหรือไม่ในการรักษาให้ข้อมูลส่วนบุคคลนั้นปลอดภัย]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[พนักงานกำลังทำงานกับข้อมูลบนแล็ปท็อป]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[คุณคิดว่าพนักงานเหล่านี้ปกป้องข้อมูลส่วนบุคคลได้ดีพอหรือไม่]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[เลือก “ใช่” หรือ “ไม่” ในแต่ละตัวเลือกจากนั้นคลิกส่ง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img01.png"><![CDATA[พนักงานกำลังทิ้งเอกสารแจก]]></img>
+			<text style="width: 390px;"><![CDATA[ทิ้งเอกสารแจกซึ่งมีข้อมูลส่วนบุคคลในที่ที่ผู้อื่นสามารถเข้าถึงได้]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img02.png"><![CDATA[พนักงานกำลังชงกาแฟ]]></img>
+			<text style="width: 390px;"><![CDATA[ชงกาแฟระหว่างรอปริ๊นท์งานซึ่งมีข้อมูลลับของผู้ซื้อ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img03.png"><![CDATA[พาสเวิร์ด]]></img>	
+			<text style="width: 390px;"><![CDATA[ใช้พาสเวิร์ดซึ่งมีความแข็งแกร่งเพื่อปกป้องเอกสารที่มีข้อมูลส่วนบุคคล]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img04.png"><![CDATA[ปฏิทิน]]></img>	
+			<text style="width:390px;"><![CDATA[เก็บข้อมูลส่วนบุคคลไว้หลักจากที่ไม่จำเป็นแล้ว “เพื่อเอาไว้”]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[ใช่]]></text>
+		<text><![CDATA[ไม่ใช่]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[ถูกต้อง]]></text>			
+			<text style="font-size: 15px;"><![CDATA[การดูแลข้อมูลส่วนบุคคลทางการเงินและธนาคารของลูกจ้าง ผู้ซื้อ และพาร์ทเนอร์ธุรกิจนั้นเป็นสิ่งที่จำเป็นอย่างมาก ทำตามมาตรการความปลอดภัยทั้งหมดและไม่ทิ้งข้อมูลส่วนตัวไว้ในที่ที่ผู้อื่นสามารถเห็นได้แม้ว่าจะเพียงชั่วครู่เดียวหรือไว้รอบ ๆ ผู้ที่คุณไว้ใจ ทิ้งข้อมูลเมื่อไม่มีเหตุจำเป็นจะต้องเก็บเอาไว้อีก]]></text>			
+		</correct>
+		<incorrect style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[ไม่ถูกต้อง]]></text>	
+			<text style="font-size: 15px;"><![CDATA[การดูแลข้อมูลส่วนบุคคลทางการเงินและธนาคารของลูกจ้าง ผู้ซื้อ และพาร์ทเนอร์ธุรกิจนั้นเป็นสิ่งที่จำเป็นอย่างมาก ทำตามมาตรการความปลอดภัยทั้งหมดและไม่ทิ้งข้อมูลส่วนตัวไว้ในที่ที่ผู้อื่นสามารถเห็นได้แม้ว่าจะเพียงชั่วครู่เดียวหรือไว้รอบ ๆ ผู้ที่คุณไว้ใจ ทิ้งข้อมูลเมื่อไม่มีเหตุจำเป็นจะต้องเก็บเอาไว้อีก]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

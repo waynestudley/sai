@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0"><![CDATA[您會怎麼回應客戶呢？ 選擇一個項目然後提交。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[如果您依客戶要求寄送工程圖和整合說明，這封電子郵件算是出口嗎？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s05/contentBackground.jpg" minwidth="769"><![CDATA[工程圖]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[選擇一個項目然後提交。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[否，只要收件對象是 Johnson Controls 的客戶就不算出口]]></option>	
+		<option><![CDATA[是，寄送出口管制的工程圖和整合說明給法國客戶算是出口]]></option>	
+		<option><![CDATA[是，但只有收件對象是在伊朗之類的限制國家才算出口]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[正確。]]></text>
+			<text><![CDATA[寄送出口管制的技術資訊 (包括工程圖或整合說明) 給他國人士就算是出口，必須事先取得授權。]]></text>
+			<text><![CDATA[請謹記在心，在傳送資訊前必須詳細了解客戶的身分和所在地，以確認自己要先取得哪些出口許可的授權。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[抱歉，您答錯了。]]></text>
+			<text><![CDATA[寄送出口管制的技術資訊 (包括工程圖或整合說明) 給他國人士就算是出口，必須事先取得授權。]]></text>
+			<text><![CDATA[請謹記在心，在傳送資訊前必須詳細了解客戶的身分和所在地，以確認自己要先取得哪些出口許可的授權。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

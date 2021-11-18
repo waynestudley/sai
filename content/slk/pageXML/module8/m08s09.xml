@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s09">
+	<transcript>
+		<text path="audio/module8/m08s09" id="0"><![CDATA[Existujú dôležité veci, ktoré môžete urobiť, aby ste udržali naše informácie v bezpečí. Po kliknutí na každé z tlačidiel odhalenia sa dozviete viac.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Uplatňujte tieto zvyky:]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s09/contentBackground.jpg" minwidth="769"><![CDATA[odtlačok prsta]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Po kliknutí na každé z tlačidiel odhalenia sa dozviete viac. Ak si chcete prečítať celú odpoveď, možno budete musieť posúvať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ODHALIŤ]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module8/m08s09/img1.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[Označte informácie ako dôverné]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Ak ostatní zamestnanci nevedia, že sú dôverné, nemusia vedieť, že ich treba chrániť. ]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module8/m08s09/img2.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[Uchovávajte bezpečne dôverné informácie ]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Zabezpečte fyzické materiály a chráňte elektronické súbory a počítač silným heslom. Nikdy nezdieľajte svoje heslo s nikým a vyhnite sa používaniu rovnakého hesla pre viaceré súbory alebo aplikácie.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img3.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[Prejavte obozretnosť pri cestovaní]]></buttonText>
+			<popText style="height:220px;">
+				<text><![CDATA[Mobilné telefóny alebo USB disky sa ľahko stratia alebo ukradnú. Premýšľajte dvakrát predtým, ako budete cestovať s dôvernými informáciami, a nepracujte s nimi a nehovorte o nich tam, kde vás môžu ostatní vidieť alebo počuť. ]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img4.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[Zdieľajte dôverné informácie na zásade „potrebných znalostí“]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[Nezdieľajte dôverné informácie so zákazníkmi, partnermi, dodávateľmi, inými tretími stranami alebo inými zamestnancami spoločnosti Johnson Controls, pokiaľ: <ul> <li>to nie je nevyhnutné,</li> <li>nemáte príslušné oprávnenie,</li> <li>osoba, ktorá dostáva informáciu, nevie, že je dôverná a nie je oprávnená sa s ňou oboznámiť,</li> <li>nepodpísali zmluvu na ich ochranu (ako dohodu o mlčanlivosti). Dokonca aj potom zdieľajte len toľko informácií, ktoré osoba potrebuje na dokončenie svojej úlohy</li> </ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module8/m08s09/img5.png"><![CDATA[]]></buttonImg>
+			<buttonText style="height:100px;width:167px;"><![CDATA[Buďte opatrný so sociálnymi sieťami]]></buttonText>			
+			<popText style="height:220px;">
+				<text><![CDATA[Raz, keď sú informácie online, nemôžete kontrolovať to, čo s nimi robia ostatní.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

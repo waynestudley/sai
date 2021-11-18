@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/knowledgeCheck/knowledge_check_intro" id="0"><![CDATA[نظرًا لأنك أتممت هذه الدورة التدريبية، تحقق مما تعلمته عن طريق الإجابة عن مجموعة من الأسئلة. إذا اجتزت الاختبار، فسوف تكون مؤهلاً للحصول على نسخة مطبوعة من شهادة إتمام الدورة التدريبية. انقر فوق "التالي" لبدء اختبار المعرفة.]]></text>
+	</transcript>
+	<contentBg style="padding: 0;top: 70px;width: 430px;left: 20px;"></contentBg>
+	<pageTitle style="padding:15px 20px 10px 25px;width: 360px;margin-bottom:0px;"></pageTitle>
+	<contentText>
+		<text><![CDATA[اختبر ما لديك من معرفة عن طريق الإجابة عن مجموعة من الأسئلة.]]></text>
+		<text><![CDATA[الأسئلة:]]></text>
+		<text><![CDATA[درجات النجاح:]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="17px" left="0px" bgColor="transparent" color="#0080B6" padding="0px" position="relative"><![CDATA[<i>انقر فوق زر "التالي" <span class="nexticon" >[ <img src="content/images/rtl/preAssessment/Next_icon.png" /> ]</span> للبدء.</i>]]></text>
+	</contentText>
+    <contentBackground>		
+		<img path="content/images/rtl/knowledgeCheck/assessmentIntro.jpg" minwidth="800" minheight="600"><![CDATA[فريق عمل شركة Johnson Controls أثناء العمل]]></img>
+	</contentBackground>
+	
+</contents>

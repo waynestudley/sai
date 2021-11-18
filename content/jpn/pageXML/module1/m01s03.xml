@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[あなたは危険な状況をどの程度認識できていますか? このシナリオを読んで、それが利益相反を示しているか判断してください。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[オフィス]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:13px;line-height:18px;"><![CDATA[利益相反がわかりますか?  以下の状況が開示するべき利益相反の可能性を示しているかを判断してください。]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[各オプションについて「はい」または「いいえ」を選択し、「送信」をクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+		<text><![CDATA[クエスチョンマークをクリックして、さらに詳しく学習しましょう。]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[ベーカリーで働いているかのようなエプロンをつけた女性]]></img>
+			<text style="width: 450px;"><![CDATA[ジェニファーは、Johnson Controls従業員で、週末に姉の新しいベーカリーで仕事をする予定です。けれども今週、彼女は新規開店の手伝いをするために、Johnson Controlsを病欠しました。]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[スーツを着た男性]]></img>
+			<text style="width: 450px;"><![CDATA[アレックスは、Johnson Controlsの調達部門の従業員であり、会社では人員募集をしているところがあるのですが、そこに友人であるスティーブがぴったりだと考えています。 彼はスティーブにその仕事のことを言い、オンライン募集に申し込んでみたらどうかと提案します。]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[中東風のビジネス服を身にまとった女性]]></img>	
+			<text style="width: 450px;"><![CDATA[バスマは、Johnson ControlsのJohnson Controlsの品質エンジニアです。 彼女が管理しているベンダーが、コンサルティングのチャンスを提案しています。 彼は、Johnson Controlsのために制作している新しい生産ラインのため、出荷品質チェックを設置するのを助けてくれる人を探していると言います。 ベンダーは、バスマならば夜か週末に仕事を完了できるとはっきり言いました – 彼女の通常の勤務スケジュール外の時間です。]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[スーツを着た男性]]></img>	
+			<text style="width:450px;"><![CDATA[カールは、ある重要なプロジェクトでJohnson ControlsをサポートするITベンダーの選定を担当していました。 今年の始め、彼は友人のIT企業にまとまった投資を行い、その会社が、今回、その仕事に入札してきました。]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[はい]]></text>
+		<text><![CDATA[いいえ]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[正解です。]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[不正解です。 ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[クエスチョンマークをクリックして、さらに詳しく学習しましょう。]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[ジェニファーが週末に姉を助けるため、ベーカリーで仕事をするのは問題ありません。 しかし、彼女が姉との仕事をすることで、Johnson Controlsでの職務責任に影響がある場合、例えば、ベーカリーで仕事をするため平日に仮病をつかって休みを取るなどする場合、利益相反が発生します。]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[アレックスが調達部門で勤務していても、彼は自分の職位を利用して友人が職を得るのを助けているわけではありません。 アレックスが、スティーブに対しオンラインで応募するよう勧めるのは許容でき、スティーブはその他の全応募者と同様に、同じプロセスをたどることになるからです。]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[バスマはベンダーの業務を監督していますが、副業としてベンダーが提案してきた仕事をやろうかと考えています。 両方の会社が彼女を雇用するとなると、彼女の忠誠心はどちら側につくのでしょうか? 彼女が利益相反に陥る可能性があり、このような状況は回避する必要があります。 最低でも、バスマは利益相反の可能性を開示する必要があります。]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[カールは、自分が投資した会社が入札に勝った場合、財務的に利益を得る立場にいます。 彼のこの個人的関与が判断に影響を与え、偏見のない判断を下すのが難しくなる可能性があり、利益相反となります。]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

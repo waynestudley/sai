@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[Che cosa faresti se qualcuno ti inviasse dei dati personali che non dovresti vedere?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;"><![CDATA[Che cosa faresti? ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Ti è stato affidato il compito di comunicare ai subappaltatori una nuova procedura di fatturazione. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Chiedi a un dipendente di un altro dipartimento di inviarti la lista dei loro indirizzi e-mail, ma nel documento che ti invia sono contenute anche informazioni personali utilizzate per proteggere gli account, come data di nascita, nome della madre e codice fiscale. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Che cosa dovresti fare?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[Persone d’affari]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleziona un’opzione e poi inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Cancelli l’e-mail e fai una segnalazione al team addetto alla privacy dei dati all’indirizzo privacy@jci.com]]></option>
+		<option><![CDATA[La inoltri ai tuoi colleghi al lavoro come esempio di ciò che non deve essere inviato tramite e-mail]]></option>
+		<option><![CDATA[Prendi solo le parti del documento che ti servono ed elimini in sicurezza il resto]]></option>
+		<option><![CDATA[Scrivi un'e-mail a tutti gli appaltatori per comunicare che i loro dati personali potrebbero essere stati divulgati]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:190px;" fcStyle="top:-213px">
+			<text style="font-size:17px;"><![CDATA[Risposta esatta.]]></text>
+			<text><![CDATA[Le leggi in materia di privacy dei dati, e la politica relativa alla privacy dei dati di Johnson Controls, si applicano alle informazioni personali dei dipendenti, dei clienti e dei partner commerciali. Assicurati di aver compreso le tue responsabilità e di attenerti alla politica relativa alla privacy di Johnson Controls e a tutte le leggi in materia di protezione dei dati e di privacy pertinenti.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:190px;" fcStyle="top:-213px">
+			<text style="font-size:17px;"><![CDATA[Errato.]]></text>
+			<text><![CDATA[Le leggi in materia di privacy dei dati, e la politica relativa alla privacy dei dati di Johnson Controls, si applicano alle informazioni personali dei dipendenti, dei clienti e dei partner commerciali. Assicurati di aver compreso le tue responsabilità e di attenerti alla politica relativa alla privacy di Johnson Controls e a tutte le leggi in materia di protezione dei dati e di privacy pertinenti.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

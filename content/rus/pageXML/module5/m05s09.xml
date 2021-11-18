@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m05s09" maxAttempt="2">
+	<transcript>
+		<text path="audio/module5/m05s09" id="0"><![CDATA[Теперь ваша очередь. Определите, является ли каждая из перечисленных операций экспортной. Перетащите каждый элемент в столбец «Экспортная операция» или «Неэкспортная операция» и щелкните «Отправить».]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[Вы хорошо различаете экспортные и неэкспортные операции? Определите, является ли каждая из перечисленных операций экспортной.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s09/contentBackground.jpg" minwidth="769"><![CDATA[Сотрудники работают с документами компании]]></img>
+	</contentBackground>
+	 <contentBg style="top: 20px;"></contentBg>
+	<pageTitle style="width: 588px;margin-bottom:6px;"></pageTitle>
+	<instructionText style="width: 588px;margin-top:6px;">
+		<text><![CDATA[Перетащите каждый элемент в один из столбцов и щелкните «Отправить».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+		<text><![CDATA[Чтобы повторить попытку, нажмите кнопку «Начать заново».]]></text>
+		<text><![CDATA[Нажмите кнопку «Показать ответ».]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 330px; padding: 4px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[ОПЕРАЦИИ]]></lable> 
+		<option>			
+			<option height="51px" left="0" top="27px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Опубликование конструкторской информации в Интернете]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="88px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Предоставление иностранному клиенту возможности получить техническую информацию, подлежащую экспортному контролю, в ходе экскурсии по заводу]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="149px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Опубликование технической статьи о будущем систем отопления, вентиляции и кондиционирования воздуха в журнале International News]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="210px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Предоставление клиенту, который является иностранным гражданином, помощи в разработке нового продукта или интеграции продукта Johnson Controls в конечное изделие]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="271px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[Загрузка чертежей на интернет-портал, который вы используете совместно с иностранными поставщиками]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="332px" width="336px" padding="2px 5px" fontSize="11px" dropId="1"><![CDATA[Хранение технических документов во внутренних компьютерных сетях с предоставлением доступа исключительно сотрудникам компании, которые пребывают в одной и той же стране и являются ее гражданами]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="393px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[Отправка товара по почте клиенту, который находится в том же городе, что и ваше подразделение компании, и является гражданином вашей страны и владельцем зарегистрированной в этой стране компании]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="455px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[Отправка иностранному клиенту электронного письма с приглашением на ужин и поздравлением с недавним получением крупного заказа]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="1" topGap="149" bottomGap="33">
+		<dropArea maxDrop="5" style="width:312px;left: 355px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="5" style="width:312px;left: 670px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Экспортная операция]]></text>
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Неэкспортная операция]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[Перетащите сюда]]></text>
+		<text style="width:301px;left: 277px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[Перетащите сюда]]></text>
+		<text style="width:301px;left: 277px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[Перетащите сюда]]></text>
+		<text style="width:301px;left: 277px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[Перетащите сюда]]></text>
+		<text style="width:301px;left: 277px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[Перетащите сюда]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[Перетащите сюда]]></text>
+		<text style="width:301px;left: 593px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[Перетащите сюда]]></text>
+		<text style="width:301px;left: 593px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[Перетащите сюда]]></text>
+		<text style="width:301px;left: 593px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[Перетащите сюда]]></text>
+		<text style="width:301px;left: 593px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[Перетащите сюда]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 480px;left: 230px;z-index: 10;"><![CDATA[Отправить]]></text>
+		<text style="position:absolute;top: 480px;left: 230px;z-index: 10;"><![CDATA[<span style="font-size:12px;padding-left:4px;">Начать заново</span>]]></text>	
+		<text style="position:absolute;top: 480px;left: 200px;z-index: 10; width: 125px;"><![CDATA[<span style="font-size:12px;padding-left:17px;">Показать ответ</span>]]></text>	
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct style="top: 146px;height: 200px;"> 
+			<text style="font-size:17px;"><![CDATA[Верно.]]></text>
+			<text><![CDATA[Помните: если вы не знаете, является ли та или иная операция экспортной, обратитесь за консультацией к экспертам нашей компании по вопросам соблюдения торговых норм.]]></text>
+			
+		</correct>
+		<incorrect style="top: 146px;height: 200px;"> 
+			<text style="font-size:17px;"><![CDATA[К сожалению, вы ошиблись.]]></text>
+			<text><![CDATA[Помните: если вы не знаете, является ли та или иная операция экспортной, обратитесь за консультацией к экспертам нашей компании по вопросам соблюдения торговых норм.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

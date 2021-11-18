@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[בחר את העדפת הצפייה שלך:]]></text>		
+		<text><![CDATA[קורס זה משתמש בשמע ווידאו כדי לתמוך בלמידה. אנו ממליצים לצפות בקורס במצב שמע/וידאו. עם זאת, אם תבחר לצפות בקורס במצב טקסט וגרפיקה, יוצג לך תסריט בליווי תמונות במקום השמע והווידאו.]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/rtl/audioSelection.jpg" minwidth="769"><![CDATA[גלי קול]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[המשך]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[בחר העדפת צפייה]]></option>
+			<option id="A1"><![CDATA[מצב שמע/וידאו]]></option>
+			<option id="A2"><![CDATA[מצב טקסט וגרפיקה]]></option>
+	</dropDownMenu>
+</contents>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[您有何想法？ 這些員工在保護個人資料安全方面作得足夠嗎？]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[員工在筆記型電腦上處理資料]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[您認為這些員工保護個人資料的方式妥當嗎？]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[針對每個選項選擇「是」或「否」，然後按一下「提交」。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img01.png"><![CDATA[員工丟出講義]]></img>
+			<text style="width: 390px;"><![CDATA[在旁人可以取得的地方丟出帶有個人資料的講義]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img02.png"><![CDATA[員工沖咖啡]]></img>
+			<text style="width: 390px;"><![CDATA[在等待列印機密的客戶資料時去倒杯咖啡]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img03.png"><![CDATA[密碼]]></img>	
+			<text style="width: 390px;"><![CDATA[使用高強度密碼保護含有個人資料的文件]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img04.png"><![CDATA[行事曆]]></img>	
+			<text style="width:390px;"><![CDATA[在超過需要期限後繼續保留個人資料「以防萬一」]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[是]]></text>
+		<text><![CDATA[否]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[正確。]]></text>			
+			<text style="font-size: 15px;"><![CDATA[保護員工、客戶及商業合作夥伴的個人財務及銀行資訊十分重要。 遵守我們的所有安全措施，絕不將個人資訊留置在他人能看到之處，即使只是暫置在您信任的人之中。 不再合理需要保存資訊時，請妥善丟棄。]]></text>			
+		</correct>
+		<incorrect style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[錯誤。]]></text>	
+			<text style="font-size: 15px;"><![CDATA[保護員工、客戶及商業合作夥伴的個人財務及銀行資訊十分重要。 遵守我們的所有安全措施，絕不將個人資訊留置在他人能看到之處，即使只是暫置在您信任的人之中。 不再合理需要保存資訊時，請妥善丟棄。]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

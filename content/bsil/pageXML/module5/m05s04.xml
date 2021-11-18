@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[Mark pensa em como responder ao e-mail do cliente. Você saberia o que fazer nesta situação complexa? Selecione uma opção e envie sua resposta.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Se você responder ao cliente pedindo mais informações, como o nome da empresa e o cargo, seu e-mail é considerado uma exportação? Por quê?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[Funcionário]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Selecione uma opção e clique em Enviar.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Sim, todos os e-mails podem ser uma exportação, pois os servidores estão localizados em diferentes países e o e-mail cruza várias fronteiras internacionais.]]></option>	
+		<option><![CDATA[Sim, qualquer e-mail solicitando informações de alguém em outro país sempre é uma exportação, pois estão sendo recebidas informações pessoais.]]></option>	
+		<option><![CDATA[Não, simplesmente responder ao cliente para pedir mais informações não é uma exportação]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Está correto.]]></text>
+			<text><![CDATA[A fim de garantir que você cumpra os controles comerciais, escreva ao cliente para obter mais informações.]]></text>
+			<text><![CDATA[No entanto, o simples envio do e-mail não é uma exportação, a menos que você tenha compartilhado ou anexado os desenhos do projeto, tecnologia ou outras informações controladas do produto.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Desculpe, está incorreto.]]></text>
+			<text><![CDATA[A fim de garantir que você cumpra os controles comerciais, escreva ao cliente para obter mais informações.]]></text>
+			<text><![CDATA[No entanto, o simples envio do e-mail não é uma exportação, a menos que você tenha compartilhado ou anexado os desenhos do projeto, tecnologia ou outras informações controladas do produto.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

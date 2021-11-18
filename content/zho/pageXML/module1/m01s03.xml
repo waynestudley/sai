@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[您识别危险情况能力如何？ 阅读此场景，并确定其是否代表利益冲突。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[办公室]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[您是否能够识别利益冲突？  确定下列情况是否存在潜在冲突，且应予以披露：]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[针对每个选项选择“是”或“否”，然后单击“提交”。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+		<text><![CDATA[单击问号按钮，以了解更多。]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[看似在面包店工作的，穿着围裙的女士]]></img>
+			<text style="width: 450px;"><![CDATA[珍妮弗是 Johnson Controls 的员工，计划周末在她姐姐新开的面包房工作，但这周她打电话请病假去帮忙张罗店铺的盛大开业。]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[身着商务套装的男士]]></img>
+			<text style="width: 450px;"><![CDATA[阿历克斯是 Johnson Controls 一名采购员，他认为他的朋友史蒂芬将会非常适合公司公开的一份工作。 他告诉史蒂芬这份工作，并建议他填写在线申请。]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[身着商务套装的中东裔女士]]></img>	
+			<text style="width: 450px;"><![CDATA[巴斯马是 Johnson Controls 一名品质工程师。 她管理的一个供应商向其提供了一个咨询机会。 他说，他们正在寻找帮助其为 Johnson Controls 所创建的新产品线进行出货质量检查的资源。 供应商明确表示，巴斯马可在晚上或周末完成这一工作（常规上班时间以外）。]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[身着商务套装的男士]]></img>	
+			<text style="width:450px;"><![CDATA[卡尔负责挑选一家 IT 供应商以支持 Johnson Controls 的一项重要项目。 今年早些时候，他在朋友的 IT 公司投了大笔资金，该公司现已提交这个工作的投标。]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[是]]></text>
+		<text><![CDATA[否]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[正确。]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[错误。 ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[单击问号按钮，以了解更多。]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[詹妮弗周末在她姐姐的面包店帮忙没有问题。 然而，如果她对她姐姐的承诺影响其在 Johnson Controls 的工作职责，则会产生冲突（如她假装生病，并在工作日耽误一天的工作而去面包店帮忙）。]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[尽管阿历克斯在采购部工作，但他并没有利用自己的职位帮助朋友得到工作。 阿历克斯建议史蒂芬填写在线申请，这是可以接受的，因为史蒂芬将会经历和其他所有申请者一样的流程。]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[巴斯马监督着供应商工作，她正考虑与供应商合作作为兼职。 如果供职于两家公司，她将忠于谁？ 可能会产生冲突，需避免此类情况。 至少，巴斯马需披露潜在利益冲突。]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[如果卡尔投资的公司赢得投标，即可从中获取经济利益。 他与此决策的个人关系可能会影响其做出公正决定的能力，使之成为利益冲突。]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

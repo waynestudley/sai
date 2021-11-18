@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0"><![CDATA[Mark는 받은 편지함에서 긴급이라고 표시된 새 이메일을 발견합니다. 이메일 헤더를 클릭하여 내용을 확인하십시오.]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;"></pageTitle>
+	<contentBg style="width: 591px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[긴급이라고 표시된 새 이메일이 도착했습니다.]]></text>	
+		
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[새 이메일]]></img>
+		<img path="content/images/ltr/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[이메일 헤더]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;left: 2px;top: 211px;font-size: 15px;">		
+		<img path="" minwidth="769"><![CDATA[이메일 메시지]]></img>	
+		<text style="margin-bottom:3px"><![CDATA[보낸 사람: arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px"><![CDATA[제목: 도움이 필요합니다.]]></text> 	
+		<text style=""><![CDATA[안녕하세요?]]></text> 				
+		<text style=""><![CDATA[저는 프랑스 마르세유에 있는 Johnson Controls 고객인데, 귀사의 화재 진압 제품 중 하나를 기존 시스템과 통합하는 데 어려움을 겪고 있습니다.]]></text> 				
+		<text style=""><![CDATA[지원팀에 전화를 하니 귀하에게 연락하여 기술 도면과 통합 매뉴얼을 요청하라고 알려 주었습니다. 그 자료들은 저희가 문제를 해결하는 데 도움이 될 것입니다.]]></text> 				
+		<text style=""><![CDATA[그 자료들을 가능한 한 빨리 이메일로 보내 주시기 바랍니다.]]></text> 				
+		<text style="margin-bottom:0px"><![CDATA[감사합니다.]]></text> 		
+		<text style="margin-bottom:0px"><![CDATA[A. Richter]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[이메일 헤더를 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path=""><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;left: 97px; width: 475px;"><![CDATA[<span style="padding-right: 32px;">arichter_8888@gmail.com</span><span>도움이 필요합니다.</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

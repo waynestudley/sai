@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m07s04">
+	<transcript>
+		<text path="audio/module7/m07s04" id="0"><![CDATA[Johnson Controlsが持つ異なる種類の知的財産について調べてみましょう。 それぞれの開示ボタンをクリックして詳細を確認してください。]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Johnson Controlsにおいて、私たちの成功は以下を保護する能力に依存します。]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module7/m07s04/contentBackground.jpg" minwidth="769"><![CDATA[オフィスの背景]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[それぞれの開示ボタンをクリックして詳細を確認してください。 回答すべてを読むにはスクロールの必要がある場合があります。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[開示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module7/m07s04/img1.png"><![CDATA[「特許」とラベルに書かれたファイルフォルダ]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[特許]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[特許は技術ソフトウェアを含む、Johnson Controlsの技術発明を保護します。]]></text>
+				<text><![CDATA[特許の申請プロセスは時間がかかり、高価である可能性がありますが、一旦取得すると、特許で他者が当社の発明を使用することを防ぐことができます。 これは、私たちに潜在的に重要な競争的利点を与えます。]]></text>						
+			</popText>	
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module7/m07s04/img2.png"><![CDATA[機密保持契約書]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[企業秘密]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[企業秘密は、Johnson Controlsの機密事業、プロセス、技術情報（例えば製造プロトコルと収集したデータ）を含みます。 広く知られていない当社のビジネスに関する情報でも、市場において当社に経済的利点を与え、企業秘密として保護するための合理的な措置を講じる必要があります。]]></text>					
+				<text><![CDATA[企業秘密がすべての国で法律によって保護されているというわけではありませんが、認可されている人物にのみ共有するよう注意することで、それらの保護を強化できます。 加えて、当社は受取人が非開示契約（NDA）に署名することを求めています。]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img3.png"><![CDATA[著作権記号]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[著作権]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Johnson Controlsでは、ソフトウェアコード、包装、マニュアルを保護するために著作権を使用します。]]></text>			
+				<text><![CDATA[多くの国では、著作権は著者の死後70年間知的財産を保護できます。 著作権を保護するために出願は必要ありませんが、米国では著作権を強化するためには登録が必要です。]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img4.png"><![CDATA[Johnson Controlsの製品で作業する従業員]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[意匠権]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[意匠権（別名意匠特許）は、製品（技術的な特徴以外に）のデザインを保護します。]]></text>			
+				<text><![CDATA[例えば、意匠権は探知器の外観を保護し、競合他社がデザインをコピーするのを停止させることができます。 しかし意匠権は、探知器が機能するのを助ける技術は保護しません。 Johnson Controlsは、製品のそういった特許を取得する必要があります。]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img5.png"><![CDATA[商標記号]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[商標]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[商標（サービスマークを含む）は、当社のブランドとロゴを保護します。 これらは、製品とサービスを識別するために当社が使用する名前または記号を指します。]]></text>			
+				<text><![CDATA[色、形、におい、音など、多くのものが商標になり得ます。 「Coca-Cola」という名称は商標ですし、ナイキの「swoosh」も商標です。]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

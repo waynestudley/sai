@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[一家重要供应商要求立即付款。 您认为建安应该怎么做？ 选择一个选项，然后单击“确定”。]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[对于批准立即支付供应商发票款项，建安倍感压力，并且项目能否成功可能取决于此。]]></text>
+		<text><![CDATA[他应该怎么做？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[建安在厨房与诺兰通话]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[告诉诺兰批准这一款项。 花费 1000 美元避免因交付延期而造成的更多罚款看似合理。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[告诉诺兰在了解这笔款项如何用于与许可证相关的事宜前，切勿批准款项。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[建安告知会计部门支付发票。 这似乎是如期完成项目的最佳方法，而且相较于客户罚金，也花费更少。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[与诺兰交谈后，建安对供应商的要求有所疑虑。]]></text>
+		</correct>
+	</feedback>
+</contents>

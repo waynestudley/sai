@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s07">
+	<transcript>
+		<text path="audio/module6/m06s07" id="0"><![CDATA[このケーススタディで説明するように、競争法の違反は自身の会社で発生します。 ストーリーのそれぞれのステージをクリックします。]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px" lineHeight="19px" fontSize="14px" ><![CDATA[不公平は競争はどこでも発生し、常に目に見えるものではありません。 Johnson Controlsでも、それほど前ではなく競争法の問題を経験しています。 この事例を確認し、そこから何を学べるのかを見ていきましょう。]]></text>
+	</contentText>
+	<contentBg style="top: 34px;"></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[ストーリーのそれぞれのステージをクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top: 170px;">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module6/m06s07/Strip_01.png" minwidth="700" minheight="550"><![CDATA[他の会社のマネージャーと上級マネージャーのミーティング]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-size:14px;"><![CDATA[Johnson Controlsでは、特定のスクラップバッテリーサプライヤーを利用しています。 何年か、スクラップバッテリーサプライヤーを利用している他の大企業3社のマネージャーと、当社の上級マネージャーが情報を交換していました。]]></text>
+				<text style="font-size:14px;"><![CDATA[おそらくゴールは、ドイツ、フランス、ベルギー、オランダ地域のスクラップバッテリーサプライヤーに対して、これら4社の企業が支払う価格を人工的に下げることでした。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_02.png" minwidth="700" minheight="550"><![CDATA[インテグリティヘルプラインに従業員が電話している]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-size:14px;"><![CDATA[Johnson Controlsの1人が申し出て、この活動をインテグリティヘルプラインに報告しました。]]></text>
+				<text style="font-size:14px;"><![CDATA[Johnson Controlsは、透明な調査を可能にするために、欧州委員会と協力しました。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_03.png" minwidth="700" minheight="550"><![CDATA[調査]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-size:14px;"><![CDATA[十分な調査が行われ、結果として、非倫理的な活動に関与していたJohnson Controlsのマネージャーが解雇されました。]]></text>
+				<text style="font-size:14px;"><![CDATA[関与していた他の企業には数百万ユーロの罰金が課されましたが、Johnson Controlsは率先して活動を当局に報告し、その後十分に当局の調査に協力したため、罰金は課されませんでした。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_04.png" minwidth="700" minheight="550"><![CDATA[携帯電話を持っている告発者]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-size:14px;"><![CDATA[告発者は、Johnson Controlsがこの不正な慣習を発見し、終わらせることに協力しました。 そして、当局に率先して報告することで、欧州委員会はJohnson Controlsに罰金を課しませんでした。 さもなければ、罰金は€4200万でした。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="5">
+			<stripBackground>				
+				<img path="content/images/ltr/module6/m06s07/Strip_05.png" minwidth="700" minheight="550"><![CDATA[ヨーロッパチーム]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-size:14px;"><![CDATA[この事件の結果、Johnson Controlsのヨーロッパチームは、類似した活動が繰り返されるのを防ぐために、内部のプロセスと組織的構造の大幅な変更を行いました。]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

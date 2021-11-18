@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m03s03">
+	<transcript>
+		<text path="audio/module3/m03s03" id="0"><![CDATA[贿赂并非仅有金钱交易一种形式。 单击每个“显示”按钮，了解更多信息。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[检查您对贿赂的了解程度。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s03/contentBackground.jpg" minwidth="769"><![CDATA[模糊的身影]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[单击每个“显示”按钮，了解更多信息。 您可能需要滑动以查看完整答案。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[显示]]></text>
+	</buttonText>	
+	<flipCardContent width="230px">
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img1.png" style=""><![CDATA[何种情况会构成贿赂？]]></buttonImg>
+			<buttonText style=""><![CDATA[何种情况会构成贿赂？]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[<span class="fontBold">通过赠送某人任何有价物以不当影响其决策或行为的行为，属于</span>贿赂。]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img2.png" style=""><![CDATA[递给他人棕色信封的人员]]></buttonImg>
+			<buttonText style=""><![CDATA[“任何有价物”是指什么？]]></buttonText>		
+			<popText style="">
+				<text><![CDATA[其可能涉及现金，但还可能包含：<ul> <li>公司股票</li> <li>礼品或酬金</li> <li>过度招待或款待</li> <li>观光或度假，即使有时与合法的差旅相关</li> <li>不当折扣或过度佣金</li> <li>政治或慈善捐款</li> <li>为客户、其家人或朋友提供工作</li> <li>异常或巧立名目的津贴与费用</li> <li>向接受者赠送其他任何有价物</li> </ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img3.png" style=""><![CDATA[递给他人棕色信封的人员]]></buttonImg>
+			<buttonText style=""><![CDATA[贿赂是否在各个地方皆予以明令禁止？]]></buttonText>
+			<popText style="">
+				<text><![CDATA[<ul> <li>全球许多国家/地区都已出台了有关反贿赂的法律，甚至历史上贿赂现象最为严重的国家/地区也是如此。</li> <li>公司政策禁止在公司开展业务的任何国家/地区行贿；作为一家跨国公司，我们在某个国家/地区从事的行为，可能会在我们开展业务所在的其他任何地区受到审查。</li> <li>在世界多个管辖区，贿赂也属于刑事犯罪，个人会因参与贿赂而受到指控、审问和判刑。</li> </ul>]]></text>		
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img4.png" style=""><![CDATA[递给他人棕色信封的人员]]></buttonImg>
+			<buttonText style=""><![CDATA[行贿还是受贿有区别吗？]]></buttonText>
+			<popText style="">
+				<text><![CDATA[在几乎所有管辖区，行贿与受贿一样，都属于违法行为。 Johnson Controls 政策禁止任何形式的行贿或受贿行为。]]></text>			
+			</popText>
+		</flipCard>		
+	</flipCardContent>	
+</contents>

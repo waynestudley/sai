@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m09s06" maxAttempt="2">
+	<transcript>
+		<text path="audio/module9/m09s06" id="0"><![CDATA[检验一下您能否分辨哪些行为恰当，哪些行为不当。 将每个项目拖到恰当或不当框中，并单击“提交”。]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[阅读以下情境，选择在此情境下接受竞争情报是否恰当。]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module9/m09s06/contentBackground.jpg" minwidth="769"><![CDATA[处理公司文件的员工]]></img>
+	</contentBackground>
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 588px;"></pageTitle>
+	<instructionText style="width: 588px;">
+		<text><![CDATA[将各项拖至其中一个选项框，然后单击“提交”。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+		<text><![CDATA[单击“再试一次”按钮重试。]]></text>
+		<text><![CDATA[单击“显示答案”按钮。]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 291px; padding: 0px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[情境]]></lable> 	
+		<option>			
+			<option height="68px" left="0" top="21px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[竞争对手发布广告广招英才，广告内容暗示其策略有所调整]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="99px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[您获取了竞争对手 CEO 去年在一场行业会议中的演讲稿，演讲稿分享了近期产品的改进细节。]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="177px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[您研究竞争对手近期专利申请中的产品设计图]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="255px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[一位前同事现在为竞争对手工作，并与您分享了有关他们重要合同的信息 ]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="334px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[一家同时为您的竞争对手工作的承包商向您展示了他手机中存有的一些产品设计图]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="413px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[一位新员工曾为竞争对手工作，因此您向其询问有关其公司新服务的详情]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="0" topGap="149" bottomGap="37">
+		<dropArea maxDrop="3" style="width:312px;left: 330px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="3" style="width:312px;left: 648px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[恰当]]></text>
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[不当]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[拖至此处]]></text>
+		<text style="width:301px;left: 277px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[拖至此处]]></text>
+		<text style="width:301px;left: 277px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[拖至此处]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[拖至此处]]></text>
+		<text style="width:301px;left: 593px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[拖至此处]]></text>
+		<text style="width:301px;left: 593px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[拖至此处]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[提交]]></text>
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[再试一次]]></text>	
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10; width: 125px;"><![CDATA[显示答案]]></text>
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct> 
+			<text style="font-size:17px;"><![CDATA[正确。]]></text>
+			<text><![CDATA[从公开渠道获得竞争情报，属于恰当行为。]]></text>
+			<text style="margin-bottom:0;"><![CDATA[切勿迫使任何人必须违反其对其他公司的保密义务。]]></text>
+			
+		</correct>
+		<incorrect> 
+			<text style="font-size:17px;"><![CDATA[抱歉，回答错误。]]></text>
+			<text><![CDATA[从公开渠道获得竞争情报，属于恰当行为。]]></text>
+			<text style="margin-bottom:0;"><![CDATA[切勿迫使任何人必须违反其对其他公司的保密义务。]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

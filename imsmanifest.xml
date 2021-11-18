@@ -1,0 +1,32 @@
+<?xml version = "1.0" standalone = "no"?>
+						<manifest identifier = "sai_Johnson_cntrl_2017_multi_V4400_html_scorm2004" version = "1.3"
+						    xmlns = "http://www.imsglobal.org/xsd/imscp_v1p1"
+						    xmlns:adlcp = "http://www.adlnet.org/xsd/adlcp_v1p3"
+						    xmlns:adlseq = "http://www.adlnet.org/xsd/adlseq_v1p3"
+						    xmlns:adlnav = "http://www.adlnet.org/xsd/adlnav_v1p3"
+						    xmlns:imsss = "http://www.imsglobal.org/xsd/imsss"
+						    xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+						    xsi:schemaLocation = "http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+						                                           http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+						                                           http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+						                                           http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+						                                           http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+	<metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>CAM 1.3</schemaversion>
+      <adlcp:location>courseMetadata.xml</adlcp:location>
+   </metadata>
+   <organizations default = "SAI">
+      <organization identifier = "SAI" structure="hierarchical" adlseq:objectivesGlobalToSystem="false">
+         <title>Applying the Ethics Code: Doing Business with Integrity</title>
+         <item identifier ="item00" identifierref ="sco01">
+              <title>Applying the Ethics Code: Doing Business with Integrity</title>
+         </item>
+      </organization>
+   </organizations>
+   <resources>
+      <resource identifier ="sco01" adlcp:scormType="sco" type = "webcontent" href="sco_index.html">
+		<file href = "sco_index.html"/>
+      </resource>
+   </resources>
+</manifest>

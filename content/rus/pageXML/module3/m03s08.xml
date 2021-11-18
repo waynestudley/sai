@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[Государственные органы и регуляторы сурово наказывают виновных во взяточничестве. Вот почему взяточничество так важно активно предотвращать. Сопоставьте поступки, перечисленные в левом столбце таблицы, с их последствиями, указанными в правом столбце.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Что происходит с компаниями, которые занимаются взяточничеством и коррупцией?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[Офис]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;font-size:14px;"><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<instructionText style="height:40px">
+		<text><![CDATA[Выберите поступок в первом столбце и перетащите стрелки, чтобы сопоставить этот поступок с его последствиями, указанными во втором столбце. Когда все будет готово, щелкните «Отправить».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[ПОСТУПОК]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[Сотрудник предоставляет кому-то право на стажировку ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:12px; line-height:14px"><![CDATA[Инвестиционные банкиры компании JP Morgan в Азиатско-Тихоокеанском регионе запустили программу предоставления рабочих мест и мест для стажировки родственникам и друзьям потенциальных клиентов, среди которых были государственные служащие. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[Государственный служащий со взяткой ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style="font-size:12px; line-height:14px"><![CDATA[Дочерние предприятия гигантской международной компании, изготавливавшие медную, алюминиевую и волоконно-оптическую проволоку, выплатили несколько миллионов долларов сторонним агентам и дистрибьюторам. Часть этих денег использовалась для подкупа государственных служащих с целью получения заказов, которые принесли компании прибыль в размере 51 млн долл. США.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[ПОСЛЕДСТВИЯ]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[Компанию обязали выплатить 76 млн долл. США, двум руководителям, знавшим о взятках, пришлось выплатить несколько миллионов долларов. ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[Судья с молотком]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ Государственные органы США обнаружили, что компания «принимала участие в систематическом взяточничестве», которое позволило ей получать крупные заказы. Компанию обязали выплатить 264 млн долл. США.]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[Здание Капитолия США, на переднем плане — ступеньки здания суда]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[Последствия взяточничества и коррупции могут быть серьезными (как для физических, так и для юридических лиц), к числу наказаний за взяточничество относятся наложение штрафов и тюремное заключение.  Компания Johnson Controls рассчитывает на то, что вы будете избегать взяточничества при любых обстоятельствах и незамедлительно уведомлять компанию обо всех подозрительных действиях в этой сфере.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[Последствия взяточничества и коррупции могут быть серьезными (как для физических, так и для юридических лиц), к числу наказаний за взяточничество относятся наложение штрафов и тюремное заключение.  Компания Johnson Controls рассчитывает на то, что вы будете избегать взяточничества при любых обстоятельствах и незамедлительно уведомлять компанию обо всех подозрительных действиях в этой сфере.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

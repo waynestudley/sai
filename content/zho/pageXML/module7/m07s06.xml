@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s06">
+	<transcript>
+		<text path="audio/module7/m07s06" id="0"><![CDATA[这些员工针对知识产权分别进行陈述。 选择您同意的所有陈述，然后单击提交。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module7/m07s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 580px;right: 430px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[您是否同意以下有关知识产权的各项陈述？]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[请选择您是否同意这些陈述，并单击提交。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent style="width:582px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img01.png"><![CDATA[男员工]]></img>
+			<text style="width: 312px;"><![CDATA[对于 Johnson Controls 工作期间的发明创造，有权按照我的意愿使用]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img02.png"><![CDATA[男员工]]></img>
+			<text style="width: 312px;"><![CDATA[贴有商标或受版权保护的事物没有截止时间，始终受到保护]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img03.png"><![CDATA[女员工]]></img>	
+			<text style="width: 312px;"><![CDATA[发布 Johnson Controls 的知识产权可能会危害我们的公司]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img04.png"><![CDATA[女员工]]></img>	
+			<text style="width:312px;"><![CDATA[某些在网上免费获取信息或图片，可以用于商业目的]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[同意]]></text>
+		<text><![CDATA[不同意]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -114px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[正确。]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>您在 Johnson Controls 工作期间创造、发明或改造的任何东西，通常都属于 Johnson Controls，而非属于您。 一旦您离开公司，所有的知识产权 (IP) 仍属于 Johnson Controls，您不得独立使用、或在其他公司使用或与他人分享。</li> <li>如果使用不当或疏忽，可能损害甚至失去知识产权（包括商标和版权）。 虽然 Johnson Controls 的律师努力保护我们的知识产权，但我们每个人也必须负起责任。 我们在日常业务活动中，必须谨慎地保护我们的知识产权。</li> <li>Johnson Controls 的知识产权 (IP) 对公司业务至关重要。 滥用知识产权或将其让与未经授权的接收方，可能会为公司带来很严重的问题。 在某些情况下，滥用知识产权可能会使其失去保护，而泄露 Johnson Controls 的商业机密或设计，可能会损害我们在市场上的竞争力。</li> <li>我们在网上可以轻松获取海量信息，但不能仅仅因为某些内容可以公开获取，就认为我们有权使用。 网上查到的内容中大部分都受保护，包括文字、图片、卡通、代码和软件。 切勿在 Johnson Controls 的业务中使用网上查到的内容，除非您确定我们已获得内容所有者的许可。</li> </ul>]]></text>
+		</correct>
+		<incorrect style="top: -114px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[错误。]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>您在 Johnson Controls 工作期间创造、发明或改造的任何东西，通常都属于 Johnson Controls，而非属于您。 一旦您离开公司，所有的知识产权 (IP) 仍属于 Johnson Controls，您不得独立使用、或在其他公司使用或与他人分享。</li> <li>如果使用不当或疏忽，可能损害甚至失去知识产权（包括商标和版权）。 虽然 Johnson Controls 的律师努力保护我们的知识产权，但我们每个人也必须负起责任。 我们在日常业务活动中，必须谨慎地保护我们的知识产权。</li> <li>Johnson Controls 的知识产权 (IP) 对公司业务至关重要。 滥用知识产权或将其让与未经授权的接收方，可能会为公司带来很严重的问题。 在某些情况下，滥用知识产权可能会使其失去保护，而泄露 Johnson Controls 的商业机密或设计，可能会损害我们在市场上的竞争力。</li> <li>我们在网上可以轻松获取海量信息，但不能仅仅因为某些内容可以公开获取，就认为我们有权使用。 网上查到的内容中大部分都受保护，包括文字、图片、卡通、代码和软件。 切勿在 Johnson Controls 的业务中使用网上查到的内容，除非您确定我们已获得内容所有者的许可。</li> </ul>]]></text>	
+		</incorrect>		
+	</feedback>
+	
+</contents>

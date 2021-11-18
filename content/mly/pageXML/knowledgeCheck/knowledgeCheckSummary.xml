@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[Tahniah, anda telah berjaya lulus Semakan Pengetahuan akhir.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[Malangnya, anda belum lulus Semakan Pengetahuan akhir. ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Tahniah!]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Pekerja Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Pekerja Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[Klik pada Laman Utama untuk kembali ke menu Utama. Dari sini, anda boleh mengakses sijil pelengkapan kursus anda.]]></text>
+		<text><![CDATA[Klik pada Laman Utama untuk kembali ke menu Utama.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[Dengan skor <b>##%</b>, anda telah lulus Semakan Pengetahuan untuk: <span class="courseTitleAss" >Menggunakan Kod Etika: Kursus Menjalankan Perniagaan dengan Integriti</span>.]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[Dengan skor <b>##%</b>, anda belum lulus kursus.]]></text>
+		<text><![CDATA[Anda perlu mendapat skor <span>#%</span> atau lebih untuk lulus. Sila lawati semula program dan kemudian, cuba Semakan Pengetahuan ini semula.]]></text>
+	</feedbackFail>
+</contents>

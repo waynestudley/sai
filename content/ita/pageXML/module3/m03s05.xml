@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[Quali di questi scenari pensi che potrebbero essere problematici?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Pensi che questi esempi potrebbero essere percepiti come atti di corruzione?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[Persone d’affari]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleziona <span class="fontBold">tutti</span> gli scenari problematici, quindi fai clic su Inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Vi possono essere più risposte corrette.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Hai promesso un regalo in denaro a un cliente in cambio di una decisione lavorativa favorevole]]></option>
+		<option><![CDATA[Un subappaltatore che vuole essere selezionato ti invita a varie cene ed eventi sportivi]]></option>
+		<option><![CDATA[Contribuisci alla campagna di un funzionario pubblico che è un potenziale cliente]]></option>
+		<option><![CDATA[Il tuo responsabile assume la figlia di un cliente in cambio del consenso di quest’ultimo per estendere il suo attuale contratto]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text style="font-size: 15px;"><![CDATA[Risposta corretta.]]></text>
+			<text style="font-size: 15px;"><![CDATA[Effettivamente tutti questi scenari potrebbero essere considerati come atti di corruzione a seconda delle circostanze. Avere l’intenzione di influenzare qualcuno è fondamentale, ma è importante ricordare che anche un solo un atto anche apparentemente di corruzione potrebbe essere problematico per te e Johnson Controls, quindi pensa bene prima di agire!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text style="font-size: 15px;"><![CDATA[Risposta errata.]]></text>
+			<text style="font-size: 15px;"><![CDATA[Effettivamente tutti questi scenari potrebbero essere considerati come atti di corruzione a seconda delle circostanze. Avere l’intenzione di influenzare qualcuno è fondamentale, ma è importante ricordare che anche un solo un atto anche apparentemente di corruzione potrebbe essere problematico per te e Johnson Controls, quindi pensa bene prima di agire!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[Que savez-vous déjà sur les risques liés à la propriété intellectuelle ? Découvrez la situation de Maria, sélectionnez toutes les réponses appropriées, puis cliquez sur Soumettre.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Maria a débuté sa carrière chez Johnson Controls il y a quelques mois et a fait partie du lancement d'un nouveau produit, ce qui provoque une effervescence dans le secteur.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Pete, un ami de Maria qui travaille dans un secteur similaire, lui demande comment va son travail et commence à poser des questions spécifiques sur le nouveau produit.]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Comment doit réagir Maria ?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA[Maria et Pete]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 20px;padding: 0;line-height:20px;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;line-height:20px;">
+		<text><![CDATA[Sélectionnez toutes les réponses appropriées, puis cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Plusieurs bonnes réponses sont possibles.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px;line-height:18px;font-size:15px;">
+		<option><![CDATA[Elle doit faire promettre à Pete de ne rien révéler sur ce qu’elle s'apprête à lui dire avant de lui donner des informations sur le produit et le lancement]]></option>	
+		<option><![CDATA[Elle doit dire à Pete ce qu’elle ressent par rapport à son travail (p. ex. passionnant, comportant des défis, etc.) sans lui donner aucune information sur le produit ou le lancement]]></option>	
+		<option><![CDATA[Elle doit dire à Pete que son travail est confidentiel et qu’elle ne peut pas donner d'informations]]></option>	
+		<option><![CDATA[Elle doit uniquement parler de ses projets et communiquer des informations non disponibles pour le grand public avec des amis proches et des membres de sa famille en qui elle a confiance]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-246px">
+			<text><![CDATA[C’est exact.]]></text>
+			<text><![CDATA[Maria ne peut pas dire à Pete ce qu'elle ressent par rapport à son travail, mais ne doit pas révéler d’informations confidentielles à propos de l’entreprise, y compris des informations sur le nouveau produit et son lancement.]]></text>
+			<text><![CDATA[Le point principal à garder à l’esprit est de ne JAMAIS révéler de secrets commerciaux ou toute autre information confidentielle à des personnes non autorisées en dehors de notre entreprise pour quelque raison que ce soit.]]></text>
+			<text><![CDATA[Des amis ou des membres de la famille ne doivent en aucun cas être informés des secrets commerciaux utilisés ou de la propriété intellectuelle développée par Johnson Controls. ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-246px">
+			<text><![CDATA[C’est faux.]]></text>
+			<text><![CDATA[Maria ne peut pas dire à Pete ce qu'elle ressent par rapport à son travail, mais ne doit pas révéler d’informations confidentielles à propos de l’entreprise, y compris des informations sur le nouveau produit et son lancement.]]></text>
+			<text><![CDATA[Le point principal à garder à l’esprit est de ne JAMAIS révéler de secrets commerciaux ou toute autre information confidentielle à des personnes non autorisées en dehors de notre entreprise pour quelque raison que ce soit.]]></text>
+			<text><![CDATA[Des amis ou des membres de la famille ne doivent en aucun cas être informés des secrets commerciaux utilisés ou de la propriété intellectuelle développée par Johnson Controls. ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

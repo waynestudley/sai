@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c02s15">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c02/m10c02s15/contentBackground.jpg" minwidth="769"><![CDATA[Kontrolní seznam]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Klikněte na jednotlivé fáze příběhu.]]></text>
+		<text><![CDATA[Vyberte tlačítko Další – zkuste to znovu a přehodnoťte svůj výběr.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="107">			
+			<buttonText style=""><![CDATA[Dan odešle e-mail.]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[Dan odešle každému, kdo je na seznamu zaměstnanců, celofiremní e-mail s odkazem na Emmin realitní blog.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="126">
+			<buttonText style=""><![CDATA[Emma odešle návazný e-mail.]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Emma odešle návazný skupinový e-mail, aby všem poděkovala za podporu a informovala je, jak se Sandy daří. Mnoho lidí zveřejní na blogu v sekci komentářů zprávu s přáním brzkého uzdravení. Poměrně dost lidí přispěje do fondu.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="129">
+			<buttonText style=""><![CDATA[Emma odešle druhý e-mail s odkazem na svůj realitní blog.]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[O měsíc později rozešle Emma další skupinový e-mail s odkazem na svůj blog, ve kterém upozorňuje na novou nemovitost na prodej a nabízí přednostní prohlídky případným zájemcům z řad zaměstnanců společnosti Johnson Controls.]]></text>			
+			</popText>
+		</accordion>	
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="151">			
+			<buttonText style=""><![CDATA[Následky]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Emma i Dan jsou pokáráni za nevhodné použití seznamu e-mailových adres zaměstnanců a za porušení soukromí zaměstnanců. Emma neměla na svém blogu poskytovat žádné informace o zdravotním stavu Sandy. A neměla by se snažit získat podnikatelské příležitosti pomocí celofiremních e-mailových sdělení.]]></text>				
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

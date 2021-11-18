@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[エマは彼女の上司のロジャーに状況を報告しましたが、ロジャーは何もしませんでした。 エマはどうするべきでしょうか？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[何もアドバイスしない。 エマが報告したら、すぐにフォローアップするのはロジャーの責任です。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[コンプライアンスまたは法務部の誰かに話すか、懸念についてインテグリティヘルプラインに連絡します。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[エマが上司のロジャーに話したことは正しいです。 しかし、エマはロジャーが何かしてくれるとは思わなかったため、彼女は懸念を上申する必要があります。 彼女はコンプライアンスまたは法務部のメンバー、彼女の人事担当に連絡するか、インテグリティヘルプラインに懸念をログ記録できます。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[エマが上司のロジャーに話したことは正しいです。 しかし、エマはロジャーが彼女の懸念に対処するために何かしてくれてはいないと考えています。 そのため、エマはさらにステップを踏み、問題を適切に確認し対処できる会社の別リソースに話すことが正しいです。]]></text>
+		</correct>
+	</feedback>
+</contents>

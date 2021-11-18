@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[Pembekal utama telah meminta bayaran serta-merta. Apakah yang anda fikir Jian patut lakukan? Pilih satu pilihan, kemudian klik OK.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Jian ditekan untuk meluluskan bayaran serta-merta untuk invois vendor dan kejayaan projek bergantung padanya.]]></text>
+		<text><![CDATA[Apakah yang patut dia lakukan?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[Jian bercakap di telefon dengan Nolan di dapurnya]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Beritahu Nolan agar meluluskan bayaran tersebut. Ia kelihatan munasabah untuk membelanjakan USD$1000 bagi mengelak penalti yang ketara lebih banyak kerana penghantaran lewat.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Beritahu Nolan agar tidak meluluskan bayaran sehingga mereka boleh mengetahui lebih lanjut mengenai cara wang tersebut akan digunakan berhubung dengan permit.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian menyuruh Jabatan Perakaunan agar membayar invois tersebut. Ia kelihatan seperti cara terbaik untuk memastikan projek mengikut jadual dan ia lebih kecil berbanding penalti pelanggan.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Selepas bercakap dengan Nolan, Jian rasa bimbang mengenai permintaan pembekal.]]></text>
+		</correct>
+	</feedback>
+</contents>

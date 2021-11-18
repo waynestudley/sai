@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[O que você acha? Esses funcionários estão fazendo tudo que podem para manter os dados pessoais em segurança?]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[Funcionário trabalhando com dados no laptop]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Você acha que esses funcionários estão protegendo de forma adequada os dados pessoais?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Selecione Sim ou Não para cada opção e depois clique em Enviar.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img01.png"><![CDATA[Funcionário jogando um papel fora]]></img>
+			<text style="width: 390px;"><![CDATA[Jogar fora um papel com informações pessoais em locais em que outros podem pegá-lo]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img02.png"><![CDATA[Funcionário pegando café]]></img>
+			<text style="width: 390px;"><![CDATA[Pegar café enquanto espera a impressão dos dados confidenciais de um cliente]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img03.png"><![CDATA[Senha]]></img>	
+			<text style="width: 390px;"><![CDATA[Usar senhas seguras para proteger os documentos que contêm informações pessoais]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img04.png"><![CDATA[Calendário]]></img>	
+			<text style="width:390px;"><![CDATA[Manter os dados pessoais por mais tempo do que o necessário/exigido apenas por segurança]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Sim]]></text>
+		<text><![CDATA[Não]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Correto.]]></text>			
+			<text style="font-size: 15px;line-height:18px;"><![CDATA[É de vital importância proteger as informações financeiras e bancárias pessoais dos funcionários, clientes e parceiros de negócios. Obedeça às nossas medidas de segurança e nunca deixe informações pessoais em uma área em que os outros possam vê-las, mesmo se apenas por um momento e na presença de pessoas de confiança. Descarte adequadamente as informações quando não houver mais a necessidade legítima de guardá-las.]]></text>			
+		</correct>
+		<incorrect style="top: 8px;width: 220px;height: 330px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Incorreto.]]></text>	
+			<text style="font-size: 15px;line-height:18px;"><![CDATA[É de vital importância proteger as informações financeiras e bancárias pessoais dos funcionários, clientes e parceiros de negócios. Obedeça às nossas medidas de segurança e nunca deixe informações pessoais em uma área em que os outros possam vê-las, mesmo se apenas por um momento e na presença de pessoas de confiança. Descarte adequadamente as informações quando não houver mais a necessidade legítima de guardá-las.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

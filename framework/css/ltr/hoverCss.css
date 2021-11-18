@@ -1,0 +1,40 @@
+/*----------------------------------------
+	Name: hover.css
+	Developed by: Suyog Shaha	
+	Copyright:
+----------------------------------------*/
+
+/* navigation hover
+-----------------------Shell -Layout----- */
+.dropOptions:hover{}
+.footer .btn_Next:hover{background-position: -379px -60px;}
+.footer .btn_Back:hover{background-position:-319px -60px;}
+.btn_Exit:hover{background-position:-16px -255px;}
+.footer .replayPage:hover{background-position: -96px -65px;}
+
+.footer .transcriptOn:hover{background-position:-176px -65px;}
+.footer .transcriptOff:hover{background-position: -246px -65px;}
+.footer .audioOn:hover{background-position: -136px -65px}
+.footer .audioOff:hover{background-position: -206px -65px;}
+
+.footer .btn_Menu:hover{background-position:-16px -65px;} 
+
+.footer .btn_Glossary:hover{background-position:-16px -255px;}
+.footer .btn_Next.nextBlink:hover{background-position: 0px 1px}
+.footer .btn_Next.menuBlink:hover{background-position: 0px 1px}
+
+
+
+/* .footer .btn_Next:focus{background-position:-370px -70px;}
+.footer .btn_Back:focus{background-position:-310px -70px;}
+.footer .replayPage:focus{background-position:-260px -70px;}
+.footer .transcriptOn:focus{background-position:-60px -70px;}
+.footer .transcriptOff:focus{background-position:-110px -70px;}
+.footer .audioOn:focus{background-position:-160px -70px;}
+.footer .audioOff:focus{background-position:-210px -70px;}
+.footer .btn_Menu:focus{background-position:-19px -70px;} 
+.footer .btn_Glossary:focus{background-position:-216px -70px;}
+.footer .btn_Next.nextBlink:focus{background-image:url("../../../framework/images/ltr/nextBlinkFocus.png"); background-position: 0px 1px;}
+.footer .btn_Next.menuBlink:focus{background-image:url("../../../framework/images/ltr/nextBlinkFocus.png"); background-position: 0px 1px;} */
+/*--------------------------Shell -Layout End----------------------------------- */
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[חנה מדווח על המצב למנהל שלה, מאיר, אך מאיר לא עושה דבר. מה חנה צריכה לעשות במקרה זה?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[שום דבר. חנה דיווחה על כך, מאיר הוא זה שאחראי להמשיך בטיפול.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[לדבר עם מישהו בצוות התאימות או במחלקה המשפטית, או לחייג לקו החם לנושאי יושרה כדי להעלות את חששותיה.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[חנה עשתה את המעשה הנכון כשדיברה עם המנהל, מאיר. אך חנה לא משוכנעת שמאיר יעשה משהו בעניין, לכן עליה לדווח על החששות שלה לגורמים נוספים. היא יכולה לפנות לחבר בצוות התאימות או במחלקה המשפטית, לנציג משאבי אנוש או לדווח על החששות שלה לקו החם לנושאי יושרה.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[חנה עשתה את המעשה הנכון כשדיברה עם המנהל, מאיר. חנה מאמינה שמאיר לא ינקוט כל פעולה כדי לטפל בעניין. לכן היא עשתה את הדבר הנכון, והמשיך לדבר עם משאבים נוספים בחברה, שיכולים לבדוק את הנושא ולטפל בו כראוי.]]></text>
+		</correct>
+	</feedback>
+</contents>

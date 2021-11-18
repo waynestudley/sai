@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s04">
+	<transcript>
+		<text path="audio/module8/m08s04" id="0"><![CDATA[Debbie staat versteld over de foto van Kim. Zou u hetzelfde als Kim hebben gedaan? Selecteer een optie en dien vervolgens uw antwoord in.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Wat is er mis mee om een foto van uzelf op het werk te nemen en op sociale media te plaatsen?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module8/m08s04/contentBackground.jpg" minwidth="769"><![CDATA[Vrouw thuis]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[Duid een optie aan en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Niets, als het op een website werd geplaatst waar publicaties worden gewist nadat ze werden bekeken]]></option>	
+		<option><![CDATA[Het hangt ervan af naar wie het wordt verzonden]]></option>	
+		<option><![CDATA[Het kan een probleem zijn, omdat er vertrouwelijke informatie op de achtergrond staat]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Dat klopt.]]></text>
+			<text><![CDATA[We moeten gevoelige klantgegevens, zoals facturatie- en betalingsgegevens, beschermen. Ons bedrijf is er wettelijk toe verplicht klantgegevens te beschermen en verwerken in overeenstemming met de wetgeving. Als we dit niet doen, kunnen we zware boetes oplopen.  ]]></text>
+			<text><![CDATA[Zelfs als er geen intentie is om gevoelige informatie beschikbaar te stellen, kan dit ontzettend schadelijk zijn voor de persoon en het bedrijf.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;padding-top:20px;"><![CDATA[Sorry, dit klopt niet.]]></text>
+			<text><![CDATA[We moeten gevoelige klantgegevens, zoals facturatie- en betalingsgegevens, beschermen. Ons bedrijf is er wettelijk toe verplicht klantgegevens te beschermen en verwerken in overeenstemming met de wetgeving. Als we dit niet doen, kunnen we zware boetes oplopen.]]></text>
+			<text><![CDATA[Zelfs als er geen intentie is om gevoelige informatie beschikbaar te stellen, kan dit ontzettend schadelijk zijn voor de persoon en het bedrijf.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

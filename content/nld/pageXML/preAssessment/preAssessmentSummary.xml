@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentTitle>
+		<text><![CDATA[Voorafgaande beoordeling]]></text>		
+	</contentTitle>
+	<contentBg style="padding:30px 0 0 0;top: 70px;width: 510px;right: 20px;"></contentBg>
+	<pageTitle style="padding:0px 30px;width: 360px;margin-bottom: 10px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/preAssessment/preassessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Werknemer van Johnson Controls]]></img>
+	</contentBackground>	
+	<instructionText style="padding:0px 30px 30px;min-height: auto;">		
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<feedbackPass>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[U gaf blijk van een uitgebreide kennis! Uw cursusinhoud werd aangepast en u zult bepaalde rubrieken mogen overslaan.]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="normal" left="0px" color="#00549E" bgColor="#D5D547" padding="20px 30px" position="relative"><![CDATA[Goed gedaan]]></text>
+	</feedbackPass>
+	<feedbackPartial>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[U gaf blijk van een uitgebreide kennis! Uw cursusinhoud werd aangepast en u zult bepaalde rubrieken mogen overslaan.]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="normal" left="0px" color="#00549E" bgColor="#D5D547" padding="20px 30px" position="relative"><![CDATA[Goed gedaan]]></text>
+	</feedbackPartial>
+	<feedbackFail>
+		<text width="auto" height="auto" top="0px" fontWeight="normal" left="0px" color="#333740" bgColor="transparent" padding="0px 30px" position="relative"><![CDATA[U hebt deze keer niet alle vragen correct beantwoord. Ga verder naar de cursus. Zodra u de basisconcepten hebt bestudeerd, krijg u nogmaals de kans om uw kennis aan te tonen.]]></text>			
+	</feedbackFail>
+</contents>

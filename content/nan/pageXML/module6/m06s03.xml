@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s03">
+	<transcript>
+		<text path="audio/module6/m06s03" id="0"><![CDATA[競爭法禁止哪些作為？ 按一下每個「顯示」按鈕以瞭解詳情。]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[競爭法禁止競爭對手間達成會影響價格或限縮客戶選擇的協議。]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s03/contentBackground.jpg" minwidth="769"><![CDATA[競爭對手會面]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[按一下每個「顯示」按鈕以瞭解詳情。 請捲動閱讀完整答案。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[顯示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s03/img1.png"><![CDATA[顯示定價折扣的圖片]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[操縱價格]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[操縱價格是指兩個或數個競爭對手間達成協議，設定產品或服務的價格。 這類協議一律是違法的。]]></text>						
+				<text><![CDATA[如果您和競爭對手達成下列協議，即構成操縱價格： <ul> <li>維持價格固定不變</li> <li>採用已知公式來計算價格</li> <li>持續採行最低收費或價位表</li> <li>消除或降低折扣</li> </ul>]]></text>						
+			</popText>
+			
+			
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s03/img2.png"><![CDATA[競爭對手達成協議]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[串通投標]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[串通投標，例如兩家或更多競爭對手協議，事先決定由其中某個競爭者贏得特定的競標或招標。]]></text>					
+				<text><![CDATA[如果您和競爭對手達成下列協議，即構成串通投標： <ul> <li>不投標或撤回已提交的投標文件，讓競爭對手 (或您) 贏得競標</li> <li>故意以無法贏得競標的高價位投標，但競標過程又貌似合法，其投標目的並非要贏得競標，而是依照事先安排，</li> <li>刻意投標失敗讓競爭對手中標，但輪流成為低價位的投標人</li> </ul>]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img3.png"><![CDATA[競爭對手間協議不與特定的供應商作交易]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[聯合抵制]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[聯合抵制是指兩個或數個競爭對手間達成協議，拒絕與特定供應商或客戶進行交易，以教訓、懲罰該供應商或客戶的行為或損害其利益。]]></text>
+				<text><![CDATA[如果您和某競爭對手協議不與特定客戶往來，以懲罰其先前聘用您的對手負責大型專案的行為，即構成聯合抵制。]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img4.png"><![CDATA[競爭對手協議瓜分客群]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[市場分配]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[劃分市場是指兩個或數個競爭對手間達成瓜分客群或市場的協議。]]></text>			
+				<text><![CDATA[如果您與競爭對手協議與特定客戶往來，即構成劃分市場，例如：<ul><li>「我做客戶 A 的生意，你做客戶 B 的生意」</li><li>「我做北部客戶的生意，你做南部客戶的生意」</li></ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img5.png"><![CDATA[兩人正在協議]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[協議]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[「協議」是構成違反反托拉斯或競爭法的要件，但這代表什麼意思？]]></text>			
+				<text><![CDATA[不一定要是白紙黑字的協議才算違法。 協議可以是口頭約定。 事實上，聯合一致的作法或行為模式就可以被界定為協議。]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

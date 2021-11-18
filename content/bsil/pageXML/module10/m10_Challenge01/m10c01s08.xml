@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s08">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle=""></contentBg>
+	<pageTitle style="margin-bottom: 6px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s08/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text style=""><![CDATA[Jian acabou de levar sua esposa para casa e está preparando o jantar quando recebe uma ligação urgente de Nolan.]]></text>
+	</contentText>
+	<instructionText style="margin-top: 5px;">
+		<text><![CDATA[Clique em cada sequência da história.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="13" y="245" width="305" />
+				<text><![CDATA[<span class="fontBold">Nolan</span>, Gerente de Contas a Pagar, Johnson Controls]]></text>			
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="554" y="245" width="268" />
+				<text><![CDATA[<span class="fontBold">Jian</span>, Gerente de Aquisições, Johnson Controls]]></text>
+			</stripCallOut>
+			
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="29" y="12" width="188" arrowStyle="top:60px" />
+				<text><![CDATA[Jian, desculpe atrapalhá-lo fora do escritório, mas a TSR está exigindo o pagamento imediato de uma nova fatura de USD 1000. Eles dizem que o sucesso do projeto depende desse pagamento. Você sabe alguma coisa sobre isso?]]></text>
+			</stripCallOut>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="462" y="44" width="200" />
+				<text><![CDATA[TSR? Não, eu sei que é um fornecedor importante, mas não tenho certeza no que estão trabalhando no momento.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="29" y="12" width="188" arrowStyle="top:110px" />
+				<text><![CDATA[Eu falei com o fornecedor. Ele diz que precisamos de licenças para finalizar um projeto, mas os funcionários do governo estão na iminência de uma ação coletiva que pode durar semanas. Ele quer ter certeza de que as licenças fiquem prontas antes de isso acontecer.]]></text>
+			</stripCallOut>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="469" y="55" width="200" arrowStyle="top:1px" />
+				<text><![CDATA[É compreensível.]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripThumImg numberText="4">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_04.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="89" y="16" width="260" arrowStyle="top:66px" />
+				<text><![CDATA[O fornecedor também diz que há uma cláusula de penalidade em nosso contrato com o cliente de USD 10.000 por dia de atraso, portanto, se atrasarmos devido à falta de licença, isso pode ficar caro muito rápido.]]></text>
+			</stripCallOut>			
+		</strip>
+	</comicStrip>
+</contents>

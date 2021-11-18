@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[O envelope contém USD 300 em dinheiro. Jian já recusou o presente e o fornecedor insistiu. O que ele deve fazer?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[Sala de conferência]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Escolha uma opção e selecione OK.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Ficar com o dinheiro. O processo de seleção de fornecedor já foi concluído, então Jian não está mais em uma posição de influência em relação ao fornecedor.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Recusar o dinheiro novamente. Mas quando o fornecedor oferece um vale-presente de USD 100 para o restaurante favorito de Eduardo, aceite.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Recusar o dinheiro novamente, mas depois aceitar quando o fornecedor convidar Jian para um jantar em equipe.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian ficou com o dinheiro, supondo que ninguém descobriria.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Depois de Jian recusar o dinheiro pela segunda vez, o fornecedor insistiu que ele aceitasse pelo menos um vale-presente de USD 100 para um restaurante.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian recusou o dinheiro novamente de forma educada, mas depois aceita quando o fornecedor o convida para um jantar em equipe.]]></text>
+		</correct>
+	</feedback>
+</contents>

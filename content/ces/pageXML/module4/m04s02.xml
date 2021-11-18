@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[Co byste udělali, kdyby vám někdo poslal osobní údaje, které jste neměli vidět?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;"><![CDATA[Co byste udělali vy? ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Dostali jste za úkol upozornit dodavatele na nový postup fakturace. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Požádáte zaměstnance v jiném oddělení, aby vám zaslal seznam e-mailových adres, ale obdržíte od něj tabulku, která obsahuje také osobní údaje sloužící k zabezpečení účtů, jako je datum narození, jméno matky nebo číslo sociálního pojištění. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Co uděláte?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[Obchodníci]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Vyberte jednu možnost a odešlete ji.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Odstraníte e-mailovou zprávu a věc nahlásíte týmu ochrany osobních údajů zasláním e-mailu na adresu privacy@jci.com.]]></option>
+		<option><![CDATA[Zprávu přepošlete kolegům v práci jako příklad toho, co se nemá posílat e-mailem.]]></option>
+		<option><![CDATA[Vezmete z tabulky pouze to, co potřebujete, a zbytek bezpečně zlikvidujete.]]></option>
+		<option><![CDATA[E-mailem informujete všechny dodavatele, že mohlo dojít k úniku jejich osobních údajů.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:154px;" fcStyle="top:-181px">
+			<text style="font-size:17px;"><![CDATA[Správně.]]></text>
+			<text><![CDATA[Zákony na ochranu údajů a zásady společnosti Johnson Controls v oblasti ochrany údajů se týkají osobních údajů zaměstnanců, zákazníků a obchodní partnerů. Dbejte na to, abyste znali své povinnosti a abyste dodržovali zásady ochrany osobních údajů společnosti Johnson Controls a veškeré příslušné zákony na ochranu dat a osobních údajů.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:154px;" fcStyle="top:-181px">
+			<text style="font-size:17px;"><![CDATA[To není správně.]]></text>
+			<text><![CDATA[Zákony na ochranu údajů a zásady společnosti Johnson Controls v oblasti ochrany údajů se týkají osobních údajů zaměstnanců, zákazníků a obchodní partnerů. Dbejte na to, abyste znali své povinnosti a abyste dodržovali zásady ochrany osobních údajů společnosti Johnson Controls a veškeré příslušné zákony na ochranu dat a osobních údajů.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

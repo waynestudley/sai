@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <transcript>
+        <text path="" id="0"><![CDATA[]]></text>        
+        <text path="" id="1"><![CDATA[]]></text>        
+    </transcript>
+	<contentBg style="top:10px;left:17px;padding:0px;width:992px;" chanStyle="width:846px;margin: 0 auto;float:none;"></contentBg>
+	<pageTitle style="margin-bottom:5px;padding:15px 15px 0;"></pageTitle>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/rtl/menuBg.jpg" minwidth="769"><![CDATA[עובדים של Johnson Controls]]></img>	
+		<img style="" className="bg-pos-right-center" path="content/images/rtl/submenuBg.jpg" minwidth="769"><![CDATA[עובדים של Johnson Controls]]></img>	
+	</contentBackground>
+	<nextLockAlertPopupText>
+        <text><![CDATA[עליך ללחוץ על כל החלקים כדי שתוכל להמשיך.]]></text>
+        <text><![CDATA[בחר תגובה ולאחר מכן לחץ על 'אישור' כדי להמשיך.]]></text>
+        <text><![CDATA[צפה בעיון בסרטון לפני שתמשיך.]]></text>
+        <buttonText>
+            <text><![CDATA[אישור]]></text>
+        </buttonText>
+    </nextLockAlertPopupText>	
+    <closeCourse>
+        <text><![CDATA[האם אתה בטוח שברצונך לצאת מהקורס?]]></text>
+        <buttonText>
+            <text><![CDATA[כן]]></text>
+            <text><![CDATA[לא]]></text>
+        </buttonText>
+    </closeCourse>	
+    <title>
+        <text><![CDATA[תפריט ראשי ]]></text>
+        <text><![CDATA[אתגרים]]></text>
+        <text><![CDATA[החלת הקוד האתי: מנהלים עסקים ביושרה]]></text>
+        <text><![CDATA[אתגרי הקוד האתי]]></text>
+    </title>	
+    <instructionText style="margin-bottom:0px;padding:0px 15px 15px;">
+        <text><![CDATA[בחר מודול]]></text>
+        <text><![CDATA[בחר אתגר.]]></text>		
+        <text><![CDATA[בחר מודול כדי לעיין במה שלמדת או לחץ על 'סגור'.]]></text>		
+        <text><![CDATA[לחץ על לחצן 'דף הבית' כדי לחזור לתפריט 'דף הבית'.]]></text>		
+        <text><![CDATA[לחץ על לחצן 'דף הבית' כדי לחזור לתפריט הראשי ולהשלים את ההדרכה. ]]></text>		
+    </instructionText>
+	
+    <contentText>
+        <text><![CDATA[ברוך הבא אל 'החלת הקוד האתי: מנהלים עסקים ביושרה'.]]></text>
+        <text><![CDATA[כדי לקבל נקודות זכות לקורס זה ולגשת לתעודת הסיום שלך, עליך להשלים בהצלחה את כל המודולים המסומנים של הקורס. מודולים אלה מוצגים בצבע מלא. ]]></text>
+        <text><![CDATA[תוכל גם לראות מודולים מעומעמים ומסומנים כ"אופציונלי" עקב תפקידך או הביצועים שלך בהערכה המוקדמת. תוכל לגשת למודולים אלה, אך לא תידרש להשלים אותם, אלא אם תרצה בכך.]]></text>			
+        <text><![CDATA[]]></text>			
+    </contentText>
+	
+    <buttonText>
+        <text><![CDATA[התחל]]></text>
+    </buttonText>
+	<optionalText>
+        <text><![CDATA[אופציונלי]]></text>
+    </optionalText>
+    <bookMark>
+        <text><![CDATA[האם ברצונך להמשיך אל<br />הדף האחרון שבו ביקרת?]]></text>
+        <buttonText>
+            <text><![CDATA[המשך]]></text>
+            <text><![CDATA[הפעל מחדש]]></text>
+        </buttonText>
+    </bookMark>
+    <monthArr>
+        <text><![CDATA[ינואר]]></text>
+        <text><![CDATA[פברואר]]></text>
+        <text><![CDATA[מרץ]]></text>
+        <text><![CDATA[אפריל]]></text>
+        <text><![CDATA[מאי]]></text>
+        <text><![CDATA[יוני]]></text>
+        <text><![CDATA[יולי]]></text>
+        <text><![CDATA[אוגוסט]]></text>
+        <text><![CDATA[ספטמבר]]></text>
+        <text><![CDATA[אוקטובר]]></text>
+        <text><![CDATA[נובמבר]]></text>
+        <text><![CDATA[דצמבר]]></text>
+    </monthArr>
+    <module id="1" imgPath="content/images/rtl/menuImages/Module_01.png" imgPopPath="content/images/rtl/menuImages/Module_01_popup.png">
+        <title><![CDATA[ניגוד עניינים]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<p>ניגוד עניינים מתרחש כאשר יש לך אינטרסים אישיים שעלולים להתנגש עם אלה של החברה, והדבר עלול לפגוע ביכולתך לקבל החלטות עסקיות טובות.</p><p>למד כיצד לזהות ולהימנע מניגוד עניינים בעבודתך עבור Johnson Controls.</p><span>הזמן הנדרש: 6 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[ברוך הבא אל: הימנעות מניגודי עניינים.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ניגודי עניינים פוטנציאליים במצבים נפוצים]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[זיהוי ניגודי עניינים]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[זיהוי ניגודי עניינים]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ניתוחי מקרה: ניגודי עניינים עלולים לפגוע בחברות]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ההשלכות של ניגודי עניינים]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[כיצד לטפל בניגודי עניינים]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[סיכום ואנשי קשר מרכזיים]]></title>
+        </page>			
+    </module>
+    <module id="2" imgPath="content/images/rtl/menuImages/Module_02.png" imgPopPath="content/images/rtl/menuImages/Module_02_popup.png">
+        <title><![CDATA[שימוש הולם במתנות ובבידור]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<p>החלפת מתנות או בידור עשויה לעזור לפתח קשרים עסקיים, אך יכולה גם להוות בעיה כאשר אינה מטופלת כראוי.</p><p>למד כיצד תוכל להיות בטוח שאתה מציע או מקבל רק מתנות ובידור הולמים.</p><span>הזמן הנדרש: 6 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[ברוך הבא אל: שימוש הולם במתנות ובבידור.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[נדרש כושר שיפוט טוב]]></title>
+        </page>
+        <page>
+            <title><![CDATA[נכון או לא נכון?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[שיקולים לגבי מתנות ובידור]]></title>
+        </page>
+        <page>
+            <title><![CDATA[מתנות או בידור]]></title>
+        </page>
+        <page>
+            <title><![CDATA[תורך]]></title>
+        </page>
+        <page>
+            <title><![CDATA[מידע נוסף על מתנות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[רשימת נושאים לבדיקה - מתנות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[תורך]]></title>
+        </page>
+        <page>
+            <title><![CDATA[מידע נוסף על בידור]]></title>
+        </page>
+        <page>
+            <title><![CDATA[רשימת נושאים לבדיקה - בידור]]></title>
+        </page>
+        <page>
+            <title><![CDATA[תורך]]></title>
+        </page>
+        <page>
+            <title><![CDATA[קשרים עם נציגי ממשל]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[סיכום ואנשי קשר מרכזיים]]></title>
+        </page>				
+    </module>
+    <module id="3" imgPath="content/images/rtl/menuImages/Module_03.png" imgPopPath="content/images/rtl/menuImages/Module_03_popup.png">
+        <title><![CDATA[מניעת שוחד בחברה שלנו]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<p>המוניטין שלנו תלוי בניהול הפעילות העסקית בצורה ישרה והוגנת. שוחד ושחיתות אינם חוקיים ואינם מייצגים את הדרך שבה אנו עובדים.</p><p>למד כיצד לזהות אפילו את הצורות העדינות ביותר של שוחד ושחיתות, והישמר מפני מעורבות לא מכוונת בפעילויות שעלולות להיות פליליות.</p><span>הזמן הנדרש: 6 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[ברוך הבא אל: מניעת שוחד בחברה שלנו.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[זיהוי מצבים מסוכנים]]></title>
+        </page>
+        <page>
+            <title><![CDATA[זיהוי שוחד]]></title>
+        </page>
+        <page>
+            <title><![CDATA[זיהוי שחיתות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[תורך]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ניתוח מקרה: שיתוף פעולה מלא וחשיפה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[כיצד תוכל לעזור במניעת שוחד ושחיתות]]></title>
+        </page>
+       <page>
+            <title><![CDATA[ההשלכות]]></title>
+        </page> 
+        <page>
+            <title><![CDATA[מהם תשלומי זירוז?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[סיכום ואנשי קשר מרכזיים]]></title>
+        </page>				
+    </module>
+    <module id="4" imgPath="content/images/rtl/menuImages/Module_04.png" imgPopPath="content/images/rtl/menuImages/Module_04_popup.png">
+        <title><![CDATA[אבטחת הנתונים האישיים]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<p>כולנו נושאים באחריות להגנה על הנתונים האישיים של לקוחות, עובדים ושותפים עסקיים.</p><p>למד כיצד תוכל לעזור לתמוך במחויבות החברה שלנו לשמירה על פרטיות הנתונים ולשימוש אחראי ברשתות החברתיות.</p><span>הזמן הנדרש: 6 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[ברוך הבא אל: אבטחת הנתונים האישיים]]></title>
+        </page>
+        <page>
+            <title><![CDATA[מקרה של נוחות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[סקירה כללית של נתונים אישיים]]></title>
+        </page>
+        <page>
+            <title><![CDATA[מדוע פרטיות היא דבר חשוב?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[זיהוי מידע איש]]></title>
+        </page>
+        <page>
+            <title><![CDATA[הגנה על נתונים אישיים]]></title>
+        </page>
+        <page>
+            <title><![CDATA[הבנת ההגנה על נתונים אישיים]]></title>
+        </page>
+        <page>
+            <title><![CDATA[פרטיות ורשתות חברתיות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[שהיה מאובטחת במרחב הציבורי]]></title>
+        </page>
+        <page>
+            <title><![CDATA[הגנה באמצעות סיסמה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[האם אתה מסכן נתונים אישיים?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[סיכום ואנשי קשר מרכזיים]]></title>
+        </page>				
+    </module>
+    <module id="5" imgPath="content/images/rtl/menuImages/Module_05.png" imgPopPath="content/images/rtl/menuImages/Module_05_popup.png">
+        <title><![CDATA[דרישות סחר לניהול עסקים בעולם כולו ]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<p>כחברה גלובלית, Johnson Controls כפופה למגוון רחב של בקרות סחר שנקבעו על-ידי ארגונים בינלאומיים וגופי ממשל זרים.</p><p>למד כיצד בקרות הסחר עשויות להשפיע על עבודתך ומה תוכך לעשות כדי לתמוך באחריות הסחר של החברה שלנו.</p><span>הזמן הנדרש: 6 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[ברוך הבא אל: דרישות סחר לניהול עסקים בעולם כולו.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[בקשה לחו"ל]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[בקשה לחו"ל]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[בקשה לחו"ל]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[בקשה לחו"ל]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[בקשה לחו"ל]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[בקשה לחו"ל]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[כיצד לזהות יצוא]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[אשר שאתה מבין]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[מדוע קיימות בקרות סחר]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[מה אתה חייב לעשות]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[תורך]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[סיכום ואנשי קשר מרכזיים]]></title>
+        </page>				
+    </module>
+    <module id="6" imgPath="content/images/rtl/menuImages/Module_06.png" imgPopPath="content/images/rtl/menuImages/Module_06_popup.png">
+        <title><![CDATA[מכירה ביושרה]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<p>חברת Johnson Controls מקפידה על מכירה ביושרה ופועלת בהתאם לכל חוקי ההגבלים העסקיים. חוקים אלה מבטיחים הגינות וחופש בשוק ומונעים מחברות לנצל לרעה את מעמדן הדומיננטי.</p><p>למד על מחויבותה של החברה לתחרות הוגנת, וכן כיצד תוכל לתמוך בסטנדרטים שלנו בתחום זה.</p><span>הזמן הנדרש: 6 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[ברוך הבא אל: מכירה ביושרה.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[מדוע חוקי ההגבלים העסקיים קיימים]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[זיהוי הסכמים בלתי הולמים]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[זיהוי תחרות לא הוגנת]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[טיפול במעמד דומיננטי]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[מניעת ניצול לרעה של מעמד דומיננטי]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ניתוחי מקרה]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[מניעת הפרות של חוקי ההגבלים העסקיים]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[סיכום ואנשי קשר מרכזיים]]></title>
+        </page>				
+    </module>
+    <module id="7" imgPath="content/images/rtl/menuImages/Module_07.png" imgPopPath="content/images/rtl/menuImages/Module_07_popup.png">
+        <title><![CDATA[הגנה על קניין רוחני]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<p>קניין רוחני, כמו פטנטים, סימני מסחר וזכויות יוצרים, הוא חיוני לפעילותה העסקית של Johnson Controls, וחובה עלינו להגן עליו. </p><p>למד כיצד פעולות שתבצע עשויות להגן על הקניין הרוחני שלך מפני גניבה או שימוש לרעה.</p><span>הזמן הנדרש: 6 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[ברוך הבא אל: הגנה על הקניין הרוחני שלנו.]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[מהו קניין רוחני?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[בדוק אם אתה מבין]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[סוגי קניין רוחני]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[המחיר של קניין רוחני אבוד]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[תורך]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[התפקיד שלך]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[שימוש בסימני מסחר]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[מה תעשה?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[סיכום ואנשי קשר מרכזיים]]></title>
+        </page>				
+    </module>
+    <module id="8" imgPath="content/images/rtl/menuImages/Module_08.png" imgPopPath="content/images/rtl/menuImages/Module_08_popup.png">
+        <title><![CDATA[הגנה על מידע סודי]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<p>במסגרת עבודתך אתה עשוי ללמוד מידע סודי על הברה, הלקוחות או העסק.</p><p>קבל מידע על הדרישות של Johnson Controls לטיפול במידע כזה והגנה עליו.</p><span>הזמן הנדרש: 6 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[ברוך הבא אל: הגנה על מידע סודי.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[מצב מסוכן]]></title>
+        </page>
+		<page>
+            <title><![CDATA[מצב מסוכן]]></title>
+        </page>
+        <page>
+            <title><![CDATA[מצב מסוכן]]></title>
+        </page>
+        <page>
+            <title><![CDATA[מצב מסוכן]]></title>
+        </page>
+        <page>
+            <title><![CDATA[עבודה עם מידע מדי יום]]></title>
+        </page>
+        <page>
+            <title><![CDATA[על מה עליך לשמור בסודיות?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[הגבלה, שמירה, מחיקה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[מה תוכל לעשות כדי להגן על מידע סודי]]></title>
+        </page>
+        <page>
+            <title><![CDATA[תורך]]></title>
+        </page>
+        <page>
+            <title><![CDATA[שימוש בהסכמי סודיות כדי להוסיף רמה נוספת של הגנה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[סיכום ואנשי קשר מרכזיים]]></title>
+        </page>
+    </module>
+    <module id="9" imgPath="content/images/rtl/menuImages/Module_09.png" imgPopPath="content/images/rtl/menuImages/Module_09_popup.png">
+        <title><![CDATA[קבלת מודיעין תחרותי בצורה הוגנת]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<p>מודיעין תחרותי עוזר לנו להבין טוב יותר את הסביבה העסקית שלנו, אך קיימים סטנדרטים מוסרים מחמירים באשר לאופן שבו אנו משיגים מידע זה.</p><p>למד כיצד לאסוף מודיעין תחרותי ולהשתמש בו בדרך שתואמת למדיניות של Johnson Controls ולחוק.</p><span>הזמן הנדרש: 6 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[ברוך הבא אל: קבלת מודיעין תחרותי בצורה הוגנת.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[איסוף מידע בדרך שגויה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[איזה מידע נחשב לסודי?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[מה עלול להשתבש?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[הימנע מרמאות, בגידה או הולכת שולל]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[אשר שאתה מבין]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[סיכום ואנשי קשר מרכזיים]]></title>
+        </page>				
+    </module>
+    <module id="10" imgPath="content/images/rtl/menuImages/Module_10.png" imgPopPath="content/images/rtl/menuImages/Module_10_popup.png">
+        <title><![CDATA[אתגר הקוד האתי 2018]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<p>ישם את מה שלמדת באתגר מעשי. קבל החלטות שישיגו יעדים עסקיים וימנעו השלכות מזיקות.</p><span>הזמן הנדרש: 10 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[]]></title>
+        </page>					
+    </module>
+    <module id="11" imgPath="content/images/rtl/menuImages/Module_10_1.png" imgPopPath="content/images/rtl/menuImages/Module_10_popup1.png">
+        <title><![CDATA[משרד, סביבת שיווק ומכירות]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+		<overText><![CDATA[<span class="subMenuStart">לחץ על 'התחל' כדי להיכנס לאתגר.</span>]]></overText>
+        <page>
+            <title><![CDATA[בקשה דחופה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה דחופה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה דחופה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה דחופה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[בקשה דחופה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[לקחים מרכזיים]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[לקחים מרכזיים]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[ספק מביע הערכה]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[לקחים מרכזיים]]></title>
+        </page>				
+    </module>
+    <module id="12" imgPath="content/images/rtl/menuImages/Module_10_2.png" imgPopPath="content/images/rtl/menuImages/Module_10_popup2.png">
+        <title><![CDATA[תמיכה בלקוחות]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+         <overText><![CDATA[<span class="subMenuStart">לחץ על 'התחל' כדי להיכנס לאתגר.</span>]]></overText>
+        <page>
+            <title><![CDATA[חובות מתנגשות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[חובות מתנגשות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[חובות מתנגשות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[חובות מתנגשות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[חובות מתנגשות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[חובות מתנגשות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[חובות מתנגשות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[חובות מתנגשות]]></title>
+        </page>
+        <page>
+            <title><![CDATA[לקחים מרכזיים]]></title>
+        </page>
+        <page>
+            <title><![CDATA[עזרה לעמית לעבודה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[עזרה לעמית לעבודה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[עזרה לעמית לעבודה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[עזרה לעמית לעבודה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[עזרה לעמית לעבודה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[עזרה לעמית לעבודה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[עזרה לעמית לעבודה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[לקחים מרכזיים]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[לקחים מרכזיים]]></title>
+        </page>
+    </module>
+    <module id="13" imgPath="content/images/rtl/menuImages/Module_10_3.png" imgPopPath="content/images/rtl/menuImages/Module_10_popup3.png">
+        <title><![CDATA[סביבה מחוץ לאתר]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[<span class="subMenuStart">לחץ על 'התחל' כדי להיכנס לאתגר.</span>]]></overText>
+        <page>
+            <title><![CDATA[בקשה מפתיעה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה מפתיעה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה מפתיעה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה מפתיעה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה מפתיעה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה מפתיעה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה מפתיעה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה מפתיעה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה מפתיעה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה מפתיעה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[לקחים מרכזיים]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[לקחים מרכזיים]]></title>
+        </page>
+        <page>
+            <title><![CDATA[טיול לילי]]></title>
+        </page>
+        <page>
+            <title><![CDATA[טיול לילי]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בקשה חריגה]]></title>
+        </page>
+        <page>
+            <title><![CDATA[טיול לילי]]></title>
+        </page>
+        <page>
+            <title><![CDATA[טיול לילי]]></title>
+        </page>
+        <page>
+            <title><![CDATA[טיול לילי]]></title>
+        </page>
+        <page>
+            <title><![CDATA[טיול לילי]]></title>
+        </page>
+        <page>
+            <title><![CDATA[טיול לילי]]></title>
+        </page>
+        <page>
+            <title><![CDATA[טיול לילי]]></title>
+        </page>
+        <page>
+            <title><![CDATA[לקחים מרכזיים]]></title>
+        </page>
+    </module>
+    <module id="14" imgPath="content/images/rtl/menuImages/Module_11.png" imgPopPath="content/images/rtl/menuImages/Module_11_popup.png">
+        <title><![CDATA[בדיקת ידע]]></title>
+        <altText><![CDATA[עובד של Johnson Controls]]></altText>
+        <overText><![CDATA[הדגם מה למדת וקבל גישה לתעודת סיום הקורס.<span>הזמן הנדרש: 5-10 דקות</span>]]></overText>
+        <page>
+            <title><![CDATA[בדיקת ידע]]></title>
+        </page>
+        <page>
+            <title><![CDATA[בדיקת ידע]]></title>
+        </page>
+        <page>
+            <title><![CDATA[התוצאות שלך]]></title>
+        </page>
+    </module>
+    <module id="15" imgPath="content/images/rtl/menuImages/Module_12.png" imgPopPath="content/images/rtl/menuImages/Module_12_popup.png">
+        <title><![CDATA[התעודה שלך]]></title>
+        <altText><![CDATA[אדם משתמש במחשב]]></altText>
+        <overText><![CDATA[קבל גישה לתעודת סיום הקורס]]></overText>
+        <page>
+            <title><![CDATA[התעודה שלך]]></title>
+        </page>
+    </module>
+	
+    <tootTip>
+        <element button=".btn_Next" location="top" gap="8" width="auto"><![CDATA[הבא]]></element>
+        <element button=".nextBlink" location="top" gap="8" width="auto"><![CDATA[הבא]]></element>
+        <element button=".btn_Back" location="top" gap="8" width="auto"><![CDATA[הקודם]]></element>
+        <element button=".replayPage" location="top" gap="10" width="auto"><![CDATA[השב]]></element>
+        <element button=".transcriptOn" location="top" gap="10" width="auto"><![CDATA[תסריט כבוי]]></element>
+        <element button=".transcriptOff" location="top" gap="10" width="auto"><![CDATA[תסריט מופעל]]></element>
+        <element button=".audioOn" location="top" gap="10" width="auto"><![CDATA[שמע כבוי]]></element>
+        <element button=".audioOff" location="top" gap="10" width="auto"><![CDATA[שמע מופעל]]></element>
+        <element button=".btn_Menu" location="top" gap="10" width="auto"><![CDATA[בית]]></element>
+        <element button=".fw_CloseTranscript" location="bottom" gap="10" width="auto"><![CDATA[סגור]]></element>
+        <element button=".fw_MenuClose" location="top" gap="10" width="auto"><![CDATA[סגור]]></element>
+        <element button=".menuBlink" location="top" gap="10" width="auto"><![CDATA[הבא]]></element> 
+        <element button=".fw_GlossaryClose" location="top" gap="10" width="auto"><![CDATA[סגור]]></element> 
+        <element button=".btn_Exit" location="top" gap="10" width="auto"><![CDATA[סגור]]></element> 
+    </tootTip>
+	
+    <transcriptGlobalText>
+	  <text><![CDATA[תיבת גרירה]]></text>
+    </transcriptGlobalText>
+	
+    <reEntryProfilerPopup>
+        <text><![CDATA[אם תשנה את בחירת הפרופיל שלך, כל נתוני ההתקדמות בקורס יאבדו. המשמעות היא שתצטרך להשלים את כל המודולים שהוקצו, כולל אלה שכבר סיימת. אם כבר סיימת בהצלחה את בדיקת הידע, נתוני סיום אלה יישמרו. האם עדיין ברצונך להמשיך?]]></text>
+        <text><![CDATA[כן]]></text>
+        <text><![CDATA[לא]]></text>
+    </reEntryProfilerPopup>
+ 
+</course>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[单击“下一步”继续。]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="line-height:18px"><![CDATA[艾玛在她姐夫的新公司兼职做经纪人，但这让她无法兼顾在 Johnson Controls 的工作。]]></text>
+		<text style="line-height:18px"><![CDATA[您认为以下哪项是艾玛的最佳应对方式？]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;line-height:20px">
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px">
+		<option answer="0" feedbackId="1"><![CDATA[艾玛继续做双份工作。 当经纪人工作繁忙的时候，她请同事顶替她的工作并向 Johnson Controls 请病假。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[艾玛继续做双份工作，并尽其所能兼顾本职工作。 在 Johnson Controls 工作没那么繁忙的时候，她可以接听经纪人工作相关的电话，并通过个人智能手机发送邮件。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[艾玛与经理交谈她在姐夫公司工作的事情，他们讨论如何才能使这一工作与她在 Johnson Controls 的工作不会相互影响。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[艾玛决定在她姐夫的房地产公司工作可能会引发潜在的利益冲突，尤其是当她的副业需要占用她更多的时间和精力时。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾玛仍然认为她能够兼顾两份工作，她觉得自己的新工作不会影响她在 Johnson Controls 的本职工作。 但是她的想法现实吗？ 以防万一，她决定和经理交谈此事。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -147px;">
+			<text style="padding-top:25px;"><![CDATA[艾玛与经理交谈了她兼职的事情。]]></text>
+			<text><![CDATA[经理与她讨论了她应该如何做好本职工作，以及如何在不违反规定的情况下兼职外部工作，但是：<ul> <li>兼职工作不得影响她在 Johnson Controls 的工作。 </li> <li>她不得使用公司的任何资源开展外部工作，其中包括她在 Johnson Controls 的工作时间。</li> </ul>]]></text>
+			<text><![CDATA[他们达成一致意见：艾玛在 Johnson Controls 的工作时间不得展开房地产经纪业务，如果她的工作受到影响，他们将就此问题再次谈话。]]></text>
+		</correct>
+	</feedback>
+</contents>

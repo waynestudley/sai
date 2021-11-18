@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;right: 20px;top: 30px;padding: 0;font-size:14px;line-height:20px;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[封筒にはUSD$250が入っています。 カルロスはすでに贈答品を拒否しており、サプライヤーはしつこく要求しています。 彼はどうすべきですか？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+	</instructionText>
+	<optionContent style="font-size:14px;">
+		<option answer="0" feedbackId="1"><![CDATA[誰も高額のお金を受け取らないようにするため、お金はもらいますが、チームに分けます。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[再度現金を拒否します。  大事な試合のタイミングで、クリスは彼のチームメンバーとともに観戦しようとカルロスをスポーツバーに誘い、カルロスは受け入れます。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[再度現金は断り、大事な試合の時にチームとともに観戦しようとスポーツバーにカルロスを誘うクリスのオファーも<span class="fontBoldItalic" >断ります</span>。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[カルロスは現金を彼のチームで分け、誰もJohnson Controlsで定められている贈答品の制限額を超えていない理由としました。 しかし、数カ月後、下請け業者がビジネスを再度得るために不適切な贈答品を送っていたという申し立てに、別の企業が調査に乗り出しました。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[カルロスが2回目に現金を拒否した後、クリスは彼が真剣であることに気づき、オファーを変えました。 代わりに、大事な試合の時にチームとともに観戦しようとスポーツバーにカルロスを誘いました。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[カルロスが2回目に現金を拒否し、チームをディナーに連れていくというクリスのオファーを拒否した後、クリスは彼が真剣であることに気づき、しつこく誘うのをやめました。]]></text>
+		</correct>
+	</feedback>
+</contents>

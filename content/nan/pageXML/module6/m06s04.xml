@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[您能否清楚分辨不公平的競爭？]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 16px;font-size:14px;"><![CDATA[您能否清楚分辨不公平的競爭？ 將這些不公平競爭的例子連到進行中的協議種類。]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;left:785px;top:0px;"><![CDATA[提交]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;right: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 16px;">
+		<text><![CDATA[從第一欄中選取一個項目，然後將箭頭拖曳到第二欄內相應的不公平競爭種類。 完成後請按一下提交。]]></text>
+		<text><![CDATA[按一下問號，瞭解詳細資訊。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[情景]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img01.png"><![CDATA[兩個競爭對手共進午餐]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[兩個競爭對手共進午餐]]></dragIcon>
+				<text style=""><![CDATA[兩個競爭對手會面並共進午餐。 其中一家同意將銷售工作集中在該國的北部，另一家則將重心放在南部。]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:553px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img02.png"><![CDATA[三個競爭對手在談話]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[三個競爭對手在談話]]></dragIcon>
+				<text style=""><![CDATA[三家服務同一個小市場的競爭對手，共同商討規劃未來的一年。 他們仔細查看未來的招標，並且同意輪流成為最低價的競標者，而其他家則出價更高，使招標者不予考慮。]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:553px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img03.png"><![CDATA[高階銷售主管出席貿易會議]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[高階銷售主管出席貿易會議]]></dragIcon>
+				<text style=""><![CDATA[在某次貿易會議上，幾位高層銷售主管在討論其市場上的某大型供應商一直利用不公平的方式哄抬價格。 他們同意要大量減少訂單，如果有必要甚至會完全取消訂單，此外還要找其他供應商，直到降價為止。]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:553px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img04.png"><![CDATA[數個百分比符號]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[數個百分比符號]]></dragIcon>
+				<text style=""><![CDATA[產業中的原物料價格不斷上漲，一群競爭對手達成非正式的協議，提供給客戶的優惠折扣不得超過 10%。]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;left: 640px;">		
+			<heder><![CDATA[不公平競爭種類]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 643px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[市場分配]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img05.png"><![CDATA[圓餅圖]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 643px;top: 89px;height: 70px;">
+				<text><![CDATA[串通投標]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img06.png"><![CDATA[兩位商人串通投標]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 643px;top: 170px;height: 70px;">
+				<text><![CDATA[聯合抵制]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img07.png"><![CDATA[聯合決定抵制客戶以作為懲罰]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 643px;top: 251px;height: 70px;">
+				<text><![CDATA[操縱價格]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img08.png"><![CDATA[兩個競爭對手操縱價格]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="left: 712px;top: 132px;width: 236px;">
+				<text style=""><![CDATA[劃分客戶或區域是指競爭對手同意分配客戶、產品或地理區域，這種行為稱作劃分市場。 這樣會降低特定領域中的競爭，減少客戶的選擇。]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="left: 712px;top: 132px;width: 236px;">
+				<text style=""><![CDATA[串通投標是指競爭對手協調彼此的投標，意圖影響競標結果。]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 132px;width: 236px;">
+				<text style=""><![CDATA[公司本身通常有權選擇交易對象。 但是，若兩家或兩家以上的公司同意不與另一家公司交易，這樣的聯合抵制行為可能會違反競爭法。]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 132px;width: 236px;">
+				<text style=""><![CDATA[操縱價格是指競爭對手彼此達成協議，以協調其價格或其他競爭條件，而不是彼此自由、獨立地互相競爭。]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="revealCallOut2" className="m10c02s16">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>		
+	</transcript>
+	<contentText >
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module10/m10c02/m10c02s16/contentBackground.jpg"  minwidth="769" ><![CDATA[Employee looking thoughtful]]></img>
+	</contentBackground>	
+	 <contentBg style="" ></contentBg>
+	<pageTitle style="width: 574px;"></pageTitle>
+	<instructionText style="width: 574px;" >
+		<text><![CDATA[Click on each person.]]></text>
+		<text><![CDATA[Click on next to reconsider your decision and try again.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:124px;" >
+		<revealCallOut width="300px" height="196px" top="15px" left="370px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module10/m10c02/m10c02s16/btn1.png" minwidth="769" ><![CDATA[]]></img>
+			<buttonText  style="height: 56px;" ><![CDATA[Dan]]></buttonText>
+			<popupArrow style="left:140px; top: -15px;"/>
+			<popText  arrowleft="" style="height: 155px;top:-55px; display: block; left: 370px; width: 608px;line-height:20px;">			
+				<text style="margin-bottom: 7px;"><![CDATA[I sent the link to Emma's latest blog post and sent it via email to all the employees at our Johnson Controls facility. A lot of people responded with cards and emails, which we forwarded to Sandy. All the get-well wishes really made Sandy feel good and boosted her spirits.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="196px" top="15px" left="678px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module10/m10c02/m10c02s16/btn2.png" minwidth="769" ><![CDATA[]]></img>
+			<buttonText style="height: 56px;" ><![CDATA[Ananda, Dan’s manager]]></buttonText>
+			<popupArrow style="left:460px; top: -15px;"/>
+			<popText  arrowleft="" style="height: 155px;top:-55px; display: block; left: 370px; width: 608px;">
+				<text style="margin-bottom: 0px;"><![CDATA[I know Dan meant well, and most employees wanted to support Sandy, but he did violate company policy. A few people complained that they felt pressured to donate to the fund for Sandy’s medical expenses. I had to reprimand him, and remind him that our employee email list is for business purposes only.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

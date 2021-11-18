@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s22">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Jian은 자신이 제공받는 와인을 공급업체 담당자인 Eduardo가 보냈을 것으로 예상하지만 확신할 수는 없습니다. 또한 그는 그 와인의 가격도 모릅니다.]]></text>
+		<text><![CDATA[그는 어떻게 해야 할까요?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s22/contentBackground.jpg" minwidth="769"><![CDATA[레스토랑 바 배경]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[와인을 받습니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[결정하기 전에 와인 값을 물어봅니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[정중하게 와인을 거절합니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian과 그의 아내는 저녁 식사를 하면서 와인을 즐겼습니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian은 소믈리에에게 와인 값을 물어보고 미화 200달러 이상에 팔린다는 답변을 들었습니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[이는 안전한 선택입니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

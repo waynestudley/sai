@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style="line-height: 25px;"></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height: 18px;"><![CDATA[Emma는 개인 업무가 Johnson Controls에서 맡은 직무를 방해하지 않게 하려고 노력하고 있습니다. 그러나 사무실에 소문이 퍼졌고 현재 Emma가 중개하는 최신 부동산에 관심 있는 동료가 3명 있습니다!  고객과 통화하던 중에 Emma는 회계 부서의 Sandy로부터 인스턴트 메시지를 받습니다.]]></text>
+		<text style="font-size:15px;line-height: 18px;"><![CDATA[<i>“안녕하세요, Emma. 뉴베리 로드에 있는 부동산을 너무 보고 싶어요. 당신이 보낸 링크를 보니 환상적이더군요. 우리가 그동안 찾고 있던 바로 그거예요. 교통 혼잡을 피해 오늘 조금 일찍 퇴근해서 저에게 그 부동산을 보여줄 수 있나요?”</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:8px;line-height: 20px;">
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;line-height: 18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma는 조퇴해서 Sandy에게 부동산을 보여준다는 데 동의합니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma는 받아야 할 전화가 더 있고 마무리할 서류도 있어서 조퇴할 수 없다고 Sandy에게 말합니다. 하지만 노트북에 사진과 동영상이 더 많이 있으니 오늘 중으로 언제든지 Sandy가 Emma의 자리에 오면 사진과 동영상을 보고 자세히 논의할 수 있다고 말합니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma는 오늘 저녁에 그 부동산을 보여줄 수는 없지만 고객 통화가 끝난 후에 사진을 더 보내주겠다고 Sandy에게 말합니다. 그녀는 자세한 내용을 논의하기 위해 자신이 오늘 저녁 집에 있을 때 전화를 해 달라고 Sandy에게 부탁합니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height: 195px;" fcStyle="top: -202px;">
+			<text style="padding-top:12px;"><![CDATA[이것은 가장 위험한 방법입니다. Emma가 이 결정을 내리면 어떤 일이 벌어지는지 살펴보겠습니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 195px;" fcStyle="top: -202px;">
+			<text style="padding-top:25px;"><![CDATA[Emma는 조퇴하지 않았지만 Johnson Controls의 자산과 근무 시간을 사용하여 부업을 했습니다. 이렇게 해서는 안 됩니다. 또한, 그녀는 부동산을 보는 데 관심 있는 다른 동료들까지 산만하게 만들고 있습니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 195px;" fcStyle="top: -202px;">
+			<text style="padding-top:25px;"><![CDATA[Emma는 자신의 두 가지 일을 분리하기 위해 조치를 취하고 있습니다. 하지만 그녀는 업무용 노트북, 인스턴트 메시지 또는 업무용 이메일을 사용하여 부업을 해서는 안 됩니다. 또한, 그녀는 부동산을 보는 데 관심 있는 다른 동료들까지 산만하게 만들고 있습니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

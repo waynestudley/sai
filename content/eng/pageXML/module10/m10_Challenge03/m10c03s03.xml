@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c03s03">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3" ><![CDATA[Click on Next to find out what happened.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText >
+		<text><![CDATA[Carlos feels pressured to service the devices or risk losing a number of contracts in a very large building. What should Carlos do?]]></text>
+	</contentText>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText >
+		<text><![CDATA[Choose one option then select OK.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1" ><![CDATA[Accept the money and service the devices so Johnson Controls doesn’t lose the other large contracts in the building, but let Rafael know this is a one-time deal.]]></option>
+		<option answer="1" feedbackId="2" ><![CDATA[Not accept the money, but still service the devices so Johnson Controls doesn’t lose the other large contracts in the building.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Excuse himself from the conversation and call his manager.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="" >
+			<text style="padding-top:12px;"><![CDATA[Carlos accepts the money from Rafael and services the improperly installed devices. Johnson Controls keeps the building contracts.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[Carlos completes the work but doesn’t accept the money from Rafael.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[Carlos calls his manager for advice.]]></text>
+			<text style=""><![CDATA[Carlos’ manager instructs him to leave with his team. When Carlos is back at the office, they place a call to the Compliance department together. ]]></text>
+			<text style=""><![CDATA[An investigation is launched, and it’s found that Rafael has made this offer several times in the past – and other Johnson Controls technicians have accepted the bribe. The company takes disciplinary action against these technicians. ]]></text>
+		</correct>
+	</feedback>
+</contents>

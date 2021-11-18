@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[Você consegue reconhecer situações de risco? Leia esta situação e decida se ela representa um conflito de interesse.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[Um escritório]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Você consegue identificar um conflito de interesse?  Decida se as situações a seguir apresentam um possível conflito de interesse e se devem ser divulgadas:]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Selecione Sim ou Não para cada opção e depois clique em Enviar.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+		<text><![CDATA[Clique nos pontos de interrogação para saber mais.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[Mulher de avental como se trabalhasse em uma padaria]]></img>
+			<text style="width: 450px;"><![CDATA[Jennifer, funcionária da Johnson Controls, planeja trabalhar na nova padaria de sua irmã nos finais de semana, mas esta semana, ela ligou para a empresa dizendo que estava doente para poder ajudar com a inauguração da padaria.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[Homem em trajes formais]]></img>
+			<text style="width: 450px;"><![CDATA[Alex, funcionário de contratação na Johnson Controls, acha que seu amigo Steve seria perfeito para uma vaga de trabalho na empresa. Ele fala da vaga para Steve e sugere que ele se candidate on-line.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[Mulher em trajes formais, descendência do Oriente Médio]]></img>	
+			<text style="width: 450px;"><![CDATA[Basma é engenheira de qualidade na Johnson Controls. Um fornecedor que ela gerencia oferece uma oportunidade de consultoria. Ele diz que estão procurando ajuda para definir as verificações de qualidade de saída de uma nova linha de produtos que estão criando para a Johnson Controls. O fornecedor deixa claro que Basma pode fazer o trabalho à noite ou nos finais de semana, fora das horas normais de trabalho.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[Homem em trajes formais]]></img>	
+			<text style="width:450px;"><![CDATA[Carl era responsável por selecionar um fornecedor de TI para ajudar a Johnson Controls em um projeto importante. No começo do ano, ele fez um investimento considerável na empresa de TI de seu amigo e agora ela enviou uma proposta para o trabalho.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Sim]]></text>
+		<text><![CDATA[Não]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[Está correto.]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[Não está correto. ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[Clique nos pontos de interrogação para saber mais.]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[Não tem problema Jennifer trabalhar na padaria nos finais de semana para ajudar sua irmã. Entretanto, há um conflito se seu compromisso com sua irmã afetar seu trabalho na Johnson Controls, como quando ela fingiu estar doente e perdeu um dia de trabalho durante a semana para ajudar na padaria.]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[Embora Alex trabalhe com contratação, ele não usou seu cargo para ajudar o amigo a conseguir o emprego. É aceitável Alex recomendar que Steve se candidate on-line, pois ele passará pelo mesmo processo que os outros candidatos.]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[Basma supervisiona o trabalho de um fornecedor e agora está considerando a oferta de trabalhar com esse mesmo fornecedor externamente. Se ambas as empresas derem emprego para ela, que lealdade é essa? Há um potencial de conflito e essas situações precisam ser evitadas. No mínimo, Basma precisa comunicar o possível conflito de interesse.]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[Carl se beneficiará financeiramente se a empresa na qual ele investiu ganhar a licitação. Sua conexão pessoal com a decisão pode afetar a capacidade de tomar uma decisão imparcial, gerando um conflito de interesse.]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

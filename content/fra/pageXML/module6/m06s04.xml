@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[Savez-vous déceler la concurrence déloyale ?]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 16px;font-size:14px;"><![CDATA[Savez-vous déceler la concurrence déloyale ? Reliez quelques exemples de concurrence déloyale avec le type d'accord mis en place.]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;left:785px;top:0px;"><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;right: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;line-height:25px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 16px;height:40px;">
+		<text><![CDATA[Sélectionnez un élément de la première colonne, puis faites glisser les flèches pour le relier au type de concurrence déloyale correspondant dans la seconde colonne. Quand vous avez terminé, cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur les points d’interrogation afin d’en savoir plus.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[SCÉNARIO]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img01.png"><![CDATA[Deux concurrents lors d'un déjeuner]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Deux concurrents lors d'un déjeuner]]></dragIcon>
+				<text style=""><![CDATA[Deux concurrents déjeunent ensemble. Le premier accepte de démarcher uniquement dans le nord du pays, et le second de se concentrer sur le sud.]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:553px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img02.png"><![CDATA[Trois concurrents en discussion]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Trois concurrents en discussion]]></dragIcon>
+				<text style=""><![CDATA[Trois concurrents qui se disputent un petit marché ont rendez-vous pour planifier l'année à venir. Ils passent en revue les appels d'offres prévus et se mettent d'accord pour proposer chacun à leur tour le prix le plus bas, tandis que les deux autres proposeront un prix trop élevé pour être retenus.]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:553px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img03.png"><![CDATA[Directeurs commerciaux séniors lors d’une conférence commerciale]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Directeurs commerciaux séniors lors d’une conférence commerciale]]></dragIcon>
+				<text style="line-height: 14px;"><![CDATA[Lors d’une conférence, plusieurs directeurs commerciaux parlent du plus gros fournisseur de leur marché, qui a augmenté ses tarifs. Ils se mettent d’accord pour réduire considérablement leurs commandes (ou les annuler purement et simplement, si possible) et chercher un autre fournisseur jusqu’à ce que les prix baissent.]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:553px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img04.png"><![CDATA[Groupe de signes pourcentage]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Groupe de signes pourcentage]]></dragIcon>
+				<text style=""><![CDATA[Plusieurs concurrents d'un secteur où le prix des matières premières est en hausse se mettent officieusement d'accord pour ne pas proposer de remises supérieures à 10 % à leurs clients.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;left: 640px;">		
+			<heder><![CDATA[TYPE DE CONCURRENCE DÉLOYALE]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 643px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[Répartition des marchés]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img05.png"><![CDATA[Diagramme en camembert]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 643px;top: 89px;height: 70px;">
+				<text><![CDATA[Concertation sur les offres]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img06.png"><![CDATA[Deux hommes d’affaires collaborant sur une offre]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 643px;top: 170px;height: 70px;">
+				<text><![CDATA[Boycott collectif]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img07.png"><![CDATA[Groupe décidant de boycotter un client pour le punir]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 643px;top: 251px;height: 70px;">
+				<text><![CDATA[Entente sur les prix]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img08.png"><![CDATA[Deux concurrents fixant un prix]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="left: 712px;top: 171px;width: 236px;">
+				<text style=""><![CDATA[La « répartition des territoires et des clients », ou « répartition des marchés », désigne le fait que des concurrents se mettent d’accord pour se répartir des clients, des produits ou des régions. Cette pratique réduit la concurrence dans les régions concernées, et le client a donc moins de choix.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="left: 712px;top: 171px;width: 236px;">
+				<text style=""><![CDATA[La « concertation sur les offres » se produit lorsque les concurrents coordonnent leurs offres afin d’influer sur l’issue du processus d’appel d’offres.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 171px;width: 236px;">
+				<text style=""><![CDATA[Lorsqu’elle agit seule, une entreprise a généralement le droit de choisir avec qui elle souhaite faire affaire. Mais lorsque deux entreprises ou plus se concertent pour ne pas faire affaire avec une autre entreprise, leur boycott peut être contraire aux lois sur la concurrence.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 171px;width: 236px;">
+				<text style=""><![CDATA[L’« entente sur les prix » signifie que des concurrents s’accordent pour aligner leurs prix ou d’autres modalités au lieu de se livrer une concurrence libre et indépendante.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

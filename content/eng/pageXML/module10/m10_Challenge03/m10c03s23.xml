@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c03s23">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_2" id="3" ><![CDATA[Click on Next to continue.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText >
+		<text><![CDATA[The group is at the sports bar for several hours. After Chris pays for the first two rounds of drinks, he asks Carlos to get the next round. How should Carlos respond?]]></text>
+	</contentText>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c03/m10c03s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText >
+		<text><![CDATA[Choose one option then select OK.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1" ><![CDATA[Open a tab and pay for a few more rounds.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Buy the group an assortment of appetizers instead of drinks.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="" >
+			<text  style="padding-top:12px;"><![CDATA[Carlos buys a few more rounds of drinks.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="" >
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="" >
+			<text  style="padding-top:25px;"><![CDATA[Carlos realizes that the group is getting drunk and bought a round of food as his contribution.]]></text>
+			<text><![CDATA[He also excused himself shortly afterwards and headed home.]]></text>
+		</correct>
+	</feedback>
+</contents>

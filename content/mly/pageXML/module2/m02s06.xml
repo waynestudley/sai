@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[Pilih Hadiah atau Hiburan untuk setiap contoh ini, kemudian klik Serah.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[Pekerja di pejabat]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Lihat sama ada anda boleh mengenal pasti sama setiap contoh yang dianggap sebagai hadiah atau hiburan.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Pilih Hadiah atau Hiburan untuk setiap pilihan, kemudian klik Serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png"><![CDATA[Pekerja di jamuan pasukan bersama pembekal]]></img>
+			<text style="width: 406px;"><![CDATA[Pembekal menjemput seluruh pasukan projek ke satu jamuan untuk meraikan berakhirnya projek besar]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png"><![CDATA[Pekerja Sedang Berfikir]]></img>
+			<text style="width: 406px;"><![CDATA[Pelanggan memberikan anda baucar untuk urutan di resort tempatan sebagai tanda “terima kasih” atas kerja anda]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png"><![CDATA[Pekerja Sedang Berfikir]]></img>	
+			<text style="width: 406px;"><![CDATA[Anda menghadiri pameran dagangan bagi pihak syarikat dan penganjur menjemput hadirin ke acara petang]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png"><![CDATA[Pekerja Sedang Berfikir]]></img>	
+			<text style="width:406px;"><![CDATA[Pembekal menawarkan bayaran untuk jamuan pasukan anda di restoran tempatan selepas mesyuarat di tapak tetapi pembekal tidak akan menghadirinya]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png"><![CDATA[Pekerja Sedang Berfikir]]></img>	
+			<text style="width:406px;"><![CDATA[Pembekal menjemput anda ke acara sukan tetapi berasa tidak sihat dan memberitahu anda agar pergi tanpanya]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[Hadiah]]></text>
+		<text styleWidth="width:100px;"><![CDATA[Hiburan]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Itu betul.]]></text>			
+			<text style="font-size: 15px;line-height:18px;"><![CDATA[Peraturan yang berbeza diguna pakai apabila berkaitan dengan melaporkan hadiah dan hiburan. Jangan lupa bahawa pemberi berkongsi manfaat jika ia hiburan – mereka menghadiri makan malam, mereka juga pergi ke acara, dsb.]]></text>			
+			<text style="font-size: 15px;line-height:18px;"><![CDATA[Pembekal menjemput pasukan ke jamuan atau menghadiri acara petang pameran dagangan ialah hiburan, kerana kedua-duanya memberi peluang untuk membincangkan perniagaan dan pemberi berkongsi manfaat. ]]></text>			
+			<text style="font-size: 15px;line-height:18px;"><![CDATA[Sijil hadiah dan acara yang mana pemberi tidak akan berada di acara yang dijemput, dianggap sebagai hadiah. ]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Itu salah.]]></text>	
+			<text style="font-size: 15px;line-height:18px;"><![CDATA[Peraturan yang berbeza diguna pakai apabila berkaitan dengan melaporkan hadiah dan hiburan. Jangan lupa bahawa pemberi berkongsi manfaat jika ia hiburan – mereka menghadiri makan malam, mereka juga pergi ke acara, dsb.]]></text>			
+			<text style="font-size: 15px;line-height:18px;"><![CDATA[Pembekal menjemput pasukan ke jamuan atau menghadiri acara petang pameran dagangan ialah hiburan, kerana kedua-duanya memberi peluang untuk membincangkan perniagaan dan pemberi berkongsi manfaat. ]]></text>			
+			<text style="font-size: 15px;line-height:18px;"><![CDATA[Sijil hadiah dan acara yang mana pemberi tidak akan berada di acara yang dijemput, dianggap sebagai hadiah. ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

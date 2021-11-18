@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m05s08">
+	<transcript>
+		<text path="audio/module5/m05s08" id="0"><![CDATA[Může být obtížné rozpoznat, co je a co není vývoz, zejména jste-li uprostřed rušného pracovního dne. Kliknutím na jednotlivé obrázky si ověřte, zda rozumíte tomu, co představuje vývoz.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Nerozpoznáte-li, že vaše jednání představuje vývoz, můžete nevědomky porušit zákon nebo obchodní předpisy. Vývoz může zahrnovat:]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module5/m05s08/contentBackground.jpg" minwidth="769"><![CDATA[Kontejnery čekající na vývoz]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;"></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Výběrem jednotlivých obrázků zobrazíte další informace. Chcete-li zobrazit další, zavřete textové pole kliknutím na X.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 190px;">
+		<revealCallOut width="230px" height="175px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module5/m05s08/btn1.png" minwidth="769"><![CDATA[Kontejnery na lodi]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Fyzický vývoz]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 195px;top:-195px; width: 957px;">
+				<text><![CDATA[Věc přepravovaná přes státní hranice nebo předaná osobě či subjektu z jiné země, v jiné zemi nebo s občanstvím jiné země Například:<ul> <li>vzorky produktů ručně přepravované do jiné země,</li> <li>technické výkresy ukazované občanovi jiné země, ve vaší zemi nebo někde jinde,</li> <li>prohlídka továrny či zařízení pro někoho, kdo není občanem země, kde se daná továrna nachází.</li> </ul>]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="175px" top="15px" left="262px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module5/m05s08/btn2.png" minwidth="769"><![CDATA[Zaměstnanci diskutují o technologii]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Vývoz technologií]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 260px;top: -195px; width: 957px;">
+				<text><![CDATA[Technické informace podléhající regulaci vývozu, které byly v tištěné nebo elektronické podobě poskytnuty osobě či subjektu z jiné země, v jiné zemi nebo s občanstvím jiné země. Například: <ul> <li>kurýrem,</li> <li>e-mailem,</li> <li>sdílením na webu,</li> <li>zveřejněním ve sdílené složce,</li> <li>výměnou během videokonference, prohlídky závodu nebo na veřejné konferenci,</li> <li>diskusí v chatovací místnosti,</li> </ul>]]></text>				
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="175px" top="15px" left="504px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module5/m05s08/btn3.png" minwidth="769"><![CDATA[Opravy produktů]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Služby]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 195px;top: -195px; width: 957px;">
+				<text><![CDATA[Poskytnutí pomoci týkající se rozvoje, výroby, použití, provozování, instalace, údržby, opravy, generální opravy či modernizace produktu osobě z jiné země, v jiné zemi nebo s občanstvím jiné země.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="175px" top="15px" left="747px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module5/m05s08/btn4.png" minwidth="769"><![CDATA[Lidé diskutující o technických informacích]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Opětovný vývoz nebo přenos]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 175px;top: -195px; width: 957px;">
+				<text><![CDATA[Převedení obdržených produktů či technických informací jiné osobě nebo subjektu, a to i v téže zemi.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

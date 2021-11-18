@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[Jeden z hlavních dodavatelů požádal o okamžitou úhradu. Co by podle vás měl Jian udělat? Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Jian je pod tlakem, aby schválil okamžitou úhradu faktury dodavatele, a může na tom záviset úspěch projektu.]]></text>
+		<text><![CDATA[Co by měl udělat?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[Jian v kuchyni telefonuje s Nolanem]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Zvolte jednu možnost a klikněte na tlačítko OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+		<text><![CDATA[Kliknutím na tlačítko Další zjistíte, co se stalo.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Říci Nolanovi, aby úhradu schválil. Zdá se rozumné vynaložit 1 000 USD, a předejít tím podstatně vyšším pokutám za opožděné dodávky.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Říci Nolanovi, aby se schválením úhrady počkal, dokud nebude vědět více o tom, jak budou tyto peníze použity k zajištění povolení.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian řekne účetnímu oddělení, aby fakturu uhradilo. Zdá se, že takto lze nejlépe předejít zpoždění projektu, a je to méně nákladné, než platit zákazníkům pokutu.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Po hovoru s Nolanem je Jian znepokojen požadavkem dodavatele.]]></text>
+		</correct>
+	</feedback>
+</contents>

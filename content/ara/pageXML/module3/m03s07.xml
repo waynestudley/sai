@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[إن الأمر يعود إلينا جميعًا في أن نمنع حدوث الرشوة والفساد في هذه الشركة. انقر فوق كل عنوان لتأكيد ما يمكنك القيام به.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[في شركة Johnson Controls، نحن ملتزمون بالامتثال لجميع قوانين مكافحة الرشوة والفساد. وإليكم ما يعنيه هذا عمليًّا:]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/rtl/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[قائمة المراجعة]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[حدد كل عنوان للتعرف على المزيد.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[لا تعرض الرشاوى]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[لا تعرض على أي جهة اتصال في مجال العمل على الإطلاق أي شيء ذي قيمة بقصد التأثير في قراره.]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[احتفظ بالسجلات الدقيقة ]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[لا تحاول إخفاء ما تنفقه على الترفيه أو الهدايا أو تحاول التضليل بهذا الصدد؛ بل عليك أن تسجل كل المعاملات بأمانة ودقة. راجع <a href="content/ara/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">سياسة السفريات والهدايا ووسائل الترفيه للجهات الخارجية</a> لمزيد من المعلومات.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[ضع شركاء العمل أمام مسؤولياتهم]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[عليك أن تقوم بتوضيح معاييرنا لمكافحة الرشوة لأي جهات خارجية نزاول نشاطنا في العمل معها. راقب أنشطتهم وأبلغ عن أي اشتباه في الفساد. لا تعمل مع شركاء الأعمال الذين يتورطون في ممارسات فاسدة.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[تعرّف على الجهات الخارجية التي تتعامل معها]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[إذا كنت مسؤولاً عن إدارة العمل مع أي جهات خارجية، فتأكّد من أنهم معتمدون بشكل كامل وفقًا لمتطلبات برنامج الجهات الخارجية التابع لشركة Johnson Controls.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

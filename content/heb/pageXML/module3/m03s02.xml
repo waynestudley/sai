@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[עד כמה אתה טוב בזיהוי מצבים מסוכנים? קרא תרחיש זה, בחר 'מסכים' או 'לא מסכים' עבור כל אפשרות ולאחר מכן לחץ על 'שלח'.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[מסדרון של משרד]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;left: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[יועץ שאיתו אתה עובד במזרח התיכון אומר לך שהמכס על המשלוח היה גבוה, אבל הוא מצא "פתרון זול יתר" והמשלוח יצא כעת לדרך. עם אילו מהמשפטים הללו אתה מסכים?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[בחר 'מסכים' או 'לא מסכים' עבור כל אפשרות, ולאחר מכן לחץ על 'שלח'. ]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module3/m03s02/img01.png"><![CDATA[מסמכים]]></img>
+			<text style="width: 450px;"><![CDATA["פתרון זול יותר" זה עלול לכלול תשלום שוחד על-ידי גורם כלשהו ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module3/m03s02/img02.png"><![CDATA[מסמכים]]></img>
+			<text style="width: 450px;"><![CDATA[עליך לדווח על החשב שלך למנהל או למחלקה המשפטית   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module3/m03s02/img03.png"><![CDATA[מסמכים]]></img>	
+			<text style="width: 450px;"><![CDATA[עליך להמתין ולראות מה יקרה, ולאחר מכן לשוחח על כך עם המנהל שלך]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module3/m03s02/img04.png"><![CDATA[מסמכים]]></img>	
+			<text style="width:450px;"><![CDATA[אם היועץ שילם שוחד בשם החברה שלנו, הוא יישא באחריות, ולא Johnson Controls.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module3/m03s02/img05.png"><![CDATA[מסמכים]]></img>	
+			<text style="width:450px;"><![CDATA[עליך להודות ליועץ על כך שחסך כסף ולהעביר לו יותר עבודות בעתיד]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[מסכים]]></text>
+		<text><![CDATA[לא מסכים]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[נכון.]]></text>			
+			<text style="font-size: 13px;"><![CDATA["הפתרון הזול יותר" עלול לכלול תשלום שוחד. לעתים שוחד עשוי להיות עדין מאוד. במצב כזה, עליך לדווח על החשד באופן מידי למנהל ולחבר במחלקה המשפטית או במחלקת התאימות, או לדווח עליו בקו החם לנושאי יושרה. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[אם גורם צד שלישי משלם שוחד בשם Johnson Controls, אנחנו עדיין נושאים באחריות.]]></text>			
+		</correct>
+		<incorrect style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[לא נכון.]]></text>	
+			<text style="font-size: 13px;"><![CDATA["הפתרון הזול יותר" עלול לכלול תשלום שוחד. לעתים שוחד עשוי להיות עדין מאוד. במצב כזה, עליך לדווח על החשד באופן מידי למנהל ולחבר במחלקה המשפטית או במחלקת התאימות, או לדווח עליו בקו החם לנושאי יושרה. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[אם גורם צד שלישי משלם שוחד בשם Johnson Controls, אנחנו עדיין נושאים באחריות.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

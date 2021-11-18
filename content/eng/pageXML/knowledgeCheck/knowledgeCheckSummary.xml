@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents >
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1" ><![CDATA[Congratulations, you have successfully passed the final Knowledge Check.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2" ><![CDATA[Unfortunately, you have not yet passed the final Knowledge Check. ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"  ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText >
+		<text><![CDATA[Congratulations!]]></text>		
+	</contentText>
+    <contentImagePass >		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg"  minwidth="800" minheight="600"><![CDATA[Johnson Controls employees]]></img>
+	</contentImagePass>
+	 <contentImageFail >
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg"   minwidth="800" minheight="600" ><![CDATA[Johnson Controls employees]]></img>
+	</contentImageFail>
+	<instructionText >		
+		<text><![CDATA[Click on Home to return to the Main menu. From here, you can access your certificate of course completion.]]></text>
+		<text><![CDATA[Click on Home to return to the Main menu.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1" >
+		<text><![CDATA[With a score of <b>##%</b>, you have passed the Knowledge Check for the: <span class="courseTitleAss" >Applying the Ethics Code: Doing Business with Integrity</span> course.]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2" >
+		<text><![CDATA[With a score of <b>##%</b>, you have not passed the course.]]></text>
+		<text><![CDATA[You need to score <span>#%</span> or more to pass. Please revisit the program and then try this Knowledge Check again.]]></text>
+	</feedbackFail>
+</contents>

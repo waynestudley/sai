@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s08">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle=""></contentBg>
+	<pageTitle style="margin-bottom: 6px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s08/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text style=""><![CDATA[小江剛剛帶著太太從醫院返家，他在準備晚餐的時候接到了一通諾倫打來的緊急電話。]]></text>
+	</contentText>
+	<instructionText style="margin-top: 5px;">
+		<text><![CDATA[按一下故事的每個階段。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="10" y="245" width="305" />
+				<text><![CDATA[<span class="fontBold">諾倫</span>是 Johnson Controls 的應付帳款經理]]></text>			
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="558" y="240" width="268" />
+				<text><![CDATA[<span class="fontBold">小江</span>是 Johnson Controls 的採購經理]]></text>
+			</stripCallOut>
+			
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="29" y="12" width="188" arrowStyle="top:60px" />
+				<text><![CDATA[小江，真是不好意思，你不在辦公室還打擾你，但是 TSR 要求立即支付 1000 美元的新發票款項。 他們說有項專案能不能成功就全看這筆款項了。 你了解這家公司嗎？]]></text>
+			</stripCallOut>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="462" y="44" width="200" />
+				<text><![CDATA[TSR？ 我不知道，但是我知道他們是重要供應商，但我不確定他們目前正在處理哪一項專案。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="29" y="12" width="188" arrowStyle="top:110px" />
+				<text><![CDATA[我跟這家供應商談過了， 他們說我們需要許可證才能完成專案，但政府員工即將展開可能長達好幾個星期的罷工行動。 他們想要確定能在罷工行動開始之前，完成許可證的申請流程。]]></text>
+			</stripCallOut>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="469" y="55" width="200" arrowStyle="top:1px" />
+				<text><![CDATA[這是可以理解的。]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripThumImg numberText="4">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s08/Page_08_Strip_04.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="89" y="16" width="260" arrowStyle="top:66px" />
+				<text><![CDATA[他們還說我們與客戶的合約中有懲罰條款：每延遲一天我們就要付出 10,000 美元的成本；所以如果我們因為沒有許可證而導致專案延遲，我們損失就大了。]]></text>
+			</stripCallOut>			
+		</strip>
+	</comicStrip>
+</contents>

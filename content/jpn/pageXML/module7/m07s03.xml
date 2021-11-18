@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[知的財産へのリスクに関してすでに知っていることはありますか？ マリアの状況を調査して、適切な対応をすべて選択し、「提出」をクリックしてください。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:14px;line-height:21px;"><![CDATA[マリアは2、3ヵ月前Johnson Controlsで働き始め、業界において刺激となる新製品のリリースに関わっています。]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;line-height:21px;"><![CDATA[同様の業界にいるマリアの友人のピートは、彼女の仕事について彼女に尋ね、新製品に関する具体的な質問をし始めました。]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;line-height:21px;"><![CDATA[マリアはどのように対応すればよいでしょうか？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA[マリアとピート]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:26px;"></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;line-height:23px;">
+		<text><![CDATA[適切な対応をすべて選択し「提出」をクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[正解が一つ以上ある場合があります。]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px;font-size:14px;line-height:21px;">
+		<option><![CDATA[製品とそのリリースについての詳細を離す前に、マリアが話すことについて公開しないようピートに約束させます。]]></option>	
+		<option><![CDATA[彼女は、製品やリリースについての詳細を開示することなく、仕事についてどう感じているか（例えば、刺激的である、挑戦的であるなど）を話します]]></option>	
+		<option><![CDATA[彼女は現在の仕事は機密事項であり、詳細は話せないとピートに伝えるべきです]]></option>	
+		<option><![CDATA[彼女はプロジェクトについてのみ話し、公開されていない詳細を信頼する近しい友人や家族に共有する必要があります。]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-210px">
+			<text><![CDATA[正解です。]]></text>
+			<text><![CDATA[マリアは仕事についてどのように感じているかについてピートに話すことはできますが、新製品やそのリリースなどを含めて、会社の機密情報は何も明らかにしてはいけません 。]]></text>
+			<text><![CDATA[注意するべきキーポイントは、いかなる理由があっても、企業秘密やその他の機密情報を、社外の認可されていない人間に公開してはいけないということです。]]></text>
+			<text><![CDATA[どのような場合も、信頼のおける友人や家族でも、企業秘密やJohnson Controlsで開発中のIPを知ることがあってはなりません。 ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-210px">
+			<text><![CDATA[不正解です。]]></text>
+			<text><![CDATA[マリアは仕事についてどのように感じているかについてピートに話すことはできますが、新製品やそのリリースなどを含めて、会社の機密情報は何も明らかにしてはいけません 。]]></text>
+			<text><![CDATA[注意するべきキーポイントは、いかなる理由があっても、企業秘密やその他の機密情報を、社外の認可されていない人間に公開してはいけないということです。]]></text>
+			<text><![CDATA[どのような場合も、信頼のおける友人や家族でも、企業秘密やJohnson Controlsで開発中のIPを知ることがあってはなりません。 ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

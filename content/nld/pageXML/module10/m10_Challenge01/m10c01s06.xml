@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[De ingreep van de vrouw van Jian is geslaagd, maar de artsen houden haar een nacht in observatie. De volgende dag gebruikt Jian zijn eigen laptop en werkt hij vanuit de kamer van zijn vrouw. De IT-dienst zal immers pas aan het eind van de werkdag een vervangingslaptop voor hem ter beschikking hebben. Vanop zijn laptop kan hij de informatie in het basisdossier met leveranciers raadplegen.]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Wat is de beste manier om deze aanpassingen bij Holly te krijgen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[Ziekenhuiskamer van de vrouw van Jian]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian meldt zich aan op de openbare wifi en mailt het bijgewerkte bestand van de usb-stick via zijn eigen e-mailaccount.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian beseft dat het voor problemen zou kunnen zorgen als hij Holly het bijgewerkte basisdossier stuurt om te uploaden omdat anderen mogelijk het oorspronkelijke basisdossier hebben bewerkt in zijn afwezigheid en zijn eigen updates dit zouden kunnen overschrijven. Terwijl hij aan het lunchen is in de ziekenhuiscafetaria belt hij haar en neemt hij samen met haar de veranderingen door terwijl zij ze in het basisdossier op het bedrijfssysteem invoert.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian vraagt Holly de gecodeerde usb-stick in het ziekenhuis te komen ophalen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:280px;" fcStyle="top: -220px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[Jian stuurt Holly de informatie, maar bij het downloaden van het bestand ontstaat er een conflicterende kopie met de huidige leveranciersdatabase, waarna het team urenlang bezig is met het bijwerken en bevestigen van de informatie.]]></text>
+			<text style="font-size:15px;"><![CDATA[Er worden valse facturen naar het bedrijf van Jian gestuurd. Deze zijn zogenaamd afkomstig van legitieme leveranciers, maar ze bevatten bankrekeninggegevens van degenen die het bedrijf trachten te frauderen. Maanden later kwam deze fraude aan het licht en in het onderzoek werd een verband gelegd met een veiligheidsinbreuk in de leveranciersdatabase rond de tijd dat Jian in het ziekenhuis was. Jian heeft heel wat uit te leggen!]]></text>
+			<text style="font-size:15px;"><![CDATA[De veiligste optie voor Jian was Holly te vragen om de gecodeerde usb-stick op te halen. Hoewel het team ook in dit geval uren zoet zou zijn geweest met het combineren van de bewerkingen van Jian met die in de leveranciersdatabase, zou dit de bescherming van gevoelige gegevens hebben gewaarborgd.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:220px;" fcStyle="top: -206px;">
+			<text style="padding-top:25px;"><![CDATA[Holly slaagt erin het basisdossier met leveranciers bij te werken en ze maakt slechts een aantal fouten die nadien worden opgespoord en gecorrigeerd.]]></text>
+			<text><![CDATA[Andere mensen die in de ziekenhuiscafetaria aan het eten zijn kunnen echter alles afluisteren wat Jian zegt, waardoor er onnodig leveranciersgegevens worden onthuld.]]></text>
+			<text><![CDATA[De veiligste optie voor Jian was Holly te vragen om de gecodeerde usb-stick op te halen. Hierdoor zou de bescherming van gevoelige gegevens gewaarborgd zijn geweest.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:280px;" fcStyle="top: -220px;">
+			<text style="padding-top:25px;"><![CDATA[Holly haalt de usb-stick op, maar terwijl Jian van op afstand aan zijn kopie bezig was, hebben zijn collega's de originele versie bewerkt. Wanneer Holly de versie van Jian uploadt, worden de wijzigingen van zijn collega's overschreven. Het team is urenlang bezig met het bijwerken en bevestigen van de informatie.]]></text>
+			<text><![CDATA[Jian wordt berispt omdat hij het basisdossier heeft gedownload, maar op die manier is de informatie tenminste veilig. Holly had het herziene bestand niet mogen uploaden zonder eerst bij de andere beheerders na te gaan of ze updates hadden doorgevoerd die hierdoor in het gedrang zouden komen.]]></text>
+			<text><![CDATA[Dit is de veiligste handelswijze, aangezien de bescherming van gevoelige gegevens op deze manier werd gewaarborgd.]]></text>
+		</correct>
+	</feedback>
+</contents>

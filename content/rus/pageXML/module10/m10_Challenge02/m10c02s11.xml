@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>
+	<contentText>
+		<text style="line-height:18px"><![CDATA[Случившееся с Сэнди пробуждает в Эмме ужасные чувства. Она думает, что привлечение внимания других людей могло бы помочь. Как Эмма может помочь коллеге?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;line-height:20px">
+		<text><![CDATA[Выберите один из вариантов и щелкните «ОК».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px">
+		<option answer="0" feedbackId="1"><![CDATA[Удивить Сэнди, создав общественный веб-сайт для сбора средств для документирования процесса выздоровления и финансовых трудностей Сэнди, а также для сбора пожертвований, чтобы помочь с оплатой медицинского обслуживания.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Использовать свой риэлторский блог, чтобы больше людей пожертвовали деньги на сайте для сбора средств, который создала семья.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Получить разрешение Сэнди перед тем, как обратиться к кому-либо или сообщить в какой-либо социальной сети о происшествии Сэнди и ее борьбе за выздоровление.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОК]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Эмма создает сайт для сбора средств для Сэнди, на котором также предоставляет информацию о травмах Сэнди и текущем прогнозе.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Ее веб-сайт и блог пользуются популярностью, и она решает, что это прекрасный способ сообщить еще большему количеству людей о состоянии Сэнди, собрав еще больше пожертвований. На своем риэлторском сайте и в блоге она решает добавить информацию о происшествии Сэнди и попытках ее семьи собрать средства.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:250px;" fcStyle="top:-201px;">
+			<text style="padding-top:25px;"><![CDATA[Эмма просит разрешения Сэнди написать о происшествии и опубликовать это в своем блоге для того, чтобы собрать пожертвования на ее медицинское обслуживание.]]></text>
+			<text><![CDATA[Сэнди соглашается при условии, что пожертвования будут поступать в фонд медицинского учреждения.]]></text>
+			<text><![CDATA[Сообщая информацию, одобренную Сэнди, и условившись с ней о способах использования персональной информации, Эмма предотвращает возможность злоупотребления персональной информацией Сэнди и должным образом заботится о ее конфиденциальности.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<system>
+	<content>
+		<text><![CDATA[System Checker]]></text>
+		<text><![CDATA[<p>An automatic check of your system has found that it does not meet all of the requirements to run this course correctly.</p><p>Click <a href="javascript:void(0);" style="color:#0000ff;" id="displayTable">here</a> to see the system check report.If you need help meeting the system requirements for this course, please contact your local IT Helpdesk.</p><p>You may still run the course, but please note that it may not run correctly and your progress and achievements may not be correctly recorded.</p>]]></text>
+	</content>
+	<contentBackground>
+		<img path="framework/images/ltr/system_check_bg_01.png"  />
+	</contentBackground>
+	<heading>
+		<text><![CDATA[System requirements]]></text>
+		<text><![CDATA[System detected]]></text>
+		<text><![CDATA[Result]]></text>
+	</heading>
+	<passFail>
+		<pass><![CDATA[Passed]]></pass>
+		<fail><![CDATA[Failed]]></fail>
+	</passFail>
+	<checker>
+		<!--e.g if greaterVersion="true" type="8" , allow  above of type (7) -->
+		<text>
+			<label><![CDATA[Supported operating systems:]]></label>
+			<item type="windows">
+				<itemLabel><![CDATA[Windows XP, Vista, 7, 8 - 10]]></itemLabel>
+				<version  greaterVersion="false" type="7" />
+				<version  greaterVersion="true" type="8" />
+				<version  greaterVersion="false" type="xp" />
+				<version  greaterVersion="false" type="vista" />
+				<version  greaterVersion="false" type="10" />
+			</item>
+			<item type="mac">
+				<itemLabel><![CDATA[Mac OS 10.10 - 10.11]]></itemLabel>
+				<version greaterVersion="false" type="os x" />
+				<version greaterVersion="false" type="10.11" />
+			</item>
+			<item type="ios">
+				<itemLabel><![CDATA[iOS 6 - iOS 10]]></itemLabel>
+				<version greaterVersion="true" type="6" />
+				<version greaterVersion="false" type="10.4" />
+			</item>
+		</text>
+		<text>
+			<label><![CDATA[Supported browsers:]]></label>
+			<item type="ie">
+				<itemLabel><![CDATA[Internet Explorer 8 - 11]]></itemLabel>
+				<version  greaterVersion="true" type="8" />
+				<version  greaterVersion="false" type="11" />
+			</item>			
+			<item type="firefox">
+				<itemLabel><![CDATA[Firefox 21 - 49]]></itemLabel>
+				<version  greaterVersion="true" type="10" />
+			</item>
+			<item type="chrome">
+				<itemLabel><![CDATA[Chrome 27 - 54]]></itemLabel>
+				<version  greaterVersion="true" type="10" />
+			</item>
+			<item type="safari">
+				<itemLabel><![CDATA[Safari 5]]></itemLabel>
+				<version  greaterVersion="true" type="5" />
+			</item>
+			<item type="edge">
+				<itemLabel><![CDATA[Edge 12]]></itemLabel>
+				<version greaterVersion="true" type="12" />
+			</item>
+		</text>
+		<text>
+			<label><![CDATA[Supported screen resolutions:]]></label>
+			<item width="1024" height="768" >
+				<itemLabel><![CDATA[Desktop - 1024 X 768 or higher]]></itemLabel>
+			</item>
+			<item width="650" height="1010" >
+				<itemLabel><![CDATA[iPad - 1024 X 768 or higher]]></itemLabel>
+			</item>
+		</text>
+		<text>
+			<label><![CDATA[Supported colour depth]]></label>
+			<item depth="24" greaterVersion="true">
+				<itemLabel><![CDATA[24 bit or higher]]></itemLabel>
+			</item>
+		</text>
+		<!-- <text>
+			<label><![CDATA[JavaScript]]></label>
+			<item enabled="true">
+				<itemLabel><![CDATA[Enabled]]></itemLabel>
+			</item>
+		</text> -->
+		<text>
+			<label><![CDATA[Supported devices:]]></label>
+			<item type="tablet">
+				<itemLabel><![CDATA[Desktop/laptop]]></itemLabel>
+			</item>
+			<item type="desktop">
+				<itemLabel><![CDATA[iPad]]></itemLabel>
+			</item>
+		</text>
+	</checker>
+	<launchCourse>
+		<text><![CDATA[<span class="fontBold">I understand, run the course anyway</span>]]></text>
+	</launchCourse>
+</system>

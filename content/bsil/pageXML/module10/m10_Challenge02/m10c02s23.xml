@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma informa a situação ao seu gerente, Roger, mas ele não faz nada. O que Emma deve fazer?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Escolha uma opção e selecione OK.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[Nada. Emma informou e é responsabilidade de Roger dar continuidade.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Falar com alguém do Departamento de Conformidade ou Jurídico ou contatar a Linha de Ajuda de Integridade para relatar suas preocupações.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:18px;"><![CDATA[Emma fez a coisa certa ao falar com o gerente. Mas ela não está convencida de que Roger fará alguma coisa, então ela deve informar suas preocupações para outros recursos. Ela pode contatar os Departamentos de Conformidade ou Jurídico, o representante do RH ou registrar sua preocupação na Linha de Ajuda de Integridade.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma fez a coisa certa ao falar com o gerente. Mas Emma acredita que Roger não vai tomar outra atitude para analisar a preocupação dela. Portanto, Emma também fez a coisa certa ao ir além e falar com outros recursos na empresa, que podem analisar e solucionar adequadamente o problema.]]></text>
+		</correct>
+	</feedback>
+</contents>

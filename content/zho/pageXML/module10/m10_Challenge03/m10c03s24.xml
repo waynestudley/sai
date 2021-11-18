@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;">
+		<text><![CDATA[选择各标题以了解更多信息。]]></text>
+		<text><![CDATA[单击“下一步”重新考虑您的决定并重试。]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">			
+			<buttonText style=""><![CDATA[喝得太多]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[几名团队成员酩酊大醉，其中一人从楼梯上摔了下来，摔断了胳膊。 这样只能雇用新人代班，但新人工作很慢，项目延后。 ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">
+			<buttonText><![CDATA[客户十分不高兴]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[客户听闻几个对话后，了解到项目延后是因为卡洛斯在运动酒吧请工人喝酒。 她致电卡洛斯的经理，进行投诉。 ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="138">
+			<buttonText><![CDATA[Facebook 帖文]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[一位分包商在 Facebook 上发布了那次意外的照片。 他在帖文中写道，“上次我与 Johnson Controls 员工喝酒时...” ]]></text>					
+				<text><![CDATA[卡洛斯想知道受伤的分包商是否会控告公司。]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

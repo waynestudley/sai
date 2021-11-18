@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0" ><![CDATA[Do you see any warning signs here? Select any you spotted and then click on submit.]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+	</transcript>
+	<contentText >
+		<text><![CDATA[What are the warning signs related to this email?]]></text>
+	</contentText>
+	<contentBackground >		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769" ><![CDATA[Email Inbox]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"  ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText >
+		<text><![CDATA[Select all the warning signs and then click on submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<extraInstructionText >
+		<text><![CDATA[There may be more than one correct answer.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option ><![CDATA[The sender claims to be a Johnson Controls customer]]></option>	
+		<option ><![CDATA[The customer is writing about business but is using a Gmail account]]></option>	
+		<option ><![CDATA[The customer is asking for information that might be controlled without providing much information about themselves]]></option>	
+		<option ><![CDATA[The customer says he is in France but you cannot verify that from the email]]></option>	
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback >
+		<correct transcriptId="1" style="">
+			<text><![CDATA[That’s correct.]]></text>
+			<text><![CDATA[The customer is asking for technical information that might be restricted from export and they are not providing much information about themselves.]]></text>
+			<text><![CDATA[At the very least, you need to learn more about their identity and location and any applicable trade restrictions before providing any technical support.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Sorry, that’s not correct.]]></text>
+			<text><![CDATA[The customer is asking for technical information that might be restricted from export and they are not providing much information about themselves.]]></text>
+			<text><![CDATA[At the very least, you need to learn more about their identity and location and any applicable trade restrictions before providing any technical support.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

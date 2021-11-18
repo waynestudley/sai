@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[Hoe goed kunt u risicosituaties herkennen? Lees dit scenario en geef aan of het een belangenconflict vormt.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[Een kantoor]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 10px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:14px;line-height:15px;margin-bottom:0px;"><![CDATA[Kunt u een belangenconflict herkennen?  Geef aan of de volgende situaties al dan niet een mogelijk conflict vormen en moeten worden onthuld:]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Selecteer 'Ja' of 'Nee' voor iedere optie en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+		<text><![CDATA[Klik op het vraagteken voor meer informatie.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[Vrouw met een schort die in een bakkerij aan het werk lijkt]]></img>
+			<text style="width: 450px;"><![CDATA[Jennifer, een werkneemster van Johnson Controls, is van plan in het weekend in de nieuwe bakkerij van haar zus te gaan werken. Deze week heeft ze zich echter ziek gemeld om mee de grote opening van de winkel in goede banen te leiden.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[Man in zakelijke kledij]]></img>
+			<text style="width: 450px;"><![CDATA[Alex, een aankoopmedewerker bij Johnson Controls, vindt dat zijn vriend Steve perfect geschikt is voor een vacature van het bedrijf. Hij vertelt Steve over de vacature en suggereert hem het online sollicitatieformulier in te vullen.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[Vrouw in zakelijke kledij, afkomstig uit het Midden-Oosten]]></img>	
+			<text style="width: 450px;"><![CDATA[Basma is een kwaliteitsingenieur bij Johnson Controls. Een verkoper waarvoor zij instaat biedt haar een consultancyfunctie aan. Hij zegt dat ze hulp zoeken bij het opstellen van de uitgaande kwaliteitscontroles voor een nieuwe productlijn die voor Johnson Controls wordt ontwikkeld. De verkoper stelt duidelijk dat Basma het werk 's avonds of in het weekend kan doen, buiten haar normale werkuren.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[Man in zakelijke kledij]]></img>	
+			<text style="width:450px;"><![CDATA[Het was de taak van Carl om een IT-partner te kiezen om Johnson Controls te ondersteunen bij een belangrijk project. Eerder dit jaar deed hij een aanzienlijke investering in het IT-bedrijf van zijn vriend en ditzelfde bedrijf heeft nu een offerte ingediend voor de opdracht.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Ja]]></text>
+		<text><![CDATA[Nee]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[Dat klopt.]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[Dat klopt niet. ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[Klik op het vraagteken voor meer informatie.]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[Het is geen probleem dat Jennifer in het weekend in de bakkerij werkt om haar zus te helpen. Het creëert echter wel een conflict als haar toewijding naar haar zus toe invloed heeft op haar functieverantwoordelijkheden bij Johnson Controls, zoals wanneer ze zich valselijk ziek meldde en een dag is thuisgebleven om een handje toe te steken in de bakkerij.]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[Hoewel Alex op de aankoopafdeling werkt, heeft hij geen misbruik gemaakt van zijn positie om zijn vriend aan een baan te helpen. Alex mag Steve zonder probleem aanbevelen het online sollicitatieformulier in te vullen, aangezien Steve dezelfde procedure zal doorlopen als alle andere sollicitanten.]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[Basma houdt toezicht op het werk van een verkoper en is nu zijn aanbod aan het overwegen om als bijverdienste met deze verkoper samen te werken. Als ze voor beide bedrijven werkt, waar ligt haar loyaliteit dan? Het creëert mogelijk tegenstrijdige belangen en dergelijke situaties moeten worden voorkomen. Basma moet minstens het mogelijk belangenconflict onthullen.]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[Carl kan er financieel goed bij varen als het bedrijf waarin hij heeft geïnvesteerd de aanbesteding wint. Zijn persoonlijke betrokkenheid bij de beslissing zou hem kunnen verhinderen een onpartijdige beslissing te nemen, waardoor er sprake zou zijn van een belangenconflict.]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

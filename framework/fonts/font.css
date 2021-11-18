@@ -1,0 +1,112 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('icomoon.eot?b6u96w');
+  src:  url('icomoon.eot?b6u96w#iefix') format('embedded-opentype'),
+    url('icomoon.ttf?b6u96w') format('truetype'),
+    url('icomoon.woff?b6u96w') format('woff'),
+    url('icomoon.svg?b6u96w#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.v-icon, [class^="icon-"], [class*=" icon-"]{
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+@font-face{
+		font-family:'JandaQuickNote';
+			src:url('JandaQuickNote.eot');
+			src:url('JandaQuickNote.eot?#iefix') format('embedded-opentype'),				
+				url('JandaQuickNote.ttf') format('truetype');
+				
+		font-weight:normal;
+		font-style:normal;
+}
+
+
+@font-face{
+		font-family:'SEGOEUIRegular';
+			src:url('Segoe_UL.eot');
+			src:url('Segoe_UL.eot?#iefix') format('embedded-opentype'),				
+				url('Segoe_UL.ttf') format('truetype');
+				
+		font-weight:normal;
+		font-style:normal;
+}
+
+@font-face{
+		font-family:'SEGOEUIBold';
+			src:url('Segoe_UL_Bold.eot');
+			src:url('Segoe_UL_Bold.eot?#iefix') format('embedded-opentype'),				
+				url('Segoe_UL_Bold.ttf') format('truetype');
+				
+		font-weight:normal;
+		font-style:normal;
+}
+
+@font-face{
+		font-family:'SEGOEUIBoldItalic';
+			src:url('Segoe_UL_Bold_ltalic.eot');
+			src:url('Segoe_UL_Bold_ltalic.eot?#iefix') format('embedded-opentype'),				
+				url('Segoe_UL_Bold_ltalic.ttf') format('truetype');
+				
+		font-weight:normal;
+		font-style:normal;
+}
+
+
+@font-face{
+		font-family:'SEGOEUILight';
+			src:url('Segoe_UL_Light.eot');
+			src:url('Segoe_UL_Light.eot?#iefix') format('embedded-opentype'),				
+				url('Segoe_UL_Light.ttf') format('truetype');
+				
+		font-weight:normal;
+		font-style:normal;
+}
+
+@font-face{
+		font-family:'SEGOEUIItalic';
+			src:url('Segoe_UL_ltalic.eot');
+			src:url('Segoe_UL_ltalic.eot?#iefix') format('embedded-opentype'),				
+				url('Segoe_UL_ltalic.ttf') format('truetype');
+				
+		font-weight:normal;
+		font-style:normal;
+}
+
+@font-face{
+		font-family:'SEGOEUISemiBold';
+			src:url('Segoe_UL_Semibold.eot');
+			src:url('Segoe_UL_Semibold.eot?#iefix') format('embedded-opentype'),				
+				url('Segoe_UL_Semibold.ttf') format('truetype');
+				
+		font-weight:normal;
+		font-style:normal;
+}
+
+@font-face{
+		font-family:'SEGOEUISymbol';
+			src:url('Segoe_UL_Symbol.eot');
+			src:url('Segoe_UL_Symbol.eot?#iefix') format('embedded-opentype'),				
+				url('Segoe_UL_Symbol.ttf') format('truetype');
+				
+		font-weight:normal;
+		font-style:normal;
+}
+
+
+

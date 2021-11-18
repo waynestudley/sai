@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c02s15">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c02/m10c02s15/contentBackground.jpg" minwidth="769"><![CDATA[점검 목록]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[이야기의 각 단계를 클릭하십시오.]]></text>
+		<text><![CDATA[다음을 선택하여 여러분의 선택을 재고한 후 다시 시도해 보십시오.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="107">			
+			<buttonText style=""><![CDATA[Dan이 이메일을 보냅니다]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[Dan은 Emma의 부동산 블로그 링크가 포함된 이메일을 회사 전체로 보내 직원 목록에 있는 모든 사람이 이메일을 받게 됩니다.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="126">
+			<buttonText style=""><![CDATA[Emma가 후속 이메일을 보냅니다]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Emma는 사람들의 지원에 감사하고 Sandy의 현재 상태에 대해 알리는 그룹 이메일을 후속으로 보냅니다. 많은 사람이 블로그의 의견 남기기 섹션에서 Sandy의 회복을 바라는 메시지를 올립니다. 꽤 많은 사람이 그녀를 위한 기금에 기부합니다.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="129">
+			<buttonText style=""><![CDATA[Emma는 부동산 블로그에 대한 두 번째 이메일을 보냅니다.]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[한 달 후, Emma는 자신의 블로그 링크가 포함된 또 다른 그룹 이메일을 보냅니다. 여기에는 판매 중인 최신 부동산 정보가 나와 있고 관심 있는 Johnson Controls 직원에게 먼저 보여주겠다는 제안이 담겨 있습니다.]]></text>			
+			</popText>
+		</accordion>	
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="151">			
+			<buttonText style=""><![CDATA[결과]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Emma와 Dan은 둘 다 직원 이메일 목록의 부적절한 사용과 직원 프라이버시 침해로 문책을 받습니다. Emma는 Sandy의 의료적 상태에 대한 정보를 블로그에 올리지 말았어야 합니다. 그리고 회사 전체로 보내는 이메일 통신을 사용하여 자신의 사업 고객을 모집하려고 해서는 안 되는 것이었습니다.]]></text>				
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

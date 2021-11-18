@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[คุณรับรู้ถึงการแข่งขันที่ไม่เป็นธรรมได้ดีแค่ไหน]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 16px;font-size:14px;"><![CDATA[คุณรับรู้ถึงการแข่งขันที่ไม่เป็นธรรมได้ดีแค่ไหน จับคู่ตัวอย่างการแข่งขันที่ไม่เป็นธรรมกับประเภทของข้อตกลงที่เกิดขึ้น]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;left:785px;top:0px;"><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;right: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 16px;">
+		<text><![CDATA[เลือกข้อมูลจากคอลัมน์แรก จากนั้นลากลูกศรไปจับคู่กับประเภทของการแข่งขันที่ไม่เป็นธรรมในคอลัมน์ที่สอง เมื่อเสร็จแล้วให้คลิก “ส่ง”]]></text>
+		<text><![CDATA[คลิกที่เครื่องหมายคำถามเพื่อเรียนรู้เพิ่มเติม]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[สถานการณ์สมมติ]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img01.png"><![CDATA[คู่แข่งสองฝ่ายตอนมื้อเที่ยง]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[คู่แข่งสองฝ่ายตอนมื้อเที่ยง]]></dragIcon>
+				<text style=""><![CDATA[คู่แข่งสองฝ่ายมาพบกันเพื่อรับประทานมื้อเที่ยง ฝ่ายหนึ่งตกลงที่จะมุ่งเน้นกำลังขายไปทางตอนเหนือของประเทศ ส่วนอีกฝ่ายจะมุ่งเน้นไปทางตอนใต้]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:553px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img02.png"><![CDATA[คู่แข่งสามฝ่ายกำลังพูดคุยกัน]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[คู่แข่งสามฝ่ายกำลังพูดคุยกัน]]></dragIcon>
+				<text style=""><![CDATA[คู่แข่งสามฝ่ายที่ครองตลาดเล็ก ๆ เดียวกันนั่งลงและวางแผนสำหรับปีหน้า ทั้งสามพิจารณาการประมูลที่จะมาถึงและตกลงกันว่าจะผลัดกันเป็นผู้ประมูลที่เสนอราคาต่ำที่สุด ขณะที่อีกสองฝ่ายจะเสนอราคาสูงจนผิดสังเกต]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:553px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img03.png"><![CDATA[ผู้บริหารฝ่ายขายระดับอาวุโสในการประชุมทางการค้า]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[ผู้บริหารฝ่ายขายระดับอาวุโสในการประชุมทางการค้า]]></dragIcon>
+				<text style=""><![CDATA[ในการประชุมทางการค้า ผู้บริหารฝ่ายขายระดับอาวุโสพูดคุยกันถึงซัพพลายเออร์รายใหญ่ที่สุดในตลาดที่ขึ้นราคาสินค้าอย่างไม่เป็นธรรม พวกเขาลงความเห็นที่จะลดการสั่งซื้อลงจำนวนมาก หรือยกเลิกไปเลยถ้าทำได้ แล้วหาซัพพลายเออร์อื่นจนกว่าราคาจะลดลง]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:553px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img04.png"><![CDATA[กลุ่มเครื่องหมายเปอร์เซ็นต์]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[กลุ่มเครื่องหมายเปอร์เซ็นต์]]></dragIcon>
+				<text style=""><![CDATA[กลุ่มคู่แข่งในโรงงานที่วัตถุดิบราคาสูงขึ้นมีข้อตกลงอย่างไม่เป็นทางการไม่ให้ลดราคาลูกค้าสูงกว่า 10%]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;left: 640px;">		
+			<heder><![CDATA[ประเภทของการแข่งขันที่ไม่เป็นธรรม]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 643px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[การจัดสรรตลาด]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img05.png"><![CDATA[แผนภูมิวงกลม]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 643px;top: 89px;height: 70px;">
+				<text><![CDATA[การร่วมกันกำหนดราคาประมูล]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img06.png"><![CDATA[นักธุรกิจสองคนร่วมมือกันในการประมูล]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 643px;top: 170px;height: 70px;">
+				<text><![CDATA[การคว่ำบาตรเฉพาะกลุ่ม]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img07.png"><![CDATA[กลุ่มธุรกิจตัดสินใจคว่ำบาตรลูกค้าเพื่อลงโทษ]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 643px;top: 251px;height: 70px;">
+				<text><![CDATA[การกำหนดราคา]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img08.png"><![CDATA[คู่แข่งสองฝ่ายกำหนดราคา]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="left: 712px;top: 130px;width: 236px;">
+				<text style=""><![CDATA[การแบ่งลูกค้าและขอบเขต หรือที่เรียกว่า "การจัดสรรตลาด" เกิดขึ้นเมื่อคู่แข่งทางการค้าตกลงที่จะแบ่งลูกค้า ผลิตภัณฑ์ หรือพื้นที่ทางภูมิศาสตร์ การกระทำดังกล่าวช่วยลดการแข่งขันในพื้นที่เฉพาะ และลดทางเลือกของผู้บริโภค]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="left: 712px;top: 130px;width: 236px;">
+				<text style=""><![CDATA[การร่วมกันกำหนดราคาประมูลเกิดขึ้นเมื่อคู่แข่งร่วมมือกันในการประมูลเพื่อส่งผลต่อผลลัพธ์ของขั้นตอนการประมูล]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 130px;width: 236px;">
+				<text style=""><![CDATA[บริษัทที่ไม่จับมือกับใคร โดยทั่วไปแล้วมีสิทธิ์ที่จะเลือกว่าจะทำธุรกิจกับใคร แต่เมื่อสองบริษัทหรือมากกว่าเห็นด้วยที่จะไม่ตกลงทำธุรกิจกับอีกบริษัท การคว่ำบาตรที่เกิดจากกลุ่มบริษัทนั้นอาจละเมิดกฎหมายการแข่งขันทางการค้า]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 130px;width: 236px;">
+				<text style=""><![CDATA[การกำหนดราคาเกี่ยวข้องกับข้อตกลงระหว่างคู่แข่งที่ร่วมมือกันด้านราคา และด้านการแข่งขันอื่น ๆ แทนที่จะแข่งขันอย่างเสรีและไม่ขึ้นกับใคร]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

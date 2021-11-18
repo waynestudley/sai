@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0" ><![CDATA[Let’s look at some every-day situations. Are these people putting personal data at risk?]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+	</transcript>
+	<contentText >
+		<text><![CDATA[Which of the following could be risks to data privacy?]]></text>
+	</contentText>
+	<contentBackground >		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769" ><![CDATA[Busy office, employee working on computer]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText >
+		<text><![CDATA[Select all the scenarios you believe put personal data at risk.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<extraInstructionText >
+		<text><![CDATA[There may be more than one correct answer.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px" >
+		<option ><![CDATA[Joining a public Wi-Fi]]></option>	
+		<option ><![CDATA[Using the same password in two places]]></option>	
+		<option ><![CDATA[Posting a picture from a team meeting with the whiteboard in the background on social media]]></option>	
+		<option ><![CDATA[Discussing financial information with a client on the phone in public]]></option>	
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback >
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Correct.]]></text>
+			<text><![CDATA[All of these examples pose a risk to the privacy of your data.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Incorrect.]]></text>
+			<text><![CDATA[All of these examples pose a risk to the privacy of your data.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

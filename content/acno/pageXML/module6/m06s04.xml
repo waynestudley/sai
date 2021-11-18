@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[¿Qué tan bien puede reconocer la competencia desleal?]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 16px;font-size:14px;"><![CDATA[¿Qué tan bien puede reconocer la competencia desleal? Una algunos ejemplos de competencia desleal con el tipo de acuerdo que se está celebrando.]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;left:785px;top:0px;"><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;right: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 16px;height:28px;">
+		<text><![CDATA[Seleccione un elemento de la primera columna y, luego, arrastre las flechas hacia el tipo correspondiente de competencia desleal en la segunda columna. Cuando termine, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en los signos de pregunta para saber más.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[SITUACIÓN]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img01.png"><![CDATA[Dos competidores almorzando]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Dos competidores almorzando]]></dragIcon>
+				<text style=""><![CDATA[Dos competidores se reúnen para almorzar. Uno acuerda concentrar los esfuerzos de ventas en el norte del país, mientras que el otro se centrará en el sur.]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:553px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img02.png"><![CDATA[Tres competidores hablando]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Tres competidores hablando]]></dragIcon>
+				<text style=""><![CDATA[Tres competidores que abastecen al mismo mercado pequeño se reúnen para planificar el próximo año. Revisan las próximas licitaciones y acuerdan turnarse para ser el ofertante con el precio más bajo, mientras los demás mantienen los precios demasiado altos para ser considerados.]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:553px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img03.png"><![CDATA[Ejecutivos de ventas séniores participando en una conferencia de comercio]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Ejecutivos de ventas séniores participando en una conferencia de comercio]]></dragIcon>
+				<text style="line-height: 12px;font-size: 13px;"><![CDATA[En una conferencia de comercio, varios ejecutivos de ventas de nivel sénior hablan sobre cómo la mayor empresa proveedora del mercado ha estado aumentando los precios de manera injusta. Se ponen de acuerdo en que reducirán considerablemente sus pedidos —o los cancelarán por completo cuando sea posible— y buscarán otro proveedor hasta que los precios vuelvan a bajar.]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:553px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img04.png"><![CDATA[Grupo de signos de porcentaje]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Grupo de signos de porcentaje]]></dragIcon>
+				<text style=""><![CDATA[Un grupo de competidores de una industria donde el precio de las materias primas está aumentando celebra un acuerdo informal de no permitir descuentos a los clientes de más del 10 %.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;left: 640px;">		
+			<heder><![CDATA[TIPO DE COMPETENCIA DESLEAL]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 643px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[Asignación de mercados]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img05.png"><![CDATA[Gráfico de torta]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 643px;top: 89px;height: 70px;">
+				<text><![CDATA[Manipulación de licitaciones]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img06.png"><![CDATA[Dos empresarios colaborando en una oferta]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 643px;top: 170px;height: 70px;">
+				<text><![CDATA[Boicot grupal]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img07.png"><![CDATA[Un grupo decidiendo boicotear a un cliente para castigarlo]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 643px;top: 251px;height: 70px;">
+				<text><![CDATA[Fijación de precios]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img08.png"><![CDATA[Dos competidores fijando un precio]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="left: 712px;top: 158px;width: 236px;">
+				<text style=""><![CDATA[El hecho de repartirse los clientes o territorios —conocido como “asignación de mercados”— tiene lugar cuando los competidores se ponen de acuerdo para dividir clientes, productos o áreas geográficas. Esta práctica reduce la competencia dentro de las áreas especificadas y también hace que los clientes tengan menos opciones para elegir.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="left: 712px;top: 158px;width: 236px;">
+				<text style=""><![CDATA[La manipulación de licitaciones se produce cuando los competidores coordinan sus ofertas a fin de influir en el resultado del proceso de licitación.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 158px;width: 236px;">
+				<text style=""><![CDATA[Por lo general, si una empresa lo decide por su cuenta, tiene derecho a elegir con quién hace negocios. No obstante, cuando dos o más empresas acuerdan no hacer negocios con otra empresa, el boicot entre ambas puede violar las leyes de competencia.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 158px;width: 236px;">
+				<text style=""><![CDATA[La fijación de precios implica un acuerdo entre competidores para coordinar sus precios u otros términos competitivos, en lugar de competir de forma libre e independiente el uno contra el otro.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

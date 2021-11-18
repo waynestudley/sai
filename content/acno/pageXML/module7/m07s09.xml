@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[Esta situación le ocurrió en la vida real a un empleado de Johnson Controls. ¿Qué haría en este caso? Seleccione una opción y, luego, haga clic en Enviar.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[Usted es gerente de categoría y se encuentra en una reunión de rutina con el comprador de un cliente. Durante la reunión, abre una base de datos confidencial de precios para clientes y volumen de ventas para responder a las preguntas del cliente. Mientras el cliente mira por encima de su hombro, insiste en que le envíe el archivo completo. ¿Qué hace?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[Un gerente de categoría en una reunión con el comprador de un cliente]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;">
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px;font-size:14px;">
+		<option><![CDATA[Compartir la base de datos con el cliente. El éxito de nuestros clientes es nuestra principal prioridad.]]></option>	
+		<option><![CDATA[Explicar que la base de datos incluye información de otros clientes, por lo que no puede compartirla. Si el cliente insiste, finalizar la reunión y ponerse en contacto con su gerente o el equipo del Departamento Legal para solicitar orientación.]]></option>	
+		<option><![CDATA[Acordar compartir la base de datos con el cliente, pero solo después de que firme un acuerdo de no divulgación.]]></option>	
+		<option><![CDATA[Ponerse en contacto con un abogado e iniciar un litigio contra el cliente antes de que pueda utilizar la información de propiedad exclusiva en su propio negocio.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-234px">
+			<text style="font-size:17px;"><![CDATA[La respuesta es correcta.]]></text>
+			<text style="font-size:15px;line-height:20px;"><![CDATA[Los datos de los clientes, como la información bancaria y de contacto, siempre se proporcionan a Johnson Controls con la expectativa de que mantengamos su confidencialidad.]]></text>
+			<text style="font-size:15px;line-height:20px;"><![CDATA[Este tipo de datos de propiedad exclusiva de los clientes nunca se puede compartir con otros clientes de Johnson Controls.]]></text>
+			<text style="font-size:15px;line-height:20px;"><![CDATA[Las siguientes podrían ser algunas consecuencias de compartir esta información: <ul> <li>Podríamos ser demandados por los clientes cuya información fue divulgada.</li> <li>Podríamos ser acusados de fijación de precios.</li> <li>Podríamos poner en riesgo nuestros derechos de propiedad intelectual sobre la base de datos.</li> <li>Podríamos poner en peligro nuestra capacidad de ofrecer servicios de administración de categorías a nuestros clientes.</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-234px">
+			<text style="font-size:17px;"><![CDATA[La respuesta no es correcta.]]></text>
+			<text style="font-size:15px;line-height:20px;"><![CDATA[Los datos de los clientes, como la información bancaria y de contacto, siempre se proporcionan a Johnson Controls con la expectativa de que mantengamos su confidencialidad.]]></text>
+			<text style="font-size:15px;line-height:20px;"><![CDATA[Este tipo de datos de propiedad exclusiva de los clientes nunca se puede compartir con otros clientes de Johnson Controls.]]></text>
+			<text style="font-size:15px;line-height:20px;"><![CDATA[Las siguientes podrían ser algunas consecuencias de compartir esta información: <ul> <li>Podríamos ser demandados por los clientes cuya información fue divulgada.</li> <li>Podríamos ser acusados de fijación de precios.</li> <li>Podríamos poner en riesgo nuestros derechos de propiedad intelectual sobre la base de datos.</li> <li>Podríamos poner en peligro nuestra capacidad de ofrecer servicios de administración de categorías a nuestros clientes.</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

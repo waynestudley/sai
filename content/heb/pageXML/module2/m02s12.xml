@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s12" id="0"><![CDATA[ודא שאתה מבין מה מקובל ומה לא בכל הקשור לבידור. בחר 'מקובל' או 'לא מקובל' עבור אפשרויות אלה, ולאחר מכן לחץ על 'שלח'.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module2/m02s12/contentBackground.jpg" minwidth="769"><![CDATA[מלצר מביא את ההמחאה]]></img>
+	</contentBackground>
+	<contentBg style="width: 686px;left: 318px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[החלט אם עולות אלה הן מקובלות או לא מקובלות.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[בחר 'מקובל' או 'לא מקובל' עבור כל אפשרות, ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="width:690px;margin-top:0px;" tickSt="left:12px;" crossSt="left:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s12/img01.png"><![CDATA[4 כרטיסים לאירוע ספורט]]></img>
+			<text style="width: 356px;"><![CDATA[ספק שירות מציע לך ארבעה כרטיסים לאירוע ספורט חשוב יחד איתו. כל כרטיסים שווה כ-100 דולר, לכן לפני שאתה מקבל את הצעתו, אתה מדווח עליה.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s12/img02.png"><![CDATA[עובד בודק הצעת מחיר]]></img>
+			<text style="width: 356px;"><![CDATA[אתה מגלה שקיימת הצעת מחיר פתוחה מול ספק שירות זה, אך אינך מעורב ישירות כך שאתה מחליט לקבל את הכרטיסים.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s12/img04.png"><![CDATA[עובדת וספק שירות מדברים]]></img>	
+			<text style="width: 356px;"><![CDATA[ספק שירות אחר שאינו מעורב בהצעות מחיר פעילות מציע לך כרטיסים חלופיים לאירוע קטן יותר, כשכל כרטיס שווה 20 דולר. אתה מסרב לקבל כרטיסים אלה מכיוון שאתה מעדיף את הכרטיסים לאירוע הגודל.]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:227px;">
+		<text styleWidth="width:110px;"><![CDATA[מקובל]]></text>
+		<text styleWidth="width:110px;"><![CDATA[לא מקובל]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -40px;width: 258px;height: auto;padding-top: 20px;left: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[נכון.]]></text>			
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>מאחר שערכם של הכרטיסים לאירוע הגדול גבוה מ-200 דולר, עליך לדווח עליהם.</li> <li>לעולם אין לתת או לקבל מתנות או בידור מלקוחות או ספקי שירות בתקופה שבה מתנהל משא ומתן על הצעות מחיר לחוזים.</li><li>הערך של כרטיסים אלה הולם יותר, אבל אפילו אירוע בידור זה עשוי להיות בלתי הולם אם זהו ניסיון להשפיע עליך באופן לא ראוי.</li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -40px;width: 258px;height: auto;padding-top: 20px;left: -295px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[לא נכון.]]></text>	
+			<text style="font-size: 16px;"><![CDATA[<ul> <li>מאחר שערכם של הכרטיסים לאירוע הגדול גבוה מ-200 דולר, עליך לדווח עליהם.</li> <li>לעולם אין לתת או לקבל מתנות או בידור מלקוחות או ספקי שירות בתקופה שבה מתנהל משא ומתן על הצעות מחיר לחוזים.</li><li>הערך של כרטיסים אלה הולם יותר, אבל אפילו אירוע בידור זה עשוי להיות בלתי הולם אם זהו ניסיון להשפיע עליך באופן לא ראוי.</li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

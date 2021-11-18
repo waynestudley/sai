@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c03s07">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3" ><![CDATA[Click on Next to continue.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle="" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText >
+		<text><![CDATA[Ingrid suspects the wine Hilde ordered was very expensive. What should she do? ]]></text>
+	</contentText>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText >
+		<text><![CDATA[Choose one option then select OK.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1" ><![CDATA[Allow the dinner to continue and just hope no one will notice the cost of the wine on her expense report.]]></option>
+		<option answer="1" feedbackId="2" ><![CDATA[Allow the dinner to continue because she can’t refuse to pay for the wine without creating an awkward situation. However, she intends to ask for a separate receipt for the wine and pay for it personally.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Speak to Hilde privately before the wait staff prepares the wine and tell her that the cost of the wine won’t be approved by her company. Hilde has the choice to pay for it herself or they can order a more affordable bottle.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="" >
+			<text style="padding-top:12px;"><![CDATA[Ingrid pays for the dinner and submits her expense report.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[Ingrid pays for the dinner and submits her expense report without including the wine.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[Hilde seems surprised when Ingrid tells her that she can’t pay for the wine. But at the end of the night, she asks for separate checks and pays for it herself.]]></text>
+		</correct>
+	</feedback>
+</contents>

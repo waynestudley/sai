@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[Tato situace nastala ve skutečném životě jednoho ze zaměstnanců společnosti Johnson Controls. Jak byste situaci řešili? Vyberte jednu možnost a pak klikněte na tlačítko Odeslat.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Jste vedoucím kategorie a právě jste na běžné schůzce s kupujícím zákazníka. Během schůzky otevřete důvěrnou databázi informací o cenách a objemech prodeje zákazníků, abyste zodpověděli dotazy klienta. Klient přes vaše rameno zahlédne databázi a trvá na tom, abyste mu poslali celý soubor. Co uděláte?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[Vedoucí kategorie na schůzce s kupujícím zákazníka]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;">
+		<text><![CDATA[Vyberte jednu možnost a pak klikněte na tlačítko Odeslat.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Poskytnete klientovi celou databázi. Úspěch klientů je naší hlavní prioritou.]]></option>	
+		<option><![CDATA[Vysvětlíte, že databáze obsahuje informace týkající se jiných zákazníků, a proto ji nemůžete poskytnout. Trvá-li klient na svém požadavku, ukončíte schůzku a požádáte o radu nadřízeného nebo právní oddělení.]]></option>	
+		<option><![CDATA[Souhlasíte s tím, že klientovi databázi poskytnete, ale nejprve musí podepsat dohodu o mlčenlivosti.]]></option>	
+		<option><![CDATA[Obrátíte se na právníka a podáte na klienta žalobu dříve, než bude moci chráněné informace využít ve svém podnikání.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-234px">
+			<text style="font-size:17px;"><![CDATA[Správně.]]></text>
+			<text><![CDATA[Údaje o zákaznících, například kontaktní či bankovní údaje, jsou společnosti Johnson Controls vždy poskytovány s očekáváním, že zajistíme jejich důvěrnost.]]></text>
+			<text><![CDATA[Tento typ chráněných údajů o zákaznících nesmí společnost Johnson Controls sdílet s jinými svými zákazníky.]]></text>
+			<text><![CDATA[Poskytnutí těchto údajů může mít například tyto důsledky: <ul> <li>Mohou nás zažalovat zákazníci, jejichž údaje jsme poskytli.</li> <li>Můžeme být obviněni z cenové dohody.</li> <li>Můžeme ohrozit svá práva duševního vlastnictví k databázi.</li> <li>Můžeme ohrozit svou schopnost poskytovat zákazníkům služby řízení kategorií zboží.</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-234px">
+			<text style="font-size:17px;"><![CDATA[To není správně.]]></text>
+			<text><![CDATA[Údaje o zákaznících, například kontaktní či bankovní údaje, jsou společnosti Johnson Controls vždy poskytovány s očekáváním, že zajistíme jejich důvěrnost.]]></text>
+			<text><![CDATA[Tento typ chráněných údajů o zákaznících nesmí společnost Johnson Controls sdílet s jinými svými zákazníky.]]></text>
+			<text><![CDATA[Poskytnutí těchto údajů může mít například tyto důsledky: <ul> <li>Mohou nás zažalovat zákazníci, jejichž údaje jsme poskytli.</li> <li>Můžeme být obviněni z cenové dohody.</li> <li>Můžeme ohrozit svá práva duševního vlastnictví k databázi.</li> <li>Můžeme ohrozit svou schopnost poskytovat zákazníkům služby řízení kategorií zboží.</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

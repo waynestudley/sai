@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s26">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[يقترح كريس التوجه إلى نادٍ شهير قريب للرجال. وقد بدا أن مجموعة من أفراد الفريق الآخرين يرغبون في الذهاب.]]></text>
+		<text><![CDATA[كيف يجب أن يرد كارلوس على ذلك؟]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c03/m10c03s26/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[زيارة النادي مع كريس وفريقه، مع الإصرار على الدفع بحيث لا تكون استضافة كريس لهم مكلفة للغاية.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[الذهاب معه وتناول مشروب واحد للتعبير عن أنه مهذب وتجنب إحراج كريس، مع التحقق من مغادرة المكان بعد فترة قصيرة.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[رفض العرض بطريقة مهذبة والعودة للمنزل.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[يزور كارلوس النادي مع كريس وفريقه.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[يزور كارلوس النادي مع كريس وفريقه، إلا أنه يغادر المكان بعد الوصول إلى النادي بفترة قصيرة.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[دخل أحد أفراد فريق كريس في شجار أثناء التواجد في النادي. وتم استدعاء الشرطة، وفي وقت لاحق، كان يجب على بعض أفراد المجموعة الذهاب إلى المحكمة كشهود.]]></text>
+			<text><![CDATA[ولكن نظرًا لأن كارلوس غادر بعد العشاء ولم ينضم إليهم في النادي، لم يشارك في الشجار ولم تتم دعوته إلى المحكمة. ولقد حماه قراره بمغادرة النادي من تعريضه للحرج، سواء هو أو شركة Johnson Controls بالتبعية.]]></text>
+		</correct>
+	</feedback>
+</contents>

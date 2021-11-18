@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma ist entsetzt über Sandys Situation. Sie ist der Meinung, dass es hilfreich sein könnte, andere um Hilfe zu bitten. Wie kann Emma ihrer Kollegin helfen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:15px;">
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Sandy überraschen, indem sie online eine Crowdfunding-Website einrichtet, um über Sandys Heilungsprozess und ihre finanziellen Schwierigkeiten zu berichten sowie Spenden für die Behandlungskosten zu sammeln.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Ihren Maklerblog nutzen, um mehr Leute auf die Spendensammlung der Familie aufmerksam zu machen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Sandy um Erlaubnis bitten, bevor sie auf jemanden zugeht oder in sozialen Medien über den Unfall und Sandys Heilungsprozess schreibt.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Emma erstellt eine Crowdfunding-Website für Sandy und nennt Informationen zu Sandys Verletzungen und ihrer aktuellen Prognose.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma verzeichnet sehr viel Verkehr auf ihrer Website und ihrem Blog. Deshalb betrachtet sie dies als einen guten Weg, mehr Leute auf Sandys Notlage aufmerksam zu machen und zu Spenden zu bewegen. Sie beschließt, auf ihrer Maklerwebsite und in ihrem Maklerblog Informationen zu Sandys Unfall und der Spendensammlung ihrer Familie zu veröffentlichen.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:230px;" fcStyle="top:-212px;">
+			<text style="padding-top:25px;"><![CDATA[Emma bittet Sandy um Erlaubnis, in ihrem Blog einen Artikel über den Unfall veröffentlichen zu dürfen, um Spenden für Sandys Behandlungskosten zu sammeln.]]></text>
+			<text><![CDATA[Sandy stimmt zu, möchte aber, dass stattdessen an die medizinische Einrichtung gespendet wird.]]></text>
+			<text><![CDATA[Indem sie bei Sandy nachfragt, welche Informationen sie veröffentlichen darf und wie personenbezogene Informationen eingesetzt werden sollen, gewährleistet Emma, dass sie Sandys personenbezogene Informationen nicht missbräuchlich einsetzt und ihre Privatsphäre respektiert.]]></text>
+		</correct>
+	</feedback>
+</contents>

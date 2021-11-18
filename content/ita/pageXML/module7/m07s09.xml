@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m07s09">
+	<transcript>
+		<text path="audio/module7/m07s09" id="0"><![CDATA[Questo scenario si è presentato realmente a un dipendente Johnson Controls. Che cosa faresti in questa situazione? Seleziona un’opzione, quindi fai clic su Inoltra.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Sei un manager di categoria e stai partecipando a una riunione di routine con l’acquirente di un cliente. Durante la riunione, apri un database riservato relativo ai prezzi e ai volumi di vendita per rispondere alle domande del cliente. Mentre il cliente ti osserva alle spalle, insiste perché gli invii il file completo. Che cosa dovresti fare?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s09/contentBackground.jpg" minwidth="769"><![CDATA[Manager di categoria che partecipa a una riunione con l’acquirente di un cliente]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom:8px;">
+		<text><![CDATA[Seleziona un’opzione, quindi fai clic su Inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Condividere il database con il cliente. Il successo del cliente è una nostra priorità essenziale]]></option>	
+		<option><![CDATA[Spiega al cliente che il database include le informazioni relative ad altri clienti, per questo motivo non lo puoi condividere. Se il cliente insiste, poni fine alla riunione e contatta il tuo responsabile o il team legale per domandare indicazioni]]></option>	
+		<option><![CDATA[Accetta di condividere il database con il cliente ma solo dopo avergli fatto firmare un accordo di non divulgazione]]></option>	
+		<option><![CDATA[Contatta un legale e avvia un contenzioso contro il cliente prima che possa utilizzare le informazioni di proprietà nella sua attività]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-280px">
+			<text style="font-size:16px;line-height:20px;"><![CDATA[Risposta corretta.]]></text>
+			<text style="font-size:15px;line-height:19px;"><![CDATA[I dati dei clienti, così come i dettagli relativi ai contatti e a quelli bancari, vengono sempre forniti a Johnson Controls presupponendo che vengano tenuti riservati.]]></text>
+			<text style="font-size:15px;line-height:19px;"><![CDATA[Questo tipo di dati di proprietà relativi ai clienti non può essere condiviso con altri clienti di Johnson Controls per nessun motivo.]]></text>
+			<text style="font-size:15px;line-height:19px;"><![CDATA[Alcune conseguenze derivanti dalla condivisione di tali informazioni potrebbero consistere in: <ul> <li>una possibile citazione in giudizio della nostra società da parte dei clienti le cui informazioni sono state divulgate</li> <li>una possibile accusa di fissazione dei prezzi</li> <li>una possibile messa in pericolo dei nostri diritti relativi alla Proprietà intellettuale sul database</li> <li>una possibile messa a repentaglio della nostra capacità di offrire dei servizi di gestione per categoria ai nostri clienti</li> </ul>]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-280px">
+			<text style="font-size:16px;line-height:20px;"><![CDATA[Risposta errata.]]></text>
+			<text style="font-size:15px;line-height:19px;"><![CDATA[I dati dei clienti, così come i dettagli relativi ai contatti e a quelli bancari, vengono sempre forniti a Johnson Controls presupponendo che vengano tenuti riservati.]]></text>
+			<text style="font-size:15px;line-height:19px;"><![CDATA[Questo tipo di dati di proprietà relativi ai clienti non può essere condiviso con altri clienti di Johnson Controls per nessun motivo.]]></text>
+			<text style="font-size:15px;line-height:19px;"><![CDATA[Alcune conseguenze derivanti dalla condivisione di tali informazioni potrebbero consistere in: <ul> <li>una possibile citazione in giudizio della nostra società da parte dei clienti le cui informazioni sono state divulgate</li> <li>una possibile accusa di fissazione dei prezzi</li> <li>una possibile messa in pericolo dei nostri diritti relativi alla Proprietà intellettuale sul database</li> <li>una possibile messa a repentaglio della nostra capacità di offrire dei servizi di gestione per categoria ai nostri clienti</li> </ul>]]></text>
+		</incorrect>
+	</feedback>
+</contents>

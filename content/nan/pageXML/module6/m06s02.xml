@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[您對於競爭法所提倡的目的有多少了解？ 選取您認為正確的所有選項，然後按一下「提交」。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[競爭法的目的是什麼？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[正義天平]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[請選擇所有適用的選項。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[可能會有多個正確答案。]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[增加消費者的選擇]]></option>	
+		<option><![CDATA[設立貿易障礙]]></option>	
+		<option><![CDATA[遏止特定產業的發展]]></option>	
+		<option><![CDATA[鼓勵公平交易]]></option>	
+		<option><![CDATA[獎勵創新與持續進步]]></option>	
+		<option><![CDATA[懲罰過於成功的公司]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="padding-bottom: 20px;" fcStyle="top:-241px;">
+			<text><![CDATA[正確。]]></text>
+			<text><![CDATA[競爭法的存在是要確保公司的成功合理合法： 因為他們能夠提供最好的產品、服務和價格。 這些法律的用意並不是要懲罰成功、遏止發展或設立貿易障礙。]]></text>
+			<text><![CDATA[競爭法會影響我們與外界的互動方式，包括競爭對手、供應商、經銷商和客戶。]]></text>
+			<text><![CDATA[因此您一定要熟知競爭法如何適用於您，並在工作和執行業務時確實遵循這些法律。 本單元涵蓋競爭法的原則和實務說明。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="padding-bottom: 20px;" fcStyle="top:-241px;">
+			<text><![CDATA[錯誤。]]></text>
+			<text><![CDATA[競爭法的存在是要確保公司的成功合理合法： 因為他們能夠提供最好的產品、服務和價格。 這些法律的用意並不是要懲罰成功、遏止發展或設立貿易障礙。]]></text>
+			<text><![CDATA[競爭法會影響我們與外界的互動方式，包括競爭對手、供應商、經銷商和客戶。]]></text>
+			<text><![CDATA[因此您一定要熟知競爭法如何適用於您，並在工作和執行業務時確實遵循這些法律。 本單元涵蓋競爭法的原則和實務說明。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[不公平な競争をどの程度認識できているでしょうか？]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 16px;font-size:13px;width: 840px;"><![CDATA[不公平な競争をどの程度認識できているでしょうか？ 不公平な競争のいくつかの例と、発生している合意の種類をつなげましょう。]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;left:785px;top:0px;"><![CDATA[送信]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;right: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>	
+	<instructionText style="margin-top:10px; width:858px;line-height: 16px;height:32px;">
+		<text><![CDATA[最初の列から項目を選択し、矢印を2列目のマッチする不公平な競争のタイプまでドラッグします。 終わったら「送信」をクリックします。]]></text>
+		<text><![CDATA[クエスチョンマークをクリックして、さらに詳しく学習しましょう。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[シナリオ]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img01.png"><![CDATA[昼食をとっている2つの競合企業]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[昼食をとっている2つの競合企業]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[2つの競合企業が一緒に昼食をとっています。 ある企業が南に営業を集中させ、もう1つの企業が北に営業を集中させることに合意しました。]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:553px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img02.png"><![CDATA[3社の競合企業]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[3社の競合企業]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[同じ小規模市場を扱う3社の競合企業が、来年の計画を練っています。 これらの会社は今後の入札を確認し、交代で最低価格の入札者となり、他社は高額すぎると考えられる価格を提示することに同意しました。]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:553px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img03.png"><![CDATA[取引会議の上級販売役員]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[取引会議の上級販売役員]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[貿易会議にて、何人かの上級販売役員が、市場で最大のサプライヤーがどのように価格を不当に釣り上げていたかについて議論しています。 上級販売役員は、大幅にサプライヤーへの注文を減らし（可能な場合は完全にキャンセルし）、価格が下がるまで別のサプライヤーを探すことに同意しました。]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:553px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img04.png"><![CDATA[グループの割合サイン]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[グループの割合サイン]]></dragIcon>
+				<text style="font-size:13px;"><![CDATA[原材料の価格が高騰している産業の競合企業は、顧客が10%以上割引することを許可しない公的な合意をしました。]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;left: 640px;">		
+			<heder><![CDATA[不公平な競争の種類]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 643px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[市場分割]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img05.png"><![CDATA[円グラフ]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 643px;top: 89px;height: 70px;">
+				<text><![CDATA[入札談合]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img06.png"><![CDATA[入札で協力している2人のビジネスパーソン]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 643px;top: 170px;height: 70px;">
+				<text><![CDATA[団体ボイコット]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img07.png"><![CDATA[罰のために顧客をボイコットすることを決定した団体]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 643px;top: 251px;height: 70px;">
+				<text><![CDATA[価格協定]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img08.png"><![CDATA[価格協定を行う2社の競合企業]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="left: 712px;top: 153px;width: 236px;">
+				<text style=""><![CDATA[市場分割と言われる、顧客または領域の分断は、競合企業が顧客、製品、地理的エリアを分割することに合意したときに発生します。 市場分割を行うことは、特定のエリア内で競合企業を減らし、顧客の選択肢を減らしてしまいます。]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="left: 712px;top: 153px;width: 236px;">
+				<text style=""><![CDATA[競合企業が入札で協力し、入札プロセスの結果に影響を与えるとき、入札談合が発生します。]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 153px;width: 236px;">
+				<text style=""><![CDATA[個別で活動する会社は、通常ビジネスを行う相手を選択する権利があります。 しかし、複数の企業がある会社と取引することに同意しないとき、それらのボイコットは競争法に違反する可能性があります。]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 153px;width: 236px;">
+				<text style=""><![CDATA[価格協定には、お互いに完全に自由で独立しているのではなく、価格や他の競合規約を調整するための競合企業間の合意を含みます。]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

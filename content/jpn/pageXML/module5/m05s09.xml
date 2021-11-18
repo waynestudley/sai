@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m05s09" maxAttempt="2">
+	<transcript>
+		<text path="audio/module5/m05s09" id="0"><![CDATA[あなたの番です。 これらの品目のうち何が輸出で、何が輸出ではないかの認識度を確認します。 それぞれの品目を「輸出」または「輸出ではない」ボックスにドラッグし、「提出」をクリックします。]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px;font-size:14px;line-height:20px;"><![CDATA[何が輸出で、何が輸出ではないかを識別する自信がどのくらいありますか？ これらの品目それぞれに対して、輸出か輸出ではないか判断してください。]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s09/contentBackground.jpg" minwidth="769"><![CDATA[会社の書類を持って作業している従業員]]></img>
+	</contentBackground>
+	 <contentBg style="top: 20px;"></contentBg>
+	<pageTitle style="width: 588px;margin-bottom:6px;line-height:26px;"></pageTitle>
+	<instructionText style="width: 588px;margin-top:6px;line-height:23px;">
+		<text><![CDATA[２つのボックスのうち1つにそれぞれの品目をドラッグし、「提出」をクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+		<text><![CDATA[「再度挑戦する」をクリックし、再挑戦します。]]></text>
+		<text><![CDATA[「回答を表示する」ボタンをクリックします。]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 330px; padding: 4px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[状況]]></lable> 
+		<option>			
+			<option height="52px" left="0" top="27px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[設計情報をオンラインに投稿する]]></option>
+		</option>
+		<option>			
+			<option height="52px" left="0" top="88px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[工場見学中に、別の国から来た顧客に、輸出規制のかかっている技術情報を見せる]]></option>
+		</option>
+		<option>			
+			<option height="52px" left="0" top="149px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[国際的なニュース雑誌に、HVACの将来についての技術文書を載せる]]></option>
+		</option>
+		<option>			
+			<option height="52px" left="0" top="210px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[別の国の市民権を持つ顧客に、新製品の設計や、Johnson Controlsの製品の最終品目の統合に関するサポートを提供する]]></option>
+		</option>
+		<option>			
+			<option height="52px" left="0" top="271px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[国際的なサプライヤーと共有するウェブベースのポータルに設計図をアップロードする]]></option>
+		</option>
+		<option>			
+			<option height="52px" left="0" top="332px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[現地の従業員か同国の市民権を持つ従業員にアクセスを制限している場合、技術文書を社内コンピュータに保管する]]></option>
+		</option>
+		<option>			
+			<option height="52px" left="0" top="393px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[顧客があなたの国の市民権を持ち、ビジネスに協力している場合は、お住まいの町の顧客に製品を郵送する]]></option>
+		</option>
+		<option>			
+			<option height="52px" left="0" top="455px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[別の国の顧客に電子メールを送信してディナーに招待し、最近の成功を祝う]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="1" topGap="149" bottomGap="33">
+		<dropArea maxDrop="5" style="width:312px;left: 355px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="5" style="width:312px;left: 670px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[輸出]]></text>
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[輸出ではない]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[ここにドロップ]]></text>
+		<text style="width:301px;left: 277px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[ここにドロップ]]></text>
+		<text style="width:301px;left: 277px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[ここにドロップ]]></text>
+		<text style="width:301px;left: 277px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[ここにドロップ]]></text>
+		<text style="width:301px;left: 277px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[ここにドロップ]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[ここにドロップ]]></text>
+		<text style="width:301px;left: 593px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[ここにドロップ]]></text>
+		<text style="width:301px;left: 593px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[ここにドロップ]]></text>
+		<text style="width:301px;left: 593px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[ここにドロップ]]></text>
+		<text style="width:301px;left: 593px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[ここにドロップ]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 480px;left: 220px;z-index: 10; width: 125px;"><![CDATA[送信]]></text>
+		<text style="position:absolute;top: 480px;left: 220px;z-index: 10; width: 125px;"><![CDATA[再度挑戦する]]></text>	
+		<text style="position:absolute;top: 480px;left: 220px;z-index: 10; width: 125px;"><![CDATA[回答を表示する]]></text>	
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct style="top: 146px;height: 145px;"> 
+			<text style="font-size:17px;"><![CDATA[正解です。]]></text>
+			<text><![CDATA[何が輸出で何が輸出ではないかわからない場合は、貿易コンプライアンスの専門家に相談するようにしてください。]]></text>
+			
+		</correct>
+		<incorrect style="top: 146px;height: 145px;"> 
+			<text style="font-size:17px;"><![CDATA[残念。間違っています。.]]></text>
+			<text><![CDATA[何が輸出で何が輸出ではないかわからない場合は、貿易コンプライアンスの専門家に相談するようにしてください。]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

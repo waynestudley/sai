@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Ingrid mengesyaki bahawa wain yang telah dipesan oleh Hilde sangat mahal. Apakah yang patut dia lakukan? ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Teruskan menikmati makan malam dan cuma berharap tiada sesiapa yang akan sedar tentang harga wain tersebut pada laporan perbelanjaannya.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Teruskan menikmati makan malam kerana dia tidak boleh mengelak daripada membayar harga wain tersebut tanpa mewujudkan situasi yang kekok. Walau bagaimanapun, dia berniat untuk meminta resit yang berasingan untuk wain tersebut dan membayarnya secara peribadi.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Bercakap dengan Hilde secara peribadi sebelum menunggu kakitangan menyediakan wain tersebut dan beritahu kepadanya bahawa harga wain tersebut tidak akan diluluskan oleh syarikatnya. Hilde mempunyai pilihan untuk membayar sendiri atau mereka boleh memesan botol yang lebih mampu milik.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Ingrid membayar hidangan makan malam dan menyerahkan laporan perbelanjaannya.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Ingrid membayar hidangan makan malam dan menyerahkan laporan perbelanjaannya tanpa memasukkan harga wain.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Hilde kelihatan terkejut ketika Ingrid memberitahu kepadanya yang dia tidak boleh membayar harga wain tersebut. Tetapi akhirnya, dia meminta bil berasingan dan membayarnya sendiri.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0" ><![CDATA[How much do you know about what competition laws promote? Select all the options you think are true here, and then click on Submit.]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+	</transcript>
+	<contentText >
+		<text><![CDATA[What purpose do competition laws serve?]]></text>
+	</contentText>
+	<contentBackground >		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769" ><![CDATA[Scale of justice]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText >
+		<text><![CDATA[Select all that apply.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<extraInstructionText >
+		<text><![CDATA[There may be more than one correct answer.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:10px 15px 17px">
+		<option ><![CDATA[Promote consumer choice]]></option>	
+		<option ><![CDATA[Introduce trade barriers]]></option>	
+		<option ><![CDATA[Discourage growth in certain industries]]></option>	
+		<option ><![CDATA[Encourage fair business dealings]]></option>	
+		<option ><![CDATA[Reward innovation and continuous improvement]]></option>	
+		<option ><![CDATA[Punish companies who are too successful]]></option>	
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback >
+		<correct transcriptId="1" style="" fcStyle="top:-235px" >
+			<text><![CDATA[That’s correct.]]></text>
+			<text><![CDATA[Competition laws aim to ensure that companies are successful for the right reasons: because they offer the best products, services and prices. They are not intended to punish success, discourage growth or introduce trade barriers.]]></text>
+			<text><![CDATA[Competition laws affect the way we interact with the outside world, including competitors, suppliers, distributors and customers.]]></text>
+			<text><![CDATA[It's very important that you know how competition laws apply to you and that you comply with these laws wherever you work and do business. In this module, we'll cover competition law principles and practices.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-235px" >
+			<text><![CDATA[That’s not correct.]]></text>
+			<text><![CDATA[Competition laws aim to ensure that companies are successful for the right reasons: because they offer the best products, services and prices. They are not intended to punish success, discourage growth or introduce trade barriers.]]></text>
+			<text><![CDATA[Competition laws affect the way we interact with the outside world, including competitors, suppliers, distributors and customers.]]></text>
+			<text><![CDATA[It's very important that you know how competition laws apply to you and that you comply with these laws wherever you work and do business. In this module, we'll cover competition law principles and practices.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

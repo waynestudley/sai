@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[ספק מרכזי ביקש תשלום מידי. מה לדעתך חנן צריך לעשות? בחר אפשרות אחת ולאחר מכן לחץ על 'אישור'.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[על חנן מופעל לחץ לאשר תשלום מידי לחשבונית של ספק, והצלחת הפרויקט עשויה להיות תלויה בכך.]]></text>
+		<text><![CDATA[מה עליו לעשות?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[חנן בשיחת טלפון עם נועם במטבח שלו]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[להגיד לנועם לאשר את התשלום. יש היגיון להוציא 1000 דולר כדי למנוע קנסות הרבה יותר כבדים בגין עיכוב במסירה.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[להגיד לנועם לא לאשר את התשלום עד שהוא יברר איזה שימוש ייעשה בכסף בהקשר של השגת ההיתרים.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[חנן אומר להנהלת חשבונות לשלם את החשבונית. נראה שזוהי הדרך הטובה ביותר להבטיח עמידה בלוח הזמנים של הפרויקט, והמחיר פחות יקר מקנסות שישולמו ללקוח.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[לאחר השיחה עם נועם, חנן מוטרד מבקשתו של הספק.]]></text>
+		</correct>
+	</feedback>
+</contents>

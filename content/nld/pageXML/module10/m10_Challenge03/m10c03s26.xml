@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s26">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Chris stelt voor dat ze naar een populaire herenclub een beetje verder in de straat gaan. Sommige andere teamleden lijken geïnteresseerd om te gaan.]]></text>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Hoe moet Carlos reageren?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s26/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+	</instructionText>
+	<optionContent style="font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Met Chris en zijn team naar de club gaan, maar zelf betalen zodat de gastvrijheid van Chris niet te buitensporig is.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Een drankje meepikken uit beleefdheid en om Chris niet voor het hoofd te stoten, maar niet te lang blijven.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Het aanbod beleefd afwijzen en naar huis gaan.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos gaat naar de club met Chris en zijn team.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos gaat naar de club met Chris en zijn team, maar blijft niet lang.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Een van de teamleden van Chris raakt verwikkeld in een vechtpartij terwijl ze in de club zijn. De politie wordt erbij geroepen en op een later tijdstip zal de volledige groep voor de rechter moeten verschijnen om te getuigen.]]></text>
+			<text><![CDATA[Aangezien Carlos na het diner is vertrokken en niet naar de club is gegaan, was hij hiervan geen getuige en hoeft hij dus niet naar de rechtbank. Zijn beslissing om de club te verlaten heeft hemzelf en Johnson Controls schaamte bespaard.]]></text>
+		</correct>
+	</feedback>
+</contents>

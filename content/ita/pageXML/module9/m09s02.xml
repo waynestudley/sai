@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m09s02">
+	<transcript>
+		<text path="audio/module9/m09s02" id="0"><![CDATA[Ecco alcune persone che erano convinte di aiutare le loro società, ma che in realtà le hanno messe in serio pericolo. Seleziona ogni persona per saperne di più.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Puoi comprendere per quale motivo le informazioni sulla concorrenza risulterebbero così preziose! Tuttavia, a prescindere da quanto potrebbero essere utili, non dobbiamo mai accettare informazioni sulla concorrenza ottenute mediante azioni illecite o contrarie all'etica, come quelle illustrate di seguito.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s02/contentBackground.jpg" minwidth="769" />
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Seleziona ciascuna persona.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 205px;">
+		<revealCallOut width="230px" height="190px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn1.png" minwidth="769"><![CDATA[Dipendente uomo]]></img>
+			<buttonText style="height: 58px;"><![CDATA[Fingere di essere qualcun altro]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 70px;top: 25px;">
+				<text><![CDATA[Ho contattato un concorrente fingendo di essere un cliente. Ho pensato che scoprire qualcosa riguardo ai loro prezzi mi avrebbe aiutato a competere contro di loro.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn2.png" minwidth="769"><![CDATA[Dipendente uomo]]></img>
+			<buttonText style="height: 58px;"><![CDATA[Controllare la spazzatura]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 70px;top: 25px;">
+				<text><![CDATA[Una sera dopo il lavoro ho controllato i cassonetti fuori dagli uffici di un concorrente. Infatti, sono riuscito a scovare delle informazioni relative ai lanci del loro nuovo prodotto.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn3.png" minwidth="769"><![CDATA[Dipendente donna]]></img>
+			<buttonText style="height: 58px;line-height: 17px"><![CDATA[Pagare qualcuno per ottenere delle informazioni riservate]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 70px;top: 25px;">
+				<text><![CDATA[Ho pagato un ex dipendente affinché mi fornisse le password alle reti informatiche dell’azienda. Ho ottenuto molte informazioni importanti e nessuno si è mai accorto del mio accesso.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="749px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn4.png" minwidth="769"><![CDATA[Dipendente donna]]></img>
+			<buttonText style="height: 58px;line-height: 17px"><![CDATA[Colludere con un cliente che agisce contrariamente all’etica]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top:25px;" textDivWidth="910px">
+				<text><![CDATA[Ho incontrato un cliente prima di presentare un’offerta per un progetto imminente. Durante la riunione, il cliente si è assentato per poco dalla stanza dicendomi di dare un’occhiata alla cartella sulla sua scrivania. Quando l’ho aperta c’era l’offerta presentata dal nostro concorrente, inclusi i prezzi proposti. Ho usato questa informazione per presentare un’offerta migliore. ]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[Mark fikirkan cara untuk membalas e-mel pelanggan. Adakah anda tahu perkara yang perlu dilakukan dalam situasi ini? Buat satu pilihan dan kemudian, serahkan jawapan anda.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Jika anda membalas dengan meminta lebih banyak maklumat daripada pelanggan – seperti nama syarikat dan jawatan mereka – adakah e-mel anda dianggap eksport dan anda tahu mengapa?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[Pekerja]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Buat satu pilihan dan kemudian, serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Ya, setiap e-mel berpotensi sebagai eksport, memandangkan pelayan boleh terletak dalam negara yang berbeza dan e-mel anda boleh merentasi banyak sempadan antarabangsa]]></option>	
+		<option><![CDATA[Ya, sebarang e-mel yang meminta maklumat daripada seseorang di negara lain sentiasa dianggap sebagai eksport kerana anda menerima maklumat peribadi]]></option>	
+		<option><![CDATA[Tidak, hanya balas kembali kepada pelanggan untuk meminta lebih banyak maklumat bukannya eksport]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Itu betul.]]></text>
+			<text><![CDATA[Untuk memastikan anda mematuhi kawalan dagangan, anda perlu membalas kepada pelanggan untuk mengetahui maklumat lanjut.]]></text>
+			<text><![CDATA[Walau bagaimanapun, hanya menghantar e-mel ini bukanlah eksport, melainkan anda juga berkongsi atau melampirkan lukisan reka bentuk, teknologi atau maklumat produk terkawal yang lain.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Maaf, itu tidak betul.]]></text>
+			<text><![CDATA[Untuk memastikan anda mematuhi kawalan dagangan, anda perlu membalas kepada pelanggan untuk mengetahui maklumat lanjut.]]></text>
+			<text><![CDATA[Walau bagaimanapun, hanya menghantar e-mel ini bukanlah eksport, melainkan anda juga berkongsi atau melampirkan lukisan reka bentuk, teknologi atau maklumat produk terkawal yang lain.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

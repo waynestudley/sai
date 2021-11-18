@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma meldet die Situation ihrem Vorgesetzten, der aber nichts tut. Was sollte Emma in dieser Situation tun?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[Nichts unternehmen. Emma hat die Situation gemeldet, und jetzt steht Roger in der Pflicht, Folgemaßnahmen zu ergreifen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Mit einem Mitglied der Compliance- oder Rechtsabteilung sprechen oder ihre Bedenken über die Integrity Helpline melden.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:18px;"><![CDATA[Emma hat richtig gehandelt, als sie mit ihrem Vorgesetzten Roger sprach. Emma ist aber nicht überzeugt, dass Roger Folgemaßnahmen ergreifen wird, also sollte sie ihre Bedenken eskalieren. Sie kann sich an ein Mitglied der Compliance- oder Rechtsabteilung, einen Vertreter der Personalabteilung oder die Integrity Helpline wenden.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma hat richtig gehandelt, als sie mit ihrem Vorgesetzten Roger sprach. Aber Emma glaubt, dass Roger nicht auf ihre Bedenken reagieren und keine weiteren Maßnahmen ergreifen wird. Daher hat Emma auch das Richtige getan, indem sie einen Schritt weiter ging und sich an weitere Ansprechpartner im Unternehmen wendete, die die Angelegenheit angemessen überprüfen und darauf reagieren können.]]></text>
+		</correct>
+	</feedback>
+</contents>

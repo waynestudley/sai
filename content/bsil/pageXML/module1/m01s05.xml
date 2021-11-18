@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[Muitos casos de conflitos de interesses acontecem em pequena escala e em nível pessoal. Mas alguns conflitos são grandes o suficiente para se tornarem notícias na mídia.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[Muitos conflitos de interesses são menores e mais pessoais, mas alguns são grandes o suficiente para se tornarem notícias na mídia.]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[Clique nas setas para saber mais.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Gerente de portfólio conversando com um investigador da SEC (CVM)]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:380px;" />
+				<text style="font-weight:bold;font-size:15px;line-height:18px;"><![CDATA[Título: Empresa de gestão de ativos paga USD 12 milhões para encerrar as acusações de conflitos]]></text>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[A Blackrock, grande empresa de gestão de ativos, pagou USD 12 milhões para encerrar as acusações de conflitos de interesses devido às ações de um dos seus gerentes de portfólio.]]></text>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[A Comissão de Valores Mobiliários dos EUA formalizou acusações depois de descobrir que um corretor que supervisionava os fundos de energia da Blackrock também financiava uma empresa familiar de óleo e gás ao mesmo tempo. A empresa familiar formou uma parceria com uma empresa carvoeira, cujas ações eram a maior parte de um fundo que o corretor controlava.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Membro do conselho de um hospital em uma coletiva de imprensa]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-weight:bold;font-size:15px;line-height:18px;"><![CDATA[Título: Membro do conselho de um hospital multado em USD 13.500]]></text>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Um membro do conselho do sistema de hospitais públicos da cidade de Nova York foi multado por conflitos entre sua função no conselho e seu cargo em uma faculdade de medicina em Grenada.]]></text>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[O Conselho de Conflitos da Cidade descobriu que o médico havia usado sua função no conselho para fazer lobby com os hospitais da cidade a fim de aumentar o número de vagas para alunos na faculdade de medicina em que ele trabalhava.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Pessoa observando ações na bolsa ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:15px;line-height:18px;"><![CDATA[Título: JP Morgan paga USD 35 milhões após dar conselho comprometido durante negociação]]></text>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[O gigante de investimentos JP Morgan pagou USD 35 milhões para encerrar a acusações resultantes de suas ações durante a venda da Good Technology para a BlackBerry no fim de 2015. ]]></text>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Os acionistas da Good Technology acusaram que a empresa havia sido vendida abaixo de seu valor de mercado e que o JP Morgan pressionou a venda da Good Technology pois queria obter negócios futuros de banco de investimento da BlackBerry. O tribunal concordou e concedeu aos acionistas uma grande sentença.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

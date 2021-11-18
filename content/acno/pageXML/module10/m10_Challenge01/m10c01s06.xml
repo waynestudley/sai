@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[El procedimiento de la esposa de Jian es un éxito, pero los médicos la mantienen en observación durante la noche. Al día siguiente, debido a que TI no tendrá una computadora portátil de reemplazo para él hasta el fin del día laboral, Jian usa su computadora portátil personal y trabaja desde la habitación de su esposa. Con su computadora portátil, puede ver la información en el archivo maestro de proveedores.]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[¿Cuál es la mejor manera de enviar los cambios a Holly?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[Habitación de hospital de la esposa de Jian]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian se conecta a la red wifi pública y envía por correo electrónico el archivo actualizado desde la unidad de almacenamiento USB con su cuenta de correo electrónico personal.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian se da cuenta de que enviar a Holly el archivo maestro actualizado para cargar puede causar problemas, ya que otras personas pueden haber editado el archivo maestro original en su ausencia y sus actualizaciones podrían reemplazar las de los demás. Por lo tanto, mientras está almorzando en la cafetería del hospital, llama a Holly y la guía para que ella introduzca los cambios en el archivo maestro del sistema de la empresa.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian le pide a Holly que vaya a buscar la unidad de almacenamiento USB cifrada al hospital.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:280px;" fcStyle="top: -202px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[Jian le envía la información a Holly, pero, al descargar el archivo, se crea una copia en conflicto con la base de datos de proveedores actual, y el equipo tiene que pasar varias horas actualizando y confirmando la información.]]></text>
+			<text style="font-size:15px;"><![CDATA[Se envían facturas falsas a la empresa de Jian que aparentan ser de proveedores legítimos, pero contienen información de cuentas bancarias de aquellos que intentan estafar a la empresa. Meses después, se descubre el plan, y los resultados de la investigación apuntan a una violación de la seguridad en la base de datos de proveedores más o menos al mismo tiempo en que Jian se encontraba en el hospital. ¡Jian tiene que dar unas cuantas explicaciones!]]></text>
+			<text style="font-size:15px;"><![CDATA[La opción más segura habría sido que Jian le pidiera a Holly que fuera a buscar la unidad de almacenamiento USB cifrada. Aunque esta medida no evita que el equipo pase horas combinando las modificaciones de Jian con las de la base de datos de proveedores, habría garantizado la protección de los datos sensibles.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:250px;" fcStyle="top: -200px;">
+			<text style="padding-top:25px;"><![CDATA[Holly puede actualizar el archivo maestro de proveedores, y solo comete algunos errores que, más adelante, se detectan y se corrigen.]]></text>
+			<text><![CDATA[No obstante, otras personas que estén almorzando en la cafetería del hospital podrían escuchar cada palabra de Jian, lo cual expondría innecesariamente la información de los proveedores.]]></text>
+			<text><![CDATA[La opción más segura habría sido que Jian le pidiera a Holly que fuera a buscar la unidad de almacenamiento USB cifrada. Esta medida habría garantizado la protección de los datos sensibles.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:250px;" fcStyle="top: -202px;">
+			<text style="padding-top:25px;"><![CDATA[Holly pasa a buscar la unidad flash, pero mientras Jian estaba trabajando en su copia en forma remota, sus compañeros de trabajo editaron el original. Cuando Holly carga la versión de Jian, se sobrescriben los cambios de sus colegas. El equipo tiene que pasar muchas horas actualizando y confirmando la información.]]></text>
+			<text><![CDATA[Jian recibe un llamado de atención por descargar el archivo maestro, pero, al menos, la información está segura. Holly no debería haber cargado el archivo revisado sin consultar con los demás autores si habían hecho alguna actualización que pudiera verse afectada.]]></text>
+			<text><![CDATA[Esta es la opción más segura, ya que garantizó la protección de los datos sensibles.]]></text>
+		</correct>
+	</feedback>
+</contents>

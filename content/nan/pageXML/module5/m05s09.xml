@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m05s09" maxAttempt="2">
+	<transcript>
+		<text path="audio/module5/m05s09" id="0"><![CDATA[現在輪到你了。 看看您能否辨識這些項目是否算是出口。 將每個項目拖曳到「出口」或「非出口」方塊內，然後按一下「提交」。]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[您有把握能清楚辨識何者是否屬於出口嗎？ 請判定這些項目是否算是出口。]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s09/contentBackground.jpg" minwidth="769"><![CDATA[員工在處理公司文件]]></img>
+	</contentBackground>
+	 <contentBg style="top: 20px;"></contentBg>
+	<pageTitle style="width: 588px;margin-bottom:6px;"></pageTitle>
+	<instructionText style="width: 588px;margin-top:6px;">
+		<text><![CDATA[將每個項目拖曳到兩個方塊內的其中一個，然後按一下「提交」。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+		<text><![CDATA[按「重試」按鈕重做一次。]]></text>
+		<text><![CDATA[按「顯示答案」按鈕。]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 330px; padding: 4px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[情境]]></lable> 
+		<option>			
+			<option height="51px" left="0" top="27px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[在線上張貼設計資訊]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="88px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[在參觀廠房時對他國客戶透露出口管制的技術資訊]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="149px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[在 International News (國際新聞) 雜誌上發表有關暖通空調 (HAVC) 未來發展的技術論文]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="210px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[協助持有他國國籍的客戶設計新產品，並將 Johnson Controls 產品整合至他們的成品當中]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="271px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[將工程圖上傳至與國際供應商共用的網路平台]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="332px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[將技術資訊儲存在國際電腦網路中，但限制只有位於國內或持有相同國家國籍的員工才能存取該網路]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="393px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[將產品寄送給您所在城市的客戶，但該客戶為您所在國家的公民，且其公司只有在您的國家內執行業務]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="455px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[發送電子郵件給他國客戶，邀請他們用餐並祝賀他們最近的重大成就]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="1" topGap="149" bottomGap="33">
+		<dropArea maxDrop="5" style="width:312px;left: 355px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="5" style="width:312px;left: 670px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[出口]]></text>
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[非出口]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[拖放到此處]]></text>
+		<text style="width:301px;left: 277px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[拖放到此處]]></text>
+		<text style="width:301px;left: 277px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[拖放到此處]]></text>
+		<text style="width:301px;left: 277px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[拖放到此處]]></text>
+		<text style="width:301px;left: 277px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[拖放到此處]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[拖放到此處]]></text>
+		<text style="width:301px;left: 593px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[拖放到此處]]></text>
+		<text style="width:301px;left: 593px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[拖放到此處]]></text>
+		<text style="width:301px;left: 593px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[拖放到此處]]></text>
+		<text style="width:301px;left: 593px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[拖放到此處]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 480px;left: 230px;z-index: 10;"><![CDATA[提交]]></text>
+		<text style="position:absolute;top: 480px;left: 230px;z-index: 10;"><![CDATA[再試一次]]></text>	
+		<text style="position:absolute;top: 480px;left: 200px;z-index: 10; width: 125px;"><![CDATA[顯示答案]]></text>	
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct style="top: 146px;height: 145px;"> 
+			<text style="font-size:17px;"><![CDATA[正確。]]></text>
+			<text><![CDATA[切記，如果您無法明確判定是否為出口，請諮詢我們的貿易合規專家。]]></text>
+			
+		</correct>
+		<incorrect style="top: 146px;height: 145px;"> 
+			<text style="font-size:17px;"><![CDATA[抱歉，您答錯了。]]></text>
+			<text><![CDATA[切記，如果您無法明確判定是否為出口，請諮詢我們的貿易合規專家。]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

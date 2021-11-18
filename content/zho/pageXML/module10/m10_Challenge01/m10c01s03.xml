@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[建安知道自己会在医院等候几小时，他考虑将工作带到医院去做。 您认为他应该怎么做？ 选择一个选项，然后单击“确定”。]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[单击“下一步”继续。]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<contentText>
+		<text style="line-height:18px"><![CDATA[建安需要离开公司去医院照顾他的妻子，但有紧急的项目需要他处理。 他可以将笔记本带到医院办公，但他知道利用笔记本远程办公不如使用公司网络办公安全。]]></text>
+		<text style="line-height:18px"><![CDATA[对建安而言，确保他如期完成工作的最佳方案是什么？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[办公室环境]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px; line-height:20px">
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px">
+		<option answer="0" feedbackId="1"><![CDATA[建安将 Texela 项目信息上传至个人 Dropbox 账户，这其中包括供应商主文件。 这样，他便可以在医院使用笔记本电脑访问相关信息，而无法通过互联网发送或本地下载到他的电脑里。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[建安将供应商信息和供应商主文件放入优盘里，并对其加密。 对他来说，这种方式似乎比通过电子渠道获取信息更安全。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[建安先协商延长了他最初工作项目的截止日期，然后在离开公司前往医院前完成了 Texela 项目的工作。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[建安的决定将公司、客户和供应商数据置于隐私泄露的风险之中。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[建安已采取措施保护公司和供应商的信息，但他是否造成了其他问题？]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -168px;">
+			<text style="padding-top:25px;"><![CDATA[建安先协商延长了他最初工作项目的截止日期，然后在离开公司前往医院前完成了 Texela 项目的工作。]]></text>
+			<text><![CDATA[建安可以在离开公司前提出他的供应商建议，因此无需带走供应商信息或供应商主文件这些机密信息的副本。 他通过成功协商延长另一个项目的交付日期，确保整个项目不会受到不利影响。]]></text>
+			<text><![CDATA[更好的是，建安可以陪伴他的妻子，不必因紧迫的项目交期而分心。]]></text>
+		</correct>
+	</feedback>
+</contents>

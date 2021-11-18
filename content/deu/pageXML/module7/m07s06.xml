@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s06">
+	<transcript>
+		<text path="audio/module7/m07s06" id="0"><![CDATA[Diese Mitarbeiter haben jeweils eine Aussage über geistiges Eigentum abgegeben. Wählen Sie alle Aussagen aus, denen Sie zustimmen, und klicken Sie anschließend auf „Übermitteln“.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module7/m07s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 580px;right: 430px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Stimmen Sie diesen Aussagen über geistiges Eigentum zu oder nicht?]]></text>
+	</contentText>
+	<instructionText style="height:34px;">
+		<text><![CDATA[Wählen Sie für jede Aussage „Stimme zu“ oder „Stimme nicht zu“ aus und klicken Sie dann auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="width:582px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img01.png"><![CDATA[Mitarbeiter]]></img>
+			<text style="width: 312px;"><![CDATA[Wenn ich etwas bei meiner Arbeit für Johnson Controls erschaffe, bin ich berechtigt, meine Kreation beliebig einzusetzen.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img02.png"><![CDATA[Mitarbeiter]]></img>
+			<text style="width: 312px;"><![CDATA[Sobald etwas durch ein Markenzeichen oder Urheberrecht geschützt ist, ist es immer geschützt.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img03.png"><![CDATA[Mitarbeiterin]]></img>	
+			<text style="width: 312px;"><![CDATA[Die Freigabe von geistigem Eigentum von Johnson Controls kann unser Unternehmen schädigen.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img04.png"><![CDATA[Mitarbeiterin]]></img>	
+			<text style="width:312px;"><![CDATA[Wenn Informationen oder Bilder online frei verfügbar sind, kann ich sie für geschäftliche Zwecke einsetzen.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text styleWidth="font-size:11px;line-height:10px;"><![CDATA[Stimme zu]]></text>
+		<text styleWidth="font-size:11px;line-height:10px;"><![CDATA[Stimme nicht zu]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -104px;width: 378px;height: 434px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 10px;font-size: 20px;"><![CDATA[Das ist richtig.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Alles, was Sie bei Ihrer Arbeit für Johnson Controls erschaffen, erfinden oder weiterentwickeln, gehört Johnson Controls und nicht Ihnen. Auch nachdem Sie das Unternehmen verlassen haben, gehört Ihr geistiges Eigentum weiterhin Johnson Controls, und Sie dürfen es nicht unabhängig in einem anderen Unternehmen einsetzen oder mit anderen teilen.</li> <li>Rechte geistigen Eigentums, darunter auch Markenzeichen und Urheberrechte, können durch unangemessene Nutzung und Nachlässigkeit geschwächt werden oder ganz verloren gehen. Die Anwälte von Johnson Controls arbeiten zwar hart daran, unsere Rechte geistigen Eigentums zu verteidigen, aber auch jeder Einzelne von uns muss seinen Beitrag dazu leisten. Wir müssen bei unseren täglichen Geschäftsaktivitäten stets darauf achten, unser geistiges Eigentum zu schützen.</li> <li>Das geistige Eigentum von Johnson Controls ist für unsere Geschäfte von zentraler Bedeutung. Seine missbräuchliche Verwendung oder unbefugte Preisgabe gegenüber unbefugten Empfängern kann für das Unternehmen zu schwerwiegenden Problemen führen. In einigen Fällen kann der Schutz geistigen Eigentums durch missbräuchliche Verwendung verloren gehen, während die Offenlegung von Handelsgeheimnissen oder Designs von Johnson Controls sich negativ auf unsere Wettbewerbsfähigkeit auswirken kann.</li> <li>Wir können online mühelos auf unglaubliche Mengen an Informationen zugreifen, aber nur weil etwas öffentlich verfügbar ist, heißt das nicht, dass wir auch zu dessen Nutzung berechtigt sind. Die meisten Inhalte im Internet sind geschützt – das umfasst Texte, Fotos, Cartoons, Code und Software. Nutzen Sie Internetinhalte nur dann für Johnson Controls-Geschäfte, wenn Sie ganz sicher sind, dass der Eigentümer der betreffenden Inhalte seine Zustimmung erteilt hat.</li> </ul>]]></text>
+		</correct>
+		<incorrect style="top: -104px;width: 378px;height: 434px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 10px;font-size: 20px;"><![CDATA[Das stimmt leider nicht.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Alles, was Sie bei Ihrer Arbeit für Johnson Controls erschaffen, erfinden oder weiterentwickeln, gehört Johnson Controls und nicht Ihnen. Auch nachdem Sie das Unternehmen verlassen haben, gehört Ihr geistiges Eigentum weiterhin Johnson Controls, und Sie dürfen es nicht unabhängig in einem anderen Unternehmen einsetzen oder mit anderen teilen.</li> <li>Rechte geistigen Eigentums, darunter auch Markenzeichen und Urheberrechte, können durch unangemessene Nutzung und Nachlässigkeit geschwächt werden oder ganz verloren gehen. Die Anwälte von Johnson Controls arbeiten zwar hart daran, unsere Rechte geistigen Eigentums zu verteidigen, aber auch jeder Einzelne von uns muss seinen Beitrag dazu leisten. Wir müssen bei unseren täglichen Geschäftsaktivitäten stets darauf achten, unser geistiges Eigentum zu schützen.</li> <li>Das geistige Eigentum von Johnson Controls ist für unsere Geschäfte von zentraler Bedeutung. Seine missbräuchliche Verwendung oder unbefugte Preisgabe gegenüber unbefugten Empfängern kann für das Unternehmen zu schwerwiegenden Problemen führen. In einigen Fällen kann der Schutz geistigen Eigentums durch missbräuchliche Verwendung verloren gehen, während die Offenlegung von Handelsgeheimnissen oder Designs von Johnson Controls sich negativ auf unsere Wettbewerbsfähigkeit auswirken kann.</li> <li>Wir können online mühelos auf unglaubliche Mengen an Informationen zugreifen, aber nur weil etwas öffentlich verfügbar ist, heißt das nicht, dass wir auch zu dessen Nutzung berechtigt sind. Die meisten Inhalte im Internet sind geschützt – das umfasst Texte, Fotos, Cartoons, Code und Software. Nutzen Sie Internetinhalte nur dann für Johnson Controls-Geschäfte, wenn Sie ganz sicher sind, dass der Eigentümer der betreffenden Inhalte seine Zustimmung erteilt hat.</li> </ul>]]></text>	
+		</incorrect>		
+	</feedback>
+	
+</contents>

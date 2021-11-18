@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[באיזו מידה אתה מכיר את מדיניות החברה בנושא מתנות ובידור? בחר 'נכון' או 'לא נכון' עבור כל אפשרות שמופיעה כאן, ולאחר מכן לחץ על 'שלח'.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[עובדים]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;top: 30px;padding: 0;left:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[האם משפטים אלה בנוגע למתנות ובידור נכונים או לא נכונים?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[בחר 'נכון' או 'לא נכון' עבור כל אפשרות, ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/rtl/module2/m02s03/img01.png"><![CDATA[אדם מקבל מתנה כשאירוע בידור מתקיים ברקע]]></img>
+			<text style="width: 390px;"><![CDATA[המדיניות של Johnson Controls מכסה כל מצב שקשור למתנות ובידור: אין ערפול בנושא]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/rtl/module2/m02s03/img02.png"><![CDATA[עובד שקוע בהרהורים]]></img>
+			<text style="width: 390px;"><![CDATA[כאשר אתה מקבל בידור או מתנות, תמיד עליך לשאול את עצמך: "האם הם מצפים ממני למשהו בתמורה?" ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/rtl/module2/m02s03/img03.png"><![CDATA[עובד שקוע בהרהורים]]></img>	
+			<text style="width: 390px;"><![CDATA[אם האדם שלו אתה מציע מתנות או בידור עלול לחשוב שאתה מצפה למשהו בתמורה, אל תמשיך]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/rtl/module2/m02s03/img04.png"><![CDATA[עובד שקוע בהרהורים]]></img>	
+			<text style="width:390px;"><![CDATA[הכי כדאי להימנע לחלוטין מהצעת מתנות ובידור: זה מסוכן מדי]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[נכון]]></text>
+		<text><![CDATA[לא נכון]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 6px;width: 220px;height: 341px;left: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[נכון.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[מסירה וקבלה של בידור ומתנות היא דבר מקובל בנסיבות המתאימות, אך דורשת כושר שיפוט טוב והבנה של ההנחיות של Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[המדיניות שלנו לא יכולה לצפות כל מצב, לכן תצטרך לבחון את הנסיבות בעיון, להשתמש בכושר שיפוט, ואם אינך בטוח, לפנות לקבלת ייעוץ לפני שתמשיך.]]></text>			
+		</correct>
+		<incorrect style="top: 6px;width: 220px;height: 341px;left: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[לא נכון.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[מסירה וקבלה של בידור ומתנות היא דבר מקובל בנסיבות המתאימות, אך דורשת כושר שיפוט טוב והבנה של ההנחיות של Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[המדיניות שלנו לא יכולה לצפות כל מצב, לכן תצטרך לבחון את הנסיבות בעיון, להשתמש בכושר שיפוט, ואם אינך בטוח, לפנות לקבלת ייעוץ לפני שתמשיך.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

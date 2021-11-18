@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s04">
+	<transcript>
+		<text path="audio/module8/m08s04" id="0"><![CDATA[تشعر "ديبي" بالدهشة من صورة "كيم". هل كنت ستفعل ما فعلته "كيم"؟ حدد خيارًا واحدًا ثم أرسل إجابتك.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[ما الخطأ في التقاط صورة شخصية في العمل ونشرها على مواقع التواصل الاجتماعي؟]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module8/m08s04/contentBackground.jpg" minwidth="769"><![CDATA[امرأة في المنزل]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;left: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[حدد خيارًا واحدًا ثم أرسله.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[لا شيء في ذلك إذا كانت ستُرسل إلى موقع يحذف المنشور بعد مشاهدته]]></option>	
+		<option><![CDATA[يعتمد الأمر على شخصية من ستُرسل إليه الصورة]]></option>	
+		<option><![CDATA[قد ينطوي الأمر على مشكلة لأنه قد تكون هناك معلومات سرية في الخلفية]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[هذا صحيح.]]></text>
+			<text><![CDATA[علينا أن نحمي معلومات العميل الحساسة، مثل معلومات الفوترة والمدفوعات. على عاتق شركتنا التزام قانوني بحماية بيانات العميل ومعالجتها بما يتوافق مع القانون. وإذا لم نفعل ذلك، فقد تُفرض علينا غرامات باهظة.  ]]></text>
+			<text><![CDATA[وحتى إذا لم يكن هناك أي نية لكشف المعلومات الحساسة، فإن القيام بذلك يمكن أن يلحق ضررًا جسيمًا بالشخص وكذلك بالشركة.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[عذرًا، هذا ليس صحيحًا.]]></text>
+			<text><![CDATA[علينا أن نحمي معلومات العميل الحساسة، مثل معلومات الفوترة والمدفوعات. على عاتق شركتنا التزام قانوني بحماية بيانات العميل ومعالجتها بما يتوافق مع القانون. وإذا لم نفعل ذلك، فقد تُفرض علينا غرامات باهظة.]]></text>
+			<text><![CDATA[وحتى إذا لم يكن هناك أي نية لكشف المعلومات الحساسة، فإن القيام بذلك يمكن أن يلحق ضررًا جسيمًا بالشخص وكذلك بالشركة.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

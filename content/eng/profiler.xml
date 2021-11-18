@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile" ><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;right:20px;height: 500px;width: 960px;padding:10px 15px;" ></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle >
+		<text><![CDATA[Your Role]]></text>		
+	</contentTitle>
+	<contentText >
+		<text><![CDATA[Please answer these questions about your role.]]></text>
+	</contentText>
+	<profilerQuestions >		
+		<text id="1"><![CDATA[Do you interact with people or organizations that compete with Johnson Controls?]]></text>
+		<text id="2"><![CDATA[Are you responsible for making purchasing decisions for Johnson Controls?]]></text>
+		<text id="3"><![CDATA[Does your job involve marketing, sales or negotiating with customers and potential customers?]]></text>
+		<text id="4"><![CDATA[Do you have access to information about Johnson Controls customers,  contractors, suppliers or business partners, or about any individuals who work for them?]]></text>
+		<text id="5"><![CDATA[Do you have access to information about Johnson Controls employees?]]></text>
+		<text id="6"><![CDATA[Do you deal directly with Johnson Controls employees, customers or suppliers that are based overseas or have access to technical information?]]></text>
+		<text id="7"><![CDATA[Does your job involve international travel, hosting international visitors or transporting Johnson Controls products, people or information to overseas locations?]]></text>
+		<text id="8"><![CDATA[Do you participate in an industry trade association or attend industry conferences?]]></text>
+		<text id="9"><![CDATA[Do you ever give gifts to third parties or receive gifts from third parties, such as customers or suppliers?]]></text>
+		<text id="10"><![CDATA[Do you ever entertain third parties or are you ever entertained by third parties, such as customers or suppliers?]]></text>
+		<text id="11"><![CDATA[Does your work involve researching, developing or engineering Johnson Controls products and services?]]></text>
+		<text id="12"><![CDATA[Are you responsible for developing business with new or existing customers in new locations or in new industries?]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/profileSelection.jpg" minwidth="769"><![CDATA[Johnson Controls employees]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[Yes]]></text>
+		<text><![CDATA[No]]></text>
+	</profilerAnswer>
+    <buttonText >		
+		<text><![CDATA[Continue]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 400px;">
+		<text><![CDATA[Select Yes or No for each question then click on Continue.]]></text>
+	</instructionText>
+	
+</contents>

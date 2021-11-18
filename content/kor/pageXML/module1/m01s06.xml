@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m01s06">
+	<transcript>
+		<text path="audio/module1/m01s06" id="0"><![CDATA[이해 충돌이 해결되지 않으면 고객 서비스 악화, 회사 자금의 오용, 공급업체와의 관계 악화, 사업 손실 그리고 회사 평판과 함께 관련 개인의 평판 훼손으로 이어질 수 있습니다.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[이해 충돌이 적절하게 처리되지 않으면 어떻게 됩니까?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s06/contentBackground.jpg" minwidth="769"><![CDATA[사무실 배경]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px; height:40px">
+		<text><![CDATA[각 사람을 클릭하여 이해 충돌이 어떤 상황에 대한 그들의 견해를 어떻게 변화시키고 Johnson Controls에 대한 견해에 어떻게 부정적으로 작용하는지 확인하십시오.]]></text>
+		<text><![CDATA[<span style="padding-top:10px">계속하려면 '다음'을 클릭하십시오.</span>]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="300px" height="178px" top="20px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module1/m01s06/btn1.png" minwidth="769"><![CDATA[백인 종업원]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Carter, Johnson Controls 직원]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 100px;top: 0px;">
+				<text><![CDATA[Anna와 저는 수년간 같은 일을 해 왔습니다. 그러나 저는 그녀보다 훨씬 오래 여기에 있었고, 근무 실적이 더 좋았습니다. <i>그녀는 </i>승진했는데, 인사 부서에 근무하는 그녀의 오빠가 영향력을 행사하여 그녀를 도왔기 때문입니다. 인정받지 못한다면 열심히 일할 이유가 있을까요?]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="178px" top="20px" left="349px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module1/m01s06/btn2.png" minwidth="769"><![CDATA[인도인 남성]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Rajesh, Johnson Controls 납품업자]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 100px;top: 0px;">
+				<text><![CDATA[우리 회사는 수년간 Johnson Controls와 일해 왔으며, 항상 업무를 잘 완수했습니다. 최근 Johnson Controls의 담당자인 John이 우리 대신 자신의 친한 친구의 회사를 선택했습니다. 저는 항상 Johnson Controls가 공정한 결정을 내린다고 믿고 있었는데, 더 이상 그렇지 않은 것 같습니다.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="178px" top="20px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module1/m01s06/btn3.png" minwidth="769"><![CDATA[러시아/동부 유럽 남성]]></img>
+			<buttonText style="height: 45px;"><![CDATA[Sergei, Johnson Controls 고객]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 125px;top: 0px;">
+				<text><![CDATA[올해 초, 제가 Johnson Controls의 직원인 Vinca에게 필요한 일이 있다고 이야기했습니다. 그녀는 Johnson Controls가 제공할 수 있는 해결책을 제안하는 대신 같은 일을 할 수 있는 더 작은 회사에 우리를 추천했습니다. 우리는 그들을 고용했으며, 지금까지 그들의 작업에 만족합니다. 그러나 최근 저는 Vinca가 그 회사의 지분 일부를 소유하고 있다는 사실을 알았습니다. 그래서 그녀의 추천이 비윤리적이고, 저와 Johnson Controls의 이익에 부합하지 않는 것은 아닌지 궁금합니다.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c02s15">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c02/m10c02s15/contentBackground.jpg" minwidth="769"><![CDATA[Список действий]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Щелкните каждый этап истории.]]></text>
+		<text><![CDATA[Выберите «Далее», чтобы пересмотреть свой выбор и попробовать еще раз.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="102">			
+			<buttonText style="font-size:17px;"><![CDATA[Дэн отправляет электронное письмо]]></buttonText>			
+			<popText style="">
+				<text style="line-height:18px;"><![CDATA[Дэн отправляет всем сотрудникам компании из списка электронное письмо со ссылкой на риэлторский блог Эммы.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="145">
+			<buttonText style="font-size:17px;"><![CDATA[Эмма отправляет электронное сообщение обработки результатов]]></buttonText>
+			<popText style="">
+				<text style="line-height:18px;"><![CDATA[Эмма продолжает деятельность: она отправляет электронное письмо группе людей, благодарит их за поддержку и сообщает о состоянии Сэнди. В разделе комментариев блога многие публикуют сообщения с пожеланиями скорейшего выздоровления Сэнди. Многие делают пожертвования в ее фонд.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="145">
+			<buttonText style="font-size:17px;"><![CDATA[Эмма отправляет второе электронное письмо в свой риэлторский блог]]></buttonText>
+			<popText style="">
+				<text style="line-height:18px;"><![CDATA[Месяц спустя Эмма отправляет еще одно электронное письмо со ссылкой на свой блог, чтобы привлечь внимание к новой недвижимости, выдвинутой на продажу, и предложить какому-либо заинтересованному сотруднику Johnson Controls первому посмотреть на нее.]]></text>			
+			</popText>
+		</accordion>	
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="180">			
+			<buttonText style="font-size:17px;"><![CDATA[Последствия]]></buttonText>
+			<popText style="">
+				<text style="line-height:18px;"><![CDATA[И Эмма, и Дэн получают выговор за некорректное использование списка адресов электронной почты сотрудников и нарушение прав сотрудников на конфиденциальность. Эмме не следовало предоставлять какую-либо информацию о медицинском состоянии Сэнди в своем блоге. Ей также не следует пытаться найти новых клиентов посредством распространения электронных писем среди всех сотрудников компании.]]></text>				
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

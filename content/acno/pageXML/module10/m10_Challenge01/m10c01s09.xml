@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[Un proveedor clave ha solicitado un pago inmediato. ¿Qué cree que debería hacer Jian? Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Jian está siendo presionado para que apruebe el pago inmediato de la factura de un proveedor, y es posible que el éxito de un proyecto dependa de ello.]]></text>
+		<text><![CDATA[¿Qué debería hacer?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[Jian en la cocina de su casa, hablando por teléfono con Nolan]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Aceptar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para averiguar lo que sucedió.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Decirle a Nolan que apruebe el pago. Parece razonable gastar USD 1000 para evitar un monto considerablemente mayor en concepto de sanciones por una demora en la entrega.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Decirle a Nolan que no apruebe el pago hasta que puedan obtener más información sobre cómo se utilizará el dinero en relación con los permisos.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[Aceptar]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian le dice al Departamento de Contabilidad que pague la factura. Esta parece ser la mejor manera de mantener el proyecto dentro del cronograma, y es menos costosa que la penalización del cliente.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Después de hablar con Nolan, Jian está preocupado por la solicitud del proveedor.]]></text>
+		</correct>
+	</feedback>
+</contents>

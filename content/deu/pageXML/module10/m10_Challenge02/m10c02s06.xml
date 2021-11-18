@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[Emma ist bemüht, sich bei ihrer Arbeit für Johnson Controls nicht von ihrer Nebenbeschäftigung ablenken zu lassen. Doch ihre Nebenbeschäftigung sprach sich im Büro herum, und jetzt sind drei Kollegen am Kauf ihrer neuesten Immobilie interessiert.  Während eines Kundengesprächs erhält Emma eine Sofortnachricht von Sandy aus der Buchhaltung.]]></text>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[<i>„Hi Emma. Ich würde mir WIRKLICH gerne das Haus auf der Newbury Road ansehen. In dem Link, den du geschickt hast, sieht es fantastisch aus. Es ist genau das, wonach wir gesucht haben. Könntest du heute etwas früher gehen, damit du nicht in den Berufsverkehr gerätst und mir das Grundstück zeigen kannst?“</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:20px;">
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:20px;font-size:14px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma stimmt zu, früher Feierabend zu machen, um Sandy das Grundstück zu zeigen.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma sagt Sandy, dass sie noch Anrufe entgegennehmen und Unterlagen fertigstellen müsse und daher nicht früher gehen könne. Sandy könne aber im Laufe des Tages an ihrem Schreibtisch vorbeikommen, um weitere Fotos und Videos auf ihrem Laptop anzusehen und Einzelheiten zu besprechen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma sagt Sandy, dass sie ihr das Grundstück heute nicht zeigen könne, nach ihrem Kundenanruf aber weitere Bilder an sie schicken werde. Emma bittet Sandy, sie heute Abend zu Hause anzurufen, um weitere Einzelheiten zu besprechen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height: 230px;" fcStyle="top: -230px;">
+			<text style="padding-top:12px;"><![CDATA[Das ist die riskanteste Option. Schauen wir uns an, was passiert, wenn Emma diese Entscheidung trifft.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 230px;" fcStyle="top: -228px;">
+			<text style="padding-top:25px;"><![CDATA[Auch wenn Emma nicht früher gegangen ist, hat sie unzulässigerweise Eigentum und Arbeitszeit von Johnson Controls für ihre Nebenbeschäftigung genutzt. Außerdem lenkt sie ihre Kollegen ab, die an der Besichtigung von Grundstücken interessiert sind.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 230px;" fcStyle="top: -230px;">
+			<text style="padding-top:25px;"><![CDATA[Emma ergreift Maßnahmen, um ihre Haupt- und Nebenbeschäftigung voneinander getrennt zu halten. Sie sollte jedoch nicht ihren beruflichen Laptop, Sofortnachrichten oder berufliche E-Mails für ihre Nebenbeschäftigung nutzen. Außerdem lenkt sie ihre Kollegen ab, die an der Besichtigung von Grundstücken interessiert sind.]]></text>
+		</correct>
+	</feedback>
+</contents>

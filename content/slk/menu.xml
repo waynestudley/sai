@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <transcript>
+        <text path="" id="0"><![CDATA[]]></text>        
+        <text path="" id="1"><![CDATA[]]></text>        
+    </transcript>
+	<contentBg style="top:10px;right:17px;padding:0px;width:992px;" chanStyle="width:846px;margin: 0 auto;right:0;float:none;"></contentBg>
+	<pageTitle style="margin-bottom:5px;padding:15px 15px 0;"></pageTitle>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/menuBg.jpg" minwidth="769"><![CDATA[Zamestnanci spoločnosti Johnson Controls]]></img>	
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/submenuBg.jpg" minwidth="769"><![CDATA[Zamestnanci spoločnosti Johnson Controls]]></img>	
+	</contentBackground>
+	<nextLockAlertPopupText>
+        <text><![CDATA[Ak chcete pokračovať, musíte kliknúť na všetky časti.]]></text>
+        <text><![CDATA[Vyberte odpoveď a potom pokračujte kliknutím na tlačidlo OK.]]></text>
+        <text><![CDATA[Pred pokračovaním si pozorne pozrite video.]]></text>
+        <buttonText>
+            <text><![CDATA[OK]]></text>
+        </buttonText>
+    </nextLockAlertPopupText>	
+    <closeCourse>
+        <text><![CDATA[Naozaj chcete ukončiť kurz?]]></text>
+        <buttonText>
+            <text><![CDATA[Áno]]></text>
+            <text><![CDATA[Nie]]></text>
+        </buttonText>
+    </closeCourse>	
+    <title>
+        <text><![CDATA[Hlavná ponuka ]]></text>
+        <text><![CDATA[Výzvy]]></text>
+        <text><![CDATA[Aplikácia etického kódexu: Bezúhonné obchodovanie]]></text>
+        <text><![CDATA[Výzvy etického kódexu]]></text>
+    </title>	
+    <instructionText style="margin-bottom:0px;padding:0px 15px 15px;">
+        <text><![CDATA[Vyberte si modul.]]></text>
+        <text><![CDATA[Vyberte si výzvu.]]></text>		
+        <text><![CDATA[Vyberte si modul, aby ste si pozreli svoje vzdelávanie, prípadne kliknite na Zatvoriť.]]></text>		
+        <text><![CDATA[Kliknutím na tlačidlo Domov sa vrátite do východiskovej ponuky.]]></text>		
+        <text><![CDATA[Kliknutím na tlačidlo DOMOV sa vrátite do hlavnej ponuky a dokončíte školenie. ]]></text>		
+    </instructionText>
+	
+    <contentText>
+        <text><![CDATA[Vitajte v kurze Uplatňovanie etického kódexu: Bezúhonné obchodovanie.]]></text>
+        <text><![CDATA[Ak chcete získať kredit za tento kurz a získať prístup k osvedčeniu o absolvovaní, musíte úspešne dokončiť všetky zvýraznené moduly kurzu. Zobrazujú sa v plnej farbe. ]]></text>
+        <text><![CDATA[Môžete tiež vidieť moduly, ktoré sú sivé a označené ako „Voliteľné“ vzhľadom na vašu úlohu alebo výkonnosť pri predbežnom hodnotení. Môžete pristupovať k týmto modulom, ale nemusíte ich dokončovať, pokiaľ nechcete.]]></text>			
+        <text><![CDATA[]]></text>			
+    </contentText>
+	
+    <buttonText>
+        <text><![CDATA[Štart]]></text>
+    </buttonText>
+	<optionalText>
+        <text><![CDATA[Voliteľné]]></text>
+    </optionalText>
+    <bookMark>
+        <text><![CDATA[Chcete pokračovať na<br />naposledy navštívenú stránku?]]></text>
+        <buttonText>
+            <text><![CDATA[Pokračovať]]></text>
+            <text><![CDATA[Znovu spustiť]]></text>
+        </buttonText>
+    </bookMark>
+    <monthArr>
+        <text><![CDATA[Január]]></text>
+        <text><![CDATA[Február]]></text>
+        <text><![CDATA[Marec]]></text>
+        <text><![CDATA[Apríl]]></text>
+        <text><![CDATA[Máj]]></text>
+        <text><![CDATA[Jún]]></text>
+        <text><![CDATA[Júl]]></text>
+        <text><![CDATA[August]]></text>
+        <text><![CDATA[September]]></text>
+        <text><![CDATA[Október]]></text>
+        <text><![CDATA[November]]></text>
+        <text><![CDATA[December]]></text>
+    </monthArr>
+    <module id="1" imgPath="content/images/ltr/menuImages/Module_01.png" imgPopPath="content/images/ltr/menuImages/Module_01_popup.png">
+        <title><![CDATA[Konflikty záujmov]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Konflikty záujmov sa vyskytujú, keď vaše osobné záujmy môžu byť v rozpore so záujmami spoločnosti, čo môže narušiť vašu schopnosť robiť dobré obchodné rozhodnutia.</p><p>Naučte sa, ako rozpoznať konflikt záujmov a ako sa vyhnúť konfliktu záujmov vo vašej práci pre spoločnosť Johnson Controls.</p><span>Potrebný čas: 6 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[Vitajte v: Vyhýbanie sa konfliktom záujmov]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Potenciálne konflikty v bežných situáciách]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Rozpoznávanie konfliktov záujmov]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Rozpoznávanie konfliktov záujmov]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Prípadové štúdie: Konflikty záujmov môžu poškodiť spoločnosti]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Dôsledky konfliktov]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Ako zvládnuť konflikty]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Zhrnutie a kľúčové kontakty]]></title>
+        </page>			
+    </module>
+    <module id="2" imgPath="content/images/ltr/menuImages/Module_02.png" imgPopPath="content/images/ltr/menuImages/Module_02_popup.png">
+        <title><![CDATA[Používanie darov a pohostenia vhodným spôsobom]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Výmena darov alebo zábavy môže pomôcť pri budovaní obchodných vzťahov, ale môže tiež spôsobiť problémy, ak sa s nimi nezaobchádza správne.</p><p>Zistite, ako zabezpečiť, aby ste ponúkali alebo prijali iba vhodné dary a pohostenie.</p><span>Potrebný čas: 6 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[Vitajte v: Používanie darov a pohostenia vhodným spôsobom.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Je potrebný dobrý úsudok]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pravdivé alebo nepravdivé?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Dary a pohostenie na zváženie]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Dary a pohostenie:]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ste na rade]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Viac o daroch]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kontrolný zoznam darov]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ste na rade]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Viac o pohostení]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kontrolný zoznam pohostenia]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ste na rade]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Jednanie s verejnými činiteľmi]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zhrnutie a kľúčové kontakty]]></title>
+        </page>				
+    </module>
+    <module id="3" imgPath="content/images/ltr/menuImages/Module_03.png" imgPopPath="content/images/ltr/menuImages/Module_03_popup.png">
+        <title><![CDATA[Predchádzanie úplatkárstvu v našom podnikaní]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Naša povesť závisí od čestného a spravodlivého podnikania. Úplatkárstvo a korupcia sú nezákonné a nie sú spôsobmi, akými pracujeme.</p><p>Naučte sa, ako rozpoznať dokonca aj jemné formy úplatkárstva a korupcie a chráňte sa pred tým, aby ste sa nevedomky zapojili do potenciálne kriminálnych aktivít.</p><span>Potrebný čas: 6 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[Vitajte v: Predchádzanie úplatkárstvu v našom podnikaní.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Rozpoznávanie rizikových situácií]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Rozpoznávanie podplácania]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Rozpoznávanie úplatkárstva]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ste na rade]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prípadová štúdia: Úplná spolupráca a zverejňovanie]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ako môžete pomôcť predchádzať úplatkárstvu a korupcii]]></title>
+        </page>
+       <page>
+            <title><![CDATA[Dôsledky]]></title>
+        </page> 
+        <page>
+            <title><![CDATA[Čo sú to facilitačné platby?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Zhrnutie a kľúčové kontakty]]></title>
+        </page>				
+    </module>
+    <module id="4" imgPath="content/images/ltr/menuImages/Module_04.png" imgPopPath="content/images/ltr/menuImages/Module_04_popup.png">
+        <title><![CDATA[Zachovanie osobných údajov v bezpečí]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Všetci sme zodpovední za ochranu osobných údajov zákazníkov, zamestnancov a obchodných partnerov.</p><p>Zistite, ako môžete pomôcť podporiť záväzok našej spoločnosti k ochrane osobných údajov a zodpovednému využívaniu sociálnych sietí.</p><span>Potrebný čas: 6 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[Vitajte v: Zachovanie osobných údajov v bezpečí]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prípad vhodnosti]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prehľad osobných údajov]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prečo záleží na ochrane osobných údajov?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Rozpoznávanie osobných informácií]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ochrana osobných údajov]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pochopenie ochrany osobných údajov]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Súkromie a sociálne siete]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Zostať bezpečný na verejnosti]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ochrana heslom]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Vystavujete osobné údaje riziku?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Zhrnutie a kľúčové kontakty]]></title>
+        </page>				
+    </module>
+    <module id="5" imgPath="content/images/ltr/menuImages/Module_05.png" imgPopPath="content/images/ltr/menuImages/Module_05_popup.png">
+        <title><![CDATA[Obchodné požiadavky na podnikanie v globálnom meradle ]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Spoločnosť Johnson Controls ako globálna spoločnosť podlieha širokej škále obchodných kontrol zavedených medzinárodnými organizáciami a zahraničnými vládami.</p><p>Zistite, ako môžu obchodné kontroly ovplyvniť vašu prácu a čo môžete urobiť pre podporu obchodných záväzkov našej spoločnosti.</p><span>Potrebný čas: 6 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[Vitajte v: Obchodné požiadavky na podnikanie v globálnom meradle.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zahraničná žiadosť]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zahraničná žiadosť]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zahraničná žiadosť]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zahraničná žiadosť]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zahraničná žiadosť]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zahraničná žiadosť]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Ako rozpoznať vývoz]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Potvrďte svoje porozumenie]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Prečo existujú obchodné kontroly]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Čo musíte urobiť]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Ste na rade]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zhrnutie a kľúčové kontakty]]></title>
+        </page>				
+    </module>
+    <module id="6" imgPath="content/images/ltr/menuImages/Module_06.png" imgPopPath="content/images/ltr/menuImages/Module_06_popup.png">
+        <title><![CDATA[Predávanie s poctivosťou]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<p>V spoločnosti Johnson Controls predávame s poctivosťou a dodržiavame všetky zákony o hospodárskej súťaži. Tieto zákony zabezpečujú férovosť a slobodu na trhu a zakazujú spoločnostiam zneužívať dominantné postavenie.</p><p>Získajte informácie o záväzku našej spoločnosti k férovej hospodárskej súťaži, ako aj o tom, ako dodržiavať naše štandardy v tejto oblasti.</p><span>Potrebný čas: 6 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[Vitajte v: Predávanie s poctivosťou.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Prečo existujú zákony o hospodárskej súťaži]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Rozpoznávanie nevhodných dohôd]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Rozpoznávanie neférovej súťaže]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Manipulácia s dominantným postavením]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zabránenie zneužívaniu dominantného postavenia]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Prípadová štúdia]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zabránenie porušovaniu právnych predpisov o hospodárskej súťaži]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Zhrnutie a kľúčové kontakty]]></title>
+        </page>				
+    </module>
+    <module id="7" imgPath="content/images/ltr/menuImages/Module_07.png" imgPopPath="content/images/ltr/menuImages/Module_07_popup.png">
+        <title><![CDATA[Ochrana duševného vlastníctva]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Duševné vlastníctvo, ako sú patenty, ochranné známky a autorské práva, je životne dôležité pre podnikanie spoločnosti Johnson Controls a my máme povinnosť ho chrániť. </p><p>Zistite, ako môžu vaše kroky pomôcť chrániť naše duševné vlastníctvo pred krádežou alebo zneužitím.</p><span>Potrebný čas: 6 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[Vitajte v: Ochrana nášho duševného vlastníctva.]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Čo je to duševné vlastníctvo?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Skontrolujte vaše porozumenie]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Typy duševného vlastníctva]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Náklady na stratené duševné vlastníctvo]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Ste na rade]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Vaša úloha]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Používanie ochranných známok]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Čo by ste urobili?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Zhrnutie a kľúčové kontakty]]></title>
+        </page>				
+    </module>
+    <module id="8" imgPath="content/images/ltr/menuImages/Module_08.png" imgPopPath="content/images/ltr/menuImages/Module_08_popup.png">
+        <title><![CDATA[Ochrana dôverných informácií]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<p>V práci sa môžete dozvedieť dôverné informácie o našej spoločnosti, zákazníkoch alebo podnikaní.</p><p>Získajte informácie o požiadavkách spoločnosti Johnson Controls na manipuláciu a ochranu takýchto informácií.</p><span>Potrebný čas: 6 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[Vitajte v: Ochrana dôverných informácií.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Riziková situácia]]></title>
+        </page>
+		<page>
+            <title><![CDATA[Riziková situácia]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Riziková situácia]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Riziková situácia]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Každodenná práca s informáciami]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Čo by ste mali udržiavať v tajnosti?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Obmedzenie, ochrana, odstránenie]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Čo môžete urobiť na ochranu dôverných informácií]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ste na rade]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Použite dohody o mlčanlivosti na pridanie dodatočnej úrovne ochrany]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Zhrnutie a kľúčové kontakty]]></title>
+        </page>
+    </module>
+    <module id="9" imgPath="content/images/ltr/menuImages/Module_09.png" imgPopPath="content/images/ltr/menuImages/Module_09_popup.png">
+        <title><![CDATA[Získanie konkurenčného spravodajstva férovo]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Konkurenčné spravodajstvo nám pomáha lepšie pochopiť naše podnikateľské prostredie, existujú však prísne etické štandardy pre získanie týchto informácií.</p><p>Zistite, ako zhromažďovať a používať konkurenčné spravodajstvo spôsobom, ktorý je v súlade s politikou spoločnosti Johnson Controls a zákonom.</p><span>Potrebný čas: 6 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[Vitajte v: Získanie konkurenčného spravodajstva férovo.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Zber informácií nesprávnym spôsobom]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Aké informácie sú dôverné?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Čo sa môže pokaziť?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Vyhnite sa klamaniu, nelojálnosti alebo podvádzaniu]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Potvrďte svoje porozumenie]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Zhrnutie a kľúčové kontakty]]></title>
+        </page>				
+    </module>
+    <module id="10" imgPath="content/images/ltr/menuImages/Module_10.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup.png">
+        <title><![CDATA[Výzvy etického kódexu 2018]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Použite to, čo ste sa naučili v praktickej výzve. Urobte dobré rozhodnutia, ktoré dosahujú obchodné ciele a zabraňujú škodlivým následkom.</p><span>Potrebný čas: 10 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[]]></title>
+        </page>					
+    </module>
+    <module id="11" imgPath="content/images/ltr/menuImages/Module_10_1.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup1.png">
+        <title><![CDATA[Kancelárske, marketingové a predajné prostredie]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+		<overText><![CDATA[<span class="subMenuStart">Na spustenie výzvy kliknite na tlačidlo „Štart“.</span>]]></overText>
+        <page>
+            <title><![CDATA[Naliehavá žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Naliehavá žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Naliehavá žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Naliehavá žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Naliehavá žiadosť]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Kľúčové lekcie]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Kľúčové lekcie]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Vďačný dodávateľ]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Kľúčové lekcie]]></title>
+        </page>				
+    </module>
+    <module id="12" imgPath="content/images/ltr/menuImages/Module_10_2.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup2.png">
+        <title><![CDATA[Zákaznícka podpora]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+         <overText><![CDATA[<span class="subMenuStart">Na spustenie výzvy kliknite na tlačidlo „Štart“.</span>]]></overText>
+        <page>
+            <title><![CDATA[Odporujúce si záväzky]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Odporujúce si záväzky]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Odporujúce si záväzky]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Odporujúce si záväzky]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Odporujúce si záväzky]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Odporujúce si záväzky]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Odporujúce si záväzky]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Odporujúce si záväzky]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kľúčové lekcie]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pomoc spolupracovníkovi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pomoc spolupracovníkovi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pomoc spolupracovníkovi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pomoc spolupracovníkovi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pomoc spolupracovníkovi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pomoc spolupracovníkovi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Pomoc spolupracovníkovi]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kľúčové lekcie]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nezvyčajná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nezvyčajná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nezvyčajná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nezvyčajná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nezvyčajná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nezvyčajná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kľúčové lekcie]]></title>
+        </page>
+    </module>
+    <module id="13" imgPath="content/images/ltr/menuImages/Module_10_3.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup3.png">
+        <title><![CDATA[Mimokancelárske prostredie]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[<span class="subMenuStart">Na spustenie výzvy kliknite na tlačidlo „Štart“.</span>]]></overText>
+        <page>
+            <title><![CDATA[Prekvapujúca žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prekvapujúca žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prekvapujúca žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prekvapujúca žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prekvapujúca žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prekvapujúca žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prekvapujúca žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prekvapujúca žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prekvapujúca žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Prekvapujúca žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kľúčové lekcie]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kľúčové lekcie]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Noc vonku]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Noc vonku]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Nepravidelná žiadosť]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Noc vonku]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Noc vonku]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Noc vonku]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Noc vonku]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Noc vonku]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Noc vonku]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kľúčové lekcie]]></title>
+        </page>
+    </module>
+    <module id="14" imgPath="content/images/ltr/menuImages/Module_11.png" imgPopPath="content/images/ltr/menuImages/Module_11_popup.png">
+        <title><![CDATA[Kontrola vedomostí]]></title>
+        <altText><![CDATA[Zamestnanec spoločnosti Johnson Controls]]></altText>
+        <overText><![CDATA[Ukážte to, čo ste sa naučili, a získate certifikát o absolvovaní kurzu.<span>Potrebný čas: 5-10 minút</span>]]></overText>
+        <page>
+            <title><![CDATA[Kontrola vedomostí]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Kontrola vedomostí]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Vaše výsledky]]></title>
+        </page>
+    </module>
+    <module id="15" imgPath="content/images/ltr/menuImages/Module_12.png" imgPopPath="content/images/ltr/menuImages/Module_12_popup.png">
+        <title><![CDATA[Váš certifikát]]></title>
+        <altText><![CDATA[Muž používajúci počítač]]></altText>
+        <overText><![CDATA[Získajte prístup k certifikátu o absolvovaní kurzu.]]></overText>
+        <page>
+            <title><![CDATA[Váš certifikát]]></title>
+        </page>
+    </module>
+	
+    <tootTip>
+        <element button=".btn_Next" location="top" gap="8" width="60"><![CDATA[Ďalej]]></element>
+        <element button=".nextBlink" location="top" gap="8" width="60"><![CDATA[Ďalej]]></element>
+        <element button=".btn_Back" location="top" gap="8" width="60"><![CDATA[Späť]]></element>
+        <element button=".replayPage" location="top" gap="10" width="60"><![CDATA[Znova prehrať]]></element>
+        <element button=".transcriptOn" location="top" gap="10" width="100"><![CDATA[Prepis vypnutý]]></element>
+        <element button=".transcriptOff" location="top" gap="10" width="100"><![CDATA[Prepis zapnutý]]></element>
+        <element button=".audioOn" location="top" gap="10" width="80"><![CDATA[Zvuk vypnutý]]></element>
+        <element button=".audioOff" location="top" gap="10" width="80"><![CDATA[Zvuk zapnutý]]></element>
+        <element button=".btn_Menu" location="top" gap="10" width="60"><![CDATA[Domov]]></element>
+        <element button=".fw_CloseTranscript" location="bottom" gap="10" width="60"><![CDATA[Zatvoriť]]></element>
+        <element button=".fw_MenuClose" location="top" gap="10" width="60"><![CDATA[Zatvoriť]]></element>
+        <element button=".menuBlink" location="top" gap="10" width="60"><![CDATA[Ďalej]]></element> 
+        <element button=".fw_GlossaryClose" location="top" gap="10" width="60"><![CDATA[Zatvoriť]]></element> 
+        <element button=".btn_Exit" location="top" gap="10" width="60"><![CDATA[Zatvoriť]]></element> 
+    </tootTip>
+	
+    <transcriptGlobalText>
+	  <text><![CDATA[Políčko na potiahnutie]]></text>
+    </transcriptGlobalText>
+	
+    <reEntryProfilerPopup>
+        <text><![CDATA[Ak zmeníte svoj výber profilu, všetky vaše údaje o priebehu kurzu sa stratia. To znamená, že budete musieť vyplniť všetky určené moduly vrátane tých, ktoré ste už mohli dokončiť. Ak ste úspešne dokončili kontrolu vedomostí, tieto údaje o dokončení zostanú zachované. Stále chcete pokračovať?]]></text>
+        <text><![CDATA[Áno]]></text>
+        <text><![CDATA[Nie]]></text>
+    </reEntryProfilerPopup>
+ 
+</course>

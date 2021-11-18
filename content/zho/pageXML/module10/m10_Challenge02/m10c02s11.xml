@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[单击“下一步”继续。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>
+	<contentText>
+		<text style="line-height:18px"><![CDATA[艾玛对于珊迪的情况深感痛心。 她觉得可以向其他人寻求帮助。 艾玛怎样才能帮到她的同事？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;line-height:20px">
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px">
+		<option answer="0" feedbackId="1"><![CDATA[建立一个在线募捐网站，记录珊迪的恢复情况和财务困境，募集捐款帮她支付医疗费用，给珊迪一个惊喜。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[利用她的房产博客，尝试让更多人帮助这家人筹款。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[在联系任何人，或在任何社交媒体发布关于此次意外和珊迪努力恢复的贴文前，先征求珊迪的同意。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[艾玛为珊迪建立一个募捐网站，其中包含珊迪伤情和目前预后的相关信息。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾玛的网站和博客流量很高，因此她认为这是一种绝佳方法，能够让更多人了解珊迪的困境并慷慨解囊。 她决定在自己的房地产网站和博客中添加珊迪所遇意外和她家人筹款工作的相关信息。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:160px;" fcStyle="top:-135px;">
+			<text style="padding-top:25px;"><![CDATA[艾玛向珊迪征求许可，是否可以将此次意外写成贴文，发布到她的博客上，作为一种方法，为珊迪募捐医疗护理费用。]]></text>
+			<text><![CDATA[珊迪同意了，但要求将募集到的捐款存入医疗机构的基金账户中。]]></text>
+			<text><![CDATA[艾玛通过征求珊迪同意，询问她可以分享的信息内容，以及将使用个人信息的方式，确保自己不会滥用珊迪的个人信息，充分尊重了她的隐私。]]></text>
+		</correct>
+	</feedback>
+</contents>

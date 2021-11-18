@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s04">
+	<transcript>
+		<text path="audio/module4/m04s04" id="0"><![CDATA[우리 모두는 자신의 개인 데이터가 안전하기를 원합니다.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[개인 데이터를 보호하지 않으면 무엇이 위험해집니까?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s04/contentBackground.jpg" minwidth="769"><![CDATA[사무실 배경]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;"></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[각 사람을 클릭하여 그들의 의견을 들어 보십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 168px;">
+		<revealCallOut width="180px" height="184px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s04/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Johnson Controls 직원]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 90px;top: -15px;">
+				<text><![CDATA[고객들은 우리가 그들의 개인 데이터를 안전하게 관리할 것이라고 믿습니다. 보안 침해는 우리의 평판을 훼손하고 고객의 신뢰를 약화시킬 수 있습니다.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="214px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s04/btn2.png" minwidth="769"><![CDATA[고객]]></img>
+			<buttonText style="height: 50px;"><![CDATA[고객]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 90px;top: -15px;">
+				<text><![CDATA[저는 제 인생에서 더 이상의 마케팅 전화나 스팸 이메일이 필요하지 않습니다. 제가 어떤 기업에 제 연락처 정보를 제공하면<br /> 그들이 제 정보를 안전하게 관리하고, 잘못된 사람들의 손에 들어가게 하거나 제가 등록한 것 이외의 어떤 것을 위해 사용하지 않기를 바랍니다.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="409px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn3.png" minwidth="769"><![CDATA[Johnson Controls 관리자]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Johnson Controls 관리자]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: -15px;">
+				<text><![CDATA[저는 정치 단체에 적극적으로 참여하고 있지만 제 신념이 회사에서 제 팀이나 고객과의 관계에 영향을 미치는 것은 바라지 않습니다. 그 정보는 비밀로 해야 합니다.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="603px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn4.png" minwidth="769"><![CDATA[Johnson Controls 직원]]></img>
+			<buttonText style="height: 50px;"><![CDATA[Johnson Controls 직원]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: -15px;">
+				<text><![CDATA[저는 제 의료 문제를 비밀로 유지하고, 그것을 알 필요가 없는 다른 직원들과 공유하기를 원하지 않습니다.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="798px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s04/btn5.png" minwidth="769"><![CDATA[계약업체]]></img>
+			<buttonText style="height: 50px;"><![CDATA[계약업체]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: -15px;">
+				<text><![CDATA[2년 전, 누군가가 제 은행 계좌 정보를 훔쳤습니다. 그로 인해 저는 혹독한 대가를 치렀습니다. 저는 제가 거래하는 기업들이 제 사업체에 대한 일부 재무 정보가 필요하다는 것을 이해하지만 그들이 그것을 안전하게 비밀로 유지해 주기를 기대합니다.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

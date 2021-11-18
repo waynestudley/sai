@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[信封袋裡有 250 美元的現金。 卡洛斯拒絕接受餽贈，但供應商堅持要他收下。 他該怎樣做？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[收下現金但與團隊平分，如此就沒有人收受大筆金額。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[再次婉拒這筆現金。  克里斯邀請卡洛斯與他和團隊一起到運動酒吧觀看直播賽事作為回禮，卡洛斯接受邀約。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[再次拒絕收受現金，也<span class="fontBoldItalic" >拒絕</span>克里斯請他一同前往運動酒吧觀賽的邀約。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[卡洛斯與團隊平分現金，這麼做是為了讓每個人收受的金額不會超過 Johnson Controls 規定的饋贈上限。 但好幾個月過後，有人指稱分包商利用不當餽贈誘使客戶回流，因此有另一間公司對此啟動調查。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[卡洛斯二度拒絕收受現金後，克里斯明白他是認真的並改變提議。 他邀請卡洛斯與他和團隊一同前往運動酒吧觀看直播大賽。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[在卡洛斯二度拒絕收受現金，並拒絕克里斯招待他的團隊共進晚餐後，克里斯明白他是認真地並放棄堅持。]]></text>
+		</correct>
+	</feedback>
+</contents>

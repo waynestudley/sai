@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s22">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Jian bekommt eine Flasche Wein angeboten und vermutet, dass sie von Eduardo, einem Lieferanten, stammt. Er ist sich aber nicht ganz sicher. Außerdem kennt er den Wert des Weins nicht.]]></text>
+		<text><![CDATA[Was sollte er tun?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s22/contentBackground.jpg" minwidth="769"><![CDATA[Restaurant-Bar im Hintergrund]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Den Wein annehmen.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Vor der Entscheidung nachfragen, wie viel der Wein wert ist.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Den Wein höflich ablehnen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian und seine Frau tranken den Wein zu ihrem Abendessen.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian fragt die Sommelierin, wie viel der Wein kostet, und erhält als Antwort, dass die Flasche für mehr als 200 USD verkauft wurde.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Dies ist eine sichere Vorgehensweise.]]></text>
+		</correct>
+	</feedback>
+</contents>

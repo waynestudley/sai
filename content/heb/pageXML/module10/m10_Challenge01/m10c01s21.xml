@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m10c01s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<pageTitle style="width: 354px;"></pageTitle>
+	<contentBg style="width: 636px;left: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[לאחר שחנן סירב לקבל את הכסף המזומן בפעם השנייה, הספק מתעקש שיקבל לפחות כרטיס מתנה למסעדה בשווי 100 דולר. עידו אמר לחנן שחבר הכי טוב שלו הוא בעל המסעדה ולעתים קרובות הוא מקבל כרטיסי מתנה בחינם. חנן שם לב שהערך היה צנוע יותר ושתשלום עבור ארוחות נהוג יותר בעולם העסקי, לכן הוא קיבל את ההצעה. ]]></text>
+		<text style=""><![CDATA[כמה שבועות מאוחר יותר, חנן יוצא אשתו לארוחת ערב ומשתמש בכרטיס המתנה. בזמן שהם יושבים על הבר וממתינים לשולחן שלהם, חנן רואה את עידו יושב בשולחן קרוב ומנופף לו לשלום. בזמן שחנן ואשתו קוראים את התפריט, המלצרית ניגשת לשולחן כשבקבוק יין בידה.]]></text>
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c01/m10c01s21/contentBackground.jpg" minwidth="769"><![CDATA[רקע של בר במסעדה]]></img>
+	</contentBackground>	
+	<revelCollOut style="width: 630px;left: 0px;top:-173px;height:188px;position: relative;">		
+		<img path=""><![CDATA[]]></img>	
+		<text style=""><![CDATA[תודה שאתם אוכלים איתנו הערב. קבלו את בקבוק היין הזה, שניתן לכם על-ידי אדם במסעדה שלנו שרוצה לשלוח את איחוליו - היין הזה הוא לאורחים מיוחדים, והוא לא מופיע בתפריט.]]></text>
+	</revelCollOut>	
+	<instructionText>
+		<text><![CDATA[לחץ על אורלי.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<RevealButton style="top:10px;left: 0px;width: 630px;height: 183px;position: relative;">
+		<buttonImg path="content/images/rtl/module10/m10c01/m10c01s21/img_01.png" style="width:630px;height:140px;"><![CDATA[אורלי]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 630px;height: 188px;"><![CDATA[אולי, מלצרית]]></buttonText>		
+	</RevealButton>	
+	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

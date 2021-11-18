@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c02s19">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3" ><![CDATA[Click on Next to find out what happened.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText >
+		<text><![CDATA[Tom is asking Emma to provide him with addresses of Johnson Controls customers who are celebrities. Tom offers Emma a share of his profit if she can provide the addresses. What should Emma do?]]></text>
+	</contentText>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText >
+		<text><![CDATA[Choose one option then select OK]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+	</instructionText>
+	<optionContent >
+		<option answer="0" feedbackId="1" ><![CDATA[Make it to clear to Tom that she doesn’t want any payment, but still provide him with the list.]]></option>
+		<option answer="1" feedbackId="2" ><![CDATA[Decline to provide the list of addresses to Tom, but tell no one in case they think she’s involved.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Decline to provide the list of addresses to Tom, and report the situation to her manager.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1"  style="" fcStyle="" >
+			<text style="padding-top:12px;"><![CDATA[When Emma agrees to give Tom the addresses, she places them both at risk, even if she doesn’t accept a portion of his profits.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2"  style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[Emma was right to refuse to provide Tom with the list of addresses, but she should recognize that even his request is problematic.]]></text>
+			<text><![CDATA[Emma should speak to her manager or a member of the Law department – if Tom continues to pursue this, it could create a privacy risk for the company.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3"  style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[Emma did the right thing by refusing to provide Tom with the addresses and also reporting his request to her manager. If she had given Tom the information, she would have violated customer privacy. And, by speaking up she helped the company to prevent such an occurrence.]]></text>
+		</correct>
+	</feedback>
+</contents>

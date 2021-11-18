@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;right:20px;height: 500px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[귀하의 역할]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[귀하의 역할에 대한 다음 질문에 답해 주십시오.]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[Johnson Controls와 경쟁하는 사람이나 조직과 교류하십니까?]]></text>
+		<text id="2"><![CDATA[Johnson Controls를 위해 구매 결정을 내리는 업무를 담당합니까?]]></text>
+		<text id="3"><![CDATA[귀하의 업무는 마케팅, 판매 또는 고객 및 잠재 고객과의 협상과 관련이 있습니까?]]></text>
+		<text id="4"><![CDATA[Johnson Controls 고객, 계약업체, 공급업체 또는 비즈니스 파트너에 관한 정보나 그들을 위해 일하는 개인에 대한 정보에 액세스할 수 있습니까?]]></text>
+		<text id="5"><![CDATA[Johnson Controls 직원들에 대한 정보에 액세스할 수 있습니까?]]></text>
+		<text id="6"><![CDATA[해외에 있거나 기술 정보에 액세스할 수 있는 Johnson Controls 직원, 고객 또는 공급업체와 직접 거래합니까?]]></text>
+		<text id="7"><![CDATA[귀하의 업무는 해외 여행, 해외 방문객의 접객 또는 Johnson Controls 제품, 인력, 정보를 해외로 이송하는 것과 관련이 있습니까?]]></text>
+		<text id="8"><![CDATA[업계 동업자 협회에 참여하거나 업계 콘퍼런스에 참석하십니까?]]></text>
+		<text id="9"><![CDATA[제3자(예: 고객 또는 공급업자)에게 선물을 주거나 제3자로부터 선물을 받은 적이 있습니까?]]></text>
+		<text id="10"><![CDATA[제3자를 접대하거나 제3자(고객 또는 공급업자)의 접대를 받은 적이 있습니까?]]></text>
+		<text id="11"><![CDATA[귀하의 업무는 Johnson Controls 제품 및 서비스의 연구, 개발 또는 엔지니어링과 관련이 있습니까?]]></text>
+		<text id="12"><![CDATA[새로운 사업장 또는 새로운 업계의 새로운 고객 또는 기존 고객과의 비즈니스 개발을 담당합니까?]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/profileSelection.jpg" minwidth="769"><![CDATA[Johnson Controls 직원들]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[예]]></text>
+		<text><![CDATA[아니요]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[계속]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 400px;">
+		<text><![CDATA[각 질문에서 '예' 또는 '아니요'를 선택하고 '계속'을 클릭하십시오.]]></text>
+	</instructionText>
+	
+</contents>

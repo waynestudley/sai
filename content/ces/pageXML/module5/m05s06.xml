@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[Vidíte zde nějaké varovné signály? Vyberte všechny, které jste nalezli, a poté klikněte na možnost odeslat.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Které varovné signály se tohoto e-mailu týkají?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[E-mailová schránka]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Vyberte všechny varovné signály a pak klikněte na tlačítko odeslat.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Správných odpovědí může být více.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Odesílatel prohlašuje, že je zákazníkem společnosti Johnson Controls.]]></option>	
+		<option><![CDATA[Zákazník píše ohledně obchodní záležitosti, ale používá účet serveru Gmail.]]></option>	
+		<option><![CDATA[Zákazník požaduje informace, které mohou podléhat regulaci, aniž by o sobě poskytl podrobnější informace.]]></option>	
+		<option><![CDATA[Zákazník říká, že sídlí ve Francii, avšak z e-mailu toto nelze ověřit.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Správně.]]></text>
+			<text><![CDATA[Zákazník požaduje technické informace, které mohou podléhat regulaci vývozu, avšak neposkytuje o sobě podrobnější informace.]]></text>
+			<text><![CDATA[Před poskytnutím technické podpory je přinejmenším nutné, abyste se dozvěděli více o totožnosti zákazníka a případných obchodních omezeních.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Je nám líto, to není správně.]]></text>
+			<text><![CDATA[Zákazník požaduje technické informace, které mohou podléhat regulaci vývozu, avšak neposkytuje o sobě podrobnější informace.]]></text>
+			<text><![CDATA[Před poskytnutím technické podpory je přinejmenším nutné, abyste se dozvěděli více o totožnosti zákazníka a případných obchodních omezeních.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

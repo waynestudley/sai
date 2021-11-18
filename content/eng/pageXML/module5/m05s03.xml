@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0" ><![CDATA[Mark notices a new email in his inbox marked urgent. Click on the email header to see what it says.]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;"></pageTitle>
+	<contentBg style="width: 591px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;" ></contentBg>
+	<contentText >
+		<text style=""><![CDATA[A new email has arrived, marked urgent.]]></text>	
+		
+	</contentText>	
+	 <contentBackground >		
+		<img path="content/images/ltr/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[A new email]]></img>
+		<img path="content/images/ltr/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[Email header]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;left: 2px;top: 211px;font-size: 15px;">		
+		<img path="" minwidth="769" ><![CDATA[Email message]]></img>	
+		<text style="margin-bottom:3px" ><![CDATA[From: arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px" ><![CDATA[Subject: Your assistance required]]></text> 	
+		<text style="" ><![CDATA[Hello,]]></text> 				
+		<text style="" ><![CDATA[I am a Johnson Controls customer based in Marseilles, France and I am having trouble integrating one of your fire suppression products with the existing system.]]></text> 				
+		<text style="" ><![CDATA[I have called your support team and they advised me to contact you to request the technical drawings and integration manual which should help us better troubleshoot the issue.]]></text> 				
+		<text style="" ><![CDATA[Can you send those by return email as soon as possible please.]]></text> 				
+		<text style="margin-bottom:0px" ><![CDATA[Thanks and regards,]]></text> 		
+		<text style="margin-bottom:0px" ><![CDATA[A. Richter]]></text> 		
+	</revelCollOut>
+	
+	<instructionText >
+		<text><![CDATA[Click on the email header.]]></text>
+		<text ><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path="" ><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;left: 97px; width: 475px;"><![CDATA[<span style="padding-right: 32px;"> arichter_8888@gmail.com</span><span>Your assistance required</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px" ></tickCross>
+</contents>
+

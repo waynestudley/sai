@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[여러분은 불공정 경쟁을 얼마나 잘 인식할 수 있습니까?]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 16px;font-size:14px;"><![CDATA[여러분은 불공정 경쟁을 얼마나 잘 인식할 수 있습니까? 불공정 경쟁의 몇 가지 예를 발생하는 합의 유형과 연결하십시오.]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;left:785px;top:0px;"><![CDATA[제출]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;right: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 16px;">
+		<text><![CDATA[첫 번째 열에서 항목을 선택한 후 화살표를 두 번째 열에 있는 일치하는 불공정 경쟁으로 끌어가십시오. 완료되면 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[자세히 알아보려면 물음표를 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[시나리오]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img01.png"><![CDATA[점심 식사 중인 2명의 경쟁업자]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[점심 식사 중인 2명의 경쟁업자]]></dragIcon>
+				<text style=""><![CDATA[2명의 경쟁업자가 점심 식사를 하기 위해 만납니다. 그들은 한 사람은 그 나라의 북부에 판매 노력을 집중하고, 다른 사람은 남부에 초점을 맞추기로 합의합니다.]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:553px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img02.png"><![CDATA[이야기 중인 3명의 경쟁업자]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[이야기 중인 3명의 경쟁업자]]></dragIcon>
+				<text style=""><![CDATA[동일한 작은 시장에서 서비스를 제공하는 3명의 경쟁업자가 새해 계획을 논의하기 위해 만났습니다. 그들은 앞으로 있을 입찰을 검토하고 번갈아 가며 낙찰을 받을 수 있도록 나머지 업자들은 가격을 상당히 높게 유지하기로 합의합니다.]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:553px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img03.png"><![CDATA[무역 회의에 참석한 고위 영업직 임원들]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[무역 회의에 참석한 고위 영업직 임원들]]></dragIcon>
+				<text style=""><![CDATA[한 무역 회의에서 몇몇 고위급 영업직 임원들이 시장에서 가장 큰 공급업체가 불공정하게 가격을 인상해 온 것에 대해 논의합니다. 그들은 주문을 크게 줄이거나 가능하면 완전히 취소하고 가격이 다시 떨어질 때까지 다른 공급업체를 찾기로 합의합니다.]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:553px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img04.png"><![CDATA[여러 개의 백분율(%) 기호]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[여러 개의 백분율(%) 기호]]></dragIcon>
+				<text style=""><![CDATA[원자재 가격이 상승하고 있는 업계의 여러 경쟁업체들이 고객 할인을 10% 이상 제공하지 않는다는 비공식적 협약을 맺습니다.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 235px;left: 640px;">		
+			<heder><![CDATA[불공정 경쟁의 유형]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 643px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[시장 할당]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img05.png"><![CDATA[원 그래프]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 643px;top: 89px;height: 70px;">
+				<text><![CDATA[담합 입찰]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img06.png"><![CDATA[입찰에서 협력하는 2명의 사업가]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 643px;top: 170px;height: 70px;">
+				<text><![CDATA[집단 보이콧]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img07.png"><![CDATA[고객을 징벌하기 위해 보이콧을 결정하는 단체]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 643px;top: 251px;height: 70px;">
+				<text><![CDATA[가격 담합]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img08.png"><![CDATA[가격을 담합하는 두 경쟁업자]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="left: 712px;top: 131px;width: 236px;">
+				<text style=""><![CDATA[시장 할당이라고도 하는 고객 또는 지역 분할은 경쟁업체들이 고객, 제품 또는 지리적 영역을 분할하기로 합의하는 경우에 발생합니다. 이렇게 하면 지정된 영역 내에서 경쟁이 줄어들고, 고객들의 선택권이 감소합니다.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="left: 712px;top: 131px;width: 236px;">
+				<text style=""><![CDATA[입찰 담합은 경쟁업체들이 입찰 프로세스의 결과에 영향을 미치기 위해 입찰을 조정할 때 발생합니다.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 131px;width: 236px;">
+				<text style=""><![CDATA[단독으로 행동하는 기업은 일반적으로 누구와 거래할지를 선택할 권리가 있습니다. 그러나 2개 이상의 기업이 또 다른 기업과 거래하지 않기로 합의하면 그들의 보이콧은 경쟁법을 위반할 수 있습니다.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 131px;width: 236px;">
+				<text style=""><![CDATA[가격 담합에는 경쟁업체들이 서로 자유롭고 독립적으로 경쟁하는 대신에 가격이나 다른 경쟁 조건을 조정하기 위해 서로 간에 맺는 합의가 수반됩니다.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[Viele Interessenkonflikte treten in kleinem Umfang und auf persönlicher Ebene auf. Das Ausmaß einiger Interessenkonflikte ist allerdings so groß, dass sie Schlagzeilen machen.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[Die meisten Interessenkonflikte treten in kleinem Umfang und auf persönlicher Ebene auf – einige von ihnen sind aber so groß, dass sie in den Nachrichten thematisiert werden.]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[Klicken Sie auf den Pfeil, um mehr zu erfahren.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Abteilungsleiter im Gespräch mit einem Ermittler der SEC]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:394px;" />
+				<text style="font-weight:bold;font-size:14px;line-height:17px;"><![CDATA[Überschrift: Vermögensverwaltungsgesellschaft zahlt 12 Mio. USD, um Klage aufgrund von Interessenkonflikt beizulegen]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[Die Vermögensverwaltungsgesellschaft Blackrock zahlte 12 Mio. USD, um eine Klage aufgrund eines Interessenkonflikts beizulegen. Grund hierfür waren die Handlungen eines Portfoliomanagers des Unternehmens.]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[Die US- Securities and Exchange Commission hatte festgestellt, dass ein Börsenmakler, der einige Energiefonds von Blackrock überwachte, gleichzeitig auch Gründer eines Öl- und Gasunternehmens in Familienbesitz war, und daraufhin Anzeige erstattet. Das Familienunternehmen führte eine Partnerschaft mit einem Kohleunternehmen – und dieses Kohleunternehmen besaß die größte Beteiligung an dem vom Börsenmakler geführten Fonds.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Krankenhausvorstand in Pressekonferenz]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:14px;line-height:18px;"><![CDATA[Überschrift: Krankenhausvorstandsmitglied zu Geldstrafe von 13.500 USD verurteilt]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[Ein Vorstandsmitglied der öffentlichen Krankenhäuser in New York City wurde aufgrund eines Interessenkonflikts zwischen seiner Vorstandsmitgliedschaft und einer Position an einer medizinischen Hochschule auf Grenada persönlich zu einer Geldstrafe verurteilt.]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[Der Interessenkollisionsvorstand der Stadt stellte fest, dass der Arzt seine Vorstandsmitgliedschaft dazu missbraucht hatte, die öffentlichen Krankenhäuser dahingehend zu beeinflussen, dass mehr Studenten seiner medizinischen Hochschule dort angenommen werden.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Person betrachtet ihre Aktien ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:14px;line-height:18px;"><![CDATA[Überschrift: JP Morgan zahlt 35 Mio. USD nach kompromittierender Beratung während Geschäftsabwicklung]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[Der Investmentkonzern JP Morgan zahlte 35 Mio. USD, um eine Klage aufgrund seiner Handlungen während des Verkaufs von Good Technology an BlackBerry Ende 2015 beizulegen. ]]></text>
+				<text style="font-size:14px;line-height:18px;"><![CDATA[Aktionäre von Good Technology hatten beanstandet, dass das Unternehmen unterhalb seines Marktwerts verkauft worden sei und dass JP Morgan Good Technology zum Verkauf gedrängt habe, weil es künftige Investmentbanking-Aufträge von BlackBerry erhalten wollte. Das Gericht stimmte zu und sprach den Aktionären hohe Entschädigungssummen zu.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

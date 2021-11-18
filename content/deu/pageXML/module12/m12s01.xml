@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[Prima! Sie haben diesen Kurs erfolgreich abgeschlossen. Sie können Ihren Leistungsnachweis jetzt ausdrucken. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[Mann benutzt einen PC]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative" padding="0" fontSize="14px" lineHeight="16px" ><![CDATA[Sie erfolgreich den Kurs <span style="color:#00539E;font-weight:bold;font-size:17px;" >Anwendung des Verhaltenskodexes abgeschlossen: Integre Geschäftsführung</span> erfolgreich abgeschlossen.]]></text>
+		<text width="450px" height="120px" top="10px" left="0px" position="relative" padding="0" fontSize="14px" lineHeight="16px" ><![CDATA[Klicken Sie auf „Leistungsnachweis drucken“ und dann auf „Startseite“, um zum Hauptmenü zurückzukehren, oder klicken Sie auf „Schließen“, um den Kurs zu verlassen.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="165px" left="20px"><![CDATA[Leistungsnachweis drucken]]></text>
+	</buttonText>	
+	<instructionText>
+		<text><![CDATA[Klicken Sie auf „Leistungsnachweis drucken“.]]></text>
+	</instructionText>
+</contents>

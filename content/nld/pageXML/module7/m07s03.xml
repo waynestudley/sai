@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[Wat weet u al omtrent risico's voor intellectuele eigendom? Verken de situatie van Maria, selecteer alle gepaste antwoorden en klik vervolgens op 'Indienen'.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[Maria ging een paar maanden geleden bij Johnson Controls aan de slag en was betrokken bij de lancering van een nieuw product, waarover veel enthousiasme heerst in de sector. ]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[Pete, een vriend van Maria die in een soortgelijke branche werkt, vraagt haar hoe het op het werk is en begint concrete vragen te stellen over het nieuwe product.]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[Hoe moet Maria reageren?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA[Maria en Pete]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;">
+		<text><![CDATA[Selecteer alle gepaste antwoorden en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px;font-size:14px;">
+		<option><![CDATA[Alvorens op het product en de lancering in te gaan, moet ze Pete laten beloven niets te onthullen van hetgeen ze op het punt staat hem te vertellen]]></option>	
+		<option><![CDATA[Ze moet Pete vertellen hoe het op het werk gaat (bv. het is boeiend, uitdagend, enz.), maar zonder informatie over het product of de lancering te verstrekken]]></option>	
+		<option><![CDATA[Ze moet Pete vertellen dat haar werk vertrouwelijk is en dat ze geen details mag vrijgeven]]></option>	
+		<option><![CDATA[Ze mag het alleen met goede vrienden en naaste familieleden die ze vertrouwt hebben over haar projecten en informatie vrijgeven die niet openbaar toegankelijk is]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 240px;" fcStyle="top:-200px">
+			<text><![CDATA[Dat klopt.]]></text>
+			<text><![CDATA[Maria mag Pete vertellen hoe ze zich voelt bij haar werk, maar ze mag geen vertrouwelijke bedrijfsinformatie vrijgeven, waaronder informatie over het nieuwe product of de lancering ervan.]]></text>
+			<text><![CDATA[Het belangrijkste punt om te onthouden is om NOOIT, om welke reden dan ook, handelsgeheimen of andere vertrouwelijke informatie vrij te geven aan onbevoegde personen buiten ons bedrijf. ]]></text>
+			<text><![CDATA[In geen geval mogen vrienden en familieleden die u vertrouwt op de hoogte worden gebracht van door Johnson Controls gebruikte handelsgeheimen of ontwikkelde IE. ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 240px;" fcStyle="top:-200px">
+			<text><![CDATA[Dat klopt niet.]]></text>
+			<text><![CDATA[Maria mag Pete vertellen hoe ze zich voelt bij haar werk, maar ze mag geen vertrouwelijke bedrijfsinformatie vrijgeven, waaronder informatie over het nieuwe product of de lancering ervan.]]></text>
+			<text><![CDATA[Het belangrijkste punt om te onthouden is om NOOIT, om welke reden dan ook, handelsgeheimen of andere vertrouwelijke informatie vrij te geven aan onbevoegde personen buiten ons bedrijf. ]]></text>
+			<text><![CDATA[In geen geval mogen vrienden en familieleden die u vertrouwt op de hoogte worden gebracht van door Johnson Controls gebruikte handelsgeheimen of ontwikkelde IE. ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[Laten we even kijken naar een aantal dagdagelijkse situaties. Brengen deze mensen persoonsgegevens in gevaar?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[In welk van de volgende situaties komt de gegevensbescherming in het gedrang?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[Druk kantoor, werknemer die aan een computer werkt]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Duid alle scenario's aan waarin persoonsgegevens volgens u een risico lopen.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Een openbare wifi gebruiken]]></option>	
+		<option><![CDATA[Op twee plekken hetzelfde wachtwoord gebruiken]]></option>	
+		<option><![CDATA[Een foto van een teamvergadering met whiteboard op de achtergrond op sociale media plaatsen]]></option>	
+		<option><![CDATA[Financiële informatie bespreken met een klant aan de telefoon in het openbaar]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Juist.]]></text>
+			<text><![CDATA[Bij al deze voorbeelden komt de privacy van uw gegevens in het gedrang.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Fout.]]></text>
+			<text><![CDATA[Bij al deze voorbeelden komt de privacy van uw gegevens in het gedrang.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

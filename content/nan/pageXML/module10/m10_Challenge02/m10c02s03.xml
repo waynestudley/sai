@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[按「下一步」繼續。]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="line-height:18px"><![CDATA[艾瑪在姻親兄弟的新公司兼差當經紀人，令她難以兼顧在 Johnson Controls 的工作。]]></text>
+		<text style="line-height:18px"><![CDATA[您認為下列哪一項是艾瑪的最佳做法？]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;line-height:20px">
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px">
+		<option answer="0" feedbackId="1"><![CDATA[艾瑪繼續身兼兩份工作。 經紀人的工作變忙時，她要求同事幫忙掩護，並向 Johnson Controls 請病假。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[艾瑪繼續兼做兩份工作，並儘力兼顧兩項職務。 在 Johnson Controls 的工作不忙時，她接聽經紀人業務相關來電，並用個人智慧型手機傳送電子郵件。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[艾瑪告知經理她正在姻親兄弟的公司兼差，他們討論如何把經紀人的工作與她在 Johnson Controls 的工作區分開來。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[艾瑪到姻親兄弟的不動產公司兼差的決定可能會產生潛在的利益衝突，尤其是她的兼差需要花費更多時間和注意力時。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾瑪仍然認為自己可以兩邊兼顧，所以她的新工作並不會影響到她在 Johnson Controls 的職務。 但她的想法符合現實嗎？ 她決定向她的經理說出實情，以防萬一。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top:-150px;">
+			<text style="padding-top:25px;"><![CDATA[艾瑪告訴她的經理她有兼差的工作。]]></text>
+			<text><![CDATA[她的經理與她討論她的工作職責，以及怎麼樣的兼差方式是符合規定的，但是：<ul> <li>不能影響到她在 Johnson Controls 的工作。 </li> <li>她不應使用任何公司資源去執行外務工作，包括她的 Johnson Controls 工作時間。</li> </ul>]]></text>
+			<text><![CDATA[他們達成共識：艾瑪在 Johnson Controls 的工作時間不做兼差工作，如果她的工作表現不佳，他們就必須再討論這個問題。]]></text>
+		</correct>
+	</feedback>
+</contents>

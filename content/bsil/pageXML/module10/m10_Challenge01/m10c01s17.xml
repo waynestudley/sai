@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[Eduardo sugere irem a uma boate de strip-tease famosa no fim da rua. Os outros membros da equipe parecem interessados.]]></text>
+		<text><![CDATA[Como Jian deve reagir?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[Restaurante]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Escolha uma opção e selecione OK.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Ir à boate com Eduardo e sua equipe, mas insistir em pagar para que a hospitalidade de Eduardo não seja tão excessiva.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Tomar uma bebida para ser educado e evitar constranger Eduardo, mas ir embora logo.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Recusar educadamente e ir embora.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian está certo em pensar na quantidade de hospitalidade que está aceitando, mas há outra questão a se considerar.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Embora Jian tenha pretendido ficar com Eduardo e sua equipe apenas por pouco tempo, isso ainda causou problemas inesperados para Jian e a Johnson Controls.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Esta é uma opção segura.]]></text>
+		</correct>
+	</feedback>
+</contents>

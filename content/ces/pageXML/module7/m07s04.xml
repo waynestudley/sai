@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m07s04">
+	<transcript>
+		<text path="audio/module7/m07s04" id="0"><![CDATA[Nyní se podíváme na jednotlivé typy duševního vlastnictví, jimiž společnost Johnson Controls disponuje. Kliknutím na jednotlivá tlačítka zobrazíte další informace.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Úspěch společnosti Johnson Controls závisí dílem i na tom, jak dokážeme ochránit následující položky:]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module7/m07s04/contentBackground.jpg" minwidth="769"><![CDATA[Pozadí kanceláře]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Kliknutím na jednotlivá tlačítka zobrazíte další informace. K zobrazení celé odpovědi bude pravděpodobně nutné posouvat text.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ZOBRAZIT]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module7/m07s04/img1.png"><![CDATA[Pořadač označený štítkem „patenty“]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Patenty]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Patentem lze chránit technické vynálezy společnosti Johnson Controls, včetně technického softwaru.]]></text>
+				<text><![CDATA[Přihlásit patent je časově i finančně náročné, ale jakmile je patent přihlášen, chrání nás proti tomu, aby náš vynález používali ostatní. Tím získáváme potenciálně významnou konkurenční výhodu.]]></text>						
+			</popText>	
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module7/m07s04/img2.png"><![CDATA[Dohoda o mlčenlivosti]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Obchodní tajemství]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Obchodní tajemství zahrnují důvěrné informace společnosti Johnson Controls o obchodech a procesech a dále technické údaje, např. protokoly či shromážděná data. Jakékoli informace o naší podnikatelské činnosti, které nejsou všeobecně známé, nám poskytují hospodářskou výhodu na trhu a jsou pomocí přiměřených opatření chráněny jako obchodní tajemství.]]></text>					
+				<text><![CDATA[Ne všude na světě jsou obchodní tajemství chráněna ze zákona, ale můžeme je ochránit sami, když takové informace budeme sdílet pouze s lidmi k tomu oprávněnými. Kromě toho požadujeme, aby příjemce těchto informací podepsal dohodu o mlčenlivosti.]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img3.png"><![CDATA[Symbol autorských práv]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Autorská práva]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Ve společnosti Johnson Controls chráníme autorskými právy softwarový kód, obaly a příručky.]]></text>			
+				<text><![CDATA[V řadě zemí zaniká autorské právo k duševnímu vlastnictví až 70 let po smrti autora. O ochranu autorského práva není třeba žádat, ale jeho vymahatelnost je v USA podmíněná registrací.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img4.png"><![CDATA[Zaměstnanec pracující na produktu společnosti Johnson Controls]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Právo na průmyslový vzor]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Průmyslové vzory chrání vzhledovou stránku produktu (nikoli jeho technickou podstatu).]]></text>			
+				<text><![CDATA[Např. ochranou průmyslového vzoru se zajistí ochrana vzhledu detektoru – konkurence nebude smět vyrábět detektory stejného vzhledu. Ochrana průmyslového vzoru nicméně neochrání technologii, na jejímž principu detektor pracuje. Na ochranu technologie by společnost Johnson Controls musela přihlásit patent.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img5.png"><![CDATA[Symbol ochranné známky]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Ochranné známky]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Ochranné známky (včetně známek služby) chrání naše značky a loga. Jde o názvy či symboly, které používáme k označení svých produktů a služeb.]]></text>			
+				<text><![CDATA[Ochrannou známkou mohou být barvy, tvary, dokonce i vůně a zvuky. Název „Coca&#173;Cola“ je ochranná známka podobně jako „fajfka“ společnosti Nike.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

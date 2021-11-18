@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0"><![CDATA[มาร์คเห็นอีเมลใหม่ในกล่องข้อความของเขาและมีหัวข้อว่าด่วนที่สุด คลิกที่หัวข้อของอีเมลเพื่อดูเนื้อหาว่ามันบอกว่าอะไร]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;line-height:25px;"></pageTitle>
+	<contentBg style="width: 591px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style="line-height:20px;"><![CDATA[มีอีเมลเข้ามาใหม่ ขึ้นหัวข้อว่าด่วนที่สุด]]></text>	
+		
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[อีเมลใหม่]]></img>
+		<img path="content/images/ltr/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[หัวข้ออีเมล]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;left: 2px;top: 206px;font-size: 15px;">		
+		<img path="" minwidth="769"><![CDATA[ข้อความอีเมล]]></img>	
+		<text style="margin-bottom:3px"><![CDATA[จาก: arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px"><![CDATA[หัวข้อ: ต้องการความช่วยเหลือจากคุณ]]></text> 	
+		<text style=""><![CDATA[ฮัลโหล]]></text> 				
+		<text style=""><![CDATA[ผมเป็นผู้ซื้อของจอห์นสัน คอนโทรลส์ จาก Marseilles ฝรั่งเศส และผมมีปัญหากับการผสานหนึ่งในระบบดับเพลิงของคุณเข้ากับระบบเดิม]]></text> 				
+		<text style=""><![CDATA[ผมได้โทรหาทีมช่วยเหลือของคุณและพวกเขาแนะนำให้ติดต่อคุณเพื่อขอแผนผังทางเทคนิคและคู่มือการผสานระบบเพื่อช่วยให้เราสามารถแก้ปัญหาได้ดียิ่งขึ้น]]></text> 				
+		<text style=""><![CDATA[กรุณาช่วยส่งเอกสารเหล่านั้นกลับมาอย่างเร็วที่สุดด้วย]]></text> 				
+		<text style="margin-bottom:0px"><![CDATA[ขอบคุณ]]></text> 		
+		<text style="margin-bottom:0px"><![CDATA[A. ริชเทอร์]]></text> 		
+	</revelCollOut>
+	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[คลิกที่หัวข้ออีเมล]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path=""><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;left: 97px; width: 475px;"><![CDATA[<span style="padding-right: 32px;">arichter_8888@gmail.com</span><span>ต้องการความช่วยเหลือของคุณ</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

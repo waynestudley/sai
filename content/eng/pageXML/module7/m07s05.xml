@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m07s05" >
+	<transcript>
+		<text path="audio/module7/m07s05" id="0" ><![CDATA[Let’s look at a case that happened with one of our subsidiaries. Click on the arrow to read the case study in full.]]></text>
+	</transcript>
+	<contentText >
+		<text  position="relative" width="648px" height="auto" left="0" top="0px" ><![CDATA[Losing intellectual property can have an enormous cost – but companies are not always aware when it happens.]]></text>
+	</contentText>
+	<contentBg style="" ></contentBg>
+	<contentBackground >
+		<img path="content/images/ltr/module7/m07s05/contentBackground.jpg" minwidth="769" ><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;" >
+		<text><![CDATA[Click on the arrow to learn more.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module7/m07s05/Strip_01.png" minwidth="700" minheight="550" ><![CDATA[Close-up of hacker using laptop]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text ><![CDATA[Today, many companies are targeted by digital thieves and criminals. When it involves a computer intrusion, they sometimes aren’t even aware that their trade secrets have been stolen.]]></text>
+				<text ><![CDATA[Cyber criminals break in and slowly steal information in such a way that companies aren’t even aware it’s happening!]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module7/m07s05/Strip_02.png" minwidth="700" minheight="550" ><![CDATA[Digital Data]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text ><![CDATA[Although there are no official global or national statistics on the total value of trade secret theft, Price Waterhouse Coopers (PwC) and the Center for Responsible Enterprise and Trade conducted a study in 2014 and estimated the value of trade secret theft in the U.S. alone to be 1% to 3% of its GDP. That’s the equivalent of USD$200 billion to USD$550 billion per year!]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module7/m07s05/Strip_03.png" minwidth="700" minheight="550" ><![CDATA[Employees working with laptops]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text ><![CDATA[If we consider other advanced economies in addition to the U.S., it is probably fair to say that the global cost of trade secret theft is in the trillions.]]></text>
+				<text ><![CDATA[As a large global company, Johnson Controls can reasonably expect to be the target of attempts to steal our intellectual property. This is why we all must be vigilant, and protect and properly use the intellectual property in our possession.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

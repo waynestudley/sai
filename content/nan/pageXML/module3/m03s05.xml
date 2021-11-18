@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[哪些情境您認為有問題？]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[您認為這些範例會被視為賄賂嗎？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[商人]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[請選取<span class="fontBold">所有</span>有問題的情境，然後按「提交」。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[可能會有多個正確答案。]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[您承諾客戶現金禮品以換取有利的商業決策]]></option>
+		<option><![CDATA[想要做您生意的分包商，邀請您參加多場晚宴和體育活動]]></option>
+		<option><![CDATA[您向一位是潛在客戶的政府官員做競選捐款]]></option>
+		<option><![CDATA[經理雇用一位客戶的女兒，換取客戶同意延展目前的合約]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[正確。]]></text>
+			<text><![CDATA[事實上，上述所有情境視情況而定都可被視為賄賂。 影響的意圖是一個主要因素，但要記住即使只是表現出賄賂也會對您和 Johnson Controls 造成問題，因此請三思而後行！]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[錯誤。]]></text>
+			<text><![CDATA[事實上，上述所有情境視情況而定都可被視為賄賂。 影響的意圖是一個主要因素，但要記住即使只是表現出賄賂也會對您和 Johnson Controls 造成問題，因此請三思而後行！]]></text>
+		</incorrect>
+	</feedback>
+</contents>

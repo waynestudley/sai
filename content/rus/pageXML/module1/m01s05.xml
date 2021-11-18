@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[Многие конфликты интересов имеют небольшие масштабы и происходят на личном уровне. Однако некоторые конфликты настолько значимы, что о них сообщают в новостях.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px" fontSize="14px"><![CDATA[Большинство конфликтов интересов имеют небольшие масштабы и являются более или менее личными, однако некоторые конфликты настолько значимы, что о них сообщают в новостях.]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;font-size:16px; line-height:16px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[Чтобы узнать больше, щелкните стрелку.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Управляющий инвестициями разговаривает со следователем Комиссии США по ценным бумагам и биржам]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:380px;" />
+				<text style="font-weight:bold;font-size:14px;line-height:16px;"><![CDATA[Заголовок новости: «Компания по управлению активами выплатила 12 млн долл. США, чтобы прекратить разбирательство в связи с конфликтами интересов».]]></text>
+				<text style="font-size:14px;line-height:16px;"><![CDATA[Крупная компания по управлению активами Blackrock выплатила 12 млн долл. США, чтобы прекратить разбирательство в связи с конфликтами интересов, начатое в результате действий одного из управляющих инвестициями.]]></text>
+				<text style="font-size:14px;line-height:16px;"><![CDATA[Комиссия США по ценным бумагам и биржам предъявила компании обвинение, обнаружив, что один из брокеров компании, контролировавший энергетические фонды Blackrock, учредил семейное нефтегазовое предприятие. Это семейное предприятие стало партнером угольной компании, акции которой являлись крупнейшим вкладом в фонд, который контролировал брокер.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Член правления больницы на пресс-конференции]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-weight:bold;font-size:14px;line-height:16px;;"><![CDATA[Заголовок новости: «На члена правления больницы наложен штраф в размере 13 500 долл. США».]]></text>
+				<text style="font-size:14px;line-height:16px;;"><![CDATA[На члена правления комплекса государственных больниц в Нью-Йорке наложен штраф в связи с обнаружением конфликтов интересов в его деятельности в правлении и работе на медицинском факультете в Гренаде.]]></text>
+				<text style="font-size:14px;line-height:16px;;"><![CDATA[Городской совет по вопросам конфликтов интересов пришел к выводу, что этот врач воспользовался своим положением, чтобы заставить городские больницы увеличить количество мест для студентов-практикантов медицинского факультета, на котором он работал.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Кто-то изучает котировки акций ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:365px;" />
+				<text style="font-weight:bold;font-size:14px;line-height:16px;;"><![CDATA[Заголовок новости: «Компания JP Morgan выплатила 35 млн долл. США из-за предоставления сомнительной консультации в ходе сделки».]]></text>
+				<text style="font-size:14px;line-height:16px;;"><![CDATA[Инвестиционный гигант JP Morgan выплатил 35 млн долл. США, чтобы прекратить разбирательство в связи с его действиями в ходе продажи фирмы Good Technology компании BlackBerry, которая состоялась в конце 2015 г. ]]></text>
+				<text style="font-size:14px;line-height:15px;"><![CDATA[По мнению акционеров Good Technology, сумма сделки была ниже рыночной стоимости фирмы. Акционеры обвинили компанию JP Morgan в том, что она вынудила Good Technology согласиться на сделку, поскольку хотела продолжить предоставление BlackBerry инвестиционно-банковских услуг. Суд согласился с обвинением и заставил компанию выплатить акционерам крупную сумму.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

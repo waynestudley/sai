@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;left:20px;height: 501px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[الدور المنوط بك]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[الرجاء الإجابة عن هذه الأسئلة بشأن دورك.]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[هل تتعامل مع أشخاص أو مؤسسات تتنافس مع شركة Johnson Controls؟]]></text>
+		<text id="2"><![CDATA[هل أنت مسؤول عن اتخاذ قرارات شراء بالنيابة عن شركة Johnson Controls؟]]></text>
+		<text id="3"><![CDATA[هل تشمل وظيفتك التسويق لدى العملاء والعملاء المحتملين أو البيع لهم أو التفاوض معهم؟]]></text>
+		<text id="4"><![CDATA[هل لديك إمكانية وصول إلى معلومات حول عملاء شركة Johnson Controls أو المتعهّدين التابعين لها أو مورّديها أو شركائها في العمل أو حول أي أشخاص يعملون لديها؟]]></text>
+		<text id="5"><![CDATA[هل لديك إمكانية وصول إلى معلومات حول موظفي شركة Johnson Controls؟]]></text>
+		<text id="6"><![CDATA[هل تتعامل مباشرةً مع موظفي شركة Johnson Controls أو عملائها أو مورّديها الذين يقطنون خارج البلاد أو لديك إمكانية وصول إلى معلوماتهم التقنية؟]]></text>
+		<text id="7"><![CDATA[هل تشمل وظيفتك سفريات دولية أو استضافة زائرين دوليين أو نقل منتجات شركة Johnson Controls أو أشخاص تابعين لها أو معلومات تخصها إلى مواقع خارج البلاد؟]]></text>
+		<text id="8"><![CDATA[هل تشارك في اتحاد تجاري صناعي أو تحضر مؤتمرات صناعية؟]]></text>
+		<text id="9"><![CDATA[هل قدمت في أي وقت هدايا إلى جهات خارجية أو تلقيت هدايا من جهات خارجية، مثل العملاء أو المورّدين؟]]></text>
+		<text id="10"><![CDATA[هل قدمت في أي وقت وسائل ترفيهية إلى جهات خارجية أو حصلت ذات يوم على وسائل ترفيه من جهات خارجية، مثل العملاء أو المورّدين؟]]></text>
+		<text id="11"><![CDATA[هل يشمل عملك أنشطة بحثية أو تطويرية أو هندسية تخضع لها منتجات شركة Johnson Controls أو خدماتها؟]]></text>
+		<text id="12"><![CDATA[هل أنت مسؤول عن تطوير الأعمال مع العملاء الجدد أو الحاليين في مواقع جديدة أو في صناعات جديدة؟]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/rtl/profileSelection.jpg" minwidth="769"><![CDATA[موظفو شركة Johnson Controls]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[نعم]]></text>
+		<text><![CDATA[لا]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[متابعة]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 400px;">
+		<text><![CDATA[حدد "نعم" أو "لا" لكل سؤال، ثم انقر فوق "متابعة".]]></text>
+	</instructionText>
+	
+</contents>

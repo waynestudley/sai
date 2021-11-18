@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Ako by mal Dan zareagovať na Emminu žiadosť?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s14/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Zvoľte jednu možnosť a potom vyberte tlačidlo OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Mal by urobiť to, o čo ho Emma žiada, aby pomohol podporiť kolegyňu.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Dan by nemal poskytnúť žiadne zdravotné informácie priamo v e-maile, ale mohol by poslať odkaz na Emmin blog.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Namiesto poslania e-mailu na všetky adresy v spoločnosti Dan navrhuje, aby sa Emma opýtala Sandy, či jej môžu nejako pomôcť.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Dan pošle všetkým zamestnancom spoločnosti Johnson Controls e-mail s informáciami o Sandynej nehode a s odkazom na Emmin blog.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Dan pošle e-mail s odkazom na Emmin blog. Zdá sa, že si neuvedomuje, že ide o nesprávne použitie e-mailového zoznamu zamestnancov.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Keď sa Emma opýta, ako by mohla pomôcť, Sandy navrhne, že Emma by mohla povedať niekoľkým jej priateľom v práci o stránke na Facebooku, ktorú zriadila jej rodina.]]></text>
+			<text><![CDATA[Emma zdieľa tieto informácie iba s ľuďmi, ktorých navrhla Sandy. Kolegovia jej pošlú priania skorého uzdravenia, čo Sandy pozdvihne na duchu. Viacero ľudí daruje peniaze do fondu na liečebné náklady Sandy, čo pomôže zmierniť jej obavy.]]></text>
+		</correct>
+	</feedback>
+</contents>

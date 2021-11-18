@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[يقترح إدواردو التوجه إلى نادٍ شهير قريب للرجال. وقد بدا أن باقي أفراد الفريق مهتمون بالذهاب.]]></text>
+		<text><![CDATA[كيف يجب أن يرد جيان؟]]></text>
+	</contentText>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[مطعم]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[زيارة النادي مع إدواردو وفريقه، مع الإصرار على الدفع بحيث لا تكون استضافة إدواردو لهم مكلفة للغاية.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[الذهاب معه وتناول مشروب واحد للتعبير عن أنه مهذب وتجنب إحراج إدواردو، مع التحقق من مغادرة المكان بعد فترة قصيرة.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[رفض العرض بطريقة مهذبة والعودة للمنزل.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[إن جيان محق فيما يتعلق بمقدار الاستضافة الذي يمكن أن يقبله، إلا أن هناك أمر آخر يجب التفكير فيه.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[رغم أن جيان كان ينوي الانضمام إلى إدواردو وفريقه لفترة زمنية قصيرة، إلا أن ذلك أدى إلى حدوث مشكلات غير متوقعة لجيان وشركة Johnson Controls.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[هذا الاختيار آمن.]]></text>
+		</correct>
+	</feedback>
+</contents>

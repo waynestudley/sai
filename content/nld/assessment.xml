@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessment isAnsShow="false">
+    <instructionText>
+        <text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+    </instructionText>
+	<contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/preAssessment/preassessment.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+    <buttonText>
+        <text><![CDATA[INDIENEN]]></text>
+    </buttonText>
+    <qIcon><![CDATA[V]]></qIcon>
+    <qNumber><![CDATA[Vraag # van #]]></qNumber>
+    <module id="1" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Is het altijd in strijd met het bedrijfsbeleid om een baan te hebben buiten Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Ja]]></option>
+                <option><![CDATA[Nee]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het is niet altijd in strijd met het beleid om een tweede baan te hebben. Is het in strijd met het beleid om een tweede baan te hebben die niet strookt met de bedrijfsbelangen van Johnson Controls?  U dient ervoor te zorgen dat u geen belangenconflict creëert door eventueel ander werk. Elke externe baan moet worden gemeld aan de hand van een belangenverstrengelingsformulier. U moet tevens uw manager of supervisor inlichten over de situatie.]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het is niet altijd in strijd met het beleid om een tweede baan te hebben. Is het in strijd met het beleid om een tweede baan te hebben die niet strookt met de bedrijfsbelangen van Johnson Controls?  U dient ervoor te zorgen dat u geen belangenconflict creëert door eventueel ander werk. Elke externe baan moet worden gemeld aan de hand van een belangenverstrengelingsformulier. U moet tevens uw manager of supervisor inlichten over de situatie.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Een voormalige collega is bij Johnson Controls weggegaan en heeft een eigen bedrijf opgericht. Nu heeft ze contact met u opgenomen en wil ze in onderaanneming werken. Mag u haar bedrijf in dienst nemen? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Ja, ze heeft kostbare ervaring]]></option>
+                <option><![CDATA[Misschien, maar dan moet ze de standaard selectieprocedure volgen en moet u zich distantiëren van wervingsbeslissingen die haar aangaan]]></option>
+                <option><![CDATA[Nee, het is nooit aanvaardbaar om voormalige werknemers van Johnson Controls aan te nemen, in welke hoedanigheid dan ook]]></option>
+            </options>
+            <feedback>
+                <correct style="">
+					<text><![CDATA[<b>Juist.</b> Werknemers van Johnson Controls mogen vrienden of familieleden ertoe aanzetten leverancier te worden, maar moeten de correcte selectieprocedures opvolgen. Als hun offerte in aanmerking wordt genomen, moet u uw relatie bekendmaken aan de hand van een belangenverstrengelingsformulier en erover waken dat u niet betrokken bent bij besluitvorming die een invloed heeft op de aan deze leverancier betaalde prijzen of toegekende opdrachten.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Werknemers van Johnson Controls mogen vrienden of familieleden ertoe aanzetten leverancier te worden, maar moeten de correcte selectieprocedures opvolgen. Als hun offerte in aanmerking wordt genomen, moet u uw relatie bekendmaken aan de hand van een belangenverstrengelingsformulier en erover waken dat u niet betrokken bent bij besluitvorming die een invloed heeft op de aan deze leverancier betaalde prijzen of toegekende opdrachten.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Mag u een familielid aanbevelen voor een baan bij Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Ja, op voorwaarde dat u niet betrokken bent bij de wervingsprocedure.]]></option>
+                <option><![CDATA[Nee, u mag in geen geval een familielid aan Johnson Controls aanbevelen.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> U mag een familielid aanbevelen voor een baan op voorwaarde dat u uw familielid doorverwijst naar het gepaste wervingskanaal en dat u niet actief betrokken bent bij de wervingsprocedure. Er mag ook geen sprake zijn van een rapportagelijn tussen u en uw familielid. Als uw familielid wordt aangenomen, moet u een belangenverstrengelingsformulier invullen.]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> U mag een familielid aanbevelen voor een baan op voorwaarde dat u uw familielid doorverwijst naar het gepaste wervingskanaal en dat u niet actief betrokken bent bij de wervingsprocedure. Er mag ook geen sprake zijn van een rapportagelijn tussen u en uw familielid. Als uw familielid wordt aangenomen, moet u een belangenverstrengelingsformulier invullen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Staat het beleid van Johnson Controls werknemers toe geld te vragen voor hun favoriete goede doel?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Ja]]></option>
+                <option><![CDATA[Nee]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het is bij Johnson Controls niet toegestaan om giften voor persoonlijke goede doelen te vragen op het werk. Hierdoor voelen mensen zich onder druk gezet en verplicht om een bijdrage te doen en dat willen we vermijden. ]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het is bij Johnson Controls niet toegestaan om giften voor persoonlijke goede doelen te vragen op het werk. Hierdoor voelen mensen zich onder druk gezet en verplicht om een bijdrage te doen en dat willen we vermijden. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Een vriend van u wenst zaken te doen met Johnson Controls. Wat moet u doen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Meteen een beroep doen op de diensten van uw vriend, die een fantastisch product aanbiedt ]]></option>
+                <option><![CDATA[Uw vriend laten weten dat dit niet zal lukken omdat het in strijd is met het belangenverstrengelingsbeleid van Johnson Controls]]></option>
+                <option><![CDATA[Uw vriend aanmoedigen een van de voorkeursleveranciers van Johnson Controls te worden door deel te nemen aan de officiële goedkeuringsprocedure voor leveranciers]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Werknemers van Johnson Controls mogen vrienden of familieleden ertoe aanzetten leverancier te worden, maar moeten de correcte selectieprocedures opvolgen. Als het een leverancier betreft, moet u hem aanmoedigen de officiële goedkeuringsprocedure voor leveranciers van Johnson Controls te gebruiken.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Werknemers van Johnson Controls mogen vrienden of familieleden ertoe aanzetten leverancier te worden, maar moeten de correcte selectieprocedures opvolgen. Als het een leverancier betreft, moet u hem aanmoedigen de officiële goedkeuringsprocedure voor leveranciers van Johnson Controls te gebruiken.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[U bent er zonet achter gekomen dat uw zus een leidinggevende functie bij een concurrent van Johnson Controls heeft aangenomen. Wat moet u doen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Contact met haar opnemen om informatie over de concurrent te verzamelen, die Johnson Controls van pas kan komen]]></option>
+                <option><![CDATA[Een belangenverstrengelingsformulier invullen om Johnson Controls attent te maken op een mogelijk conflict]]></option>
+                <option><![CDATA[Niets doen. Het maakt immers niet uit waar uw familieleden werken]]></option>	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het is van essentieel belang om een mogelijk of feitelijk belangenconflict te voorkomen. Zelfs de schijn van een conflict moet worden voorkomen. In deze situatie is het van belang te melden dat een naast familielid een leidinggevende functie bij een concurrent bekleedt.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het is van essentieel belang om een mogelijk of feitelijk belangenconflict te voorkomen. Zelfs de schijn van een conflict moet worden voorkomen. In deze situatie is het van belang te melden dat een naast familielid een leidinggevende functie bij een concurrent bekleedt.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[U hebt meerdere jaren met een leverancier samengewerkt en bent met hem bevriend geraakt. Deze leverancier is al een gescreende externe leverancier. De leverancier vraagt u een goed woordje voor hem te doen bij een werknemer in een andere tak van Johnson Controls. Wat moet u doen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0,0,0">
+               <option><![CDATA[Hem vertellen dat u met plezier een verwijzing geeft, maar niet gemachtigd bent om wervingsbeslissingen aan te bevelen]]></option>				
+                <option><![CDATA[Hem zeggen dat u hem zult aanbevelen, maar dit uiteindelijk niet doen]]></option>				
+                <option><![CDATA[Een aanbeveling naar de werknemer e-mailen met het advies de leverancier onmiddellijk opdrachten toe te kennen]]></option>
+				<option><![CDATA[Geen van de bovenstaande antwoorden]]></option>               	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Hoewel u met de leverancier bevriend bent geraakt, moet u steeds in het belang van Johnson Controls handelen. U mag een verwijzing geven, maar u mag niet rechtstreeks wervingsbeslissingen trachten te beïnvloeden in een andere tak van Johnson Controls. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Hoewel u met de leverancier bevriend bent geraakt, moet u steeds in het belang van Johnson Controls handelen. U mag een verwijzing geven, maar u mag niet rechtstreeks wervingsbeslissingen trachten te beïnvloeden in een andere tak van Johnson Controls. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[U hebt onlangs uw geld in een aantal bedrijven belegd, maar beseft nu dat een paar van de bedrijven concurrenten zijn van Johnson Controls. Is dit toegestaan krachtens het beleid van Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,0,1">                			
+                <option><![CDATA[Nee, u mag in geen geval beleggen in een concurrent van Johnson Controls]]></option>				
+                <option><![CDATA[Het mag alleen als u de eigenaar van het concurrerende bedrijf bent]]></option>				
+                <option><![CDATA[Ja, u mag zonder probleem beleggen in een concurrent van Johnson Controls]]></option>				
+                <option><![CDATA[Het is aanvaardbaar, zolang u met uw belegging niet 1% of meer van het bedrijf bezit]]></option>		
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> U mag uw geld beleggen in een concurrerend bedrijf zolang u hiermee niet 1% of meer van het bedrijf bezit. Als u ooit twijfelt, wees dan transparant en dien een belangenverstrengelingsformulier in via <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com </a> zodat uw situatie kan worden bekeken.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> U mag uw geld beleggen in een concurrerend bedrijf zolang u hiermee niet 1% of meer van het bedrijf bezit. Als u ooit twijfelt, wees dan transparant en dien een belangenverstrengelingsformulier in via <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com </a> zodat uw situatie kan worden bekeken.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Uw buurvrouw heeft een limousinebedrijf. Ze is betrouwbaar en hanteert lagere prijzen dan de voorkeursleveranciers van Johnson Controls. U reist veel en het zou Johnson Controls goedkoper uitkomen als u een beroep op haar zou doen. Mag u een beroep doen op de diensten van uw buurvrouw? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,0,1">                		
+                <option><![CDATA[Ja, ze hanteert lagere prijzen en iedereen bij Johnson Controls wordt gevraagd de kosten te beperken ]]></option>				
+                <option><![CDATA[Ja, ze is een vriendin van u en door een beroep te doen op haar bedrijf bespaart uw bedrijf geld en wordt zij geholpen]]></option>				
+                <option><![CDATA[Nee, ze biedt u niet voldoende korting aan]]></option>				
+                <option><![CDATA[Ja, op voorwaarde dat ze een goedgekeurde leverancier wordt]]></option>	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Als het bedrijf van uw buurvrouw een voorkeursleverancier wordt via de gepaste procedure van Johnson Controls, dan kunt u mogelijk een beroep doen op haar diensten.]]></text>
+					<text><![CDATA[Als uw buurvrouw een voorkeursleverancier wordt, moet u wel weten dat u geen korting mag aanvaarden op persoonlijk vervoer omdat dit als een belangenconflict zou kunnen worden beschouwd.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Als het bedrijf van uw buurvrouw een voorkeursleverancier wordt via de gepaste procedure van Johnson Controls, dan kunt u mogelijk een beroep doen op haar diensten.]]></text>
+					<text><![CDATA[Als uw buurvrouw een voorkeursleverancier wordt, moet u wel weten dat u geen korting mag aanvaarden op persoonlijk vervoer omdat dit als een belangenconflict zou kunnen worden beschouwd.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	
+	<module id="2" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[De feestdagen zijn aangebroken en samen met uw team zou u geschenken aan uw leveranciers willen geven. Welke geschenken zijn gepast?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[De laatste nieuwe laptop]]></option>
+                <option><![CDATA[Een laaggeprijsde fotolijst]]></option>
+                <option><![CDATA[Een cadeaubon van American Express]]></option>
+                <option><![CDATA[Een weekendverblijf in een luxekuuroord]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Sommige van de vermelde opties zijn te duur en ongepast om aan een leverancier te geven. Contanten of daarmee gelijk gestelde geschenken, zoals cadeaubonnen, zijn uitdrukkelijk verboden. De laaggeprijsde fotolijst zou in deze situatie aanvaardbaar zijn. Let wel: er mag nooit iets van waarde worden geschonken als dit voor een steekpenning zou kunnen doorgaan.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Sommige van de vermelde opties zijn te duur en ongepast om aan een leverancier te geven. Contanten of daarmee gelijk gestelde geschenken, zoals cadeaubonnen, zijn uitdrukkelijk verboden. De laaggeprijsde fotolijst zou in deze situatie aanvaardbaar zijn. Let wel: er mag nooit iets van waarde worden geschonken als dit voor een steekpenning zou kunnen doorgaan.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Een leverancier heeft u een geschenk gegeven. Welke van de onderstaande geschenken moeten worden gemeld aan de hand van het meldingsformulier voor geschenken van Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,0,1">
+                <option><![CDATA[Een nieuwe iPad van Apple]]></option>
+                <option><![CDATA[Een kleine kamerplant]]></option>
+                <option><![CDATA[Twee tickets voor op de eerste rij voor een internationaal sportevenement]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> De waarde van de iPad bedraagt meer dan 200 Amerikaanse dollar. Hetzelfde geldt voor de tickets. Alle geschenken die meer kosten dan de grensbedragen uit het beleid inzake transport, geschenken en amusement voor derden moeten worden gemeld. De plant is laaggeprijsd en werd niet gegeven met de bedoeling u te beïnvloeden, dus u mag hem aanvaarden.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> De waarde van de iPad bedraagt meer dan 200 Amerikaanse dollar. Hetzelfde geldt voor de tickets. Alle geschenken die meer kosten dan de grensbedragen uit het beleid inzake transport, geschenken en amusement voor derden moeten worden gemeld. De plant is laaggeprijsd en werd niet gegeven met de bedoeling u te beïnvloeden, dus u mag hem aanvaarden.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> De waarde van de iPad bedraagt meer dan 200 Amerikaanse dollar. Hetzelfde geldt voor de tickets. Alle geschenken die meer kosten dan de grensbedragen uit het beleid inzake transport, geschenken en amusement voor derden moeten worden gemeld. De plant is laaggeprijsd en werd niet gegeven met de bedoeling u te beïnvloeden, dus u mag hem aanvaarden.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Uw kantoor verstrekt zakelijk amusement aan een klant, maar u vermoedt dat de klant een 'overheidsinstantie' is. Wat moet u doen? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0,0,0">
+                <option><![CDATA[Bel uw regionale compliance-advocaat of iemand van de juridische afdeling, aangezien zij u kunnen helpen. ]]></option>
+                <option><![CDATA[Niets, de status van de klant is niet van belang. ]]></option>
+                <option><![CDATA[Probeer erachter te komen of de klant een overheidsinstantie is, zodat u een duurdere locatie kunt uitkiezen.]]></option>
+                <option><![CDATA[Ga er sowieso van uit dat het een overheidsinstantie is en vul voor de zekerheid een anticorruptieformulier in.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Een klant die een overheidsinstantie is moet anders worden behandeld dan een commerciële klant, in het bijzonder op het gebied van geschenken en amusement.]]></text>
+					<text><![CDATA[Als u niet zeker weet of het al dan niet een overheidsinstantie betreft, bel dan uw regionale compliance-advocaat of iemand van de juridische afdeling voor hulp. Zij kunnen u advies geven over wat u al dan niet mag doen.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Een klant die een overheidsinstantie is moet anders worden behandeld dan een commerciële klant, in het bijzonder op het gebied van geschenken en amusement.]]></text>
+					<text><![CDATA[Als u niet zeker weet of het al dan niet een overheidsinstantie betreft, bel dan uw regionale compliance-advocaat of iemand van de juridische afdeling voor hulp. Zij kunnen u advies geven over wat u al dan niet mag doen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[U hebt net een grote verkoop afgerond en de klant wil dit vieren door u en uw partner uit te nodigen voor een theatervoorstelling.  U denkt dat de tickets minder dan 200 Amerikaanse dollar kosten. Moet u dit melden via <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com</a>?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Nee, het is na de uren en aangezien u met uw partner gaat, staat dit los van het werk]]></option>
+                <option><![CDATA[Ja, maar u moet maar de helft van de waarde van het amusement melden, aangezien uw partner geen werknemer van Johnson Controls is]]></option>
+                <option><![CDATA[Nee, want dit is zakelijk amusement omdat de klant samen met u naar het theater gaat]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> De theatertickets zijn blijkbaar een aanvaardbare vorm van zakelijk amusement. Als u zich zorgen maakt of vreest dat het als een steekpenning zou kunnen overkomen, moet u het aanbod met uw supervisor bespreken en kijken of hij/zij het eens is met uw beslissing.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> De theatertickets zijn blijkbaar een aanvaardbare vorm van zakelijk amusement. Als u zich zorgen maakt of vreest dat het als een steekpenning zou kunnen overkomen, moet u het aanbod met uw supervisor bespreken en kijken of hij/zij het eens is met uw beslissing.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[U wordt benaderd door een potentiële leverancier die u een bonus in contanten aanbiedt als u hem extra werk bezorgt. U begrijpt dat dit een steekpenning lijkt te zijn en u wijst het aanbod op correcte, vriendelijke wijze af. Hebt u al het nodige gedaan?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Ja, u hebt het geschenk niet aanvaard omdat het contanten betreft ]]></option>
+                <option><![CDATA[Nee, u moet het aanbod ook melden aan de bevoegde persoon in het bedrijf]]></option>
+                <option><![CDATA[Nee, u had het geschenk moeten aanvaarden aangezien u de leverancier niet wilt beledigen]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Als een leverancier, of een derde, waarmee Johnson Controls zaken doet u een geschenk of contanten tracht te geven en als u meent dat dit een poging is om u te beïnvloeden, moet u het geschenk afwijzen en melden aan de juridische afdeling of uw regionale compliance-advocaat, die u zullen vragen een formulier in te vullen. Dit is mogelijk een leverancier waarmee we geen zaken willen doen.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Als een leverancier, of een derde, waarmee Johnson Controls zaken doet u een geschenk of contanten tracht te geven en als u meent dat dit een poging is om u te beïnvloeden, moet u het geschenk afwijzen en melden aan de juridische afdeling of uw regionale compliance-advocaat, die u zullen vragen een formulier in te vullen. Dit is mogelijk een leverancier waarmee we geen zaken willen doen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Er wordt aan uw bedrijf gevraagd prijzen te doneren die op een conferentie zullen worden verloot. Op de conferentie zullen leveranciers en andere gelijkwaardige bedrijven aanwezig zijn. De waarde van elke prijs bedraagt minder dan 200 Amerikaanse dollar. Moeten deze geschenken worden gemeld?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Alleen als een van de producten van Johnson Controls wordt verloot]]></option>
+                <option><![CDATA[Nee, dit zijn bedrijfskosten en het geschenk wordt niet rechtstreeks aan iemand gegeven, maar per toeval door een deelnemer gewonnen]]></option>
+                <option><![CDATA[Ja, dit geschenk wordt mogelijk door een overheidsfunctionaris gewonnen]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het is geen enkel probleem dat Johnson Controls op deze manier prijzen doneert. Er is geen sprake van de bedoeling om iets rechtstreeks aan een deelnemer te geven, of het nu een commerciële of een overheidswerknemer betreft, noch van de bedoeling om iemand te beïnvloeden.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het is geen enkel probleem dat Johnson Controls op deze manier prijzen doneert. Er is geen sprake van de bedoeling om iets rechtstreeks aan een deelnemer te geven, of het nu een commerciële of een overheidswerknemer betreft, noch van de bedoeling om iemand te beïnvloeden.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[U kreeg een duur elektronisch geschenk van een trouwe, zeer gewaardeerde klant. De klant waardeert het buitengewone werk dat Johnson Controls, en voornamelijk uzelf, op consequente wijze voor hem leveren.  U beseft dat de waarde de meldingsdrempel van 200 Amerikaanse dollar voor geschenken aanzienlijk overschrijdt en zelfs buitensporig kan overkomen. Welke van de onderstaande manieren zijn gepaste manieren om met de situatie om te gaan?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,1,1">
+                <option><![CDATA[Het geschenk melden en op beleefde wijze retourneren met de boodschap dat het op prijs wordt gesteld, maar de aanvaardbare waarde krachtens het beleid van Johnson Controls aanzienlijk overschrijdt.]]></option>
+                <option><![CDATA[Het geschenk vriendelijk aanvaarden, het melden en met uw manager bespreken of het aanvaardbaar is om het geschenk te houden.]]></option>
+                <option><![CDATA[Het geschenk vriendelijk aanvaarden, het melden en het geschenk aan een door Johnson Controls gesponsord goed doel geven.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Al deze manieren zijn aanvaardbaar. Er zijn situaties waarin u een klant niet wilt beledigen vanwege een lokaal gebruik of een zakenrelatie. Als u zich ongemakkelijk voelt bij het afwijzen van een geschenk, aanvaard het dan vriendelijk, meld het en bespreek met uw manager, HR en/of het complianceteam hoe u het geschenk het best kunt benutten.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Al deze manieren zijn aanvaardbaar. Er zijn situaties waarin u een klant niet wilt beledigen vanwege een lokaal gebruik of een zakenrelatie. Als u zich ongemakkelijk voelt bij het afwijzen van een geschenk, aanvaard het dan vriendelijk, meld het en bespreek met uw manager, HR en/of het complianceteam hoe u het geschenk het best kunt benutten.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Al deze manieren zijn aanvaardbaar. Er zijn situaties waarin u een klant niet wilt beledigen vanwege een lokaal gebruik of een zakenrelatie. Als u zich ongemakkelijk voelt bij het afwijzen van een geschenk, aanvaard het dan vriendelijk, meld het en bespreek met uw manager, HR en/of het complianceteam hoe u het geschenk het best kunt benutten.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[U zou graag samen met uw team de feestdagen vieren met een lunch waarvoor iedereen afzonderlijk en niet Johnson Controls zal betalen. Er zullen ook geschenken worden uitgewisseld. Geldt hier dezelfde meldingsdrempel van 200 Amerikaanse dollar voor geschenken?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Ja, als dit geldt voor geschenken die we namens het bedrijf geven en ontvangen, moeten we onszelf absoluut aan dezelfde standaard houden]]></option>
+                <option><![CDATA[Nee]]></option>
+                <option><![CDATA[Ja, maar alleen als de drempel van 200 Amerikaanse dollar wordt overschreden]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Geschenken tussen werknemers onderling moeten niet worden gemeld, maar moeten sowieso smaakvol zijn en niet bedoeld zijn om een andere werknemer op een bepaalde manier te beïnvloeden.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Geschenken tussen werknemers onderling moeten niet worden gemeld, maar moeten sowieso smaakvol zijn en niet bedoeld zijn om een andere werknemer op een bepaalde manier te beïnvloeden.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	<module id="3" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Om van omkoping te kunnen spreken, moeten er contanten worden uitgewisseld.]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Er is sprake van omkoping wanneer iemand iets van waarde ontvangt met als doel zijn/haar beslissingen of acties op ongepaste wijze te beïnvloeden. ]]></text>
+					<text><![CDATA[Bij omkoping kan het gaan om contanten, maar ook om zaken zoals aandelen, geschenken, gastvrijheid, ongegronde kortingen of commissielonen, liefdadigheidsbijdragen of banen voor familieleden en vrienden.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Er is sprake van omkoping wanneer iemand iets van waarde ontvangt met als doel zijn/haar beslissingen of acties op ongepaste wijze te beïnvloeden. ]]></text>
+					<text><![CDATA[Bij omkoping kan het gaan om contanten, maar ook om zaken zoals aandelen, geschenken, gastvrijheid, ongegronde kortingen of commissielonen, liefdadigheidsbijdragen of banen voor familieleden en vrienden.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Wanneer Reginald, een werknemer van Johnson Controls en een Britse staatsburger, in een overheidskantoor in Honduras arriveert om zijn werkvisum te laten verlengen, vertelt de beambte hem dat de behandeling van zijn aanvraag wel drie weken kan duren. Gezien de termijn loopt Reginald het risico een langetermijnproject niet te kunnen voltooien, dus zijn werkvisum moet met onmiddellijke ingang worden verlengd. De beambte vertelt Reginald dat hij er 'in ruil voor een kleine vergoeding' voor kan zorgen dat de aanvraag van Reginald binnen het uur wordt behandeld. Moet Reginald de beambte een cashbedrag van 20 dollar geven?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Ja, want het is maar een klein bedrag om er zeker van te zijn dat hij een langetermijnproject kan voltooien.]]></option>
+                <option><![CDATA[Ja, want hij kan deze vergoeding declareren.]]></option>
+                <option><![CDATA[Nee, want dit is een 'faciliterende betaling' die in strijd zou zijn met de wetgeving en met het beleid van Johnson Controls.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Als Reginald de overheidsbeambte zou hebben betaald om zijn werkvisum te bespoedigen, zou hij een faciliterende betaling hebben gedaan. Dit is niet toegestaan volgens het beleid van Johnson Controls <b>en het is onwettig krachtens de antiomkopingswetten in tal van jurisdicties</b>.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Als Reginald de overheidsbeambte zou hebben betaald om zijn werkvisum te bespoedigen, zou hij een faciliterende betaling hebben gedaan. Dit is niet toegestaan volgens het beleid van Johnson Controls <b>en het is onwettig krachtens de antiomkopingswetten in tal van jurisdicties</b>.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Stephanie, een medewerkster van Johnson Controls, ontvangt een enveloppe met daarin 500 dollar van een onderaannemer van een project in beheer van Stephanie. In de enveloppe steekt een briefje aan Stephanie waarin de onderaannemer haar vraagt hem in de toekomst voor meer projecten te overwegen. Wat moet Stephanie doen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Het geschenk afwijzen, het geld teruggeven en de betaling melden aan haar supervisor en de juridische afdeling van Johnson Controls.]]></option>
+                <option><![CDATA[De betaling aanvaarden en op accurate wijze registreren als een 'geschenk' van de onderaannemer op het meldingsformulier voor geschenken van Johnson Controls. ]]></option>
+                <option><![CDATA[De betaling aanvaarden en het hierbij laten omdat ze zeker weet dat het haar toekomstige beslissingen niet zal beïnvloeden en dat het dus geen steekpenning is.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het geld in de enveloppe was een poging om een steekpenning te betalen aan Stephanie.  Dit aanvaarden is onethisch en onwettig in tal van jurisdicties. Stephanie moet haar supervisor en de juridische afdeling van Johnson Controls inlichten over de poging van de onderaannemer om de steekpenning te betalen. Het management en de juridische afdeling zullen dan verdere stappen ondernemen.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het geld in de enveloppe was een poging om een steekpenning te betalen aan Stephanie.  Dit aanvaarden is onethisch en onwettig in tal van jurisdicties. Stephanie moet haar supervisor en de juridische afdeling van Johnson Controls inlichten over de poging van de onderaannemer om de steekpenning te betalen. Het management en de juridische afdeling zullen dan verdere stappen ondernemen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Mark, een werknemer van Johnson Controls, ontvangt een enveloppe met daarin 500 dollar van een onderaannemer van een project waarop Mark toezicht houdt in Londen, Engeland. In de enveloppe steekt een briefje waarin de onderaannemer hem vraagt hem in de toekomst voor meer projecten te overwegen. Als Mark de betaling van de onderaannemer aanvaardt, kunnen zowel hijzelf als de onderaannemer strafrechtelijk aansprakelijk worden gesteld krachtens de 'Britse Bribery Act'. ]]></text>
+				<text><![CDATA[Is deze bewering waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Krachtens de 'Britse Bribery Act' kunnen zowel Mark als de verkoper strafrechtelijk aansprakelijk worden gesteld als de omkoping zich afspeelt in het VK of op een plaats die 'nauw verbonden is' met het VK. De 'Britse Bribery Act' stelt commerciële omkoping (omkoping tussen private instanties en personen) strafbaar, terwijl de FCPA alleen steekpenningen waarbij niet-Amerikaanse overheidsfunctionarissen zijn betrokken strafbaar stelt.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Krachtens de 'Britse Bribery Act' kunnen zowel Mark als de verkoper strafrechtelijk aansprakelijk worden gesteld als de omkoping zich afspeelt in het VK of op een plaats die 'nauw verbonden is' met het VK. De 'Britse Bribery Act' stelt commerciële omkoping (omkoping tussen private instanties en personen) strafbaar, terwijl de FCPA alleen steekpenningen waarbij niet-Amerikaanse overheidsfunctionarissen zijn betrokken strafbaar stelt.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Een Italiaanse overheidsfunctionaris laat Justin, een in Amerika gevestigde werknemer van Johnson Controls, weten dat hij voor Johnson Controls een aanzienlijk overheidscontract in Italië in de wacht zal slepen. In ruil hiervoor vraagt hij Johnson Controls een bijdrage van 5.000 dollar te doen aan het goede doel dat hem na aan het hart ligt, de 'Make a Better Choice Foundation'. Justin weet Johnson Controls te overtuigen de schenking te doen en 6 maanden later sleept Johnson Controls, zoals beloofd, een winstgevend contract met de Italiaanse overheid in de wacht.]]></text>
+				<text><![CDATA[Welke van de volgende uitspraken zijn juist?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[Justin heeft Johnson Controls er niet toe aangezet een onwettige steekpenning te betalen, aangezien de Italiaanse overheidsfunctionaris geen geld heeft ontvangen.]]></option>
+                <option><![CDATA[Justin zet Johnson Controls ertoe aan een onwettige steekpenning te geven, zelfs al heeft de Italiaanse overheidsfunctionaris geen geld ontvangen. Een steekpenning is immers alles van waarde dat wordt gegeven om de beslissing van een besluitvormer te beïnvloeden. ]]></option>
+                <option><![CDATA[Justin heeft Johnson Controls ertoe aangezet een onwettige steekpenning te betalen aan de Italiaanse overheidsfunctionaris en loopt in vele jurisdicties het risico op een gevangenisstraf naar aanleiding van zijn handelingen.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Omkoping is het geven of beloven van iets waardevols om het onafhankelijke oordeel of gedrag van iemand in een vertrouwenspositie te trachten beïnvloeden. Omkoping is onwettig en ten strengste verboden bij Johnson Controls.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Omkoping is het geven of beloven van iets waardevols om het onafhankelijke oordeel of gedrag van iemand in een vertrouwenspositie te trachten beïnvloeden. Omkoping is onwettig en ten strengste verboden bij Johnson Controls.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Omkoping is het geven of beloven van iets waardevols om het onafhankelijke oordeel of gedrag van iemand in een vertrouwenspositie te trachten beïnvloeden. Omkoping is onwettig en ten strengste verboden bij Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[De overgrote meerderheid van de gerechtelijke vervolgingen krachtens de antiomkopingswetten heeft betrekking op externe tussenpersonen, zoals agenten, distributeurs en liefdadigheidsorganisaties, tussen de betaler en de ontvanger van de steekpenning.]]></text>
+				<text><![CDATA[Is deze bewering waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0">
+                 <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het merendeel van de gerechtelijke vervolgingen wegens omkoping heeft betrekking op externe tussenpersonen, zoals agenten, distributeurs en liefdadigheidsorganisaties. Daarom is het van essentieel belang dat we erover waken dat al onze derden worden geregistreerd en beheerd in ons programma voor derden. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het merendeel van de gerechtelijke vervolgingen wegens omkoping heeft betrekking op externe tussenpersonen, zoals agenten, distributeurs en liefdadigheidsorganisaties. Daarom is het van essentieel belang dat we erover waken dat al onze derden worden geregistreerd en beheerd in ons programma voor derden. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Robert, een medewerker van Johnson Controls, vat gesprekken aan met Alex, een medewerker van Middleman Ltd., om Middleman te laten optreden als agent van Johnson Controls. Alex vertelt Robert dat hij "goede contacten heeft met overheidsfunctionarissen" en zegt dat 30% van het commissieloon dat Middleman aanrekent om overheidscontracten voor Johnson Controls binnen te halen bestemd is om "de juiste mensen tevreden te houden".]]></text>
+				<text><![CDATA[Moet Robert zich zorgen maken?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Nee, zijn voornaamste doel is om de winst van Johnson Controls te maximaliseren en de overheidscontacten van Middleman zijn een uitgelezen zakenkans]]></option>
+                <option><![CDATA[Misschien, Johnson Controls betaalt geen commissielonen die boven de marktprijs liggen en het verzoek van 30% van Middleman is te hoog]]></option>
+                <option><![CDATA[Ja, Middleman vormt een aanzienlijk corruptierisico]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Robert moet zich zorgen maken. De waarschuwingssignalen in deze situatie zijn:<ul><li>Alex die zegt dat hij nauwe contacten onderhoudt met overheidsfunctionarissen.</li><li>Het hoge commissieloon dat wordt aangerekend op een verkoop aan een overheidsklant.</li></ul>]]></text>
+					<text><![CDATA[Robert had moeten opmerken dat dit allebei belangrijke waarschuwingssignalen zijn van het feit dat Middleman contracten voor Johnson Controls in de wacht sleept door overheidsfunctionarissen steekpenningen te betalen.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Robert moet zich zorgen maken. De waarschuwingssignalen in deze situatie zijn:<ul><li>Alex die zegt dat hij nauwe contacten onderhoudt met overheidsfunctionarissen.</li><li>Het hoge commissieloon dat wordt aangerekend op een verkoop aan een overheidsklant.</li></ul>]]></text>
+					<text><![CDATA[Robert had moeten opmerken dat dit allebei belangrijke waarschuwingssignalen zijn van het feit dat Middleman contracten voor Johnson Controls in de wacht sleept door overheidsfunctionarissen steekpenningen te betalen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Ted, een medewerker van Johnson Controls, vat gesprekken aan met John, een medewerker van ABC Ltd., om ABC te laten optreden als agent van Johnson Controls. John legt uit dat hij al jarenlang bezig is om nauwe contacten te onderhouden met overheidsfunctionarissen en dat hij daarom een commissieloon van 30% wenst om overheidscontracten voor Johnson Controls binnen te halen. Als John een deel van het commissieloon van ABC aan een overheidsfunctionaris betaalt, lopen Ted, John, Johnson Controls en ABC allemaal het risico op boetes en/of gevangenisstraffen krachtens de anticorruptiewetten.]]></text>
+				<text><![CDATA[Is deze bewering waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> De bedrijven en personen die bij deze omkoping betrokken zijn, zijn stuk voor stuk strafrechtelijk aansprakelijk. ]]></text>
+					<text><![CDATA[In werkelijkheid gelden de meeste antiomkopingswetten, waaronder de 'Amerikaanse Foreign Corrupt Practices Act' (FCPA) en de 'Britse Bribery Act', zowel voor ondernemingen als voor personen. Bedrijven en personen die in navolging van antiomkopingswetten worden vervolgd, kunnen hoge boetes krijgen en zelfs in de gevangenis belanden.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> De bedrijven en personen die bij deze omkoping betrokken zijn, zijn stuk voor stuk strafrechtelijk aansprakelijk. ]]></text>
+					<text><![CDATA[In werkelijkheid gelden de meeste antiomkopingswetten, waaronder de 'Amerikaanse Foreign Corrupt Practices Act' (FCPA) en de 'Britse Bribery Act', zowel voor ondernemingen als voor personen. Bedrijven en personen die in navolging van antiomkopingswetten worden vervolgd, kunnen hoge boetes krijgen en zelfs in de gevangenis belanden.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+    </module>
+	<module id="4" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[U moet een Excel-bestand met gevoelige of vertrouwelijke informatie naar een collega in een andere regio versturen. Wat is de beste aanpak om de informatie te beveiligen tijdens het verzenden ervan?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Het bestand beveiligen met een wachtwoord voordat u het verzendt. Het wachtwoord in dezelfde e-mail plaatsen, zodat uw collega het bestand kan openen]]></option>
+                <option><![CDATA[Het bestand beveiligen met een wachtwoord voordat u het verzendt en vervolgens het wachtwoord in een e-mail met de titel WACHTWOORD versturen zodat uw collega het gemakkelijk kan terugvinden.]]></option>
+                <option><![CDATA[Het bestand beveiligen met een wachtwoord voordat u het verzendt en uw collega bellen om het wachtwoord door te geven zodat hij/zij het bestand kan openen. ]]></option>
+				
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het is van essentieel belang om vertrouwelijke of gevoelige gegevens te beschermen. Het beschermen van de inhoud met een wachtwoord is een goede manier. Het is al even belangrijk om dit wachtwoord voorzichtig te communiceren. Het is niet veilig om het wachtwoord in dezelfde e-mail of in een afzonderlijke e-mail met de titel WACHTWOORD te verzenden. De veiligste manier om een wachtwoord te communiceren is telefonisch, persoonlijk of via sms.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het is van essentieel belang om vertrouwelijke of gevoelige gegevens te beschermen. Het beschermen van de inhoud met een wachtwoord is een goede manier. Het is al even belangrijk om dit wachtwoord voorzichtig te communiceren. Het is niet veilig om het wachtwoord in dezelfde e-mail of in een afzonderlijke e-mail met de titel WACHTWOORD te verzenden. De veiligste manier om een wachtwoord te communiceren is telefonisch, persoonlijk of via sms.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Colin moet een Excel-bestand met vertrouwelijke informatie naar een collega in een andere regio versturen. Hij besluit het bestand te beschermen door het te coderen en met een wachtwoord te beveiligen. Welke van de onderstaande wachtwoorden kan Colin het best gebruiken?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,0,1">
+                <option><![CDATA[Colin123]]></option>
+                <option><![CDATA[123colin]]></option>
+                <option><![CDATA[C1o2l3in]]></option>
+                <option><![CDATA[!C1o2l3in]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het sterkste wachtwoord (namelijk hetgeen dat het moeilijkst te raden is), is er een met een mengeling van symbolen, hoofd- en kleine letters en cijfers.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het sterkste wachtwoord (namelijk hetgeen dat het moeilijkst te raden is), is er een met een mengeling van symbolen, hoofd- en kleine letters en cijfers.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Andrea is druk in de weer met afgedrukte documenten met daarin persoonsgegevens van klanten wanneer ze op de klok kijkt en beseft dat ze te laat is voor een vergadering over een ander thema. Wat moet ze met de documenten aanvangen?]]></text>
+			</questionText>
+             <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[De documenten op haar bureau laten liggen ]]></option>
+                <option><![CDATA[De documenten in een archiefkast opbergen]]></option>
+                <option><![CDATA[De documenten in een bureaulade achter slot en grendel opbergen]]></option>
+			</options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Andrea moet altijd voorzichtig omspringen met de persoonsgegevens van klanten. De veiligste manier om de documenten te bewaren wanneer ze de vergadering bijwoont, is ze in een archiefkast of in een bureaulade achter slot en grendel opbergen. ]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Andrea moet altijd voorzichtig omspringen met de persoonsgegevens van klanten. De veiligste manier om de documenten te bewaren wanneer ze de vergadering bijwoont, is ze in een archiefkast of in een bureaulade achter slot en grendel opbergen. ]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Andrea moet altijd voorzichtig omspringen met de persoonsgegevens van klanten. De veiligste manier om de documenten te bewaren wanneer ze de vergadering bijwoont, is ze in een archiefkast of in een bureaulade achter slot en grendel opbergen. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Marta werkt op de Human Resources-afdeling en heeft toegang tot de persoonsgegevens van alle werknemers op de locatie. Samantha wil graag een verjaardagsclub beginnen waar werknemers samen gaan lunchen om elkaars verjaardag te vieren. Ze vraagt Marta een lijst van verjaardagen van werknemers. Wat moet Marta doen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[Samantha de lijst van verjaardagen bezorgen, want de club zal het moreel van de werknemers opkrikken]]></option>
+                <option><![CDATA[Weigeren om Samantha de lijst van verjaardagen te bezorgen]]></option>
+                <option><![CDATA[Samantha suggereren om werknemers te vragen zich aan te melden voor de verjaardagsclub en zelf hun verjaardagen door te geven ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Marta mag Samantha de lijst van verjaardagen van werknemers niet bezorgen. Persoonsgegevens mogen alleen toegankelijk zijn voor bevoegde werknemers en contractanten met een geldige, aan het werk gerelateerde reden. Hoewel de verjaardagsclub van Samantha een leuk idee is, is het geen aan het werk gerelateerde reden en is ze niet bevoegd om deze informatie te ontvangen.]]></text>
+					<text><![CDATA[Marta kan Samantha voorstellen om werknemers te vragen zich aan te melden en zelf hun verjaardagen door te geven.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Marta mag Samantha de lijst van verjaardagen van werknemers niet bezorgen. Persoonsgegevens mogen alleen toegankelijk zijn voor bevoegde werknemers en contractanten met een geldige, aan het werk gerelateerde reden. Hoewel de verjaardagsclub van Samantha een leuk idee is, is het geen aan het werk gerelateerde reden en is ze niet bevoegd om deze informatie te ontvangen.]]></text>
+					<text><![CDATA[Marta kan Samantha voorstellen om werknemers te vragen zich aan te melden en zelf hun verjaardagen door te geven.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Marta mag Samantha de lijst van verjaardagen van werknemers niet bezorgen. Persoonsgegevens mogen alleen toegankelijk zijn voor bevoegde werknemers en contractanten met een geldige, aan het werk gerelateerde reden. Hoewel de verjaardagsclub van Samantha een leuk idee is, is het geen aan het werk gerelateerde reden en is ze niet bevoegd om deze informatie te ontvangen.]]></text>
+					<text><![CDATA[Marta kan Samantha voorstellen om werknemers te vragen zich aan te melden en zelf hun verjaardagen door te geven.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Esteban werkt op de debiteurenafdeling en zijn afdelingsmanager heeft een samenvattend verslag gevraagd met de totale achterstallige bedragen in dollar voor elke regio. Esteban heeft een bestaand rapport met een lijst van klanten met achterstallige vorderingen in elke regio, alsook namen, factuuradressen en telefoonnummers van klanten. Moet Esteban dit naar zijn manager sturen? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Ja, omdat het snel alle informatie bevat die zijn manager nodig zou kunnen hebben]]></option>
+                <option><![CDATA[Nee, omdat zijn manager alleen de totaalbedragen in dollar nodig heeft ]]></option>
+                <option><![CDATA[Ja, want zijn manager zou niet willen dat Esteban tijd verliest aan het opstellen van een nieuw rapport terwijl alle vereiste informatie al in een bestaand rapport staat.]]></option>				
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Esteban moet alleen de totaalbedragen in dollar die zijn manager nodig heeft verstrekken. Werknemers kunnen persoonsgegevens van klanten helpen beschermen door selectief te zijn in de informatie die ze delen en met wie ze dit delen. Door een rapport te versturen waar ook contactnamen, adressen en telefoonnummers van klanten in staan, lopen hun persoonsgegevens een onnodig risico.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Esteban moet alleen de totaalbedragen in dollar die zijn manager nodig heeft verstrekken. Werknemers kunnen persoonsgegevens van klanten helpen beschermen door selectief te zijn in de informatie die ze delen en met wie ze dit delen. Door een rapport te versturen waar ook contactnamen, adressen en telefoonnummers van klanten in staan, lopen hun persoonsgegevens een onnodig risico.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls mag de <i><b>klantgegevens</b></i> voor onbeperkte duur bewaren.]]></text>
+				<text><![CDATA[Is deze bewering waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+             <options answer="0,1">
+                 <option><![CDATA[Waar. We mogen klantgegevens bewaren zo lang als we willen.]]></option>
+                <option><![CDATA[Niet waar. We mogen gegevens maar bewaren zolang we ze nodig hebben voor het doel waarvoor ze oorspronkelijk zijn verzameld en ze moeten juist en actueel zijn.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Persoonsgegevens mogen niet langer dan nodig worden bewaard. Johnson Controls is ertoe verplicht klantgegevens te wissen zodra ze niet langer nodig zijn voor het doel waarvoor ze zijn verzameld en overeenkomstig de bepalingen van het schema voor gegevensbewaring van Johnson Controls. Onjuiste gegevens moeten worden gecorrigeerd en klanten hebben mogelijk het recht om, in overeenstemming met de lokale wetgeving, persoonsgegevens te laten schrappen. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Persoonsgegevens mogen niet langer dan nodig worden bewaard. Johnson Controls is ertoe verplicht klantgegevens te wissen zodra ze niet langer nodig zijn voor het doel waarvoor ze zijn verzameld en overeenkomstig de bepalingen van het schema voor gegevensbewaring van Johnson Controls. Onjuiste gegevens moeten worden gecorrigeerd en klanten hebben mogelijk het recht om, in overeenstemming met de lokale wetgeving, persoonsgegevens te laten schrappen. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls mag de <i><b>werknemersgegevens</b></i> voor onbeperkte duur bewaren.]]></text>
+				<text><![CDATA[Is deze bewering waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Waar. We mogen werknemersgegevens bewaren zo lang als we willen.]]></option>
+                <option><![CDATA[Niet waar. We mogen gegevens maar bewaren zolang we ze nodig hebben en ze moeten juist en actueel zijn.]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Persoonsgegevens over werknemers mogen niet langer dan nodig worden bewaard en overeenkomstig de bepalingen van het schema voor gegevensbewaring van Johnson Controls. Arbeidsgegevens mogen worden bewaard zolang dit wettelijk vereist is. Bovendien moeten onjuiste gegevens worden gecorrigeerd.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Persoonsgegevens over werknemers mogen niet langer dan nodig worden bewaard en overeenkomstig de bepalingen van het schema voor gegevensbewaring van Johnson Controls. Arbeidsgegevens mogen worden bewaard zolang dit wettelijk vereist is. Bovendien moeten onjuiste gegevens worden gecorrigeerd.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Wat is de beste aanpak voor het verzamelen van persoonsgegevens?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Zoveel mogelijk persoonsgegevens verzamelen 'voor het geval dat']]></option>
+                <option><![CDATA[Nooit persoonsgegevens verzamelen]]></option>
+                <option><![CDATA[Alleen de gegevens verzamelen die u nodig hebt voor een bepaald doel]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Wanneer u persoonlijke informatie of gegevens over een persoon verzamelt, moet u de gegevens <b>beperken</b> tot hetgeen u nodig hebt voor een bepaald doel. Bewaar nooit meer informatie over een persoon dan hetgeen u nodig hebt. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Wanneer u persoonlijke informatie of gegevens over een persoon verzamelt, moet u de gegevens <b>beperken</b> tot hetgeen u nodig hebt voor een bepaald doel. Bewaar nooit meer informatie over een persoon dan hetgeen u nodig hebt. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Klantgegevens die door een instantie van Johnson Controls worden verzameld, mogen met alle andere instanties van Johnson Controls wereldwijd worden gedeeld.]]></text>
+				<text><![CDATA[Is deze bewering waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1">
+                 <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Zonder de toestemming van de persoon in kwestie mogen de verzamelde gegevens met niemand anders worden gedeeld, tenzij een wettelijke vrijstelling u dit toestaat.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Zonder de toestemming van de persoon in kwestie mogen de verzamelde gegevens met niemand anders worden gedeeld, tenzij een wettelijke vrijstelling u dit toestaat.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Een <b><i>klant</i></b> geeft u de toestemming om zijn/haar persoonsgegevens te delen. Mag u de gegevens delen? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Ja, als de persoon hiermee instemt en als de gegevens worden gedeeld in overeenstemming met de aan de persoon verstrekte kennisgeving en op een manier die strookt met het bedrijfsbeleid]]></option>
+                <option><![CDATA[Nee, in geen geval mogen persoonsgegevens van een persoon worden gedeeld, zelfs als ze hier toestemming voor geven]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Met toestemming van de persoon in kwestie mogen zijn/haar verzamelde gegevens worden gedeeld als dit gebeurt in overeenstemming met de aan de betrokkene verstrekte kennisgeving en op een manier die strookt met het bedrijfsbeleid. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Met toestemming van de persoon in kwestie mogen zijn/haar verzamelde gegevens worden gedeeld als dit gebeurt in overeenstemming met de aan de betrokkene verstrekte kennisgeving en op een manier die strookt met het bedrijfsbeleid. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	 <module id="5" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[Uw lokale handelsmanager is er in de eerste plaats voor verantwoordelijk om te controleren of u de handelsvoorschriften in acht neemt. ]]></text>
+				<text><![CDATA[Waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1">
+                 <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Bij Johnson Controls dient iedereen inzicht te hebben in de manier waarop handelspraktijken hun plichten en verantwoordelijkheden beïnvloeden. En iedereen heeft de plicht om ervoor te zorgen dat we de handelsvoorschriften naleven. ]]></text>
+					<text><![CDATA[Als u ooit twijfelt, vraag dan raad aan een deskundige. U kunt zich richten tot:<ul> <li>Uw lokale handelsmanager of handelscoördinator,</li> <li>de regionale of wereldwijde handelsmanager,</li> <li>de handelsdirecteur van de businessunit of</li> <li>het hoofdkantoor voor naleving van handelsvoorschriften.</li> </ul>]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Bij Johnson Controls dient iedereen inzicht te hebben in de manier waarop handelspraktijken hun plichten en verantwoordelijkheden beïnvloeden. En iedereen heeft de plicht om ervoor te zorgen dat we de handelsvoorschriften naleven. ]]></text>
+					<text><![CDATA[Als u ooit twijfelt, vraag dan raad aan een deskundige. U kunt zich richten tot:<ul> <li>Uw lokale handelsmanager of handelscoördinator,</li> <li>de regionale of wereldwijde handelsmanager,</li> <li>de handelsdirecteur van de businessunit of</li> <li>het hoofdkantoor voor naleving van handelsvoorschriften.</li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Mila neemt haar bedrijfslaptop mee op haar reis van de Verenigde Staten naar het Verenigd Koninkrijk en vervolgens naar Dubai in de Verenigde Arabische Emiraten. ]]></text>
+				<text><![CDATA[Dient ze zich zorgen te maken over haar computer?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Ja, er kan een exportvergunning nodig zijn om de bedrijfscomputer mee te nemen op een buitenlandse reis]]></option>
+                <option><![CDATA[Nee, zolang ze de computer beveiligt tegen diefstal en de computer altijd bij haar houdt, is er geen probleem]]></option>
+            </options>
+            <feedback>
+                <correct style="top:35px">
+					<text><![CDATA[<b>Juist.</b> Bedrijfsapparatuur meenemen als handbagage op internationale zakenreizen wordt beschouwd als een tijdelijke export, waarvoor een exportvergunning nodig kan zijn naargelang de gegevens die erop worden bewaard.]]></text>
+					<text><![CDATA[Bij internationale reizen moet u weten dat alle technische gegevens of technologie die u meeneemt exportproblemen kunnen veroorzaken. Al het volgende kan exportcontrolevoorschriften namens de overheid inhouden:<ul> <li>uw bedrijfscomputer meenemen naar het buitenland,</li><li>technische gegevens of technologie internationaal meenemen of overdragen en</li><li>technische gegevens overdragen tijdens vergaderingen met buitenlanders.</li> </ul>]]></text>
+					<text><![CDATA[Als u naar het buitenland reist, moet u met uw manager of een andere geschikte bedrijfsmedewerker bespreken welke stappen u moet ondernemen voor uw computerapparatuur.]]></text>
+				</correct>
+                <incorrect style="top:35px">
+					<text><![CDATA[<b>Dat klopt niet.</b> Bedrijfsapparatuur meenemen als handbagage op internationale zakenreizen wordt beschouwd als een tijdelijke export, waarvoor een exportvergunning nodig kan zijn naargelang de gegevens die erop worden bewaard.]]></text>
+					<text><![CDATA[Bij internationale reizen moet u weten dat alle technische gegevens of technologie die u meeneemt exportproblemen kunnen veroorzaken. Al het volgende kan exportcontrolevoorschriften namens de overheid inhouden:<ul> <li>uw bedrijfscomputer meenemen naar het buitenland,</li><li>technische gegevens of technologie internationaal meenemen of overdragen en</li><li>technische gegevens overdragen tijdens vergaderingen met buitenlanders.</li> </ul>]]></text>
+					<text><![CDATA[Als u naar het buitenland reist, moet u met uw manager of een andere geschikte bedrijfsmedewerker bespreken welke stappen u moet ondernemen voor uw computerapparatuur.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Welke van de onderstaande zaken is een export?]]></text>				
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,1,0,1,1">
+                <option><![CDATA[Diensten in het buitenland verrichten, zoals het repareren of installeren van bepaalde zaken]]></option>
+                <option><![CDATA[Technische documenten online plaatsen]]></option>
+                <option><![CDATA[Met een persoon uit een ander land spreken]]></option>
+                <option><![CDATA[Met uw telefoon naar een ander land reizen]]></option>
+                <option><![CDATA[Een persoon van een ander land een geschenk geven]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> In veel situaties doen er zich exports voor die zorgvuldig moeten worden beoordeeld, met name:<ul> <li>Iets naar een ander land versturen of meenemen,</li><li>de registratie, het beheer of het eigenaarschap van iets overdragen naar een instantie van een ander land,</li><li>mondelinge of visuele bekendmaking van technische informatie aan een persoon uit een ander land, ongeacht de locatie en</li><li>technische hulp of diensten verlenen. </li> </ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> In veel situaties doen er zich exports voor die zorgvuldig moeten worden beoordeeld, met name:<ul> <li>Iets naar een ander land versturen of meenemen,</li><li>de registratie, het beheer of het eigenaarschap van iets overdragen naar een instantie van een ander land,</li><li>mondelinge of visuele bekendmaking van technische informatie aan een persoon uit een ander land, ongeacht de locatie en</li><li>technische hulp of diensten verlenen. </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> In veel situaties doen er zich exports voor die zorgvuldig moeten worden beoordeeld, met name:<ul> <li>Iets naar een ander land versturen of meenemen,</li><li>de registratie, het beheer of het eigenaarschap van iets overdragen naar een instantie van een ander land,</li><li>mondelinge of visuele bekendmaking van technische informatie aan een persoon uit een ander land, ongeacht de locatie en</li><li>technische hulp of diensten verlenen. </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Voor iedere export is wettelijke toestemming vereist.  Is deze bewering waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+				<correct>
+					<text><![CDATA[<b>Juist.</b> Voor iedere export van producten, technologie, software en diensten is toestemming vereist. De aard van de toestemming verschilt mogelijk naargelang het item en de aanverwante controles, maar er is altijd toestemming vereist en de toestemming moet worden aangegeven of gedocumenteerd. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Voor iedere export van producten, technologie, software en diensten is toestemming vereist. De aard van de toestemming verschilt mogelijk naargelang het item en de aanverwante controles, maar er is altijd toestemming vereist en de toestemming moet worden aangegeven of gedocumenteerd. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Als u een mogelijke schending van de exportregels ontdekt of opmerkt, welke maatregelen moet u dan treffen?]]></text>
+			</questionText>
+             <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,0,1,0">
+                <option><![CDATA[De schending trachten te voorkomen of er een eind aan maken]]></option>
+                <option><![CDATA[Onderzoek verrichten]]></option>
+                <option><![CDATA[Dit melden aan een lid van het nalevingsteam voor handelsvoorschriften of het juridische team]]></option>
+                <option><![CDATA[Dit negeren, omdat u niet zeker weet of het een probleem is]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Iedere werknemer van Johnson Controls die getuige is van activiteiten die mogelijk bepaalde handelsregels schenden moet redelijke, gepaste maatregelen treffen om dergelijke activiteiten een halt toe te roepen en moeten dit onmiddellijk melden aan een lid van het nalevingsteam voor handelsvoorschriften of het juridische team.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Iedere werknemer van Johnson Controls die getuige is van activiteiten die mogelijk bepaalde handelsregels schenden moet redelijke, gepaste maatregelen treffen om dergelijke activiteiten een halt toe te roepen en moeten dit onmiddellijk melden aan een lid van het nalevingsteam voor handelsvoorschriften of het juridische team.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Iedere werknemer van Johnson Controls die getuige is van activiteiten die mogelijk bepaalde handelsregels schenden moet redelijke, gepaste maatregelen treffen om dergelijke activiteiten een halt toe te roepen en moeten dit onmiddellijk melden aan een lid van het nalevingsteam voor handelsvoorschriften of het juridische team.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[Als u van een klant een verzoek krijgt waarmee een niet-gesanctioneerde boycot wordt ondersteund, welke actie(s) moet u dan ondernemen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,0,0,1">
+                <option><![CDATA[Het verzoek melden aan een lid van het nalevingsteam voor handelsvoorschriften]]></option>
+                <option><![CDATA[Het verzoek negeren]]></option>
+                <option><![CDATA[Op het verzoek ingaan, want we moeten klanten koste wat het kost tevreden houden ]]></option>
+                <option><![CDATA[Geen verdere actie ondernemen totdat het nalevingsteam voor handelsvoorschriften instructies geeft]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 38px;padding-bottom: 15px;">
+					<text><![CDATA[<b>Juist.</b> Bepaalde landen of internationale organisaties houden boycots, zoals de boycot van de Arabische Liga van Israël, en vragen Johnson Controls mogelijk hieraan deel te nemen of steun te verlenen.]]></text>					
+					<text><![CDATA[Soms is het verzoek erg subtiel. Zo ontving Johnson Controls van een koper bijvoorbeeld een contract met het volgende woordgebruik:]]></text>
+					<text><![CDATA['De verkoper waarborgt dat de geleverde producten geen onderdelen bevatten die werden vervaardigd of geëxporteerd door geboycotte bedrijven, in overeenstemming met de voorschriften van het Koninkrijk Saudi-Arabië.']]></text>
+					<text><![CDATA[Als u een boycotverzoek krijgt, onderneem dan geen actie en meld het aan een lid van het nalevingsteam voor handelsvoorschriften, die u advies zal geven over de te volgen stappen. Krachtens de handelswetgeving is het verboden op bepaalde boycotverzoeken in te gaan. Ook moeten we dergelijke verzoeken melden aan de Amerikaanse overheidsinstanties.]]></text>					
+				</correct>
+                <partialCorrect style="top: 38px;padding-bottom: 15px;">
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Bepaalde landen of internationale organisaties houden boycots, zoals de boycot van de Arabische Liga van Israël, en vragen Johnson Controls mogelijk hieraan deel te nemen of steun te verlenen.]]></text>					
+					<text><![CDATA[Soms is het verzoek erg subtiel. Zo ontving Johnson Controls van een koper bijvoorbeeld een contract met het volgende woordgebruik:]]></text>
+					<text><![CDATA['De verkoper waarborgt dat de geleverde producten geen onderdelen bevatten die werden vervaardigd of geëxporteerd door geboycotte bedrijven, in overeenstemming met de voorschriften van het Koninkrijk Saudi-Arabië.']]></text>
+					<text><![CDATA[Als u een boycotverzoek krijgt, onderneem dan geen actie en meld het aan een lid van het nalevingsteam voor handelsvoorschriften, die u advies zal geven over de te volgen stappen. Krachtens de handelswetgeving is het verboden op bepaalde boycotverzoeken in te gaan. Ook moeten we dergelijke verzoeken melden aan de Amerikaanse overheidsinstanties.]]></text>					
+				</partialCorrect>
+                <incorrect style="top: 38px;padding-bottom: 15px;">
+					<text><![CDATA[<b>Dat klopt niet.</b> Bepaalde landen of internationale organisaties houden boycots, zoals de boycot van de Arabische Liga van Israël, en vragen Johnson Controls mogelijk hieraan deel te nemen of steun te verlenen.]]></text>					
+					<text><![CDATA[Soms is het verzoek erg subtiel. Zo ontving Johnson Controls van een koper bijvoorbeeld een contract met het volgende woordgebruik:]]></text>
+					<text><![CDATA['De verkoper waarborgt dat de geleverde producten geen onderdelen bevatten die werden vervaardigd of geëxporteerd door geboycotte bedrijven, in overeenstemming met de voorschriften van het Koninkrijk Saudi-Arabië.']]></text>
+					<text><![CDATA[Als u een boycotverzoek krijgt, onderneem dan geen actie en meld het aan een lid van het nalevingsteam voor handelsvoorschriften, die u advies zal geven over de te volgen stappen. Krachtens de handelswetgeving is het verboden op bepaalde boycotverzoeken in te gaan. Ook moeten we dergelijke verzoeken melden aan de Amerikaanse overheidsinstanties.]]></text>	
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Aan welke van de volgende landen worden momenteel uitgebreide sancties opgelegd? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,0,1,0,0">
+                <option><![CDATA[Iran]]></option>
+                <option><![CDATA[China]]></option>
+                <option><![CDATA[Noord-Korea]]></option>
+                <option><![CDATA[Kongo]]></option>
+                <option><![CDATA[Libië]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text><![CDATA[<b>Juist.</b> Naast de wet- en regelgeving leggen veel landen tevens handelsbeperkingen op door het opleggen van sancties en embargo's. Sancties kunnen eenzijdig ontstaan van het ene land tegen het andere land of ze kunnen een internationale beslissing van intergouvernementele organisaties, zoals de Verenigde Naties, weerspiegelen. Daar waar embargo's worden opgelegd voor volledige landen, zijn sancties gericht op een volledig land of op instanties en personen, ook wel bekend als 'partijen op de zwarte lijst'.  Overheden behouden zich het recht voor om vergunningen uit te geven om aan bepaalde transacties deel te nemen met de doelwitten van sancties of embargo's (bijv. om humanitaire activiteiten te ondersteunen). Dergelijke sancties en embargo's beperken mogelijk:<ul> <li>met wie Johnson Controls wettelijk gezien handel mag drijven,</li><li>welke producten Johnson Controls wettelijk gezien mag verhandelen en</li><li>waar Johnson Controls wettelijk gezien handel mag drijven. </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Johnson Controls publiceert een lijst van landen onder embargo op het intranet van Johnson Controls, die wordt bijgewerkt om in overeenstemming te blijven met het bedrijfsbeleid en de regelgeving. ]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;">
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Naast de wet- en regelgeving leggen veel landen tevens handelsbeperkingen op door het opleggen van sancties en embargo's. Sancties kunnen eenzijdig ontstaan van het ene land tegen het andere land of ze kunnen een internationale beslissing van intergouvernementele organisaties, zoals de Verenigde Naties, weerspiegelen. Daar waar embargo's worden opgelegd voor volledige landen, zijn sancties gericht op een volledig land of op instanties en personen, ook wel bekend als 'partijen op de zwarte lijst'.  Overheden behouden zich het recht voor om vergunningen uit te geven om aan bepaalde transacties deel te nemen met de doelwitten van sancties of embargo's (bijv. om humanitaire activiteiten te ondersteunen). Dergelijke sancties en embargo's beperken mogelijk:<ul> <li>met wie Johnson Controls wettelijk gezien handel mag drijven,</li><li>welke producten Johnson Controls wettelijk gezien mag verhandelen en</li><li>waar Johnson Controls wettelijk gezien handel mag drijven. </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Johnson Controls publiceert een lijst van landen onder embargo op het intranet van Johnson Controls, die wordt bijgewerkt om in overeenstemming te blijven met het bedrijfsbeleid en de regelgeving. ]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>Dat klopt niet.</b> Naast de wet- en regelgeving leggen veel landen tevens handelsbeperkingen op door het opleggen van sancties en embargo's. Sancties kunnen eenzijdig ontstaan van het ene land tegen het andere land of ze kunnen een internationale beslissing van intergouvernementele organisaties, zoals de Verenigde Naties, weerspiegelen. Daar waar embargo's worden opgelegd voor volledige landen, zijn sancties gericht op een volledig land of op instanties en personen, ook wel bekend als 'partijen op de zwarte lijst'.  Overheden behouden zich het recht voor om vergunningen uit te geven om aan bepaalde transacties deel te nemen met de doelwitten van sancties of embargo's (bijv. om humanitaire activiteiten te ondersteunen). Dergelijke sancties en embargo's beperken mogelijk:<ul> <li>met wie Johnson Controls wettelijk gezien handel mag drijven,</li><li>welke producten Johnson Controls wettelijk gezien mag verhandelen en</li><li>waar Johnson Controls wettelijk gezien handel mag drijven. </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Johnson Controls publiceert een lijst van landen onder embargo op het intranet van Johnson Controls, die wordt bijgewerkt om in overeenstemming te blijven met het bedrijfsbeleid en de regelgeving. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Welke impact hebben economische handelssancties op bedrijven zoals Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,0,1,1">
+                <option><![CDATA[Ze leggen beperkingen op voor de instanties en personen waarmee Johnson Controls wettelijk gezien zaken mag doen]]></option>
+                <option><![CDATA[Ze leggen beperkingen op voor de aard van onze interacties met concurrenten]]></option>
+                <option><![CDATA[Ze leggen beperkingen op voor de producten (hardware), technische gegevens, technologie, software en/of diensten die Johnson Controls mag verhandelen]]></option>
+                <option><![CDATA[Ze leggen beperkingen op over waar Johnson Controls handel mag drijven]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Sancties omvatten doorgaans maatregelen zoals beperkingen op het gebied van invoer en uitvoer of een embargo voor de verstrekking van bepaalde goederen en diensten. Dergelijke sancties bepalen mogelijk:<ul> <li>met wie Johnson Controls wettelijk gezien handel mag drijven (instanties en personen),</li><li>wat Johnson Controls wettelijk gezien mag verhandelen (producten, diensten en technologie),</li><li>waar Johnson Controls wettelijk gezien handel mag drijven (landen en regio's). </li> </ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Sancties omvatten doorgaans maatregelen zoals beperkingen op het gebied van invoer en uitvoer of een embargo voor de verstrekking van bepaalde goederen en diensten. Dergelijke sancties bepalen mogelijk:<ul> <li>met wie Johnson Controls wettelijk gezien handel mag drijven (instanties en personen),</li><li>wat Johnson Controls wettelijk gezien mag verhandelen (producten, diensten en technologie),</li><li>waar Johnson Controls wettelijk gezien handel mag drijven (landen en regio's). </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Sancties omvatten doorgaans maatregelen zoals beperkingen op het gebied van invoer en uitvoer of een embargo voor de verstrekking van bepaalde goederen en diensten. Dergelijke sancties bepalen mogelijk:<ul> <li>met wie Johnson Controls wettelijk gezien handel mag drijven (instanties en personen),</li><li>wat Johnson Controls wettelijk gezien mag verhandelen (producten, diensten en technologie),</li><li>waar Johnson Controls wettelijk gezien handel mag drijven (landen en regio's). </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Roger staat op het punt een bestelling naar een buitenlandse distributeur te versturen. De distributeur zal het aan zijn klant doorverkopen. Wat moet Roger doen voordat hij deze bestelling exporteert? ]]></text>
+			</questionText>
+           <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,0,1">
+                <option><![CDATA[Controleren of de distributeur en de eindklant geen aan beperkingen onderworpen eindgebruikers zijn]]></option>
+                <option><![CDATA[Controleren of de eindklant zich niet op een aan beperkingen onderworpen bestemming bevindt]]></option>
+                <option><![CDATA[Controleren of het product niet voor een aan beperkingen onderworpen einddoel is bestemd]]></option>
+                <option><![CDATA[In alle bovenstaande of alle contractueel bepaalde gevallen mag de distributeur niet verkopen aan verboden of aan beperkingen onderworpen eindgebruikers of eindgebruik zonder toestemming]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Roger verzendt een product dat zal worden doorverkocht, dus hij moet controleren of de eindklant geen aan beperkingen onderworpen eindgebruiker is, zich niet op een aan beperkingen onderworpen bestemming bevindt of het product niet voor een aan beperkingen onderworpen eindgebruik gebruikt. In het andere geval moet Roger wettelijk vereisen dat de distributeur zijn producten niet doorverkoopt voor een verboden of aan beperkingen onderworpen eindgebruik of eindgebruiker zonder toestemming.]]></text>
+					<text><![CDATA[Zorg er te allen tijde voor dat klanten, zakenpartners, leveranciers, dienstverleners, agenten, consultants en distributeurs geen partijen op de zwarte lijst zijn. Johnson Controls heeft een softwaretool dat werknemers kunnen gebruiken om partijen op de zwarte lijst te screenen. Als er een mogelijke overeenkomst in kaart wordt gebracht, moet u de verzending uitstellen en contact opnemen met het nalevingsteam voor handelsvoorschriften voor hulp.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Roger verzendt een product dat zal worden doorverkocht, dus hij moet controleren of de eindklant geen aan beperkingen onderworpen eindgebruiker is, zich niet op een aan beperkingen onderworpen bestemming bevindt of het product niet voor een aan beperkingen onderworpen eindgebruik gebruikt. In het andere geval moet Roger wettelijk vereisen dat de distributeur zijn producten niet doorverkoopt voor een verboden of aan beperkingen onderworpen eindgebruik of eindgebruiker zonder toestemming.]]></text>
+					<text><![CDATA[Zorg er te allen tijde voor dat klanten, zakenpartners, leveranciers, dienstverleners, agenten, consultants en distributeurs geen partijen op de zwarte lijst zijn. Johnson Controls heeft een softwaretool dat werknemers kunnen gebruiken om partijen op de zwarte lijst te screenen. Als er een mogelijke overeenkomst in kaart wordt gebracht, moet u de verzending uitstellen en contact opnemen met het nalevingsteam voor handelsvoorschriften voor hulp.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johan is aan het werk op de stand van Johnson Controls op de internationale beurs voor airconditioning, verwarming en koeling in Las Vegas (NV). Een onbekende benadert hem en stelt hem een paar zeer technische vragen over koelinstallaties van York.  Hoe moet Johan reageren?  ]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[De persoon het gewenste technische antwoord geven]]></option>
+                <option><![CDATA[Doen alsof hij de vragen niet begrijpt]]></option>
+                <option><![CDATA[Alleen niet-technische, openbaar beschikbare informatie verstrekken]]></option>
+                <option><![CDATA[De persoon willekeurige technische informatie verstrekken die geen verband houdt met koelinstallaties van York ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het verstrekken van technische informatie, zelfs verbaal en binnen de VS, aan een persoon van een ander land is een export waarvoor toestemming is vereist. Aangezien de persoon een onbekende is, weet Johan niet of deze persoon uit een ander land komt of een ander land vertegenwoordigt. Bovendien gaat het misschien wel om bedrijfseigen technische informatie van Johnson Controls die niet aan onbekenden mag worden vrijgegeven. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het verstrekken van technische informatie, zelfs verbaal en binnen de VS, aan een persoon van een ander land is een export waarvoor toestemming is vereist. Aangezien de persoon een onbekende is, weet Johan niet of deze persoon uit een ander land komt of een ander land vertegenwoordigt. Bovendien gaat het misschien wel om bedrijfseigen technische informatie van Johnson Controls die niet aan onbekenden mag worden vrijgegeven. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Chen maakt een bestelling klaar om te worden geëxporteerd. Hij screent de naam van de klant met de softwaretool van Johnson Controls en het gaat mogelijk om een partij op de zwarte lijst. Wat moet Chen doen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Contact opnemen met de klant om zijn identiteit te verifiëren]]></option>
+                <option><![CDATA[Advies inwinnen van het nalevingsteam voor handelsvoorschriften van Johnson Controls]]></option>
+                <option><![CDATA[De zending annuleren]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Alle werknemers die instaan voor exports moeten erover waken dat klanten, zakenpartners, leveranciers, dienstverleners, agenten, consultants en distributeurs geen partijen op de zwarte lijst zijn. Johnson Controls heeft een softwaretool dat werknemers kunnen gebruiken om partijen op de zwarte lijst te screenen. Chen heeft dit gedaan en heeft een mogelijke overeenkomst gevonden. Hij moet de zending tegenhouden en advies inwinnen bij het nalevingsteam voor handelsvoorschriften.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Alle werknemers die instaan voor exports moeten erover waken dat klanten, zakenpartners, leveranciers, dienstverleners, agenten, consultants en distributeurs geen partijen op de zwarte lijst zijn. Johnson Controls heeft een softwaretool dat werknemers kunnen gebruiken om partijen op de zwarte lijst te screenen. Chen heeft dit gedaan en heeft een mogelijke overeenkomst gevonden. Hij moet de zending tegenhouden en advies inwinnen bij het nalevingsteam voor handelsvoorschriften.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[De Amerikaanse handelsvoorschriften zijn extraterritoriaal. Welke van de volgende zaken zijn bijgevolg onderworpen aan de Amerikaanse voorschriften?  ]]></text>
+			</questionText>
+             <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Amerikaanse personen, ongeacht hun locatie of werkgever]]></option>
+                <option><![CDATA[Krachtens de ITAR gecontroleerde producten en technische gegevens van Amerikaanse oorsprong, ongeacht of ze in een buiten de VS vervaardigd product of op een locatie buiten de VS worden verwerkt]]></option>
+                <option><![CDATA[Handelsartikelen van Amerikaanse oorsprong]]></option>
+                <option><![CDATA[Handelsartikelen van Amerikaanse oorsprong van de minimis-waarde die worden verwerkt in een buiten de VS vervaardigd artikel bestemd voor Iran]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 150px;">
+					<text><![CDATA[<b>Juist.</b> De Amerikaanse handelsvoorschriften zijn extraterritoriaal. <ul> <li>Alle artikelen en technologieën die zich in de VS bevinden of in bezit van iemand uit de VS zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften.  </li><li>Alle artikelen van Amerikaanse oorsprong zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften, ongeacht de huidige geografische locatie ervan.  </li><li>Alle niet-Amerikaanse artikelen die zijn vervaardigd met krachtens de ITAR gecontroleerde onderdelen of technische gegevens van Amerikaanse oorsprong zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften. </li><li>Alle niet-Amerikaanse artikelen die zijn vervaardigd met krachtens de EAR gecontroleerde onderdelen of technologieën van Amerikaanse oorsprong zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften als de de minimis-drempel is bereikt (als er sprake is van een de minimis-drempel voor ECCN) of als het land van bestemming aan sancties is onderworpen. </li><li>Alle Amerikaanse personen zijn onderworpen aan en moeten voldoen aan de Amerikaanse handelswetten en -voorschriften, ongeacht hun huidige geografische locatie. </li> </ul>]]></text>
+				</correct>
+                <partialCorrect style="height: 150px;">
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> De Amerikaanse handelsvoorschriften zijn extraterritoriaal. <ul> <li>Alle artikelen en technologieën die zich in de VS bevinden of in bezit van iemand uit de VS zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften.  </li><li>Alle artikelen van Amerikaanse oorsprong zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften, ongeacht de huidige geografische locatie ervan.  </li><li>Alle niet-Amerikaanse artikelen die zijn vervaardigd met krachtens de ITAR gecontroleerde onderdelen of technische gegevens van Amerikaanse oorsprong zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften. </li><li>Alle niet-Amerikaanse artikelen die zijn vervaardigd met krachtens de EAR gecontroleerde onderdelen of technologieën van Amerikaanse oorsprong zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften als de de minimis-drempel is bereikt (als er sprake is van een de minimis-drempel voor ECCN) of als het land van bestemming aan sancties is onderworpen. </li><li>Alle Amerikaanse personen zijn onderworpen aan en moeten voldoen aan de Amerikaanse handelswetten en -voorschriften, ongeacht hun huidige geografische locatie. </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect style="height: 150px;">
+					<text><![CDATA[<b>Dat klopt niet.</b> De Amerikaanse handelsvoorschriften zijn extraterritoriaal. <ul> <li>Alle artikelen en technologieën die zich in de VS bevinden of in bezit van iemand uit de VS zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften.  </li><li>Alle artikelen van Amerikaanse oorsprong zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften, ongeacht de huidige geografische locatie ervan.  </li><li>Alle niet-Amerikaanse artikelen die zijn vervaardigd met krachtens de ITAR gecontroleerde onderdelen of technische gegevens van Amerikaanse oorsprong zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften. </li><li>Alle niet-Amerikaanse artikelen die zijn vervaardigd met krachtens de EAR gecontroleerde onderdelen of technologieën van Amerikaanse oorsprong zijn onderworpen aan de Amerikaanse handelswetten en -voorschriften als de de minimis-drempel is bereikt (als er sprake is van een de minimis-drempel voor ECCN) of als het land van bestemming aan sancties is onderworpen. </li><li>Alle Amerikaanse personen zijn onderworpen aan en moeten voldoen aan de Amerikaanse handelswetten en -voorschriften, ongeacht hun huidige geografische locatie. </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Welke soort documenten zijn mogelijk onderworpen aan exportbeperkingen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Blauwdrukken]]></option>
+                <option><![CDATA[Formules]]></option>
+                <option><![CDATA[Handleidingen]]></option>
+                <option><![CDATA[Instructies]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 160px;font-size:14px;line-height:17px;">
+					<text><![CDATA[<b>Juist.</b> In het kader van handelscontroles is ieder document dat technologische informatie omvat onderhevig aan exportcontrole.  Bij technische informatie gaat het om informatie die vereist is voor het ontwerp, de ontwikkeling, de productie, de fabricage, de montage, de bediening, de reparatie, het testen, het onderhoud of het wijzigen van een product, alsook geclassificeerde informatie betreffende producten, uitvindingen die moeten worden geheimgehouden en software. ]]></text>
+					<text><![CDATA[Voorbeelden van technische informatie zijn: <ul> <li>Blauwdrukken</li><li>Tekeningen</li><li>Foto's</li><li>Plannen</li><li>Diagrammen</li><li>Modellen</li><li>Formules</li><li>Tabellen</li><li>Technische ontwerpen</li><li>Specificaties</li><li>Handleidingen</li><li>Instructies</li></ul>]]></text>
+				</correct>
+                <partialCorrect style="height: 160px;font-size:14px;line-height:17px;">
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> In het kader van handelscontroles is ieder document dat technologische informatie omvat onderhevig aan exportcontrole.  Bij technische informatie gaat het om informatie die vereist is voor het ontwerp, de ontwikkeling, de productie, de fabricage, de montage, de bediening, de reparatie, het testen, het onderhoud of het wijzigen van een product, alsook geclassificeerde informatie betreffende producten, uitvindingen die moeten worden geheimgehouden en software. ]]></text>
+					<text><![CDATA[Voorbeelden van technische informatie zijn: <ul> <li>Blauwdrukken</li><li>Tekeningen</li><li>Foto's</li><li>Plannen</li><li>Diagrammen</li><li>Modellen</li><li>Formules</li><li>Tabellen</li><li>Technische ontwerpen</li><li>Specificaties</li><li>Handleidingen</li><li>Instructies</li></ul>]]></text>
+				</partialCorrect>
+                <incorrect style="height: 160px;font-size:14px;line-height:17px;">
+					<text><![CDATA[<b>Dat klopt niet.</b> In het kader van handelscontroles is ieder document dat technologische informatie omvat onderhevig aan exportcontrole.  Bij technische informatie gaat het om informatie die vereist is voor het ontwerp, de ontwikkeling, de productie, de fabricage, de montage, de bediening, de reparatie, het testen, het onderhoud of het wijzigen van een product, alsook geclassificeerde informatie betreffende producten, uitvindingen die moeten worden geheimgehouden en software. ]]></text>
+					<text><![CDATA[Voorbeelden van technische informatie zijn: <ul> <li>Blauwdrukken</li><li>Tekeningen</li><li>Foto's</li><li>Plannen</li><li>Diagrammen</li><li>Modellen</li><li>Formules</li><li>Tabellen</li><li>Technische ontwerpen</li><li>Specificaties</li><li>Handleidingen</li><li>Instructies</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Welke van de onderstaande zaken is een wederexport of wederoverdracht waarvoor mogelijk toestemming is vereist?]]></text>
+			</questionText>
+             <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,0,1">
+                <option><![CDATA[Het overdragen van een eerder geëxporteerd product naar een nieuwe eindgebruiker]]></option>
+                <option><![CDATA[Het overdragen van een eerder geëxporteerd product naar uw vestiging 8 kilometer verderop]]></option>
+                <option><![CDATA[Het overdragen van een eerder geëxporteerd product naar een leverancier in hetzelfde land]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Een wederexport of wederoverdracht wordt gedefinieerd als een overdracht van producten, gegevens, een artikel dat een gereguleerd artikel omvat of een artikel vervaardigd met gereguleerde technische informatie naar een eindgebruik, eindgebruiker of bestemming of entiteit waar niet eerder toestemming voor is gegeven.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Een wederexport of wederoverdracht wordt gedefinieerd als een overdracht van producten, gegevens, een artikel dat een gereguleerd artikel omvat of een artikel vervaardigd met gereguleerde technische informatie naar een eindgebruik, eindgebruiker of bestemming of entiteit waar niet eerder toestemming voor is gegeven.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Een wederexport of wederoverdracht wordt gedefinieerd als een overdracht van producten, gegevens, een artikel dat een gereguleerd artikel omvat of een artikel vervaardigd met gereguleerde technische informatie naar een eindgebruik, eindgebruiker of bestemming of entiteit waar niet eerder toestemming voor is gegeven.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 
+    </module>
+	<module id="6" pick="3">
+       
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Welk antwoord is waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Bij alle zakelijke transacties namens Johnson Controls moet u eerlijk te werk gaan, zelfs in de omgang met concurrenten ]]></option>
+                <option><![CDATA[Bij alle zakelijke transacties namens Johnson Controls moet u alles in het werk stellen om Johnson Controls te beschermen tegen nieuwe bedrijven die de concurrentie aangaan]]></option>
+                <option><![CDATA[Bij alle zakelijke transacties namens Johnson Controls moet u er alles aan doen om nieuwere bedrijven de kans te geven de concurrentie aan te gaan]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het mededingingsrecht varieert van land tot land, maar wordt doorgaans onderbouwd door drie basisbeginselen.<ul><li>Het bevorderen van de consumentenkeuze</li><li>Het aanmoedigen van eerlijke zakelijke transacties</li><li>Het belonen van innovatie en voortdurende verbetering</li></ul>]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het mededingingsrecht varieert van land tot land, maar wordt doorgaans onderbouwd door drie basisbeginselen.<ul><li>Het bevorderen van de consumentenkeuze</li><li>Het aanmoedigen van eerlijke zakelijke transacties</li><li>Het belonen van innovatie en voortdurende verbetering</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Ted is op een branchecongres waar hij een vertegenwoordiger van de voornaamste concurrent van Johnson Controls tegen het lijf loopt. Welke van de volgende onderwerpen mag Ted bespreken met de concurrent?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0,0,0">
+                <option><![CDATA[Nieuwe wetten die mogelijk het concurrentievermogen van de volledige sector zullen aantasten]]></option>
+                <option><![CDATA[Geplande aanpassingen van de prijzen die zijn bedrijf de klanten aanrekent]]></option>
+                <option><![CDATA[Een recente toename van de kosten wegens de invoering van een nieuw belastingstelsel]]></option>
+                <option><![CDATA[De plannen van zijn bedrijf om een offerte in te dienen voor een lucratief contract]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Ted moet vermijden om offertes, prijzen, kosten of andere gevoelige commerciële onderwerpen met een concurrent te bespreken en moet steeds de juridische afdeling raadplegen in geval van contacten met concurrenten.]]></text>
+					<text><![CDATA[Bepaalde gesprekken met concurrenten kunnen legitiem zijn en zelfs concurrentie bevorderen, maar soms kan informatie-uitwisseling overkomen als een poging om een concurrentiebeperkende overeenkomst te sluiten. Als u twijfelt, verlaat dan het gesprek en meld het aan de juridische afdeling.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Ted moet vermijden om offertes, prijzen, kosten of andere gevoelige commerciële onderwerpen met een concurrent te bespreken en moet steeds de juridische afdeling raadplegen in geval van contacten met concurrenten.]]></text>
+					<text><![CDATA[Bepaalde gesprekken met concurrenten kunnen legitiem zijn en zelfs concurrentie bevorderen, maar soms kan informatie-uitwisseling overkomen als een poging om een concurrentiebeperkende overeenkomst te sluiten. Als u twijfelt, verlaat dan het gesprek en meld het aan de juridische afdeling.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Volgens antitrustwetten is het voor concurrerende bedrijven doorgaans verboden om elkaar producten en diensten te verstrekken.]]></text>
+				<text><![CDATA[Is deze bewering waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Het is wettig dat concurrenten leveranciers of klanten van elkaar zijn.]]></text>
+					<text><![CDATA[Het is echter onwettig dat concurrenten de toeleveringsketen gebruiken om handel te beperken door bijvoorbeeld samen te spannen om te markt te verdelen. Antitrustwetten leggen een verbod op dergelijke handelingen.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Het is wettig dat concurrenten leveranciers of klanten van elkaar zijn.]]></text>
+					<text><![CDATA[Het is echter onwettig dat concurrenten de toeleveringsketen gebruiken om handel te beperken door bijvoorbeeld samen te spannen om te markt te verdelen. Antitrustwetten leggen een verbod op dergelijke handelingen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Barbara, een werkneemster van Johnson Controls, krijgt een telefoontje van Bonnie, een leidinggevende bij een van de concurrenten van Johnson Controls. Bonnie vraagt of Johnson Controls bereid zou zijn de prijzen in bepaalde Europese markten te verhogen als haar bedrijf ermee akkoord gaat de prijzen in Noord-Amerika te verlagen.  Als Barbara met het voorstel van Bonnie instemt, wat doet ze dan? ]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Johnson Controls maakt zich hierdoor schuldig aan onwettige prijsafspraken]]></option>
+                <option><![CDATA[Ze schendt de antitrustwetten niet, omdat de overeenkomst van Barbara en Bonnie evenveel klanten zou helpen als schaden]]></option>
+                <option><![CDATA[Johnson Controls maakt zich hierdoor schuldig aan onwettige manipulatie van aanbestedingsprocedures]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Bij de bovengenoemde overeenkomst worden prijsafspraken gemaakt. Dergelijk gedrag is onwettig en strikt verboden bij Johnson Controls.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Bij de bovengenoemde overeenkomst worden prijsafspraken gemaakt. Dergelijk gedrag is onwettig en strikt verboden bij Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Lucy, de verkoopmanager bij een trouwe concurrent van Johnson Controls, belt om Johnson Controls te vragen geen offerte in te dienen voor een bepaald project. Lucy belooft dat haar bedrijf in ruil hiervoor geen offerte zal indienen voor twee projecten die Johnson Controls mag uitkiezen. Wat moet u tegen Lucy zeggen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Ermee akkoord gaan, want dit is op lange termijn gunstig voor Johnson Controls.]]></option>
+                <option><![CDATA[Ermee akkoord gaan, want deze overeenkomst is ethisch omdat er geen betalingen worden gedaan.]]></option>
+                <option><![CDATA[Er niet mee akkoord gaan, want Lucy stelt onwettige manipulatie van aanbestedingsprocedures voor.]]></option>
+			</options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Manipulatie van aanbestedingsprocedures is een vorm van illegaal, concurrentiebeperkend gedrag die tot strafrechtelijke vervolging en zware boetes kunnen leiden. Het is strikt verboden bij Johnson Controls.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Manipulatie van aanbestedingsprocedures is een vorm van illegaal, concurrentiebeperkend gedrag die tot strafrechtelijke vervolging en zware boetes kunnen leiden. Het is strikt verboden bij Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Met een overeenkomst tussen concurrenten kunnen antitrustwetten worden geschonden, zelfs als de overeenkomst niet schriftelijk is.]]></text>
+				<text><![CDATA[Is deze bewering waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+             <options answer="1,0">
+                <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Met een overeenkomst tussen concurrenten om de handel te beperken kunnen antitrustwetten worden geschonden, ongeacht of de overeenkomst schriftelijk of mondeling is of al dan niet wordt geïmpliceerd door gedrag.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Met een overeenkomst tussen concurrenten om de handel te beperken kunnen antitrustwetten worden geschonden, ongeacht of de overeenkomst schriftelijk of mondeling is of al dan niet wordt geïmpliceerd door gedrag.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Amanda, een verkoopmanager bij Johnson Controls, krijgt een telefoontje van Aaron, een leidinggevende bij een van de voornaamste concurrenten van Johnson Controls. Aaron vraagt Amanda waarom Johnson Controls producten heeft verkocht in markten die Aaron en zijn bedrijf 'toebehoren' en vraagt Amanda haar verkoopteam te zeggen niet langer producten in deze markten te verkopen. Als Amanda met het verzoek van Aaron instemt, wat doet ze dan?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Johnson Controls maakt zich hierdoor schuldig aan onwettige prijsafspraken]]></option>
+                <option><![CDATA[Ze bestendigt de reputatie en zakelijke relaties van Johnson Controls]]></option>
+                <option><![CDATA[Johnson Controls maakt zich hierdoor schuldig aan onwettige marktverdeling.]]></option>
+                <option><![CDATA[Geen van de bovenstaande antwoorden]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Als Amanda met het verzoek van Aaron instemt, maakt Johnson Controls zich schuldig aan onwettige marktverdeling. Overeenkomsten tussen concurrenten om markten of klanten te verdelen, heet marktverdeling en is onwettig. Een waarschuwingssignaal voor marktverdeling is een zin zoals "je mag niet langer aan 'mijn' klanten verkopen".]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Als Amanda met het verzoek van Aaron instemt, maakt Johnson Controls zich schuldig aan onwettige marktverdeling. Overeenkomsten tussen concurrenten om markten of klanten te verdelen, heet marktverdeling en is onwettig. Een waarschuwingssignaal voor marktverdeling is een zin zoals "je mag niet langer aan 'mijn' klanten verkopen".]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Zowel Johnson Controls als alle betrokken werknemers lopen het risico op strafrechtelijke sancties, waaronder hoge boetes en een gevangenisstraf, als ze de antitrustwetten schenden.]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+			<options answer="1,0">
+                <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> De meeste antitrustwetten omvatten strafrechtelijke sancties voor bedrijven en voor personen. Zo leggen de antitrustwetten in de Verenigde Staten strafrechtelijke sancties op tot 100 miljoen Amerikaanse dollar voor een onderneming en tot 1 miljoen Amerikaanse dollar voor een persoon, evenals een gevangenisstraf van 10 jaar. In het boekjaar 2014 stuurde de Amerikaanse overheid meerdere hooggeplaatste leidinggevenden naar de gevangenis en schreef ze meer dan 1 miljard Amerikaanse dollar aan boetes uit wegens schendingen van antitrustwetten in de automobielsector alleen al.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> De meeste antitrustwetten omvatten strafrechtelijke sancties voor bedrijven en voor personen. Zo leggen de antitrustwetten in de Verenigde Staten strafrechtelijke sancties op tot 100 miljoen Amerikaanse dollar voor een onderneming en tot 1 miljoen Amerikaanse dollar voor een persoon, evenals een gevangenisstraf van 10 jaar. In het boekjaar 2014 stuurde de Amerikaanse overheid meerdere hooggeplaatste leidinggevenden naar de gevangenis en schreef ze meer dan 1 miljard Amerikaanse dollar aan boetes uit wegens schendingen van antitrustwetten in de automobielsector alleen al.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Mark, een werknemer van Johnson Controls, krijgt een telefoontje van Meredith, een leidinggevende bij een van de voornaamste concurrenten van Johnson Controls. Als we ervan uitgaan dat Mark ermee zou instemmen, welke van de onderstaande verzoeken van Meredith zou Johnson Controls blootstellen aan antitruststraffen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,1,1">
+                <option><![CDATA[Meredith vraagt Mark een dure offerte in te dienen voor een project zodat het bedrijf van Meredith het in de wacht zou slepen. Ze gaat ermee akkoord hetzelfde te doen voor Mark bij een toekomstige offerte]]></option>
+                <option><![CDATA[Meredith vraagt Mark geen offerte in te dienen voor een project zodat het bedrijf van Meredith het in de wacht zou slepen. Ze gaat ermee akkoord hetzelfde te doen voor Mark bij een toekomstige offerte]]></option>
+                <option><![CDATA[Meredith vraagt Mark de offerte van Johnson Controls in te trekken zodat het bedrijf van Meredith het project in de wacht zou slepen. Ze gaat ermee akkoord Johnson Controls als onderaannemer in dienst te nemen voor het project]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text><![CDATA[<b>Juist.</b> Alle voorstellen van Meredith zouden de antitrustwetten schenden en Johnson Controls en Mark blootstellen aan antitruststraffen. ]]></text>
+					<text><![CDATA[Een kunstmatig hoog bod indienen voor een project om de uitkomst ervan te beïnvloeden en het bedrijf van Meredith te laten winnen is een vorm van manipulatie van aanbestedingsprocedures, wat onethisch en onwettig is.]]></text>
+					<text><![CDATA[Ermee akkoord gaan om geen offerte in te dienen voor een project en het bedrijf van Meredith laten winnen is eveneens een vorm van manipulatie van aanbestedingsprocedures, wat onethisch en onwettig is.]]></text>
+					<text><![CDATA[Een offerte intrekken om het bedrijf van Meredith deze keer te laten winnen zodat Johnson Controls volgende keer kan winnen is een vorm van manipulatie van aanbestedingsprocedures, wat onethisch en onwettig is.]]></text>
+					<text><![CDATA[Alle drie opties zijn wettelijk verboden krachtens het beleid van Johnson Controls.]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;">
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Alle voorstellen van Meredith zouden de antitrustwetten schenden en Johnson Controls en Mark blootstellen aan antitruststraffen. ]]></text>
+					<text><![CDATA[Een kunstmatig hoog bod indienen voor een project om de uitkomst ervan te beïnvloeden en het bedrijf van Meredith te laten winnen is een vorm van manipulatie van aanbestedingsprocedures, wat onethisch en onwettig is.]]></text>
+					<text><![CDATA[Ermee akkoord gaan om geen offerte in te dienen voor een project en het bedrijf van Meredith laten winnen is eveneens een vorm van manipulatie van aanbestedingsprocedures, wat onethisch en onwettig is.]]></text>
+					<text><![CDATA[Een offerte intrekken om het bedrijf van Meredith deze keer te laten winnen zodat Johnson Controls volgende keer kan winnen is een vorm van manipulatie van aanbestedingsprocedures, wat onethisch en onwettig is.]]></text>
+					<text><![CDATA[Alle drie opties zijn wettelijk verboden krachtens het beleid van Johnson Controls.]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>Dat klopt niet.</b> Alle voorstellen van Meredith zouden de antitrustwetten schenden en Johnson Controls en Mark blootstellen aan antitruststraffen. ]]></text>
+					<text><![CDATA[Een kunstmatig hoog bod indienen voor een project om de uitkomst ervan te beïnvloeden en het bedrijf van Meredith te laten winnen is een vorm van manipulatie van aanbestedingsprocedures, wat onethisch en onwettig is.]]></text>
+					<text><![CDATA[Ermee akkoord gaan om geen offerte in te dienen voor een project en het bedrijf van Meredith laten winnen is eveneens een vorm van manipulatie van aanbestedingsprocedures, wat onethisch en onwettig is.]]></text>
+					<text><![CDATA[Een offerte intrekken om het bedrijf van Meredith deze keer te laten winnen zodat Johnson Controls volgende keer kan winnen is een vorm van manipulatie van aanbestedingsprocedures, wat onethisch en onwettig is.]]></text>
+					<text><![CDATA[Alle drie opties zijn wettelijk verboden krachtens het beleid van Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Een gesprek onder leden van een handelsvereniging die van verschillende concurrerende bedrijven komen en manieren bespreken om een ander bedrijf te blokkeren wegens zijn 'oneerlijke prijsstellingspraktijken' is een schending van de antitrustwetten.]]></text>
+				<text><![CDATA[Is deze bewering waar of niet waar?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Waar]]></option>
+                <option><![CDATA[Niet waar]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> U moet uiterst voorzichtig zijn bij het voeren van gesprekken met werknemers van een concurrerend bedrijf. Als u ooit in een situatie belandt waar er onderwerpen zoals prijzen, marktverdeling of enige vorm van handelsmanipulatie in een gesprek met iemand van een concurrerend bedrijf aan bod komen, moet u het gesprek stopzetten, de persoon vertellen dat zulke onderwerpen mogelijk de antitrustwetten schenden, de kamer verlaten en de juridisch adviseur zo snel mogelijk op de hoogte brengen van wat er is gebeurd.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> U moet uiterst voorzichtig zijn bij het voeren van gesprekken met werknemers van een concurrerend bedrijf. Als u ooit in een situatie belandt waar er onderwerpen zoals prijzen, marktverdeling of enige vorm van handelsmanipulatie in een gesprek met iemand van een concurrerend bedrijf aan bod komen, moet u het gesprek stopzetten, de persoon vertellen dat zulke onderwerpen mogelijk de antitrustwetten schenden, de kamer verlaten en de juridisch adviseur zo snel mogelijk op de hoogte brengen van wat er is gebeurd.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls is een grote, internationale onderneming en op vele plaatsen hebben we het grootste marktaandeel in onze branche. Als we een positie van marktdominantie bekleden, wat moeten we dan absoluut vermijden?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[Verdere groei ]]></option>
+                <option><![CDATA[Roofprijspraktijken of uitsluitingspraktijken]]></option>
+                <option><![CDATA[De laagste prijzen hanteren]]></option>
+                <option><![CDATA[Ons productassortiment uitbreiden]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 38px;">
+					<text><![CDATA[<b>Juist.</b> Volgens het mededingingsrecht is het verboden roofprijspraktijken of uitsluitingspraktijken toe te passen om een monopolie of dominant marktaandeel te proberen verkrijgen of behouden. Er kan sprake zijn van marktmisbruik als klanten in feite weinig andere keuze hebben dan met het dominante bedrijf zaken te doen.]]></text>
+					<text><![CDATA[Als we de grootste speler op de markt zijn, moeten mensen van ons kopen. Zo lopen we het risico te worden beschuldigd van roofprijspraktijken. ]]></text>
+					<text><![CDATA[Als we een positie van marktdominantie bekleden, moeten we voorzichtig zijn voor reputatieschade en ons bewust zijn van de juridische risico's.]]></text>
+					<text><![CDATA[Het bepalen van marktdominantie en hoe ermee omgaan is een complexe zaak. Als u ooit twijfelt, vraag dan raad aan de juridische afdeling of het complianceteam van Johnson Controls.]]></text>
+				</correct>
+                <incorrect style="top: 38px;">
+					<text><![CDATA[<b>Dat klopt niet.</b> Volgens het mededingingsrecht is het verboden roofprijspraktijken of uitsluitingspraktijken toe te passen om een monopolie of dominant marktaandeel te proberen verkrijgen of behouden. Er kan sprake zijn van marktmisbruik als klanten in feite weinig andere keuze hebben dan met het dominante bedrijf zaken te doen.]]></text>
+					<text><![CDATA[Als we de grootste speler op de markt zijn, moeten mensen van ons kopen. Zo lopen we het risico te worden beschuldigd van roofprijspraktijken. ]]></text>
+					<text><![CDATA[Als we een positie van marktdominantie bekleden, moeten we voorzichtig zijn voor reputatieschade en ons bewust zijn van de juridische risico's.]]></text>
+					<text><![CDATA[Het bepalen van marktdominantie en hoe ermee omgaan is een complexe zaak. Als u ooit twijfelt, vraag dan raad aan de juridische afdeling of het complianceteam van Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Welke van de volgende onderwerpen moet worden vermeden als er concurrenten aanwezig zijn?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Huidige of toekomstige prijzen]]></option>
+                <option><![CDATA[Winstniveaus en in het bijzonder de definitie van een 'eerlijke' winstmarge]]></option>
+                <option><![CDATA[Informatie over offertes of over de deelname aan bepaalde aanbestedingen]]></option>
+                <option><![CDATA[Bedrijfsprognoses of -strategieën]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Als u gesprekken met concurrenten voert, dient u het nooit te hebben over concurrentiegevoelige informatie, waaronder huidige of toekomstige prijzen. U dient het ook nooit over winstniveaus te hebben en in het bijzonder over een 'eerlijke' winstmarge. Vermijd tevens informatie over offertes of over de deelname aan bepaalde aanbestedingen. Ook hebt u het best niet over bedrijfsprognoses of -strategieën. Als u in een dergelijk gesprek belandt, moet u het gesprek meteen verlaten en de kwestie melden aan de juridische afdeling van Johnson Controls.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Als u gesprekken met concurrenten voert, dient u het nooit te hebben over concurrentiegevoelige informatie, waaronder huidige of toekomstige prijzen. U dient het ook nooit over winstniveaus te hebben en in het bijzonder over een 'eerlijke' winstmarge. Vermijd tevens informatie over offertes of over de deelname aan bepaalde aanbestedingen. Ook hebt u het best niet over bedrijfsprognoses of -strategieën. Als u in een dergelijk gesprek belandt, moet u het gesprek meteen verlaten en de kwestie melden aan de juridische afdeling van Johnson Controls.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Als u gesprekken met concurrenten voert, dient u het nooit te hebben over concurrentiegevoelige informatie, waaronder huidige of toekomstige prijzen. U dient het ook nooit over winstniveaus te hebben en in het bijzonder over een 'eerlijke' winstmarge. Vermijd tevens informatie over offertes of over de deelname aan bepaalde aanbestedingen. Ook hebt u het best niet over bedrijfsprognoses of -strategieën. Als u in een dergelijk gesprek belandt, moet u het gesprek meteen verlaten en de kwestie melden aan de juridische afdeling van Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+    </module>
+	<module id="7" pick="3">
+       <question type="mrq">
+            <questionText>
+				<text><![CDATA[Welke van de onderstaande voorbeelden worden als intellectueel eigendom beschouwd?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,1,1,0,0">
+                <option><![CDATA[Uitvindingen]]></option>
+                <option><![CDATA[Ontwerpen ]]></option>
+                <option><![CDATA[Bedrijfsnamen en -logo's]]></option>
+                <option><![CDATA[Een intern financieel rapport]]></option>
+                <option><![CDATA[Een lijst met werknemersgegevens]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text><![CDATA[<b>Juist.</b> Intellectueel eigendom verwijst naar creatief werk dat als bedrijfsmiddel kan worden behandeld en wettelijk beschermd is, zoals:<ul> <li>Uitvindingen</li> <li>Schriftelijke werken</li> <li>Ontwerpen</li> <li>Symbolen</li> <li>Namen en afbeeldingen</li> </ul>]]></text>
+					<text><![CDATA[U bent ervoor verantwoordelijk ons intellectueel eigendom te beschermen.]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;">
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Intellectueel eigendom verwijst naar creatief werk dat als bedrijfsmiddel kan worden behandeld en wettelijk beschermd is, zoals:<ul> <li>Uitvindingen</li> <li>Schriftelijke werken</li> <li>Ontwerpen</li> <li>Symbolen</li> <li>Namen en afbeeldingen</li> </ul>]]></text>
+					<text><![CDATA[U bent ervoor verantwoordelijk ons intellectueel eigendom te beschermen.]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>Dat klopt niet.</b> Intellectueel eigendom verwijst naar creatief werk dat als bedrijfsmiddel kan worden behandeld en wettelijk beschermd is, zoals:<ul> <li>Uitvindingen</li> <li>Schriftelijke werken</li> <li>Ontwerpen</li> <li>Symbolen</li> <li>Namen en afbeeldingen</li> </ul>]]></text> 
+					<text><![CDATA[U bent ervoor verantwoordelijk ons intellectueel eigendom te beschermen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Wat voor software kan met een octrooi worden beschermd?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Alle soorten software]]></option>
+                <option><![CDATA[Technische software ]]></option>
+                <option><![CDATA[Geen enkele software]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Hoewel technische software doorgaans octrooieerbaar is, gelden er beperkingen voor software met abstracte ideeën of financiële methoden.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Hoewel technische software doorgaans octrooieerbaar is, gelden er beperkingen voor software met abstracte ideeën of financiële methoden.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Wat van het volgende gebruiken we om het esthetische ontwerp van onze producten te beschermen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Patenten]]></option>
+                <option><![CDATA[Auteursrecht]]></option>
+                <option><![CDATA[Ontwerprechten]]></option>
+                <option><![CDATA[Handelsmerken]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Ontwerprechten kunnen dienen om de productontwerpen van Johnson Controls te helpen beschermen.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Ontwerprechten kunnen dienen om de productontwerpen van Johnson Controls te helpen beschermen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Wat van het volgende gebruiken we om de intellectuele eigendom uit onze softwarecode te beschermen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,1,0,0">
+                <option><![CDATA[Patenten]]></option>
+                <option><![CDATA[Auteursrecht]]></option>
+                <option><![CDATA[Ontwerprechten]]></option>
+                <option><![CDATA[Handelsmerken]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Software kan worden beschermd door auteursrechten en, in het geval van technische software, door middel van octrooien.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Software kan worden beschermd door auteursrechten en, in het geval van technische software, door middel van octrooien.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Software kan worden beschermd door auteursrechten en, in het geval van technische software, door middel van octrooien.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Welke beweringen kloppen met betrekking tot de verbintenis van Johnson Controls om intellectuele eigendom (IE) te beschermen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[We verbinden ons er uitsluitend toe onze eigen intellectuele-eigendomsrechten veilig te stellen]]></option>
+                <option><![CDATA[We respecteren de geldige intellectuele-eigendomsrechten van alle derden ]]></option>
+                <option><![CDATA[We treffen maatregelen om onze eigen intellectuele eigendom te beschermen]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Hier bij Johnson Controls verbinden we ons ertoe onze eigen intellectuele-eigendomsrechten te beschermen en de geldige intellectuele-eigendomsrechten van derden te respecteren.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Hier bij Johnson Controls verbinden we ons ertoe onze eigen intellectuele-eigendomsrechten te beschermen en de geldige intellectuele-eigendomsrechten van derden te respecteren.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Hier bij Johnson Controls verbinden we ons ertoe onze eigen intellectuele-eigendomsrechten te beschermen en de geldige intellectuele-eigendomsrechten van derden te respecteren.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Gunther werkt in een nieuw productontwikkelingsteam. Ze hebben een innoverend product ontwikkeld dat een groot succes belooft te worden. Gunther heeft een slimme merknaam voor het nieuwe product bedacht. Welke stappen acht Johnson Controls verplicht alvorens de merknaam in gebruik te nemen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[Een merkenonderzoek verrichten alvorens de naam aan te nemen]]></option>
+                <option><![CDATA[Het logo-ontwerp laten registreren bij het merkenbureau]]></option>
+                <option><![CDATA[Er zijn geen bijzondere stappen vereist alvorens de merknaam op de marktplaats te gebruiken. Er is alleen een merkenonderzoek vereist alvorens een handelsmerk te laten registreren]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Gunther moet een merkenonderzoek verrichten alvorens een nieuwe naam of een nieuw grafisch ontwerp voor of op het product te gebruiken. Dit is verplicht.]]></text>
+					<text><![CDATA[De registratie van een nieuw handelsmerk is aanbevolen, maar niet verplicht.]]></text>
+					<text><![CDATA[In vele landen kunnen handelsrechten tevens worden verworven door middel van het gebruik van een merk of logo, zelfs zonder de officiële registratie ervan. Registreren is uiteraard veel veiliger. ]]></text>
+					<text><![CDATA[Als een handelsmerk niet correct wordt gebruikt, bijvoorbeeld als het door het publiek als een algemene term wordt gebruikt, kan het recht om het handelsmerk af te dwingen verloren gaan, zelfs als het merk is geregistreerd.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Gunther moet een merkenonderzoek verrichten alvorens een nieuwe naam of een nieuw grafisch ontwerp voor of op het product te gebruiken. Dit is verplicht.]]></text>
+					<text><![CDATA[De registratie van een nieuw handelsmerk is aanbevolen, maar niet verplicht.]]></text>
+					<text><![CDATA[In vele landen kunnen handelsrechten tevens worden verworven door middel van het gebruik van een merk of logo, zelfs zonder de officiële registratie ervan. Registreren is uiteraard veel veiliger. ]]></text>
+					<text><![CDATA[Als een handelsmerk niet correct wordt gebruikt, bijvoorbeeld als het door het publiek als een algemene term wordt gebruikt, kan het recht om het handelsmerk af te dwingen verloren gaan, zelfs als het merk is geregistreerd.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[U wilt een leverancier de haalbaarheid van een nieuw ontwerp laten testen dat door ingenieurs van Johnson Controls werd ontwikkeld. Wat kunt u doen om de intellectuele eigendom van Johnson Controls te beschermen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="0,1,0,1">
+                <option><![CDATA[De zaak doorverwijzen naar het complianceteam voor het derdenprogramma]]></option>
+                <option><![CDATA[De leverancier vragen een geheimhoudingsovereenkomst te ondertekenen]]></option>
+                <option><![CDATA[Een octrooiaanvraag indienen nadat u de informatie met de leverancier hebt gedeeld]]></option>
+                <option><![CDATA[Contact opnemen met uw advocaat voor intellectuele eigendom om advies in te winnen ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> In deze situatie kunt u een octrooiaanvraag indienen op voorwaarde dat het ontwerp nieuw en innoverend is, maar u moet dit doen voordat u de informatie met de leverancier deelt. Totdat het octrooi is ingediend, moet u de leverancier vragen een geheimhoudingsovereenkomst te ondertekenen.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> In deze situatie kunt u een octrooiaanvraag indienen op voorwaarde dat het ontwerp nieuw en innoverend is, maar u moet dit doen voordat u de informatie met de leverancier deelt. Totdat het octrooi is ingediend, moet u de leverancier vragen een geheimhoudingsovereenkomst te ondertekenen.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> In deze situatie kunt u een octrooiaanvraag indienen op voorwaarde dat het ontwerp nieuw en innoverend is, maar u moet dit doen voordat u de informatie met de leverancier deelt. Totdat het octrooi is ingediend, moet u de leverancier vragen een geheimhoudingsovereenkomst te ondertekenen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>			
+    </module>
+	<module id="8" pick="3">
+       <question type="mrq">
+            <questionText>
+				<text><![CDATA[Welke van de onderstaande voorbeelden kan worden beschouwd als <i><b>vertrouwelijke informatie</b></i>?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="0,0,1,1,1">
+                <option><![CDATA[Een tijdschriftartikel over Johnson Controls]]></option>
+                <option><![CDATA[Ons rapport rond maatschappelijk verantwoord ondernemen ]]></option>
+                <option><![CDATA[Een lijst van namen, adressen en persoonsgegevens van werknemers]]></option>
+                <option><![CDATA[Een intern financieel rapport]]></option>
+                <option><![CDATA[Een document met technische informatie over een nieuw product dat wordt ontwikkeld]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Vertrouwelijke informatie kan op een papieren document, in afgedrukt of elektronisch formaat staan. Alles wat niet werd gepubliceerd of anderszins openbaar is, wordt als vertrouwelijke informatie beschouwd.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Vertrouwelijke informatie kan op een papieren document, in afgedrukt of elektronisch formaat staan. Alles wat niet werd gepubliceerd of anderszins openbaar is, wordt als vertrouwelijke informatie beschouwd.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Vertrouwelijke informatie kan op een papieren document, in afgedrukt of elektronisch formaat staan. Alles wat niet werd gepubliceerd of anderszins openbaar is, wordt als vertrouwelijke informatie beschouwd.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Wanneer moet er een geheimhoudingsovereenkomst (NDA) worden gebruikt?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[Er dient alleen een NDA te worden gebruikt wanneer we gevoelige persoonsgegevens intern of extern met anderen delen]]></option>
+                <option><![CDATA[Er moet altijd een NDA worden gebruikt wanneer vertrouwelijke informatie intern wordt gedeeld]]></option>
+                <option><![CDATA[Er moet een NDA worden gebruikt wanneer vertrouwelijke informatie met een externe derde wordt gedeeld]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> U moet een NDA gebruiken wanneer u vertrouwelijke informatie deelt met een persoon buiten Johnson Controls. Een NDA is een effectieve manier om de vertrouwelijkheid van de vertrouwelijke informatie te waarborgen.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> U moet een NDA gebruiken wanneer u vertrouwelijke informatie deelt met een persoon buiten Johnson Controls. Een NDA is een effectieve manier om de vertrouwelijkheid van de vertrouwelijke informatie te waarborgen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Susan drukt een kopie af van een document dat vertrouwelijke bedrijfsinformatie bevat. De inkt van de printer is op, maar Susan is al te laat voor een vergadering. Wat moet ze doen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,0,0,1">
+                <option><![CDATA[Ze moet de inkt vervangen en wachten op het document]]></option>
+                <option><![CDATA[Ze moet naar de vergadering gaan en later de inkt vervangen]]></option>
+                <option><![CDATA[Ze moet de receptionist vragen de afgedrukte documenten te verzamelen zodra ze worden afgedrukt]]></option>
+                <option><![CDATA[Susan moet een collega die bevoegd is om de informatie te bekijken vragen de inkt te vervangen en het afgedrukte document voor haar te verzamelen]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Susan moet de inkt zelf vervangen en wachten totdat het document is afgedrukt of ze moet iemand met de juiste bevoegdheid om de documenten in te zien vragen ze voor haar te verzamelen. Ze mag echter niet gewoon naar de vergadering gaan en zich later over het document bekommeren. Susan heeft de verantwoordelijkheid erover te waken dat er correct wordt omgegaan met het afgedrukte exemplaar van de vertrouwelijke informatie.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Susan moet de inkt zelf vervangen en wachten totdat het document is afgedrukt of ze moet iemand met de juiste bevoegdheid om de documenten in te zien vragen ze voor haar te verzamelen. Ze mag echter niet gewoon naar de vergadering gaan en zich later over het document bekommeren. Susan heeft de verantwoordelijkheid erover te waken dat er correct wordt omgegaan met het afgedrukte exemplaar van de vertrouwelijke informatie.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Susan moet de inkt zelf vervangen en wachten totdat het document is afgedrukt of ze moet iemand met de juiste bevoegdheid om de documenten in te zien vragen ze voor haar te verzamelen. Ze mag echter niet gewoon naar de vergadering gaan en zich later over het document bekommeren. Susan heeft de verantwoordelijkheid erover te waken dat er correct wordt omgegaan met het afgedrukte exemplaar van de vertrouwelijke informatie.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[U bent op uw computer aan de slag met een rapport dat vertrouwelijke informatie over werknemers bevat. U wilt een kop koffie halen. Wat moet u doen?]]></text>
+			</questionText>
+			<instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Het rapport open laten staan op uw computer, zodat u snel weer aan de slag kunt bij uw terugkeer]]></option>
+                <option><![CDATA[Uw computer vergrendelen met wachtwoordbeveiliging]]></option>
+                <option><![CDATA[Een collega vragen een oogje in het zeil te houden terwijl u weg bent]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> U moet er altijd voor zorgen dat uw computerscherm vergrendeld is wanneer u niet aan uw bureau zit. Zelfs als u maar heel even uw bureau verlaat, moet u alsnog uw scherm vergrendelen zodat niemand anders toegang heeft tot bestanden, ons netwerk of rapporten die vertrouwelijke informatie bevatten.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> U moet er altijd voor zorgen dat uw computerscherm vergrendeld is wanneer u niet aan uw bureau zit. Zelfs als u maar heel even uw bureau verlaat, moet u alsnog uw scherm vergrendelen zodat niemand anders toegang heeft tot bestanden, ons netwerk of rapporten die vertrouwelijke informatie bevatten.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Welke verantwoordelijkheden hebt u als werknemer van Johnson Controls op het vlak van vertrouwelijke informatie?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[Ik hoef alleen informatie over werknemers, klanten en andere derden te beschermen]]></option>
+                <option><![CDATA[Ik moet de vertrouwelijkheid van informatie over collega's beschermen, maar niet de vertrouwelijkheid van andere bedrijfsinformatie]]></option>
+                <option><![CDATA[Ik moet de vertrouwelijkheid van bedrijfseigen informatie van Johnson Controls beschermen, evenals de informatie die we bezitten over klanten, leveranciers en andere derden]]></option>
+                <option><![CDATA[Ik hoef slechts de vertrouwelijkheid van informatie over het bedrijf te beschermen en niet van informatie over personen]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Als werknemer van Johnson Controls moet u de vertrouwelijkheid van de bedrijfseigen informatie van Johnson Controls beschermen, alsook van de informatie die we bezitten over klanten, leveranciers en andere derden. U moet erover waken dat ze niet ongepast worden onthuld aan personen binnen en buiten Johnson Controls.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Als werknemer van Johnson Controls moet u de vertrouwelijkheid van de bedrijfseigen informatie van Johnson Controls beschermen, alsook van de informatie die we bezitten over klanten, leveranciers en andere derden. U moet erover waken dat ze niet ongepast worden onthuld aan personen binnen en buiten Johnson Controls.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Er ligt een stapel vertrouwelijke rapporten op uw bureau die u morgen opnieuw nodig heeft. U vertrekt 's avonds. Wat moet u met de rapporten doen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[Ze mee naar huis nemen in uw laptoptas]]></option>
+                <option><![CDATA[Ze achter slot en grendel opbergen in een lade voordat u het kantoor verlaat]]></option>
+                <option><![CDATA[De rapporten in een dossier steken en op een schap boven uw bureau leggen]]></option>
+                <option><![CDATA[Ze in de prullenbak werpen]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 35px;">
+					<text><![CDATA[<b>Juist.</b> Vertrouwelijke informatie moet veilig worden bewaard wanneer ze niet wordt gebruikt. ]]></text>
+					<text><![CDATA[U moet ervoor zorgen dat informatie bewaard op papier, geheugensticks of een ander opslagmedium niet onbewaakt wordt achtergelaten, zowel tijdens als buiten de werkuren. ]]></text>
+					<text><![CDATA[Om vertrouwelijke informatie te beschermen, moet u:<ul><li>De toegang beperken tot degenen die de informatie moeten kunnen inzien en ertoe bevoegd zijn</li><li>Vertrouwelijke informatie beveiligen door wachtwoorden te gebruiken, veilige opslag te voorzien en uw computer te vergrendelen</li><li>Vertrouwelijke informatie wissen door ze op veilige wijze te vernietigen</li></ul>]]></text>
+				</correct>
+                <incorrect style="top: 35px;">
+					<text><![CDATA[<b>Dat klopt niet.</b> Vertrouwelijke informatie moet veilig worden bewaard wanneer ze niet wordt gebruikt. ]]></text>
+					<text><![CDATA[U moet ervoor zorgen dat informatie bewaard op papier, geheugensticks of een ander opslagmedium niet onbewaakt wordt achtergelaten, zowel tijdens als buiten de werkuren. ]]></text>
+					<text><![CDATA[Om vertrouwelijke informatie te beschermen, moet u:<ul><li>De toegang beperken tot degenen die de informatie moeten kunnen inzien en ertoe bevoegd zijn</li><li>Vertrouwelijke informatie beveiligen door wachtwoorden te gebruiken, veilige opslag te voorzien en uw computer te vergrendelen</li><li>Vertrouwelijke informatie wissen door ze op veilige wijze te vernietigen</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>				
+    </module>
+	<module id="9" pick="3">
+       <question type="mcq">
+            <questionText>
+				<text><![CDATA[U bent op een branchecongres en draagt een naambadge waarop staat dat u een werknemer van Johnson Controls bent. Aan de koffiebar ontmoet u Mark, een man die voor een concurrent werkt. Bij het uitwisselen van beleefdheden komt Alice, een collega van Mark, erbij staan en kaart ze de nakende prijsstijgingen aan. Mag u de informatie gebruiken?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Ja]]></option>
+                <option><![CDATA[Nee]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Prijsinformatie is vertrouwelijk en moet worden beschermd. Hier heeft Alice dit niet gedaan door de prijsstijgingen te bespreken aan de koffiebar, een openbare plaats waar concurrenten aanwezig zijn. Doordat Alice er niet in is geslaagd om de prijsinformatie van haar werkgever vertrouwelijk te houden door er in het openbaar over te praten, is de informatie zelf openbaar geworden. U mag ze dus gebruiken. U moet uw manager, de juridische afdeling of het complianceteam inlichten over de informatiebron voordat u er gebruik van maakt.  ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Prijsinformatie is vertrouwelijk en moet worden beschermd. Hier heeft Alice dit niet gedaan door de prijsstijgingen te bespreken aan de koffiebar, een openbare plaats waar concurrenten aanwezig zijn. Doordat Alice er niet in is geslaagd om de prijsinformatie van haar werkgever vertrouwelijk te houden door er in het openbaar over te praten, is de informatie zelf openbaar geworden. U mag ze dus gebruiken. U moet uw manager, de juridische afdeling of het complianceteam inlichten over de informatiebron voordat u er gebruik van maakt.  ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Wat is de voornaamste vraag om te bepalen of u de informatie over de concurrent die u hebt verzameld al dan niet mag gebruiken?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[Helpt de informatie ons een positie in te nemen ten opzichte van onze concurrenten?]]></option>
+                <option><![CDATA[Werd er een beroep gedaan op misleiding, ontrouw of bedrog om deze informatie te verzamelen?]]></option>
+                <option><![CDATA[Zal de informatie ons van pas komen om kostbare fouten te voorkomen? ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Informatie over concurrenten is waardevol, maar kan uitsluitend worden gebruikt als ze op wettige, ethische manier wordt verkregen. Johnson Controls mag geen informatie gebruiken die op we onwettige wijze hebben verzameld, door middel van een onjuiste voorstelling of doordat de vertrouwelijkheidsovereenkomst van een concurrent werd geschonden. ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Informatie over concurrenten is waardevol, maar kan uitsluitend worden gebruikt als ze op wettige, ethische manier wordt verkregen. Johnson Controls mag geen informatie gebruiken die op we onwettige wijze hebben verzameld, door middel van een onjuiste voorstelling of doordat de vertrouwelijkheidsovereenkomst van een concurrent werd geschonden. ]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Een klant biedt aan u een offerte te geven die door een concurrent van Johnson Controls is ingediend. Wat moet u doen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[De klant hartelijk bedanken en de informatie gebruiken om uw volgende offerte op te stellen]]></option>
+                <option><![CDATA[De offerte lezen in het kantoor van uw klant, maar niet mee naar huis nemen]]></option>
+                <option><![CDATA[De offerte beleefd afwijzen en het incident melden aan uw manager, de juridische afdeling of het complianceteam]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Een offerte van een concurrent wordt als vertrouwelijke informatie over een concurrent beschouwd. U mag de offerte niet aanvaarden en moet de juridische afdeling hier meteen van op de hoogte brengen.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Een offerte van een concurrent wordt als vertrouwelijke informatie over een concurrent beschouwd. U mag de offerte niet aanvaarden en moet de juridische afdeling hier meteen van op de hoogte brengen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Welke van de onderstaande bronnen zijn aanvaardbare informatiebronnen over concurrenten van Johnson Controls?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[Dossiers bij overheidsinstanties]]></option>
+                <option><![CDATA[Rapporten van analisten]]></option>
+                <option><![CDATA[Vacatures]]></option>
+                <option><![CDATA[Gepubliceerde octrooi- en handelsmerkaanvragen]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> U mag informatie over onze concurrenten die openbaar beschikbaar is vrij gebruiken. Dit is informatie van onder andere:<ul> <li>Dossiers bij overheidsinstanties</li><li>Rapporten van analisten</li><li>Vacatures</li><li>Gepubliceerde octrooi- en handelsmerkaanvragen</li></ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> U mag informatie over onze concurrenten die openbaar beschikbaar is vrij gebruiken. Dit is informatie van onder andere:<ul> <li>Dossiers bij overheidsinstanties</li><li>Rapporten van analisten</li><li>Vacatures</li><li>Gepubliceerde octrooi- en handelsmerkaanvragen</li></ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> U mag informatie over onze concurrenten die openbaar beschikbaar is vrij gebruiken. Dit is informatie van onder andere:<ul> <li>Dossiers bij overheidsinstanties</li><li>Rapporten van analisten</li><li>Vacatures</li><li>Gepubliceerde octrooi- en handelsmerkaanvragen</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Sandra, een nieuwe werkneemster van Johnson Controls, heeft voordien voor een concurrent gewerkt en heeft weet van een nieuw product dat ze aan het ontwikkelen zijn. U werkt aan een soortgelijk product. Hoe kunt u van Sandra informatie over het product van haar voormalige werkgever bekomen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[De eenvoudigste aanpak is gewoonweg aan Sandra vragen u meer te vertellen over het product van de concurrent]]></option>
+                <option><![CDATA[U kunt uw product omschrijven en vragen hoe het tegenover het product van de concurrent staat]]></option>
+                <option><![CDATA[Het is in strijd met het beleid van Johnson Controls om vertrouwelijke informatie over een product van een concurrent van een voormalige werknemer te bekomen ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Nieuw productplannen zijn vertrouwelijke informatie. U dient geen vragen te stellen over, te zinspelen op of een voormalige werknemer van een concurrent niet onder druk te zetten voor vertrouwelijke informatie.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Nieuw productplannen zijn vertrouwelijke informatie. U dient geen vragen te stellen over, te zinspelen op of een voormalige werknemer van een concurrent niet onder druk te zetten voor vertrouwelijke informatie.]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Welke van de onderstaande methoden zijn niet aanvaardbaar om informatie over een concurrent te bekomen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="0,1,1,1">
+                <option><![CDATA[Kopieën van officiële documenten van overheidsinstanties vragen]]></option>
+                <option><![CDATA[Een concurrent opbellen en u voordoen als een toekomstige klant]]></option>
+                <option><![CDATA[Een klant vragen de offerte van een concurrent te tonen zodat we een scherpere prijs kunnen aanbieden]]></option>
+                <option><![CDATA[Een werknemer van een concurrent een geschenk geven in ruil voor informatie]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Johnson Controls mag geen informatie over een concurrent aanvaarden of gebruiken die op ongepaste wijze werd verkregen door middel van methodes zoals:<ul> <li>Zich voordoel als een toekomstige klant</li><li>Een klant vragen de offerte van een concurrent te tonen</li><li>Een werknemer van een concurrent een geschenk geven in ruil voor informatie</li></ul>]]></text>
+					<text><![CDATA[Het is gepast kopieën van officiële documenten van overheidsinstanties te vragen.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Johnson Controls mag geen informatie over een concurrent aanvaarden of gebruiken die op ongepaste wijze werd verkregen door middel van methodes zoals:<ul> <li>Zich voordoel als een toekomstige klant</li><li>Een klant vragen de offerte van een concurrent te tonen</li><li>Een werknemer van een concurrent een geschenk geven in ruil voor informatie</li></ul>]]></text>
+					<text><![CDATA[Het is gepast kopieën van officiële documenten van overheidsinstanties te vragen.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Johnson Controls mag geen informatie over een concurrent aanvaarden of gebruiken die op ongepaste wijze werd verkregen door middel van methodes zoals:<ul> <li>Zich voordoel als een toekomstige klant</li><li>Een klant vragen de offerte van een concurrent te tonen</li><li>Een werknemer van een concurrent een geschenk geven in ruil voor informatie</li></ul>]]></text>
+					<text><![CDATA[Het is gepast kopieën van officiële documenten van overheidsinstanties te vragen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[U brengt een bezoek aan een leverancier, Juan, die tevens materiaal aan een concurrent van Johnson Controls verstrekt. Juan geeft u de nieuwe productbrochure die de concurrent onlangs heeft uitgebracht. Mag u de informatie uit de brochure gebruiken?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer de juiste optie en klik vervolgens op INDIENEN.]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[Ja, de productbrochure is openbaar verkrijgbaar, dus we mogen dit gebruiken]]></option>
+                <option><![CDATA[Nee, we mogen nooit informatie over een concurrent gebruiken die we niet zelf hebben verzameld]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> We mogen nooit informatie over een concurrent verzamelen door middel van bedrog, bedriegerij of onethische methoden. We mogen informatie over een concurrent aanvaarden op voorwaarde dat ze openbaar verkrijgbaar is en ze op ethische manier is verkregen.]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> We mogen nooit informatie over een concurrent verzamelen door middel van bedrog, bedriegerij of onethische methoden. We mogen informatie over een concurrent aanvaarden op voorwaarde dat ze openbaar verkrijgbaar is en ze op ethische manier is verkregen.]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Harry is een nieuwe werknemer die voordien voor een concurrent heeft gewerkt. Hij vertelt u dat zijn voormalige werkgever van plan is de prijzen met 2% te verminderen tegen volgend jaar. Wat moet u doen?]]></text>
+			</questionText>
+            <instruction><![CDATA[Selecteer <strong><i>alle</i></strong> correcte opties en klik vervolgens op INDIENEN.]]></instruction>
+            <extraInstruction><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></extraInstruction>
+            <options answer="0,1,1,0">
+                <option><![CDATA[Een prijsvermindering van 2% aanbevelen]]></option>
+                <option><![CDATA[Harry eraan herinneren dat hij geen vertrouwelijke informatie van zijn vorige werkgever mag vrijgeven]]></option>
+                <option><![CDATA[Uw manager, de juridische afdeling of het complianceteam op de hoogte brengen van het incident]]></option>
+                <option><![CDATA[Zoek uit of Harry bepaalde wetten geschonden heeft door de informatie te delen]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>Juist.</b> Harry heeft vertrouwelijke informatie van zijn vorige werkgever vrijgegeven. U mag de informatie niet gebruiken. U moet daarentegen uw manager, de juridische afdeling of het complianceteam hierover inlichten.]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>Dit klopt gedeeltelijk.</b> Harry heeft vertrouwelijke informatie van zijn vorige werkgever vrijgegeven. U mag de informatie niet gebruiken. U moet daarentegen uw manager, de juridische afdeling of het complianceteam hierover inlichten.]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>Dat klopt niet.</b> Harry heeft vertrouwelijke informatie van zijn vorige werkgever vrijgegeven. U mag de informatie niet gebruiken. U moet daarentegen uw manager, de juridische afdeling of het complianceteam hierover inlichten.]]></text>
+				</incorrect>
+            </feedback>
+        </question>				
+    </module>
+</assessment>

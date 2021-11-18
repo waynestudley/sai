@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[多くの利益相反の事例は、小規模また個人レベルで発生します。 しかし利益相反には大きなものもあり、見出しを飾るニュースになることもあります。]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[多くの利益相反は、小規模であり個人的なものです– しかし利益相反には大きなものもあり、見出しを飾るニュースになることもあります。]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[矢印をクリックして詳しく学んでください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[SECの調査官と話しているポートフォリオマネージャー]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:380px;" />
+				<text style="font-weight:bold;font-size:14px;"><![CDATA[見出し： 資産管理の会社、利益相反の和解に1,200万米ドルの支払い]]></text>
+				<text style="font-size:14px;"><![CDATA[Blackrockは、巨大な資産管理会社ですが、ポートフォリオマネージャーの1人の行動が原因で、利益相反の告発の和解に1,200万米ドルを支払いました。]]></text>
+				<text style="font-size:14px;"><![CDATA[米国 証券取引委員会は、Blackrockのエネルギー資金を監督していたブローカーが、同じ時期に家族所有の石油とガスの会社に資金提供していたことを発見し、その後、告発を行いました。 家族所有の会社は、石炭会社と業務提携していました – その同じ石炭会社の株式は、そのブローカーが運用した資金のうち、最大のものでした。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[記者会見での病院の理事]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-weight:bold;font-size:14px;"><![CDATA[見出し： 病院の理事役員が、個人として13,500米ドルの罰金を課されました]]></text>
+				<text style="font-size:14px;"><![CDATA[ニューヨーク市公立病院システムの理事役員は、彼が理事として勤務していた期間とグレナダの医学校で勤務していた期間に、利益相反があったことがわかり、個人として13,500米ドルの罰金を課されました。]]></text>
+				<text style="font-size:14px;"><![CDATA[市の紛争委員会は、この医師が勤務していた医学校の生徒が市営病院に採用される人数を増やすよう、理事の立場を悪用して働きかけを行っていることを発見しました。]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[株価を見ている人物 ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:14px;"><![CDATA[見出し： JP Morganは、取引中に危うい助言を与えたことで3,500万米ドルを支払いました。]]></text>
+				<text style="font-size:14px;"><![CDATA[巨大投資会社のJP Morganは、2015年の後半、Good TechnologyをBlackBerryに売っている最中の行動から生じた告発について、その和解のために3,500万米ドルを支払いました。 ]]></text>
+				<text style="font-size:14px;"><![CDATA[Good Technologyの株主は、会社がその市場価格未満で売られたこと、また、JP MorganがBlackBerryからの将来の投資銀行事業を勝ち取ることを望んでいたために、Good Technologyを売却したことについて、告発しました。 裁判所は同意し、株主に大きく有利な判決を下しました。]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/knowledgeCheck/knowledge_check_intro" id="0"><![CDATA[Nu u deze cursus hebt voltooid, kunt u uw kennis testen door een reeks vragen te beantwoorden. Als u hiervoor slaagt, kunt u vervolgens een certificaat van voltooiing afdrukken. Klik op 'Volgende' om met de kennistest te starten.]]></text>
+	</transcript>
+	<contentBg style="padding: 0;top: 70px;width: 520px;right: 20px;"></contentBg>
+	<pageTitle style="padding:15px 20px 10px 25px;width: 360px;margin-bottom:0px;"></pageTitle>
+	<contentText>
+		<text><![CDATA[Test uw kennis door een reeks vragen te beantwoorden.]]></text>
+		<text><![CDATA[Vragen:]]></text>
+		<text><![CDATA[Score om te slagen:]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="14px" left="0px" bgColor="transparent" color="#0080B6" padding="0px" position="relative"><![CDATA[<i>Klik op de knop 'Volgende' <span class="nexticon" >[ <img src="content/images/ltr/preAssessment/Next_icon.png" /> ]</span> om te starten.</i>]]></text>
+	</contentText>
+    <contentBackground>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentIntro.jpg" minwidth="800" minheight="600"><![CDATA[Personeel van Johnson Controls op het werk]]></img>
+	</contentBackground>
+	
+</contents>

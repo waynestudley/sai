@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[¿Ve alguna señal de alarma en esta situación? Seleccione cualquier señal que haya detectado y, luego, haga clic en Enviar.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[¿Cuáles son las señales de alarma relacionadas con este mensaje de correo electrónico?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[Bandeja de entrada de correo electrónico]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleccione todas las señales de alarma y, luego, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Es posible que haya más de una respuesta correcta.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[El remitente dice ser un cliente de Johnson Controls.]]></option>	
+		<option><![CDATA[El cliente escribe sobre un tema de negocios, pero está utilizando una cuenta de Gmail.]]></option>	
+		<option><![CDATA[El cliente solicita información que podría ser controlada y no proporciona tanta información sobre sí mismo.]]></option>	
+		<option><![CDATA[El cliente dice que está en Francia, pero usted no puede verificar este dato a partir del mensaje de correo electrónico.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text style="font-size:15px;line-height:17px;padding-top:15px;"><![CDATA[La respuesta es correcta.]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[El cliente solicita información técnica que podría estar restringida para la exportación y no brinda tanta información sobre sí mismo.]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[Antes de prestar asistencia técnica, por lo menos debe conocer más sobre la identidad y la ubicación del remitente, así como cualquier restricción al comercio aplicable.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text style="font-size:15px;line-height:17px;padding-top:15px;"><![CDATA[Lamentablemente, la respuesta no es correcta.]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[El cliente solicita información técnica que podría estar restringida para la exportación y no brinda tanta información sobre sí mismo.]]></text>
+			<text style="font-size:15px;line-height:17px;"><![CDATA[Antes de prestar asistencia técnica, por lo menos debe conocer más sobre la identidad y la ubicación del remitente, así como cualquier restricción al comercio aplicable.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

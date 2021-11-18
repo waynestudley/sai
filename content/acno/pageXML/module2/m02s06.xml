@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m02s06">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[Seleccione Regalo o Entretenimiento para cada ejemplo y, luego, haga clic en Enviar.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[Trabajadores en una oficina]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Fíjese si puede reconocer si cada ejemplo cuenta como regalo o entretenimiento.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Seleccione Regalo o Entretenimiento para cada opción y, luego, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png"><![CDATA[Empleados durante una comida del equipo con un proveedor]]></img>
+			<text style="width: 406px;"><![CDATA[Un proveedor invita a todo el equipo del proyecto a una comida para celebrar el final de un proyecto muy importante.]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png"><![CDATA[Empleado pensativo]]></img>
+			<text style="width: 406px;"><![CDATA[Un cliente le da un cupón canjeable por un masaje en un complejo hotelero del lugar a modo de agradecimiento por su trabajo.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png"><![CDATA[Empleado pensativo]]></img>	
+			<text style="width: 406px;"><![CDATA[Asiste a una exposición comercial en nombre de la empresa, y los organizadores invitan a los asistentes a un evento nocturno.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png"><![CDATA[Empleado pensativo]]></img>	
+			<text style="width:406px;"><![CDATA[Un proveedor ofrece pagar la comida de su equipo en un restaurante local después de una reunión en las instalaciones, pero el proveedor no asistirá.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png"><![CDATA[Empleado pensativo]]></img>	
+			<text style="width:406px;"><![CDATA[Una proveedora lo invita a un evento deportivo, pero, como ella no se siente bien, le dice que vaya solo.]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;font-size:12px;"><![CDATA[Regalo]]></text>
+		<text styleWidth="width:100px;font-size:12px;"><![CDATA[Entretenimiento]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[La respuesta es correcta.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Las normas que se aplican al informar regalos y entretenimiento no son las mismas. Recuerde que, en el caso del entrenamiento, la persona que lo ofrece comparte el beneficio: asiste a la cena, también va al evento, etc.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Si un proveedor invita al equipo a una comida o asiste a un evento nocturno de una exposición comercial, se trata de un entretenimiento, ya que ambas situaciones brindan oportunidades para hablar de negocios, y la persona que ofrece la actividad comparte el beneficio. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Un certificado de regalo, y los eventos a los que la persona que los ofrece no asiste, se consideran regalos. ]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[La respuesta no es correcta.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Las normas que se aplican al informar regalos y entretenimiento no son las mismas. Recuerde que, en el caso del entrenamiento, la persona que lo ofrece comparte el beneficio: asiste a la cena, también va al evento, etc.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Si un proveedor invita al equipo a una comida o asiste a un evento nocturno de una exposición comercial, se trata de un entretenimiento, ya que ambas situaciones brindan oportunidades para hablar de negocios, y la persona que ofrece la actividad comparte el beneficio. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Un certificado de regalo, y los eventos a los que la persona que los ofrece no asiste, se consideran regalos. ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m04s06">
+	<transcript>
+		<text path="audio/module4/m04s06" id="0"><![CDATA[提到保護個人資料時，請牢記： 限制、保護和刪除。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[我們的供應商、客戶和員工重視他們的隱私，希望我們能保護他們的資料。 當我們處理個人資料 (收集、影印、修訂、保存、刪除或進行其他處理) 時，必須堅守三個重要原則： 限制、保護和刪除。 檢閱下面的每個項目以瞭解詳情。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[按一下每個「顯示」按鈕以瞭解詳情。 請捲動閱讀完整答案。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[顯示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img1.png" style=""><![CDATA[正在使用電話與筆記型電腦處理個人資料的員工]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[限制]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[經當事人同意且該資料為達成合法業務目的之所需，否則不得擅自處理個人資料。 <ul><li>資料用途必須符合明確合法的業務需求，否則不得收集個人資料。</li><li>確保您所收集的所有個人資料對於業務目的足夠、相關且不過度。 絕不收集超過您所需的個人資料。</li><li>個人資料應該只能用於當初收集的指定用途。</li></ul>]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img2.png" style=""><![CDATA[加密圖示]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[保護]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[確保個人資料免受未經授權的使用及意外遺失、破壞或損毀。<ul><li>只能由經授權的員工和承包商基於合法工作需要存取使用個人資料。</li><li>盡可能只保存非書面的資料，並使用加密或高強度密碼的方式來保護檔案免受未經授權的使用。 紙本較容易被放錯位置或取得，應盡量減少或盡可能避免。</li><li>絕不將個人資料存放於沒有查看需要或權限的人員可存取的共享資料夾或目錄中。</li><li>避免以儲存於多處且維護方式不相同的電子記錄的方式保存。</li></ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module4/m04s06/img3.png" style=""><![CDATA[鍵盤上的垃圾桶圖示]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[刪除]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[僅遵照法律規定或依據收集資料的原始業務理由決定留存時間。<ul><li>定期檢查資料確保是最新、準確且依然與當初收集時的業務目的相關。</li><li>不再需要時，以安全的方式丟棄資料，如絞碎或丟入機密垃圾桶。</li></ul>]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

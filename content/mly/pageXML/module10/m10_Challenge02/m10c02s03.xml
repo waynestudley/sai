@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Emma mempunyai kerja sambilan sebagai broker untuk syarikat baharu abang iparnya tetapi kerjanya di Johnson Controls terjejas.]]></text>
+		<text style="line-height:18px;"><![CDATA[Manakah antara senario berikut akan menjadi jalan tindakan terbaik untuk Emma?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;line-height:20px;">
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma terus melakukan kedua-dua kerja. Apabila kerjanya sebagai broker menjadi sibuk, dia meminta rakan sekerjanya menggantikannya dan mengambil cuti sakit daripada Johnson Controls.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma terus melakukan kedua-dua kerja dan melakukan yang terbaik untuk mengimbangkan tanggungjawabnya. Apabila keadaan tidak sibuk di Johnson Controls, dia menerima panggilan berkaitan brokernya dan menghantar e-mel daripada telefon pintar peribadinya.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma bercakap dengan pengurusnya mengenai pekerjaannya dengan syarikat abang iparnya dan mereka membincangkan cara supaya dia boleh memastikan kerja tersebut berasingan daripada kerjanya di Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Keputusan Emma untuk bekerja dengan syarikat hartanah abang iparnya boleh mewujudkan kemungkinan konflik kepentingan, terutamanya kerana kerja sambilannya mula memerlukan lebih masa dan perhatiannya.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma masih memikirkan bahawa dia boleh mengimbangkan tugas, jadi kerja baharunya itu tidak menjejaskan tanggungjawabnya di Johnson Controls. Tetapi adakah dia bersikap realistik? Dia memutuskan untuk bercakap dengan pengurusnya sebagai langkah berjaga-jaga.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -222px;">
+			<text style="padding-top:25px;"><![CDATA[Emma bercakap dengan pengurusnya mengenai kerja sambilannya.]]></text>
+			<text><![CDATA[Pengurusnya berbincang dengannya perkara yang diharapkan ketika dia di tempat kerja dan betapa mengambil kerja luar tidak dilarang, tetapi:<ul> <li>Ia tidak boleh mengganggu kerjanya untuk Johnson Controls. </li> <li>Dia tidak sepatutnya menggunakan sebarang sumber syarikat untuk melakukan kerja luarnya, termasuk masa kerjanya di Johnson Controls.</li> </ul>]]></text>
+			<text><![CDATA[Mereka bersetuju bahawa dia tidak akan melakukan perniagaannya semasa waktu bekerja di Johnson Controls dan jika kerjanya terjejas, mereka akan membincangkan semula keadaan tersebut.]]></text>
+		</correct>
+	</feedback>
+</contents>

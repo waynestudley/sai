@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Obálka obsahuje 300 USD v hotovosti. Jian už dar odmietol a dodávateľ na tom trval. Čo by mal urobiť?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[Konferenčná miestnosť]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Zvoľte jednu možnosť a potom vyberte tlačidlo OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Nechá si hotovosť. Výberové konanie na dodávateľa už bolo ukončené, takže Jian už viac nie je v takej pozícii, aby ovplyvnil výber predajcu.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Znovu odmietne hotovosť. Ale keď mu dodávateľ ponúkne darčekovú kartu v hodnote 100 USD do Eduardovej obľúbenej reštaurácie, prijme ju.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Znovu odmietne hotovosť, ale Jian následne prijme pozvanie dodávateľa na tímovú večeru.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian si nechal hotovosť a predpokladal, že to nikto nezistí.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Po tom, ako Jian druhýkrát odmietol hotovosť, dodávateľ trval na tom, že musí prijať aspoň darčekovú kartu v hodnote 100 USD do reštaurácie.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian opäť zdvorilo odmietol hotovosť, ale potom prijme pozvanie dodávateľa na tímovú večeru.]]></text>
+		</correct>
+	</feedback>
+</contents>

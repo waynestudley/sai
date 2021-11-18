@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s05">
+	<transcript>
+		<text path="audio/module8/m08s05" id="0"><![CDATA[이런 메시지를 받은 Debbie는 어떻게 대응해야 합니까? 한 개의 보기를 선택하고 '제출'하십시오.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[여기에서 Debbie는 어떻게 대응해야 합니까?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module8/m08s05/contentBackground.jpg" minwidth="769"><![CDATA[휴대전화를 들여다보고 있는 여자]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[한 개의 보기를 선택하고 '제출'하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Kim에게 다시는 그렇게 하지 말라고 말합니다.]]></option>	
+		<option><![CDATA[관리자에게 말합니다.]]></option>	
+		<option><![CDATA[내일 직장에서 셀카를 찍어서 Kim에게 회신합니다.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[정답입니다.]]></text>
+			<text><![CDATA[Kim은 소셜 미디어에 업무 관련 메시지를 게시할 때의 위험을 분명히 알지 못하며 Debbie는 그것을 해결하는 것이 자신의 역할이라고 느낄 수도 있지만, 실제로는 기밀 고객 정보의 침해 가능성에 대해 관리자에게 알려야 합니다. 이렇게 하면 정보 공개의 위험을 현재는 물론 미래에도 관리할 수 있습니다.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[죄송합니다. 정답이 아닙니다.]]></text>
+			<text><![CDATA[Kim은 소셜 미디어에 업무 관련 메시지를 게시할 때의 위험을 분명히 알지 못하며 Debbie는 그것을 해결하는 것이 자신의 역할이라고 느낄 수도 있지만, 실제로는 기밀 고객 정보의 침해 가능성에 대해 관리자에게 알려야 합니다. 이렇게 하면 정보 공개의 위험을 현재는 물론 미래에도 관리할 수 있습니다.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

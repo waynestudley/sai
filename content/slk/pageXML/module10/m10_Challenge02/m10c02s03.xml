@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="line-height:20px;"><![CDATA[Emma má ďalšiu prácu ako maklérka v novej spoločnosti svojho švagra, ale jej práca v spoločnosti Johnson Controls tým trpí.]]></text>
+		<text style="line-height:20px;"><![CDATA[Ktorý z nasledujúcich scenárov by bol pre Emmu najlepší?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Zvoľte jednu možnosť a potom vyberte tlačidlo OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent style="line-height:20px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma bude pokračovať v oboch prácach. Keď sa jej nakopí práca maklérky, požiada kolegov, aby za ňu zaskočili a v spoločnosti Johnson Controls si vezme voľno z dôvodu práceneschopnosti.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma naďalej pracuje v oboch zamestnaniach a snaží sa žonglovať medzi svojimi povinnosťami. Keď sa situácia v spoločnosti Johnson Controls utíši, vybaví svoje maklérske hovory a odošle e-maily zo súkromného smartfónu.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma hovorí so svojím manažérom o svojej práci pre spoločnosť jej švagra a diskutujú o spôsoboch, akými môže túto prácu oddeliť od svojej práce v spoločnosti Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Emmino rozhodnutie pracovať pre realitnú spoločnosť jej švagra by mohlo vytvoriť potenciálny konflikt záujmov, a to najmä preto, že jej ďalšia práca si začína vyžadovať viac času a pozornosti.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma si stále myslí, že dokáže zvládnuť úlohy tak, aby jej nová práca nemala vplyv na jej povinnosti v spoločnosti Johnson Controls. Ale je to realistické? Pre istotu sa rozhodne porozprávať so svojím manažérom.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -228px;">
+			<text style="padding-top:25px;"><![CDATA[Emma hovorí so svojím manažérom o svojej ďalšej práci.]]></text>
+			<text><![CDATA[Jej manažér s ňou diskutuje o tom, čo sa od nej očakáva v práci a o tom, že mať ďalšie pracovné pomery nie je zakázané, ale:<ul> <li>nemôže to zasahovať do práce pre spoločnosť Johnson Controls. </li> <li>Nesmie využívať žiadne zdroje spoločnosti na to, aby mohla vykonávať svoju ďalšiu prácu, a to vrátane pracovného času v spoločnosti Johnson Controls.</li> </ul>]]></text>
+			<text><![CDATA[Dohodli sa na tom, že počas jej pracovnej doby v spoločnosti Johnson Controls nebude vykonávať svoje podnikanie a že ak to bude ovplyvňovať jej prácu, budú musieť túto tému znovu otvoriť.]]></text>
+		</correct>
+	</feedback>
+</contents>

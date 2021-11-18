@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[حدد "هدية" أو "وسيلة ترفيه" لكل من هذه النماذج، ثم انقر فوق "إرسال".]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[عمال في مكتب]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;left: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[تأكّد مما إذا كان بإمكانك التعرّف على ما إذا كان كل نموذج يُحتسب هديةً أم وسيلة ترفيه.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[حدد "هدية" أو "وسيلة ترفيه" لكل خيار، ثم انقر فوق "إرسال".]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="left:12px;" crossSt="left:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s06/img01.png"><![CDATA[موظفون يتناولون وجبة جماعية مع أحد المورّدين]]></img>
+			<text style="width: 406px;"><![CDATA[يقوم أحد المورّدين بتوجيه دعوة إلى فريق أحد المشروعات بكامله لتناول وجبة احتفالاً بنهاية مشروع كبير]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s06/img02.png"><![CDATA[موظف وقور]]></img>
+			<text style="width: 406px;"><![CDATA[يمنحك أحد العملاء قسيمة للاستمتاع بالتدليك في منتجع محلي مكتوب فيها "شكرًا لك" على العمل الذي أديته]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s06/img03.png"><![CDATA[موظف وقور]]></img>	
+			<text style="width: 406px;"><![CDATA[أنت تحضر معرضًا تجاريًّا بالنيابة عن الشركة ويقوم المنظِّمون بدعوة الحضور إلى فعالية مسائية]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s06/img04.png"><![CDATA[موظف وقور]]></img>	
+			<text style="width:406px;"><![CDATA[يعرض أحد المورّدين تسديد قيمة وجبة فريقك في مطعم محلي بعد اجتماع في موقع العمل، لكن المورّد لن يحضر معكم]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module2/m02s06/img05.png"><![CDATA[موظف وقور]]></img>	
+			<text style="width:406px;"><![CDATA[تدعوك واحدة من المورّدين إلى فعالية رياضية، لكنها تشعر بوعكة صحية وتطلب منك الذهاب بدونها]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[هدية]]></text>
+		<text styleWidth="width:100px;"><![CDATA[وسائل الترفيه]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 41px;width: 230px;height: 280px;padding-top: 20px;left: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[هذا صحيح.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[تسري قواعد مختلفة عندما يتعلق الأمر بالإبلاغ عن الهدايا ووسائل الترفيه. تذكر أن المانح يشارك في الاستفادة عندما يتعلق الأمر بوسائل ترفيه، فهو يحضر المأدبة ويذهب إلى الفعالية كذلك، وهكذا.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[قيام مورّد بدعوة الفريق على الطعام أو إلى حضور فعالية مسائية في معرض تجاري يمثل وسيلة ترفيه نظرًا لأن كلاً من الأمرين يوفر فرصًا لمناقشة العمل ويشارك المانح في الاستفادة. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[تُعتبر قسيمة الهدايا والفعاليات التي لا يحضرها المانح رغم دعوته إليها من قبيل الهدايا. ]]></text>			
+		</correct>
+		<incorrect style="top: 41px;width: 230px;height: 280px;padding-top: 20px;left: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[هذا ليس صحيحًا.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[تسري قواعد مختلفة عندما يتعلق الأمر بالإبلاغ عن الهدايا ووسائل الترفيه. تذكر أن المانح يشارك في الاستفادة عندما يتعلق الأمر بوسائل ترفيه، فهو يحضر المأدبة ويذهب إلى الفعالية كذلك، وهكذا.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[قيام مورّد بدعوة الفريق على الطعام أو إلى حضور فعالية مسائية في معرض تجاري يمثل وسيلة ترفيه نظرًا لأن كلاً من الأمرين يوفر فرصًا لمناقشة العمل ويشارك المانح في الاستفادة. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[تُعتبر قسيمة الهدايا والفعاليات التي لا يحضرها المانح رغم دعوته إليها من قبيل الهدايا. ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

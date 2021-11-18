@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[次のシナリオのうち、問題があると考えられるのはどれだと思いますか?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[これらの事例は賄賂と見なされる可能性があると思いますか?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[ビジネスマン]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[問題のあるシナリオを<span class="fontBold">すべて</span>選び、「送信」をクリックします。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[正解が一つ以上ある場合があります。]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px;font-size:14px;">
+		<option><![CDATA[都合の良いビジネス上の判断をしてくれることを条件に、お客様に現金を送ると約束します]]></option>
+		<option><![CDATA[あなたとの取引を希望する下請業者が、何度かの夕食とスポーツイベントにあなたを招待します]]></option>
+		<option><![CDATA[お客様となる可能性のある政府職員に、慈善寄付をします]]></option>
+		<option><![CDATA[あなたのマネージャーは、お客様が現在の契約の延長に同意することと引き換えに、お客様の娘を雇用します]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text style="line-height:22px"><![CDATA[正解です。]]></text>
+			<text style="line-height:22px"><![CDATA[状況にもよりますが、実はこれらのシナリオすべてが賄賂とみなされる可能性があります。 影響を与えようという意図の存在が最大の理由ですが、賄賂の様相を呈するだけでもあなたのJohnson Controls双方にとって問題なのです。ですから行動する前によく考えてください!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text style="line-height:22px"><![CDATA[不正解です。]]></text>
+			<text style="line-height:22px"><![CDATA[状況にもよりますが、実はこれらのシナリオすべてが賄賂とみなされる可能性があります。 影響を与えようという意図の存在が最大の理由ですが、賄賂の様相を呈するだけでもあなたのJohnson Controls双方にとって問題なのです。ですから行動する前によく考えてください!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

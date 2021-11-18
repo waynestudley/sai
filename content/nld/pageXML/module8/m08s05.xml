@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s05">
+	<transcript>
+		<text path="audio/module8/m08s05" id="0"><![CDATA[Hoe hoort Debbie te reageren nu ze dit bericht heeft ontvangen? Duid een optie aan en klik vervolgens op 'Indienen'.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Hoe hoort Debbie in dit geval te reageren?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module8/m08s05/contentBackground.jpg" minwidth="769"><![CDATA[Vrouw die kijkt naar telefoon]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[Duid een optie aan en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Kim zeggen het niet opnieuw te doen]]></option>	
+		<option><![CDATA[Haar manager erover inlichten]]></option>	
+		<option><![CDATA[Kim morgen zelf een selfie van op het werk sturen]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Dat klopt.]]></text>
+			<text><![CDATA[Kim is zich duidelijk niet bewust van de risico's van het publiceren van werkgerelateerde berichten op sociale media. Debbie meent misschien dat het haar taak is om dit aan te pakken, maar het is de manager die moet worden gewezen op de eventuele schending van de vertrouwelijkheid van de klantgegevens. Zodoende kan het risico op onthulling zowel nu als in de toekomst worden aangepakt.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Sorry, dit klopt niet.]]></text>
+			<text><![CDATA[Kim is zich duidelijk niet bewust van de risico's van het publiceren van werkgerelateerde berichten op sociale media. Debbie meent misschien dat het haar taak is om dit aan te pakken, maar het is de manager die moet worden gewezen op de eventuele schending van de vertrouwelijkheid van de klantgegevens. Zodoende kan het risico op onthulling zowel nu als in de toekomst worden aangepakt.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

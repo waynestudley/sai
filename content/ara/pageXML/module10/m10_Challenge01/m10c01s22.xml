@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s22">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[تعرض النادلة على جيان زجاجة نبيذ، وهو يشك في أنها مقدمة من إدواردو، المورد، رغم أنه ليس متيقنًا من ذلك. كما أنه لا يعرف كذلك قيمة النبيذ.]]></text>
+		<text><![CDATA[ما الذي ينبغي عليه فعله؟]]></text>
+	</contentText>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c01/m10c01s22/contentBackground.jpg" minwidth="769"><![CDATA[خلفية حانة في مطعم]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[قبول النبيذ.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[الاستفسار عن قيمة النبيذ قبل أن يتخذ القرار.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[يرفض النبيذ بشكل مهذب.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[استمتع جيان وزوجته بالنبيذ مع العشاء.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[ويستفسر جيان عن قيمة زجاجة النبيذ، وتخبره أن ثمن الزجاجة يتجاوز 200 دولار.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[هذا الاختيار آمن.]]></text>
+		</correct>
+	</feedback>
+</contents>

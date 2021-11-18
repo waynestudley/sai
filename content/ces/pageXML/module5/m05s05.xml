@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0"><![CDATA[Jak byste zde reagovali vy? Vyberte jednu možnost a odešlete ji.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Pokud žádosti vyhovíte a pošlete technické výkresy a návod pro integraci, jedná se o vývoz?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s05/contentBackground.jpg" minwidth="769"><![CDATA[Technické výkresy]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Vyberte jednu možnost a odešlete ji.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Ne, pokud je dotyčný zákazníkem společnosti Johnson Controls.]]></option>	
+		<option><![CDATA[Ano, jestliže zákazníkovi ve Francii odešlete technické výkresy a návod pro integraci podléhající regulaci vývozu, jedná se o vývoz.]]></option>	
+		<option><![CDATA[Ano, ale pouze pokud se dotyčná osoba nachází v zemi, na kterou jsou uvaleny sankce, jako je Írán]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Správně.]]></text>
+			<text><![CDATA[Odeslání technických informací podléhajících regulaci vývozu (například technických výkresů produktů) někomu v jiné zemi představuje vývoz, který vyžaduje předchozí povolení.]]></text>
+			<text><![CDATA[Požadované informace byste proto neměli posílat, dokud nezískáte podrobnější informace o totožnosti a umístění zákazníka, abyste mohli určit, jaká oprávnění jsou nezbytná k tomu, aby byl vývoz povolen.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Je nám líto, to není správně.]]></text>
+			<text><![CDATA[Odeslání technických informací podléhajících regulaci vývozu (například technických výkresů produktů) někomu v jiné zemi představuje vývoz, který vyžaduje předchozí povolení.]]></text>
+			<text><![CDATA[Požadované informace byste proto neměli posílat, dokud nezískáte podrobnější informace o totožnosti a umístění zákazníka, abyste mohli určit, jaká oprávnění jsou nezbytná k tomu, aby byl vývoz povolen.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

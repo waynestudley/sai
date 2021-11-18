@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0"><![CDATA[Bagaimanakah saya memberikan respons di sini? Buat satu pilihan dan kemudian, serah.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Jika anda menghantar lukisan teknikal dan arahan penyepaduan seperti yang diminta, adakah itu eksport?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s05/contentBackground.jpg" minwidth="769"><![CDATA[Lukisan Teknikal]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Buat satu pilihan dan kemudian, serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Tidak, jika orang tersebut merupakan pelanggan Johnson Controls]]></option>	
+		<option><![CDATA[Ya, menghantar lukisan teknikal dan arahan integrasi yang dikawal eksport kepada pelanggan di Perancis ialah eksport]]></option>	
+		<option><![CDATA[Ya, tetapi hanya jika orang tersebut berada dalam negara larangan seperti Iran]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Itu betul.]]></text>
+			<text><![CDATA[Menghantar maklumat teknikal yang dikawal eksport, termasuk lukisan produk atau arahan, kepada seseorang di negara lain ialah eksport dan memerlukan kebenaran awal.]]></text>
+			<text><![CDATA[Dengan mengingati itu, anda tidak boleh menghantar maklumat sehingga anda tahu tentang identiti dan lokasi pelanggan dengan lebih lanjut, supaya anda boleh menentukan kebenaran yang diperlukan untuk membenarkan eksport.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Maaf, itu tidak betul.]]></text>
+			<text><![CDATA[Menghantar maklumat teknikal yang dikawal eksport, termasuk lukisan produk atau arahan, kepada seseorang di negara lain ialah eksport dan memerlukan kebenaran awal.]]></text>
+			<text><![CDATA[Dengan mengingati itu, anda tidak boleh menghantar maklumat sehingga anda tahu tentang identiti dan lokasi pelanggan dengan lebih lanjut, supaya anda boleh menentukan kebenaran yang diperlukan untuk membenarkan eksport.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

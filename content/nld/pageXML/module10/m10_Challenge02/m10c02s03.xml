@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik op Volgende om door te gaan.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Emma heeft een tweede baan als makelaar in het nieuwe bedrijf van haar zwager, maar haar baan bij Johnson Controls lijdt eronder.]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Volgens welk van de onderstaande scenario's zou Emma het best handelen volgens u?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent style="font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma blijft beide banen combineren. Wanneer ze het te druk krijgt als makelaar, vraagt ze haar collega's voor haar in te vallen en meldt ze zich ziek bij Johnson Controls.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma blijft beide banen combineren en doet haar best om een evenwicht te vinden tussen haar verantwoordelijkheden. Wanneer het rustig is bij Johnson Controls, neemt ze als makelaar de telefoon op en stuurt ze e-mails met haar eigen smartphone.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma heeft het met haar manager over haar baan in het bedrijf van haar zwager. Samen bespreken ze manieren waarop ze haar andere baan gescheiden kan houden van haar baan bij Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[De beslissing van Emma om voor het vastgoedbedrijf van haar zwager te werken, creëert mogelijk een belangenconflict, des te meer daar haar tweede baan steeds meer van haar tijd en aandacht begint te vergen.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma denkt nog steeds dat ze haar taken kan combineren zodat haar nieuwe baan geen invloed heeft op haar verantwoordelijkheden bij Johnson Controls. Maar is ze wel realistisch? Ze besluit om het er voor de zekerheid met haar manager over te hebben.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:250px" fcStyle="top: -210px;">
+			<text style="padding-top:25px;"><![CDATA[Emma spreekt met haar manager over haar tweede baan.]]></text>
+			<text><![CDATA[Haar manager bespreekt met haar wat er van haar wordt verwacht op het werk en over het feit dat het aannemen van een tweede baan niet verboden is, maar:<ul> <li>Dat dit haar baan bij Johnson Controls niet mag hinderen. </li> <li>Dat ze geen bedrijfsmiddelen mag gebruiken om haar tweede baan uit te voeren, met inbegrip van haar werktijd bij Johnson Controls.</li> </ul>]]></text>
+			<text><![CDATA[Ze komen met elkaar overeen dat ze niet met haar tweede baan bezig mag zijn tijdens haar werkuren bij Johnson Controls en dat ze hierop zullen terugkomen als haar werk eronder zou lijden.]]></text>
+		</correct>
+	</feedback>
+</contents>

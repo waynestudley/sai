@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Ingrid vermutet, dass der von Hilde bestellte Wein sehr teuer war. Was sollte Ingrid tun? ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Das Abendessen fortsetzen und einfach hoffen, dass der Wein im Ausgabenbericht nicht auffallen wird.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Das Abendessen fortsetzen, da sie die Bezahlung des Weins nicht ablehnen kann, ohne eine unangenehme Situation zu erzeugen. Sie beabsichtigt jedoch, einen gesonderten Beleg für den Wein zu verlangen und ihn persönlich zu bezahlen.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Mit Hilde ein Gespräch unter vier Augen führen und ihr erklären, dass ihr Unternehmen die Kosten für den Wein nicht genehmigen wird, bevor die Bedienung den Wein vorbereitet. Hilde steht es frei, entweder selbst für den Wein zu zahlen oder eine günstigere Flasche zu bestellen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Ingrid zahlt für das Abendessen und reicht ihren Ausgabenbericht ein.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Ingrid zahlt für das Abendessen und reicht ihren Ausgabenbericht ein, ohne den Wein aufzuführen.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Hilde wirkt überrascht, als Ingrid ihr mitteilt, dass sie den Wein nicht bezahlen kann. Am Ende des Abends fragt sie aber nach getrennten Rechnungen und zahlt den Wein selbst.]]></text>
+		</correct>
+	</feedback>
+</contents>

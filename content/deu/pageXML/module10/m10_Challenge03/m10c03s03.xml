@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Carlos fühlt sich unter Druck gesetzt, entweder die Geräte zu warten oder mehrere Aufträge für ein Großgebäude zu verlieren. Wie sollte Carlos vorgehen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Das Geld annehmen und die Geräte warten, damit Johnson Controls die anderen Großaufträge im Gebäude nicht verliert, Rafael aber mitteilen, dass dies nur einmal vorkommen wird.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Das Geld nicht annehmen, die Geräte aber trotzdem warten, damit Johnson Controls die anderen Großaufträge im Gebäude nicht verliert.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Die Unterhaltung verlassen und seinen Vorgesetzten anrufen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos nimmt das Geld von Rafael an und wartet die falsch installierten Geräte. Johnson Controls behält die Gebäudeaufträge.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos führt die Wartungen durch, nimmt aber kein Geld von Rafael an.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;font-size:15px;line-height:19px;"><![CDATA[Carlos ruft seinen Vorgesetzten an, um Rat einzuholen.]]></text>
+			<text style="font-size:15px;line-height:19px;"><![CDATA[Carlos‘ Vorgesetzter weist ihn an, den Ort zusammen mit seinem Team zu verlassen. Nach Carlos Rückkehr ins Büro rufen die beiden gemeinsam bei der Compliance-Abteilung an. ]]></text>
+			<text style="font-size:15px;line-height:19px;"><![CDATA[Eine Untersuchung wird eingeleitet, und es stellt sich heraus, dass Rafael dieses Angebot bereits mehrere Male unterbreitet hat – und dass andere Johnson Controls-Techniker die Bestechung angenommen haben. Das Unternehmen leitet Disziplinarmaßnahmen gegen diese Techniker ein. ]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:24px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style="line-height:26px;"></pageTitle>
+	<contentText>
+		<text style="font-size:14px;line-height:18px;"><![CDATA[エマは、Johnson Controlsでの彼女の仕事では、仕事上の不注意がないように取り組んでいます。 しかし、うわさはオフィス中にまわり、エマには最新の物件に興味を持っている同僚が3人います！  顧客からの電話にでている間、エマは会計部のサンディからインスタントメッセージを受け取ります。]]></text>
+		<text style="font-size:14px;line-height:18px;"><![CDATA[<i>「こんにちは、エマ。 Newbury Roadの物件についてぜひ見たいと思っているんです。 送ってくれたリンクはとても素晴らしかった。 私が探していた物件そのものです。 渋滞に巻き込まれないために今日は少し早く帰るということにして、その物件を私に見せてくれないかな。」</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:18px;line-height:23px;">
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;font-size:14px;line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[エマは、サンディに物件を見せるために早く退勤することに同意します。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[エマはサンディに、いくつか電話をして、書類仕事を終わらせる予定だから早くは帰れないと伝えました。 しかし、エマはノートパソコンにさらに画像やビデオがあるから、サンディはエマのデスクにくればいつでも見ることができるし、詳細を離すことができると言いました。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[エマは今晩サンディに物件を見せることができないと伝えますが、彼女は顧客との電話の後に、多くの画像を彼女に送ります。 エマはサンディに、更に詳細を話すため、今晩自宅で彼女に電話をするよう頼みます。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[これはもっとも危険な選択です。 エマがこの決定をした場合に何が起こるか見てみましょう。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 190px;" fcStyle="top: -190px;">
+			<text style="padding-top:25px;"><![CDATA[エマが早退しなかった場合でも、彼女はJohnson Controlsの資産と労働時間を使って、するべきではない社外の仕事を行っていることには変わらず、物件を見学したいという他の同僚の気も散らしています。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 190px;" fcStyle="top: -190px;">
+			<text style="padding-top:25px;"><![CDATA[エマは2つの仕事を引き続き切り離す手順を踏みます。 しかし、彼女が仕事で使用するノートパソコン、インスタントメッセージ、仕事用の電子メールを、社外のビジネスを行うために使うべきではなく、彼女は物件を見学したい他の同僚の気も散らしています。]]></text>
+		</correct>
+	</feedback>
+</contents>

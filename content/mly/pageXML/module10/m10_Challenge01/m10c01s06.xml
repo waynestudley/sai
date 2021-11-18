@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="line-height:18px"><![CDATA[Prosedur isteri Jian berjaya tetapi doktor membuat dia bermalam semalaman untuk pemerhatian. Keesokan hari, Jian menggunakan komputer riba peribadinya dan bekerja dari bilik isterinya kerana IT tidak akan dapat memberi komputer riba ganti untuknya sehingga penghujung hari perniagaan. Dengan komputer ribanya, dia dapat melihat maklumat dalam fail induk pembekal.]]></text>
+		<text style="line-height:18px"><![CDATA[Apakah cara terbaik untuk memberi perubahan tersebut kepada Holly?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[Bilik hospital isteri Jian]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>	
+	<instructionText style="padding-bottom:8px;line-height:20px">
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px">
+		<option answer="0" feedbackId="1"><![CDATA[Jian mengelog masuk ke Wi-Fi awam dan menghantar e-mel fail yang dikemas kini daripada pemacu USB menggunakan e-mel peribadinya.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian menyedari bahawa menghantar fail induk yang dikemas kini kepada Holly untuk dimuat naik mungkin menyebabkan masalah kerana orang lain mungkin telah mengedit fail induk asal ketika ketiadaannya dan kemas kininya mungkin membatalkan fail induk tersebut. Jadi, ketika dia makan tengah hari di kafeteria hospital, dia menghubungi Holly dan menjelaskan kepada Holly tentang perubahan tersebut sementara Holly memasukkannya ke dalam fail induk pada sistem syarikat.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian meminta Holly mengambil pemacu USB yang disulitkan daripadanya di hospital.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:280px;" fcStyle="top: -223px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[Jian menghantar maklumat kepada Holly tetapi memuat turun fail boleh mewujudkan salinan yang berkonflik dengan pangkalan data pembekal semasa dan pasukan perlu meluangkan masa berjam-jam untuk mengemas kini dan mengesahkan maklumat.]]></text>
+			<text style="font-size:15px;"><![CDATA[Invois palsu dihantar kepada syarikat Jian yang didakwa daripada pembekal yang sah tetapi ia mengandungi maklumat akaun bank mereka yang cuba menipu syarikat. Beberapa bulan kemudian, rancangan jahat tersebut terbongkar dan hasil penyiasatan menunjukkan kepada pelanggaran keselamatan dalam pangkalan data pada masa yang sama ketika Jian berada di hospital. Jian mempunyai beberapa penjelasan untuk diberikan!]]></text>
+			<text style="font-size:15px;"><![CDATA[Pilihan paling selamat bagi Jian sudah pasti meminta Holly mengambil pemacu USB yang disulitkan. Walaupun ini tidak menghalang pasukan daripada meluangkan masa berjam-jam menggabungkan pengeditan Jian dengan yang berada dalam pangkalan data, ini sudah pasti dapat memastikan perlindungan data sensitif.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:220px;" fcStyle="top: -218px;">
+			<text style="padding-top:25px;"><![CDATA[Holly dapat mengemas kini fail induk pembekal dan dia hanya membuat beberapa kesilapan yang kemudian ditemui dan dibetulkan.]]></text>
+			<text><![CDATA[Walau bagaimanapun, orang lain yang makan di kafeteria hospital boleh mendengar setiap perkataan Jian, secara tidak sengaja mendedahkan maklumat pembekal.]]></text>
+			<text><![CDATA[Pilihan paling selamat bagi Jian sudah pasti meminta Holly mengambil pemacu USB yang disulitkan. Ini sudah pasti dapat memastikan perlindungan data sensitif.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:250px;" fcStyle="top: -223px;">
+			<text style="padding-top:25px;"><![CDATA[Holly mengambil pemacu kilat tetapi ketika Jian mengusahakan salinannya secara jauh, rakan sekerjanya mengedit yang asal. Apabila Holly memuat naik versi Jian, perubahan rakan sekerjanya ditulis ganti. Pasukan terpaksa meluangkan masa berjam-jam mengemas kini dan mengesahkan maklumat.]]></text>
+			<text><![CDATA[Jian ditegur kerana memuat turun fail induk tetapi sekurang-kurangnya maklumat tersebut selamat. Holly tidak sepatutnya memuat naik fail yang diubah tanpa menyemak dengan pengarang lain sama ada mereka telah membuat sebarang kemas kini yang mungkin terjejas.]]></text>
+			<text><![CDATA[Ini ialah pilihan tindakan paling selamat kerana ia memastikan perlindungan data sensitif.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s26">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Chris mencadangkan supaya mereka melawat kelab lelaki dewasa yang popular dan dekat. Beberapa orang ahli pasukan lain kelihatan tertarik untuk pergi.]]></text>
+		<text><![CDATA[Bagaimanakah Carlos seharusnya memberikan respons?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s26/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Melawat kelab dengan Chris dan pasukannya, tetapi berkeras untuk membayar supaya kebaikan Chris tidak berlebihan.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Minum segelas lagi untuk menjaga hati dan mengelakkan daripada memalukan Chris, tetapi pastikan dia balik tidak lama selepas itu.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Tolak dengan sopan dan balik ke rumah.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos melawat kelab dengan Chris dan pasukannya.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos melawat kelab dengan Chris dan pasukannya, tetapi balik sebaik sahaja tiba di sana.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;line-height:18px;"><![CDATA[Salah seorang ahli pasukan Chris terlibat dengan pergaduhan ketika di kelab. Pihak polis telah dihubungi dan kemudian, beberapa orang ahli kumpulan mesti hadir sebagai saksi di mahkamah.]]></text>
+			<text style="line-height:18px;"><![CDATA[Tetapi oleh sebab Carlos balik selepas makan malam dan tidak menyertai mereka di kelab, dia tidak terlibat dan tidak dipanggil ke mahkamah. Keputusannya untuk meninggalkan kelab telah menghalang dirinya daripada dimalukan dan dikaitkan dengan Johnson Controls.]]></text>
+		</correct>
+	</feedback>
+</contents>

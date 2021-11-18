@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;">
+		<text><![CDATA[Чтобы узнать больше, выберите каждый заголовок.]]></text>
+		<text><![CDATA[Щелкните «Далее», чтобы пересмотреть свое решение и попробовать еще раз.]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">			
+			<buttonText style=""><![CDATA[Злоупотребление алкоголем]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Несколько членов группы очень пьяны — один из них падает с лестницы и ломает руку. Чтобы заменить его, нужен новый сотрудник, который работает в разы медленнее, поэтому проект задерживается. ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="152">
+			<buttonText><![CDATA[Недовольство клиента]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Став свидетелем нескольких бесед, клиент осознает, что задержка проекта произошла из-за мероприятия в спортбаре, на котором Карлос угощал некоторых сотрудников выпивкой. В телефонном разговоре он жалуется менеджеру Карлоса. ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="188">
+			<buttonText><![CDATA[Публикации в Facebook]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Один из субподрядчиков публикует изображение происшествия в Facebook. В своей публикации он пишет: «Это последний раз, когда я выпивал с командой Johnson Controls...» ]]></text>					
+				<text><![CDATA[Карлос интересуется, может ли пострадавший субподрядчик предъявить компании иск.]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[Как вы думаете, какие из представленных сценариев могут создавать проблемы?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Можно ли воспринять описанные действия как взяточничество?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[Деловые люди]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Выберите <span class="fontBold">все</span> проблемные сценарии и нажмите «Отправить».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Правильных вариантов может быть несколько.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px; line-height:18px;">
+		<option><![CDATA[Вы обещаете клиенту подарок в виде определенной суммы наличных денег в обмен на принятие благоприятного для вас делового решения.]]></option>
+		<option><![CDATA[Субподрядчик, который хочет получить заказ от вашей компании, несколько раз приглашает вас поужинать в ресторане и посетить спортивные мероприятия.]]></option>
+		<option><![CDATA[Вы делаете взнос в пользу избирательной кампании государственного служащего, который является нашим потенциальным клиентом.]]></option>
+		<option><![CDATA[Ваш руководитель нанимает на работу дочь клиента в обмен на продление срока действия договора этого клиента с нашей компанией.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Верно.]]></text>
+			<text><![CDATA[В зависимости от обстоятельств можно посчитать, что во всех этих сценариях имеет место взяточничество. Одним из главных признаков взяточничества является намерение оказать влияние, однако важно помнить, что даже создание видимости взяточничества может представить проблему для вас и компании Johnson Controls. Прежде чем предпринимать какие-либо действия, подумайте!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Неверно.]]></text>
+			<text><![CDATA[В зависимости от обстоятельств можно посчитать, что во всех этих сценариях имеет место взяточничество. Одним из главных признаков взяточничества является намерение оказать влияние, однако важно помнить, что даже создание видимости взяточничества может представить проблему для вас и компании Johnson Controls. Прежде чем предпринимать какие-либо действия, подумайте!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

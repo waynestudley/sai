@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path=""><![CDATA[]]></text>
+	</transcript>
+	<contentText>		
+		<text><![CDATA[حدد منطقتك]]></text>		
+	
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/rtl/Location_Selection.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[متابعة]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="R0"><![CDATA[حدد منطقة]]></option>
+			<option id="R1"><![CDATA[منطقة آسيا والمحيط الهادئ]]></option>
+			<option id="R2"><![CDATA[أمريكا اللاتينية]]></option>
+			<option id="R3"><![CDATA[الشرق الأوسط]]></option>
+			<option id="R4"><![CDATA[أوروبا/آسيا]]></option>
+			<option id="R5"><![CDATA[أمريكا الشمالية]]></option>
+	</dropDownMenu>
+</contents>

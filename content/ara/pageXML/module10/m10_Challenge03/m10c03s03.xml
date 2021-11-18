@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[يشعر كارلوس بالضغط لصيانة الأجهزة أو المخاطر بخسارة مجموعة من العقود في مبنى ضخم للغاية. فما الذي ينبغي أن يفعله كارلوس؟]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[قبول الأموال وصيانة الأجهزة بحيث لا تخسر شركة Johnson Controls العقود الضخمة الأخرى في المبنى، إلا أنه يخبر رافاييل بأن هذا الأمر لن يتكرر.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[عدم قبول الأموال، ولكن صيانة الأجهزة بحيث لا تخسر شركة Johnson Controls العقود الضخمة الأخرى في المبنى.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[يستأذن ويوقف المحادثة ويتصل بمديره.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[يقبل كارلوس الأموال من رافاييل ويقوم بصيانة الأجهزة التي تم تركيبها بشكل غير صحيح. وتحتفظ شركة Johnson Controls بالعقود في المبنى.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[يكمل كارلوس العامل، إلا أنه لا يقبل الأموال من رافاييل.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[يتصل كارلوس بمديره للحصول على التوجيهات.]]></text>
+			<text style=""><![CDATA[يطلب مدير كارلوس منه المغادرة هو وفريقه. عندما يعود كارلوس إلى المكتب، يتصلان بقسم الامتثال معًا. ]]></text>
+			<text style=""><![CDATA[ويتم إجراء تحقيق، ويتم اكتشاف أن رافاييل قد قام بتقديم هذا العرض عدة مرات في الماضي، وقد قبل العديد من فنيي شركة Johnson Controls الرشوة. تتخذ الشركة إجراءات تأديبية ضد هؤلاء الفنيين. ]]></text>
+		</correct>
+	</feedback>
+</contents>

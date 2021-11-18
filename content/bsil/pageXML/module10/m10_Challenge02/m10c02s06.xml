@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Clique em Próximo para continuar.]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Emma está se esforçando para não deixar seu trabalho externo distraí-la em suas tarefas na Johnson Controls. Mas a notícia se espalhou no escritório e agora há três colegas de Emma interessados em seu imóvel mais recente!  Durante uma ligação com um cliente, Emma recebe uma mensagem instantânea de Sandy, do Departamento Contábil.]]></text>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[<i>"Oi, Emma! Eu ADORARIA visitar o novo imóvel na Newbury Road. O link que você enviou é fantástico. É exatamente o que procuramos. Você acha que consegue sair um pouco mais cedo hoje para não pegar trânsito e mostrá-lo para mim?"</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:13px;line-height:20px;">
+		<text><![CDATA[Escolha uma opção e selecione OK.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma concorda em sair mais cedo do trabalho para mostrar o imóvel à Sandy.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma diz a Sandy que ela tem mais algumas ligações para atender e papelada para terminar e não pode sair mais cedo. Mas ela diz que tem mais fotos e vídeos em seu laptop e que Sandy pode parar na mesa dela a qualquer hora para dar uma olhada e conversar mais.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma diz a Sandy que ela não pode mostrar o imóvel para ela essa noite, mas enviará mais fotos depois da ligação com o cliente. Emma pede para Sandy ligar para ela à noite para discutirem mais detalhes.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height: 70px;" fcStyle="top: -10px;">
+			<text style="padding-top:12px;"><![CDATA[Essa é a opção mais arriscada. Vamos dar uma olhada no que acontece quando Emma toma essa decisão.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 210px;" fcStyle="top: -200px;">
+			<text style="padding-top:25px;"><![CDATA[Embora Emma não tenha saído mais cedo, ela ainda usou a propriedade e o tempo de trabalho na Johnson Controls para realizar negócios externos que ela não deveria fazer, além de distrair outros colegas interessados nos imóveis.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 210px;" fcStyle="top: -200px;">
+			<text style="padding-top:25px;"><![CDATA[Emma está tomando cuidado para manter os dois empregos separados. No entanto, ela não deve usar o laptop, mensagens instantâneas ou e-mail do trabalho para realizar negócios externos e ela também está distraindo os outros colegas interessados nos imóveis.]]></text>
+		</correct>
+	</feedback>
+</contents>

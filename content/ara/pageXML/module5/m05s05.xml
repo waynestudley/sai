@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0"><![CDATA[كيف سترد في موقف كهذا؟ حدد خيارًا واحدًا ثم أرسله.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[إذا أقدمت على إرسال الرسم الفني وتعليمات الإدماج حسب ما طُلب منك، فهل يعدّ هذا من قبيل التصدير؟]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module5/m05s05/contentBackground.jpg" minwidth="769"><![CDATA[الرسومات الفنية]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;left: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[حدد خيارًا واحدًا ثم أرسله.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[كلا، ليس إذا كان الشخص عميلاً لشركة Johnson Controls]]></option>	
+		<option><![CDATA[نعم، فإرسال رسومات فنية وتعليمات إدماج خاضعة لضوابط التصدير إلى عميل في فرنسا يعدّ عملية تصدير]]></option>	
+		<option><![CDATA[نعم، ولكن فقط إذا كان الشخص في بلد خاضع لقيود، مثل إيران]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[هذا صحيح.]]></text>
+			<text><![CDATA[إن إرسال معلومات فنية خاضعة لضوابط التصدير، بما في ذلك رسومات المنتج أو تعليماته، إلى شخص في بلد آخر هو عملية تصدير تتطلب تفويضًا مسبقًا.]]></text>
+			<text><![CDATA[مع وضع ذلك في الحسبان، عليك ألا ترسل المعلومات إلى أن تعلم المزيد عن هوية العميل وموقعه حتى يتسنى لك تحديد التفويضات المطلوبة للسماح بالتصدير.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[عذرًا، هذا ليس صحيحًا.]]></text>
+			<text><![CDATA[إن إرسال معلومات فنية خاضعة لضوابط التصدير، بما في ذلك رسومات المنتج أو تعليماته، إلى شخص في بلد آخر هو عملية تصدير تتطلب تفويضًا مسبقًا.]]></text>
+			<text><![CDATA[مع وضع ذلك في الحسبان، عليك ألا ترسل المعلومات إلى أن تعلم المزيد عن هوية العميل وموقعه حتى يتسنى لك تحديد التفويضات المطلوبة للسماح بالتصدير.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

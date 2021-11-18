@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0"><![CDATA[Юридические соглашения (такие как соглашения о неразглашении) — это один из способов, позволяющих гарантировать, что другие лица будут защищать предоставленную им информацию. Чтобы узнать больше, нажмите каждую кнопку «Показать».]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Соглашения о неразглашении (NDA) — это эффективный способ, позволяющий гарантировать, что конфиденциальная информация, передаваемая третьим лицам, останется конфиденциальной.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg" minwidth="769"><![CDATA[Документы]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Чтобы узнать больше, нажмите каждую кнопку «Показать».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[ПОКАЗАТЬ]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style=""><![CDATA[Соглашение о неразглашении]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Когда использовать]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Используйте NDA, если вы передаете конфиденциальную информацию лицам, не работающим в нашей компании. Никогда не раскрывайте конфиденциальную информацию до подписания NDA. Юридический отдел компании Johnson Controls может предоставить шаблоны для различных ситуаций.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style=""><![CDATA[Человек рассматривает соглашение о неразглашении]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Использование других NDA]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Иногда сторонние компании могут предложить использовать их собственные NDA. Не принимайте их. Мы можем принять их только после юридического анализа и утверждения, поскольку такие сторонние NDA, как правило, призваны защищать интересы третьих сторон, а не наши.]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style=""><![CDATA[Руководитель объясняет использование NDA сотруднику]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Когда мы соглашаемся на NDA]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[Иногда мы можем подписывать NDA с целью защиты информации другой компании. В таком случае крайне важно обеспечить принятие необходимых мер для выполнения наших обязанностей, иначе против нас могут подать судебный иск за нарушение соглашения. Следите за тем, чтобы все лица, работающие с информацией, знали о наших обязательствах по ее защите.]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

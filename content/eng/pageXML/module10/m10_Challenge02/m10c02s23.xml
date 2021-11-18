@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c02s23">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3" ><![CDATA[Click on Next to find out what happened.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText >
+		<text><![CDATA[Emma reports the situation to her manager, Roger, but Roger does nothing. What should Emma do here?]]></text>
+	</contentText>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText >
+		<text><![CDATA[Choose one option then select OK.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+	</instructionText>
+	<optionContent >
+		<option answer="1" feedbackId="2" ><![CDATA[Nothing. Emma reported it, and it is Roger’s responsibility to follow up now.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Speak to someone in the Compliance or Law department, or contact the Integrity Helpline, about her concerns.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1"  style="" fcStyle="" >
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2"  style="" fcStyle="" >
+			<text style="padding-top:18px;"><![CDATA[Emma did the right thing here by speaking to her manager, Roger. But Emma is not convinced that Roger will do anything about it, so she should escalate her concerns. She could contact a member of the Compliance or Law departments, her HR representative or log her concern with the Integrity Helpline.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3"  style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[Emma did the right thing here by speaking to her manager, Roger. But Emma believes that Roger is not going to take any further action to address her concern. So, Emma also did the right thing by going a step further and speaking to additional resources at the company, who can review and appropriately address the matter.]]></text>
+		</correct>
+	</feedback>
+</contents>

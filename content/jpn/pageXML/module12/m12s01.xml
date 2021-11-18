@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[よくできました。コースを無事に修了しました。 証明書を印刷できます。 ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[パソコンを使用している男性]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative" padding="0" fontSize="13px" lineHeight="20px"><![CDATA[「<span style="color:#00539E;font-weight:bold;font-size:17px;" >倫理規範の適用」を無事修了しました。 誠実さをもってビジネスを行う</span> コース]]></text>
+		<text width="450px" height="120px" top="10px" left="0px" position="relative" padding="0" fontSize="13px" lineHeight="20px"><![CDATA[「証明書を印刷する」をクリックして、「ホーム」をクリックしメインメニューに戻るか、「閉じる」をクリックしてコースから離れます。]]></text>
+	</panelText>
+	<buttonText>
+		<text top="155px" left="20px"><![CDATA[ギフト券の印刷]]></text>
+	</buttonText>	
+	<instructionText>
+		<text><![CDATA[「証明書を印刷する」をクリックします。]]></text>
+	</instructionText>
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s07">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+		
+	</transcript>
+	<contentBg style="width: 605px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[อินกริดสงสัยว่าไวน์ที่ฮิลด์สั่งแพงมาก เธอควรทำอย่างไร ]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[ปล่อยให้อาหารเย็นดำเนินต่อไปและเพียงแค่หวังว่าจะไม่มีใครสังเกตเห็นว่าราคาไวน์ในรายการค่าใช้จ่ายของเธอแพงมาก]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[ปล่อยให้อาหารเย็นดำเนินต่อไปเพราะเธอไม่สามารถปฏิเสธที่จะจ่ายค่าไวน์ได้โดยไม่ทำให้สถานการณ์ที่อึดอัด อย่างไรก็ตาม เธอตั้งใจที่จะขอใบเสร็จรับเงินแยกต่างหากสำหรับไวน์และจ่ายเอง]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[พูดกับฮิลด์เป็นการส่วนตัวระหว่างที่รอพนักงานเตรียมไวน์และบอกเธอว่าบริษัทของเธอไม่อนุมัติค่าไวน์ ฮิลด์มีตัวเลือกคือต้องจ่ายด้วยตัวเองหรืออาจสั่งขวดที่มีราคาไม่แพงมาก]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[อินกริดจ่ายค่าอาหารเย็นและส่งรายงานค่าใช้จ่าย]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[อินกริดจ่ายค่าอาหารเย็นและส่งรายงานค่าใช้จ่ายโดยไม่รวมค่าไวน์]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[ฮิลด์มีท่าทางประหลาดใจเมื่ออินกริดบอกว่าเธอไม่สามารถจ่ายค่าไวน์ได้ แต่ในตอนท้ายของคืนเธอจะให้คิดราคาแยกต่างหากและเป็นคนจ่ายเอง]]></text>
+		</correct>
+	</feedback>
+</contents>

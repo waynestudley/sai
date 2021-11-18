@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:20px;"><![CDATA[トムはエマに、Johnson Controlsの顧客の住所を提供するように求めています。 トムはエマに、住所を提供してくれたら利益を分けることを提案しています。 エマはどうするべきでしょうか？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[トムにお金を求めていないことをはっきり言いますが、リストを彼に渡します。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[トムに住所リストを渡すことは拒否しますが、彼女が関わったこのケースを誰にも報告しません。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[トムに住所リストを渡すことを拒否し、彼女の上司に状況を報告します。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[エマがトムに住所を渡すことに同意すると、彼女が利益供与を受け入れなかったとしても、彼らをリスクにさらします。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[エマがトムに住所リストを渡すことを拒否したのは正しいですが、彼女は彼の依頼に問題があることを認識する必要があります。]]></text>
+			<text><![CDATA[エマは彼女の上司や法務部のメンバーに話す必要があります。トムがこの事を引き続き狙っている場合、会社にとってプライバシーリスクを生み出す可能性があります。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[エマがトムに住所を渡すことを拒否し、上司に彼の依頼を報告したことは正しい行いでした。 彼女がトムに情報を渡してしまった場合、彼女は顧客のプライバシーを侵害したことになります。 そして、率直に言うことによって、彼女は会社でそのような出来事が起こるのを防ぐ手助けをしました。]]></text>
+		</correct>
+	</feedback>
+</contents>

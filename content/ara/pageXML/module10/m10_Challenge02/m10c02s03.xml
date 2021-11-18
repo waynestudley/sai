@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[تعمل إيما في وظيفة ثانوية كوسيط لشركة شقيق زوجها الجديدة، إلا أنها تتعرض لمعاناة في عملها في شركة Johnson Controls.]]></text>
+		<text><![CDATA[أي من السيناريوهات التالية يمكن أن يكون أفضل مسار للعمل تتبعه إيما؟]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[تستمر إيما في شغل كلا الوظيفتين. وعندما تصبح منشغلة للغاية في عملها كوسيط، يمكن أن تطلب من أحد الزملاء تغطيتها وتحصل على إجازات مرضية من شركة Johnson Controls.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[تستمر إيما في شغل كلا الوظيفتين وتبذل قصارى جهدها للوفاء بالمسؤوليات الملقاة على عاتقها. وعندما تكون الأمور هادئة في شركة Johnson Controls، يمكن أن تقوم بإجراء المكالمات المتعلقة بعملها كوسيطة كما يمكنها إرسال رسائل البريد الإلكتروني من الهاتف الذكي الخاص بها.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[تتحدث إيما إلى مديرها حول عملها في شركة شقيق زوجها، ويناقشان الطرق التي يمكنهما من خلالها الفصل بين هذا العمل وعملها في شركة Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[يمكن أن يمثل قرار إيما بالعمل في شركة العقارات الخاصة بشقيق زوجها تعارضًا محتملاً في المصالح، خصوصًا عندما بدأت تلك الوظيفة الثانوية في الاحتياج إلى المزيد من الوقت والاهتمام منها.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[ومازالت إيما ترى أنها يمكنها الوفاء بمسؤولياتها في كلا الوظيفتين، بحيث لا تؤثر وظيفتها الجديدة على مسؤولياتها في شركة Johnson Controls. لكن، هل هي واقعية في هذا الشأن؟ وقد قررت التحدث إلى مديرها لتجنب حدوث المشكلات المحتملة.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -182px;">
+			<text style="padding-top:25px;"><![CDATA[تتحدث إيما مع مديرها حول وظيفتها الثانوية.]]></text>
+			<text><![CDATA[ويناقش مديرها معها ما هو متوقع منها في العمل، وكيف لا يكون شغل الوظائف الخارجية محظورًا، ولكن:<ul> <li>يجب ألا تتداخل مع عملها لصالح شركة Johnson Controls. </li> <li>يجب ألا تستخدم أي موارد مملوكة للشركة لتنفيذ أعمالها الخارجية، بما في ذلك وقت العمل الخاص بشركة Johnson Controls.</li> </ul>]]></text>
+			<text><![CDATA[وقد اتفقتا على أنها يمكن أن تقوم بتنفيذ مسؤوليات الوظيفة الثانوية أثناء ساعات العمل في Johnson Controls، وأنه إذا حدثت أي مشكلات في العمل، فإنهما سوف تراجعان الموضوع.]]></text>
+		</correct>
+	</feedback>
+</contents>

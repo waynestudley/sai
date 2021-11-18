@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[Ben fatto, hai completato con successo il corso. Ora puoi stampare il tuo diploma. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[Uomo che usa un PC]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative" padding="0" lineHeight="20px"><![CDATA[Hai completato con successo il corso <span style="color:#00539E;font-weight:bold;font-size:17px;" >Applicare il Codice etico: Corso </span>Lavorare con integrità.]]></text>
+		<text width="450px" height="120px" top="10px" left="0px" position="relative" padding="0" lineHeight="20px"><![CDATA[Fai clic su Stampa certificato e quindi fai clic su Home per tornare al menu principale o fai clic sul pulsante Chiudi per uscire dal corso.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="170px" left="20px"><![CDATA[Stampa l'attestato]]></text>
+	</buttonText>	
+	<instructionText style="margin-top: 22px">
+		<text><![CDATA[Fai clic su Stampa certificato.]]></text>
+	</instructionText>
+</contents>

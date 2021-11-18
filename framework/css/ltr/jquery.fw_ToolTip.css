@@ -1,0 +1,25 @@
+﻿/*@Created By :  Suyog Shaha*/
+
+.fw_ToolTipText {
+    background-color: #ffffff;
+    color: #0057a6;
+    display: table-cell;
+    font-size: 12px;
+    font-weight: bold;
+    height: 20px;
+    max-width: 400px;
+    padding: 0 9px;
+    text-align: center;
+    vertical-align: middle;
+}
+.fw_ToolTip{ display:none;position:absolute;z-index:222222222}
+
+.toolTip_top{  padding-bottom:10px}
+.toolTip_bottom{ padding-top:10px}
+.toolTip_left{ padding-left:10px}
+.toolTip_right{ padding-right:10px}
+
+/*.toolTip_top{ background:url("../../../framework/images/ltr/fw_ToolTip/down_arrow.png") no-repeat scroll center bottom transparent;  padding-bottom:10px}
+.toolTip_bottom{ background:url("../../../framework/images/ltr/fw_ToolTip/up_arrow.png") no-repeat scroll center top transparent;  padding-top:10px}
+.toolTip_left{ background:url("../../../framework/images/ltr/fw_ToolTip/left_arrow.png") no-repeat scroll left center transparent;  padding-left:10px}
+.toolTip_right{ background:url("../../../framework/images/ltr/fw_ToolTip/right_arrow.png") no-repeat scroll right center transparent;  padding-right:10px}*/

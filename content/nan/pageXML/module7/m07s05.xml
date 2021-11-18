@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s05">
+	<transcript>
+		<text path="audio/module7/m07s05" id="0"><![CDATA[讓我們來看發生在我們一家子公司的案例。 按一下箭頭，閱讀完整的個案研究內容。]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[喪失智慧財產可能會損失慘重，但公司未必能在事情發生時立刻察覺。]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module7/m07s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[按一下箭號以瞭解詳情。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="top:135px">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module7/m07s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[駭客使用筆記型電腦的特寫]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[現今有很多公司都成為數位竊賊和罪犯的攻擊目標。 攻擊是透過電腦入侵，有時這些公司甚至不知道他們的商業機密已經遭竊。]]></text>
+				<text><![CDATA[網路罪犯侵入並一點一滴地竊取資訊，使得公司對於機密失竊的過程毫無所悉！]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module7/m07s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[數位資料]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[雖然沒有官方的全球或國內商業機密竊盜總價值的統計數據，Price Waterhouse Coopers (PwC) 和 Center for Responsible Enterprise and Trade 曾在 2014 年做過研究，單單在美國的商業機密竊盜價值估計就約占美國 GDP 的 1% 到 3%。 這個數字相當於每年 2 千億至 5 千 5 百億美元！]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module7/m07s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[在筆記型電腦前工作的員工]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[如果考量美國以外的其他先進經濟體，我們可以合理推斷全球商業機密竊盜的總價值可能達到數兆。]]></text>
+				<text><![CDATA[Johnson Controls 是全球性的大型公司，可以預期一定有人企圖竊取我們的智慧財產。 因此所有人都必須提高警覺，保護並妥善使用我們擁有的智慧財產。]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

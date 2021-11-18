@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[È nostro compito impedire il verificarsi di atti di concussione e corruzione qui. Fai clic su ciascun titolo per confermare ciò che puoi fare.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[In Johnson Controls ci impegniamo a osservare tutte le leggi in materia di concussione e corruzione. Di seguito ciò che questo significa in pratica:]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[Lista di spunta]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Seleziona ogni intestazione per saperne di più.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[Non offrire tangenti]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Non offrire mai a un contatto commerciale qualsiasi bene di valore con l’intento di influenzarne il giudizio.]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[mantenere registrazioni accurate ]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[Non provare a nascondere o a presentare falsamente le spese relative ai divertimenti o ai regali, registra tutte le transazioni onestamente e accuratamente. Per maggiori informazioni, visualizza <a href="content/ita/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">la nostra politica in materia di viaggi, regali e divertimenti di terze parti</a>.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[Ritieni responsabili i partner commerciali]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Rendi chiari i nostri standard anti-corruzione a qualsiasi terza parte con cui lavoriamo. Monitorane le attività e segnala ogni sospetto di corruzione. Non lavorare con partner commerciali coinvolti in pratiche di corruzione.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[Conosci i nostri soggetti terzi]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Se sei responsabile della gestione delle terze parti, assicurati che siano pienamente approvate secondo i requisiti del Programma per le terze parti di Johnson Controls.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

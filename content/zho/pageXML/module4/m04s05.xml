@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s05">
+	<transcript>
+		<text path="audio/module4/m04s05" id="0"><![CDATA[有些类型的个人数据显而易见，但另外一些可能不易察觉。 ]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[个人信息的形式多种多样。 单击各类型，查看可视为个人或隐私的信息的示例。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s05/contentBackground.jpg" minwidth="769"><![CDATA[女士和档案柜]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;"></contentBg>
+	 <pageTitle style="width: 924px;"></pageTitle>
+	
+	<instructionText style="width: 924px;">	
+		<text><![CDATA[单击每种类型的信息，查看示例。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:174px">
+	
+		<revealCallOut width="230px" height="178px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s05/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 44px;"><![CDATA[联系信息]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 50px;top:-15px;width: 958px;">
+				<text><![CDATA[姓名、电话号码和电子邮件地址]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s05/btn2.png" minwidth="769"><![CDATA[宗教信仰]]></img>
+			<buttonText style="height: 44px;"><![CDATA[敏感个人信息]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 60px;top:-15px;width: 958px;">
+				<text><![CDATA[医疗状况、性取向、政党成员资格、宗教信仰或有关私人信仰的类似信息]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s05/btn3.png" minwidth="769"><![CDATA[简历]]></img>
+			<buttonText style="height: 44px;"><![CDATA[雇用信息]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 50px;top:-15px;width: 958px;">
+				<text><![CDATA[工作经历和薪水]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s05/btn4.png" minwidth="769"><![CDATA[信用卡]]></img>
+			<buttonText style="height: 44px;"><![CDATA[财务信息]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 50px;top:-15px;width: 958px;">
+				<text><![CDATA[信用卡或银行账号]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

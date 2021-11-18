@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m04s06">
+	<transcript>
+		<text path="audio/module4/m04s06" id="0"><![CDATA[Cuando se trata de proteger datos personales, recuerde estas tres pautas clave: limitar, proteger, eliminar.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[Nuestros proveedores, clientes y empleados valoran su privacidad y esperan que protejamos sus datos. Cuando procesamos datos personales, como al recopilar, copiar, modificar, almacenar, eliminar o realizar cualquier otra acción con ellos, debemos defender tres principios clave: limitar, proteger, eliminar. Para obtener más información, revise cada uno de los paneles que se muestran abajo.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Haga clic en cada botón de mostrar para leer más información. Es posible que deba desplazarse para leer la respuesta completa.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[MOSTRAR]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img1.png" style=""><![CDATA[Un empleado hablando por teléfono frente a una computadora portátil trabajando con datos personales]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Limitar]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Solo procese datos personales cuando cuente con el consentimiento de la persona en cuestión y cuando los datos sean necesarios para un fin comercial legítimo. <ul><li>Nunca recopile datos personales sin un propósito comercial claro y legítimo.</li><li>Asegúrese de que los datos personales que recopile sean adecuados, relevantes y no excesivos para el fin comercial pertinente. Nunca recopile más datos personales de los que necesite.</li><li>Use los datos personales solo con el fin indicado para el cual se recopilaron.</li></ul>]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img2.png" style=""><![CDATA[Ícono de cifrado]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Proteger]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Asegúrese de que los datos personales estén protegidos contra el uso no autorizado, la pérdida accidental y el daño o la destrucción.<ul><li>Solo los empleados y contratistas autorizados con una necesidad laboral válida pueden acceder a los datos personales.</li><li>Conserve solo copias digitales de los datos siempre que sea posible y proteja los archivos contra el uso no autorizado cifrándolos o protegiéndolos con una contraseña segura. Las copias impresas podrían extraviarse, o se podría acceder a ellas con mayor facilidad, por lo que deben mantenerse al mínimo o evitarse cuando sea posible.</li><li>Nunca guarde datos personales en archivos o directorios compartidos a los que puedan acceder personas sin necesidad o autoridad para verlos.</li><li>Evite conservar registros electrónicos en múltiples ubicaciones sin un mantenimiento constante.</li></ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module4/m04s06/img3.png" style=""><![CDATA[Ícono de papelera en un teclado]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Eliminar]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[Conserve los datos personales solo durante el tiempo que exija la ley, o según sea necesario para el motivo comercial original para el que fueron recopilados.<ul><li>Revise los datos periódicamente para garantizar que estén actualizados, que sean precisos y que todavía sean relevantes para los fines comerciales para los cuales fueron recopilados originalmente.</li><li>Deseche los datos en forma segura una vez que ya no los necesite, ya sea triturándolos o colocándolos en cestos de basura confidenciales, si estos están disponibles en su ubicación.</li></ul>]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

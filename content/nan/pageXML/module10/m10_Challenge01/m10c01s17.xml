@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[愛德華多提議去附近一家熱門的男士俱樂部。 工作團隊的其他人似乎都想去。]]></text>
+		<text><![CDATA[小江該如何回應？]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[餐廳]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[和愛德華多及工作團隊一起去俱樂部，但堅持自己出錢，這樣一來，愛德華多的招待金額就不會過高。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[基於禮貌一起去喝一杯，以免讓愛德華多覺得沒有面子，但小江只能待一會就離開。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[婉拒參加，返回自家。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[小江考量自己接受的招待金額高低是對的，但是還有另一件事要考慮。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[雖然小江打算跟愛德華多和工作團隊一起喝一杯就走，但這對小江和 Johnson Controls 仍然會造成無法預期的問題。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[這是最安全的選擇。]]></text>
+		</correct>
+	</feedback>
+</contents>

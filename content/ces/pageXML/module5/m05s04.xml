@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[Mark přemýšlí nad tím, jak má na e-mail zákazníka reagovat. Věděli byste, jak v těchto situacích postupovat? Vyberte jednu možnost a poté odpověď odešlete.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Pokud zákazníkovi odpovíte a požádáte jej o podrobnější informace – například název firmy a jeho pracovní pozici – bude váš e-mail považován za vývoz. Víte proč?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[Zaměstnanec]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Vyberte jednu možnost a odešlete ji.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Ano, každý e-mail potenciálně představuje vývoz, protože servery se mohou nacházet v různých zemích, a vaše e-mailové zprávy tedy mohou překročit mnoho mezinárodních hranic.]]></option>	
+		<option><![CDATA[Ano, každý e-mail, který požaduje informace od někoho v zahraničí, vždy představuje vývoz, protože přijímáte osobní údaje.]]></option>	
+		<option><![CDATA[Ne, když zákazníkovi napíšete, jen abyste si vyžádali další informace, nejedná se o vývoz.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Správně.]]></text>
+			<text><![CDATA[Z důvodu dodržování regulace mezinárodního obchodu je nutné, abyste zákazníkovi napsali a zjistili podrobnější informace.]]></text>
+			<text><![CDATA[Odeslání tohoto e-mailu však samo o sobě nepředstavuje vývoz, pokud současně nesdílíte či nepřikládáte technické výkresy, technologie nebo jiné informace o regulovaném produktu.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Je nám líto, to není správně.]]></text>
+			<text><![CDATA[Z důvodu dodržování regulace mezinárodního obchodu je nutné, abyste zákazníkovi napsali a zjistili podrobnější informace.]]></text>
+			<text><![CDATA[Odeslání tohoto e-mailu však samo o sobě nepředstavuje vývoz, pokud současně nesdílíte či nepřikládáte technické výkresy, technologie nebo jiné informace o regulovaném produktu.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

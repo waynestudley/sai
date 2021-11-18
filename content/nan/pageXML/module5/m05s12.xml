@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[現在輪到您展現已確實知道如何應用貿易合規規定。 請將左側的每個情境連到右側的正確解決方法，然後按一下「提交」。]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[展現您知道在各個情境中的具體做法。 ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[提交]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[從第一欄中選取一個項目，然後將箭頭拖曳到第二欄內的相應解決方法。 完成後請按一下提交。]]></text>
+		<text><![CDATA[按一下問號，瞭解詳細資訊。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[情境]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img01.png"><![CDATA[北京]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[您正要赴北京談生意。 有同事託您帶一份產品樣本給當地的聯絡人。]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:553px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img02.png"><![CDATA[敘利亞人特寫]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[您是英國公民，正要拜訪歐盟區的客戶。 您和一位敘利亞籍的經銷商會面，他要求您給他產品樣本。]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:553px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img03.png"><![CDATA[沙烏地阿拉伯的客戶代表]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[有一位沙烏地阿拉伯的客戶代表來電，詢問我們某項產品的測試計畫書與設計技術的相關問題。]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:553px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img04.png"><![CDATA[商業團隊]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[您的團隊使用 OneDrive 與全球客戶協作。 專案經理要求您上傳技術資訊，因為他不能夠將書面文件寄送到客戶的國家。]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[解決方法]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 643px;top: 8px;height: 60px;">
+				<text style=""><![CDATA[繼續進行之前，先查看是否允許這件事，並確認是否要先取得授權]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img05.png"><![CDATA[員工在打電話 ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 79px;height: 60px;">
+				<text><![CDATA[禮貌地拒絕。 ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img06.png"><![CDATA[面露嚴肅表情的人物特寫]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 643px;top: 150px;height: 60px;">
+				<text><![CDATA[要求延後談論這件事。]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img07.png"><![CDATA[員工在打電話]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 221px;height: 60px;">
+				<text><![CDATA[拒絕這麼做。]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img08.png"><![CDATA[員工在打電話]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[這就對了，所有項目皆配對正確。]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[錯誤。 現在，再次按一下每項解決方法以瞭解更多詳情。]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top:188px;">
+				<text style=""><![CDATA[如果獲得許可，在此情境中最好先將產品樣本寄送出去。 如果貿易人員允許您攜帶產品樣本，應在出入該國時如實向海關通報您所攜帶的物品。]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top:188px;">
+				<text style=""><![CDATA[您不得將產品樣本提供給受制裁國家的人士，例如敘利亞，因次在此情境中您必須予以禮貌拒絕。]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:188px;">
+				<text style=""><![CDATA[透露此資訊前您必須先了解更多細節。 再次向貿易合規專家確認是否能將此資訊透露給該人士。]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top:188px;">
+				<text style=""><![CDATA[您應該拒絕要求。 如果您不得出口某文件的實體版本，則該文件的電子版本亦適用於同樣的限制。]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

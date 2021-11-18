@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m09s05">
+	<transcript>
+		<text path="audio/module9/m09s05" id="0"><![CDATA[Vous ne devez pas utiliser les informations stratégiques obtenues de manière inappropriée. Connaissez-vous la différence ? Cliquez sur chaque titre pour contrôler vos connaissances.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:574px;font-size: 15px;margin-bottom:0px"><![CDATA[Comment pouvez-vous savoir si certaines informations peuvent être utilisées sans risque ? Avant d'accepter, d'utiliser ou de communiquer des informations sur des concurrents ou le marché, demandez-vous :]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s05/contentBackground.jpg" minwidth="769"><![CDATA[Salarié pensif]]></img>
+	</contentBackground>	
+	 <contentBg style="top:5px;"></contentBg>
+	<pageTitle style="width: 574px;"></pageTitle>
+	<instructionText style="width: 574px;">
+		<text><![CDATA[Sélectionnez chaque titre. Pour passer au suivant, cliquez sur la X pour fermer le texte.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:153px;">
+		<revealCallOut width="300px" height="188px" top="15px" left="370px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s05/btn1.png" minwidth="769"><![CDATA[Salariés regardant des documents d’entreprise sur une tablette]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Ces informations sont-elles accessibles au public ?]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 358px;top: -232px; display: block; left: 370px; width: 610px;line-height:20px;">			
+				<text style="margin-bottom: 7px;"><![CDATA[Nous sommes en droit d’utiliser les informations sur nos concurrents accessibles au public, et elles sont disponibles en grande quantité. ]]></text>				
+				<text style="margin-bottom: 7px;"><![CDATA[Vous pouvez examiner :<ul><li>Les documents déposés auprès d'organismes gouvernementaux</li><li>Les discours publics de cadres d'entreprise</li><li>Les rapports annuels</li><li>Les rapports d'analyse</li><li>Les articles de presse, communiqués de presse et articles de revues spécialisées</li><li>Les expositions dans des salons professionnels</li><li>Les offres d’emploi</li><li>Les demandes publiées de brevets et de marques de commerce</li></ul>]]></text>						
+				<text style="margin-bottom: 0px;"><![CDATA[Si vous utilisez ces sources, veillez à les consigner pour prouver que les informations ont été obtenues légalement.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="188px" top="15px" left="679px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s05/btn2.png" minwidth="769"><![CDATA[Personnage louche]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Ces informations ont-elles été obtenues de façon inappropriée ?]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 265px;top: -232px; display: block; left: 370px; width: 610px;">
+				<text style="margin-bottom: 0px;"><![CDATA[Si c’est le cas, nous ne pouvons pas les utiliser. Cela comprend les informations :<ul><li>considérées comme confidentielles par l’entreprise à laquelle elles appartiennent</li><li>appartenant à un ancien employeur</li><li>obtenues de façon frauduleuse, en se faisant par exemple passer pour quelqu’un d’autre</li><li>obtenues illégalement, par exemple en pénétrant illégalement ou en accédant aux réseaux informatiques d’une autre entreprise</li><li>obtenues grâce à des pots-de-vin</li></ul>]]></text>					
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

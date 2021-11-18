@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m08s04">
+	<transcript>
+		<text path="audio/module8/m08s04" id="0"><![CDATA[Дебби удивлена фотографией, которую выставила Ким. Вы бы сделали то, что сделала Ким? Выберите один вариант и отправьте ответ.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Что может быть плохого в том, чтобы сфотографировать себя на работе и выставить эту фотографию в социальных сетях?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module8/m08s04/contentBackground.jpg" minwidth="769"><![CDATA[Женщина у себя дома]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;">
+		<text><![CDATA[Выберите один вариант и щелкните «Отправить».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Ничего, если она выставляется на сайте, где публикация удаляется после просмотра.]]></option>	
+		<option><![CDATA[Это зависит от того, кому вы ее отправляете.]]></option>	
+		<option><![CDATA[Это может быть проблемой, поскольку на фоне может находиться конфиденциальная информация.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Верно.]]></text>
+			<text><![CDATA[Нам необходимо защищать секретную клиентскую информацию, например информацию о счетах и платежах. Наша компания юридически обязана защищать клиентские данные и обрабатывать их в соответствии с законом. Если мы не будем делать этого, нам могут грозить крупные штрафы.  ]]></text>
+			<text><![CDATA[Даже если секретная информация была обнародована ненамеренно, это может нанести большой ущерб как отдельным лицам, так и компании в целом.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[К сожалению, вы ошиблись.]]></text>
+			<text><![CDATA[Нам необходимо защищать секретную клиентскую информацию, например информацию о счетах и платежах. Наша компания юридически обязана защищать клиентские данные и обрабатывать их в соответствии с законом. Если мы не будем делать этого, нам могут грозить крупные штрафы.]]></text>
+			<text><![CDATA[Даже если секретная информация была обнародована ненамеренно, это может нанести большой ущерб как отдельным лицам, так и компании в целом.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

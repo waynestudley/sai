@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[Aký ste dobrý pri rozpoznávaní rizikových situácií? Prečítajte si tento scenár a rozhodnite sa, či ide o konflikt záujmov.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[Kancelária]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Dokážete rozpoznať konflikt záujmov?  Rozhodnite sa, či nasledujúce situácie predstavujú potenciálny konflikt alebo nie a či sa majú oznámiť:]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Vyberte možnosť Áno alebo Nie pre každú možnosť a potom kliknite na položku Odoslať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+		<text><![CDATA[Zistite viac po kliknutí na otázniky.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img01.png"><![CDATA[Žena v zástere, ako keby pracovala v pekárni]]></img>
+			<text style="width: 450px;"><![CDATA[Jennifer, zamestnankyňa spoločnosti Johnson Controls, plánuje po víkendoch pracovať v novej pekárni svojej sestry – ale tento týždeň zavolala, že je chorá, aby pomohla spustiť veľké otvorenie pekárne.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img02.png"><![CDATA[Muž vo formálnom oblečení]]></img>
+			<text style="width: 450px;"><![CDATA[Alex, zamestnanec obstarávania v spoločnosti Johnson Controls, si myslí, že jeho kamarát Steve bude ideálny na pracovnú pozíciu, ktorá je v spoločnosti voľná. Povie Steveovi o pracovnej pozícii a navrhne, aby vyplnil on-line žiadosť.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/ltr/module1/m01s03/img03.png"><![CDATA[Žena vo formálnom oblečení, zostup Blízkeho východu]]></img>	
+			<text style="width: 450px;"><![CDATA[Basma je inžinierka kvality v spoločnosti Johnson Controls. Predajca, ktorého riadi, jej ponúka poradenskú príležitosť. Hovorí, že hľadajú pomoc s prípravou výstupných kontrol kvality pre novú radu výrobkov, ktoré vyrábajú pre spoločnosť Johnson Controls. Predajca vysvetľuje, že Basma môže robiť prácu vo večerných hodinách alebo počas víkendov – mimo bežného pracovného času.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module1/m01s03/img04.png"><![CDATA[Muž vo formálnom oblečení]]></img>	
+			<text style="width:450px;"><![CDATA[Carl bol zodpovedný za výber dodávateľa IT určeného na podporu spoločnosti Johnson Controls pri dôležitom projekte. Začiatkom roka investoval značné prostriedky do IT spoločnosti svojho priateľa a táto spoločnosť teraz predložila ponuku na túto zákazku.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Áno]]></text>
+		<text><![CDATA[Nie]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[To je správne.]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[To nie je správne. ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[Zistite viac po kliknutí na otázniky.]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[To, že Jennifer pracuje v pekárni cez víkendy, aby pomohla svojej sestre, nie je problém. Avšak ak jej záväzok voči sestre ovplyvňuje jej pracovné povinnosti v spoločnosti Johnson Controls, ako napríklad vtedy, keď predstiera chorobu a vymešká v priebehu týždňa deň v práci, aby mohla pomáhať v pekárni, predstavuje to konflikt.]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[Aj keď Alex pracuje na oddelení obstarávania, nevyužil svoju pozíciu na to, aby pomohol svojmu priateľovi získať prácu. Je prijateľné, aby Alex odporučil Steveovi, aby vyplnil on-line žiadosť, pretože Steve prejde tým istým procesom, ktorý budú nasledovať všetci ostatní uchádzači.]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[Basma dohliada na prácu dodávateľa a teraz zvažuje ponuku na spoluprácu bok po boku s týmto dodávateľom. Ak ju zamestnajú obe spoločnosti, kde bude jej lojalita? Existuje u nej potenciál konfliktu a takýmto situáciám sa treba vyhnúť. Basma musí minimálne oznámiť potenciálny konflikt záujmov.]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[Carl bude mať finančný prospech, ak spoločnosť, do ktorej investoval, vyhrá zákazku. Jeho osobné prepojenie na rozhodovanie by mohlo ovplyvniť jeho schopnosť urobiť nestranné rozhodnutie, čo z tejto situácie robí konflikt záujmov.]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

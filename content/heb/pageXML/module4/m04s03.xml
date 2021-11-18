@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s03">
+	<transcript>
+		<text path="audio/module4/m04s03" id="0"><![CDATA[מהם בדיוק נתונים אישיים? בוא נבדוק.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[מהם נתונים אישיים?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/rtl/module4/m04s03/contentBackground.jpg" minwidth="769"><![CDATA[עובד מהורהר ליד מחשב]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[בחר כל כותרת.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:145px;">
+		<revealCallOut width="300px" height="174px" top="15px" right="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/rtl/module4/m04s03/btn1.png" minwidth="769"><![CDATA[נתונים אישיים]]></img>
+			<buttonText style="height: 40px;"><![CDATA[נתונים אישיים]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: -45px;width: 958px;">
+				<text><![CDATA[נתונים אישיים הם כל מידע שניתן להשתמש בו לזיהוי אדם, כמו שמו או כתובתו.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" right="350px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/rtl/module4/m04s03/btn2.png" minwidth="769"><![CDATA[נתונים אישיים רגישים]]></img>
+			<buttonText style="height: 40px;"><![CDATA[נתונים אישיים רגישים]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 100px;top: -45px;width: 958px;">
+				<text><![CDATA[נתונים אישיים רגישים הם כל מידע אודות אדם שעלול לגרום לנזק מהותי, מבוכה, אי נוחות או אי צדק במקרה שיאבדו, ייעשה בהם שימוש לרעה או ייחשפו ללא אישור, למשל, המצב הבריאותי של אדם או האמונה הדתית שלו.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" right="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/rtl/module4/m04s03/btn3.png" minwidth="769"><![CDATA[הגנה על נתונים]]></img>
+			<buttonText style="height: 40px;"><![CDATA[הגנה על נתונים]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -45px;width: 958px;">
+				<text><![CDATA[כל המידע האישי של העובדים הלקוחות והשותפים העסקיים חייב להיות מוגן. זהו אחד מתחומי האחריות החשובים ביותר שלך כעובד ב- Johnson Controls.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

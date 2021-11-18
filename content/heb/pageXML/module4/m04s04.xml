@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s04">
+	<transcript>
+		<text path="audio/module4/m04s04" id="0"><![CDATA[כולנו רוצים שהנתונים האישיים שלנו יהיו בטוחים.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[מה מוטל על הכף אם לא נגן על נתונים אישיים?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/rtl/module4/m04s04/contentBackground.jpg" minwidth="769"><![CDATA[משרד ברקע]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;"></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[לחץ על כל אדם כדי לשמוע את נקודת המבט שלו.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 155px;">
+		<revealCallOut width="180px" height="184px" top="15px" right="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/rtl/module4/m04s04/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 50px;"><![CDATA[עובד של Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 80px;top: -25px;">
+				<text><![CDATA[הלקוחות שלנו סומכים על כך שנאבטח את הנתונים האישיים שלהם. הפרת אבטחה עלולה לגרום נזק למוניטין שלנו ולפגוע באמון הלקוחות.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" right="214px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/rtl/module4/m04s04/btn2.png" minwidth="769"><![CDATA[לקוח]]></img>
+			<buttonText style="height: 50px;"><![CDATA[לקוח]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 80px;top: -25px;">
+				<text><![CDATA[אני לא צריך עוד שיחות שיווק או דוא"ל זבל בחיים שלי. אם אתן לחברה את פרטי יצירת הקשר שלי, בטח אקבל כאלה<br /> שמור על אבטחת הנתונים ואל תאפשר להם ליפול לידיים הלא נכונות או אל תשמש בהם, אלא למטרה שלשמה מסרתי אותם.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" right="409px" ticktop="5px" tickleft="3px">
+			<img path="content/images/rtl/module4/m04s04/btn3.png" minwidth="769"><![CDATA[מנהל של Johnson Controls]]></img>
+			<buttonText style="height: 50px;"><![CDATA[מנהל של Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -25px;">
+				<text><![CDATA[אני מעורב באופן פעיל בארגונים פוליטיים, אך אני לא רוצה שהדעות שלי ישפיעו על הצוות בעבודה או על הקשרים שלי עם הלקוחות. מידע זה צריך להישאר פרטי.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" right="603px" ticktop="5px" tickleft="3px">
+			<img path="content/images/rtl/module4/m04s04/btn4.png" minwidth="769"><![CDATA[עובד של Johnson Controls]]></img>
+			<buttonText style="height: 50px;"><![CDATA[עובד של Johnson Controls]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -25px;">
+				<text><![CDATA[חשוב לי לשמור על פרטיות הבעיות הרפואיות שלי ואיני רוצה שהם ישותפו עם עובדים אחרים שאינם צריכים לדעת עליהם.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" right="798px" ticktop="5px" tickleft="3px">
+			<img path="content/images/rtl/module4/m04s04/btn5.png" minwidth="769"><![CDATA[קבלן]]></img>
+			<buttonText style="height: 50px;"><![CDATA[קבלן]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -25px;">
+				<text><![CDATA[לפני כמה שנים, מישהו גנב את פרטי חשבון הבנק שלי. זו הייתה טרחה אדירה ויקרה אני מבין שחברות שאיתן אני עושה עסקים זקוקות לפרטים פיננסיים מסוימים אודות העסק שלי, אך אני מצפה מהן לשמור על בטיחותם ופרטיותם.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

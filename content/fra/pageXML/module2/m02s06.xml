@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[Pour chaque exemple, sélectionnez « Cadeau » ou « Divertissement », puis cliquez sur Valider.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[Employés dans un bureau]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Saurez-vous reconnaître les cadeaux et les divertissements parmi les exemples suivants ?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Pour chaque proposition, sélectionnez « Cadeau » ou « Divertissement », puis cliquez sur Valider.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png"><![CDATA[Employés déjeunant avec un fournisseur pour une réunion d’équipe]]></img>
+			<text style="width: 406px;"><![CDATA[Un fournisseur invite toute l’équipe au restaurant pour fêter la fin d’un gros projet]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png"><![CDATA[Salarié ayant l’air songeur]]></img>
+			<text style="width: 406px;"><![CDATA[Un client vous offre un bon pour un massage dans un hôtel-spa afin de vous remercier pour votre travail]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png"><![CDATA[Salarié ayant l’air songeur]]></img>	
+			<text style="width: 406px;"><![CDATA[Vous assistez à un salon professionnel pour l’entreprise et les organisateurs invitent les participants à la soirée qui suit l’événement]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png"><![CDATA[Salarié ayant l’air songeur]]></img>	
+			<text style="width:406px;"><![CDATA[Un fournisseur propose d’offrir un déjeuner au restaurant à votre équipe après une réunion sur site, mais il ne participera pas à ce déjeuner]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png"><![CDATA[Salarié ayant l’air songeur]]></img>	
+			<text style="width:406px;"><![CDATA[Une fournisseuse vous invite à un événement sportif mais tombe malade et vous dit d’y aller sans elle]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[Cadeau]]></text>
+		<text styleWidth="width:100px;"><![CDATA[Divertissements]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;line-height:18px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[C’est exact.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Les règles de déclaration ne sont pas les mêmes pour les cadeaux et les divertissements. N’oubliez pas que la personne qui offre un divertissement en profite également : elle participe au dîner, assiste à l’événement, etc.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Un fournisseur qui invite l’équipe au restaurant ou qui assiste à la soirée qui suit un salon professionnel offre un divertissement, puisque ces deux situations offrent l’opportunité de parler affaires et que le fournisseur en profite également. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Les cartes-cadeaux et les divertissements offerts par une personne qui n’y participe pas sont considérés comme des cadeaux. ]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;line-height:18px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[C’est faux.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Les règles de déclaration ne sont pas les mêmes pour les cadeaux et les divertissements. N’oubliez pas que la personne qui offre un divertissement en profite également : elle participe au dîner, assiste à l’événement, etc.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Un fournisseur qui invite l’équipe au restaurant ou qui assiste à la soirée qui suit un salon professionnel offre un divertissement, puisque ces deux situations offrent l’opportunité de parler affaires et que le fournisseur en profite également. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Les cartes-cadeaux et les divertissements offerts par une personne qui n’y participe pas sont considérés comme des cadeaux. ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[Welke van deze scenario's kan volgens u problematisch zijn?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="font-size:15px;"><![CDATA[Denkt u dat deze voorbeelden voor omkoping zouden kunnen doorgaan?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[Zakenmensen]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Duid <span class="fontBold">alle</span> problematische scenario's aan en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Er is meer dan een juist antwoord mogelijk.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px;font-size:15px;">
+		<option><![CDATA[U belooft een klant een geschenk in contanten in ruil voor een gunstige zakelijke beslissing]]></option>
+		<option><![CDATA[Een onderaannemer die uw contract in de wacht wilt slepen nodigt u meermaals uit voor diners en sportevenementen]]></option>
+		<option><![CDATA[U doet een campagnebijdrage aan een overheidsfunctionaris die een potentiële klant is]]></option>
+		<option><![CDATA[Uw manager werft de dochter van een klant aan op voorwaarde dat de klant belooft zijn huidige contract te verlengen]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text style="font-size:14px;line-height:20px;"><![CDATA[Dat klopt.]]></text>
+			<text style="font-size:14px;line-height:20px;"><![CDATA[Al deze scenario's kunnen in feite als steekpenningen worden beschouwd naargelang de omstandigheden. De intentie om te beïnvloeden is een belangrijke factor, maar u mag niet vergeten dat zelfs de schijn van een steekpenning problematisch kan zijn voor uzelf en Johnson Controls. Denk dus na voordat u handelt!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text style="font-size:14px;line-height:20px;"><![CDATA[Dat klopt niet.]]></text>
+			<text style="font-size:14px;line-height:20px;"><![CDATA[Al deze scenario's kunnen in feite als steekpenningen worden beschouwd naargelang de omstandigheden. De intentie om te beïnvloeden is een belangrijke factor, maar u mag niet vergeten dat zelfs de schijn van een steekpenning problematisch kan zijn voor uzelf en Johnson Controls. Denk dus na voordat u handelt!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

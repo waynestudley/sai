@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module1/m01s03" id="0"><![CDATA[עד כמה אתה טוב בזיהוי מצבים מסוכנים? קרא תרחיש זה וקבע אם הוא מציג ניגוד עניינים.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/rtl/module1/m01s03/contentBackground.jpg" minwidth="769"><![CDATA[משרד]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;left: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[האם תוכל לזהות ניגוד עניינים?  קבע אם המצבים הבאים מציגים ניגוד עניינים פוטנציאלי ויש לדווח עליהם:]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[בחר 'כן' או 'לא' עבור כל אפשרות ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+		<text><![CDATA[לחץ על סימני השאלה לקבלת מידע נוסף.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module1/m01s03/img01.png"><![CDATA[אישה עם סינר, נראה שהיא עובדת במאפייה]]></img>
+			<text style="width: 450px;"><![CDATA[יפית, עובדת ב- Johnson Controls, מתכננת לעבוד במאפייה החדשה של אחותה בסופי השבוע, אך השבוע היא יוצאת לחופשת מחלה כדי לעזור להכין את החנות לקראת הפתיחה הגדולה.]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/rtl/module1/m01s03/img02.png"><![CDATA[אדם בחליפה עסקית]]></img>
+			<text style="width: 450px;"><![CDATA[אסף, עובד רכש בחברת Johnson Controls, חושב שחבר שלו יריב הוא מועמד מושלם לתפקיד שנפתח בחברה. הוא מספר ליריב על התפקיד ומציע לו למלא טופס הגשת מועמדות באינטרנט.]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="110px" path="content/images/rtl/module1/m01s03/img03.png"><![CDATA[אישה בחליפה עסקית, מאזור המזרח התיכון]]></img>	
+			<text style="width: 450px;"><![CDATA[בשמת היא מהנדסת איכות בחברת Johnson Controls. ספק שירות שבו היא מטפלת מציע לה אפשרות לשמש כיועצת. הוא אומר שהם מחפשים עזרה בהגדרת בדיקות איכות שוטפות לקו מוצרים חדש שהם יוצרים עבור Johnson Controls. ספק השירות מבהיר שבשמת יכולה לבצע את עבודתה בשעות הערב או בסופי השבוע, מחוץ לשעות העבודה הרגילות.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/rtl/module1/m01s03/img04.png"><![CDATA[אדם בחליפה עסקית]]></img>	
+			<text style="width:450px;"><![CDATA[איתי היה אחראי לבחירת ספק IT שיתמוך ב- Johnson Controls בפרויקט חשוב. מוקדם יותר השנה, הוא השקיע סכום מכובד בחברת ה-IT של חבר שלו וכעת החברה שלחה הצעת מחיר עבור העבודה המוצעת.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[כן]]></text>
+		<text><![CDATA[לא]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text style=""><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 115px;height: 166px;">
+			<text style="padding-top: 50px;text-align: center;font-size: 20px;"><![CDATA[נכון.]]></text>		 
+		</correct>
+		<incorrect style="top: 90px;height: 166px;">
+			<text style="padding-top: 32px;text-align: center;font-size: 20px;"><![CDATA[לא נכון. ]]></text>			
+			<text style="font-size: 16px;text-align: center;"><![CDATA[לחץ על סימני השאלה לקבלת מידע נוסף.]]></text>			
+		</incorrect>		
+	</feedback>
+	<optionInfo>
+		<option arrowTopPosition="52px" style="">
+			<text style=""><![CDATA[אין כל בעיה עם זה שיפית תעבוד במאפייה בסופי שבוע כדי לעזור לאחותה. עם זאת, ניגוד עניינים נוצר כאשר המחויבות שלה לאחותה משפיע על תחומי האחריות שלה ב-Johnson Controls, למשל, כאשר היא מזייפת מחלה ונעדרת מיום עבודה במהלך השבוע כדי לעזור לאחותה במאפייה.]]></text>			
+		</option>
+		<option arrowTopPosition="126px" style="">
+			<text style=""><![CDATA[על אף שאסף עובד ברכש, הוא לא השתמש במעמדו כדי לעזור לחבר שלו לקבל את העבודה. אסף יכול להמליץ ליריב למלא את טופס הבקשה באינטרנט, מאחר שיריב יעבור את אותו תהליך שיעברו כל המועמדים האחרים.]]></text>			
+		</option>
+		<option arrowTopPosition="220px" style="">
+			<text style=""><![CDATA[בשמת מפקחת על העבודה של ספק שירות וכעת היא שוקלת את ההצעה לעבוד אצל אותו ספק שירות. אם שתי החברות יעסיקו אותה, למי היא תהיה נאמנה? קיימת אפשרות לניגודי עניינים ויש להימנע ממצבים כאלה. לכל הפחות, בשמת צריכה לדווח על ניגוד העניינים הפוטנציאלי.]]></text>			
+		</option>
+		<option arrowTopPosition="315px" style="">
+			<text style=""><![CDATA[איתי עומד ליהנות מהטבות פיננסיות אם החברה שבה הוא השקיע תזכה במכרז. הקשר האישי שלו להחלטה עלול להשפיע על יכולתו לקבל החלטה לא מוטית, ולכן נוצר כאן ניגוד עניינים.]]></text>			
+		</option>				
+	</optionInfo>
+</contents>

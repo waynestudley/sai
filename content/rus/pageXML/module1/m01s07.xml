@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="reveal2">
+	<transcript>
+		<text path="audio/module1/m01s07" id="0"><![CDATA[Мы должны избегать не только конфликтов интересов, но и самой их видимости. Давайте рассмотрим способы разрешения описанных ситуаций.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:635px;margin-bottom:0px;font-size:15px;"><![CDATA[Вы познакомились с мнениями некоторых людей, ставших свидетелями конфликтов интересов. Какие действия помогли бы разрешить эти ситуации?]]></text>			
+	</contentText>
+	<pageTitle style="width: 635px;margin-bottom: 5px;"></pageTitle>
+	<instructionText style="width: 635px;">
+		<text><![CDATA[Чтобы узнать больше, выберите каждый заголовок.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s07/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<popupBackground>
+		<img path="content/images/ltr/module1/m01s07/img_01.png"><![CDATA[]]></img>
+	</popupBackground>
+	<tabHolder style=""></tabHolder>
+	<tabs style="">
+		<tab id="1" type="callOut" style="">
+			<tabName><![CDATA[Трудоустройство и прием на работу]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module1/m01s07/popup1.png"><![CDATA[]]></img>
+			</backgroungImg>
+			<tabText style="line-height:18px;">
+				<text style="font-size:15px;"><![CDATA[По мнению Картера, в ситуации имеет место конфликт интересов, поскольку Анна, брат которой работает в отделе кадров, получила повышение и заняла должность, на которую претендовал Картер.]]></text>
+				<text style="font-size:15px;"><![CDATA[Анне и ее брату следовало уведомить компанию о потенциальном конфликте интересов до повышения. Брат Анны мог отстраниться от процесса принятия решений, связанных с работой Анны в компании Johnson Controls. Это помогло бы компании выбрать наилучшего кандидата на должность, в результате у Картера не было бы поводов строить предположения о предвзятости сотрудников, отвечающих за отбор кандидатов.]]></text>
+			</tabText>
+		</tab>		
+		<tab id="2" type="planeText" style="top: 77px;">
+			<tabName><![CDATA[Отбор поставщиков]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module1/m01s07/popup2.png"><![CDATA[]]></img>
+			</backgroungImg>
+			<tabText style="line-height:18px;">
+				 <text style="font-size:15px;"><![CDATA[По мнению поставщика, в ситуации имеет место конфликт интересов, поскольку ему известно, что сотрудник компании Johnson Controls находится в дружеских отношениях с ее новым поставщиком.]]></text>
+				 <text style="font-size:15px;"><![CDATA[Возможно, фирма друга Джона законным образом предложила компании Johnson Controls свои услуги, а компания Johnson Controls законным образом выбрала эту фирму в качестве поставщика, придя к выводу, что это наилучший вариант. ]]></text>
+				 <text style="font-size:15px;"><![CDATA[Как бы то ни было, Джону следовало уведомить компанию о конфликте интересов, а процессом выбора поставщика должен был руководить сотрудник, не заинтересованный в том, чтобы помогать конкретному поставщику.]]></text>
+				</tabText>
+		</tab>		
+		<tab id="3" type="planeText" style="top: 155px;">
+			<tabName><![CDATA[Коммерческие возможности]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module1/m01s07/popup3.png"><![CDATA[]]></img>
+			</backgroungImg>
+			<tabText style="line-height:18px;">
+				 <text style="font-size:15px;"><![CDATA[По мнению клиента, в ситуации имеет место конфликт интересов, поскольку сотрудница Johnson Controls предложила ему обратиться в фирму, в которой, как клиент узнал позже, эта сотрудница была лично заинтересована.]]></text>
+				 <text style="font-size:15px;"><![CDATA[Винка ни в коем случае не должна была ставить себя и компанию Johnson Controls в такое положение. ]]></text>
+				 <text style="font-size:15px;"><![CDATA[Винка обязана уведомлять Johnson Controls обо всех коммерческих возможностях, которые возникают в работе, и уж точно не должна использовать эти возможности для получения личной выгоды. Винка не должна работать в фирме, которая может стать конкурентом компании Johnson Controls, и вкладывать средства в эту фирму. ]]></text>
+				</tabText>
+		</tab>
+	</tabs>	
+</contents>

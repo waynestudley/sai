@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[Do akej miery ste oboznámený so zásadami spoločnosti týkajúcimi sa darov a zábavy? Vyberte možnosť Pravdivé alebo Nepravdivé pre každú uvedenú možnosť a potom kliknite na položku Odoslať.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[Zamestnanci]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Sú tieto výroky o daroch a zábave pravdivé alebo nepravdivé?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Vyberte možnosť Pravdivé alebo Nepravdivé pre každú možnosť a potom kliknite na položku Odoslať.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[Osoba prijímajúca dar so zábavou bežiacou v pozadí]]></img>
+			<text style="width: 390px;"><![CDATA[Zásady spoločnosti Johnson Controls sa vzťahujú na každú situáciu týkajúcu sa darov a zábavy: neexistujú žiadne nejasnosti]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[Zamyslený zamestnanec]]></img>
+			<text style="width: 390px;"><![CDATA[Keď prijímate zábavu alebo dary, mali by ste sa vždy opýtať sami seba: „Očakávajú odo mňa za to niečo?“ ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[Zamyslený zamestnanec]]></img>	
+			<text style="width: 390px;"><![CDATA[Ak osoba, ktorej ponúkate dary alebo zábavu, si môže myslieť, že očakávate niečo na oplátku, nemali by ste pokračovať]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[Zamyslený zamestnanec]]></img>	
+			<text style="width:390px;"><![CDATA[Najlepšie je neponúknuť ani neprijímať dary a zábavu: je to jednoducho príliš riskantné]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Pravdivé]]></text>
+		<text><![CDATA[Nepravdivé]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[To je správne.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Poskytovanie a prijímanie zábavy a darov je prijateľné za správnych okolností, ale vyžaduje si to dobrý úsudok a pochopenie pravidiel spoločnosti Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Naše zásady nemôžu predvídať každú situáciu, preto budete musieť starostlivo zvážiť okolnosti, použiť svoj úsudok alebo, ak si nie ste istí, požiadať o radu ešte predtým, než budete pokračovať.]]></text>			
+		</correct>
+		<incorrect style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[To nie je správne.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Poskytovanie a prijímanie zábavy a darov je prijateľné za správnych okolností, ale vyžaduje si to dobrý úsudok a pochopenie pravidiel spoločnosti Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Naše zásady nemôžu predvídať každú situáciu, preto budete musieť starostlivo zvážiť okolnosti, použiť svoj úsudok alebo, ak si nie ste istí, požiadať o radu ešte predtým, než budete pokračovať.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

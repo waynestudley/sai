@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0" ><![CDATA[Legal agreements like nondisclosure agreements are one way we can make sure that others protect the information we share with them. Click on each reveal button to learn more.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="margin-bottom:0px"><![CDATA[Nondisclosure agreements, or NDAs, are an effective way to make sure confidential information shared with a third party remains confidential.]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg"  minwidth="769"><![CDATA[Documents]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Click on each reveal button to learn more.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<buttonText >
+		<text><![CDATA[REVEAL]]></text>
+	</buttonText>	
+	<flipCardContent >
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style="" ><![CDATA[Non Disclosure Agreement]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[When to use]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[Use an NDA if you are sharing confidential information with anyone outside the company. Never disclose confidential information before an NDA is signed. Johnson Controls Law department can provide templates for different situations.]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style="" ><![CDATA[Person reviewing a Non Disclosure Agreement]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[Using other NDAs]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[Sometimes, outside companies may offer to use their own NDAs. Don’t accept. We can accept them only after legal review and approval, since such third-party NDAs will be written to protect the third party’s interests, not ours.]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style="" ><![CDATA[Supervisor explaining NDA uses to employee]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[When we agree to NDAs]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[At times, we may sign an NDA to protect another company’s information. If so, it’s critical to ensure that we take the necessary steps to comply with our responsibilities, otherwise we could be sued for breach of agreement. Make sure anyone working with the information is aware of our obligations to protect it.]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s03">
+	<transcript>
+		<text path="audio/module6/m06s03" id="0"><![CDATA[O que as leis de concorrência não permitem? Clique em cada botão revelar para saber mais.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[As leis de concorrência proíbem acordos entre concorrentes que afetem o preço ou que limitem a escolha do cliente.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s03/contentBackground.jpg" minwidth="769"><![CDATA[Reuniões entre concorrentes]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Clique em cada botão revelar para saber mais. Role para baixo para ler a resposta completa.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[REVELAR]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s03/img1.png"><![CDATA[Imagem mostrando descontos em preços]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Fixação de preços]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[A fixação de preços é um acordo entre dois ou mais concorrentes para definir os preços de mercadorias e serviços. Esses acordos são ilegais.]]></text>						
+				<text><![CDATA[A fixação de preços ocorre se você e um concorrente concordarem em: <ul> <li>controlar os preços</li> <li>adotar uma fórmula conhecida para computar os preços</li> <li>manter uma taxa mínima ou cronograma de preços</li> <li>eliminar ou reduzir os descontos</li> </ul>]]></text>						
+			</popText>
+			
+			
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s03/img2.png"><![CDATA[Concorrentes fazendo um acordo]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Licitação fraudulenta]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[A licitação fraudulenta é um acordo entre dois ou mais concorrentes no qual eles predeterminam qual concorrente ganhará uma licitação ou oferta específica]]></text>					
+				<text><![CDATA[A licitação fraudulenta ocorre se você e um concorrente concordarem em: <ul> <li>não enviar propostas ou desistir de uma proposta que já foi enviada para que a proposta do concorrente (ou a sua) ganhe</li> <li>enviar propostas intencionalmente muito altas para ganhar, mas fazendo parecer que são legítimas. As propostas não são enviadas para vencer, e sim, para perder, de modo que o concorrente ganhe conforme acordado</li> <li>enviar propostas, mas revezar em relação a quem envia a proposta mais baixa</li> </ul>]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img3.png"><![CDATA[Concorrentes concordando em não negociar com um fornecedor específico]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Boicotes de grupo]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Os boicotes de grupo são um acordo entre dois ou mais concorrentes para recusar a negociação com um fornecedor ou cliente específico para disciplinar, punir ou prejudicar de outra forma o fornecedor ou cliente por suas ações.]]></text>
+				<text><![CDATA[Os boicotes de grupo acontecem se você e um concorrente concordarem em não trabalhar com um cliente específico como forma de puni-lo por escolher outro concorrente para um grande projeto anterior.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img4.png"><![CDATA[Concorrentes concordando em dividir clientes]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Alocação de mercado]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[A alocação de mercado é um acordo entre dois ou mais concorrentes para dividir clientes ou mercados.]]></text>			
+				<text><![CDATA[A alocação de mercado pode ocorrer se você e um concorrente concordarem em trabalhar com clientes específicos, por exemplo:<ul><li>"Eu fico com o cliente A e você com o B"</li><li>"Eu fico com os clientes do norte e você com os do sul"</li></ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img5.png"><![CDATA[Duas pessoas fazendo um acordo]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Acordos]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[As violações das leis antitruste ou de concorrência exigem um "acordo", mas o que isso significa?]]></text>			
+				<text><![CDATA[Um acordo não precisa ser escrito para violar a lei. Ele pode ser verbal. Na verdade, uma prática planejada ou padrão de comportamento é o suficiente para ser considerado acordo.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

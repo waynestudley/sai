@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[Che cosa sai di ciò è promosso dalle leggi sulla concorrenza? Seleziona le opzioni che ritieni siano vere, quindi fai clic su Inoltra.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Qual è lo scopo delle leggi sulla concorrenza?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[Bilancia della giustizia]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleziona tutti quelli pertinenti.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Vi possono essere più risposte corrette.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Promuovere la scelta del consumatore]]></option>	
+		<option><![CDATA[Introdurre barriere ai commerci]]></option>	
+		<option><![CDATA[Scoraggiare la crescita in certe industrie]]></option>	
+		<option><![CDATA[Incoraggiano rapporti corretti fra le aziende]]></option>	
+		<option><![CDATA[Premiare l’innovazione e il miglioramento continuo]]></option>	
+		<option><![CDATA[Punire le aziende che hanno troppo successo]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-254px">
+			<text><![CDATA[Risposta corretta.]]></text>
+			<text><![CDATA[Le leggi sulla concorrenza assicurano che il successo delle aziende si basi su presupposti corretti: perché offrono i prodotti, i servizi e i prezzi migliori. Non sono intese per punire il successo, scoraggiare la crescita o introdurre barriere ai commerci.]]></text>
+			<text><![CDATA[Le leggi sulla concorrenza incidono sul modo in cui interagiamo con il mondo esterno, compresi concorrenti, fornitori, distributori e clienti.]]></text>
+			<text><![CDATA[È molto importante che tu sappia come le leggi sulla concorrenza ti riguardano e che le rispetti mentre lavori o fai affari. In questo modulo tratteremo i principi e le prassi alla base della legge sulla concorrenza.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-254px">
+			<text><![CDATA[Risposta errata.]]></text>
+			<text><![CDATA[Le leggi sulla concorrenza assicurano che il successo delle aziende si basi su presupposti corretti: perché offrono i prodotti, i servizi e i prezzi migliori. Non sono intese per punire il successo, scoraggiare la crescita o introdurre barriere ai commerci.]]></text>
+			<text><![CDATA[Le leggi sulla concorrenza incidono sul modo in cui interagiamo con il mondo esterno, compresi concorrenti, fornitori, distributori e clienti.]]></text>
+			<text><![CDATA[È molto importante che tu sappia come le leggi sulla concorrenza ti riguardano e che le rispetti mentre lavori o fai affari. In questo modulo tratteremo i principi e le prassi alla base della legge sulla concorrenza.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

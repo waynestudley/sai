@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m09s02">
+	<transcript>
+		<text path="audio/module9/m09s02" id="0"><![CDATA[某些人员认为自己帮助公司发展 - 但实际上他们的行为将公司置于严重风险中。 选择各个人员以了解更多信息。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[您可以了解为何竞争情报如此宝贵！ 但无论这些信息能够带来多大帮助，我们都不得接受通过非法或不道德手段获取的竞争情报，例如下列行为。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s02/contentBackground.jpg" minwidth="769" />
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[请选择各个人员。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="190px" top="17px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn1.png" minwidth="769"><![CDATA[男员工]]></img>
+			<buttonText style="height: 58px;"><![CDATA[伪装成他人]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 70px;top: 2px;">
+				<text><![CDATA[我伪装成一名客户给竞争对手打电话。 我认为了解他们的价格有助于我们与之竞争。]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="17px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn2.png" minwidth="769"><![CDATA[男员工]]></img>
+			<buttonText style="height: 58px;"><![CDATA[翻找垃圾]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 70px;top: 2px;">
+				<text><![CDATA[某天晚上下班后，我翻查了某位竞争对手办公室外的垃圾箱。 果不其然，我找到一些关于他们新产品发布的信息。]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="17px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn3.png" minwidth="769"><![CDATA[女员工]]></img>
+			<buttonText style="height: 58px;"><![CDATA[买通某人，获取内幕信息]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 70px;top: 2px;">
+				<text><![CDATA[我买通了一位离职员工，为我提供公司的网络密码。 我得到了大量信息，甚至无人知晓我曾进入过网络。]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="17px" left="749px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn4.png" minwidth="769"><![CDATA[女员工]]></img>
+			<buttonText style="height: 58px;"><![CDATA[与不道德的客户相勾结]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: 2px;">
+				<text><![CDATA[在即将开始项目投标前，我会见了一个客户。 在会面期间，他短暂离开了房间，并说我应该看一眼他桌面上的文件夹。 当我打开文件夹时，发现那是我们竞争对手的竞标，包括他们的出价。 我用这些信息提交了一份更好的竞标方案。 ]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

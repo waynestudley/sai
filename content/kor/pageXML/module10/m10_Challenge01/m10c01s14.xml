@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[봉투에 미화 300달러의 현금이 들어 있습니다. Jian은 이미 이 선물을 거부했지만 공급업체는 고집을 부렸습니다. 그는 어떻게 해야 할까요?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s14/contentBackground.jpg" minwidth="769"><![CDATA[회의실]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[현금을 가집니다. 공급업체 선정 프로세스는 이미 완료되었으므로 Jian은 더 이상 해당 공급업체와 관련하여 영향력 있는 위치에 있지 않습니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[현금을 재차 거절합니다. 그러나 Eduardo가 좋아하는 레스토랑에 대한 미화 100달러짜리 기프트 카드를 공급업체가 제공하면 이것은 받습니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[현금을 다시 거절하되, 공급업체가 Jian을 팀 저녁 식사에 초대하면 수락합니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Jian은 아무도 모를 것이라고 생각하고 현금을 가집니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian이 두 번째로 현금을 거절한 후, 공급업체는 미화 100달러 상당의 기프트 카드라도 받으라고 고집을 부렸습니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian은 현금을 정중하게 다시 거절하되, 공급업체가 Jian을 팀 저녁 식사에 초대하면 수락합니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

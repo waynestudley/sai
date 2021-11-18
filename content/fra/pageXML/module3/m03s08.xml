@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[Les gouvernements et les autorités sont très stricts en matière de corruption. C’est pourquoi il est primordial que nous agissions tous pour l’éviter. Pouvez-vous relier l'action dans la colonne de gauche avec les conséquences dans celle de droite ?]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Qu’arrive-t-il aux entreprises qui se livrent à la corruption ?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[Un bureau]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[VALIDER]]></text>
+	</buttonText>
+		<instructionText style = "width: 100%;line-height:20px;height:40px;">
+		<text><![CDATA[Sélectionnez un élément de la première colonne, puis faites glisser les flèches pour le relier aux conséquences correspondantes dans la seconde colonne. Quand vous avez terminé, cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[LES MESURES]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[Salarié accordant un stage à une personne ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Les banquiers d’investissement de JP Morgan pour la région Asie Pacifique ont établi un programme pour accorder des emplois et des stages aux membres de la famille et amis de clients potentiels, y compris des représentants du gouvernement. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[Représentant du gouvernement avec un pot-de-vin ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Les filiales d'une énorme entreprise internationale qui fabriquaient du cuivre, de l’aluminium et de la fibre optique ont payé des millions de dollars à des agents et distributeurs tiers. Une partie de cet argent fut utilisé pour verser des pots-de-vin à des représentants gouvernementaux afin d'obtenir des contrats, permettant à l’entreprise de réaliser 51 millions USD de bénéfices.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[LES CONSÉQUENCES]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[L’entreprise a dû payer 76 millions USD et deux dirigeants, qui étaient au courant des pots-de-vin, ont dû payer des millions. ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[Juge avec un marteau]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ Le gouvernement américain a découvert que l’entreprise était « impliquée dans des manœuvres de corruption systématiques » qui avaient entraîné d’importantes récompenses commerciales. L’entreprise a dû payer 264 millions USD.]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[Bâtiment du Congrès américain vu à travers les marches du tribunal]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[Les conséquences de la corruption peuvent être graves, à la fois pour un individu comme pour une entreprise et peuvent aller d’une amende à l’emprisonnement.  Johnson Controls compte sur vous constamment, pour éviter la corruption à tout moment et signaler immédiatement toute activité suspecte dans ce domaine.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[Les conséquences de la corruption peuvent être graves, à la fois pour un individu comme pour une entreprise et peuvent aller d’une amende à l’emprisonnement.  Johnson Controls compte sur vous constamment, pour éviter la corruption à tout moment et signaler immédiatement toute activité suspecte dans ce domaine.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

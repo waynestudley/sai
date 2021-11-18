@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m08s11">
+	<transcript>
+		<text path="audio/module8/m08s11" id="0"><![CDATA[法律协议（例如保密协议）是我们确保他人保护我们与之分享的信息的一种手段。 单击每个“显示”按钮，了解更多信息。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[保密协议（或称 NDA）是确保与第三方分享的机密信息不会遭到泄露的一项有效手段。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s11/contentBackground.jpg" minwidth="769"><![CDATA[文档]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[单击每个“显示”按钮，了解更多信息。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[显示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img1.png" style=""><![CDATA[保密协议]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[何时使用]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[与公司外部人员分享机密信息时，请使用 NDA。 未签署保密协议前，请勿披露机密信息。 Johnson Controls 法律部能根据不同情况提供协议模板。]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module8/m08s11/img2.png" style=""><![CDATA[审查保密协议的人员]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[使用其他 NDA]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[有时外部公司会提供他们的 NDA。 您不得接受此类协议。 由于此类第三方保密协议 (NDA) 专为保护第三方而非我公司的利益制定，因此只有经过法务审核和批准后我们才能采纳此类协议。]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module8/m08s11/img3.png" style=""><![CDATA[主管向员工解释保密协议 (NDA) 的用途]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[同意签署 NDA 时]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[有时，我们需要签署 NDA 以保护其他公司信息。 若是如此，请务必确保我们采取必要的措施履行我们的责任，以免被控告违约。 确保处理此类机密信息的所有人员都知晓我们保护信息的义务。]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

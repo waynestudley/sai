@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[爱德华多提议去附近有名的绅士俱乐部。 团队其他成员似乎都有意前往。]]></text>
+		<text><![CDATA[建安应该如何回应？]]></text>
+	</contentText>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[餐厅]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[与爱德华多和其团队一起去俱乐部，但坚持自己付钱，这样不至于过度接受爱德华多的款待。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[出于礼貌一起喝一杯，避免爱德华多尴尬，但确保短暂娱乐后就离开。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[婉言谢绝，然后回家。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[建安确实应考虑他接受款待的金额，但他还需要考虑另一个问题。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[尽管建安只打算和爱德华多及其团队玩一小会儿，但这仍会给建安和 Johnson Controls 造成无法预料的问题。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[这是安全之选。]]></text>
+		</correct>
+	</feedback>
+</contents>

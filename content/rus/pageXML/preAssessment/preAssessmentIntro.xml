@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentTitle>
+		<text><![CDATA[Предварительное оценивание]]></text>		
+	</contentTitle>
+	<contentBg style="padding: 0;top: 70px;width: 510px;right: 20px;"></contentBg>
+	<pageTitle style="padding:15px 20px 10px 25px;width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentText>
+		<text width="auto" height="auto" top="0px" fontSize="17px" fontWeight="bold" left="0px" bgColor="transparent" color="#333740" padding="0px 20px 5px 25px" position="relative"><![CDATA[###, сейчас вам будет нужно ответить на ряд вопросов. Ваши ответы позволят:]]></text> 
+		<text width="auto" height="auto" top="0px" fontSize="17px" left="0px" color="#333740" bgColor="transparent" padding="5px 20px 0px 25px" position="relative"><![CDATA[<ul><li>продемонстрировать ваш текущий уровень знаний;</li><li>определить содержание курса, который вы получите.</li></ul>]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="17px" left="0px" bgColor="transparent" color="#0080B6" padding="5px 20px 10px 25px" position="relative"><![CDATA[<i>Чтобы начать, нажмите кнопку «Далее» <span class="nexticon" >[<img src="content/images/ltr/preAssessment/Next_icon.png" />]</span>.</i>]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="30px" fontWeight="noraml" left="0px" color="#00549E" bgColor="#D5D547" padding="10px 20px 18px 25px" position="relative"><![CDATA[Вопросы:]]></text>
+	</contentText>
+    <contentBackground>		
+		<img path="content/images/ltr/preAssessment/preassessmentIntro.jpg" minwidth="800" minheight="600"><![CDATA[Сотрудник компании Johnson Controls]]></img>
+	</contentBackground>
+	
+	
+</contents>

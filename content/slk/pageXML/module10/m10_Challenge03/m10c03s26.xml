@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s26">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Chris navrhuje, aby navštívili populárny pánsky klub kúsok odtiaľ. Zdá sa, že niektorých členov tímu to zaujíma a chcú ísť.]]></text>
+		<text><![CDATA[Ako by mal Carlos reagovať?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s26/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Zvoľte jednu možnosť a potom vyberte tlačidlo OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Navštíviť klub s Chrisom a jeho tímom, ale trvať na tom že si za seba zaplatí, aby Chrisova pohostinnosť nebola neprimeraná.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Ísť zo slušnosti na jeden drink, aby neuviedol Chrisa do rozpakov, ale rozhodne sa po chvíli odísť.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Zdvorilo odmietnuť a ísť domov.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos navštívi klub s Chrisom a jeho tímom.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos navštívi klub s Chrisom a jeho tímom, ale po chvíli odíde.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jeden z členov Chrisovho tímu sa počas návštevy klubu zaplietol do bitky. Bola privolaná polícia a časť skupiny sa musí dostaviť na súd ako svedkovia.]]></text>
+			<text><![CDATA[Ale keďže Carlos odišiel po večeri a nešiel s nimi do klubu, nebol tam, keď sa to stalo a nie je predvolaný na súd. Jeho rozhodnutie opustiť klub zabráni, aby dostal do ťažkostí sám seba, ako aj spoločnosť Johnson Controls.]]></text>
+		</correct>
+	</feedback>
+</contents>

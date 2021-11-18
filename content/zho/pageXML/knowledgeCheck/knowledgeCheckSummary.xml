@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[恭喜，您顺利通过最终的知识测验。  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[很遗憾，您未通过最终的知识测验。 ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[恭喜您！]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Johnson Controls 员工]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Johnson Controls 员工]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[单击“主页”返回主菜单。 在这里可以访问您的课程结业证书。]]></text>
+		<text><![CDATA[单击“主页”返回主菜单。]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[您的得分为 <b>##%</b>，已通过“知识测验”： <span class="courseTitleAss" >应用道德准则： 诚信营商</span>课程。]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[您的得分为 <b>##%</b>，未通过课程测验。]]></text>
+		<text><![CDATA[您的得分需在 <span>#%</span> 分或以上才可通过测验。 请复习课程，然后重新完成本“知识测验”。]]></text>
+	</feedbackFail>
+</contents>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[Você consegue reconhecer situações de risco? Leia está situação, selecione Concordo ou Discordo em cada afirmação e clique em Enviar.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[Corredor do escritório]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Um consultor com quem você trabalha no Oriente Médio diz que o certificado de importação de uma remessa era alto, mas ele descobriu uma "solução mais barata" e a remessa foi liberada. Com qual destas declarações você concorda?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Selecione Concordo ou Discordo em cada afirmação e clique em Enviar. ]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[Docas]]></img>
+			<text style="width: 450px;"><![CDATA[Esta "solução mais barata" pode envolver alguém recebendo suborno ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[Docas]]></img>
+			<text style="width: 450px;"><![CDATA[Você deve relatar suas suspeitas para seu gerente ou o Departamento Jurídico.   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[Docas]]></img>	
+			<text style="width: 450px;"><![CDATA[Você deve esperar e ver o que acontece e depois discutir com seu gerente]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[Docas]]></img>	
+			<text style="width:450px;"><![CDATA[Se o consultor tiver pago um suborno em nome da sua empresa, ele seria responsabilizado, e não a Johnson Controls]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[Docas]]></img>	
+			<text style="width:450px;"><![CDATA[Você deve agradecer o consultor por economizar dinheiro e enviar mais trabalho para ele no futuro]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Concordo]]></text>
+		<text><![CDATA[Discordo]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Está correto.]]></text>			
+			<text style="font-size: 13px;"><![CDATA[A "solução mais barata" pode ser um suborno. Às vezes, o suborno pode ser muito sutil. Nesta situação, você deve comunicar suas suspeitas imediatamente ao seu gerente e a um membro do Departamento Jurídico ou de Conformidade ou para a Linha de Ajuda de Integridade. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Se um terceiro paga um suborno em nome da Johnson Controls, ainda somos responsabilizados.]]></text>			
+		</correct>
+		<incorrect style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Não está correto.]]></text>	
+			<text style="font-size: 13px;"><![CDATA[A "solução mais barata" pode ser um suborno. Às vezes, o suborno pode ser muito sutil. Nesta situação, você deve comunicar suas suspeitas imediatamente ao seu gerente e a um membro do Departamento Jurídico ou de Conformidade ou para a Linha de Ajuda de Integridade. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Se um terceiro paga um suborno em nome da Johnson Controls, ainda somos responsabilizados.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

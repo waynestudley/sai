@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s20">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle=""></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s20/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText>
+		<text style="line-height: 18px;font-size:14px"><![CDATA[Carlos está supervisando un trabajo grande: servicios de instalación en un nuevo establecimiento que está en construcción. Cuando una demora de un proveedor de repuestos retrasa el trabajo, Carlos contrata a un equipo de subcontratistas que trabajan muchas horas para completar el trabajo. Están a solo unos días de terminar el trabajo.]]></text>
+	</contentText>
+	<instructionText style="margin-top: 5px;">
+		<text><![CDATA[Haga clic en cada etapa de la historia.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Strip_01.png" minwidth="700" minheight="550"><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="7" y="250" width="370" />
+				<text><![CDATA[<span style="font-weight: bold;">Carlos</span>, supervisor del equipo de Instalación y Mantenimiento de Johnson Controls]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="490" y="256" width="345" />
+				<text><![CDATA[<span style="font-weight: bold;">Chris</span>, jefe del equipo de subcontratistas]]></text>			
+			</stripCallOut>
+			
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="47" y="65" width="180" arrowStyle="top:10px;" />
+				<text><![CDATA[Bueno, Chris, fueron muchos días largos, pero ya casi terminamos.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="570" y="56" width="150" />
+				<text><![CDATA[Quisiéramos darte las gracias. Valoramos que tu empresa nos siga eligiendo para trabajar juntos.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3">	
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+					<callOut minwidth="700" minheight="550" x="47" y="65" width="180" arrowStyle="top:10px;" />
+				<text><![CDATA[Ah, no creo que pueda aceptarlo.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="570" y="56" width="150" />
+				<text><![CDATA[Por supuesto que sí. Este es solo un pequeño regalo para agradecerte. Ábrelo cuando me vaya.]]></text>			
+			</stripCallOut>
+		</strip>		
+		<strip id="4">
+			<stripThumImg numberText="4">	
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Strip_04.png" minwidth="700" minheight="550"><![CDATA[]]></img>
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="27" y="65" width="200" arrowStyle="top:10px;" />
+				<text><![CDATA[¿Dinero en efectivo? No, lo siento. Valoro el gesto, pero no puedo aceptarlo.]]></text>
+			</stripCallOut>	
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="570" y="56" width="150" />
+				<text><![CDATA[Insisto. No aceptaré que me lo devuelvas. Vamos, guárdalo. Nadie tiene por qué enterarse. Puede quedar entre nosotros.]]></text>
+			</stripCallOut>	
+		</strip>		
+	</comicStrip>
+</contents>

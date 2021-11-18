@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Dan은 Emma의 요청에 어떻게 반응해야 할까요?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s14/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[그는 Emma의 요청에 따라 조치를 취해 동료 직원을 지원하는 일을 도와야 합니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Dan은 이메일에 직접적으로 의료 정보를 제공해서는 안 됩니다. 하지만 Emma의 블로그 링크는 보낼 수 있습니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Dan은 회사 전체로 이메일을 보내는 대신, 어떤 일을 하면 Sandy에게 도움이 될 수 있을지에 대해 Emma가 Sandy에게 물어볼 것을 제안합니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Dan은 Sandy의 사고와 관련된 정보와 Emma의 블로그 링크를 Johnson Controls의 모든 직원에게 이메일로 보냅니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Dan은 Emma의 블로그 링크가 포함된 이메일을 보냅니다. 그는 이것이 직원 이메일 목록을 부적절하게 사용하는 행동이라는 것을 인식하지 못하는 듯합니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma가 어떤 일을 하면 도움이 될 수 있을지에 묻자 Sandy는 자신의 가족이 개설한 Facebook 페이지에 대해 회사에 있는 친구 몇 명에게 알려 달라고 말합니다.]]></text>
+			<text><![CDATA[Emma는 Sandy가 말한 사람들과 이 정보를 공유합니다. Sandy의 동료들은 회복을 바라는 메시지를 게시했고 Sandy는 여기에 힘을 얻습니다. 꽤 많은 사람이 Sandy의 의료비 기금에 기부했고 덕분에 그녀는 걱정을 덜게 되었습니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

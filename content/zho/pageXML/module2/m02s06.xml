@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[针对各项示例选择礼品或招待，然后单击“提交”。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[办公室中的员工]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[看看您是否能够识别每个示例是礼品还是招待。]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[针对各个选项选择“礼品”或“招待”，然后单击“提交”。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png"><![CDATA[员工在与供应商聚餐]]></img>
+			<text style="width: 406px;"><![CDATA[一位供应商宴请整个项目团队的成员，以庆祝顺利完成一个大项目]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png"><![CDATA[若有所思的员工]]></img>
+			<text style="width: 406px;"><![CDATA[一位客户赠送给您一张当地度假中心的按摩优惠券，以对您的工作表示“感谢”]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png"><![CDATA[若有所思的员工]]></img>	
+			<text style="width: 406px;"><![CDATA[您正代表公司参加贸易展览，主办方邀请参与者参加晚间活动]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png"><![CDATA[若有所思的员工]]></img>	
+			<text style="width:406px;"><![CDATA[一位供应商在一次现场会议后，为您的团队在当地餐厅设宴，但供应商并不会出席]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png"><![CDATA[若有所思的员工]]></img>	
+			<text style="width:406px;"><![CDATA[一位供应商邀请您观看一场体育比赛，但她感觉身体不适，让您自己一个人去]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[礼品]]></text>
+		<text styleWidth="width:100px;"><![CDATA[招待]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top:20px;width: 230px;height: 302px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[正确。]]></text>			
+			<text style="font-size: 15px;"><![CDATA[报告礼品和招待时，适用不同的规定。 请谨记，如果属于招待范畴，则赠予者会同时获益，他们出席晚宴，也会参加活动等。]]></text>			
+			<text style="font-size: 15px;"><![CDATA[一位供应商邀请团队聚餐，或参加贸易展晚间活动属于招待，因为既提供了讨论业务的机会，赠予者也同时获益。 ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[礼品券以及赠送方并不参加的邀请活动，均视为礼品。 ]]></text>			
+		</correct>
+		<incorrect style="top:20px;width: 230px;height: 302px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[错误。]]></text>	
+			<text style="font-size: 15px;"><![CDATA[报告礼品和招待时，适用不同的规定。 请谨记，如果属于招待范畴，则赠予者会同时获益，他们出席晚宴，也会参加活动等。]]></text>			
+			<text style="font-size: 15px;"><![CDATA[一位供应商邀请团队聚餐，或参加贸易展晚间活动属于招待，因为既提供了讨论业务的机会，赠予者也同时获益。 ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[礼品券以及赠送方并不参加的邀请活动，均视为礼品。 ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

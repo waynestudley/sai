@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[여기에서 경고 신호가 보입니까? 여러분이 발견한 것을 선택하고 '제출'을 클릭하십시오.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[이 이메일과 관련된 경고 신호는 무엇입니까?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[이메일 받은 편지함]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[모든 경고 신호를 선택하고 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[정답은 한 개 이상일 수 있습니다.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[보낸 사람은 자기가 Johnson Controls 고객이라고 주장합니다.]]></option>	
+		<option><![CDATA[그 고객은 비즈니스에 대해 이메일을 보냈지만 Gmail 계정을 사용하고 있습니다.]]></option>	
+		<option><![CDATA[그 고객은 자신에 대한 많은 정보를 제공하지 않고 통제될 수 있는 정보를 요구하고 있습니다.]]></option>	
+		<option><![CDATA[그 고객은 자기가 프랑스에 있다고 하지만 이메일로는 그것을 확인할 수 없습니다.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[정답입니다.]]></text>
+			<text><![CDATA[그 고객은 수출이 제한될 수 있는 기술 정보를 요구하고 있으며, 자신에 대한 정보는 많이 제공하지 않습니다.]]></text>
+			<text><![CDATA[최소한 기술 지원을 제공하기 전에 여러분은 그의 신원과 위치 및 적용 가능한 무역 제한 사항에 대해 자세히 알아야 합니다.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[죄송합니다. 정답이 아닙니다.]]></text>
+			<text><![CDATA[그 고객은 수출이 제한될 수 있는 기술 정보를 요구하고 있으며, 자신에 대한 정보는 많이 제공하지 않습니다.]]></text>
+			<text><![CDATA[최소한 기술 지원을 제공하기 전에 여러분은 그의 신원과 위치 및 적용 가능한 무역 제한 사항에 대해 자세히 알아야 합니다.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

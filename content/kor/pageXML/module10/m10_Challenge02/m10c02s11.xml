@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma는 Sandy의 상황을 보고 마음이 아픕니다. 그녀는 다른 사람들을 참여시키면 도움이 될 것이라고 생각합니다. Emma는 어떻게 동료를 도울 수 있을까요?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;">
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Sandy의 회복 상황과 경제적 어려움을 설명하고 의료비 지원을 위한 모금을 하기 위해 크라우드 펀딩 온라인 사이트를 개설하여 Sandy를 놀라게 해줍니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[그녀의 부동산 블로그를 이용하여 더 많은 사람이 이 가족의 모금 활동에 기부하게 합니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[다른 사람에게 알리거나 소셜 미디어에 교통사고와 Sandy의 회복 문제에 대해 글을 쓰기 전에 Sandy의 허락을 받습니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Emma는 Sandy를 위한 모금 사이트를 만들고 여기에 Sandy의 부상과 현재 예후에 관한 정보를 올립니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma의 웹 사이트와 블로그에는 트래픽이 많기 때문에 Emma는 이렇게 하는 것이 Sandy의 어려움에 대해 더 많은 사람에게 알리고 기부하게 할 수 있는 좋은 방법이라고 생각합니다. 그녀는 Sandy의 사고와 가족 모금 활동에 대한 정보를 자신의 부동산 웹 사이트와 블로그에 올리기로 합니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:220px;" fcStyle="top:-180px">
+			<text style="padding-top:25px;"><![CDATA[Emma는 Sandy의 의료비를 위해 모금할 방법으로 교통사고에 대한 이야기를 써서 블로그에 올려도 되는지를 Sandy에게 물어봅니다.]]></text>
+			<text><![CDATA[Sandy는 동의하지만, 대신에 기부금이 의료 시설 기금으로 가도록 요청합니다.]]></text>
+			<text><![CDATA[Emma는 공유해도 되는 이야기와 개인 정보 사용 방법에 대해 Sandy의 허락을 받음으로써 Sandy의 개인 정보를 남용하지 않고 Sandy의 프라이버시가 사실상 존중되도록 합니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s05">
+	<transcript>
+		<text path="audio/module7/m07s05" id="0"><![CDATA[ลองมาดูกรณีที่เกิดขึ้นกับบริษัทลูกของเราแห่งหนึ่ง คลิกที่ลูกศรเพื่ออ่านกรณีศึกษาฉบับเต็ม]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[การสูญเสียทรัพย์สินทางปัญญาอาจสามารถเพิ่มต้นทุนก้อนใหญ่ให้กับบริษัท แต่บริษัทไม่สามารถรับรู้การเกิดขึ้นได้ตลอดเวลา]]></text>
+	</contentText>
+	<contentBg style="top:30px;"></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module7/m07s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[คลิกที่ลูกศรเพื่อเรียนรู้เพิ่มเติม]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="" style="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module7/m07s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[ภาพระยะใกล้ของแฮคเกอร์ที่กำลังใช้แล็ปท็อป]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[ปัจจุบันนี้ หลาย ๆ บริษัทกำลังตกเป็นเป้าหมายของอาชญากรดิจิตอล ในบางครั้งบริษัทอาจไม่รับรู้ว่าความลับทางการค้าของพวกเขาถูกขโมยเมื่อมีการล่วงล้ำข้อมูลคอมพิวเตอร์]]></text>
+				<text><![CDATA[เพราะอาชญากรไซเบอร์ได้บุกรุกและค่อย ๆ ขโมยข้อมูลด้วยวิธีที่บริษัทไม่รู้ตัวว่าเกิดขึ้นด้วยซ้ำ]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module7/m07s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[ข้อมูลดิจิตอล]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[แม้ว่ามีจะยังไม่มีสถิติระดับประเทศหรือโลกเกี่ยวกับมูลค่าความเสียหายรวมที่เกิดจากการโจรกรรมข้อมูลทางการค้าออกมาอย่างเป็นทางการ แต่บริษัท Price Waterhouse Coopers (PwC) และองค์กร Center for Responsible Enterprise and Trade ก็ได้ร่วมกันจัดทำงานวิจัยในปี 2014 และประเมินมูลค่าความเสียหายจากการโจรกรรมข้อมูลทางการค้าเฉพาะในสหรัฐฯ ได้เป็นจำนวน 1% ถึง 3% ของจีดีพีทั้งประเทศ ซึ่งเท่ากับ 2 แสนล้านถึง 5.5 แสนล้านดอลลาร์สหรัฐต่อปีเลยทีเดียว!]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module7/m07s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[พนักงานทำงานด้วยแล็ปท็อป]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text><![CDATA[หากเราพิจารณาประเทศที่พัฒนาแล้วอื่น ๆ นอกเหนือจากสหรัฐฯ อาจกล่าวได้ว่าต้นทุนความเสียหายจากการโจรกรรมความลับทางการค้าทั่วโลกมีมูลค่าหลายล้านล้าน]]></text>
+				<text><![CDATA[ในฐานะที่เป็นบริษัทระดับโลกขนาดใหญ่ จอห์นสัน คอนโทรลส์ อาจคาดการณ์ได้ว่าตนจะเป็นเป้าหมายของการโจรกรรมทรัพย์สินทางปัญญา นี่จึงเป็นเหตุผลที่เราจะต้องระมัดระวัง รวมถึงปกป้องและใช้ทรัพย์สินทางปัญญาในครอบครองของเราอย่างเหมาะสม]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

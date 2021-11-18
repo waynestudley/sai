@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="reveal2">
+	<transcript>
+		<text path="audio/module8/m08s07" id="0"><![CDATA[Какая информация должна всегда оставаться конфиденциальной? Ниже приведено несколько примеров, хотя существуют и другие типы конфиденциальной информации, не указанные здесь. Щелкните каждый заголовок, чтобы убедиться в правильности понимания.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:635px;margin-bottom:0px;font-size:15px;line-height:16px;"><![CDATA[Конфиденциальная информация может принимать множество форм. Она может быть записана на бумаге, передана в устной форме или сохранена в базе данных. Важным является то, какая именно информация передается.]]></text>			
+	</contentText>
+	<pageTitle style="width: 635px;margin-bottom: 5px;line-height:25px;"></pageTitle>
+	<instructionText style="width: 635px;line-height:20px;">
+		<text><![CDATA[Выберите каждый заголовок.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s07/contentBackground.jpg" minwidth="769"><![CDATA[Цифровая информация]]></img>
+	</contentBackground>
+	<popupBackground>
+		<img path="content/images/ltr/module8/m08s07/img_01.png"><![CDATA[]]></img>
+	</popupBackground>
+	<tabHolder style=""></tabHolder>
+	<tabs style="">
+		<tab id="1" type="callOut" style="">
+			<tabName><![CDATA[Деловые планы или стратегия]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup1.png"><![CDATA[]]></img>
+			</backgroungImg>
+			<tabText style="width: 268px;">
+				<text style="font-size:15px;"><![CDATA[Защищайте любую прогностическую информацию, касающуюся нашего бизнеса. Если конкуренты узнают о том, что мы планируем, это может дать им значительное преимущество.]]></text>
+			</tabText>
+		</tab>		
+		<tab id="2" type="planeText" style="top: 32px;">
+			<tabName><![CDATA[Неопубликованная финансовая информация]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup2.png"><![CDATA[Сотрудник выполняет процедуру получения разрешений]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[Рассматривайте любую непубличную информацию, касающуюся финансовых показателей и ценообразования компании Johnson Controls, как конфиденциальную. Сюда же относится информация о потенциальных приобретениях. Наша компания должна соблюдать строгие правила в отношении разглашения и передачи финансовой информации, поскольку это может повлиять на отношение инвесторов к компании.]]></text>
+				</tabText>
+		</tab>		
+		<tab id="3" type="planeText" style="top: 59px;">
+			<tabName><![CDATA[Информация о клиентах или рынках]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup3.png"><![CDATA[Государственный служащий]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[Защищайте списки клиентов, соглашения с клиентами, данные о рыночной доле, соглашения с поставщиками и подобную информацию. Эти документы содержат важную внутреннюю информацию о нашем бизнесе, и если ее узнают посторонние люди, это может поставить под угрозу наши конкурентные преимущества.]]></text>
+				</tabText>
+		</tab>	
+		<tab id="4" type="planeText" style="top: 82px;">
+			<tabName><![CDATA[Информация о продукции или техническая информация]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup4.png"><![CDATA[Сотрудник заполняет формы для получения разрешения]]></img>
+			</backgroungImg>
+			<tabText style="width:255px;">
+				 <text style="font-size:15px;"><![CDATA[Наша ценность как компании основывается на нашей продукции и ноу-хау. Необходимо тщательно защищать исходный код программного обеспечения, чертежи продукции, технические руководства, а также материалы исследований и разработок.]]></text>
+				</tabText>
+		</tab>
+	</tabs>	
+</contents>

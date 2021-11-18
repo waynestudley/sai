@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s17">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[עידו מציע שהם ילכו למועדון לילה פופולרי במורד הרחוב. שאר חברי הצוות מביעים את רצונם ללכת.]]></text>
+		<text><![CDATA[איך חנן צריך להגיב?]]></text>
+	</contentText>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c01/m10c01s17/contentBackground.jpg" minwidth="769"><![CDATA[מסעדה]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[לבקר במועדון עם עידו והצוות שלו, אך להתעקש לשלם, כך ששווי האירוח של עידו לא יהיה גבוה מדי.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[לבוא למשקה אחד מתוך נימוס, כדי לא להביך את עידו, אך להקפיד לעזוב אחרי פרק זמן קצר.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[לסרב בנימוס וללכת הביתה.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[חנן צודק כאשר הוא חושב מה שווי האירוח שהוא מקבל, אך יש להתייחס לסוגיה נוספת.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[על אף שחנו מתכנן להצטרף לעידו ולצוות שלו לפרק זמן קצר בלבד, הדבר עדיין גורם לבעיות לא צפויות עבור חנן ו-Johnson Controls.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[זוהי בחירה בטוחה.]]></text>
+		</correct>
+	</feedback>
+</contents>

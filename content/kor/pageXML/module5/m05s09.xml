@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m05s09" maxAttempt="2">
+	<transcript>
+		<text path="audio/module5/m05s09" id="0"><![CDATA[이제 여러분의 차례입니다. 다음 항목들에서 수출인 것과 아닌 것을 구별할 수 있는지 확인하십시오. 각 항목을 '수출' 또는 '수출 아님' 상자로 끌어간 후 '제출'을 클릭하십시오.]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[수출인 것과 아닌 것을 구별하는 데 얼마나 자신이 있습니까? 다음의 각 항목에서 그것이 수출인지 아닌지를 결정하십시오.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s09/contentBackground.jpg" minwidth="769"><![CDATA[회사 문서로 작업하는 직원들]]></img>
+	</contentBackground>
+	 <contentBg style="top: 20px;"></contentBg>
+	<pageTitle style="width: 588px;margin-bottom:6px;"></pageTitle>
+	<instructionText style="width: 588px;margin-top:6px;">
+		<text><![CDATA[각 항목을 두 상자 중 하나로 끌어간 후 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+		<text><![CDATA[다시 하려면 '다시 시도' 버튼을 클릭하십시오.]]></text>
+		<text><![CDATA['정답 표시' 버튼을 클릭하십시오.]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 330px; padding: 4px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[상황]]></lable> 
+		<option>			
+			<option height="51px" left="0" top="27px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[설계 정보 온라인 게시]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="88px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[공장 견학 중에 수출 통제된 기술 정보를 다른 나라의 고객에게 노출]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="149px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[잡지 International News에 HVAC의 미래에 대한 기술 논문 게재]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="210px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[다른 나라의 시민권을 보유한 고객에게 신제품 설계 또는 Johnson Controls 제품과 고객의 최종 품목의 통합에 대한 지원 제공]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="271px" width="336px" padding="2px 5px" fontSize="12px" dropId="0"><![CDATA[도면을 해외 공급업체와 공유하는 웹 기반 포털에 업로드]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="332px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[내부 컴퓨터 네트워크에 기술 문서 저장(같은 나라에 있고 시민권을 보유한 직원만 액세스할 수 있는 경우)]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="393px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[같은 도시에 있는 고객에게 제품을 우편으로 발송(그 고객이 여러분의 국가의 국민이며, 그곳에서 사업하기 위해 회사를 설립함)]]></option>
+		</option>
+		<option>			
+			<option height="51px" left="0" top="455px" width="336px" padding="2px 5px" fontSize="12px" dropId="1"><![CDATA[다른 나라의 고객에게 이메일을 보내 그를 저녁 식사에 초대하고 최근의 큰 성공을 축하]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="1" topGap="149" bottomGap="33">
+		<dropArea maxDrop="5" style="width:312px;left: 355px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="5" style="width:312px;left: 670px;top: 28px; height:348px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[수출]]></text>
+		<text style="width:301px;height:20px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 2px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[수출 아님]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 277px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 277px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 277px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 277px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:61px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 593px;top: 206px; height:61px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 593px;top: 252px; height:61px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 593px;top: 298px; height:61px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+		<text style="width:301px;left: 593px;top: 344px; height:61px;background-color:#DFE0DE;"><![CDATA[여기에 놓기]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 480px;left: 230px;z-index: 10;"><![CDATA[제출]]></text>
+		<text style="position:absolute;top: 480px;left: 230px;z-index: 10;"><![CDATA[다시 시도]]></text>	
+		<text style="position:absolute;top: 480px;left: 200px;z-index: 10; width: 125px;"><![CDATA[정답 표시]]></text>	
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct style="top: 146px;height: 145px;"> 
+			<text style="font-size:17px;"><![CDATA[정답입니다.]]></text>
+			<text><![CDATA[무엇이 수출이고 무엇은 아닌지 확실히 구분되지 않으면 무역 규정 준수 전문가에게 문의하십시오.]]></text>
+			
+		</correct>
+		<incorrect style="top: 146px;height: 145px;"> 
+			<text style="font-size:17px;"><![CDATA[죄송합니다. 정답이 아닙니다.]]></text>
+			<text><![CDATA[무엇이 수출이고 무엇은 아닌지 확실히 구분되지 않으면 무역 규정 준수 전문가에게 문의하십시오.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

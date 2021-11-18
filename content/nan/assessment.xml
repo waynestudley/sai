@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessment isAnsShow="false">
+    <instructionText>
+        <text><![CDATA[按「下一步」繼續。]]></text>
+    </instructionText>
+	<contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/preAssessment/preassessment.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+    <buttonText>
+        <text><![CDATA[提交]]></text>
+    </buttonText>
+    <qIcon><![CDATA[問題]]></qIcon>
+    <qNumber><![CDATA[第 # 題，共 # 題]]></qNumber>
+    <module id="1" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[受僱於 Johnson Controls 以外的公司一定會違反公司政策？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[是]]></option>
+                <option><![CDATA[否]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 擁有副業並不一定違反公司政策。 只有在副業與 Johnson Controls 的商業利益發生衝突時才會違反公司政策。  您必須確保任何其他工作都不會造成利益衝突。 任何在外兼職必須使用利益衝突表呈報。 您還必須通知您的經裡或主管這個狀況。]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 擁有副業並不一定違反公司政策。 只有在副業與 Johnson Controls 的商業利益發生衝突時才會違反公司政策。  您必須確保任何其他工作都不會造成利益衝突。 任何在外兼職必須使用利益衝突表呈報。 您還必須通知您的經裡或主管這個狀況。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[一位前同事離開 Johnson Controls 開了公司。 現在，她連絡您想要當承包商。 您能雇用她的公司嗎？ ]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[可以，她擁有寶貴的經驗]]></option>
+                <option><![CDATA[可能可以，但她需要遵守標準的遴選流程，而且您需要退出任何涉及她的聘僱決策]]></option>
+                <option><![CDATA[不可以，絕不接受以任何身分雇用前 Johnson Controls 員工]]></option>
+            </options>
+            <feedback>
+                <correct style="">
+					<text><![CDATA[<b>正確。</b> Johnson Controls 員工可以鼓勵朋友或家人成為供應商，但必須遵守恰當的遴選流程。 若他們投標成功，您必須使用利益衝突表揭露你們的關係，並確定您不會涉及會影響支付給該供應商的費用或賦予其工作的任何決策。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> Johnson Controls 員工可以鼓勵朋友或家人成為供應商，但必須遵守恰當的遴選流程。 若他們投標成功，您必須使用利益衝突表揭露你們的關係，並確定您不會涉及會影響支付給該供應商的費用或賦予其工作的任何決策。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[能否向 Johnson Controls 推薦聘僱自己的家人？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[可以，只要您不涉及雇用流程。]]></option>
+                <option><![CDATA[不可以，您絕對不可推薦家人給 Johnson Controls。]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 您可以推薦公司聘僱自己的家人，但必須請家人透過適當的招聘管道應徵，且您不得實質性參與招聘過程。 此外，您和家人的職務不得具有上下屬關係。 若公司聘僱您的親戚，您必須填寫一份「利益衝突表」。]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 您可以推薦公司聘僱自己的家人，但必須請家人透過適當的招聘管道應徵，且您不得實質性參與招聘過程。 此外，您和家人的職務不得具有上下屬關係。 若公司聘僱您的親戚，您必須填寫一份「利益衝突表」。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 政策是否允許員工為自己所支持的慈善團體募款？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[是]]></option>
+                <option><![CDATA[否]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> Johnson Controls 禁止在公司為個人支持的慈善團體募捐。 此類行為會形成一種壓力，讓他人感覺被迫進行捐贈，因此我們要避免這種情況。 ]]></text>
+				</correct>				
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> Johnson Controls 禁止在公司為個人支持的慈善團體募捐。 此類行為會形成一種壓力，讓他人感覺被迫進行捐贈，因此我們要避免這種情況。 ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[您有個朋友想要和 Johnson Controls 做生意。 您應該怎麼做？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[朋友的產品非常好，所以要立刻採用他們的服務 ]]></option>
+                <option><![CDATA[告訴您的朋友這種行為違反 Johnson Controls 的利益衝突政策，所以不可行]]></option>
+                <option><![CDATA[鼓勵您的朋友參與正式的供應商核准流程，成為 Johnson Controls 優先合作的供應商]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> Johnson Controls 員工可以鼓勵朋友或家人成為供應商，但必須遵守恰當的遴選流程。 若您的朋友或家人是供應商，應鼓勵對方參與正式的 Johnson Controls 供應商核准流程。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> Johnson Controls 員工可以鼓勵朋友或家人成為供應商，但必須遵守恰當的遴選流程。 若您的朋友或家人是供應商，應鼓勵對方參與正式的 Johnson Controls 供應商核准流程。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[您剛剛得知自己的妹妹在 Johnson Controls 競爭對手公司擔任高級職務。 您應該怎麼做？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[和對方聯絡並打探與競爭對手有關的資訊，這樣或許對 Johnson Controls 有益]]></option>
+                <option><![CDATA[填寫「利益衝突表」，向 Johnson Controls 告知可能的利益衝突]]></option>
+                <option><![CDATA[什麼都不用做，家人在何處工作並不重要]]></option>	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 避免可能發生或實際存在的利益衝突非常重要。 即使是瓜田李下之嫌，也要盡力避免。 在這種情況下，一定要向公司報告您有近親在競爭對手公司擔任高級職務，這一點非常重要。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 避免可能發生或實際存在的利益衝突非常重要。 即使是瓜田李下之嫌，也要盡力避免。 在這種情況下，一定要向公司報告您有近親在競爭對手公司擔任高級職務，這一點非常重要。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[您與某供應商合作多年，也和對方成為朋友。 該供應商已經是通過核准的第三方供應商， 其要求您在 Johnson Controls 內部另一個業務單位的某員工面前替他美言幾句。 您應該怎麼做？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0,0,0">
+               <option><![CDATA[告訴對方您很樂意提供推薦函，但說清楚您並不能針對外包決策提供建議]]></option>				
+                <option><![CDATA[告訴對方您會送出推薦函，但其實根本不打算真的去做]]></option>				
+                <option><![CDATA[寄一封推薦電子郵件給該名員工，建議對方應立即與該供應商合作]]></option>
+				<option><![CDATA[以上皆非]]></option>               	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 即便您已經與供應商成為朋友，行為舉止仍然必須優先考慮 Johnson Controls 的最佳利益。 您可以提供推薦信，但不應該直接試圖影響 Johnson Controls 內部其他業務單位的外包決策。 ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 即便您已經與供應商成為朋友，行為舉止仍然必須優先考慮 Johnson Controls 的最佳利益。 您可以提供推薦信，但不應該直接試圖影響 Johnson Controls 內部其他業務單位的外包決策。 ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[您最近花錢投資了不少公司，但不久前才知道其中幾間公司是 Johnson Controls 的競爭對手。 Johnson Controls 政策是否允許這樣的行為？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,0,1">                			
+                <option><![CDATA[不允許，您絕對不可以投資 Johnson Controls 的競爭對手]]></option>				
+                <option><![CDATA[除非您持有該競爭對手的所有權，才可以]]></option>				
+                <option><![CDATA[允許，投資 Johnson Controls 競爭對手沒有任何問題]]></option>				
+                <option><![CDATA[只要您的投資比例不足以持有該公司 1% 或以上的所有權，就不違反規則]]></option>		
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 只要您不會因為投資某競爭對手公司而持有其 1% 或以上的所有權，則完全允許。 如有任何疑問，請坦誠相告，並提交 <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com </a> 上的「利益衝突表」，以便我們針對相關情況進行核查。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 只要您不會因為投資某競爭對手公司而持有其 1% 或以上的所有權，則完全允許。 如有任何疑問，請坦誠相告，並提交 <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com </a> 上的「利益衝突表」，以便我們針對相關情況進行核查。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[您的鄰居經營豪華禮車生意。 她是個可靠的人，開價比 Johnson Controls 優先採用的提供商還要低。 您經常需要出差，選擇她所提供的服務可以幫 Johnson Controls 省錢。 您可以採用鄰居的服務嗎？ ]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,0,1">                		
+                <option><![CDATA[可以，她的價格比較低，Johnson Controls 又要求所有員工降低成本]]></option>				
+                <option><![CDATA[可以，她是您的朋友，選擇她的公司不但可以幫公司省錢，又能幫上她的忙]]></option>				
+                <option><![CDATA[不可以，她給您的折扣不夠優惠]]></option>				
+                <option><![CDATA[可以，但她必須先成為公司核准的供應商]]></option>	
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 若鄰居的公司透過恰當的 Johnson Controls 流程成為優先採用的供應商，您就可以使用她提供的服務。]]></text>
+					<text><![CDATA[若鄰居成為優先採用的供應商，則請務必注意，您個人外出旅行時不能接受折扣，否則即構成利益衝突。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 若鄰居的公司透過恰當的 Johnson Controls 流程成為優先採用的供應商，您就可以使用她提供的服務。]]></text>
+					<text><![CDATA[若鄰居成為優先採用的供應商，則請務必注意，您個人外出旅行時不能接受折扣，否則即構成利益衝突。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	
+	<module id="2" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[節假日期間，您和所屬團隊想贈送禮品給供應商。 何種禮物比較適當？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[最新型的筆記型電腦]]></option>
+                <option><![CDATA[價格適中的相框]]></option>
+                <option><![CDATA[一張 American Express 禮品卡]]></option>
+                <option><![CDATA[豪華水療中心的週末住宿]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 此處所示的一些選項過於昂貴，不適合送給供應商。 公司明確禁止收贈現金或禮品卡之類與現金等值的禮品。 這種情況下可以贈送價格合理的相框。 請務必注意，絕對不可贈送任可能構成賄賂之嫌的有價物品。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 此處所示的一些選項過於昂貴，不適合送給供應商。 公司明確禁止收贈現金或禮品卡之類與現金等值的禮品。 這種情況下可以贈送價格合理的相框。 請務必注意，絕對不可贈送任可能構成賄賂之嫌的有價物品。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[某供應商贈送給您一個禮品。 收到下列哪一項禮品時，應使用 Johnson Controls「禮品呈報表」提出呈報。]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,0,1">
+                <option><![CDATA[一台新的 Apple iPad]]></option>
+                <option><![CDATA[一個小盆栽]]></option>
+                <option><![CDATA[兩張國際體育賽事的前排座位入場券]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> iPad 和入場券的價值都高於 200 美元。 凡禮品價值高於第三方差旅、禮品和招待政策中規定的金額限制，就必須呈報。 盆栽價格合理，送禮目的也不是要對您造成影響，因此您可以放心收下。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> iPad 和入場券的價值都高於 200 美元。 凡禮品價值高於第三方差旅、禮品和招待政策中規定的金額限制，就必須呈報。 盆栽價格合理，送禮目的也不是要對您造成影響，因此您可以放心收下。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> iPad 和入場券的價值都高於 200 美元。 凡禮品價值高於第三方差旅、禮品和招待政策中規定的金額限制，就必須呈報。 盆栽價格合理，送禮目的也不是要對您造成影響，因此您可以放心收下。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[您的辦公室為客戶提供商業招待，但您認為對方可能屬於「政府機構」。 您應該怎麼做？ ]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0,0,0">
+                <option><![CDATA[請致電向區域合規律師或法務部門的任何人員洽詢，他們可以提供幫助 ]]></option>
+                <option><![CDATA[沒問題，客戶的身分不重要 ]]></option>
+                <option><![CDATA[試著瞭解該客戶是否屬於政府機構，如果是，您可以帶對方到比較高級的場所]]></option>
+                <option><![CDATA[為穩妥起見，可假設對方屬於政府機構並填寫反貪腐表]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 對待政府機構客戶的方式有別於對待一般商業客戶的方式，尤其是在禮品和招待這方面。]]></text>
+					<text><![CDATA[若不確定對方是否屬於政府機構，請致電向區域合規律師或法務部門的任何人員洽詢，尋求協助。 他們可以告訴您可做和不可做的行為。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 對待政府機構客戶的方式有別於對待一般商業客戶的方式，尤其是在禮品和招待這方面。]]></text>
+					<text><![CDATA[若不確定對方是否屬於政府機構，請致電向區域合規律師或法務部門的任何人員洽詢，尋求協助。 他們可以告訴您可做和不可做的行為。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[您剛剛成交了一筆大案子，作為慶祝，客戶想邀請您和您的配偶去劇院看一場演出。  您認為票價低於 200 美元。 您需要到 <a href="http://complianceforms.jci.com" target="_blank" class="aLinkColor">http://complianceforms.jci.com</a> 呈報此事嗎？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[不需要，這發生在下班時間，而且您的另一半也會去，這就與工作無關]]></option>
+                <option><![CDATA[需要，但您只需要照招待價值的一半呈報就可以，因為您的配偶並不是 Johnson Controls 的員工]]></option>
+                <option><![CDATA[不需要，因為客戶會和您一起去劇院，所以不算是商業招待]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 劇院門票的價值看似應該屬於合理的商業招待。 如有任何疑慮，或有任何理由認為這可能會構成賄賂嫌疑，您應該和主管討論此招待，並確保其同意您的決定。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 劇院門票的價值看似應該屬於合理的商業招待。 如有任何疑慮，或有任何理由認為這可能會構成賄賂嫌疑，您應該和主管討論此招待，並確保其同意您的決定。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[某候選供應商與您接洽，同時向您表示如果能夠給其額外工作，就願意致贈現金給您。 您瞭解這屬於賄賂行為，您以尊重的態度正確地拒絕了對方的提議。 您是否已經完成所有所需的步驟？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[是，您並沒有收下現金禮品 ]]></option>
+                <option><![CDATA[否，您也必須向公司的相關資源呈報對方的提議]]></option>
+                <option><![CDATA[否，您應該收下禮品，否則就是對該供應商不敬]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 若供應商或任何與 Johnson Controls 有業務往來的第三方試圖致贈禮品或現金給您，而您相信對方這麼做是為了影響您的決定，您應該拒收該禮品並向法務部門或區域合規律師呈報此事，他們會指導您填寫一份表格。 我們可能不會與這樣的供應商合作。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 若供應商或任何與 Johnson Controls 有業務往來的第三方試圖致贈禮品或現金給您，而您相信對方這麼做是為了影響您的決定，您應該拒收該禮品並向法務部門或區域合規律師呈報此事，他們會指導您填寫一份表格。 我們可能不會與這樣的供應商合作。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[有人請您所屬業務單位贊助會議的抽獎獎品。 會議出席者將包括供應商及其他同業公司。 各獎項的價值均不超過 200 美元。 是否必須呈報此禮品贊助行為？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[只有抽獎中會送出 Johnson Controls 的產品時才需要呈報]]></option>
+                <option><![CDATA[不需要，這是業務支出，並不直接贈與任何人，而是出席者憑運氣獲得]]></option>
+                <option><![CDATA[需要，得到禮品的有可能會是政府官員]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> Johnson Controls 透過這種方式贊助獎項完全合情合理。 無論出席者是公司員工或公職人員，我們公司均無意直接贈與任何物品給任何特定對象，也無意影響任何人的決定。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> Johnson Controls 透過這種方式贊助獎項完全合情合理。 無論出席者是公司員工或公職人員，我們公司均無意直接贈與任何物品給任何特定對象，也無意影響任何人的決定。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[某位非常重要的老客戶送您一份昂貴的電子禮品。 該客戶非常賞識 Johnson Controls 長期以來的傑出表現，並特別感謝您為其提供的服務。 您知道禮品的價值遠高於 200 美元的禮品呈報上限，甚至可能屬於奢華等級。 面對這種情況，下列哪一種因應方式比較恰當？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,1,1">
+                <option><![CDATA[呈報禮品後將其退回，並有禮貌地說明您很感激對方所贈送的禮品，但禮品價值遠高於 Johnson Controls 政策所能接受的範圍]]></option>
+                <option><![CDATA[心存感激地收下禮品，呈報後與經理討論您將禮品留下是否符合規則]]></option>
+                <option><![CDATA[心存感激地收下禮品，呈報後將禮品捐給 Johnson Controls 贊助的慈善團體]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 以上所有方式都可以。 有時候您會因為當地風俗民情或為顧及商業關係等緣故，而不想對客戶不敬。 如果您覺得拒收禮品不是明智之舉，請心存感激地收下禮品，呈報後再與經理、人力資源部和/或合規團隊商討最好的處理方式。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 以上所有方式都可以。 有時候您會因為當地風俗民情或為顧及商業關係等緣故，而不想對客戶不敬。 如果您覺得拒收禮品不是明智之舉，請心存感激地收下禮品，呈報後再與經理、人力資源部和/或合規團隊商討最好的處理方式。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 以上所有方式都可以。 有時候您會因為當地風俗民情或為顧及商業關係等緣故，而不想對客戶不敬。 如果您覺得拒收禮品不是明智之舉，請心存感激地收下禮品，呈報後再與經理、人力資源部和/或合規團隊商討最好的處理方式。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[您和您的 Johnson Controls 團隊想要歡度佳節，計劃一起吃午餐，由所有人分攤餐費，不需 Johnson Controls 買單。 大家還會交換禮物。 這種情況也要遵守 200 美元的禮品呈報上限規則嗎？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[是，既然這條規定適用於我們代表公司贈與及收受的禮品，我們自己當然也要遵守同樣的標準]]></option>
+                <option><![CDATA[否]]></option>
+                <option><![CDATA[是，但價值高於 200 美元才需要]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 不需要呈報員工彼此之間互贈的禮品，但一定要顧及品味，而且不能試圖以任何方式影響其他員工。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 不需要呈報員工彼此之間互贈的禮品，但一定要顧及品味，而且不能試圖以任何方式影響其他員工。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	<module id="3" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[必須要發生現金交換，才會被視為賄賂。]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 若贈送某人任何有價之物以不當影響其決策或行為，即屬於賄賂。 ]]></text>
+					<text><![CDATA[賄賂可能涉及現金，但也包括像是股票、禮品、招待、未經授權的折扣或佣金、慈善捐款或提供給親朋好友的工作等。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 若贈送某人任何有價之物以不當影響其決策或行為，即屬於賄賂。 ]]></text>
+					<text><![CDATA[賄賂可能涉及現金，但也包括像是股票、禮品、招待、未經授權的折扣或佣金、慈善捐款或提供給親朋好友的工作等。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[雷金納德是 Johnson Controls 員工，也是個英國公民，當他到宏都拉斯的政府辦事處申請延長工作簽證效期時，辦事員告訴他申請核准流程最長需要三週的時間。 這樣的時程讓雷金納德面臨可能無法完成長期專案的風險，他需要立刻延展效期。 辦事員對雷金納德說，「只要付筆費用」，他保證能在一個小時內辦好雷金納德的申請。 雷金納德應該付給這名辦事員 20 美元現金嗎？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[是的，因為只不過是筆小錢就確保他能完成長期專案。]]></option>
+                <option><![CDATA[是的，因為他可以付這筆錢。]]></option>
+                <option><![CDATA[不可以，因為這是「疏通費」，違反法律及 Johnson Controls 的政策。]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 如果雷金納德付錢給政府辦事員來延展他的工作簽證效期，就是付了疏通費。 這是 Johnson Controls 政策所不允許的，<b>而且這在許多司法管轄區內都是違反反賄賂法的行為</b>。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 如果雷金納德付錢給政府辦事員來延展他的工作簽證效期，就是付了疏通費。 這是 Johnson Controls 政策所不允許的，<b>而且這在許多司法管轄區內都是違反反賄賂法的行為</b>。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[史黛芬妮是 Johnson Controls 的員工，某日收到承包商送來裝有 500 美元的信封，該承包商所承接的專案正是由史黛芬妮負責管理。 信封裡附上了一張紙條，向史黛芬妮表明其希望日後能有機會承接更多專案。 史黛芬妮應該怎麼做？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[拒絕收禮，將錢退回後向主管及 Johnson Controls 的法務部門呈報承包商送錢一事]]></option>
+                <option><![CDATA[收下這筆錢，並且在 Johnson Controls 的「禮品呈報表」中詳實記錄這是承包商致贈的「禮品」 ]]></option>
+                <option><![CDATA[收下這筆錢之後什麼也不做，因為她相信自己以後的決定並不會因此受到影響，因此這不算賄賂]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 信封裡的錢是試圖要賄賂史黛芬妮。  在許多司法管轄區內，收受這筆錢是不道德且違法的。 史黛芬妮應該告訴主管及 Johnson Controls 法務部門有關承包商試圖賄賂一事。 經理和法務部門會接手採取行動。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 信封裡的錢是試圖要賄賂史黛芬妮。  在許多司法管轄區內，收受這筆錢是不道德且違法的。 史黛芬妮應該告訴主管及 Johnson Controls 法務部門有關承包商試圖賄賂一事。 經理和法務部門會接手採取行動。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[馬克是 Johnson Controls 的員工，某日在英國倫敦收到承包商送來裝有 500 美元的信封，該承包商所承接的專案正是由馬克負責管理。 信封裡附上了一張紙條，表明該名承包商希望日後能有機會承接更多專案。 若馬克收下承包商所給的錢，可依英國《反賄賂法》向他及該名承包商追究刑責。]]></text>
+				<text><![CDATA[此陳述是對或錯？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 若在英國境內或任何與英國有「密切關聯」的地方賄賂屬實，英國《反賄賂法》規定可向馬克及廠商追究刑責。 英國《反賄賂法》將商業賄賂 (私人事業體與個人之間的賄賂行為) 定為犯法行為，而 FCPA 則只將與非美國政府官員相關的金錢賄賂定為犯罪行為。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 若在英國境內或任何與英國有「密切關聯」的地方賄賂屬實，英國《反賄賂法》規定可向馬克及廠商追究刑責。 英國《反賄賂法》將商業賄賂 (私人事業體與個人之間的賄賂行為) 定為犯法行為，而 FCPA 則只將與非美國政府官員相關的金錢賄賂定為犯罪行為。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[某義大利政府官員告知 Johnson Controls 美國員工賈斯汀，表示他保證可以讓 Johnson Controls 在義大利順利簽下一份大型的政府合約。 作為回報，他要求 Johnson Controls 捐款 5000 美元給他支持的慈善團體「Make a Better Choice Foundation」。 賈斯汀說服 Johnson Controls 捐款，6 個月後，Johnson Controls 就如同承諾和義大利政府簽了一份有利可圖的合約。]]></text>
+				<text><![CDATA[以下哪些陳述是正確的？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[賈斯汀沒有讓 Johnson Controls 構成違法賄賂，因為義大利政府官員並沒有收到任何金錢。]]></option>
+                <option><![CDATA[即使義大利政府官員並沒有收到任何金錢，賈斯汀還是讓 Johnson Controls 構成違法賄賂，因為賄賂是指提供任何有價之物影響決策者的決定。]]></option>
+                <option><![CDATA[賈斯汀讓 Johnson Controls 構成違法賄賂義大利政府官員，並且可能在許多司法管轄區因他的行為而面臨牢獄之災。]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 賄賂是指給予或承諾有價之物，試圖影響某位身處受信任地位人士的獨立判斷或行為。 賄賂是違法行為，Johnson Controls 嚴格禁止此行為。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 賄賂是指給予或承諾有價之物，試圖影響某位身處受信任地位人士的獨立判斷或行為。 賄賂是違法行為，Johnson Controls 嚴格禁止此行為。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 賄賂是指給予或承諾有價之物，試圖影響某位身處受信任地位人士的獨立判斷或行為。 賄賂是違法行為，Johnson Controls 嚴格禁止此行為。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[以反賄賂法為根據的起訴案，絕大多數涉及行賄者和收賄者之間的第三方中間人，例如代理商、經銷商以及慈善組織。]]></text>
+				<text><![CDATA[此陳述是對或錯？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0">
+                 <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 大多數賄賂起訴案件都與第三方中間人相關，例如代理商、經銷商以及慈善組織。 因此，我們必須在 3P 計劃中確實登記並妥善管理所有在此範圍內的第三方。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 大多數賄賂起訴案件都與第三方中間人相關，例如代理商、經銷商以及慈善組織。 因此，我們必須在 3P 計劃中確實登記並妥善管理所有在此範圍內的第三方。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 員工羅伯特和 Middleman Ltd. 員工愛立克斯開始洽談由 Middleman 擔任 Johnson Controls 代理商一事。 愛立克斯告訴羅伯特自己「和政府官員的關係很好」，同時也表明，Middleman 每次為 Johnson Controls 談成一筆政府合約要收 30% 的佣金，其中部分用途就是要「讓負責人滿意」。]]></text>
+				<text><![CDATA[羅伯特需要擔心這件事嗎？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[不需要，他的主要目的是盡可能為 Johnson Controls 爭取最大利潤，妥善運用 Middleman 的政府人脈是個很好的商機]]></option>
+                <option><![CDATA[可能需要，Johnson Controls 不支付高於行情的佣金，Middleman 索要的 30% 過高]]></option>
+                <option><![CDATA[需要，Middleman 的行為表現出明顯的貪腐風險]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 羅伯特應該要小心。 這個情況所蘊藏的警訊包括：<ul><li>愛立克斯說自己和政府關係非常密切。</li><li>談成政府合約所收的佣金太高。</li></ul>]]></text>
+					<text><![CDATA[羅伯特應該察覺到以上兩點都是明顯的警訊，表示 Middleman 可能會透過賄賂政府官員的手段替 Johnson Controls 談成合約。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 羅伯特應該要小心。 這個情況所蘊藏的警訊包括：<ul><li>愛立克斯說自己和政府關係非常密切。</li><li>談成政府合約所收的佣金太高。</li></ul>]]></text>
+					<text><![CDATA[羅伯特應該察覺到以上兩點都是明顯的警訊，表示 Middleman 可能會透過賄賂政府官員的手段替 Johnson Controls 談成合約。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 員工泰德開始與 ABC Ltd. 員工約翰洽談由 ABC 擔任 Johnson Controls 代理商一事。 約翰解釋自己花了好幾年的時間和政府官員培養密切的商業關係，所以他要求每次為 Johnson Controls 談成一件政府合約，要收取 30% 的佣金。 若約翰以 ABC 所收的部分佣金向政府官員行賄，則可依反貪腐法對泰德、約翰、Johnson Controls 和 ABC 罰款和/或判刑。]]></text>
+				<text><![CDATA[此陳述是對或錯？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 在這種情況下，涉及賄賂行為的公司和個人都要承擔刑責。 ]]></text>
+					<text><![CDATA[事實上，包括美國《海外反貪腐法》(FCPA) 和英國《反賄賂法》在內的多數反賄賂法都適用於企業及個人。 依反賄賂法遭起訴的公司和個人可能會面臨巨額罰款，甚至會因此入獄。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 在這種情況下，涉及賄賂行為的公司和個人都要承擔刑責。 ]]></text>
+					<text><![CDATA[事實上，包括美國《海外反貪腐法》(FCPA) 和英國《反賄賂法》在內的多數反賄賂法都適用於企業及個人。 依反賄賂法遭起訴的公司和個人可能會面臨巨額罰款，甚至會因此入獄。]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+    </module>
+	<module id="4" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[您需要傳送一份包含機密資訊的 Excel 檔案給另一個地區的同事。 為了在傳送過程中妥善保護資訊，下列哪種方式最好？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[傳送檔案之前，先以密碼保護。 在同一封電子郵件中註明密碼，以方便同事開啟檔案]]></option>
+                <option><![CDATA[傳送檔案之前以密碼保護，再寄一封電子郵件告知密碼，主旨行註明「PASSWORD」(密碼)，以方便同事尋找]]></option>
+                <option><![CDATA[傳送檔案之前以密碼保護，然後打電話給同事告知密碼，以方便對方開啟檔案]]></option>
+				
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 保護機密或敏感資料非常重要。 使用密碼保護內容是很好的方式。 不過，審慎處理告知密碼的方式也同樣重要。 無論是在同一封電子郵件中註明密碼，還是另以一封標題註明「PASSWORD」的電子郵件分開傳送，都不是安全的做法。 最安全的方式就是透過電話口頭告知或利用簡訊傳送密碼。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 保護機密或敏感資料非常重要。 使用密碼保護內容是很好的方式。 不過，審慎處理告知密碼的方式也同樣重要。 無論是在同一封電子郵件中註明密碼，還是另以一封標題註明「PASSWORD」的電子郵件分開傳送，都不是安全的做法。 最安全的方式就是透過電話口頭告知或利用簡訊傳送密碼。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[柯林需要傳送一份包含機密資訊的 Excel 檔案給另一個區域的同事。 他決定利用加密並加上密碼的方式保護檔案內容。 柯林使用下列哪一個密碼最好？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,0,1">
+                <option><![CDATA[Colin123]]></option>
+                <option><![CDATA[123colin]]></option>
+                <option><![CDATA[C1o2l3in]]></option>
+                <option><![CDATA[!C1o2l3in]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 混用符號、大小寫字母以及數字的密碼是最安全的密碼 (也就是他人最難猜到的密碼)。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 混用符號、大小寫字母以及數字的密碼是最安全的密碼 (也就是他人最難猜到的密碼)。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[安德莉亞正忙著處理內含客戶個人資料的書面文件，她看了一下鐘，發現討論不同主題的會議已經開始了，她遲到了。 她該如何處理那份文件？]]></text>
+			</questionText>
+             <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[把文件留在她的辦公桌上 ]]></option>
+                <option><![CDATA[把文件鎖在檔案櫃裡]]></option>
+                <option><![CDATA[把文件放進她上鎖的辦公桌抽屜]]></option>
+			</options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 安德莉亞應該隨時謹慎保護客戶的個人資料。 離開座位去開會時，存放文件最安全的方法就是把文件鎖到檔案櫃裡，或放到她上鎖的辦公桌抽屜裡。 ]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 安德莉亞應該隨時謹慎保護客戶的個人資料。 離開座位去開會時，存放文件最安全的方法就是把文件鎖到檔案櫃裡，或放到她上鎖的辦公桌抽屜裡。 ]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 安德莉亞應該隨時謹慎保護客戶的個人資料。 離開座位去開會時，存放文件最安全的方法就是把文件鎖到檔案櫃裡，或放到她上鎖的辦公桌抽屜裡。 ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[瑪塔在人力資源部門工作，她可以取得當地所有員工的個人詳細資料。 莎蔓珊想要辦一個生日同樂會，讓員工一起吃午餐，為彼此慶祝生日。 她要求瑪塔給她一份員工生日清單。 瑪塔該怎麼做？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[給莎曼珊一份生日清單，生日同樂會可以激勵員工士氣]]></option>
+                <option><![CDATA[拒絕提供莎曼珊生日清單]]></option>
+                <option><![CDATA[建議莎曼珊邀請員工登記參加生日同樂會，由員工自己提供生日資訊 ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 瑪塔不應提供莎曼珊員工生日清單。 只能由經授權的員工和承包商基於合法工作需要存取使用個人資料。 雖然莎曼珊的生日同樂會立意良善，但並非工作相關需求，而且她也沒獲得存取該資訊的授權。]]></text>
+					<text><![CDATA[瑪塔可以建議莎曼珊邀請員工登記參加生日同樂會，請員工自己把生日資訊提供給莎曼珊。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 瑪塔不應提供莎曼珊員工生日清單。 只能由經授權的員工和承包商基於合法工作需要存取使用個人資料。 雖然莎曼珊的生日同樂會立意良善，但並非工作相關需求，而且她也沒獲得存取該資訊的授權。]]></text>
+					<text><![CDATA[瑪塔可以建議莎曼珊邀請員工登記參加生日同樂會，請員工自己把生日資訊提供給莎曼珊。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 瑪塔不應提供莎曼珊員工生日清單。 只能由經授權的員工和承包商基於合法工作需要存取使用個人資料。 雖然莎曼珊的生日同樂會立意良善，但並非工作相關需求，而且她也沒獲得存取該資訊的授權。]]></text>
+					<text><![CDATA[瑪塔可以建議莎曼珊邀請員工登記參加生日同樂會，請員工自己把生日資訊提供給莎曼珊。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[埃斯特班在應收帳款部門工作，他的部門經理要求他提出各區域逾期總金額摘要報告列表。 埃斯特班手上已經有一份列出各區域所有客戶逾期帳款的報告，報告裡也附帶客戶名稱、帳單地址和電話號碼。 埃斯特班應該把這份報告寄給他的經理嗎？ ]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[是，因為這份報告可以快速提供經理可能需要的一切資訊]]></option>
+                <option><![CDATA[否，因為經理只要求總金額 ]]></option>
+                <option><![CDATA[是，因為經理不會希望埃斯特班在已經現有一份包含所需資訊的報告時，浪費時間做一份新報告]]></option>				
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 埃斯特班只應提供經理要求的總金額資訊。 員工可以透過限制分享的資訊及分享對象來幫助保護客戶的個人資料。 寄出內含客戶聯絡名稱、地址和電話號碼這些非必要資訊的報告，會使他們的個人資訊曝露在風險之中。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 埃斯特班只應提供經理要求的總金額資訊。 員工可以透過限制分享的資訊及分享對象來幫助保護客戶的個人資料。 寄出內含客戶聯絡名稱、地址和電話號碼這些非必要資訊的報告，會使他們的個人資訊曝露在風險之中。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 可無限期保有<i><b>客戶</b></i>相關資訊。]]></text>
+				<text><![CDATA[此陳述是對或錯？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+             <options answer="0,1">
+                 <option><![CDATA[正確，我們可以任意決定保有客戶資料的時間。]]></option>
+                <option><![CDATA[錯誤，我們只應該保留資料到當初收集資料的目的所需的時間為止，且必須是正確且最新的。]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 個人資料一旦不再具有必要性，即不得加以保留。 一旦收集資料的目的不再為 Johnson Controls 所需，依 Johnson Controls 檔案保管期限表所述，Johnson Controls 有義務將客戶資料刪除。 不正確的資料必須更正，且客戶有權根據當地法律要求刪除個人資料。 ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 個人資料一旦不再具有必要性，即不得加以保留。 一旦收集資料的目的不再為 Johnson Controls 所需，依 Johnson Controls 檔案保管期限表所述，Johnson Controls 有義務將客戶資料刪除。 不正確的資料必須更正，且客戶有權根據當地法律要求刪除個人資料。 ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 可無限期保有<i><b>員工</b></i>相關資訊。]]></text>
+				<text><![CDATA[此陳述是對或錯？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[正確，我們可以任意決定保有員工資料的時間。]]></option>
+                <option><![CDATA[錯誤，我們只應該保留資料到必要時間，且必須是正確且最新的。]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 與員工相關的個人資料一旦不再具有必要性，依 Johnson Controls 檔案保管期限表所述，即不得加以保留。 只要法律要求保留，就可以保留員工資料。 此外，不正確的資料必須更正。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 與員工相關的個人資料一旦不再具有必要性，依 Johnson Controls 檔案保管期限表所述，即不得加以保留。 只要法律要求保留，就可以保留員工資料。 此外，不正確的資料必須更正。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[如需收集個人資料，採用下列哪一種方式最好？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[收集越多個人資料越好，以便「有備無患」]]></option>
+                <option><![CDATA[絕對不收集任何個人資料]]></option>
+                <option><![CDATA[只收集符合必要用途所需的資料]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 收集個人資訊或與個人相關的資料時，應該<b>限制</b>在只收集符合必要用途所需的資料。 所掌握的個人資訊不可多於所需的程度。 ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 收集個人資訊或與個人相關的資料時，應該<b>限制</b>在只收集符合必要用途所需的資料。 所掌握的個人資訊不可多於所需的程度。 ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 旗下任一事業體收集到與客戶相關的資訊後，可以與全球任何其他 Johnson Controls 事業體共用。]]></text>
+				<text><![CDATA[此陳述是對或錯？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1">
+                 <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 除非具有法律免責權，否則，未經相關當事人授權，不應與任何他人共用所收集到的資料。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 除非具有法律免責權，否則，未經相關當事人授權，不應與任何他人共用所收集到的資料。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[一位<b><i>客戶</i></b>允許您分享他的個人資料。 您可以分享資料嗎？ ]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[可以，如果個人同意並且資料是依據給個人的通知，且遵循公司政策而進行分享]]></option>
+                <option><![CDATA[不可以，無論如何都不可以分享個人資料，即使他們同意]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 只要經相關當事人授權，即可分享針對對方所收集的任何資料，只要資料是依據給資料主體的通知，且遵循公司政策而進行分享。 ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 只要經相關當事人授權，即可分享針對對方所收集的任何資料，只要資料是依據給資料主體的通知，且遵循公司政策而進行分享。 ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+    </module>
+	 <module id="5" pick="3">
+        <question type="mcq">
+            <questionText>
+				<text><![CDATA[您當地的貿易經理主要負責確保您符合貿易管制。 ]]></text>
+				<text><![CDATA[正確或錯誤？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1">
+                 <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 在 Johnson Controls，每個人都有責任明瞭貿易如何衝擊其相關義務與責任。 每個人都有義務確保我們符合標準。 ]]></text>
+					<text><![CDATA[如果您不確定，請諮詢專家。 您可以諮詢：<ul> <li>您當地的貿易經理或協調專員；</li> <li>地區或全球貿易經理；</li> <li>業務部門貿易總監；或是</li> <li>公司貿易合規辦公室。</li> </ul>]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 在 Johnson Controls，每個人都有責任明瞭貿易如何衝擊其相關義務與責任。 每個人都有義務確保我們符合標準。 ]]></text>
+					<text><![CDATA[如果您不確定，請諮詢專家。 您可以諮詢：<ul> <li>您當地的貿易經理或協調專員；</li> <li>地區或全球貿易經理；</li> <li>業務部門貿易總監；或是</li> <li>公司貿易合規辦公室。</li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[當蜜拉從美國旅行到英國，然後去阿拉伯聯合大公國的杜拜的時候，她帶著公司發給的筆記型電腦。 ]]></text>
+				<text><![CDATA[她應該要特別擔心她的電腦嗎？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[要，出國旅行攜帶公司電腦可能需要出口許可]]></option>
+                <option><![CDATA[不用，只要她保護好電腦避免遭竊，並隨時隨身攜帶電腦，應該都沒問題]]></option>
+            </options>
+            <feedback>
+                <correct style="top:35px">
+					<text><![CDATA[<b>正確。</b> 公務出國旅行時手提公司發給的硬體，被認定是臨時出口，依其中儲存的資料而定可能需要出口許可。]]></text>
+					<text><![CDATA[當國際旅行時，您所攜帶的任何技術資料或技術可能會涉及出口問題。 以下任何一項都可能引發政府出口管制要求：<ul> <li>攜帶公司發給的電腦出國、</li><li>跨國攜帶或傳輸技術資料或技術，以及</li><li>在與外國人會面時傳輸技術資料。</li> </ul>]]></text>
+					<text><![CDATA[如果您將要出國旅行，請確定與您的經理或其他適當的公司資源討論您所需要採取有關電腦硬體的步驟。]]></text>
+				</correct>
+                <incorrect style="top:35px">
+					<text><![CDATA[<b>不正確。</b> 公務出國旅行時手提公司發給的硬體，被認定是臨時出口，依其中儲存的資料而定可能需要出口許可。]]></text>
+					<text><![CDATA[當國際旅行時，您所攜帶的任何技術資料或技術可能會涉及出口問題。 以下任何一項都可能引發政府出口管制要求：<ul> <li>攜帶公司發給的電腦出國、</li><li>跨國攜帶或傳輸技術資料或技術，以及</li><li>在與外國人會面時傳輸技術資料。</li> </ul>]]></text>
+					<text><![CDATA[如果您將要出國旅行，請確定與您的經理或其他適當的公司資源討論您所需要採取有關電腦硬體的步驟。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[關於出口，下面哪一種說法是正確的？]]></text>				
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,1,0,1,1">
+                <option><![CDATA[在海外進行服務，例如修理或安裝某些物品]]></option>
+                <option><![CDATA[把技術文件張貼到網路上]]></option>
+                <option><![CDATA[與另一個國家的人談話]]></option>
+                <option><![CDATA[攜帶電話前往其他國家/地區]]></option>
+                <option><![CDATA[送禮給外國人]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 有許多出現出口機會的情況必須謹慎因應，包括：<ul> <li>把物品寄往或攜往另一個國家；</li><li>把物品的登記證、控制權或所有權轉移給另一個國家的某個事業體；</li><li>把技術資訊以口頭或目視的方式揭露給另一個國家 (不論所在位置) 的某個人；以及</li><li>執行技術協助或服務。 </li> </ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 有許多出現出口機會的情況必須謹慎因應，包括：<ul> <li>把物品寄往或攜往另一個國家；</li><li>把物品的登記證、控制權或所有權轉移給另一個國家的某個事業體；</li><li>把技術資訊以口頭或目視的方式揭露給另一個國家 (不論所在位置) 的某個人；以及</li><li>執行技術協助或服務。 </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 有許多出現出口機會的情況必須謹慎因應，包括：<ul> <li>把物品寄往或攜往另一個國家；</li><li>把物品的登記證、控制權或所有權轉移給另一個國家的某個事業體；</li><li>把技術資訊以口頭或目視的方式揭露給另一個國家 (不論所在位置) 的某個人；以及</li><li>執行技術協助或服務。 </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mcq">
+            <questionText>
+				<text><![CDATA[所有出口都需要管制授權。  此陳述是對或錯？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+             <options answer="1,0">
+                 <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+				<correct>
+					<text><![CDATA[<b>正確。</b> 所有產品、技術、軟體和服務的出口都需要授權。 授權類型可能視物品及相關管控手段而有所不同，但是始終需要授權，而且必須加以宣告或用文件記錄。 ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 所有產品、技術、軟體和服務的出口都需要授權。 授權類型可能視物品及相關管控手段而有所不同，但是始終需要授權，而且必須加以宣告或用文件記錄。 ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[若您發現或得知可能的出口違規情事，您必須採取哪些行動？]]></text>
+			</questionText>
+             <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,0,1,0">
+                <option><![CDATA[試著阻止違規情事發生或繼續]]></option>
+                <option><![CDATA[調查]]></option>
+                <option><![CDATA[向貿易合規或法律團隊呈報]]></option>
+                <option><![CDATA[漠視不理，因為您不確定是不是有問題]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 任何 Johnson Controls 員工目擊涉及可能違反貿易要求的行為，應該採取合理且適當的行動阻止此行為，並應該立即呈報此訊息給貿易合規或法律團隊成員。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 任何 Johnson Controls 員工目擊涉及可能違反貿易要求的行為，應該採取合理且適當的行動阻止此行為，並應該立即呈報此訊息給貿易合規或法律團隊成員。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 任何 Johnson Controls 員工目擊涉及可能違反貿易要求的行為，應該採取合理且適當的行動阻止此行為，並應該立即呈報此訊息給貿易合規或法律團隊成員。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		 <question type="mrq">
+            <questionText>
+				<text><![CDATA[若客戶向您提出的要求可能構成未獲批准的聯合抵制行動，您該採取什麼行動？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,0,0,1">
+                <option><![CDATA[向貿易合規團隊的成員呈報]]></option>
+                <option><![CDATA[漠視要求]]></option>
+                <option><![CDATA[正面回應要求，我們必須不計代價滿足客戶 ]]></option>
+                <option><![CDATA[不採取任何行動，直到貿易合規團隊提供指導為止]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 38px;padding-bottom: 15px;">
+					<text><![CDATA[<b>正確。</b> 有些國家或國際組織會舉行聯合抵制，例如阿拉伯國家聯盟聯合抵制以色列，在這種情況下，他們可能會要求 Johnson Controls 參與或支持聯合抵制。]]></text>					
+					<text><![CDATA[這種要求可能隱晦不明。 例如，Johnson Controls 收到的買方合約中帶有下列措詞：]]></text>
+					<text><![CDATA[「賣方保證，所供應產品中，絕無任何依沙烏地阿拉伯王國法規抵制之國家所製造或出口之任何材料。」]]></text>
+					<text><![CDATA[如果您收到抵制的要求，請勿隨之採取行動並呈報給貿易合規團隊成員，他們會建議您如何處置。 貿易合規法律禁止我們支持某些聯合抵制要求。 我們也必須依規則向美國政府機關通報任何此類要求。]]></text>					
+				</correct>
+                <partialCorrect style="top: 38px;padding-bottom: 15px;">
+					<text><![CDATA[<b>部分正確。</b> 有些國家或國際組織會舉行聯合抵制，例如阿拉伯國家聯盟聯合抵制以色列，在這種情況下，他們可能會要求 Johnson Controls 參與或支持聯合抵制。]]></text>					
+					<text><![CDATA[這種要求可能隱晦不明。 例如，Johnson Controls 收到的買方合約中帶有下列措詞：]]></text>
+					<text><![CDATA[「賣方保證，所供應產品中，絕無任何依沙烏地阿拉伯王國法規抵制之國家所製造或出口之任何材料。」]]></text>
+					<text><![CDATA[如果您收到抵制的要求，請勿隨之採取行動並呈報給貿易合規團隊成員，他們會建議您如何處置。 貿易合規法律禁止我們支持某些聯合抵制要求。 我們也必須依規則向美國政府機關通報任何此類要求。]]></text>					
+				</partialCorrect>
+                <incorrect style="top: 38px;padding-bottom: 15px;">
+					<text><![CDATA[<b>不正確。</b> 有些國家或國際組織會舉行聯合抵制，例如阿拉伯國家聯盟聯合抵制以色列，在這種情況下，他們可能會要求 Johnson Controls 參與或支持聯合抵制。]]></text>					
+					<text><![CDATA[這種要求可能隱晦不明。 例如，Johnson Controls 收到的買方合約中帶有下列措詞：]]></text>
+					<text><![CDATA[「賣方保證，所供應產品中，絕無任何依沙烏地阿拉伯王國法規抵制之國家所製造或出口之任何材料。」]]></text>
+					<text><![CDATA[如果您收到抵制的要求，請勿隨之採取行動並呈報給貿易合規團隊成員，他們會建議您如何處置。 貿易合規法律禁止我們支持某些聯合抵制要求。 我們也必須依規則向美國政府機關通報任何此類要求。]]></text>	
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[下列哪些國家目前正遭受全面制裁？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,0,1,0,0">
+                <option><![CDATA[伊朗]]></option>
+                <option><![CDATA[中國]]></option>
+                <option><![CDATA[北韓]]></option>
+                <option><![CDATA[剛果]]></option>
+                <option><![CDATA[利比亞]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;">
+					<text><![CDATA[<b>正確。</b> 除法律法規外，許多國家/地區透過制裁與禁運手段加諸貿易限制。 制裁可能會由某國家單方面對另一個國家施行，或者也有可能是出自聯合國等政府間組織所做的國際決議。 禁運措施的範圍是整個國家，但制裁的對象可能是整個國家或事業體與個人，也就是常說的「禁止交易方」。  政府有權決定是否核發與制裁或禁運目標從事交易的授權 (例如，支持人道活動)。 這些制裁與禁運措施會限制：<ul> <li>Johnson Controls 可合法從事交易的對象；</li><li>Johnson Controls 可合法從事交易的商品；以及</li><li>Johnson Controls 可合法從事交易的地點。 </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Johnson Controls 在公司內部網站上公佈了一份禁運國家名單，並經常更新，以符合公司政策及法規。 ]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;">
+					<text><![CDATA[<b>部分正確。</b> 除法律法規外，許多國家/地區透過制裁與禁運手段加諸貿易限制。 制裁可能會由某國家單方面對另一個國家施行，或者也有可能是出自聯合國等政府間組織所做的國際決議。 禁運措施的範圍是整個國家，但制裁的對象可能是整個國家或事業體與個人，也就是常說的「禁止交易方」。  政府有權決定是否核發與制裁或禁運目標從事交易的授權 (例如，支持人道活動)。 這些制裁與禁運措施會限制：<ul> <li>Johnson Controls 可合法從事交易的對象；</li><li>Johnson Controls 可合法從事交易的商品；以及</li><li>Johnson Controls 可合法從事交易的地點。 </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Johnson Controls 在公司內部網站上公佈了一份禁運國家名單，並經常更新，以符合公司政策及法規。 ]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;">
+					<text><![CDATA[<b>不正確。</b> 除法律法規外，許多國家/地區透過制裁與禁運手段加諸貿易限制。 制裁可能會由某國家單方面對另一個國家施行，或者也有可能是出自聯合國等政府間組織所做的國際決議。 禁運措施的範圍是整個國家，但制裁的對象可能是整個國家或事業體與個人，也就是常說的「禁止交易方」。  政府有權決定是否核發與制裁或禁運目標從事交易的授權 (例如，支持人道活動)。 這些制裁與禁運措施會限制：<ul> <li>Johnson Controls 可合法從事交易的對象；</li><li>Johnson Controls 可合法從事交易的商品；以及</li><li>Johnson Controls 可合法從事交易的地點。 </li> </ul>]]></text>
+					<text style="margin-bottom:5px;"><![CDATA[Johnson Controls 在公司內部網站上公佈了一份禁運國家名單，並經常更新，以符合公司政策及法規。 ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[經濟貿易制裁對於 Johnson Controls 之類的公司有何影響？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,0,1,1">
+                <option><![CDATA[制裁限制 Johnson Controls 能與之進行合法業務往來的事業體及個人]]></option>
+                <option><![CDATA[制裁限制我們與競爭對手的互動性質]]></option>
+                <option><![CDATA[制裁限制 Johnson Controls 可以交易的產品 (硬體)、技術資料、技術、軟體和/或服務]]></option>
+                <option><![CDATA[制裁限制 Johnson Controls 可以進行交易的地點]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 制裁措施通常包括限制進出口或禁止提供特定貨物與服務等。 此類制裁可能確定：<ul> <li>Johnson Controls 可以合法交易的對象 (事業體和個人)；</li><li>Johnson Controls 可以合法交易的商品 (產品、服務和技術)；</li><li>Johnson Controls 可以合法交易的地點 (國家和地區)。 </li> </ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 制裁措施通常包括限制進出口或禁止提供特定貨物與服務等。 此類制裁可能確定：<ul> <li>Johnson Controls 可以合法交易的對象 (事業體和個人)；</li><li>Johnson Controls 可以合法交易的商品 (產品、服務和技術)；</li><li>Johnson Controls 可以合法交易的地點 (國家和地區)。 </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 制裁措施通常包括限制進出口或禁止提供特定貨物與服務等。 此類制裁可能確定：<ul> <li>Johnson Controls 可以合法交易的對象 (事業體和個人)；</li><li>Johnson Controls 可以合法交易的商品 (產品、服務和技術)；</li><li>Johnson Controls 可以合法交易的地點 (國家和地區)。 </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[羅傑正準備將訂單裝運給一外國分銷商，該分銷商會再轉銷給他的客戶。 將商品裝運出口之前，羅傑必須做什麼事？ ]]></text>
+			</questionText>
+           <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,0,1">
+                <option><![CDATA[確認分銷商及最終客戶都不是受限制的最終使用者]]></option>
+                <option><![CDATA[確認最終客戶的所在地不是受限制的目的地]]></option>
+                <option><![CDATA[確認產品並非供受限制最終使用者使用]]></option>
+                <option><![CDATA[以上皆是，或以合約方式禁止分銷商在未獲授權的情況下，將商品銷售給被禁止或受限制的最終使用者或用於類似的最終用途]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 羅傑正要託運會被轉售的產品，所以他必須確認最終客戶並不是受限制的最終使用者、位於受限制的目的地或將產品用於受限制的最終用途。 此外，羅傑也必須依法禁止分銷商在未獲授權的情況下，將其產品銷售給被禁止或受限制的最終用途或最終使用者。]]></text>
+					<text><![CDATA[務必確保客戶、商業合作夥伴、供應商、服務提供者、代理商、顧問及分銷商不是禁止交易方。 Johnson Controls 提供一種軟體工具，可供員工執行禁止交易方篩檢。 若發現可能的符合對象，您應暫停託運產品，並向貿易合規部洽詢。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 羅傑正要託運會被轉售的產品，所以他必須確認最終客戶並不是受限制的最終使用者、位於受限制的目的地或將產品用於受限制的最終用途。 此外，羅傑也必須依法禁止分銷商在未獲授權的情況下，將其產品銷售給被禁止或受限制的最終用途或最終使用者。]]></text>
+					<text><![CDATA[務必確保客戶、商業合作夥伴、供應商、服務提供者、代理商、顧問及分銷商不是禁止交易方。 Johnson Controls 提供一種軟體工具，可供員工執行禁止交易方篩檢。 若發現可能的符合對象，您應暫停託運產品，並向貿易合規部洽詢。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[約翰目前在 Johnson Controls 位於拉斯維加斯 (內華達州) 的國際空調、暖器、冷凍設備展覽攤位上工作，有個陌生人上前詢問他一些和 York Chillers 有關的高技術性問題。  約翰該如何回應？  ]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[為對方提供所需的技術性答覆]]></option>
+                <option><![CDATA[假裝他不瞭解那些問題]]></option>
+                <option><![CDATA[只回答非技術性的公開資訊。]]></option>
+                <option><![CDATA[為對方提供與 York Chillers 無關的隨機技術資訊]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 在美國，即使以口頭方式向外國人提供技術資訊也屬於需要授權的出口行為。 由於對方是陌生人，約翰並不知道他是外國人還是代表外國。 此外，技術資訊可能是 Johnson Controls 專有，不應向陌生人透露。 ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 在美國，即使以口頭方式向外國人提供技術資訊也屬於需要授權的出口行為。 由於對方是陌生人，約翰並不知道他是外國人還是代表外國。 此外，技術資訊可能是 Johnson Controls 專有，不應向陌生人透露。 ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[小陳正在準備出口託運。 他使用 Johnson Controls 軟體工具篩檢客戶姓名時發現對方可能是禁止交易方。 小陳該怎麼做？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[與客戶聯絡，要求對方確認身份]]></option>
+                <option><![CDATA[向 Johnson Controls 貿易合規團隊洽詢建議]]></option>
+                <option><![CDATA[取消託運]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 處理出口業務的所有員工務必確保客戶、商業合作夥伴、供應商、服務提供者、代理商、顧問及分銷商不是禁止交易方。 Johnson Controls 提供一種軟體工具，可供員工執行禁止交易方篩檢。 小陳善盡職責，而且發現可能的符合對象，所以他應暫停託運產品，並與貿易合規部洽詢，獲得支持。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 處理出口業務的所有員工務必確保客戶、商業合作夥伴、供應商、服務提供者、代理商、顧問及分銷商不是禁止交易方。 Johnson Controls 提供一種軟體工具，可供員工執行禁止交易方篩檢。 小陳善盡職責，而且發現可能的符合對象，所以他應暫停託運產品，並與貿易合規部洽詢，獲得支持。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[美國貿易法規屬治外法權，因此，下列哪一項受美國法規規範？  ]]></text>
+			</questionText>
+             <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[美國人，不論所在地點或雇主為何]]></option>
+                <option><![CDATA[美國原產 ITAR 管控產品及技術資料，不論是否併入非美國製造產品或地點]]></option>
+                <option><![CDATA[美國原產商品]]></option>
+                <option><![CDATA[併入將運往伊朗的非美國製造商品的低價美國原產商品]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 160px;line-height: 20px;">
+					<text><![CDATA[<b>正確。</b> 美國貿易法規屬治外法權。 <ul> <li>所有位於美國或由美國人持有的商品與技術，均受美國貿易法律與法規的約束。  </li><li>不論目前地理位置為何，所有美國原產商品均受美國貿易法規規範。  </li><li>ITAR 管控的美國原產零件或技術資料製造的非美國零件均受美國貿易法規規範。 </li><li>若符合最低門檻 (若有 ECCN 最低門檻)，或目的地國家為受制裁的國家，所有使用 EAR 管控的美國原產零件或技術製造的非美國商品均受美國貿易法規規範。 </li><li>所有美國人均受美國貿易法規規範，且必須遵守美國貿易法規。 </li> </ul>]]></text>
+				</correct>
+                <partialCorrect style="height: 160px;line-height: 20px;">
+					<text><![CDATA[<b>部分正確。</b> 美國貿易法規屬治外法權。 <ul> <li>所有位於美國或由美國人持有的商品與技術，均受美國貿易法律與法規的約束。  </li><li>不論目前地理位置為何，所有美國原產商品均受美國貿易法規規範。  </li><li>ITAR 管控的美國原產零件或技術資料製造的非美國零件均受美國貿易法規規範。 </li><li>若符合最低門檻 (若有 ECCN 最低門檻)，或目的地國家為受制裁的國家，所有使用 EAR 管控的美國原產零件或技術製造的非美國商品均受美國貿易法規規範。 </li><li>所有美國人均受美國貿易法規規範，且必須遵守美國貿易法規。 </li> </ul>]]></text>
+				</partialCorrect>
+                <incorrect style="height: 150px;line-height: 20px;">
+					<text><![CDATA[<b>不正確。</b> 美國貿易法規屬治外法權。 <ul> <li>所有位於美國或由美國人持有的商品與技術，均受美國貿易法律與法規的約束。  </li><li>不論目前地理位置為何，所有美國原產商品均受美國貿易法規規範。  </li><li>ITAR 管控的美國原產零件或技術資料製造的非美國零件均受美國貿易法規規範。 </li><li>若符合最低門檻 (若有 ECCN 最低門檻)，或目的地國家為受制裁的國家，所有使用 EAR 管控的美國原產零件或技術製造的非美國商品均受美國貿易法規規範。 </li><li>所有美國人均受美國貿易法規規範，且必須遵守美國貿易法規。 </li> </ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[哪些類型的文件可能必須遵守出口限制？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[藍圖]]></option>
+                <option><![CDATA[配方]]></option>
+                <option><![CDATA[手冊]]></option>
+                <option><![CDATA[說明]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 160px;">
+					<text><![CDATA[<b>正確。</b> 在貿易管控的情況下，內含技術資訊的任何文件均受出口管制規範。  技術資訊包括產品設計、研發、生產、制造、組裝、運作、維修、測試、維護或改裝所需資訊，以及與產品相關的機密資訊、發明保密令涵蓋之資訊和軟體。]]></text>
+					<text><![CDATA[技術資訊的範例如下： <ul> <li>藍圖</li><li>圖稿</li><li>照片</li><li>計劃</li><li>圖表</li><li>模型</li><li>配方</li><li>表格</li><li>工程設計</li><li>規格</li><li>手冊</li><li>說明</li></ul>]]></text>
+				</correct>
+                <partialCorrect style="height: 160px;">
+					<text><![CDATA[<b>部分正確。</b> 在貿易管控的情況下，內含技術資訊的任何文件均受出口管制規範。  技術資訊包括產品設計、研發、生產、制造、組裝、運作、維修、測試、維護或改裝所需資訊，以及與產品相關的機密資訊、發明保密令涵蓋之資訊和軟體。]]></text>
+					<text><![CDATA[技術資訊的範例如下： <ul> <li>藍圖</li><li>圖稿</li><li>照片</li><li>計劃</li><li>圖表</li><li>模型</li><li>配方</li><li>表格</li><li>工程設計</li><li>規格</li><li>手冊</li><li>說明</li></ul>]]></text>
+				</partialCorrect>
+                <incorrect style="height: 160px;">
+					<text><![CDATA[<b>不正確。</b> 在貿易管控的情況下，內含技術資訊的任何文件均受出口管制規範。  技術資訊包括產品設計、研發、生產、制造、組裝、運作、維修、測試、維護或改裝所需資訊，以及與產品相關的機密資訊、發明保密令涵蓋之資訊和軟體。]]></text>
+					<text><![CDATA[技術資訊的範例如下： <ul> <li>藍圖</li><li>圖稿</li><li>照片</li><li>計劃</li><li>圖表</li><li>模型</li><li>配方</li><li>表格</li><li>工程設計</li><li>規格</li><li>手冊</li><li>說明</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[下列哪一項屬於可能需要授權的再出口或轉運行為？]]></text>
+			</questionText>
+             <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,0,1">
+                <option><![CDATA[將先前已出口的產品運送給新的最終使用者]]></option>
+                <option><![CDATA[將先前已出口的產品運送到五英哩外的自有廠房]]></option>
+                <option><![CDATA[將先前已出口的產品運送給同一國家內的供應商]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 轉出口或轉運係指將產品、資料、內含出口管制商品的商品或使用出口管制技術資訊製造的商品運送至先前未獲授權的最終用途、最終使用者、或任何目的地或事業體。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 轉出口或轉運係指將產品、資料、內含出口管制商品的商品或使用出口管制技術資訊製造的商品運送至先前未獲授權的最終用途、最終使用者、或任何目的地或事業體。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 轉出口或轉運係指將產品、資料、內含出口管制商品的商品或使用出口管制技術資訊製造的商品運送至先前未獲授權的最終用途、最終使用者、或任何目的地或事業體。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		 
+    </module>
+	<module id="6" pick="3">
+       
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[以下哪項是正確的？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[在所有代表 Johnson Controls 所進行的業務往來中，應該要公平—即使與競爭對手打交道也是如此 ]]></option>
+                <option><![CDATA[在所有代表 Johnson Controls 所進行的業務往來中，應該要盡您所能在來自新公司的競爭中保護 Johnson Controls]]></option>
+                <option><![CDATA[在所有代表 Johnson Controls 所進行的業務往來中，應該要盡您所能讓新公司有機會競爭]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 競爭法因國家而異，但一般皆奠基於三項主要原則：<ul><li>增加消費者的選擇</li><li>鼓勵公平業務交易</li><li>獎勵創新和不斷地改進</li></ul>]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 競爭法因國家而異，但一般皆奠基於三項主要原則：<ul><li>增加消費者的選擇</li><li>鼓勵公平業務交易</li><li>獎勵創新和不斷地改進</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[泰德出席一場產業會議時碰到 Johnson Controls 主要競爭對手的代表。 泰德可以和該競爭對手討論下列哪些話題？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0,0,0">
+                <option><![CDATA[可能會對整體產業競爭力造成負面影響的新立法]]></option>
+                <option><![CDATA[他的公司計畫對客戶收取的費用進行價格調整]]></option>
+                <option><![CDATA[最近因為實施新的稅務制度而造成的成本增加]]></option>
+                <option><![CDATA[他的公司計畫要競標一項有利可圖的合約]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 泰德必須避免與競爭對手談論競標、訂價、成本或其他商業敏感事務，與競爭對手進行任何接觸前，一定要徵詢法務部的意見。]]></text>
+					<text><![CDATA[與競爭對手進行某些談話並不違法且甚至有促進競爭之效，但某些特定的資訊交流可能會被視為企圖達成反競爭協議。 如有任何疑慮，應立即避開，並將談話內容告知法務部門。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 泰德必須避免與競爭對手談論競標、訂價、成本或其他商業敏感事務，與競爭對手進行任何接觸前，一定要徵詢法務部的意見。]]></text>
+					<text><![CDATA[與競爭對手進行某些談話並不違法且甚至有促進競爭之效，但某些特定的資訊交流可能會被視為企圖達成反競爭協議。 如有任何疑慮，應立即避開，並將談話內容告知法務部門。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[反托拉斯法通常禁止具有競爭關係的公司彼此供應產品和服務。]]></text>
+				<text><![CDATA[此陳述是對或錯？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1">
+                <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 競爭對手彼此之間可以互為供應商或客戶，這是合法行為。]]></text>
+					<text><![CDATA[但若競爭對手利用供應鏈妨礙貿易，例如共謀瓜分市場，就是違法行為。 反托拉斯法禁止此類行為。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 競爭對手彼此之間可以互為供應商或客戶，這是合法行為。]]></text>
+					<text><![CDATA[但若競爭對手利用供應鏈妨礙貿易，例如共謀瓜分市場，就是違法行為。 反托拉斯法禁止此類行為。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 員工芭芭拉接到在 Johnson Controls 競爭對手擔任主管的邦妮打來的電話。 邦妮想知道若她的公司同意降低在北美地區的價格，Johnson Controls 是否願意提高在某些歐洲市場的價格。 若芭芭拉同意邦妮的提議，會構成什麼樣的行為？ ]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[她會令 Johnson Controls 背上非法操縱價格的罪名]]></option>
+                <option><![CDATA[她並沒有違反反托拉斯法，因為芭芭拉和邦妮的協議對客戶有利有弊]]></option>
+                <option><![CDATA[她會令 Johnson Controls 背上非法串通投標的罪名]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 所述的協議已構成操縱價格。 這是違法行為，Johnson Controls 嚴格禁止此行為。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 所述的協議已構成操縱價格。 這是違法行為，Johnson Controls 嚴格禁止此行為。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 長期競爭對手的銷售經理露西，來電要求 Johnson Controls 不要參與一項專案的投標。 作為交換，露西承諾她的公司不會在您任選的兩項專案上與 Johnson Controls 競標。 您應該如何告知露西？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[同意，因為這對 Johnson Controls 是長期的勝利。]]></option>
+                <option><![CDATA[同意，因為這個協議是道德的，因為沒有付錢。]]></option>
+                <option><![CDATA[不同意，因為露西是在提議非法串通投標的行為。]]></option>
+			</options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 串通投標屬於違反競爭法的行為，可能會導致刑事指控以及重罰。 Johnson Controls 嚴格禁止此行為。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 串通投標屬於違反競爭法的行為，可能會導致刑事指控以及重罰。 Johnson Controls 嚴格禁止此行為。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[競爭對手彼此若達成協議，即便不是書面形式，也有可能違反反托拉斯法。]]></text>
+				<text><![CDATA[此陳述是對或錯？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+             <options answer="1,0">
+                <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 競爭對手之間若透過書面、口頭、行為暗示或任何形式針對限制貿易達成任何協議，皆可能違反反托拉斯法。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 競爭對手之間若透過書面、口頭、行為暗示或任何形式針對限制貿易達成任何協議，皆可能違反反托拉斯法。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 銷售經理艾曼達接到在 Johnson Controls 主要競爭對手擔任主管的亞倫打來的電話。 亞倫問艾曼達 Johnson Controls 為何一直對「屬於」亞倫公司的客戶進行銷售，並且要求艾曼達讓其銷售團隊停止在這些市場銷售。 若艾曼達同意亞倫提出的要求，會構成什麼樣的行為？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[她會令 Johnson Controls 背上違法操縱價格的罪名]]></option>
+                <option><![CDATA[她是在鞏固 Johnson Controls 的聲望和商業關係]]></option>
+                <option><![CDATA[她會令 Johnson Controls 背上違法劃分市場的罪名]]></option>
+                <option><![CDATA[以上皆非]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 一旦艾曼達同意亞倫提出的要求，實際上會令 Johnson Controls 背上非法劃分市場的罪名。 競爭對手彼此若達成區分市場或客戶的協議，就視同劃分市場，是非法行為。 「停止對『我的』客戶進行銷售」這樣的言詞就是代表劃分市場行為的警訊]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 一旦艾曼達同意亞倫提出的要求，實際上會令 Johnson Controls 背上非法劃分市場的罪名。 競爭對手彼此若達成區分市場或客戶的協議，就視同劃分市場，是非法行為。 「停止對『我的』客戶進行銷售」這樣的言詞就是代表劃分市場行為的警訊]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 和所有牽連在內的員工都有可能因為違反反托拉斯法而面臨刑事懲處，包括鉅額罰金以及牢獄之災。]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+			<options answer="1,0">
+                <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 多數反托拉斯法皆明訂對公司及個人的刑事懲處。 例如，美國的反托拉斯法會向公司行號求處最高 1 億美元的刑事懲處，而向個人則求處最高 100 萬美元的刑事懲處，以及最長 10 年的監禁。 在 2014 年會計年度，光是在汽車業，美國政府就基於反托拉斯法而判處多位違法的高階主管入獄，並求處 10 億美元以上的罰金。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 多數反托拉斯法皆明訂對公司及個人的刑事懲處。 例如，美國的反托拉斯法會向公司行號求處最高 1 億美元的刑事懲處，而向個人則求處最高 100 萬美元的刑事懲處，以及最長 10 年的監禁。 在 2014 年會計年度，光是在汽車業，美國政府就基於反托拉斯法而判處多位違法的高階主管入獄，並求處 10 億美元以上的罰金。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 員工馬克接到在 Johnson Controls 主要競爭對手擔任高管的梅雷迪斯打來的電話。 假設馬克同意梅雷迪斯的要求，梅雷迪斯提出下列哪一項要求會讓 Johnson Controls 因違反反托拉斯法而遭懲處？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,1,1">
+                <option><![CDATA[梅雷迪斯要求馬克出高價競標某項專案，好讓梅瑞迪斯的公司得標，她同意會在以後的標案中回報馬克]]></option>
+                <option><![CDATA[梅雷迪斯要求馬克不要競標某項專案，好讓梅瑞迪斯的公司得標，她同意會在以後的標案中回報馬克]]></option>
+                <option><![CDATA[梅瑞迪斯要求馬克撤回 Johnson Controls 的投標，好讓梅雷迪斯的公司得標，她同意採用 Johnson Controls 擔任這項專案的轉包商]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 155px;">
+					<text><![CDATA[<b>正確。</b> 梅雷迪斯提出的以上任何一項提議都會違反反托拉斯法，從而可能讓 Johnson Controls 和馬克因違反反托拉斯法而遭到懲處。 ]]></text>
+					<text><![CDATA[提出不自然的高價競標專案以影響結果，讓梅瑞迪斯的公司得標屬於串通投標，不道德而且違法。]]></text>
+					<text><![CDATA[同意不投標某項專案以便梅瑞迪斯的公司得標，也屬於串通投標，不道德而且違法。]]></text>
+					<text><![CDATA[棄標以便讓梅雷迪斯的公司能在這次競標中得標，讓 Johnson Controls 能在下一次得標屬於串通投標，不道德而且違法。]]></text>
+					<text><![CDATA[全部三個選項都被法律與 Johnson Controls 政策所禁止。]]></text>
+				</correct>
+                <partialCorrect style="height: 155px;">
+					<text><![CDATA[<b>部分正確。</b> 梅雷迪斯提出的以上任何一項提議都會違反反托拉斯法，從而可能讓 Johnson Controls 和馬克因違反反托拉斯法而遭到懲處。 ]]></text>
+					<text><![CDATA[提出不自然的高價競標專案以影響結果，讓梅瑞迪斯的公司得標屬於串通投標，不道德而且違法。]]></text>
+					<text><![CDATA[同意不投標某項專案以便梅瑞迪斯的公司得標，也屬於串通投標，不道德而且違法。]]></text>
+					<text><![CDATA[棄標以便讓梅雷迪斯的公司能在這次競標中得標，讓 Johnson Controls 能在下一次得標屬於串通投標，不道德而且違法。]]></text>
+					<text><![CDATA[全部三個選項都被法律與 Johnson Controls 政策所禁止。]]></text>
+				</partialCorrect>
+                <incorrect style="height: 155px;">
+					<text><![CDATA[<b>不正確。</b> 梅雷迪斯提出的以上任何一項提議都會違反反托拉斯法，從而可能讓 Johnson Controls 和馬克因違反反托拉斯法而遭到懲處。 ]]></text>
+					<text><![CDATA[提出不自然的高價競標專案以影響結果，讓梅瑞迪斯的公司得標屬於串通投標，不道德而且違法。]]></text>
+					<text><![CDATA[同意不投標某項專案以便梅瑞迪斯的公司得標，也屬於串通投標，不道德而且違法。]]></text>
+					<text><![CDATA[棄標以便讓梅雷迪斯的公司能在這次競標中得標，讓 Johnson Controls 能在下一次得標屬於串通投標，不道德而且違法。]]></text>
+					<text><![CDATA[全部三個選項都被法律與 Johnson Controls 政策所禁止。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[來自相互競爭之公司的同業公會會員聚在一起討論如何反制另一家公司「不公平的定價行為」，將會違反反托拉斯法。]]></text>
+				<text><![CDATA[此陳述是對或錯？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[正確]]></option>
+                <option><![CDATA[錯誤]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 與任職於競爭對手的員工交談時，一定要謹言慎行。 若發現自己與競爭對手的員工開始談到價格、劃分市場或任何操作貿易的形式等話題，您應該停止討論，告訴對方討論這類話題會違反反托拉斯法，然後離開現場，並且盡早向法律顧問告知此事。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 與任職於競爭對手的員工交談時，一定要謹言慎行。 若發現自己與競爭對手的員工開始談到價格、劃分市場或任何操作貿易的形式等話題，您應該停止討論，告訴對方討論這類話題會違反反托拉斯法，然後離開現場，並且盡早向法律顧問告知此事。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[Johnson Controls 是一家大型的全球性企業，我們在許多地方都擁有較大的業界市佔率。 當我們擁有市場優勢時，我們必須小心避免什麼事？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[進一步成長 ]]></option>
+                <option><![CDATA[掠奪或獨佔措施]]></option>
+                <option><![CDATA[訂定最低價格]]></option>
+                <option><![CDATA[擴充產品線]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 38px;">
+					<text><![CDATA[<b>正確。</b> 競爭法禁止意圖取得或保有獨佔或優勢市場佔有率的掠奪性或獨佔性行為。 若客戶除與具有支配地位的公司進行交易外，再無其他可行的選擇時，則可能發生濫用市場的行為。]]></text>
+					<text><![CDATA[如果我們是市場佔有率最高的公司，消費者就必須向我們購買產品。 這會令我們面臨採取掠奪措施的指控。 ]]></text>
+					<text><![CDATA[我們佔有市場優勢地位時，我們必須謹慎面對名譽損失並意識到法律風險。]]></text>
+					<text><![CDATA[確認市場優勢地位並擬定因應措施是一件複雜的事。 只要心有疑慮，請向 Johnson Controls 法務部門或合規團隊洽詢指示。]]></text>
+				</correct>
+                <incorrect style="top: 38px;">
+					<text><![CDATA[<b>不正確。</b> 競爭法禁止意圖取得或保有獨佔或優勢市場佔有率的掠奪性或獨佔性行為。 若客戶除與具有支配地位的公司進行交易外，再無其他可行的選擇時，則可能發生濫用市場的行為。]]></text>
+					<text><![CDATA[如果我們是市場佔有率最高的公司，消費者就必須向我們購買產品。 這會令我們面臨採取掠奪措施的指控。 ]]></text>
+					<text><![CDATA[我們佔有市場優勢地位時，我們必須謹慎面對名譽損失並意識到法律風險。]]></text>
+					<text><![CDATA[確認市場優勢地位並擬定因應措施是一件複雜的事。 只要心有疑慮，請向 Johnson Controls 法務部門或合規團隊洽詢指示。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[有競爭對手在場時，應該避免討論下列哪些話題？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[目前或未來的定價]]></option>
+                <option><![CDATA[利潤高低，特別是所謂的「公平」利潤]]></option>
+                <option><![CDATA[競標細節或是否參與特定競標]]></option>
+                <option><![CDATA[公司前景或策略]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 與競爭對手交談時，絕對不可談及競爭上的敏感資訊，包括目前或未來的定價。 絕對不可談及利潤高低，尤其是所謂的「公平」利潤，另外還應避免涉及競標細節或特定競標。 公司前景或策略也是應該避免討論的話題。 若發現開始討論到以上話題，必須立即離開，並向 Johnson Controls 法務部門呈報此事。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 與競爭對手交談時，絕對不可談及競爭上的敏感資訊，包括目前或未來的定價。 絕對不可談及利潤高低，尤其是所謂的「公平」利潤，另外還應避免涉及競標細節或特定競標。 公司前景或策略也是應該避免討論的話題。 若發現開始討論到以上話題，必須立即離開，並向 Johnson Controls 法務部門呈報此事。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 與競爭對手交談時，絕對不可談及競爭上的敏感資訊，包括目前或未來的定價。 絕對不可談及利潤高低，尤其是所謂的「公平」利潤，另外還應避免涉及競標細節或特定競標。 公司前景或策略也是應該避免討論的話題。 若發現開始討論到以上話題，必須立即離開，並向 Johnson Controls 法務部門呈報此事。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+    </module>
+	<module id="7" pick="3">
+       <question type="mrq">
+            <questionText>
+				<text><![CDATA[下列哪些範例屬於智慧財產？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,1,1,0,0">
+                <option><![CDATA[發明]]></option>
+                <option><![CDATA[設計 ]]></option>
+                <option><![CDATA[公司名稱和標誌]]></option>
+                <option><![CDATA[內部財務報告]]></option>
+                <option><![CDATA[員工資料清單]]></option>
+            </options>
+            <feedback>
+                <correct style="height: 130px;line-height:16px;">
+					<text><![CDATA[<b>正確。</b> 智慧財產是指可視為資產並受法律保護的創意成果，例如：<ul> <li>發明</li> <li>文字作品</li> <li>設計</li> <li>圖形</li> <li>名稱和影像</li> </ul>]]></text>
+					<text><![CDATA[您有責任保護我們的智慧財產。]]></text>
+				</correct>
+                <partialCorrect style="height: 130px;line-height:16px;">
+					<text><![CDATA[<b>部分正確。</b> 智慧財產是指可視為資產並受法律保護的創意成果，例如：<ul> <li>發明</li> <li>文字作品</li> <li>設計</li> <li>圖形</li> <li>名稱和影像</li> </ul>]]></text>
+					<text><![CDATA[您有責任保護我們的智慧財產。]]></text>
+				</partialCorrect>
+                <incorrect style="height: 130px;line-height:16px;">
+					<text><![CDATA[<b>不正確。</b> 智慧財產是指可視為資產並受法律保護的創意成果，例如：<ul> <li>發明</li> <li>文字作品</li> <li>設計</li> <li>圖形</li> <li>名稱和影像</li> </ul>]]></text> 
+					<text><![CDATA[您有責任保護我們的智慧財產。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[哪種類型的軟體可受到專利保護？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[所有類型的軟體]]></option>
+                <option><![CDATA[技術軟體 ]]></option>
+                <option><![CDATA[任何類型的軟體都不受到保護]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 雖然技術軟體通常可申請專利，但結合抽象概念與財務方法等內容的軟體仍受到限制。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 雖然技術軟體通常可申請專利，但結合抽象概念與財務方法等內容的軟體仍受到限制。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[我們使用以下哪些方式保護產品中的美學設計？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[專利]]></option>
+                <option><![CDATA[著作權]]></option>
+                <option><![CDATA[設計權]]></option>
+                <option><![CDATA[商標]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 設計權有助於保護 Johnson Controls 產品設計。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 設計權有助於保護 Johnson Controls 產品設計。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[我們使用以下哪些方式保護軟體程式碼中所包含的智慧財產？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,1,0,0">
+                <option><![CDATA[專利]]></option>
+                <option><![CDATA[著作權]]></option>
+                <option><![CDATA[設計權]]></option>
+                <option><![CDATA[商標]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 軟體受版權保護，至於技術軟體則受專利保護。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 軟體受版權保護，至於技術軟體則受專利保護。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 軟體受版權保護，至於技術軟體則受專利保護。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[下列與 Johnson Controls 承諾保護智慧財產 (IP) 相關的敘述，哪一項正確？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="0,1,1">
+                <option><![CDATA[我們只承諾保護自己的智慧財產]]></option>
+                <option><![CDATA[我們尊重與公司往來之所有第三方的合法智慧財產 ]]></option>
+                <option><![CDATA[我們採取措施保護自己的智慧財產]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> Johnson Controls 致力於保護自己的智慧財產權，同時也尊重第三方的合法智慧財產權。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> Johnson Controls 致力於保護自己的智慧財產權，同時也尊重第三方的合法智慧財產權。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> Johnson Controls 致力於保護自己的智慧財產權，同時也尊重第三方的合法智慧財產權。]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[甘特在新產品開發團隊工作，他們已經開發出有望大獲成功的創新產品。 甘特為新產品想出了一個絕妙的品牌名稱。 哪些是 Johnson Controls 認為在採用該品牌名稱之前的必要步驟？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0,0">
+                <option><![CDATA[採用該名稱之前進行商標搜尋]]></option>
+                <option><![CDATA[向商標機關進行標誌設計註冊]]></option>
+                <option><![CDATA[在市場中使用該品牌名稱之前無需採取任何特別步驟。 只需在商標註冊之前進行商標搜尋]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 甘特應在採用產品的任何新名稱或圖形設計之前進行商標搜尋。 這是必要之舉。]]></text>
+					<text><![CDATA[建議註冊新商標，但並非必要措施。]]></text>
+					<text><![CDATA[在許多國家，即使沒有正式註冊，也可透過使用品牌或標誌來獲得商標權，雖然註冊是較為安全的方式。 ]]></text>
+					<text><![CDATA[如果沒有妥善使用商標，例如公眾將商標當作通用名詞使用，則可能會失去保護商標使用的權利，即使商標已經註冊。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 甘特應在採用產品的任何新名稱或圖形設計之前進行商標搜尋。 這是必要之舉。]]></text>
+					<text><![CDATA[建議註冊新商標，但並非必要措施。]]></text>
+					<text><![CDATA[在許多國家，即使沒有正式註冊，也可透過使用品牌或標誌來獲得商標權，雖然註冊是較為安全的方式。 ]]></text>
+					<text><![CDATA[如果沒有妥善使用商標，例如公眾將商標當作通用名詞使用，則可能會失去保護商標使用的權利，即使商標已經註冊。]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[您想要某個供應商測試由 Johnson Controls 工程師開發的新設計是否可行。 您可以如何保護 Johnson Controls 的智慧財產？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="0,1,0,1">
+                <option><![CDATA[將此事呈報給第三方計劃合規小組]]></option>
+                <option><![CDATA[要求供應商簽署保密協議]]></option>
+                <option><![CDATA[將資訊與供應商分享後提出專利申請]]></option>
+                <option><![CDATA[徵詢智慧財產律師的建議 ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 在此情況中，只要是新穎且具獨創性的設計，就可以提出專利申請，但必須在將資訊與供應商分享之前提出。 在專利申請前，必須要求供應商簽署保密協議。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 在此情況中，只要是新穎且具獨創性的設計，就可以提出專利申請，但必須在將資訊與供應商分享之前提出。 在專利申請前，必須要求供應商簽署保密協議。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 在此情況中，只要是新穎且具獨創性的設計，就可以提出專利申請，但必須在將資訊與供應商分享之前提出。 在專利申請前，必須要求供應商簽署保密協議。]]></text>
+				</incorrect>
+            </feedback>
+        </question>			
+    </module>
+	<module id="8" pick="3">
+       <question type="mrq">
+            <questionText>
+				<text><![CDATA[下列哪些範例屬於<i><b>機密資訊</b></i>？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="0,0,1,1,1">
+                <option><![CDATA[與 Johnson Controls 有關的雜誌文章]]></option>
+                <option><![CDATA[我們的企業社會責任報告 ]]></option>
+                <option><![CDATA[包含員工姓名、地址以及個人資料的員工名單]]></option>
+                <option><![CDATA[內部財務報告]]></option>
+                <option><![CDATA[包含有關正在研發的新產品技術資訊的文件]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 機密資訊可能分為書面、列印或軟體電子格式。 凡未發表或透過其他方式公開的內容，皆屬於機密資訊。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 機密資訊可能分為書面、列印或軟體電子格式。 凡未發表或透過其他方式公開的內容，皆屬於機密資訊。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 機密資訊可能分為書面、列印或軟體電子格式。 凡未發表或透過其他方式公開的內容，皆屬於機密資訊。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[何時應使用保密協議 (NDA)？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[唯有與公司內部或外部人士分享重要個人資訊時，才應使用 NDA]]></option>
+                <option><![CDATA[與公司內部人士分享機密資訊時，一定要使用 NDA]]></option>
+                <option><![CDATA[與外部第三方分享機密資訊時須使用 NDA]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 與 Johnson Controls 外部人士分享機密資訊時，須使用 NDA。 NDA 能夠有效確保與他人分享的機密資訊不致外洩。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 與 Johnson Controls 外部人士分享機密資訊時，須使用 NDA。 NDA 能夠有效確保與他人分享的機密資訊不致外洩。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[蘇珊要列印一份包含公司機密資訊的文件。 印表機墨水用完了，但蘇珊已經耽誤了開會時間。 她應該怎麼做呢？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,0,0,1">
+                <option><![CDATA[她應該更換墨水然後等文件印好]]></option>
+                <option><![CDATA[蘇珊應該去開會，晚點再處理印表機的問題]]></option>
+                <option><![CDATA[她應該請接待員幫她拿印好的文件]]></option>
+                <option><![CDATA[蘇珊應該請有權查看待列印資訊的同事，幫她更換墨水並將印好的文件收好]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 蘇珊必須自己更換墨水，然後等文件印好，或者應該請有權查看待列印文件的人幫她將文件收好。 她不應該只是先去開會，並等會議完成後再處理印表機的問題。 蘇珊有責任確保妥善處理包含機密資訊的列印文件。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 蘇珊必須自己更換墨水，然後等文件印好，或者應該請有權查看待列印文件的人幫她將文件收好。 她不應該只是先去開會，並等會議完成後再處理印表機的問題。 蘇珊有責任確保妥善處理包含機密資訊的列印文件。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 蘇珊必須自己更換墨水，然後等文件印好，或者應該請有權查看待列印文件的人幫她將文件收好。 她不應該只是先去開會，並等會議完成後再處理印表機的問題。 蘇珊有責任確保妥善處理包含機密資訊的列印文件。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[您正使用電腦處理一份包含機密員工資訊的報告， 需要喝杯咖啡。 您會怎樣做？]]></text>
+			</questionText>
+			<instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[讓電腦中的報告開著，這樣回來後很快就能繼續工作]]></option>
+                <option><![CDATA[將電腦鎖定，必須使用密碼才能再次開啟電腦]]></option>
+                <option><![CDATA[請同事在您離開座位這段時間幫忙留意您的辦公桌]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 如果您要暫時離開座位��一定要先鎖上電腦螢幕。 即使只是暫離辦公桌較短時間，仍然必須將電腦鎖上，以便避免他人調閱檔案、使用我們的網路或取得包含機密資訊的報告。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 如果您要暫時離開座位，一定要先鎖上電腦螢幕。 即使只是暫離辦公桌較短時間，仍然必須將電腦鎖上，以便避免他人調閱檔案、使用我們的網路或取得包含機密資訊的報告。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[身為 Johnson Controls 員工，您在機密資訊方面具有什麼樣的責任？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1,0">
+                <option><![CDATA[我只負責保護與員工、客戶及其他第三方相關的資訊]]></option>
+                <option><![CDATA[我有責任保護與同事相關資訊的機密性，但無須對任何其他公司資訊的機密性負責]]></option>
+                <option><![CDATA[我有責任保護 Johnson Controls 專有資訊，以及我們所持有與客戶、供應商和其他第三方相關之資訊的機密性]]></option>
+                <option><![CDATA[我只負責保護與公司相關之資訊的機密性，但無須對任何個人相關資訊的機密性負責]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 身為 Johnson Controls 的員工，您有責任保護 Johnson Controls 專有資訊，以及我們所持有與客戶、供應商和其他第三方相關之資訊的機密性。 您必須確保不會對 Johnson Controls 內外人員不當透露。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 身為 Johnson Controls 的員工，您有責任保護 Johnson Controls 專有資訊，以及我們所持有與客戶、供應商和其他第三方相關之資訊的機密性。 您必須確保不會對 Johnson Controls 內外人員不當透露。]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[您的桌上有一疊機密報告，明天還會用到這些報告。 您要下班離開了，該如何處理這些報告？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0,0">
+                <option><![CDATA[將報告裝在自己的筆記型電腦包裡帶回家]]></option>
+                <option><![CDATA[在離開辦公室之前將文件鎖在抽屜裡]]></option>
+                <option><![CDATA[將文件放在檔案夾中，再將檔案夾放在辦公桌上方的架子上]]></option>
+                <option><![CDATA[丟到垃圾桶裡]]></option>
+            </options>
+            <feedback>
+                <correct style="top: 35px;">
+					<text><![CDATA[<b>正確。</b> 機密資訊在不使用時須妥善保管。 ]]></text>
+					<text><![CDATA[無論是否在工作時間內，您均應確保儲存於文件、隨身碟或任何其他儲存裝置中的資訊，並未處於無人看管的狀態。 ]]></text>
+					<text><![CDATA[為保護機密資訊，您必須：<ul><li>設定限制，只允許需要且有權查看機密資訊的人士進行存取</li><li>使用密碼、安全的儲存裝置或鎖住電腦以保障機密資訊</li><li>通過安全的棄置方式刪除機密資訊</li></ul>]]></text>
+				</correct>
+                <incorrect style="top: 35px;">
+					<text><![CDATA[<b>不正確。</b> 機密資訊在不使用時須妥善保管。 ]]></text>
+					<text><![CDATA[無論是否在工作時間內，您均應確保儲存於文件、隨身碟或任何其他儲存裝置中的資訊，並未處於無人看管的狀態。 ]]></text>
+					<text><![CDATA[為保護機密資訊，您必須：<ul><li>設定限制，只允許需要且有權查看機密資訊的人士進行存取</li><li>使用密碼、安全的儲存裝置或鎖住電腦以保障機密資訊</li><li>通過安全的棄置方式刪除機密資訊</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>				
+    </module>
+	<module id="9" pick="3">
+       <question type="mcq">
+            <questionText>
+				<text><![CDATA[您正在參加一場業界會議，身上配戴著可辨識出您是 Johnson Controls 員工的名牌。 您在咖啡店裡遇到了在競爭對手公司工作的馬克。 在你們寒暄聊天時，馬克的同事愛麗絲走了過來，開始聊起即將發生的漲價措施。 您可以使用這項資訊嗎？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[是]]></option>
+                <option><![CDATA[否]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 定價資訊事屬機密，應加以保護。 這個情境裡的愛麗絲並沒有這麼做，而且還在屬於公共場所的咖啡店裡，當著競爭對手的面談論漲價一事。 愛麗絲因為公開討論定價資訊，造成資訊公諸於世，而未能將雇主的資訊保密。 所以，您可以使用這項資訊。 您應在使用這項資訊之前告知您的經理、法務部門或合規團隊您的資訊來源。  ]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 定價資訊事屬機密，應加以保護。 這個情境裡的愛麗絲並沒有這麼做，而且還在屬於公共場所的咖啡店裡，當著競爭對手的面談論漲價一事。 愛麗絲因為公開討論定價資訊，造成資訊公諸於世，而未能將雇主的資訊保密。 所以，您可以使用這項資訊。 您應在使用這項資訊之前告知您的經理、法務部門或合規團隊您的資訊來源。  ]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[判斷您是否可使用您取得的競爭情報的關鍵問題是什麼？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,1,0">
+                <option><![CDATA[這項資訊是否有助我們與競爭對手競爭？]]></option>
+                <option><![CDATA[收集這份資訊時，是否使用到欺騙、不忠或詐欺的手段？]]></option>
+                <option><![CDATA[這項資訊是否有助我們避免犯下代價高昂的錯誤？]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 競爭情報非常寶貴，但只有在以合法且合乎道德的方式取得時才能夠使用。 Johnson Controls 不得使用以透過誤傳等非法方式，或以違反競爭對手保密協定的方法取得的資訊。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 競爭情報非常寶貴，但只有在以合法且合乎道德的方式取得時才能夠使用。 Johnson Controls 不得使用以透過誤傳等非法方式，或以違反競爭對手保密協定的方法取得的資訊。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[某個客戶說要給您 Johnson Controls 競爭對手提交給他們的提案。 您應該怎麼做？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[多謝客戶，並使用該資訊來撰寫您之後的提案]]></option>
+                <option><![CDATA[在客戶的辦公室閱讀該提案，但不帶走]]></option>
+                <option><![CDATA[委婉謝絕該提案，並就此事向您的經理、法務部門或合規團隊呈報]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 競爭對手的提案被視為機密競爭資訊。 您不得接受該提案，而且您應立即通知法務部門。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 競爭對手的提案被視為機密競爭資訊。 您不得接受該提案，而且您應立即通知法務部門。]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[下列些是可接受的 Johnson Controls 競爭對手資訊來源？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="1,1,1,1">
+                <option><![CDATA[政府機關的檔案記錄]]></option>
+                <option><![CDATA[分析師報告]]></option>
+                <option><![CDATA[徵才訊息]]></option>
+                <option><![CDATA[發佈的專利和商標申請]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 您可自由使用任何可公開取得的競爭對手相關資訊。 這些資訊來源包括：<ul> <li>政府機關的檔案記錄</li><li>分析師報告</li><li>徵才訊息</li><li>發佈的專利和商標申請</li></ul>]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 您可自由使用任何可公開取得的競爭對手相關資訊。 這些資訊來源包括：<ul> <li>政府機關的檔案記錄</li><li>分析師報告</li><li>徵才訊息</li><li>發佈的專利和商標申請</li></ul>]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 您可自由使用任何可公開取得的競爭對手相關資訊。 這些資訊來源包括：<ul> <li>政府機關的檔案記錄</li><li>分析師報告</li><li>徵才訊息</li><li>發佈的專利和商標申請</li></ul>]]></text>
+				</incorrect>
+            </feedback>
+        </question>	
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[珊卓是 Johnson Controls 的新任員工，先前在競爭對手公司工作，她很瞭解他們正在開發的新產品。 您正在開發類似的產品。 您可如何向珊卓打聽她前任公司產品的相關資訊？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="0,0,1">
+                <option><![CDATA[最簡單的方法就是要求珊卓告訴您競爭對手公司產品的資訊]]></option>
+                <option><![CDATA[您可以描述您的產品，然後請她比較一下競爭對手公司產品]]></option>
+                <option><![CDATA[向競爭對手公司的前任員工探聽其產品的機密資訊有違 Johnson Controls 政策 ]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 新產品計畫屬於機密資訊。 請勿為了取得任何機密資訊向競爭對手公司的前任員工詢問、暗示或施壓。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 新產品計畫屬於機密資訊。 請勿為了取得任何機密資訊向競爭對手公司的前任員工詢問、暗示或施壓。]]></text>
+				</incorrect>
+            </feedback>
+        </question>		
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[下列哪些不是取得競爭情報的可接受方法？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="0,1,1,1">
+                <option><![CDATA[向政府機關索取公開呈報副本]]></option>
+                <option><![CDATA[打電話給競爭對手，假裝是潛在客戶]]></option>
+                <option><![CDATA[要求客戶給您看競爭對手公司的提案，好在價格上嬴過對方]]></option>
+                <option><![CDATA[贈送禮物給競爭對手公司員工，以換取資訊]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> Johnson Controls 不會接受或使用透過不當手段取得的競爭情報，包括：<ul> <li>假裝是潛在客戶</li><li>要求客戶提供競爭對手公司的提案</li><li>贈送禮物給競爭對手公司員工，以換取資訊</li></ul>]]></text>
+					<text><![CDATA[向政府機關索取公開呈報副本是適宜的行為。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> Johnson Controls 不會接受或使用透過不當手段取得的競爭情報，包括：<ul> <li>假裝是潛在客戶</li><li>要求客戶提供競爭對手公司的提案</li><li>贈送禮物給競爭對手公司員工，以換取資訊</li></ul>]]></text>
+					<text><![CDATA[向政府機關索取公開呈報副本是適宜的行為。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> Johnson Controls 不會接受或使用透過不當手段取得的競爭情報，包括：<ul> <li>假裝是潛在客戶</li><li>要求客戶提供競爭對手公司的提案</li><li>贈送禮物給競爭對手公司員工，以換取資訊</li></ul>]]></text>
+					<text><![CDATA[向政府機關索取公開呈報副本是適宜的行為。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mcq">
+            <questionText>
+				<text><![CDATA[您正在拜訪供應商胡安，他們公司也為 Johnson Controls 的競爭對手公司供應材料。 胡安給了您競爭對手公司剛出版的新產品手冊。 您可以使用手冊裡的資訊嗎？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取正確的選項，然後按「提交」。]]></instruction>
+            <options answer="1,0">
+                <option><![CDATA[可以，產品手冊是公開的，所以我們可以使用]]></option>
+                <option><![CDATA[不可以，我們絕不可使用非我們自己收集的競爭對手資訊]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 我們絕不使用欺騙、詐欺或其他不道德手段收集競爭對手的情報。 只要競爭對手的情報是公開的，且來自道德的管道，我們就可以接收。]]></text>
+				</correct>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 我們絕不使用欺騙、詐欺或其他不道德手段收集競爭對手的情報。 只要競爭對手的情報是公開的，且來自道德的管道，我們就可以接收。]]></text>
+				</incorrect>
+            </feedback>
+        </question>
+		<question type="mrq">
+            <questionText>
+				<text><![CDATA[哈瑞是新到職的員工，他之前在競爭對手公司工作。 他告訴您他的前任雇主明年度打算降價 2%。 您應該怎麼做？]]></text>
+			</questionText>
+            <instruction><![CDATA[請選取<strong><i>所有</i></strong>正確的選項，然後按「提交」。]]></instruction>
+            <extraInstruction><![CDATA[可能會有多個正確答案。]]></extraInstruction>
+            <options answer="0,1,1,0">
+                <option><![CDATA[建議公司產品也降價 2%]]></option>
+                <option><![CDATA[提醒哈瑞，他不能洩露前任雇主的機密資訊]]></option>
+                <option><![CDATA[就此事告知您的經理、法務部門或合規團隊]]></option>
+                <option><![CDATA[查詢哈瑞是否因為分享資訊而違反任何法律]]></option>
+            </options>
+            <feedback>
+                <correct>
+					<text><![CDATA[<b>正確。</b> 哈瑞洩露了他前任雇主的機密資訊。 您不能使用此資訊。 您反而應該告知您的經理、法務部門或合規團隊。]]></text>
+				</correct>
+                <partialCorrect>
+					<text><![CDATA[<b>部分正確。</b> 哈瑞洩露了他前任雇主的機密資訊。 您不能使用此資訊。 您反而應該告知您的經理、法務部門或合規團隊。]]></text>
+				</partialCorrect>
+                <incorrect>
+					<text><![CDATA[<b>不正確。</b> 哈瑞洩露了他前任雇主的機密資訊。 您不能使用此資訊。 您反而應該告知您的經理、法務部門或合規團隊。]]></text>
+				</incorrect>
+            </feedback>
+        </question>				
+    </module>
+</assessment>

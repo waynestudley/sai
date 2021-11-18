@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[Марк обдумывает ответ на письмо клиента. Знаете ли вы, как действовать в такой ситуации? Выберите один вариант и отправьте ответ.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[Если вы отправите клиенту электронное письмо с просьбой предоставить вам дополнительную информацию, например его должность и название его компании, будет ли считаться экспортной операцией отправка этого письма и если да, то почему?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[Сотрудник]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Выберите один вариант и щелкните «Отправить».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px;line-height:18px;">
+		<option><![CDATA[Да, отправка любого электронного письма может представлять собой экспортную операцию, поскольку почтовые серверы могут располагаться в разных странах и письмо может пересечь несколько границ.]]></option>	
+		<option><![CDATA[Да, отправка лицу, пребывающему за границей, электронного письма с просьбой о предоставлении информации в любом случае является экспортной операцией, поскольку таким образом вы получаете персональную информацию.]]></option>	
+		<option><![CDATA[Нет, обращение к клиенту с просьбой о предоставлении дополнительной информации не является экспортной операцией.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="top: -5px;">
+			<text style="font-size:17px;"><![CDATA[Верно.]]></text>
+			<text><![CDATA[В целях соблюдения торговых норм вы должны попросить клиента предоставить вам дополнительную информацию.]]></text>
+			<text><![CDATA[Как бы то ни было, сама по себе отправка электронного письма с такой просьбой не является экспортной операцией, если вы не прилагаете к письму конструкторские чертежи, информацию о технологиях и другую контролируемую информацию о продукции.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="top: -5px;">
+			<text style="font-size:17px;"><![CDATA[К сожалению, вы ошиблись.]]></text>
+			<text><![CDATA[В целях соблюдения торговых норм вы должны попросить клиента предоставить вам дополнительную информацию.]]></text>
+			<text><![CDATA[Как бы то ни было, сама по себе отправка электронного письма с такой просьбой не является экспортной операцией, если вы не прилагаете к письму конструкторские чертежи, информацию о технологиях и другую контролируемую информацию о продукции.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

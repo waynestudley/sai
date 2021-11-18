@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;">
+		<text><![CDATA[Selecione cada cabeçalho para saber mais.]]></text>
+		<text><![CDATA[Clique em Próximo para reconsiderar sua decisão e tente novamente.]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">			
+			<buttonText style=""><![CDATA[Muita bebida]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Vários membros do grupo ficam muito bêbados e uma pessoa cai na escada e quebra o braço. Outra pessoa precisa ser contratada para ficar no lugar da pessoa acidentada, mas o novo contratado é muito mais lento, o que atrasa o projeto. ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">
+			<buttonText><![CDATA[Cliente insatisfeita]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Depois de ouvir algumas conversas, a cliente percebe que o projeto está atrasado por que Carlos pagou bebidas para alguns funcionários em um bar de esportes. Ela liga para o gerente de Carlos com reclamações. ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="138">
+			<buttonText><![CDATA[Publicações no Facebook]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text><![CDATA[Um dos subempreiteiros publica uma foto do acidente no Facebook. Ele escreve na publicação "É a última vez que bebo com a galera da Johnson Controls..." ]]></text>					
+				<text><![CDATA[Carlos imagina se o subempreiteiro acidentado pode processar a empresa.]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

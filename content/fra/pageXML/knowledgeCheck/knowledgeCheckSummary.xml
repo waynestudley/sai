@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[Félicitations, vous avez réussi le Contrôle final de connaissances.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[Malheureusement, vous n’avez pas encore réussi le Contrôle final de connaissances. ]]></text>		
+	</transcript>
+	<contentBg style="width: 500px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Bravo !]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Employés Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Employés Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[Cliquez sur Accueil pour revenir au Menu principal. Vous pourrez accéder à votre certificat de réussite.]]></text>
+		<text><![CDATA[Cliquez sur Accueil pour revenir au Menu principal.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[Avec un score de <b>## %</b>, vous avez réussi le contrôle des connaissances du cours <span class="courseTitleAss" >Appliquer le Code d’éthique : « Faire des affaires en toute intégrité »</span>.]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[Avec un score de <b>##%</b>, vous n’avez pas réussi la formation.]]></text>
+		<text><![CDATA[Vous devez obtenir au moins <span># %</span> pour obtenir votre certificat de réussite. Veuillez revoir le programme et retenter ce contrôle des connaissances.]]></text>
+	</feedbackFail>
+</contents>

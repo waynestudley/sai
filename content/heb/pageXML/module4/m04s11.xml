@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[כעת נבחן מצבים יום יומיים. האם אנשים אלה מסכנים את הנתונים האישיים שלהם?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[אילו מהמצבים הבאים עלולים לסכן את פרטיות הנתונים?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[משרד הומה אדם, עובד משתמש במחשב]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;left: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[בחר את כל התרחישים שלדעתך מסכנים נתונים אישיים.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[ייתכן שיש יותר מתשובה אחת נכונה.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[התחברות לרשת Wi-Fi ציבורית]]></option>	
+		<option><![CDATA[שימוש באותה סיסמה בשני מקומות]]></option>	
+		<option><![CDATA[פרסום תמונה של פגישת צוות שבה לוח הציור נראה ברקע ברשת חברתית]]></option>	
+		<option><![CDATA[דיון במידע פיננסי עם לקוח בטלפון במקום ציבורי]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[נכון.]]></text>
+			<text><![CDATA[כל הדוגמאות הללו מסכנות את פרטיות הנתונים שלך.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[לא נכון.]]></text>
+			<text><![CDATA[כל הדוגמאות הללו מסכנות את פרטיות הנתונים שלך.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

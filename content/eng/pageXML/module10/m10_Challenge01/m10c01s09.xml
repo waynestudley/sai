@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0" ><![CDATA[A key supplier has asked for an immediate payment. What do you think Jian should do? Choose one option then click on OK.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3" ><![CDATA[Click on Next to find out what happened.]]></text>
+		
+	</transcript>
+	<contentText >
+		<text><![CDATA[Jian is being pressured to approve immediate payment on a vendor’s invoice, and a project’s success may be riding on it.]]></text>
+		<text><![CDATA[What should he do?]]></text>
+	</contentText>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[Jian on the phone with Nolan in his kitchen]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText >
+		<text><![CDATA[Choose one option then select OK.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1" ><![CDATA[Tell Nolan to approve the payment. It seems reasonable to spend USD$1000 to avoid significantly more in penalties for delayed delivery.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Tell Nolan not to approve the payment until they can learn more about how the money will be used in relation to the permits.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="" >
+			<text style="padding-top:12px;"><![CDATA[Jian tells the Accounting Department to pay the invoice. It seems like the best way to keep the project on schedule, and it’s less expensive than the customer penalty.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="" >
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="" >
+			<text style="padding-top:25px;"><![CDATA[After talking to Nolan, Jian is concerned about the supplier’s request.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c01s06">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+		<text path="" id="3" ><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style=""></pageTitle>
+	<contentText >
+		<text><![CDATA[Jian’s wife’s procedure is a success, but the doctors keep her overnight for observation. The next day, because IT won’t have a replacement laptop for him until the end of the business day, Jian uses his personal laptop and works from his wife’s room. With his laptop, he is able to view the information in the supplier master file.]]></text>
+		<text><![CDATA[What is the best way to get those changes to Holly?]]></text>
+	</contentText>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[Jian’s wife’s hospital room]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Choose one option then select OK.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1" ><![CDATA[Jian logs on to the public Wi-Fi and emails the updated file from the thumb drive using his personal email account.]]></option>
+		<option answer="1" feedbackId="2" ><![CDATA[Jian realizes that sending Holly the updated master file to upload might cause problems as others may have edited the original master file in his absence and his updates may override them. So, while he is having lunch in the hospital cafeteria, he calls her and walks her through the changes while she enters them into the master file on the company system.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Jian asks Holly to collect the encrypted thumb drive from him at the hospital.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:280px;" fcStyle="top: -223px;" >
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[Jian sends the information to Holly, but downloading the file creates a conflicted copy with the current supplier database, and the team has to spend many hours updating and confirming information.]]></text>
+			<text style="font-size:15px;"><![CDATA[Fake invoices are sent in to Jian’s company purporting to be from legitimate suppliers, but they contain bank account information of those attempting to defraud the company. Months later, the scheme is discovered and investigation results point to a breach of security in the supplier database around the same time as when Jian was at the hospital. Jian has some explaining to do!]]></text>
+			<text style="font-size:15px;"><![CDATA[The safest option would have been for Jian to ask Holly to pick up the encrypted thumb drive. Although this doesn’t prevent the team from spending hours combining Jian’s edits with those in the supplier database, this would have ensured the protection of sensitive data.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:220px;" fcStyle="top: -223px;" >
+			<text style="padding-top:25px;"><![CDATA[Holly is able to update the master supplier file, and she only makes a few errors that are later found and corrected.]]></text>
+			<text><![CDATA[However, other people eating in the hospital cafeteria can hear Jian’s every word, unnecessarily exposing supplier information.]]></text>
+			<text><![CDATA[The safest option would have been for Jian to ask Holly to pick up the encrypted thumb drive. This would have ensured the protection of sensitive data.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:250px;" fcStyle="top: -223px;" >
+			<text style="padding-top:25px;"><![CDATA[Holly picks up the flash drive, but while Jian was working on his copy remotely, his colleagues edited the original. When Holly uploads Jian’s version, his colleagues’ changes are overwritten. The team has to spend many hours updating and confirming information.]]></text>
+			<text><![CDATA[Jian is reprimanded for downloading the master file, but at least the information is secure. Holly should not have uploaded the revised file without checking with other authors if they had made any updates that could be affected.]]></text>
+			<text><![CDATA[This is the safest choice of action, as it ensured the protection of sensitive data.]]></text>
+		</correct>
+	</feedback>
+</contents>

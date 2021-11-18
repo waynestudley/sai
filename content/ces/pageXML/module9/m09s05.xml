@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m09s05">
+	<transcript>
+		<text path="audio/module9/m09s05" id="0"><![CDATA[Neměli byste používat informace o konkurenci, které byly získány nepatřičným způsobem. Znáte rozdíl? Kliknutím na jednotlivé nadpisy zkontrolujte, zda problematice rozumíte.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:574px;font-size: 15px;margin-bottom:0px"><![CDATA[Jak se tedy můžete ujistit, zda lze určité informace bez obav použít? Předtím, než přijmete, použijete či poskytnete informace o konkurenci nebo trhu, si položte tuto otázku:]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s05/contentBackground.jpg" minwidth="769"><![CDATA[Zaměstnanec vypadající zamyšleně]]></img>
+	</contentBackground>	
+	 <contentBg style="top:20px;"></contentBg>
+	<pageTitle style="width: 574px;"></pageTitle>
+	<instructionText style="width: 574px;">
+		<text><![CDATA[Vyberte jednotlivé nadpisy. Chcete-li zobrazit další, zavřete textové pole kliknutím na X.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:178px;">
+		<revealCallOut width="300px" height="188px" top="15px" left="370px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s05/btn1.png" minwidth="769"><![CDATA[Zaměstnanec prohlížející na tabletu dokumenty společnosti]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Jsou tyto informace dostupné veřejnosti?]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 344px;top: -217px; display: block; left: 370px; width: 610px;line-height:20px;">			
+				<text style="margin-bottom: 7px;"><![CDATA[Veřejně dostupné informace o konkurenci můžeme vždy použít – a těch je k dispozici překvapivě mnoho. ]]></text>				
+				<text style="margin-bottom: 7px;"><![CDATA[Můžete prohlížet:<ul><li>Materiály, které jsou firmy povinny předkládat státním úřadům ze zákona</li><li>Veřejné proslovy vedoucích pracovníků</li><li>Výroční zprávy</li><li>Zprávy analytiků</li><li>Reportáže v médiích, tiskové zprávy a články v odborných časopisech</li><li>Prezentace na veletrzích</li><li>Inzeráty na pracovní pozice</li><li>Zveřejněné přihlášky patentů a ochranných známek</li></ul>]]></text>						
+				<text style="margin-bottom: 0px;"><![CDATA[Používáte-li takovéto zdroje, nezapomeňte uchovávat záznamy jako doklad o tom, že informace byly řádně získány.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="188px" top="15px" left="679px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s05/btn2.png" minwidth="769"><![CDATA[Podezřelá postava]]></img>
+			<buttonText style="height: 56px;"><![CDATA[Byly tyto informace získány nepatřičným způsobem?]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="" style="height: 225px;top: -217px; display: block; left: 370px; width: 610px;">
+				<text style="margin-bottom: 0px;"><![CDATA[Pokud ano, nemůžeme je použít. Patří sem informace, které:<ul><li>by společnost, jíž patří, považovala za důvěrné,</li><li>patří bývalému zaměstnavateli,</li><li>byly shromážděny podvodem, například vydáváním se za někoho jiného,</li><li>byly získány nezákonně, například neoprávněným vniknutím nebo získáním přístupu k počítačovým sítím jiné společnosti,</li><li>jsme od někoho získali díky úplatku.</li></ul>]]></text>					
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

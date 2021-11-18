@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[艾瑪有向經理羅傑通報這件事，但羅傑置之不理。 艾瑪應該怎麼做呢？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選擇一個選項，然後選擇「確定」。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[什麼都不做。 艾瑪已經舉報，後續追蹤是羅傑的責任。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[稟報合規或法務部門的人，或是聯繫誠信服務熱線，說明她的疑慮。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:23px;"><![CDATA[艾瑪稟報主管羅傑是正確的。 但是艾瑪相信羅傑不會處理這件事，所以她應該向更高層的人呈報她的疑慮。 她應該聯絡合規或法務部門的成員、人力資源代表，或是利用誠信服務熱線提出她的疑慮。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾瑪稟報主管羅傑是正確的。 但是，艾瑪認為羅傑不會採取任何行動來處理她的疑慮。 因此艾瑪做了正確的事，她進一步通報公司的其他資源，交由他們審查並妥善處理。]]></text>
+		</correct>
+	</feedback>
+</contents>

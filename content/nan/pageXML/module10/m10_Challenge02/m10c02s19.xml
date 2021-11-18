@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[湯姆拜託艾瑪給他 Johnson Controls 名人客戶的地址。 湯姆表示如果艾瑪能給他地址，他願意與艾瑪分享獲利。 艾瑪應該怎麼做呢？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[選擇一個選項，然後選擇「確定」]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+		<text><![CDATA[按「下一步」以瞭解事件進展。]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[向湯姆清楚表明自己不要任何報酬，但仍給湯姆地址。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[拒絕提供地址給湯姆，但不告訴任何人，以免他們認為自己也牽涉在內。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[拒絕提供地址給湯姆，並向經理舉報這個情況。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[確定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[當艾瑪同意給湯姆地址時，她便將兩人置於險境，即使她分文未取。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾瑪拒絕提供湯姆地址是正確的，但她知道甚至連湯姆的請求都有問題。]]></text>
+			<text><![CDATA[艾瑪應告知經理或法務部門成員，如果湯姆繼續這麼做，可能會讓公司陷入侵害隱私權的風險中。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾瑪拒絕提供湯姆地址，並將湯姆的請求向經理通報，這麼做是正確的。 如果她提供湯姆資訊，她就侵害到客戶的隱私權。 此外，勇於檢舉也幫助公司避免發生這種情況。]]></text>
+		</correct>
+	</feedback>
+</contents>

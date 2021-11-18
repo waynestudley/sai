@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c02s15">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c02/m10c02s15/contentBackground.jpg" minwidth="769"><![CDATA[Liste de contrôle]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Cliquez sur chaque étape de l’histoire.]]></text>
+		<text><![CDATA[Sélectionnez Suivant pour reconsidérer votre sélection et recommencer.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="107">			
+			<buttonText style=""><![CDATA[Dan envoie un e-mail]]></buttonText>			
+			<popText style="">
+				<text style="line-height: 20px;"><![CDATA[Dan envoie un e-mail contenant le lien vers le blog immobilier d’Emma à toutes les personnes figurant dans la liste des employés de l’entreprise.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="126">
+			<buttonText style=""><![CDATA[Emma envoie un e-mail de suivi]]></buttonText>
+			<popText style="">
+				<text style="line-height: 20px;"><![CDATA[Emma assure le suivi avec un e-mail groupé remerciant les gens pour leur soutien et donnant des nouvelles de Sandy. De nombreuses personnes laissent des messages souhaitant une bonne convalescence à Sandy dans la section des commentaires du blog. Plusieurs d’entre elles font une donation.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="129">
+			<buttonText style="line-height: 20px;"><![CDATA[Emma envoie un deuxième e-mail pour son blog immobilier]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Un mois plus tard, Emma envoie un nouvel e-mail groupé avec un lien vers son blog mettant en évidence sa dernière propriété qui est en vente, et elle propose une visite guidée anticipée aux employés de Johnson Controls intéressés.]]></text>			
+			</popText>
+		</accordion>	
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="151">			
+			<buttonText style=""><![CDATA[Conséquences]]></buttonText>
+			<popText style="">
+				<text style="line-height: 20px;"><![CDATA[Emma et Dan sont réprimandés pour utilisation inappropriée de la liste des adresses e-mail des employés et pour avoir violé la vie privée d’une employée. Emma ne devrait pas fournir d’informations sur l’état de santé de Sandy sur son blog. Elle ne devrait pas non plus faire du démarchage par e-mail en utilisant la liste des employés de l’entreprise.]]></text>				
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[Governos e reguladores punem o suborno de forma severa. É por isso que é tão importante que todos sejamos ativos para evitar essa prática. Corresponda a ação na coluna esquerda com as consequências na direita.]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[O que acontece com as empresas que se envolvem em suborno e corrupção?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[Um escritório]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<instructionText style="line-height:20px;height:40px;">
+		<text><![CDATA[Selecione um item na primeira coluna e arraste as setas para conectá-lo à consequência correspondente na segunda coluna. Quando estiver pronto, clique em Enviar.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[A AÇÃO]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[Funcionário contratando um estagiário ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Os bancos de investimento do JP Morgan na região da Ásia-Pacífico comandavam um programa que concedia empregos e estágios aos familiares e amigos de clientes em potencial, incluindo funcionários do governo. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[Funcionário do governo com um suborno ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[As subsidiárias de uma grande empresa internacional que fabricava fios de cobre, alumínio e fibra ótica pagaram milhões de dólares a agentes e distribuidores. Parte do dinheiro foi usada para subornar funcionários do governo para obter negócios, gerando USD 51 milhões em lucro líquido para a empresa.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[AS CONSEQUÊNCIAS]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[A empresa teve que pagar USD 76 milhões, e dois executivos que sabiam dos subornos tiveram que pagar novamente. ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[Juiz com martelo]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ O governo dos EUA descobriu que a empresa participava de um esquema de suborno sistemático que gerava recompensas comerciais consideráveis. A empresa foi obrigada a pagar USD 264 milhões.]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[Capitólio dos EUA visto a partir dos degraus do tribunal]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[As consequências do suborno e corrupção podem ser graves, tanto para um indivíduo quanto para uma empresa, e podem variar de multas à prisão.  A Johnson Controls confia em você em cada etapa do caminho para sempre evitar o suborno e denunciar imediatamente quaisquer atividades suspeitas nesta área.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[As consequências do suborno e corrupção podem ser graves, tanto para um indivíduo quanto para uma empresa, e podem variar de multas à prisão.  A Johnson Controls confia em você em cada etapa do caminho para sempre evitar o suborno e denunciar imediatamente quaisquer atividades suspeitas nesta área.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

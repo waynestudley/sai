@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m02s06">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[Wählen Sie für jedes dieser Beispiele „Geschenk“ oder „Unterhaltungsangebot“ aus und klicken Sie dann auf „Übermitteln“.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[Arbeiter im Büro]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Versuchen Sie zu erkennen, ob die einzelnen Beispiele als Geschenk oder Unterhaltungsangebot gelten.]]></text>
+	</contentText>
+	<instructionText style="height:34px;">
+		<text><![CDATA[Wählen Sie für jede Option „Geschenk“ oder „Unterhaltungsangebot“ aus und klicken Sie dann auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png"><![CDATA[Mitarbeiter beim gemeinsamen Mittagessen mit einem Lieferanten]]></img>
+			<text style="width: 406px;"><![CDATA[Ein Lieferant lädt das gesamte Projektteam zum Essen ein, um den Abschluss eines großen Projekts zu feiern.]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png"><![CDATA[Nachdenklicher Mitarbeiter]]></img>
+			<text style="width: 406px;"><![CDATA[Ein Kunde überreicht Ihnen als Dank für Ihre Arbeit einen Gutschein für eine Massage in einem örtlichen Resort.]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png"><![CDATA[Nachdenklicher Mitarbeiter]]></img>	
+			<text style="width: 406px;"><![CDATA[Sie nehmen im Auftrag des Unternehmens an einer Messe teil und die Veranstalter laden die Teilnehmer zu einer Abendveranstaltung ein.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png"><![CDATA[Nachdenklicher Mitarbeiter]]></img>	
+			<text style="width:406px;"><![CDATA[Ein Lieferant bietet an, nach einer Besprechung vor Ort für das Essen ihres Teams in einem lokalen Restaurant zu zahlen, wird an diesem Essen aber nicht teilnehmen.]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png"><![CDATA[Nachdenklicher Mitarbeiter]]></img>	
+			<text style="width:406px;"><![CDATA[Eine Lieferantin lädt Sie zu einer Sportveranstaltung ein, fühlt sich aber nicht gut und sagt Ihnen, dass Sie ohne sie gehen sollen.]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;font-size:10px;"><![CDATA[Geschenk]]></text>
+		<text styleWidth="width:100px;font-size:10px;line-height:10px"><![CDATA[Unterhaltung-sangebote]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Das ist richtig.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Für die Meldung von Geschenken oder Unterhaltungsangeboten gelten jeweils andere Regeln. Denken Sie daran, dass der Schenkende bei Unterhaltungsangeboten Nutzen aus dem verschenkten Angebot zieht – er isst mit zu Abend, nimmt ebenfalls an der Veranstaltung teil usw.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Ein Lieferant, der das Team zum Essen einlädt oder an der Abendveranstaltung einer Messe teilnimmt, nutzt Unterhaltungsangebote, da beide Ereignisse Gelegenheit zum Besprechen von Geschäftlichem bieten und der Schenkende Nutzen aus dem Angebot zieht. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Ein Geschenkgutschein und Veranstaltungen, die der Schenkende selbst nicht besucht, gelten als Geschenk. ]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Das stimmt leider nicht.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Für die Meldung von Geschenken oder Unterhaltungsangeboten gelten jeweils andere Regeln. Denken Sie daran, dass der Schenkende bei Unterhaltungsangeboten Nutzen aus dem verschenkten Angebot zieht – er isst mit zu Abend, nimmt ebenfalls an der Veranstaltung teil usw.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Ein Lieferant, der das Team zum Essen einlädt oder an der Abendveranstaltung einer Messe teilnimmt, nutzt Unterhaltungsangebote, da beide Ereignisse Gelegenheit zum Besprechen von Geschäftlichem bieten und der Schenkende Nutzen aus dem Angebot zieht. ]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Ein Geschenkgutschein und Veranstaltungen, die der Schenkende selbst nicht besucht, gelten als Geschenk. ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

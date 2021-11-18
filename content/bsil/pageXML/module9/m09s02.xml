@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m09s02">
+	<transcript>
+		<text path="audio/module9/m09s02" id="0"><![CDATA[Aqui estão algumas pessoas que acharam que estavam ajudando, mas que na verdade colocaram a empresa em grave risco. Selecione cada pessoa para saber mais.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px;line-height:18px;"><![CDATA[Você consegue ver por que as informações competitivas seriam valiosas! Mas não importa o quão útil elas poderiam ser: nunca devemos aceitar informações competitivas obtidas por meio de ações antiéticas ou ilícitas, como as definidas abaixo.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s02/contentBackground.jpg" minwidth="769" />
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;line-height:25px;"></pageTitle>
+	<instructionText style="width: 924px;line-height:20px;">
+		<text><![CDATA[Selecione cada pessoa.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="190px" top="5px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn1.png" minwidth="769"><![CDATA[Funcionário homem]]></img>
+			<buttonText style="height: 58px;"><![CDATA[Fingindo ser outra pessoa]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 70px;top: -10px;">
+				<text><![CDATA[Liguei para um concorrente e fingi ser um cliente. Pensei que saber sobre seus preços me ajudaria a concorrer com ele.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="5px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn2.png" minwidth="769"><![CDATA[Funcionário homem]]></img>
+			<buttonText style="height: 58px;"><![CDATA[Verificando a lixeira]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 70px;top: -10px;">
+				<text><![CDATA[Uma noite depois do trabalho, verifiquei as lixeiras dos escritórios de um concorrente. É claro que consegui encontrar informações sobre os lançamentos dos novos produtos.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="5px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn3.png" minwidth="769"><![CDATA[Funcionária]]></img>
+			<buttonText style="height: 58px;"><![CDATA[Pagando alguém para obter informações privilegiadas]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 70px;top: -10px;">
+				<text><![CDATA[Paguei um antigo funcionário para me dar as senhas das redes da empresa. Consegui muitas informações boas e ninguém nem sabe que eu estive lá.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="5px" left="749px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn4.png" minwidth="769"><![CDATA[Funcionária]]></img>
+			<buttonText style="height: 58px;"><![CDATA[Conspirando com um cliente antiético]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 90px;top: -10px;">
+				<text><![CDATA[Fiz uma reunião com um cliente antes de enviarmos uma proposta para um projeto futuro. Durante a reunião, ele saiu da sala por pouco tempo e disse que eu deveria dar uma olhada na pasta em sua mesa. Quando abri, era a proposta do nosso concorrente, incluindo o preço deles. Usei as informações para enviar uma oferta melhor. ]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m06s04" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module6/m06s04"><![CDATA[Jak dobře dokážete rozpoznat nepoctivou hospodářskou soutěž?]]></text>
+	</transcript>
+	<contentText>
+
+		<text style="line-height: 18px;font-size:14px;"><![CDATA[Jak dobře dokážete rozpoznat nepoctivou hospodářskou soutěž? Spojte příklady nepoctivé hospodářské soutěže s typem dohody, ke které dochází.]]></text>
+
+	</contentText>
+	<buttonText>		
+		<text style="position: relative;left:785px;top:0px;"><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module6/m06s04/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 882px;right: 70px;top: 12px;padding: 0;" wtbgStyle="padding: 6px 15px 10px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 4px;line-height:25px;"></pageTitle>	
+	<instructionText style="margin-top:5px; width:858px;line-height: 16px;height:30px;">
+		<text><![CDATA[Vyberte jednu z položek v prvním sloupci a poté ji přetažením šipek spojte s odpovídajícím typem nepoctivé hospodářské soutěže v druhém sloupci. Jakmile budete hotovi, klikněte na tlačítko Odeslat.]]></text>
+		<text><![CDATA[Kliknutím na jednotlivé otazníky zobrazíte další informace.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:31px auto 0 auto;" lineHolderW="880" lineHolderH="330" boundingRectStyle="    height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[SCÉNÁŘ]]></heder>			
+			<tab id="1" style="height:70px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 70px;">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img01.png"><![CDATA[Dva konkurenti na obědě]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Dva konkurenti na obědě]]></dragIcon>
+				<text style=""><![CDATA[Dva konkurenti spolu jdou na oběd. Dohodnou se, že jeden se bude soustředit na odbyt na severu země, druhý na jihu.]]></text>				
+			</tab>			
+			<tab id="2" style="height:70px" dragPosition="left:553px; top:89px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img02.png"><![CDATA[Tři konkurenti spolu hovoří]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Tři konkurenti spolu hovoří]]></dragIcon>
+				<text style=""><![CDATA[Tři konkurenti působící na jednom malém trhu se sejdou, aby probrali následující rok. Procházejí nadcházející tendry a dohodnou se, že vždy jeden z nich podá levnější nabídku, zatímco druzí dva nabídnou příliš vysoké ceny a neuspějí.]]></text>
+			</tab>	
+			<tab id="3" style="height:70px" dragPosition="left:553px; top:170px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img03.png"><![CDATA[Vysoce postavení pracovníci odbytu na oborové konferenci]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Vysoce postavení pracovníci odbytu na oborové konferenci]]></dragIcon>
+				<text style=""><![CDATA[Na oborové konferenci se několik vysoce postavených pracovníků odbytu baví o tom, že největší dodavatel na trhu neférově tlačí ceny nahoru. Dohodnou se, že výrazně sníží objednávky, případně je úplně zruší, a najdou si jiného dodavatele, dokud ceny zase neklesnou.]]></text>
+			</tab>
+			<tab id="4" style="height:70px" dragPosition="left:553px; top:251px;z-index:5;height:70px">
+				<leftIcon style="height:70px" path="content/images/ltr/module6/m06s04/img04.png"><![CDATA[Skupina procentních znaků]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[Skupina procentních znaků]]></dragIcon>
+				<text style=""><![CDATA[Několik konkurentů v odvětví, v němž poslední dobou velmi stoupá cena surovin, se neformálně dohodne, že zákazníkům nabídnou maximálně 10% slevu.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 275px;left: 640px;">		
+			<heder><![CDATA[TYP NEPOCTIVÉ HOSPODÁŘSKÉ SOUTĚŽE]]></heder>
+			<tab id="1" style="height:70px" dropPosition="left: 643px;top: 8px;height: 70px;">
+				<text style=""><![CDATA[Rozdělení trhu]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img05.png"><![CDATA[Koláčový graf]]></rightIcon>
+			</tab>	
+			<tab id="2" style="height:70px" dropPosition="left: 643px;top: 89px;height: 70px;">
+				<text><![CDATA[Manipulace s nabídkami]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img06.png"><![CDATA[Dva obchodníci spolupracují na nabídce]]></rightIcon>
+			</tab>	
+			<tab id="3" style="height:70px" dropPosition="left: 643px;top: 170px;height: 70px;">
+				<text><![CDATA[Skupinový bojkot]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img07.png"><![CDATA[Skupina se rozhoduje bojkotovat zákazníka, aby jej potrestala]]></rightIcon>
+			</tab>	
+			<tab id="4" style="height:70px" dropPosition="left: 643px;top: 251px;height: 70px;">
+				<text><![CDATA[Cenová dohoda]]></text>
+				<rightIcon style="height:70px" path="content/images/ltr/module6/m06s04/img08.png"><![CDATA[Dva soutěžící uzavírají cenovou dohodu]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="left: 712px;top: 165px;width: 275px;">
+				<text style=""><![CDATA[Rozdělení zákazníků či území (neboli rozdělení trhu) nastává tehdy, když se konkurenti dohodnou, že si rozdělí zákazníky, produkty nebo území. V konkrétní oblasti tak není přílišná konkurence a zákazník má k dispozici méně možností.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="left: 712px;top: 165px;width: 275px;">
+				<text style=""><![CDATA[O manipulaci nabídek jde tehdy, když uchazeči předem zkoordinují své nabídky s cílem ovlivnit výsledek.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 165px;width: 275px;">
+				<text style=""><![CDATA[Podniky jednají každý sám za sebe – obecně mají právo samy se rozhodnout, s kým vstoupí do obchodního styku. Když se ale dvě či více firem dohodne, že někoho z obchodní spolupráce vyloučí, jde o bojkot a to je v rozporu se zákony na ochranu hospodářské soutěže.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="left: 712px;top: 165px;width: 275px;">
+				<text style=""><![CDATA[Cenová dohoda značí, že se konkurenti dohodnou na cenách či jiném aspektu, v němž by si měli konkurovat, takže hospodářská soutěž není volná a nezávislá.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[艾玛将情况报告给经理罗杰，但罗杰对此置之不理。 艾玛现在该怎么做？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[什么都不做。 艾玛已经报告此事，后续跟进是罗杰的责任。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[向合规或法律部门的同事或联系诚信热线，讲述自己的疑虑。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:18px;"><![CDATA[艾玛将此事报告给经理罗杰，这是正确的做法。 但艾玛不相信罗杰会处理此事，因此，她应该将疑虑向更高层汇报。 她可以联系合规或法律部门的同事、人力资源代表，或向诚信热线报告自己的疑虑。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[艾玛将此事报告给经理罗杰，这是正确的做法。 但是艾玛认为罗杰不会就她的疑虑采取更多行动。 因此，艾玛采取进一步行动，与公司其他能够审查并恰当处理此事的人员交谈，这是正确的做法。]]></text>
+		</correct>
+	</feedback>
+</contents>

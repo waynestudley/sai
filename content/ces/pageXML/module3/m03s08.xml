@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[Vlády a regulační orgány postupují v případě úplatkářství tvrdě. Proto je velmi důležité, abychom my všichni přijali aktivní úlohu a úplatkářství předcházeli. Dokážete k jednání v levém sloupci přiřadit důsledky uvedené vpravo?]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Co se stane podnikům, které se podílejí na úplatkářství a korupci?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[Kancelář]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<instructionText style = "width: 100%;line-height:20px;height:40px;">
+		<text><![CDATA[Vyberte jednu z položek v prvním sloupci a poté ji přetažením šipek spojte s odpovídajícím důsledkem v druhém sloupci. Jakmile budete hotovi, klikněte na tlačítko Odeslat.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[JEDNÁNÍ]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[Zaměstnanec přiděluje někomu stáž. ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Investiční bankéři v asijsko-tichomořské oblasti společnosti J.P. Morgan provozovali program, který přiděloval pracovní místa a stáže příbuzným a přátelům potenciálních klientů, včetně státních úředníků. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[Státní úředník, s úplatkem v ruce ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Dceřiné společnosti velké mezinárodní korporace, která vyráběla měď, hliník a optická vlákna, zaplatily miliony dolarů externím zástupcům a distributorům. Část těchto prostředků byla využita na uplácení státních úředníků s cílem získat státní zakázky, které společnosti vynesly čistý zisk 51 milionů USD.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[DŮSLEDKY]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[Společnosti bylo uloženo zaplatit 76 milionů USD a dva vedoucí pracovníci, kteří o úplatcích věděli, museli zaplatit miliony. ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[Soudce s kladívkem]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ Úřady Spojených států shledaly, že se společnost „zapojila do plánovitého systému úplatkářství“, což jí přineslo významný obchodní prospěch. Společnosti bylo uloženo zaplatit 264 milionů USD.]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[Budova Kapitolu Spojených států průhledem skrz schodiště soudní budovy]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[Důsledky úplatkářství a korupce mohou být velmi závažné – jak pro fyzické osoby, tak pro společnost – a mohou se pohybovat od pokut až po trest odnětí svobody.  Společnost Johnson Controls na vás v každém okamžiku spoléhá, že se budete za všech okolností vyhýbat úplatkářství a jakékoli podezřelé aktivity v této oblasti ihned nahlásíte.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[Důsledky úplatkářství a korupce mohou být velmi závažné – jak pro fyzické osoby, tak pro společnost – a mohou se pohybovat od pokut až po trest odnětí svobody.  Společnost Johnson Controls na vás v každém okamžiku spoléhá, že se budete za všech okolností vyhýbat úplatkářství a jakékoli podezřelé aktivity v této oblasti ihned nahlásíte.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

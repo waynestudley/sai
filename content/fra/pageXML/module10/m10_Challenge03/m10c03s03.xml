@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Carlos se sent contraint à réparer les appareils ou risquer de perdre plusieurs contrats avec un gros client. Que doit faire Carlos ?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Sélectionnez votre réponse, puis cliquez sur « OK ».]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Accepter l’argent et réparer les appareils afin que Johnson Controls ne perde pas d’autres contrats importants dans le bâtiment, mais informer Rafael que cet arrangement n’aura lieu qu’une fois.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Refuser l’argent, mais réparer quand même les appareils afin que Johnson Controls ne perde pas d’autres contrats importants dans le bâtiment.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Se retirer de la conversation et appeler son supérieur.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos accepte l’argent de la part de Rafael et réparer les appareils mal installés. Johnson Controls conserve ses contrats avec le bâtiment.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos fait le travail mais refuse l’argent offert par Rafael.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos appelle son supérieur pour lui demander des conseils.]]></text>
+			<text style=""><![CDATA[Le responsable de Carlos lui demande de partir avec son équipe. Lorsque Carlos est de retour au bureau, ils appellent ensemble le service conformité. ]]></text>
+			<text style=""><![CDATA[Une enquête est ouverte et permet de découvrir que Rafael a fait cette proposition plusieurs fois par le passé et que d’autres techniciens de Johnson Controls ont accepté le pot-de-vin. L’entreprise prend des mesures disciplinaires contre ces techniciens. ]]></text>
+		</correct>
+	</feedback>
+</contents>

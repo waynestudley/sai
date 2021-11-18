@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[Mari lihat beberapa situasi seharian. Adakah orang ini menyebabkan data peribadi berisiko?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Manakah antara berikut mungkin berisiko kepada privasi data?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[Pejabat yang sibuk, pekerja bekerja di komputer]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Pilih semua senario yang anda percaya menyebabkan data peribadi berisiko.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Mungkin terdapat lebih daripada satu jawapan yang betul.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Menyertai Wi-Fi awam]]></option>	
+		<option><![CDATA[Menggunakan kata laluan yang sama di dua tempat]]></option>	
+		<option><![CDATA[Menyiarkan gambar mesyuarat pasukan dengan latar belakang papan putih di media sosial]]></option>	
+		<option><![CDATA[Membincangkan maklumat kewangan dengan pelanggan menggunakan telefon di tempat awam]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Betul.]]></text>
+			<text><![CDATA[Semua contoh ini menyebabkan data privasi anda berisiko.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Tidak betul.]]></text>
+			<text><![CDATA[Semua contoh ini menyebabkan data privasi anda berisiko.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

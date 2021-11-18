@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s19">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[يطلب توم من غيما توفير عناوين عملاء Johnson Controls من المشاهير له. ويعرض توم على إيما جزءًا من أرباحه إذا قامت بإعطائه العناوين. ما الذي ينبغي على إيما فعله؟]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c02/m10c02s19/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق"]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[إخبار توم بشكل واضح أنها لا تريد أي مدفوعات، وتقوم بإعطائه القائمة.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[رفض إعطاء توم قائمة العناوين، وعدم إخبار أي شخص حتى لا يشعر أحد أنها مشاركة في هذا الأمر.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[رفض إعطاء توم قائمة العناوين، وإبلاغ مديرتها بالموقف.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[عندما توافق إيما على إعطاء العناوين إلى توم، فإنها تعرض نفسها هي وتوم للخطر، حتى إذا لم تقبل الحصول على جزء من أرباحه.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[لقد كانت إيما على حق عندما رفضت إعطاء قائمة العناوين إلى توم، إلا أنها يجب أن تدرك أن مجرد طلبه لهذا الطلب يمثل مشكلة.]]></text>
+			<text><![CDATA[يجب أن تتحدث إيما مع مديرها أو مع أحد أفراد قسم الشؤون القانونية، وإذا تابع توم محاولة الحصول على تلك العناوين، يمكن أن يمثل ذلك خطرًا متعلقًا بالخصوصية على الشركة.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[لقد قامت إيما بفعل الشيء الصواب من خلال رفض توفير العناوين إلى توم وكذلك إبلاغ مديرها بطلبه. إذا أعطت المعلومات إلى توم، فستكون قد انتهكت خصوصية العملاء. ومن خلال الكشف عن الأمر، فقد ساعات الشركة على منع مثل هذا الأمر من الوقوع.]]></text>
+		</correct>
+	</feedback>
+</contents>

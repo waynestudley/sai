@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[여러분은 위험한 상황을 얼마나 잘 인식하십니까? 이 시나리오를 읽고 각 보기에 대해 '동의' 또는 '동의 안 함'을 선택한 후 '제출'을 클릭하십시오.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[사무실 복도]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[여러분이 중동에서 함께 일하는 한 컨설턴트가 화물의 수입 관세가 높았는데 "더 저렴한 방안"을 발견하여 현재 그 화물을 반출했다고 말합니다. 다음 중 여러분이 동의하는 설명은 무엇입니까?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[각 보기에서 '동의' 또는 '동의 안 함'을 선택하고 '제출'을 클릭하십시오. ]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[부두]]></img>
+			<text style="width: 450px;"><![CDATA[이 "더 저렴한 방안"은 누군가에게 뇌물을 준 것일 수 있습니다. ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[부두]]></img>
+			<text style="width: 450px;"><![CDATA[의심되는 것을 관리자나 법무 부서에 보고해야 합니다.   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[부두]]></img>	
+			<text style="width: 450px;"><![CDATA[일이 어떻게 진행되는지 보고 나서 관리자와 상의해야 합니다.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[부두]]></img>	
+			<text style="width:450px;"><![CDATA[그 컨설턴트가 우리 회사를 대신하여 뇌물을 주었다면 Johnson Controls가 아니라 그가 책임을 질 것입니다.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[부두]]></img>	
+			<text style="width:450px;"><![CDATA[돈을 절약해 준 것에 대해 그 컨설턴트에게 감사를 표하고 앞으로 더 많은 일을 그에게 맡겨야 합니다.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[동의]]></text>
+		<text><![CDATA[동의 안 함]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[정답입니다.]]></text>			
+			<text style="font-size: 13px;"><![CDATA["더 저렴한 방안"은 뇌물일 수 있습니다. 때때로 뇌물은 매우 미묘할 수 있습니다. 그런 상황에서는 의심되는 것을 즉시 관리자, 법무 또는 규정 준수 부서의 담당자에게 보고하거나 정직성 헬프라인으로 우려 사항을 보고해야 합니다. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[제3자가 Johnson Controls를 대신하여 뇌물을 제공하더라도 여전히 우리에게 책임이 있습니다.]]></text>			
+		</correct>
+		<incorrect style="top: 75px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[정답이 아닙니다.]]></text>	
+			<text style="font-size: 13px;"><![CDATA["더 저렴한 방안"은 뇌물일 수 있습니다. 때때로 뇌물은 매우 미묘할 수 있습니다. 그런 상황에서는 의심되는 것을 즉시 관리자, 법무 또는 규정 준수 부서의 담당자에게 보고하거나 정직성 헬프라인으로 우려 사항을 보고해야 합니다. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[제3자가 Johnson Controls를 대신하여 뇌물을 제공하더라도 여전히 우리에게 책임이 있습니다.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

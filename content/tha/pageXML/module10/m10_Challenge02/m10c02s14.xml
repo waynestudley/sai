@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s14">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[แดนควรตอบสนองต่อคำขอของเอ็มม่าอย่างไร]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s14/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือก จากนั้นเลือก ตกลง]]></text>
+		<text><![CDATA[คลิกที่ ถัดไป เพื่อดูว่าเกิดอะไรขึ้น]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[เขาควรจะดำเนินการตามคำขอร้องของเอ็มม่าเพื่อช่วยเพื่อนพนักงาน]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[แดนไม่ควรให้ข้อมูลทางการแพทย์โดยตรงในอีเมล แต่เขาสามารถส่งลิงก์ไปยังบล็อกของเอ็มม่าได้]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[แทนที่จะส่งอีเมลไปทั่วทั้งบริษัท แดนแนะนำว่าเอ็มม่าควรถามแซนดี้ว่าพวกเขาสามารถช่วยเหลือได้อย่างไรบ้าง]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ตกลง]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[แดนส่งอีเมลถึงพนักงานจอห์นสัน คอนโทรลส์ทุกคนเกี่ยวกับข้อมูลอุบัติเหตุของแซนดี้และลิงก์ไปยังบล็อกของเอ็มม่า]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[แดนส่งอีเมลพร้อมลิงก์ไปยังบล็อกของเอ็มม่า ดูเหมือนเขาไม่ได้ตระหนักว่านี่เป็นการใช้รายชื่ออีเมลของพนักงานที่ไม่เหมาะสม]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[เมื่อเอ็มม่าถามว่าเธอจะช่วยอะไรได้บ้าง แซนดี้แนะนำว่าเอ็มม่าสามารถบอกเพื่อนของเธอบางคนที่ใช้ Facebook ว่าครอบครัวของเธอสร้างขึ้น]]></text>
+			<text><![CDATA[เอ็มม่าแบ่งปันข้อมูลนี้กับบุคคลที่แซนดี้แนะนำเท่านั้น เพื่อนร่วมงานของเธอโพสต์ข้อความว่าขอให้หายดี ซึ่งทำให้แซนดี้รู้สึกมีกำลังใจ น้อยรายที่บริจาคเงินช่วยเหลือค่ารักษาพยาบาลของแซนดี้ ซึ่งช่วยบรรเทาความกังวลของเธอ]]></text>
+		</correct>
+	</feedback>
+</contents>

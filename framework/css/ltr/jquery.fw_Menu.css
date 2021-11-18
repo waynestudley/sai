@@ -1,0 +1,140 @@
+.menupage{ height:100%;padding-top:1px;width:100%; display:none;}
+.menupage .contentText{padding: 0px 15px 0px 15px;font-size: 15px;}
+.menupage .contentText p{margin-bottom: 5px;}
+
+.cleargroup{left:0!important}
+.menuInstr{ z-index:1000; bottom: 50px;height: auto;min-height: auto;}
+.menupage .homeicon{width: 0;height: 0;vertical-align: bottom;}
+.menupage .homeicon img{vertical-align: middle;}
+.menupage .submenu{  background-color: #0057a6; color: #ffffff; padding: 10px; position: absolute;top: 420px; width: 692px;margin: 0px 40px 5px 154px;display: none;} 
+.menupage .submenu p{ margin-bottom:10px;} 
+.menupage .white-background-bg{margin-right: 2px;}
+.groupContainer{margin:0 auto;padding-left:0;position:relative;top: 10px;  clear:both; float:none}
+.menupage .overTextArrow{background: url('../../images/ltr/menuIcon.png') no-repeat scroll -2px -2px transparent;position:absolute;width:12px;height: 10px; display:none;z-index: 150;}
+.menupage .overTextArrow.down{background-position: -2px -17px;}
+.menupage .closeOverText{background-image: url("../../images/ltr/tickCross.png");background-position: -10px -80px;background-repeat:no-repeat;height: 30px;position:absolute;right:0px;top:6px;width: 30px; background-color: #dfe0de;z-index:100;}
+.menupage .closeOverText:hover{background-position: -50px -80px;}
+
+.menupage .menuModuleParent{height: 97px; width: 246px; float:left;margin-right: 2px; position: relative;  /*! background-color: #bbbbbb; */margin-bottom: 2px;}
+
+.menupage .menuModule{border:3px solid #FFF !important; cursor:pointer;height: 91px; width: 240px;display:block;position:relative;z-index: 100;background-color: #00549E;}
+.menupage .menuModule.menuModuleHover{background-color:#D5D537}
+.menupage .menuModule.disabled{background-color:#bbbbbb;}
+.menupage .menuModuleParent.menuIncomplete .menuModule{}
+.menupage .menuModuleParent.menuComplete .menuModule{}
+
+.menupage .menuModuleParent.menuIncomplete .menuModule.moduleOptional{background-color:#bbbbbb;}
+.menupage .menuModuleParent.menuComplete .menuModule.moduleOptional {background-color:#bbbbbb;}
+
+.menupage .menuModuleParent.menuIncomplete .menuModule.moduleOptional.menuModuleHover{background-color:#D5D537;}
+.menupage .menuModuleParent.menuComplete .menuModule.moduleOptional.menuModuleHover {background-color:#D5D537;}
+
+.menupage .startBtn{position:relative;display:none;z-index:1100;font-size:15px;border: 4px solid #FFF;min-width: 83px;float: right;margin-top: -27px;}
+.isIpad .menupage .startBtn{width: 86px;}
+.menupage .moduleText {color: #ffffff;width: 108px;  position: absolute;top: 0;z-index: 130; font-size: 13px;text-align: center;/*! font-weight:bold; */left: 95px;display: table;height: 100%;}
+.menupage  .menuModuleHover .moduleText {color: #444850;}
+.menupage .moduleText  .text{display: table-cell;vertical-align: middle;text-align: left;padding-left: 5px;font-family: 'SEGOEUISemiBold', sans-serif;}
+.menupage .overText{min-height: 79px;font-weight: normal;padding: 7px 10px 35px; width: 973px; font-size: 15px;display:none; position: absolute;top: 157px; background-color:#dfe0de;z-index: 1001;height: 253px;/*! top: 0px !important; *//*! left: 0px !important; */margin-bottom: 10px !important;}
+.menupage .overText .oTxtCon{margin-right:25px;display: table-cell;vertical-align: middle;}
+.menupage .overText .oTxtCon p{margin-bottom:10px;}
+.menupage .overText .oTxtCon-div span{color:#0080b6; display: block;padding-top: 15px;bottom: 10px;left: 7px; /*! font-weight:bold; */font-style:italic;}
+.menupage .menuModuleParent.menuModuleHover{/*! background-color:#FEAF02 */}
+.menupage .menuModuleParent.menuModuleHover .overText{display:block;}
+
+.menupage .menuToolTip{display:none;left:20px;position:absolute;top:400px;width:200px;z-index:10000}
+.menupage .menuToolTipText{background-color:#ffce05;padding:8px;width:154px}
+.menupage .tickCross{display:block!important; background:url(../../images/ltr/menuIcon.png) no-repeat scroll 0 100px transparent;height:24px;width:24px;right: 3px;top: 3px;z-index: 120;position: absolute;}
+.menupage .menuComplete .tickCross{background-position:-2px -68px}
+.menupage .menuIncomplete  .tickCross{background-position:-2px -38px}
+
+
+.menupage .menuModule.menuOptional,.menupage .menuModule.menuComplete.menuOptional,.menupage .menuModule.menuIncomplete.menuOptional { /*! opacity: 0.2; */ filter:alpha(opacity=30); background-color:#bbbbbb;}
+.menupage .menuModule.menuOptional.menuModuleHover{background-color:#D5D537;}
+.menupage .menuModuleHover .menuModule.menuOptional{opacity:1; filter:alpha(opacity=100); }
+.menuImage{position:absolute;left:0;bottom:0;top: 0;}
+.menuPopImage{position:absolute;left:7px;top: 7px;}
+.oTxtCon-table{position:absolute;left:400px;bottom:0;top: 0;width: 560px;display: table;height: 100%;padding-right: 20px;}
+.oTxtCon-table .title{color:#00549E; font-size:19px;margin-bottom: 10px !important;font-family: 'SEGOEUISemiBold', sans-serif;}
+
+
+
+.subGroupContainer{margin:0 auto;/*! padding-left: 100px; *//*! position:absolute; */top: 120px;clear:both; float:right;display:none;margin-top: 10px;}
+
+.subGroupContainer .oTxtCon-table{width: 392px;left: 420px;}
+.subGroupContainer .oTxtCon-div{padding: 65px 0;}
+.subGroupContainer .menuModuleParent {height: 175px;width: 260px}
+.subGroupContainer .menuModule { height: 100%;width: 100%;}
+.subGroupContainer .moduleText {width: 92%;left: 10px;top: 59px;}
+.subGroupContainer #module13 .moduleText {/*! bottom: 12px; *//*! width: 98%; *//*! left: 0px; */}
+.menupage .subGroupContainer .overText{ width: 822px; /*! min-height: 74px; */}
+.subGroupContainer .moduleText .text {text-align: center;}
+
+
+.groupContainer  .menuModuleParent   .menuModule:focus {background-color:#bbbbbb!important;}
+
+.menupage .disabled{cursor:default!important;opacity: 0.8;filter:alpha(opacity=80);}
+
+/* .menupage .a-button,.menupage .a-button span {background-image:url(../../images/ltr/start_btn.png);} */
+
+.menupage .optinalTextDiv{position: absolute;display: none; bottom: 2px; left: 2px; z-index: 110;}
+.menupage .optinalTextDiv .optinalText{display: table-cell; background-color: #FFAF01; color: #333740; font-size: 12px; font-weight: bold; vertical-align: middle; padding: 0px 5px 0px 10px; height: 28px; }
+.menupage .optinalTextDiv .optinalArrow{background: url(../../images/ltr/option_triangle.png) no-repeat scroll 0px 0px transparent;display: table-cell;height: 28px;width: 30px;}
+/* iPads (portrait) -----------*/
+
+.subGroupContainer{float: none;}
+.subGroupContainer .optinalTextDiv { bottom: 52px;left: 3px;}
+.subGroupContainer .menuModuleParent{margin-right: 28px;}
+.subGroupContainer .menuModuleParent:last-child{margin-right: 0px;}
+.subMenuStart{color:#0080b6;font-style:italic;font-size:15px;}
+.menupage .disabled:focus{background-color:#bbbbbb!important}
+
+.acno  .menupage .moduleText .text{line-height: 15px;}
+.acno  .menupage .startBtn {min-width: 124px;}
+
+.deu  .menupage .moduleText .text{line-height: 15px;}
+.deu  .menupage .startBtn {min-width: 99px;}
+.deu  .menupage .groupContainer .moduleText {font-size: 11px;left: 92px;}
+.deu .menupage  .subGroupContainer .moduleText { font-size: 15px;}
+.deu .menupage .subGroupContainer .moduleText .text {line-height: 17px;}
+
+.ces  .isIpad .menupage .startBtn {min-width: 110px!important;}
+.ces  .menupage .startBtn span{padding-left:7px;}
+.ces  .menupage .moduleText .text{line-height: 16px;}
+
+ 
+.tha  .menupage .startBtn {min-width: 75px!important;}
+.tha  .menupage .startBtn span{padding-left:12px;}
+.tha  .menupage .moduleText {font-size: 14px;}
+
+.fra  .menupage .moduleText {font-size: 12px;}
+.fra  .menupage .moduleText .text{line-height: 15px;}
+.fra  .isIpad .menupage .startBtn {min-width: 147px!important;}
+.fra  .menupage .startBtn span{padding-left:7px;}
+
+.kor  .menupage .startBtn {min-width: 73px!important;}
+.kor  .menupage .startBtn span{padding-left:12px;}
+
+.nld  .menupage .moduleText .text{line-height: 15px;}
+.nld  .menupage .startBtn {min-width: 99px;}
+.nld  .menupage .groupContainer .moduleText {font-size: 12px;/* left: 92px; */}
+.nld .menupage  .subGroupContainer .moduleText { font-size: 15px;}
+.nld .menupage .subGroupContainer .moduleText .text {line-height: 17px;}
+
+.nan  .menupage .startBtn span{padding-left:3px;}
+
+.zho  .menupage .startBtn span{padding-left:3px;}
+
+.rus .menupage .contentText{font-size: 14px; line-height: 18px;}
+.rus .menupage .groupContainer .moduleText {width: 120px; font-size: 12px; left: 115px; line-height: 14px; }
+.rus  .isIpad .menupage .startBtn {min-width: 100px!important;}
+.rus  .isIpad .menupage .startBtn span{padding-left:0px; padding-right:45px;}
+.rus .isIpad .menupage .optinalTextDiv .optinalText{font-size: 11px;}
+
+.jpn .menupage .contentText { font-size: 12px;}
+
+.mly .menupage .moduleText .text{line-height: 15px;}
+
+.slk .menupage .moduleText .text{line-height: 16px;}
+
+.bsil .menupage .groupContainer .moduleText{font-size:12px;left:105px;}
+.bsil .isIpad .menupage .startBtn span{padding-left:0px; padding-right:40px;}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[L’intervento della moglie di Jian è un successo, ma i medici la trattengono in osservazione per la notte. Il giorno successivo, perché il reparto IT non dispone di computer portatile sostitutivo fino alla fine della giornata lavorativa, Jian utilizza il suo laptop personale e lavora dalla stanza di sua moglie. Con il suo portatile è in grado di visualizzare le informazioni del file principale del fornitore.]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Qual è il modo migliore per far avere quei cambiamenti a Holly?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[Stanza d’ospedale della moglie di Jian]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Seleziona un’opzione e fai clic su OK.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian accede al Wi-Fi pubblico e invia tramite e-mail il file aggiornato dalla chiavetta utilizzando il suo account di posta elettronica personale.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian realizza che inviare la versione aggiornata del file principale da caricare a Holly potrebbe causare problemi poiché altri potrebbero avere modificato file principale l'originale in sua assenza e i suoi aggiornamenti potrebbero sovrascriverli. Così, mentre pranza alla mensa dell’ospedale chiama Holly e l’accompagna attraverso le modifiche mentre lei immette il file principale nel sistema aziendale.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian chiede a Holly di ritirare la chiavetta criptata da lui in ospedale.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:280px;" fcStyle="top: -189px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[Jian invia le informazioni a Holly, ma il download del file crea una copia in conflitto con l'attuale database dei fornitori e il team deve dedicare molte ore ad aggiornare e alla confermare le informazioni.]]></text>
+			<text style="font-size:15px;"><![CDATA[Fatture false vengono inviate alla società di Jian, apparendo provenienti da fornitori legittimi, ma contengono le informazioni bancarie di chi tenta di frodare l'azienda. Mesi dopo, lo schema viene scoperto e i risultati delle indagini indicano una violazione della sicurezza nel database dei fornitori nello stesso periodo in cui Jian era all'ospedale. Jian ha qualche spiegazione da dare!]]></text>
+			<text style="font-size:15px;"><![CDATA[L'opzione più sicura sarebbe stata che Jian chiedesse a Holly di ritirare la chiavetta criptata. Anche se ciò non evita al team di trascorrere delle ore sistemando le modifiche di Jian con quelle presenti nel database del fornitore, avrebbe garantito la protezione dei dati sensibili.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:250px;" fcStyle="top: -189px;">
+			<text style="padding-top:25px;"><![CDATA[Holly è in grado di aggiornare il file principale del fornitore, e fa solo alcuni errori che vengono successivamente trovati e corretti.]]></text>
+			<text><![CDATA[Tuttavia le altre persone che pranzano alla mensa dell’ospedale possono sentire ogni parola di Jian, che espone inutilmente le informazioni del fornitore.]]></text>
+			<text><![CDATA[L'opzione più sicura sarebbe stata che Jian chiedesse a Holly di ritirare la chiavetta criptata. Ciò avrebbe garantito la protezione dei dati sensibili.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:250px;" fcStyle="top: -189px;">
+			<text style="padding-top:25px;"><![CDATA[Holly ritira la chiavetta, ma mentre Jian stava lavorando sulla sua copia in remoto, i suoi colleghi hanno modificato l'originale. Quando Holly carica la versione di Jian, i cambiamenti dei suoi colleghi vengono sovrascritti. Il team deve dedicare molte ore all'aggiornamento e alla conferma delle informazioni.]]></text>
+			<text><![CDATA[Jian viene rimproverato per aver scaricato il file principale, ma almeno l'informazione è sicura. Holly non avrebbe dovuto caricare il file rivisto senza domandare agli altri autori se avessero apportato aggiornamenti che avrebbero potuto avere delle conseguenze.]]></text>
+			<text><![CDATA[Questo è il modo di agire più sicuro, poiché garantisce la protezione dei dati sensibili.]]></text>
+		</correct>
+	</feedback>
+</contents>

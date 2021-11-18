@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s09" id="0"><![CDATA[測驗您對可接受與不可接受的理解程度。 針對每個項目選取「可接受」或「不可接受」，然後按一下「提交」。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s09/contentBackground.jpg" minwidth="769"><![CDATA[一件禮品]]></img>
+	</contentBackground>
+	<contentBg style="width: 647px;right: 358px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[這些禮品「可接受」或「不可接受」？]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[針對每個項目選取「可接受」或「不可接受」，然後按一下「提交」。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>
+	<optionContent style="width:650px;margin-top:0px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img01.png"><![CDATA[Johnson Controls 筆]]></img>
+			<text style="width: 336px;"><![CDATA[某 Johnson Controls 員工送一支印有 Johnson Controls 標誌的筆給一位客戶，作為順利完成某件專案的紀念]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img02.png"><![CDATA[拿著一張禮品卡的員工]]></img>
+			<text style="width: 336px;"><![CDATA[假期期間，一位供應商送了一張 50 美元的禮券給 Johnson Controls 員工]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img03.png"><![CDATA[包廂]]></img>	
+			<text style="width: 336px;"><![CDATA[一位供應商送給一位 Johnson Controls 員工 4 張職業運動季後賽包廂票，告訴那位員工是他公司免費提供的]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s09/img04.png"><![CDATA[拿著一瓶香檳的員工]]></img>	
+			<text style="width:336px;"><![CDATA[一位正在參與 Johnson Controls 合約投標的長期供應商，送了幾瓶香檳給 Johnson Controls 團隊]]></text>	
+		</option>
+		
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[可接受]]></text>
+		<text styleWidth="width:100px;"><![CDATA[不可接受]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[提交]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -20px;width: 300px;height: 350px;padding-top: 20px;right: -335px;line-height:18px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[正確。]]></text>			
+			<text style="font-size: 14px;"><![CDATA[<ul> <li>Johnson Controls 的呈報禮品門檻為 200 美元。 </li> <li>若無對您產生不當影響或構成未來義務的意圖，您可接受價值低於 200 美元的禮品。 </li> <li>如果您收到超過 200 美元以上的禮品 (例如比賽門票)，必須使用禮品呈報表揭露。 表格會經過審核，並且會建議您能否留下該禮品。</li> <li>您不可贈送或接受任何價值的現金或現金等值物，例如禮品卡。</li> <li>所有打算贈送給商業客戶的禮品均須事先獲得業務經理的批准。 </li> <li>打算贈與政府官員的禮品必須提前 7 天使用 AB 表申請核准。</li> <li>呈報表可由此連結取得<a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a></li></ul>]]></text>			
+		</correct>
+		<incorrect style="top: -20px;width: 300px;height: 350px;padding-top: 20px;right: -335px;line-height:18px;">
+			<text style="padding-top:0px;margin:0;margin-bottom:10px;font-size: 18px;"><![CDATA[錯誤。]]></text>	
+			<text style="font-size: 14px;"><![CDATA[<ul> <li>Johnson Controls 的呈報禮品門檻為 200 美元。 </li> <li>若無對您產生不當影響或構成未來義務的意圖，您可接受價值低於 200 美元的禮品。 </li> <li>如果您收到超過 200 美元以上的禮品 (例如比賽門票)，必須使用禮品呈報表揭露。 表格會經過審核，並且會建議您能否留下該禮品。</li> <li>您不可贈送或接受任何價值的現金或現金等值物，例如禮品卡。</li> <li>所有打算贈送給商業客戶的禮品均須事先獲得業務經理的批准。 </li> <li>打算贈與政府官員的禮品必須提前 7 天使用 AB 表申請核准。</li> <li>呈報表可由此連結取得<a href="http://complianceforms.jci.com" class="aLinkColor" target="_blank">http://complianceforms.jci.com</a></li></ul>]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[Seleziona Regalo o Divertimenti per ciascuno di questi esempi, quindi fai clic su Inoltra.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[Lavoratori dentro un ufficio]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Verifica se sei in grado di distinguere per ciascun esempio se si tratta di regalo o divertimenti.]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Seleziona Regalo o Divertimenti per ciascuna ipotesi, quindi fai clic su Inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png"><![CDATA[Dipendenti a una cena del team insieme a un fornitore]]></img>
+			<text style="width: 406px;"><![CDATA[Un fornitore invita a cena l’intero team di progetto per festeggiare la conclusione di un grosso progetto]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png"><![CDATA[Dipendente pensieroso]]></img>
+			<text style="width: 406px;"><![CDATA[Un cliente ti offre un buono per un massaggio presso il resort locale in "segno di gratitudine" per il tuo lavoro]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png"><![CDATA[Dipendente pensieroso]]></img>	
+			<text style="width: 406px;"><![CDATA[Stai partecipando a un evento commerciale per conto dell’azienda e gli organizzatori invitano i partecipanti a un evento serale]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png"><![CDATA[Dipendente pensieroso]]></img>	
+			<text style="width:406px;"><![CDATA[Un fornitore si offre di pagare la cena al tuo team in un ristorante dopo una riunione sul luogo, ma questi non vi prenderà parte]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png"><![CDATA[Dipendente pensieroso]]></img>	
+			<text style="width:406px;"><![CDATA[Una fornitrice ti invita a un evento sportivo, ma sentendosi poco bene, ti dice di andare senza di lei]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[Regalo]]></text>
+		<text styleWidth="width:100px;"><![CDATA[Divertimenti]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Risposta corretta.]]></text>			
+			<text style="font-size: 14px;line-height: 18px;"><![CDATA[Quando si tratta di segnalare regali e divertimenti si applicano regole diverse. Ricorda che chi compie l’offerta trae vantaggio quando si tratta di una forma di intrattenimento, condividendo la cena, partecipando all’evento, ecc.]]></text>			
+			<text style="font-size: 14px;line-height: 18px;"><![CDATA[Un fornitore che invita il team a una cena o a partecipare a un evento commerciale costituisce una forma di intrattenimento, dal momento che entrambi i casi prevedono l’occasione per parlare di lavoro e chi compie l’offerta trae vantaggio condividendo l’intrattenimento. ]]></text>			
+			<text style="font-size: 14px;line-height: 18px;"><![CDATA[Un buono regalo ed eventi in cui chi compie l’offerta non prenderà parte all’evento, sono considerati regali. ]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[Risposta errata.]]></text>	
+			<text style="font-size: 14px;line-height: 18px;"><![CDATA[Quando si tratta di segnalare regali e divertimenti si applicano regole diverse. Ricorda che chi compie l’offerta trae vantaggio quando si tratta di una forma di intrattenimento, condividendo la cena, partecipando all’evento, ecc.]]></text>			
+			<text style="font-size: 14px;line-height: 18px;"><![CDATA[Un fornitore che invita il team a una cena o a partecipare a un evento commerciale costituisce una forma di intrattenimento, dal momento che entrambi i casi prevedono l’occasione per parlare di lavoro e chi compie l’offerta trae vantaggio condividendo l’intrattenimento. ]]></text>			
+			<text style="font-size: 14px;line-height: 18px;"><![CDATA[Un buono regalo ed eventi in cui chi compie l’offerta non prenderà parte all’evento, sono considerati regali. ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

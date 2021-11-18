@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m04s07">
+	<transcript>
+		<text path="audio/module4/m04s07" id="0"><![CDATA[Wat denkt u? Doen deze werknemers voldoende om persoonsgegevens veilig te houden?]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module4/m04s07/contentBackground.jpg" minwidth="769"><![CDATA[Werknemer die op een laptop met gegevens werkt]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 282px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Vindt u dat deze werknemers persoonsgegevens naar behoren beschermen?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Selecteer 'Ja' of 'Nee' voor iedere optie en klik vervolgens op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img01.png"><![CDATA[Werknemer die een hand-out weggooit]]></img>
+			<text style="width: 390px;"><![CDATA[Een hand-out met persoonsgegevens weggooien waar anderen er toegang toe hebben]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img02.png"><![CDATA[Werknemer die een kop koffie neemt]]></img>
+			<text style="width: 390px;"><![CDATA[Een kop koffie nemen terwijl men wacht op een afdruktaak met vertrouwelijke klantgegevens]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img03.png"><![CDATA[Wachtwoord]]></img>	
+			<text style="width: 390px;"><![CDATA[Sterke wachtwoorden gebruiken om documenten met persoonsgegevens te beschermen]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module4/m04s07/img04.png"><![CDATA[Agenda]]></img>	
+			<text style="width:390px;"><![CDATA[Persoonsgegevens langer dan vereist/nodig bewaren 'voor het geval dat']]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Ja]]></text>
+		<text><![CDATA[Nee]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -88px;width: 220px;height: 426px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Juist.]]></text>			
+			<text style="font-size: 16px;"><![CDATA[Het is van cruciaal belang de persoonlijke financiële en bankgegevens van werknemers, klanten en zakenpartners te beschermen. Volg al onze veiligheidsmaatregelen op en laat nooit persoonsgegevens achter waar anderen ze kunnen zien, zelfs niet voor even of in de buurt van mensen die u vertrouwt. Vernietig informatie op correcte wijze als er niet langer een legitieme behoefte is om ze te bewaren.]]></text>			
+		</correct>
+		<incorrect style="top: -88px;width: 220px;height: 426px;padding-top: 20px;right:-258px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Fout.]]></text>	
+			<text style="font-size: 16px;"><![CDATA[Het is van cruciaal belang de persoonlijke financiële en bankgegevens van werknemers, klanten en zakenpartners te beschermen. Volg al onze veiligheidsmaatregelen op en laat nooit persoonsgegevens achter waar anderen ze kunnen zien, zelfs niet voor even of in de buurt van mensen die u vertrouwt. Vernietig informatie op correcte wijze als er niet langer een legitieme behoefte is om ze te bewaren.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

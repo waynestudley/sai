@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m09s05">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:574px;font-size: 15px;margin-bottom:0px"><![CDATA[Eine unerwartete Wendung.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c01/m10c01s19/contentBackground.jpg" minwidth="769"><![CDATA[Verschwommene Bar in Nachtclub]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 574px;"></pageTitle>
+	<instructionText style="width: 574px;">
+		<text><![CDATA[Klicken Sie auf jede der Personen.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, überdenken Sie Ihre Entscheidung und versuchen Sie es dann erneut.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:150px;">
+		<revealCallOut width="300px" height="175px" top="15px" left="370px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module10/m10c01/m10c01s19/btn1.png" minwidth="769"><![CDATA[Verschwommene Bar in Nachtclub]]></img>
+			<buttonText style="height: 30px;"><![CDATA[Jian]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="" style="height: 95px;top:-50px; display: block; left: 370px; width: 610px;line-height:20px;">			
+				<text style="margin-bottom: 0px;"><![CDATA[Ich wollte nur auf einen Drink mitgehen. In dem Nachtclub brach allerdings eine Schlägerei aus, während ich dort war, und die Polizei wurde gerufen. Weil ich den gesamten Vorfall mitbekommen habe, muss ich als Zeuge vor Gericht erscheinen.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="175px" top="15px" left="679px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module10/m10c01/m10c01s19/btn2.png" minwidth="769"><![CDATA[Zwielichtige Gestalt]]></img>
+			<buttonText style="height: 30px;"><![CDATA[Isabela, Jians Vorgesetzte]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="" style="height: 170px;top: -50px; display: block; left: 370px; width: 610px;">
+				<text style="margin-bottom: 8px;"><![CDATA[Ich bin enttäuscht von Jians Entscheidung – er hätte von vornherein nicht mitgehen dürfen. Wenn in der Zeitung über die Schlägerei berichtet wird, könnte man Jian mit unserem Unternehmen in Verbindung bringen.]]></text>					
+				<text style="margin-bottom: 0px;"><![CDATA[Jian vertrat Johnson Controls bei einer geschäftsbezogenen Veranstaltung. Er hätte erkennen müssen, dass der Nachtclub kein geeigneter Veranstaltungsort ist, und die Einladung höflich ablehnen sollen.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

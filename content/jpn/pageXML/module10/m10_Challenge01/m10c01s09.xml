@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[重要なサプライヤーがすぐに支払いをするように求めています。 ジアンはどうするべきだと思いますか？ 選択肢を1つ選び、「OK」をクリックします。]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[ジアンはベンダーの請求にすぐに支払いを行う承認をするように求められており、プロジェクトの成功はそれにかかっている可能性があります。]]></text>
+		<text><![CDATA[彼はどうすべきですか？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[ジアンはキッチンでノーランと通話しています]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選び、「OK」を選択してください。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+		<text><![CDATA[「次へ」をクリックして何が起きるか見てみましょう。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[ノーランに支払いを承認するように伝えます。 納期が遅れる罰金が高額になることを避けるために、USD$1000を支払うのは合理的に思えます。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[支払ったお金が許可に関してどのように使われるかについて詳細がわかるまで、支払いを承認しないようにノーランに伝えます。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[ジアンは経理部に伝えて請求書に支払います。 これはプロジェクトのスケジュールを守るために最適な方法に思えますし、顧客の罰金もよりも安く済みます。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[ノーランと話した後、ジアンはサプライヤーの要求について懸念がありました。]]></text>
+		</correct>
+	</feedback>
+</contents>

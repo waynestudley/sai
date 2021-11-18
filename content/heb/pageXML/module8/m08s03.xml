@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m08s03">
+	<transcript>
+		<text path="audio/module8/m08s03" id="0"><![CDATA[ליבי פותחת את ההודעה החדשה בטלפון החכם שלה. לחץ על כל תמונה כדי לקבל מידע נוסף.]]></text>		
+	</transcript>
+	<pageTitle style="width: 354px;"></pageTitle>
+	<contentBg style="width: 500px;left: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[ליבי רואה שההודעה היא מנטלי, עמיתה לעבודה.]]></text>
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/rtl/module8/m08s03/contentBackground.jpg" minwidth="769"><![CDATA[אישה עם טלפון חכם]]></img>
+	</contentBackground>	
+	<revelCollOut style="width: 235px;right: 0px;top: 135px;height: 355px;">		
+		<img path="content/images/rtl/module8/m08s03/img_03.png" minwidth="769"><![CDATA[]]></img>	
+		<text style="font-weight:bold;font-size: 16px"><![CDATA[מאת: נטלי פרקר]]></text>
+		<text style="font-size: 15px"><![CDATA[אני חולה על העבודה שלי – יו הו<img src="content/images/rtl/module8/m08s03/icon.png"  style="height: 20px;margin-left: 4px;vertical-align: middle;"/> ]]></text>
+	</revelCollOut>
+	<revelCollOut style="width: 235px;right:260px;top: 135px;height: 355px;">		
+		<img path="content/images/rtl/module8/m08s03/img_04.png" minwidth="769"><![CDATA[]]></img>	
+		<text style="font-weight:bold;font-size: 16px"><![CDATA[ליבי]]></text> 		
+		<text style="font-size: 15px"><![CDATA[תמונה נהדרת, נטלי, אבל למה צילמת אותה כשרואים את צג המחשב ברקע? מופיעים עליו בקשה של שירות לקוחות וגיליון Excel עם פרטי חיוב של לקוחות. אם אני רואה את זה, כולם יכולים לראות!]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[בחר כל תמונה כדי לקבל מידע נוסף.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<RevealButton style="top:135px;right: 0px;width: 235px;height: 160px;position: absolute;">
+	
+		<buttonImg path="content/images/rtl/module8/m08s03/img_01.png" style=""><![CDATA[תמונה ממוזערת של אישה אחרת]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 235px;height: 160px;" txtStyle=""><![CDATA[מאת: נטלי פרקר]]></buttonText>		
+	</RevealButton>	
+	
+	<RevealButton style="top:135px;right:260px;width: 235px;height: 160px;position: absolute;">
+		<buttonImg path="content/images/rtl/module8/m08s03/img_02.png" style="top:10px;left:0px;width:590px;">				<![CDATA[ליבי]]>
+			</buttonImg>
+		<buttonText className="reveltab" style="width: 235px;height: 160px;" txtStyle=""><![CDATA[ליבי]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

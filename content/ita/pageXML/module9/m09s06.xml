@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m09s06" maxAttempt="2">
+	<transcript>
+		<text path="audio/module9/m09s06" id="0"><![CDATA[Vedi se riesci a riconoscere ciò che è appropriato e ciò che non lo è. Trascina ciascun elemento nella casella Appropriato o Non appropriato, quindi fai clic su Inoltra.]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[Leggi le seguenti situazioni e decidi se sia appropriato o meno accettare le informazioni sulla concorrenza nelle circostanze descritte.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module9/m09s06/contentBackground.jpg" minwidth="769"><![CDATA[Dipendenti che lavorano con documenti della Società]]></img>
+	</contentBackground>
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 588px;"></pageTitle>
+	<instructionText style="width: 588px;">
+		<text><![CDATA[Trascina ciascun elemento in una delle due caselle e quindi fai clic su Inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per continuare.]]></text>
+		<text><![CDATA[Fai clic sul pulsante Riprova per riprovare.]]></text>
+		<text><![CDATA[Fai clic sul pulsante Mostra le risposte.]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;left:0;background-color: #ffffff;width: 291px; padding: 0px 10px; text-align: center; font-size: 14px;font-family:'SEGOEUISemiBold', sans-serif;"><![CDATA[SITUAZIONI]]></lable> 	
+		<option>			
+			<option height="68px" left="0" top="21px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[Un concorrente ha pubblicato un annuncio di lavoro che suggerisce una variazione nella strategia dell’azienda]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="99px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[Ottieni una trascrizione di un discorso tenuto l’anno scorso dall’amministratore delegato di una società concorrente in occasione di una conferenza di settore, condividendo i dettagli dei recenti miglioramenti nella produzione.]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="177px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[Studi i disegni del prodotto all’interno di una recente domanda di brevetto]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="255px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[Un ex collega attualmente lavora per un concorrente e condivide con te le informazioni relative a dei contratti importanti ]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="334px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[Un appaltatore che lavora anche per uno dei tuoi concorrenti propone di mostrarti alcuni disegni del prodotto sul suo cellulare]]></option>
+		</option>
+		<option>			
+			<option height="68px" left="0" top="413px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[Un nuovo dipendente in precedenza lavorava per un concorrente, quindi gli chiedi i dettagli sui prezzi relativi al nuovo servizio proposto da quell’azienda]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="0" topGap="149" bottomGap="37">
+		<dropArea maxDrop="3" style="width:312px;left: 330px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="3" style="width:312px;left: 648px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Appropriato]]></text>
+		<text style="width:301px;height:25px;left:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[Non appropriato]]></text>
+		<text style="width:301px;left: 277px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[Rilascia qui]]></text>
+		<text style="width:301px;left: 277px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[Rilascia qui]]></text>
+		<text style="width:301px;left: 277px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[Rilascia qui]]></text>
+		<text style="width:301px;left: 593px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[Rilascia qui]]></text>
+		<text style="width:301px;left: 593px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[Rilascia qui]]></text>
+		<text style="width:301px;left: 593px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[Rilascia qui]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[Invia]]></text>
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10;"><![CDATA[Riprova]]></text>	
+		<text style="position:absolute;top: 428px;right: 58px;z-index: 10; width: 155px;"><![CDATA[Mostra le risposte]]></text>
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct> 
+			<text style="font-size:17px;"><![CDATA[Risposta corretta.]]></text>
+			<text><![CDATA[È appropriato accettare le informazioni relative alla concorrenza quando provengono da fonti pubbliche.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[Non mettere mai qualcuno nella posizione di violare gli obblighi di riservatezza in capo a quest’ultimo nei confronti di un’altra società.]]></text>
+			
+		</correct>
+		<incorrect> 
+			<text style="font-size:17px;"><![CDATA[Risposta errata.]]></text>
+			<text><![CDATA[È appropriato accettare le informazioni relative alla concorrenza quando provengono da fonti pubbliche.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[Non mettere mai qualcuno nella posizione di violare gli obblighi di riservatezza in capo a quest’ultimo nei confronti di un’altra società.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

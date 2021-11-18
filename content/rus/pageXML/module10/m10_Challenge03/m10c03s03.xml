@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Карлосу кажется, что его заставляют обслуживать устройства, угрожая разрывом ряда контрактов в очень большом здании. Как следует поступить Карлосу?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Выберите один из вариантов и щелкните «ОК».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Взять деньги и обслужить устройства, чтобы компания Johnson Controls не потеряла крупные контракты в здании, но дать Рафаэлю понять, что это одноразовая сделка.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Не брать деньги, но все же обслужить устройства, чтобы компания Johnson Controls не потеряла крупные контракты в здании.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Не принимать участия в беседе и позвонить своему менеджеру.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОК]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;line-height:18px;"><![CDATA[Карлос берет деньги Рафаэля и обслуживает неправильно установленные устройства. Johnson Controls сохраняет контракты со зданием.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;line-height:18px;"><![CDATA[Карлос выполняет работу, но не берет деньги Рафаэля.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;line-height:18px;"><![CDATA[Карлос обращается за советом к своему менеджеру.]]></text>
+			<text style="line-height:18px;"><![CDATA[Менеджер Карлоса рекомендует ему уйти вместе с командой. По возвращении Карлоса в офис, они вместе звонят в отдел нормативно-правового соответствия. ]]></text>
+			<text style="line-height:18px;"><![CDATA[Начинается расследование, в ходе которого выясняется, что в прошлом Рафаэль не единожды делал такие предложения — другие технические специалисты Johnson Controls брали взятки. Компания подвергает технических специалистов дисциплинарным взысканиям. ]]></text>
+		</correct>
+	</feedback>
+</contents>

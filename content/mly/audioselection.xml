@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[Pilih keutamaan pandangan anda:]]></text>		
+		<text><![CDATA[Kursus ini menggunakan audio dan video untuk menyokong pembelajaran. Kami mengesyorkan anda agar melihat kursus dalam mod audio/video. Walau bagaimanapun, jika anda memilih untuk melihat kursus dalam mod teks dan grafik, transkrip dan imej akan dipaparkan di tempat semua audio dan video.]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[Gelombang bunyi]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[Teruskan]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[Pilih keutamaan pandangan]]></option>
+			<option id="A1"><![CDATA[Mod Audio/Video]]></option>
+			<option id="A2"><![CDATA[Mod Teks dan Grafik]]></option>
+	</dropDownMenu>
+</contents>

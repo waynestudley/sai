@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[Давайте рассмотрим некоторые повседневные ситуации. Подвергают ли эти люди риску персональные данные?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Какие из перечисленных ниже действий подвергают риску конфиденциальность данных?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[Сотрудник работает за компьютером в многолюдном офисе]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="font-size:13px;">
+		<text><![CDATA[Выберите все ситуации, в которых, по вашему мнению, персональные данные подвергаются риску.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Правильных вариантов может быть несколько.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px;line-height:18px;">
+		<option><![CDATA[Подключение к общедоступной сети Wi-Fi]]></option>	
+		<option><![CDATA[Использование одного и того же пароля для доступа к двум учетным записям]]></option>	
+		<option><![CDATA[Опубликование в социальной сети фотографии команды на совещании у доски с информацией]]></option>	
+		<option><![CDATA[Обсуждение финансовой информации с клиентом по телефону в общественном месте]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text style="font-size:14px;"><![CDATA[ОТПРАВИТЬ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Верно.]]></text>
+			<text><![CDATA[Во всех этих ситуациях конфиденциальность данных находится под угрозой.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Неверно.]]></text>
+			<text><![CDATA[Во всех этих ситуациях конфиденциальность данных находится под угрозой.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

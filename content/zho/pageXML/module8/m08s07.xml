@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="reveal2">
+	<transcript>
+		<text path="audio/module8/m08s07" id="0"><![CDATA[哪类信息您需要保密？ 以下是一些示例，当然还有很多其他类型的机密信息没有列出。 单击每个标题，确认您已理解。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:635px;margin-bottom:0px;font-size:15px;"><![CDATA[机密信息有多种形式。 可以是书面记录、口头交流或存储在数据库中的信息。 重点在于沟通的内容。]]></text>			
+	</contentText>
+	<pageTitle style="width: 635px;margin-bottom: 5px;"></pageTitle>
+	<instructionText style="width: 635px;">
+		<text><![CDATA[选择每个标题。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module8/m08s07/contentBackground.jpg" minwidth="769"><![CDATA[数字信息]]></img>
+	</contentBackground>
+	<popupBackground>
+		<img path="content/images/ltr/module8/m08s07/img_01.png"><![CDATA[]]></img>
+	</popupBackground>
+	<tabHolder style=""></tabHolder>
+	<tabs style="">
+		<tab id="1" type="callOut" style="">
+			<tabName><![CDATA[业务计划或策略]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup1.png"><![CDATA[]]></img>
+			</backgroungImg>
+			<tabText style="width: 268px;">
+				<text style="font-size:15px;"><![CDATA[保护所有业务相关的前瞻性信息。 如果竞争对手了解到我们的计划，就会给他们带来相当大的优势。]]></text>
+			</tabText>
+		</tab>		
+		<tab id="2" type="planeText" style="top: 32px;">
+			<tabName><![CDATA[未发布的财务信息]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup2.png"><![CDATA[遵循审批流程的员工]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[所有未发布的 Johnson Controls 财务绩效和定价相关信息都需视为机密信息。 这里包括潜在收购的相关信息。 我们公司必须严格遵守如何发布和分享财务信息的相关规定，因为这会影响到投资人对公司的看法。]]></text>
+				</tabText>
+		</tab>		
+		<tab id="3" type="planeText" style="top: 59px;">
+			<tabName><![CDATA[客户或市场信息]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup3.png"><![CDATA[政府官员]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[保护客户名单、客户协议、市场份额数据、供应商协议和其他类似信息。 这些信息包含我们业务的内部大量内幕信息，如果他人了解到这些信息，就会危机我们的竞争优势。]]></text>
+				</tabText>
+		</tab>	
+		<tab id="4" type="planeText" style="top: 82px;">
+			<tabName><![CDATA[产品或技术信息]]></tabName>
+			<buttonImg path=""><![CDATA[]]></buttonImg>
+			<backgroungImg>				
+				<img path="content/images/ltr/module8/m08s07/popup4.png"><![CDATA[填写审批表格的员工]]></img>
+			</backgroungImg>
+			<tabText style="width:255px;">
+				 <text style="font-size:15px;"><![CDATA[我们企业的价值来源于产品和专业技术。 软件资源代码、产品设计图、技术手册和研发记录都必须严加保护。]]></text>
+				</tabText>
+		</tab>
+	</tabs>	
+</contents>

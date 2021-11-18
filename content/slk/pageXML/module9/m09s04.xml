@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="hotSpotCustom" className="m09s04">
+	<transcript>
+		<text path="audio/module9/m09s04" id="0"><![CDATA[Spoločnosti, ktorých informácie sú protiprávne zasiahnuté, môžu podať žalobu – a zákon je často na ich strane. Kliknutím na jednotlivé nadpisy zobrazíte, čo sa môže stať, keď sa veci uberajú protiprávne.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 490px;margin-bottom: 0px;"><![CDATA[Ako ilustrujú nasledovné príklady, mnohé spoločnosti a ľudia čelia vážnym následkom za spôsob, akým zhromažďovali informácie o konkurenčných spoločnostiach alebo produktoch.]]></text>	
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s04/contentBackground.jpg" className="bg-pos-right-center" ipadPath="content/images/ltr/module9/m09s04/contentBackground.jpg" minwidth="769"><![CDATA[Osoba čítajúca noviny]]></img>
+		<img path="content/images/ltr/module9/m09s04/img_02.png" minwidth="769"><![CDATA[Noviny „The World“]]></img>
+	</contentBackground>
+	 <contentBg style="padding:20px 20px 10px 20px;"></contentBg>
+	<popBackground>		
+		<img path="" />		
+	</popBackground>
+	<pageTitle style="width: 490px;"></pageTitle>
+	<instructionText style="width: 490px;">
+		<text><![CDATA[Kliknite na nadpisy novín.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<hotSpotContent>
+		<hotSpot width="150px" top="72px" left="17px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="40px"><![CDATA[Proctor &amp; Gamble]]></buttonText>
+			<popText animPosRight="400px" animPosTop="300px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Proctor &amp; Gamble]]></text> 				
+				<text style="width:370px"><![CDATA[Spoločnosť Proctor &amp; Gamble (P&amp;G) uhradila spoločnosti Unilever 10 miliónov amerických dolárov po tom, čo sa zistilo, že externí dodávatelia, ktorí podávajú správy zamestnancom spoločnosti P&amp;G, strávili šesť mesiacov vyťahovaním dokumentov z odpadkových nádob vedľa kancelárií spoločnosti Unilever. ]]></text> 				
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup1_img.png" />]]></text> 				
+			</popText>
+			<tick style="right: -35px;top:5px;"></tick>
+		</hotSpot>
+		
+		
+		<hotSpot width="132px" top="238px" left="105px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="55px"><![CDATA[The Oracle Corporation]]></buttonText>
+			<popText animPosRight="400px" animPosTop="460px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[The Oracle Corporation]]></text>				
+				<text style="width:370px"><![CDATA[The Oracle Corporation priznala platby vrátnikom za odpadky, ktoré odstránili z kancelárií skupiny konajúcej v mene spoločnosti Microsoft. Keď sa objavili tieto správy, ceny akcií spoločnosti Oracle klesli o 13 % a analytici znížili ich rating.]]></text>
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup2_img.png" />]]></text> 						
+			</popText>
+			<tick style="right: -35px;top:10px;"></tick>
+		</hotSpot>
+		
+		<hotSpot width="116px" top="30px" left="248px" letter_spacing="0px">	
+			<buttonText paddingTop="0px" height="50px"><![CDATA[Apple]]></buttonText>
+			<popText animPosRight="230px" animPosTop="250px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Apple]]></text>				
+				<text style="width:370px"><![CDATA[Dvaja muži, ktorí našli prototyp Apple iPhone 4 v bare a dali ho novinárovi, boli uznaní vinnými z priestupku krádeže a odsúdení na probáciu a verejnoprospešné práce a platili pokuty každý vo výške niekoľkých stoviek dolárov.]]></text>
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup3_img.png" />]]></text> 		
+			</popText>
+			<tick style="right: -35px;top:10px;"></tick>
+		</hotSpot>
+		
+		<hotSpot width="118px" top="176px" left="351px" letter_spacing="0px">		
+			<buttonText paddingTop="0px" height="48px"><![CDATA[Google]]></buttonText>
+			<popText animPosRight="230px" animPosTop="400px" width="415px" height="485px" top="45px" right="585px">
+				<text style="color:#02539D;font-weight:bold"><![CDATA[Google]]></text>				
+				<text style="width:370px"><![CDATA[Nedávno Waymo, spoločnosť spoločnosti Google, podala žalobu proti spoločnosti Uber a tvrdila, že zamestnanec spoločnosti Google prevzal 14 000 tajných dokumentov o technológii autonómneho riadenia vozidiel predtým, než odišiel do spoločnosti Uber. Spoločnosť Google požaduje náhradu škody vo výške 2,6 miliárd amerických dolárov.]]></text>	
+				<text style="text-align:center;margin-top:20px;"><![CDATA[<img src="content/images/ltr/module9/m09s04/poup4_img.png" />]]></text> 		
+			</popText>
+			<tick style="left: -35px;top:10px;"></tick>
+		</hotSpot>
+	</hotSpotContent>	
+</contents>

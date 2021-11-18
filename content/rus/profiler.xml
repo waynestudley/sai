@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;right:20px;height: 500px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[Ваша роль]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[Ответьте на следующие вопросы о вашей функции.]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[Взаимодействуете ли вы с лицами или организациями, которые конкурируют с компанией Johnson Controls?]]></text>
+		<text id="2"><![CDATA[Несете ли вы ответственность за принятие решений о закупках для компании Johnson Controls?]]></text>
+		<text id="3"><![CDATA[Включает ли ваша работа маркетинговую деятельность, продажи или ведение переговоров с существующими и потенциальными клиентами?]]></text>
+		<text id="4"><![CDATA[Имеете ли вы доступ к информации о клиентах, подрядчиках, поставщиках или деловых партнерах компании Johnson Controls, а также о любых лицах, которые работают на них?]]></text>
+		<text id="5"><![CDATA[Имеете ли вы доступ к информации о сотрудниках компании Johnson Controls?]]></text>
+		<text id="6"><![CDATA[Взаимодействуете ли вы напрямую с сотрудниками, клиентами или поставщиками компании Johnson Controls, офис которых расположен за рубежом или которые имеют доступ к технической информации?]]></text>
+		<text id="7"><![CDATA[Предполагает ли ваша работа международные поездки, прием иностранных посетителей либо перевозку товаров, сотрудников или информации компании Johnson Controls на зарубежные объекты?]]></text>
+		<text id="8"><![CDATA[Принимаете ли вы участие в отраслевой ассоциации производителей или посещаете отраслевые конференции?]]></text>
+		<text id="9"><![CDATA[Преподносите ли вы когда-нибудь подарки третьим сторонам или получаете подарки от третьих сторон, таких как клиенты или поставщики?]]></text>
+		<text id="10"><![CDATA[Организовываете ли вы когда-нибудь развлекательные мероприятия для третьих сторон, таких как клиенты или поставщики, и организовывают ли они развлекательные мероприятия для вас?]]></text>
+		<text id="11"><![CDATA[Включает ли ваша работа исследования, разработку или создание товаров и услуг компании Johnson Controls?]]></text>
+		<text id="12"><![CDATA[Несете ли вы ответственность за развитие деловых отношений с новыми или существующими клиентами в новых регионах или в новых отраслях?]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/profileSelection.jpg" minwidth="769"><![CDATA[Сотрудники компании Johnson Controls]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[Да]]></text>
+		<text><![CDATA[Нет]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[Продолжить]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 550px;">
+		<text><![CDATA[Выберите «Да» или «Нет» для каждого вопроса, а затем — «Продолжить».]]></text>
+	</instructionText>
+	
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[어떤 사람이 여러분에게 여러분이 보아서는 안 되는 개인 데이터를 보낸다면 어떻게 해야 할까요?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;"><![CDATA[여러분은 어떻게 하시겠습니까? ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[여러분은 새로운 청구 프로세스를 계약업체들에 알리는 업무를 맡았습니다. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[여러분은 다른 부서의 직원에게 이메일 주소 목록을 보내 달라고 요청하지만 그가 보낸 스프레드시트에는 생년월일, 어머니의 이름 및 사회 보장 번호와 같이 계정 보안에 사용되는 개인 정보도 포함되어 있습니다. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[어떻게 해야 할까요?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[사업가들]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[한 개의 보기를 선택하고 '제출'하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[그 이메일을 삭제하고 privacy@jci.com으로 이메일을 보내서 개인 정보 보호팀에 보고합니다.]]></option>
+		<option><![CDATA[그것을 이메일로 보내지 말아야 할 것의 사례로 회사 동료들에게 전달합니다.]]></option>
+		<option><![CDATA[스프레드시트에서 필요한 것만 취하고 나머지는 안전하게 폐기합니다.]]></option>
+		<option><![CDATA[모든 계약업체로 이메일을 보내서 그들의 개인 데이터가 노출되었을 수 있음을 알려 줍니다.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[제출]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:166px;" fcStyle="top:-191px">
+			<text style="font-size:17px;"><![CDATA[정답입니다.]]></text>
+			<text><![CDATA[데이터 프라이버시법 및 Johnson Controls 데이터 프라이버시 정책은 직원은 물론 고객과 비즈니스 파트너의 개인 정보에도 적용됩니다. 여러분의 책임을 이해하고, Johnson Controls의 개인정보 보호정책과 모든 관련 데이터 보호 및 개인정보 보호법을 준수하십시오.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:166px;" fcStyle="top:-191px">
+			<text style="font-size:17px;"><![CDATA[틀렸습니다.]]></text>
+			<text><![CDATA[데이터 프라이버시법 및 Johnson Controls 데이터 프라이버시 정책은 직원은 물론 고객과 비즈니스 파트너의 개인 정보에도 적용됩니다. 여러분의 책임을 이해하고, Johnson Controls의 개인정보 보호정책과 모든 관련 데이터 보호 및 개인정보 보호법을 준수하십시오.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

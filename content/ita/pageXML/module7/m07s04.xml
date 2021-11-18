@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m07s04">
+	<transcript>
+		<text path="audio/module7/m07s04" id="0"><![CDATA[Esploriamo le diverse tipologie di Proprietà intellettuale di cui disponiamo qui a Johnson Controls. Fai clic su ogni pulsante mostra per approfondire l’argomento.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[In Johnson Controls, il nostro successo dipende in parte dalla nostra capacità di proteggere:]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module7/m07s04/contentBackground.jpg" minwidth="769"><![CDATA[Scenario di un ufficio]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Fai clic su ogni pulsante mostra per approfondire l’argomento. Puoi aver bisogno di scorrere per leggere l’intera risposta.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[MOSTRA]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module7/m07s04/img1.png"><![CDATA[Cartelle contrassegnate come “brevetti”]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Brevetti]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[I brevetti proteggono le invenzioni tecnologiche di Johnson Controls, incluso il software tecnico.]]></text>
+				<text><![CDATA[La procedura per richiedere un brevetto può essere laboriosa e costosa ma, una volta ottenuto, consente di impedire ad altri l’utilizzo dell’invenzione. Ciò ci attribuisce un vantaggio competitivo potenzialmente significativo.]]></text>						
+			</popText>	
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module7/m07s04/img2.png"><![CDATA[Accordo di non divulgazione]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Segreti commerciali]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[I segreti commerciali includono le informazioni riservate commerciali, di processo e tecniche di Johnson Controls, quali i protocolli relativi alla produzione e i dati raccolti. Qualsiasi informazione generalmente non nota e relativa alla nostra attività ci attribuisce un vantaggio economico sul mercato ed è soggetta a misure ragionevoli per proteggerla in quanto segreto commerciale.]]></text>					
+				<text><![CDATA[I segreti commerciali non sono protetti dalle leggi di tutti i paesi, ma noi possiamo proteggerli meglio facendo attenzione a condividerli solo con le persone autorizzate a conoscerli. Inoltre, richiediamo al destinatario di sottoscrivere un accordo di non divulgazione (Non-disclosure agreement, NDA).]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img3.png"><![CDATA[Simbolo del copyright]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Copyright]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[In Johnson Controls utilizziamo il copyright per proteggere il codice software, gli imballaggi e i manuali.]]></text>			
+				<text><![CDATA[In molti paesi, il copyright può proteggere la proprietà intellettuale per 70 anni dopo la morte dell'autore. Per proteggere il copyright non è richiesta alcuna domanda, ma per richiedere l’applicazione del copyright negli U.S.A. è richiesta la registrazione.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img4.png"><![CDATA[Dipendente al lavoro su un prodotto Johnson Controls]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Diritti di modello]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[I diritti di modello, conosciuti anche come brevetti di modello di utilità, proteggono il disegno di un prodotto (anziché le caratteristiche tecniche dello stesso).]]></text>			
+				<text><![CDATA[Ad esempio, i diritti di modello possono proteggere l’aspetto di un rivelatore e impedire a concorrenti di copiarne la progettazione. Tuttavia, i diritti di modello non proteggerebbero la tecnologia che fa funzionare il rivelatore. Johnson Controls dovrebbe ottenere un brevetto per quella caratteristica del prodotto.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module7/m07s04/img5.png"><![CDATA[Simbolo del marchio commerciale]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Marchi]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[I marchi commerciali (inclusi i marchi di servizio) proteggono i nostri marchi e logotipi. Questi sono i nomi o i simboli che utilizziamo per identificare i nostri prodotti e servizi.]]></text>			
+				<text><![CDATA[La gamma di elementi che possono diventare un marchio commerciale comprende colori, forme e addirittura profumi e suoni. Il nome "Coca-Cola" è un marchio commerciale, così come lo "swoosh" di Nike.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

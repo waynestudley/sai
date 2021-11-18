@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s06">
+	<transcript>
+		<text path="audio/module6/m06s06" id="0"><![CDATA[我们还可以采取哪些措施来避免市场滥用行为？ 单击每个“显示”按钮，了解更多信息。]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[当我们处于市场支配地位时，我们需要避免可能会被视为滥用市场支配地位的行为或策略。]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s06/contentBackground.jpg" minwidth="769"><![CDATA[2 名员工在办公室中商讨策略]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[单击每个“显示”按钮，了解更多信息。 您可能需要滑动以查看完整答案。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[显示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s06/img1.png"><![CDATA[捆绑销售的产品]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[搭售]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[公司将产品捆绑在一起，且不予单独销售的情形，被称为搭售。]]></text>						
+				<text><![CDATA[最终结果为，消费者为购买需要的产品而被迫购买他们可能不想购买的产品。]]></text>						
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s06/img2.png"><![CDATA[买方和卖方正在进行产品定价]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[独家交易]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[买方实际被迫从同一卖方处购买绝大部分或所有产品或服务的情形，被称为独家交易（通常在一段时间内）。]]></text>					
+				<text><![CDATA[因英特尔为从市场中排除其他竞争者，而向客户发放回扣以提高忠诚度，欧盟委员会对其处以 10.6 亿欧元罚款。 回扣获得条件是客户必须从占据市场支配地位的企业处采购其全部或大部分必需品。]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img3.png"><![CDATA[示例展示购物车中 50% 折扣]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[掠夺性定价]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[掠夺性定价是指一家企业人为低价向消费者出售商品，并故意造成损失。]]></text>			
+				<text><![CDATA[通常来讲，企业此举是为了消除无法长期维持如此低售价的竞争者，迫使他们退出市场。]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img4.png"><![CDATA[图表显示价格上涨]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[拒绝交易]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[拒绝交易是指一家企业拒绝向另一家企业销售产品，或仅以高得离谱的价格向其销售产品。]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s06/img5.png"><![CDATA[双方握手协定，阻止经销商向某特定客户销售产品]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[防止品牌内部竞争]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[防止品牌内部竞争是指企业与经销商达成协议，禁止其向特定地区或特定客户销售产品。]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

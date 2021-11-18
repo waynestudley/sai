@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[האם אתה רואה כאן סימני אזהרה כלשהם? בחר את אלה שזיהית ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[מהם סימני האזהרה הקשורים להודעת דוא"ל זו?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[תיבת דואר נכנס של דוא"ל]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;left: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[בחר את כל סימני האזהרה ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[ייתכן שיש יותר מתשובה אחת נכונה.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[השולח טוען שהוא לקוח של Johnson Controls]]></option>	
+		<option><![CDATA[הלקוח כותב על העסקה אך משתמשים בחשבון Gmail]]></option>	
+		<option><![CDATA[הלקוח מבקש מידע שעלול להיות מבוקר בלי לספק יותר מדי מידע על עצמו]]></option>	
+		<option><![CDATA[הלקוח אומר שהוא נמצא בצרפת אך לא ניתן לוודא זאת מהדוא"ל]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[נכון.]]></text>
+			<text><![CDATA[הלקוח מבקש מידע טכני שעלול להיות מוגבל ליצוא והוא לא מספק מידע רב על עצמו]]></text>
+			<text><![CDATA[לסיום, עליך לקבל מידע נוסף על זהותו ועל המיקום שלו ועל הגבלת סחר רלוונטיות לפני שתספק את התמיכה הטכנית.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[מצטער, זה לא נכון.]]></text>
+			<text><![CDATA[הלקוח מבקש מידע טכני שעלול להיות מוגבל ליצוא והוא לא מספק מידע רב על עצמו]]></text>
+			<text><![CDATA[לסיום, עליך לקבל מידע נוסף על זהותו ועל המיקום שלו ועל הגבלת סחר רלוונטיות לפני שתספק את התמיכה הטכנית.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

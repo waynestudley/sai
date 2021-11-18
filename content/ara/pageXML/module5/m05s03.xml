@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0"><![CDATA[يلاحظ "مارك" رسالة بريد إلكتروني جديدة في صندوق الوارد عليها علامة "عاجلة". انقر فوق عنوان البريد الإلكتروني لترى مضمون الرسالة.]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;"></pageTitle>
+	<contentBg style="width: 591px;left: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style=""><![CDATA[وصلت رسالة بريد إلكتروني جديدة، عليها علامة "عاجلة".]]></text>	
+		
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/rtl/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[رسالة بريد إلكتروني جديدة]]></img>
+		<img path="content/images/rtl/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[عنوان البريد الإلكتروني]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;right: 2px;top: 200px;font-size: 15px;">		
+		<img path="" minwidth="769"><![CDATA[رسالة بريد إلكتروني]]></img>	
+		<text style="margin-bottom:3px"><![CDATA[من: arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px"><![CDATA[الموضوع: مساعدتك مطلوبة]]></text> 	
+		<text style=""><![CDATA[مرحبًا،]]></text> 				
+		<text style=""><![CDATA[أنا أحد عملاء شركة Johnson Controls وأعيش في مارسيليا بفرنسا، وأواجه مشكلة في دمج أحد منتجات إطفاء الحريق في النظام الموجود لدي.]]></text> 				
+		<text style=""><![CDATA[وقد اتصلت بفريق الدعم لديكم ونصحوني بأن أتواصل معك لطلب الرسومات الفنية ودليل الإدماج الذي من المفترض أن يساعدنا في استكشاف المشكلة وإصلاحها على نحو أفضل.]]></text> 				
+		<text style=""><![CDATA[هل يمكنك إرسال هذه المواد عن طريق الرد على رسالة البريد الإلكتروني في أقرب وقت ممكن من فضلك.]]></text> 				
+		<text style="margin-bottom:0px"><![CDATA[شكرًا لك ومع أطيب التمنيات،]]></text> 		
+		<text style="margin-bottom:0px"><![CDATA[أ. ريشتر]]></text> 		
+	</revelCollOut>
+	
+	<instructionText>
+		<text><![CDATA[انقر فوق عنوان البريد الإلكتروني.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path=""><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;right: 97px; width: 475px;"><![CDATA[<span style="padding-left: 32px;">arichter_8888@gmail.com</span><span>مساعدتك مطلوبة</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

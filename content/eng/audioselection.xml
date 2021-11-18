@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[Choose your viewing preference:]]></text>		
+		<text><![CDATA[This course uses audio and video to support the learning. We recommend that you view the course in audio/video mode. However, if you choose to view the course in text and graphics mode, a transcript and images will be displayed in place of all audio and video.]]></text>
+	</contentText>
+	 <contentBackground >		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[Sound waves]]></img>
+	</contentBackground>
+	<buttonText >
+		<text><![CDATA[Continue]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0" ><![CDATA[Select viewing preference]]></option>
+			<option id="A1"><![CDATA[Audio/Video Mode]]></option>
+			<option id="A2"><![CDATA[Text and Graphics Mode]]></option>
+	</dropDownMenu>
+</contents>	

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[Je na každom z nás, aby tu nedochádzalo k úplatkárstvu a korupcii. Kliknutím na jednotlivé nadpisy potvrďte, čo môžete urobiť.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[V spoločnosti Johnson Controls sme zaviazaní dodržiavať všetky právne predpisy o boji proti úplatkárstvu a korupcii. Tu je to, čo to znamená v praxi:]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[Kontrolný zoznam]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Ak sa chcete dozvedieť viac, vyberte jednotlivé nadpisy.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[Neponúkajte úplatky]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Nikdy neponúkajte obchodnému kontaktu nič cenné s úmyslom ovplyvniť jeho úsudok.]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[Veďte presnú evidenciu ]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[Nepokúšajte sa skryť alebo skresľovať výdavky na zábavu alebo dary – zaznamenajte všetky transakcie čestne a presne. Ďalšie informácie nájdete v našich <a href="content/slk/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">Zásadách pre cestovanie, dary a zábavu od tretích strán</a>.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="150">
+			<buttonText style=""><![CDATA[Nechajte obchodných partnerov niesť zodpovednosť]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Oboznámte s našimi zásadami boja proti úplatkárstvu všetky tretie strany, s ktorými spolupracujeme. Sledujte ich činnosť a oznámte akékoľvek podozrenie z korupcie. Nespolupracujte s obchodnými partnermi, ktorí sa podieľajú na korupčných praktikách.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[Poznajte svoje tretie strany]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Ak nesiete zodpovednosť za riadenie tretích strán, ubezpečte sa, že boli plne schválené podľa požiadaviek Programu tretích strán spoločnosti Johnson Controls.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

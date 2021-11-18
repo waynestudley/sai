@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m10c03s20" >
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle="" ></contentBg>
+	<pageTitle style="margin-bottom: 4px;"></pageTitle>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c03/m10c03s20/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentText >
+		<text  position="relative" width="100%" height="auto" left="0" top="0px" style="line-height: 18px;"><![CDATA[Carlos is supervising a large job – installation services in a new facility that’s under construction. When a delay by a parts vendor puts the job behind schedule, Carlos hires a team of subcontractors who work long hours to get the job completed. They’re just a few days from finishing the job.]]></text>
+	</contentText>
+	<instructionText style="margin-top: 5px;" >
+		<text><![CDATA[Click on each stage of the story.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1" >	
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Strip_01.png" minwidth="700" minheight="550" ><![CDATA[]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="7" y="250" width="308" />
+				<text ><![CDATA[<span style="font-weight: bold;">Carlos</span>, Johnson Controls Installation and Service Team Supervisor]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#0158A6" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="611" y="250" width="195" />
+				<text ><![CDATA[<span style="font-weight: bold;">Chris</span>, subcontractor team lead]]></text>			
+			</stripCallOut>
+			
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2" >
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Strip_02.png" minwidth="700" minheight="550" ><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="47" y="65" width="180" arrowStyle="top:10px;" />
+				<text ><![CDATA[Well, Chris, it was a lot of long days, but we’re nearly done.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="570" y="56" width="150" />
+				<text ><![CDATA[Please let us say thank you. We appreciate your company’s ongoing business!]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3" >	
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Strip_03.png" minwidth="700" minheight="550" ><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+					<callOut minwidth="700" minheight="550" x="47" y="65" width="180" arrowStyle="top:10px;" />
+				<text ><![CDATA[Oh, I don’t think I can accept this.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="570" y="56" width="150" />
+				<text ><![CDATA[Of course you can. It’s just a small gift to say thank you. Open it after I’ve left.]]></text>			
+			</stripCallOut>
+		</strip>		
+		<strip id="4">
+			<stripThumImg numberText="4" >	
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>
+				<img path="content/images/ltr/module10/m10c03/m10c03s20/Page_20_Strip_04.png" minwidth="700" minheight="550" ><![CDATA[]]></img>
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="27" y="65" width="200" arrowStyle="top:10px;" />
+				<text ><![CDATA[Cash? No, I’m sorry. I appreciate the gesture, but I can’t accept.]]></text>
+			</stripCallOut>	
+			<stripCallOut align="left" isThoughtbubble="false" >
+				<callOut minwidth="700" minheight="550" x="570" y="56" width="150" />
+				<text ><![CDATA[But I insist. I won’t take it back. Keep it! No one has to know! This can be between us.]]></text>
+			</stripCallOut>	
+		</strip>		
+	</comicStrip>
+</contents>

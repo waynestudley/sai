@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[Nyní je na vás, abyste prokázali, že umíte používat pravidla týkající se dodržování obchodních předpisů. Každou ze situací vlevo spojte se správným řešením vpravo a klikněte na tlačítko Odeslat.]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Ukažte, že víte, jak v každé z těchto situací postupovat. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 15px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<instructionText style = "width: 100%;line-height:20px;height:40px;">
+		<text><![CDATA[Vyberte jednu z položek v prvním sloupci a poté ji přetažením šipek spojte s odpovídajícím řešením v druhém sloupci. Jakmile budete hotovi, klikněte na tlačítko Odeslat.]]></text>
+		<text><![CDATA[Kliknutím na jednotlivé otazníky zobrazíte další informace.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[SITUACE]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img01.png"><![CDATA[Peking]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Pracovně cestujete do Pekingu. Kolega vás požádá, abyste tamější kontaktní osobě přinesli vzorek produktu.]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:553px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img02.png"><![CDATA[Detailní záběr syrského občana]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Jste občan Spojeného království a právě jste na návštěvě u zákazníků v EU. Setkáte se s distributorem, který je syrským občanem a požádá vás o vzorek produktu.]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:553px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img03.png"><![CDATA[Zástupce zákazníka v Saúdské Arábii]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Zástupce zákazníka ze Saúdské Arábie vám telefonuje s dotazy ohledně zkušebního protokolu a technologie konstrukce jednoho z našich produktů.]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:553px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img04.png"><![CDATA[Obchodní tým]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Váš tým spolupracuje s globálním zákazníkem pomocí služby OneDrive. Projektový manažer vás požádá, abyste nahráli technické informace, protože nesmí odeslat jako fyzickou kopii do země zákazníka.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[ŘEŠENÍ]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 643px;top: 8px;height: 60px;">
+				<text style=""><![CDATA[Než budete pokračovat, ověříte, zda je to povoleno a zda potřebujete povolení.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img05.png"><![CDATA[Telefonující zaměstnanec ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 79px;height: 60px;">
+				<text><![CDATA[Zdvořile odmítnete. ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img06.png"><![CDATA[Detailní záběr vážného muže]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 643px;top: 150px;height: 60px;">
+				<text><![CDATA[Požádáte o odložení rozhovoru.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img07.png"><![CDATA[Telefonující zaměstnanec]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 221px;height: 60px;">
+				<text><![CDATA[Odmítnete to udělat.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img08.png"><![CDATA[Telefonující zaměstnanec]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[Hotovo – všechny položky jste přiřadili správně.]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[To není správně. Nyní znovu klikněte na jednotlivá řešení, abyste se dozvěděli více.]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="">
+				<text style=""><![CDATA[Pokud je to povoleno, v této situaci by bylo nejlepší odeslat vzorek předem. Pokud vám pracovníci mezinárodního obchodu povolí ruční přepravu, při opuštění a vstupu do země je nutné na celnici řádně informovat o tom, co vezete.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="">
+				<text style=""><![CDATA[Vzorek produktu nelze poskytnout nikomu ze sankcionovaná země, jako je Sýrie, a proto v této situaci musíte zdvořile odmítnout.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="">
+				<text style=""><![CDATA[Je nutné, abyste před sdílením těchto informací získali další informace. Znovu ověřte u odborníků na dodržování mezinárodních obchodních předpisů, zda lze tyto informace s dotyčnou osobou sdílet.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="">
+				<text style=""><![CDATA[Žádost byste měli odmítnout. Nesmíte-li vyvézt fyzickou verzi dokumentu, stejná omezení platí také pro elektronickou verzi téhož dokumentu.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

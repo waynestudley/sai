@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[¿Qué haría si alguien le enviara datos personales que no debía ver?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:14px; font-weight: bold;"><![CDATA[¿Qué haría usted? ]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[Se le ha encargado la tarea de notificar a los contratistas de un nuevo proceso de facturación. ]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[Entonces, le pide a un empleado de otro departamento que le envíe la lista de las direcciones de correo electrónico, pero la hoja de cálculo que le envía también incluye información personal utilizada para proteger la cuenta de los contratistas, como la fecha de nacimiento, el nombre de la madre y el número del seguro social. ]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[¿Qué hace?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[Empresarios]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleccione una opción y, luego, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px;font-size: 14px;">
+		<option><![CDATA[Eliminar el correo electrónico e informar al Equipo de Privacidad de los Datos enviando un mensaje a privacy@jci.com.]]></option>
+		<option><![CDATA[Reenviarlo a sus colegas del trabajo como ejemplo de lo que no se debe enviar por correo electrónico.]]></option>
+		<option><![CDATA[Recopilar solo los datos que necesita de la hoja de cálculo y eliminar el resto de forma segura.]]></option>
+		<option><![CDATA[Enviar un correo electrónico a todos los contratistas para informarles que sus datos personales pueden haber sido expuestos.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:166px;" fcStyle="top:-181px">
+			<text style="font-size:17px;"><![CDATA[Correcto.]]></text>
+			<text><![CDATA[Las leyes de privacidad de los datos y la política de privacidad de los datos de Johnson Controls se aplican a la información personal de los empleados, así como de los clientes y socios comerciales. Asegúrese de comprender sus responsabilidades y de seguir la política de privacidad de Johnson Controls, además de observar todas las leyes relevantes con respecto a la protección de los datos y la privacidad.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:166px;" fcStyle="top:-181px">
+			<text style="font-size:17px;"><![CDATA[Incorrecto.]]></text>
+			<text><![CDATA[Las leyes de privacidad de los datos y la política de privacidad de los datos de Johnson Controls se aplican a la información personal de los empleados, así como de los clientes y socios comerciales. Asegúrese de comprender sus responsabilidades y de seguir la política de privacidad de Johnson Controls, además de observar todas las leyes relevantes con respecto a la protección de los datos y la privacidad.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

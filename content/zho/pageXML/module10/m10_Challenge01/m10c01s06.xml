@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[建安妻子的手术很成功，但医生让她留院观察一晚。 第二天，由于 IT 部门无法在工作日结束前为建安提供备用笔记本电脑，于是建安便使用个人笔记本电脑在妻子的病房里工作。 他可以使用自己的笔记本电脑查看供应商主文件。]]></text>
+		<text><![CDATA[将修改内容发给霍莉的最佳方式是什么？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[建安妻子的病房]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[建安连接到公共 Wi-Fi，使用私人邮件账户发送优盘中的更新文件。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[建安意识到将更新后的主文件发送给霍莉上传可能会产生一些问题，因为其他人可能在他不在时编辑了原始文件，这样他更新的内容会覆盖他人的修改。 因此，当他在医院自助餐厅吃午饭时，他打电话给霍莉，逐一告诉她修改的内容，同时由她将更新内容录入公司系统的主文件中。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[建安让霍莉来医院拿取他加密后的优盘。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:200px;" fcStyle="top: -188px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[建安将信息发送给霍莉，但下载文件时创建了与当前供应商数据库冲突的副本，因此团队需花费数小时更新和确认信息。]]></text>
+			<text style="font-size:15px;"><![CDATA[建安的公司收到了伪装成合法供应商的假发票，但其中包含企图诈骗公司者的银行账户信息。 数月过后，这起欺诈案被揭发，且调查结果指向供应商的数据库存在安全漏洞，而这个漏洞出现的时间恰好与建安去医院的时间相近。 建安必须对此作出解释！]]></text>
+			<text style="font-size:15px;"><![CDATA[对建安而言，最安全的选择是让霍莉前取加密后的优盘。 虽然这样做团队还是要花费数小时将建安编辑的内容与供应商的数据库整合在一起，但这可确保敏感数据的安全。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:180px;" fcStyle="top: -188px;">
+			<text style="padding-top:25px;"><![CDATA[霍莉可以更新供应商主文件，她只出了一点小错，这些错误随后就被发现和订正了。]]></text>
+			<text><![CDATA[但是，在医院自助餐厅吃饭的其他人可能会听到建安的谈话内容，这未免会泄露供应商的信息。]]></text>
+			<text><![CDATA[对建安而言，最安全的选择是让霍莉前取加密后的优盘。 这样做可确保敏感数据的安全。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:175px;" fcStyle="top: -188px;">
+			<text style="padding-top:25px;"><![CDATA[霍莉取走了闪存盘，但在建安远程处理他的副本时，他的同事已编辑原始文件。 当霍莉更新建安的版本后，他同事的更改内容被覆盖。 团队必须花费数小时更新和确认信息。]]></text>
+			<text><![CDATA[建安因下载主文件受到训斥，但至少信息安全无忧。 霍莉不应在未确认其他作者是否进行任何可能受到影响的更新的情况下上传这些修订文件。]]></text>
+			<text><![CDATA[这是最安全的操作选择，因为这可确保敏感数据的安全。]]></text>
+		</correct>
+	</feedback>
+</contents>

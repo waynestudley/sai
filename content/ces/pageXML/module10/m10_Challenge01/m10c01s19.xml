@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m09s05">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width:574px;font-size: 15px;margin-bottom:0px"><![CDATA[Neočekávaný vývoj událostí.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c01/m10c01s19/contentBackground.jpg" minwidth="769"><![CDATA[Rozmazaný bar v pánském klubu]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 574px;"></pageTitle>
+	<instructionText style="width: 574px;">
+		<text><![CDATA[Klikněte na jednotlivé osoby.]]></text>
+		<text><![CDATA[Klikněte na tlačítko Další – zkuste to znovu a přehodnoťte své rozhodnutí.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:150px;">
+		<revealCallOut width="300px" height="175px" top="15px" left="370px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module10/m10c01/m10c01s19/btn1.png" minwidth="769"><![CDATA[Rozmazaný bar v pánském klubu]]></img>
+			<buttonText style="height: 30px;"><![CDATA[Jian]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="" style="height: 95px;top:-50px; display: block; left: 370px; width: 610px;line-height:20px;">			
+				<text style="margin-bottom: 0px;"><![CDATA[Chtěl jsem zajít jen na jeden drink. Ale zatímco jsem byl v klubu, strhla se rvačka a někdo přivolal policii. Protože jsem celou událost viděl, musím jít svědčit k soudu.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="175px" top="15px" left="679px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module10/m10c01/m10c01s19/btn2.png" minwidth="769"><![CDATA[Podezřelá postava]]></img>
+			<buttonText style="height: 30px;"><![CDATA[Isabela, Jianova nadřízená]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="" style="height: 170px;top: -50px; display: block; left: 370px; width: 610px;">
+				<text style="margin-bottom: 8px;"><![CDATA[Jian mě svým rozhodnutím zklamal – vůbec neměl do klubu chodit. Budou-li o rvačce psát noviny, mohou jej spojit s naší společností.]]></text>					
+				<text style="margin-bottom: 0px;"><![CDATA[Jian reprezentoval společnost Johnson Controls na pracovní akci. Měl si uvědomit, že klub není vhodným podnikem, a zdvořile odmítnout.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

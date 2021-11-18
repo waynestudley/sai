@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents  className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0" ><![CDATA[A customer has asked Carlos to do extra work. How do you think he should respond? Choose one option; then click on OK.]]></text>
+		<text path="audio/module10/m10_fd_1" id="1" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2" ><![CDATA[Click on Next to find out what happened.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3" ><![CDATA[Click on Next to continue.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText >
+		<text><![CDATA[What should Carlos do?]]></text>
+	</contentText>
+	 <contentBackground >		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText >
+		<text><![CDATA[Choose one option then select OK.]]></text>
+		<text><![CDATA[Click on Next to find out what happened.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1" ><![CDATA[Agree to the work, swear David to secrecy, and complete the work together before leaving.]]></option>
+		<option answer="1" feedbackId="2" ><![CDATA[Tell David to do the work if he wants to, but that he won’t be involved.]]></option>
+		<option answer="2" feedbackId="3" ><![CDATA[Politely explain to the client that they can’t accept, since that would take business away from Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="" >
+			<text  style="padding-top:12px;"><![CDATA[Carlos and David complete the work before leaving. It’s easy! And they always carry a few spare sensors so Johnson Controls won’t be any the wiser.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="" >
+			<text  style="padding-top:25px;"><![CDATA[David agrees to take on the work on the side.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="" >
+			<text  style="padding-top:25px;"><![CDATA[Carlos calls his manager, who lets the sales team know, and they sort out a quote for the additional work. The work goes to Johnson Controls, rather than being diverted to Carlos or David personally.]]></text>
+		</correct>
+	</feedback>
+</contents>

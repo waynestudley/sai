@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s09">
+	<transcript>
+		<text path="audio/module4/m04s09" id="0"><![CDATA[휴대전화와 노트북은 이동 중에 작업을 수행하는 데 좋지만 우리를 취약하게 만들 수도 있습니다. 여러분 자신과 여러분이 함께 일하는 모두를 보호하기 위해 항상 경계하십시오.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[휴대전화, 노트북 또는 기타 휴대용 장치를 사용할 때 여러분은 작업장을 함께 가지고 다니는 것입니다. 범죄자들은 어디에서나 기회를 찾으므로 계속 경계심을 갖고 불필요한 위험에 노출되지 않는 것이 중요합니다.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s09/contentBackground.jpg" minwidth="769"><![CDATA[공항에서 휴대전화를 사용하는 직장인]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[각 제목을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="190px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn1.png" minwidth="769"><![CDATA[사적 대화를 하는 2명의 직장인]]></img>
+			<buttonText style="height: 56px;"><![CDATA[사적 대화는 은밀하게]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: 0px;width: 958px;">
+				<text><![CDATA[전화를 이용하여 또는 다른 사람이 엿들었을 수 있는 곳에서 사적이거나 기밀인 정보에 대해 이야기하지 마십시오.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s09/btn2.png" minwidth="769"><![CDATA[여러 개의 Wi-Fi 핫스팟이 있는 도시]]></img>
+			<buttonText style="height: 56px;"><![CDATA[공용 Wi-Fi 사용 피하기]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 90px;top: 0px;width: 958px;">
+				<text><![CDATA[보호되지 않는 공용 네트워크를 통해 보내는 정보는 더욱 쉽게 가로채기 될 수 있습니다. 대신 일반적으로 기업에서 제공하는 잘 알려진 Wi-Fi 스팟을 선택하십시오. 공용 Wi-Fi를 사용해야 하는 경우에는 VPN을 사용하여 Johnson Controls 네트워크에 액세스해야 합니다.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn3.png" minwidth="769"><![CDATA[공항에서 노트북을 사용하는 직장인]]></img>
+			<buttonText style="height: 56px;"><![CDATA[주변 환경 살피기]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: 0px;width: 958px;">
+				<text><![CDATA[주변에 여러분의 화면을 볼 수 있는 사람이 있다는 것을 유념하십시오. 장치의 디스플레이 위에 화면 보호 필름을 사용하는 것을 고려하십시오.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s09/btn4.png" minwidth="769"><![CDATA[전자 카드를 사용하는 직장인]]></img>
+			<buttonText style="height: 56px;"><![CDATA[전자 카드 잘 관리하기]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: 0px;width: 958px;">
+				<text><![CDATA[출입용 전자 카드의 위치를 항상 확인하십시오. 직장을 오고 갈 때는 전자 카드를 <br />옷 속에 넣어야 합니다.]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

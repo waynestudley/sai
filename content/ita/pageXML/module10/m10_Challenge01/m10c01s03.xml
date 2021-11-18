@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[Sapendo che dovrà trascorrere diverse ore di attesa in ospedale, Jian considera di portare il lavoro con sé. Che cosa dovrebbe fare secondo te? Seleziona un’opzione quindi fai clic su OK.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Jian deve assentarsi dal lavoro per seguire sua moglie all'ospedale, ma ci sono dei progetti urgenti che richiedono la sua attenzione. Può portare il suo portatile all'ospedale, ma sa che lavorare in remoto non è sicuro come farlo dalla rete aziendale.]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Qual è il modo migliore per Jian di assicurarsi di completare il suo lavoro entro la scadenza?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[Ambiente d'ufficio]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Seleziona un’opzione e fai clic su OK.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian carica le informazioni per il progetto Texela, incluso il file principale del fornitore, sul suo account Dropbox personale. In questo modo, può accedervi utilizzando il portatile in ospedale, ma non verrà invierà nella su Internet né scaricherà qualcosa localmente sul suo computer.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian carica le informazioni del fornitore e il file principale su una chiavetta e le cripta. Questo sembra più sicuro che accedere alle informazioni per via telematica.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian rinegozia una proroga del progetto a cui stava inizialmente lavorando e completa il lavoro sul progetto Texela prima di andare in ospedale.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[La decisione di Jian mette a rischio di violazione della privacy i dati dell'azienda, dei clienti e dei fornitori.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian ha adottato misure per proteggere le informazioni dell'azienda e dei fornitori, ma ha creato un problema diverso?]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -188px;">
+			<text style="padding-top:25px;"><![CDATA[Jian rinegozia una proroga del progetto a cui stava inizialmente lavorando e completa il lavoro sul progetto Texela prima di andare in ospedale.]]></text>
+			<text><![CDATA[Jian è in grado di riferire le sue considerazioni sui fornitori prima di lasciare il lavoro e, di conseguenza, non ha bisogno di portare con sé una copia delle informazioni riservate del fornitore o del suo file principale. Jian ha assicurato che il progetto complessivo non subisca conseguenze negative, grazie alla negoziazione di successo della proroga sulla tempistica di consegna del progetto.]]></text>
+			<text><![CDATA[Ancora meglio, Jian è in grado di trascorrere del tempo con sua moglie senza essere distratto dalle scadenze incombenti.]]></text>
+		</correct>
+	</feedback>
+</contents>

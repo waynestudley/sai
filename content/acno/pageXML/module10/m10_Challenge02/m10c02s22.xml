@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m10c02s22">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c02/m10c02s22/contentBackground.jpg" minwidth="769"><![CDATA[Un empleado pensativo]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 574px;"></pageTitle>
+	<instructionText style="width: 574px;">
+		<text><![CDATA[Haga clic en cada persona.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:123px;">
+		<revealCallOut width="300px" height="180px" top="15px" left="370px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module10/m10c02/m10c02s22/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Emma]]></buttonText>
+			<popupArrow style="left:140px; top: -15px;" />
+			<popText arrowleft="" style="height: 185px;top:-66px; display: block; left: 370px; width: 608px;line-height:20px;">			
+				<text style="margin-bottom: 7px;"><![CDATA[Le pregunté a Tom si estaba autorizado a recibir la lista de direcciones y, claramente, no lo estaba.  De ninguna manera iba a proporcionarle esos informes. Además, el hecho de que me ofreciera dinero me hizo preguntarme si sus intenciones eran del todo honestas. ]]></text>				
+				<text style="margin-bottom: 7px;"><![CDATA[Informé el asunto a mi gerente, Roger. Pero dudo de que me haya creído. Dijo que probablemente estaba exagerando y que Tom tenía mucha imaginación. Roger dijo que se ocuparía del asunto, pero no estoy convencida.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="180px" top="15px" left="678px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module10/m10c02/m10c02s22/btn2.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Roger, gerente de Emma]]></buttonText>
+			<popupArrow style="left:460px; top: -15px;" />
+			<popText arrowleft="" style="height: 185px;top:-66px; display: block; left: 370px; width: 608px;">
+				<text style="margin-bottom: 0px;"><![CDATA[Fue bueno que Emma viniera a hablar conmigo, pero lo que me contó no suena como el Tom que conozco. Probablemente, estaba haciendo una broma, y Emma lo tomó demasiado en serio. Le dije que se lo tomara con calma y que yo me ocuparía del asunto. Conociendo a Tom, dudo que tenga malas intenciones. Por las dudas, se lo mencionaré cuando lo vea de nuevo, solo para estar seguro.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

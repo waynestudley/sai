@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[정부와 규제 당국은 뇌물 수수를 엄중하게 처리합니다. 그러므로 우리 모두가 뇌물 수수를 예방하기 위해 적극적으로 행동하는 것이 매우 중요합니다. 왼쪽 열의 행동과 오른쪽의 결과를 짝지어 보십시오.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[뇌물 수수 및 부패 행위에 관여하는 기업은 어떻게 됩니까?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[사무실]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[제출]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[첫 번째 열에서 항목을 선택한 후 화살표를 끌어서 두 번째 열에 있는 일치하는 결과와 연결하십시오. 완료되면 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[행동]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[누군가에게 인턴십을 제공하는 직원 ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[JP Morgan의 아시아 태평양 지역 투자 은행가들은 정부 공무원을 포함한 잠재 고객의 가족과 친구들에게 일자리와 인턴십을 제공하는 프로그램을 운영했습니다. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[뇌물을 들고 있는 정부 공무원 ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[구리, 알루미늄 및 광섬유 와이어를 제조한 거대 국제 기업의 자회사들이 제3자 대리점 및 유통업체들에 수백만 달러를 지불했습니다. 그 돈의 일부는 사업을 획득하기 위해 정부 공무원들에게 뇌물을 주는 데 사용되었으며, 그 결과 이 기업은 미화 5,100만 달러의 이익을 얻었습니다.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[결과]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[이 기업은 미화 7천 6백만 달러를 납부하라는 명령을 받았고, 뇌물 수수를 알고 있던 2명의 임원은 수백만 달러를 상환해야 했습니다. ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[법봉을 들고 있는 판사]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ 미국 정부는 이 기업이 상당한 사업상 이익을 가져다 주는 "체계적인 뇌물을 활용했음"을 확인했습니다. 이 기업은 미화 2억 6천 4백만 달러를 납부하라는 명령을 받았습니다.]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[법원 계단을 통해 보이는 US Capital 건물]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[뇌물 수수 및 부패 행위의 결과는 개인과 기업 모두에 심각할 수 있으며, 벌금부터 징역형까지 다양합니다.  Johnson Controls는 항상 뇌물 수수를 피하고 이 지역에서의 모든 의심스러운 활동을 즉시 보고하는 등 모든 단계에서 여러분에게 의존합니다.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[뇌물 수수 및 부패 행위의 결과는 개인과 기업 모두에 심각할 수 있으며, 벌금부터 징역형까지 다양합니다.  Johnson Controls는 항상 뇌물 수수를 피하고 이 지역에서의 모든 의심스러운 활동을 즉시 보고하는 등 모든 단계에서 여러분에게 의존합니다.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s05">
+	<transcript>
+		<text path="audio/module4/m04s05" id="0"><![CDATA[ข้อมูลส่วนบุคคลบางชนิดนั้นก็ชัดเจน แต่บางประเภทก็ละเอียดอ่อนกว่าที่เห็น ]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px;font-size:14px;"><![CDATA[ข้อมูลส่วนบุคคลนั้นมีหลากหลายรูปแบบ ลองคลิกที่แต่ละชนิดดูเพื่อศึกษาตัวอย่างเพิ่มเติมของข้อมูลแต่ละชนิดที่อาจจะถือว่าเป็นข้อมูลส่วนตัวหรือส่วนบุคคล]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s05/contentBackground.jpg" minwidth="769"><![CDATA[ผู้หญิงกับตู้เก็บแฟ้ม]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[คลิกที่ไฟล์แต่ละชนิดเพื่อดูตัวอย่าง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:157px">
+		<revealCallOut width="230px" height="178px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s05/btn1.png" minwidth="769"><![CDATA[]]></img>
+			<buttonText style="height: 44px;"><![CDATA[ข้อมูลติดต่อ]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 50px;top: -30px;width: 958px;">
+				<text><![CDATA[ชื่อ เบอร์โทรศัพท์ และอีเมล]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s05/btn2.png" minwidth="769"><![CDATA[ศาสนา]]></img>
+			<buttonText style="height: 44px;"><![CDATA[ข้อมูลส่วนบุคคลที่ละเอียดอ่อน]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 60px;top: -30px;width: 958px;">
+				<text><![CDATA[สุขภาพ รสนิยมทางเพศ ความเป็นสมาชิกกับพรรคการเมือง ศาสนาหรือข้อมูลที่คล้ายกันของความเชื่อของบุคคลนั้น]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s05/btn3.png" minwidth="769"><![CDATA[ประวัติส่วนตัว]]></img>
+			<buttonText style="height: 44px;"><![CDATA[ข้อมูลการจ้างงาน]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 50px;top: -30px;width: 958px;">
+				<text><![CDATA[ประวัติการทำงานและเงินเดือน]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="178px" top="15px" left="748px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s05/btn4.png" minwidth="769"><![CDATA[บัตรเครดิต]]></img>
+			<buttonText style="height: 44px;"><![CDATA[ข้อมูลทางการเงิน]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 50px;top: -30px;width: 958px;">
+				<text><![CDATA[หมายเลขบัตรเครดิตหรือเลขที่บัญชีธนาคาร]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

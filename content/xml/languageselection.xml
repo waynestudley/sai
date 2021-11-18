@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>	
+<contents>
+	<contentText>		
+		<text><![CDATA[Select your language]]></text>
+	</contentText>
+	<buttonText >
+		<text><![CDATA[Continue]]></text>
+	</buttonText>
+	 <contentBackground >		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/languageSelectionBg.jpg" ><![CDATA[World map]]></img>
+	</contentBackground>
+	<dropDownMenu>
+			<option id="data0" folderPath="none"><![CDATA[Select language]]></option>
+			<option id="data1" folderPath="acno"><![CDATA[Español]]></option><!-- spanish - es -->	
+			<option id="data2" folderPath="ara"><![CDATA[العربية]]></option>	
+			<option id="data3" folderPath="bsil"><![CDATA[Português do Brasil]]></option><!-- ptbr -->
+			<option id="data4" folderPath="ces"><![CDATA[Česky]]></option>	<!-- Czech cz -->
+			<option id="data5" folderPath="deu"><![CDATA[Deutsch]]></option><!-- German - deu -->	
+			<option id="data6" folderPath="eng"><![CDATA[English]]></option>	
+			<option id="data7" folderPath="fra"><![CDATA[Français]]></option>
+			<option id="data8" folderPath="heb"><![CDATA[עברית]]></option>	
+			<option id="data9" folderPath="ita"><![CDATA[Italiano]]></option>	
+			<option id="data10" folderPath="jpn"><![CDATA[日本語]]></option>	
+			<option id="data11" folderPath="kor"><![CDATA[한국어]]></option>	
+			<option id="data12" folderPath="mly"><![CDATA[Malay]]></option>	
+			<option id="data13" folderPath="nan"><![CDATA[繁體中文]]></option><!-- Chinese - cht -->
+			<option id="data14" folderPath="nld"><![CDATA[Nederlands]]></option><!-- Dutch - nl -->	
+			<option id="data15" folderPath="rus"><![CDATA[Русский]]></option>	
+			<option id="data16" folderPath="slk"><![CDATA[Slovenčina]]></option>
+			<option id="data17" folderPath="tha"><![CDATA[ไทย]]></option>
+			<option id="data18" folderPath="zho"><![CDATA[简体中文]]></option><!-- Chinese - chs -->				
+	</dropDownMenu>
+</contents>	

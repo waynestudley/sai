@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m10c03s24">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+	</transcript>
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module10/m10c03/m10c03s24/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 100%;"></pageTitle>
+	<instructionText style="width: 100%;">
+		<text><![CDATA[Selecteer iedere titel voor meer informatie.]]></text>
+		<text><![CDATA[Klik op Volgende om op uw beslissing terug te komen en opnieuw te proberen. ]]></text>
+	</instructionText>	
+	<accordionContent>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">			
+			<buttonText style=""><![CDATA[Te veel alcohol op]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Meerdere groepsleden raken erg dronken en een ervan valt van een trap en breekt zijn arm. Er moet een nieuwe persoon worden aangenomen om voor hem in te springen, maar de nieuweling werkt veel trager en het project loopt vertraging op. ]]></text>						
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="127">
+			<buttonText><![CDATA[De klant is ontevreden]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Nadat de klant een aantal gesprekken heeft opgevangen, begrijpt ze dat het project vertraging heeft opgelopen naar aanleiding van een evenement waar Carlos een aantal van de arbeiders op drankjes trakteerde in een sportbar. Ze belt de manager van Carlos op om erover te klagen. ]]></text>					
+			</popText>
+		</accordion>
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="138">
+			<buttonText><![CDATA[Facebookpublicaties]]></buttonText>
+			<popupArrow style="" />
+			<popText>
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Een van de onderaannemers plaatst een foto van het ongeval op Facebook. Hij schrijft erbij: "De laatste keer dat ik eentje ga drinken met de Johnson Controls-ploeg..." ]]></text>					
+				<text style="font-size:15px;line-height:18px;"><![CDATA[Carlos vraagt zich af of de gekwetste onderaannemer het bedrijf kan vervolgen.]]></text>					
+			</popText>
+		</accordion>				
+	</accordionContent>	
+</contents>

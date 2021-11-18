@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0"><![CDATA[คุณควรทำอย่างไรเมื่อมีใครบางคนส่งข้อมูลส่วนบุคคลที่คุณไม่ควรจะได้เห็น]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;line-height:18px;"><![CDATA[คุณจะทำอย่างไร ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[คุณได้รับหน้าที่่ในการแจ้งเตือนผู้รับเหมาเกี่ยวกับกระบวนการการส่งใบแจ้งหนี้ใหม่ ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;line-height:18px;"><![CDATA[คุณขอให้พนักงานในแผนกอื่นส่งรายชื่ออีเมลเข้ามาให้กับคุณแต่คุณได้แผ่นตารางงานที่รวมข้อมูลส่วนบุคคลที่ใช้ในการล็อกข้อมูลของพวกเขาเช่น วันเกิด ชื่อของแม่ และเลขประกันสังคม ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[คุณจะทำอย่างไร?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769"><![CDATA[นักธุรกิจ]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[เลือกหนึ่งตัวเลือกแล้วส่ง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px;line-height:18px;">
+		<option><![CDATA[ลบอีเมลทิ้งแล้วรายงานเรื่องไปที่ฝ่ายความเป็นส่วนตัวของข้อมูลโดยอีเมลไปที่ privacy@jci.com]]></option>
+		<option><![CDATA[ส่งมันไปให้กับเพื่อนร่วมงานเพื่อให้เป็นตัวอย่างว่าสิ่งใดที่ควรและไม่ควรที่จะส่งไปบนอีเมล]]></option>
+		<option><![CDATA[นำไปเฉพาะสิ่งที่คุณต้องการจากตารางทำการและทำลายข้อมูลที่เหลือทิ้งอย่างปลอดภัย]]></option>
+		<option><![CDATA[อีเมลหาผู้รับเหมาทุกคนเพื่อบอกว่าข้อมูลส่วนบุคคลพวกเขาอาจถูกเปิดเผย]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px; height:130px;" fcStyle="top:-157px">
+			<text style="font-size:17px;"><![CDATA[ถูกต้อง]]></text>
+			<text><![CDATA[กฎหมายข้อมูลส่วนตัว และนโยบายความเป็นส่วนตัวของจอห์นสัน คอนโทรลส์ นั้นต่างมีผลกับข้อมูลส่วนตัวของพนักงานรวมไปถึงของผู้ซื้อและพาร์ทเนอร์ธุรกิจ ทำให้มั่นใจว่าคุณเข้าใจความรับผิดชอบของคุณและปฏิบัติตามนโยบายความเป็นส่วนตัวของจอห์นสัน คอนโทรลส์ และกฎหมายการคุ้มครองข้อมูลและความเป็นส่วนตัวที่เกี่ยวข้อง]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:130px;" fcStyle="top:-157px">
+			<text style="font-size:17px;"><![CDATA[ไม่ถูกต้อง]]></text>
+			<text><![CDATA[กฎหมายข้อมูลส่วนตัว และนโยบายความเป็นส่วนตัวของจอห์นสัน คอนโทรลส์ นั้นต่างมีผลกับข้อมูลส่วนตัวของพนักงานรวมไปถึงของผู้ซื้อและพาร์ทเนอร์ธุรกิจ ทำให้มั่นใจว่าคุณเข้าใจความรับผิดชอบของคุณและปฏิบัติตามนโยบายความเป็นส่วนตัวของจอห์นสัน คอนโทรลส์ และกฎหมายการคุ้มครองข้อมูลและความเป็นส่วนตัวที่เกี่ยวข้อง]]></text>
+		</incorrect>
+	</feedback>
+</contents>

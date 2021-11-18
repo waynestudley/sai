@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;left: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:15px;"><![CDATA[חנה עושה מאמץ לא לאפשר למשרה השנייה שלה לשבש את עבודתה ב-Johnson Controls. אך השמועה הופצה במשרד, ושלושה עמיתים מתעניינים כעת בנכס החדש שלה!  בזמן שחנה נמצאת בשיחה עם לקוח, היא מקבלת הודעה מידית משלומית מהנהלת חשבונות.]]></text>
+		<text style="font-size:15px;"><![CDATA[<i>"הי חנה. אשמח מאוד לראות את הדירה ברמת השרון. הקישור ששלחת נראה נהדר. זה בדיוק מה שאנחנו מחפשים. את חושבת שתוכלי לצאת מעט מוקדם יותר כדי להימנע מפקקים, ולהראות לי את הדירה?"</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:8px;">
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;">
+		<option answer="0" feedbackId="1"><![CDATA[חנה מסכימה לצאת מהעבודה מוקדם כדי להראות לשלומית את הנכס.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[חנה אומרת לשלומית שהיא צריכה לקבל עוד כמה שיחות ולסיים את עבודת הניירת ואז תוכל לצאת מוקדם. אך היא אומרת שיש לה תמונות וסרטוני וידאו במחשב הנייד שלה, ושלומית יכולה לגשת לשולחן שלה במהלך היום כדי לראות אותם ולדון בהם.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[חנה אומרת לשלומית שהיא לא יכולה להראות לה את הנכס היום, אך היא תשלח לה תמונות נוספות אחרי השיחה עם הלקוח. היא מבקשת משלומית להתקשר אליה הביתה בשעות הערב כדי לקבל פרטים נוספים.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[זוהי האפשרות המסוכנת ביותר. נראה מה קרה כאשר חנה קיבלה החלטה זו.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[על אף שחנה לא יצאה מוקדם מהעבודה, היא השתמשה ברכוש של Johnson Controls ובזמן של החברה כדי לבצע עסקאות חיצוניות בניגוד למותר, ובנוסף, אף מסיחה את דעתה של עמיתה אחרת שרוצה לראות את הנכסים.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[חנה עושה צעדים כדי להפריד בין שתי העבודות. עם זאת, אסור לה להשתמש במחשב הנייד של העבודה, בהודעות המידיות או במערכת הדוא"ל של העבודה כדי לבצע עסקאות חיצוניות, ובנוסף, היא מסיחה את דעתה של עמיתה אחרת שרוצה לראות את הנכסים.]]></text>
+		</correct>
+	</feedback>
+</contents>

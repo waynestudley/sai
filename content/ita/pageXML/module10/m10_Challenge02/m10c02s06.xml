@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[Emma sta facendo uno sforzo per non lasciare che la sua attività secondaria la distragga dal lavoro in Johnson Controls. Ma la parola si è sparsa, ed Emma ha ora tre colleghi che sono interessati alla sua nuovissima proprietà!  Durante una chiamata da un cliente, Emma riceve un messaggio da Sandy dalla Contabilità.]]></text>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[<i>“Ehi Emma. ADOREREI vedere quel posticino su Newbury Road. Il link che mi hai inviato sembra fantastico. È esattamente quello che stavamo cercando. Pensi che potremmo uscire un po’ prima dall’ufficio oggi per non restare incastrate nel traffico, e poi potresti mostrarmelo?"</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:15px;">
+		<text><![CDATA[Seleziona un’opzione e fai clic su OK.]]></text>
+		<text><![CDATA[Fai clic su Avanti per scoprire che cosa è successo.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;font-size:14px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma accetta di uscire in anticipo dal lavoro per mostrare Sandy la proprietà.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma dice a Sandy che deve rispondere a qualche altra chiamata, deve concludere dei documenti cartacei e che non riuscirà a uscire prima. Lei dice però di avere altre foto e video sul suo portatile, e che Sandy può fermarsi alla sua scrivania in qualsiasi momento oggi per dare un'occhiata e discuterne ulteriormente.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma dice a Sandy che non le può mostrare la proprietà questa sera, ma le invierà altre foto dopo la chiamata del cliente. Chiede a Sandy di chiamarla a casa questa sera per discutere più in dettaglio.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height: 210px;" fcStyle="top: -200px;">
+			<text style="padding-top:12px;"><![CDATA[Questa è l’opzione più rischiosa. Diamo un'occhiata a che cosa succede quando Emma prende questa decisione.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 210px;" fcStyle="top: -189px;">
+			<text style="padding-top:25px;"><![CDATA[Anche se Emma non è uscita presto, utilizza ancora proprietà e tempo di Johnson Controls per condurre affari esterni che non dovrebbe gestire, inoltre è anche fonte di distrazione per gli altri colleghi che sono interessati ad esaminare le proprietà.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 210px;" fcStyle="top: -198px;">
+			<text style="padding-top:25px;"><![CDATA[Emma sta prendendo provvedimenti per mantenere separati i suoi due lavori. Tuttavia, non dovrebbe utilizzare il suo portatile di lavoro, messenger o l'e-mail di lavoro per condurre affari esterni e sta anche distraendo altri colleghi interessati a visualizzare le proprietà.]]></text>
+		</correct>
+	</feedback>
+</contents>

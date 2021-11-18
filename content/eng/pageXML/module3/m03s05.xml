@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0" ><![CDATA[Which of these scenarios do you think could be problematic?]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+	</transcript>
+	<contentText >
+		<text><![CDATA[Do you think these examples could be perceived as bribery?]]></text>
+	</contentText>
+	<contentBackground >		
+		<img path="content/images/ltr/module3/m03s05/contentBackground.jpg" minwidth="769" ><![CDATA[Business people]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText >
+		<text><![CDATA[Select <span class="fontBold">all</span> the problematic scenarios and then click on Submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<extraInstructionText >
+		<text><![CDATA[There may be more than one correct answer.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px" >
+		<option ><![CDATA[You promise a client a cash gift in exchange for a favorable business decision]]></option>
+		<option ><![CDATA[A subcontractor who wants your business invites you to several dinners and sports events]]></option>
+		<option ><![CDATA[You make a campaign contribution to a government official who is a potential client]]></option>
+		<option ><![CDATA[Your manager hires a client’s daughter in exchange for the client agreeing to extend his current contract]]></option>	
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback >
+		<correct transcriptId="1" style="">
+			<text><![CDATA[That’s correct.]]></text>
+			<text><![CDATA[In fact, all of these scenarios could be considered bribes depending on the circumstances. The intent to influence is a major factor but it is also important to remember that even the appearance of a bribe could be problematic for you and Johnson Controls, so think before you act!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[That’s not correct.]]></text>
+			<text><![CDATA[In fact, all of these scenarios could be considered bribes depending on the circumstances. The intent to influence is a major factor but it is also important to remember that even the appearance of a bribe could be problematic for you and Johnson Controls, so think before you act!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

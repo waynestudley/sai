@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[政府及监管机构严肃处理贿赂行为。 因此，我们必须积极预防贿赂行为。 您能否将左列的行为与右列的后果进行匹配？]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[参与贿赂和腐败的公司会有什么后果？]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[办公室]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[提交]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[从第一列选择一个项目，然后拖动箭头，将其与第二列中的对应后果相连。 完成后，请单击“提交”。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[行为]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[员工向他人提供实习机会 ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[JP Morgan 亚太地区的投资银行家运行一项计划，向潜在客户（包括政府官员）的亲朋好友提供工作和实习机会。 ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[收受贿赂的政府官员 ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[某家大型国际公司的一家生产铜、铝和光纤电缆的子公司向第三方代理和分销商支付数百万美元。 其中一部分费用用以贿赂政府官员以获得业务，从而为公司带来 5100 万美元的利润。]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[后果]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[公司被勒令支付 7600 万美元，两名贿赂知情高管需偿还数百万美元。 ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[手持小木槌的法官]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ 美国政府发现该公司“参与系统化贿赂计划”，以谋取重大业务回报。 公司被勒令支付 2.64 亿美元。]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[在法院台阶上看到的美国国会大厦]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[贿赂和腐败可能会给个人和公司招致严重后果，包括罚款和监禁。  Johnson Controls 依靠您（该过程中每一步皆是如此）始终规避贿赂并立即报告此类可疑活动。]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[贿赂和腐败可能会给个人和公司招致严重后果，包括罚款和监禁。  Johnson Controls 依靠您（该过程中每一步皆是如此）始终规避贿赂并立即报告此类可疑活动。]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

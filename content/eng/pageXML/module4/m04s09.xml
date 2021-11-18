@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="revealCallOut2" className="m04s09">
+	<transcript>
+		<text path="audio/module4/m04s09" id="0" ><![CDATA[Mobile phones and laptops are great for doing work on the go, but they can also make us vulnerable. Stay vigilant to protect yourself and everyone you work with.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[When you use mobile phones, laptops or other portable devices, you’re carrying your workplace with you. Criminals look for opportunity wherever they can, so it’s important to stay vigilant and not expose ourselves to unnecessary risk.]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module4/m04s09/contentBackground.jpg"  minwidth="769"><![CDATA[Employee using mobile phone in an airport]]></img>
+	</contentBackground>	
+	 <contentBg style="" ></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;" >
+		<text><![CDATA[Click on each heading.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<revealCallOutContent >
+		<revealCallOut width="230px" height="190px" top="15px" left="20px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module4/m04s09/btn1.png" minwidth="769" ><![CDATA[Two employees having a private conversation]]></img>
+			<buttonText style="height: 56px;" ><![CDATA[Keep private conversations private]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="90px" style="height: 55px;top: 0px;width: 958px;">
+				<text><![CDATA[Don’t discuss private or confidential information on the phone or in person where others could overhear.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="263px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module4/m04s09/btn2.png" minwidth="769" ><![CDATA[City with multiple Wi-Fi hotspots]]></img>
+			<buttonText style="height: 56px;" ><![CDATA[Avoid using public Wi-Fi]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="400px" style="height: 75px;top: 0px;width: 958px;">
+				<text><![CDATA[Information you send over an unsecured public network can be more easily intercepted. Instead, choose well-known Wi-Fi spots typically offered by businesses. If you need to use public Wi-Fi, be sure to use a VPN to access Johnson Controls networks.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="505px" ticktop="5px" tickleft="3px" >
+			<img path="content/images/ltr/module4/m04s09/btn3.png" minwidth="769" ><![CDATA[Employee working on laptop in airport]]></img>
+			<buttonText style="height: 56px;" ><![CDATA[Check your surroundings]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="760px" style="height: 75px;top: 0px;width: 958px;">
+				<text><![CDATA[Be mindful of people around you who may have a view of your screen. Consider using a privacy screen over the display of your device.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="748px" ticktop="5px" tickleft="3px" >
+			<img path="content/images/ltr/module4/m04s09/btn4.png" minwidth="769" ><![CDATA[Employee using swipe card]]></img>
+			<buttonText style="height: 56px;" ><![CDATA[Keep your swipe card close]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="760px" style="height: 75px;top: 0px;width: 958px;">
+				<text><![CDATA[Make sure you know where your access swipe card is at all times. Remember to tuck your swipe card into your clothes when <br />going to and from your workplace.]]></text>				
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

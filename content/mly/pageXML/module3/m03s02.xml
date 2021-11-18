@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[Sebagus manakah anda dalam mengenal pasti situasi berisiko? Baca senario ini, pilih Setuju atau Tidak Setuju untuk setiap pilihan, kemudian klik Serah.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[Koridor pejabat]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>
+	<contentText>
+		<text style="line-height:18px"><![CDATA[Perunding yang bekerjasama dengan anda di Timur Tengah memberitahu anda bahawa duti import untuk penghantaran adalah tinggi tetapi dia menemui “penyelesaian lebih murah” dan penghantaran kini telah dilepaskan. Manakah antara pernyataan ini yang anda bersetuju dengannya?]]></text>
+	</contentText>
+	<instructionText style="line-height:20px">
+		<text><![CDATA[Pilih Setuju atau Tidak Setuju untuk setiap pilihan, kemudian klik Serah. ]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[Dok]]></img>
+			<text style="width: 450px;"><![CDATA[“Penyelesaian lebih murah” ini boleh melibatkan seseorang diberi rasuah ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[Dok]]></img>
+			<text style="width: 450px;"><![CDATA[Anda patut melaporkan kecurigaan anda kepada pengurus anda atau Jabatan Undang-undang   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[Dok]]></img>	
+			<text style="width: 450px;"><![CDATA[Anda patut tunggu dan lihat perkara yang terjadi dan kemudian, bincangkan dengan pengurus anda]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[Dok]]></img>	
+			<text style="width:450px;"><![CDATA[Jika perunding memberi rasuah bagi pihak syarikat, dia akan bertanggungjawab, bukannya Johnson Controls]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[Dok]]></img>	
+			<text style="width:450px;"><![CDATA[Anda patut berterima kasih kepada perunding kerana menjimatkan wang dan menyalurkan lebih banyak kerja pada masa akan datang]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Setuju]]></text>
+		<text><![CDATA[Tidak Setuju]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 37px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Itu betul.]]></text>			
+			<text style="font-size: 13px;line-height:20px;"><![CDATA[“Penyelesaian lebih murah” boleh menjadi rasuah. Kadangkala rasuah boleh menjadi sangat tidak ketara. Dalam situasi ini, anda patut melaporkan kecurigaan anda dengan serta-merta kepada pengurus anda dan ahli Jabatan Pematuhan atau Undang-undang atau melaporkan kebimbangan anda kepada Talian Bantuan Integriti. ]]></text>			
+			<text style="font-size: 13px;line-height:20px;"><![CDATA[Jika pihak ketiga memberi rasuah bagi pihak Johnson Controls, kita masih bertanggungjawab.]]></text>			
+		</correct>
+		<incorrect style="top: 37px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Itu salah.]]></text>	
+			<text style="font-size: 13px;line-height:20px;"><![CDATA[“Penyelesaian lebih murah” boleh menjadi rasuah. Kadangkala rasuah boleh menjadi sangat tidak ketara. Dalam situasi ini, anda patut melaporkan kecurigaan anda dengan serta-merta kepada pengurus anda dan ahli Jabatan Pematuhan atau Undang-undang atau melaporkan kebimbangan anda kepada Talian Bantuan Integriti. ]]></text>			
+			<text style="font-size: 13px;line-height:20px;"><![CDATA[Jika pihak ketiga memberi rasuah bagi pihak Johnson Controls, kita masih bertanggungjawab.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

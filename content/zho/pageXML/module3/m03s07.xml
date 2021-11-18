@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[公司所有人都有责任规避贿赂和腐败行为。 单击各个标题，确定您可以采取哪些措施。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[在 Johnson Controls，我们承诺遵守所有的反贿赂和反腐败法。 实际行动如下：]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[检查清单]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[选择各标题以了解更多信息。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[不行贿]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[切勿向业务联系人提供任何有价物，以试图影响其判断。]]></text>				</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[保留准确的记录 ]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[切勿试图隐瞒或谎报招待或礼品费用 - 诚实准确地记录所有交易。 查看公司<a href="content/zho/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">第三方差旅、礼品与招待政策</a>，了解更多信息。]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[让业务合作伙伴对公司负责]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[向所有第三方合作伙伴说明公司的反贿赂标准。 监控其活动并报告所有涉嫌腐败的行为。 切勿与参与腐败活动的业务伙伴开展业务。]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[了解您的第三方]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[如果您负责管理第三方，确保其根据 Johnson Controls 的第三方项目要求得到全面核准。]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

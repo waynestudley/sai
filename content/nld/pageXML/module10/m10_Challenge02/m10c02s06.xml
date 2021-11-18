@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik op Volgende om door te gaan.]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[Emma doet moeite om zich niet door haar tweede baan te laten afleiden van haar werk bij Johnson Controls. Het is op kantoor echter ook bekend geraakt en Emma heeft nu drie collega's die geïnteresseerd zijn in haar laatste nieuwe pand!   Terwijl ze met een klant in gesprek is, krijgt Emma een sms'je van Sandy van de boekhoudafdeling.]]></text>
+		<text style="font-size:14px;line-height:16px;"><![CDATA[<i>"Hoi Emma. Ik zou ZO GRAAG het huis in Newbury Road bezichtigen. De link die je stuurde ziet er fantastisch uit. Dit is precies wat we zoeken. Denk je dat je vandaag wat vroeger weg kunt om de files voor te zijn en me het pand te laten bezichtigen?"</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:8px;">
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;font-size:14px;">
+		<option answer="0" feedbackId="1"><![CDATA[Emma gaat ermee akkoord vroeger te vertrekken op het werk om Sandy het pand te laten bezichtigen.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Emma vertelt Sandy dat ze nog een aantal telefoontjes moet doen en papierwerk moet afronden en niet vroeger kan vertrekken. Ze zegt haar echter dat ze nog meer foto's en video's op haar laptop heeft staan en dat Sandy om het even wanneer op haar bureau mag binnenspringen om een kijkje te nemen en er dieper op in te gaan.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Emma vertelt Sandy dat ze haar vanavond het pand niet kan laten bezichtigen, maar dat ze haar extra foto's zal doorsturen na haar telefoongesprek met de klant. Ze vraagt Sandy om haar 's avonds thuis te bellen om hier dieper op in te gaan.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height: 230px;" fcStyle="top: -235px;">
+			<text style="padding-top:12px;"><![CDATA[Dit is de meest riskante optie. Laten we even kijken wat er gebeurt als Emma deze beslissing neemt.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 230px;" fcStyle="top: -233px;">
+			<text style="padding-top:25px;"><![CDATA[Hoewel Emma niet vroeger is vertrokken, heeft ze alsnog middelen en bedrijfstijd van Johnson Controls gebruikt om externe zaken te doen, wat niet zo hoort. Ook leidt ze andere collega's af, die graag panden zouden bezichtigen.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 230px;" fcStyle="top: -235px;">
+			<text style="padding-top:25px;"><![CDATA[Emma onderneemt stappen om haar twee banen van elkaar gescheiden te houden. Ze mag echter haar laptop, chat of e-mailaccount van het werk niet gebruiken om externe zaken te doen. Ook leidt ze haar collega's af die graag panden zouden bezichtigen.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s05">
+	<transcript>
+		<text path="audio/module5/m05s05" id="0"><![CDATA[ここではどのように返信しますか？ 選択肢を1つ選んで提出してください。]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[必要に応じて技術説明や統合の指示を送信する場合、輸出となりますか？]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s05/contentBackground.jpg" minwidth="769"><![CDATA[技術的図面]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[選択肢を1つ選んで提出してください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent answer="0,1,0" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[いいえ。その人物がJohnson Controlsの顧客でない場合は違います]]></option>	
+		<option><![CDATA[はい。輸出規制のかかっている技術的図面と統合の指示をフランスの顧客に送信することは、輸出となります]]></option>	
+		<option><![CDATA[はい。しかし、その人物がイランのなどの規制のかかっている国の人物である場合のみです]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[正解です。]]></text>
+			<text><![CDATA[製品図面や指示を含む輸出規制のかかっている技術情報を、別の国に居る誰かに送ることは、事前に認可が必要な輸出です。]]></text>
+			<text><![CDATA[注意するべきなのは、輸出許可のためにどのような認可が必要か判断できるようになるまで、顧客の個人情報や場所の詳細を知らない限り情報は送信するべきではないということです。]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[残念。間違っています。.]]></text>
+			<text><![CDATA[製品図面や指示を含む輸出規制のかかっている技術情報を、別の国に居る誰かに送ることは、事前に認可が必要な輸出です。]]></text>
+			<text><![CDATA[注意するべきなのは、輸出許可のためにどのような認可が必要か判断できるようになるまで、顧客の個人情報や場所の詳細を知らない限り情報は送信するべきではないということです。]]></text>
+		</incorrect>
+	</feedback>
+</contents>

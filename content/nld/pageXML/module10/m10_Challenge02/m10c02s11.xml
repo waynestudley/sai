@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klik op Volgende om door te gaan.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma zit enorm in met de situatie van Sandy. Ze wil er graag anderen bij betrekken. Hoe kan Emma haar collega helpen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;">
+		<text><![CDATA[Kies een optie en selecteer vervolgens OK.]]></text>
+		<text><![CDATA[Klik om Volgende om te achterhalen wat er is gebeurd.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Sandy verrassen door online een crowdfundingwebsite aan te maken om volgers te informeren over het herstel en de financiële strijd van Sandy en geld in te zamelen om de medische kosten te dekken.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Haar vastgoedblog gebruiken om meer mensen te overhalen een gift te doen via een van de fondsenwervingsinitiatieven van de familie.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Sandy om toestemming vragen voordat ze iemand aanspreekt of op een socialemediasite iets publiceert over het ongeval van Sandy en haar strijd om er weer bovenop te raken.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Emma maakt voor Sandy een fondsenwervingswebsite aan en plaatst er informatie op met betrekking tot de verwondingen en huidige prognose van Sandy.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma heeft veel bezoekers op haar website en blog, dus dit lijkt haar een goede manier om nog meer mensen op de hoogte te brengen van Sandy's situatie en een gift te laten doen. Ze besluit om op haar vastgoedwebsite en -blog informatie te plaatsen over het ongeval van Sandy en de fondsenwervingsinitiatieven van haar familie.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:220px;" fcStyle="top:-222px">
+			<text style="padding-top:25px;"><![CDATA[Emma vraagt Sandy om toestemming om iets over het ongeval op haar blog te plaatsen om dusdanig fondsen te werven voor de medische zorg van Sandy.]]></text>
+			<text><![CDATA[Sandy gaat ermee akkoord, maar wenst de giften te laten overmaken aan een fonds voor de medische voorziening.]]></text>
+			<text><![CDATA[Door toestemming te vragen aan Sandy omtrent wat ze mag delen en hoe ze persoonsgegevens zal gebruiken, is Emma er zeker van dat ze Sandy's persoonsgegevens niet misbruikt en respect toont voor haar privacy.]]></text>
+		</correct>
+	</feedback>
+</contents>

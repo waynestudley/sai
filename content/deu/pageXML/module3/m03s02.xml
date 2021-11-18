@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[Wie gut sind Sie darin, riskante Situationen zu erkennen? Lesen Sie dieses Szenario, wählen Sie für jede Option „Stimme zu“ oder „Stimme nicht zu“ aus und klicken Sie dann auf „Übermitteln“.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[Büros der Beamten]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Ein Berater, mit dem Sie im Nahen Osten zusammenarbeiten, erklärt Ihnen, dass der Einfuhrzoll für eine Sendung hoch gewesen sei, er jedoch „eine kostengünstigere Methode“ gefunden habe und die Sendung jetzt freigegeben sei. Welcher dieser Aussagen stimmen Sie zu?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Wählen Sie für jede Option „Stimme zu“ oder „Stimme nicht zu“ aus und klicken Sie dann auf „Übermitteln“. ]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[Docks]]></img>
+			<text style="width: 450px;"><![CDATA[Bei dieser „kostengünstigeren Methode“ könnte es sich um eine Bestechungszahlung an jemanden handeln. ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[Docks]]></img>
+			<text style="width: 450px;"><![CDATA[Sie sollten Ihren Verdacht Ihrem Vorgesetzten oder der Rechtsabteilung melden.   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[Docks]]></img>	
+			<text style="width: 450px;"><![CDATA[Sie sollten abwarten, was passiert und dann mit Ihrem Vorgesetzten sprechen]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[Docks]]></img>	
+			<text style="width:450px;"><![CDATA[Wenn der Berater im Namen unseres Unternehmens eine Bestechungszahlung geleistet hat, wäre er verantwortlich und nicht Johnson Controls.]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[Docks]]></img>	
+			<text style="width:450px;"><![CDATA[Sie sollten dem Berater dafür danken, dass er Geld gespart hat, und ihm in Zukunft mehr Aufträge erteilen.]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Stimme zu]]></text>
+		<text><![CDATA[Stimme nicht zu]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 22px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 18px;"><![CDATA[Das ist richtig.]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Die „kostengünstigere Methode“ könnte eine Bestechung sein. Manchmal kann Bestechung sehr subtil sein. In so einer Situation sollten Sie Ihren Verdacht umgehend Ihrem Vorgesetzten und einem Mitglied der Rechts- oder Compliance-Abteilung melden oder sich an die Integrity Helpline wenden. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Wenn ein Dritter im Namen unseres Unternehmens eine Bestechungszahlung leistet, sind wir immer noch haftbar.]]></text>			
+		</correct>
+		<incorrect style="top: 22px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 18px;"><![CDATA[Das stimmt leider nicht.]]></text>	
+			<text style="font-size: 13px;"><![CDATA[Die „kostengünstigere Methode“ könnte eine Bestechung sein. Manchmal kann Bestechung sehr subtil sein. In so einer Situation sollten Sie Ihren Verdacht umgehend Ihrem Vorgesetzten und einem Mitglied der Rechts- oder Compliance-Abteilung melden oder sich an die Integrity Helpline wenden. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Wenn ein Dritter im Namen unseres Unternehmens eine Bestechungszahlung leistet, sind wir immer noch haftbar.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

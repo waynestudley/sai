@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[Mengetahui dia akan berada di hospital beberapa jam, Jian mempertimbangkan untuk membawa kerjanya bersama. Apakah yang anda fikir dia patut lakukan? Pilih satu pilihan, kemudian klik OK.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>	
+	<contentText>
+		<text style="line-height:18px"><![CDATA[Jian perlu pergi untuk bersama isterinya di hospital tetapi ada projek penting yang memerlukan perhatiannya. Dia boleh membawa komputer ribanya untuk digunakan di hospital tetapi dia tahu bahawa bekerja secara jauh pada komputer ribanya tidak selamat seperti bekerja di rangkaian syarikat.]]></text>
+		<text style="line-height:18px"><![CDATA[Apakah cara terbaik untuk Jian memastikan bahawa kerjanya disiapkan mengikut tarikh akhir?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[Persekitaran pejabat]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px;line-height:20px">
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px">
+		<option answer="0" feedbackId="1"><![CDATA[Jian memuat naik maklumat untuk projek Texela, termasuk fail induk pembekal, ke akaun Dropbox peribadinya. Dengan itu, dia boleh mengaksesnya menggunakan komputer ribanya di hospital tetapi ia tidak akan dihantar melalui Internet atau dimuat turun secara setempat ke mesinnya.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian meletakkan maklumat pembekal dan fail induk pembekal pada pemacu USB dan menyulitkannya. Ini kelihatan lebih selamat bagi dia berbanding mengakses maklumat secara elektronik.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian merundingkan semula tempoh lanjutan terhadap projek yang dia usahakan pada asalnya dan menyiapkan kerja berkenaan projek Texela sebelum pergi ke hospital.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;line-height:18px"><![CDATA[Keputusan Jian meletakkan data syarikat, pelanggan dan pembekal pada risiko pelanggaran privasi.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;line-height:18px"><![CDATA[Jian telah mengambil langkah untuk melindungi maklumat syarikat dan pembekal tetapi adakah dia telah mewujudkan masalah yang berlainan?]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -223px;">
+			<text style="padding-top:25px;"><![CDATA[Jian merundingkan semula tempoh lanjutan terhadap projek yang dia usahakan pada asalnya dan menyiapkan kerja berkenaan projek Texela sebelum pergi ke hospital.]]></text>
+			<text style=""><![CDATA[Jian dapat menghantar pengesyoran pembekalnya sebelum meninggalkan kerja dan hasilnya, dia tidak perlu membawa salinan maklumat sulit pembekal atau fail induk pembekal. Dengan berjaya merundingkan tempoh lanjutan terhadap garis masa penghantaran projek lain, dia telah memastikan bahawa keseluruhan projek tidak menerima kesan yang teruk.]]></text>
+			<text style=""><![CDATA[Malah lebih baik, Jian dapat bersama isterinya tanpa terganggu oleh tarikh akhir yang mendesak.]]></text>
+		</correct>
+	</feedback>
+</contents>

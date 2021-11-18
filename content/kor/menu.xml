@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <transcript>
+        <text path="" id="0"><![CDATA[]]></text>        
+        <text path="" id="1"><![CDATA[]]></text>        
+    </transcript>
+	<contentBg style="top:10px;right:17px;padding:0px;width:992px;" chanStyle="width:846px;margin: 0 auto;right:0;float:none;"></contentBg>
+	<pageTitle style="margin-bottom:5px;padding:15px 15px 0;"></pageTitle>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/menuBg.jpg" minwidth="769"><![CDATA[Johnson Controls 직원들]]></img>	
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/submenuBg.jpg" minwidth="769"><![CDATA[Johnson Controls 직원들]]></img>	
+	</contentBackground>
+	<nextLockAlertPopupText>
+        <text><![CDATA[계속하려면 모든 섹션을 클릭해야 합니다.]]></text>
+        <text><![CDATA[계속하려면 답을 선택한 후 '확인'을 클릭하십시오.]]></text>
+        <text><![CDATA[계속 진행하려면 비디오를 완전히 시청하십시오.]]></text>
+        <buttonText>
+            <text><![CDATA[확인]]></text>
+        </buttonText>
+    </nextLockAlertPopupText>	
+    <closeCourse>
+        <text><![CDATA[이 과정에서 나가시겠습니까?]]></text>
+        <buttonText>
+            <text><![CDATA[예]]></text>
+            <text><![CDATA[아니요]]></text>
+        </buttonText>
+    </closeCourse>	
+    <title>
+        <text><![CDATA[기본 메뉴 ]]></text>
+        <text><![CDATA[도전]]></text>
+        <text><![CDATA[윤리 강령 적용: 정직한 사업 수행]]></text>
+        <text><![CDATA[윤리 강령 도전]]></text>
+    </title>	
+    <instructionText style="margin-bottom:0px;padding:0px 15px 15px;">
+        <text><![CDATA[모듈을 선택하십시오.]]></text>
+        <text><![CDATA[도전을 선택하십시오.]]></text>		
+        <text><![CDATA[복습할 모듈을 선택하거나 '닫기'를 클릭하십시오.]]></text>		
+        <text><![CDATA[홈 메뉴로 돌아가려면 '홈' 버튼을 클릭하십시오.]]></text>		
+        <text><![CDATA[기본 메뉴로 돌아가서 교육을 완료하려면 '홈' 버튼을 클릭하십시오. ]]></text>		
+    </instructionText>
+	
+    <contentText>
+        <text><![CDATA['윤리 강령 적용: 정직한 사업 수행' 과정에 오신 것을 환영합니다.]]></text>
+        <text><![CDATA[이 과정에 대한 학점을 받고 수료증에 액세스하려면 강조 표시된 모든 과정 모듈을 성공적으로 완료해야 합니다. 모듈은 완전 컬러로 제공됩니다. ]]></text>
+        <text><![CDATA[또한, 귀하의 역할이나 사전 평가에서의 점수로 인해 회색 및 "선택 사항"으로 표시되는 모듈도 볼 수 있습니다. 귀하는 이 모듈에 액세스할 수 있지만 원하지 않으면 모듈을 이수할 필요가 없습니다.]]></text>			
+        <text><![CDATA[]]></text>			
+    </contentText>
+	
+    <buttonText>
+        <text><![CDATA[시작]]></text>
+    </buttonText>
+	<optionalText>
+        <text><![CDATA[선택 사항]]></text>
+    </optionalText>
+    <bookMark>
+        <text><![CDATA[마지막으로 방문했던 페이지에서<br />계속하시겠습니까?]]></text>
+        <buttonText>
+            <text><![CDATA[계속]]></text>
+            <text><![CDATA[재시작]]></text>
+        </buttonText>
+    </bookMark>
+    <monthArr>
+        <text><![CDATA[1월]]></text>
+        <text><![CDATA[2월]]></text>
+        <text><![CDATA[3월]]></text>
+        <text><![CDATA[4월]]></text>
+        <text><![CDATA[5월]]></text>
+        <text><![CDATA[6월]]></text>
+        <text><![CDATA[7월]]></text>
+        <text><![CDATA[8월]]></text>
+        <text><![CDATA[9월]]></text>
+        <text><![CDATA[10월]]></text>
+        <text><![CDATA[11월]]></text>
+        <text><![CDATA[12월]]></text>
+    </monthArr>
+    <module id="1" imgPath="content/images/ltr/menuImages/Module_01.png" imgPopPath="content/images/ltr/menuImages/Module_01_popup.png">
+        <title><![CDATA[이해 충돌]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<p>이해 충돌은 직원의 개인적인 이익이 회사의 이익과 충돌할 수 있는 경우에 발생하며, 이것은 직원의 비즈니스 의사 결정 능력을 저하시킬 수 있습니다.</p><p>Johnson Controls에서 여러분이 수행하는 업무에서 이해 충돌을 인식하고 피하는 방법을 알아보십시오.</p><span>소요 시간: 6분</span>]]></overText>
+        <page>
+            <title><![CDATA[시작: 이해 충돌 방지.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[일반적인 상황에서의 잠재적인 충돌]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[이해 충돌 인식]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[이해 충돌 인식]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[사례 연구: 이해 충돌은 회사에 해를 끼칠 수 있습니다]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[충돌의 결과]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[충돌에 대처하는 방법]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[요약 및 주요 연락처]]></title>
+        </page>			
+    </module>
+    <module id="2" imgPath="content/images/ltr/menuImages/Module_02.png" imgPopPath="content/images/ltr/menuImages/Module_02_popup.png">
+        <title><![CDATA[선물 및 접대의 적절한 활용]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<p>선물이나 접대를 주고받으면 비즈니스 관계를 구축하는 데 도움이 될 수 있지만 제대로 처리하지 않으면 문제가 발생할 수 있습니다.</p><p>어떻게 하면 적절한 선물과 접대만 제공하거나 받을 수 있는지 알아보십시오.</p><span>소요 시간: 6분</span>]]></overText>
+        <page>
+            <title><![CDATA[시작: 선물 및 접대의 적절한 활용.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[좋은 판단이 필요합니다]]></title>
+        </page>
+        <page>
+            <title><![CDATA[참일까요, 거짓일까요?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[선물 및 접대 고려 사항]]></title>
+        </page>
+        <page>
+            <title><![CDATA[선물 또는 접대]]></title>
+        </page>
+        <page>
+            <title><![CDATA[여러분의 차례]]></title>
+        </page>
+        <page>
+            <title><![CDATA[선물에 대한 자세한 내용]]></title>
+        </page>
+        <page>
+            <title><![CDATA[선물 점검 목록]]></title>
+        </page>
+        <page>
+            <title><![CDATA[여러분의 차례]]></title>
+        </page>
+        <page>
+            <title><![CDATA[접대에 대한 자세한 내용]]></title>
+        </page>
+        <page>
+            <title><![CDATA[접대 점검 목록]]></title>
+        </page>
+        <page>
+            <title><![CDATA[여러분의 차례]]></title>
+        </page>
+        <page>
+            <title><![CDATA[정부 공무원 대하기]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[요약 및 주요 연락처]]></title>
+        </page>				
+    </module>
+    <module id="3" imgPath="content/images/ltr/menuImages/Module_03.png" imgPopPath="content/images/ltr/menuImages/Module_03_popup.png">
+        <title><![CDATA[업무 활동 중 뇌물 수수 피하기]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<p>우리의 평판은 사업을 정직하고 공정하게 수행하는 데 달렸습니다. 뇌물 수수 및 부패 행위는 불법이며, 우리가 일하는 방식이 아닙니다.</p><p>미묘한 형태의 뇌물 수수 및 부패를 인식하는 방법을 알아보고, 잠재적인 범죄 활동에 무심코 개입하지 않도록 주의하십시오.</p><span>소요 시간: 6분</span>]]></overText>
+        <page>
+            <title><![CDATA[시작: 업무 활동 중 뇌물 수수 피하기.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[위험한 상황 인식]]></title>
+        </page>
+        <page>
+            <title><![CDATA[뇌물 수수 인식]]></title>
+        </page>
+        <page>
+            <title><![CDATA[부패 행위 인식]]></title>
+        </page>
+        <page>
+            <title><![CDATA[여러분의 차례]]></title>
+        </page>
+        <page>
+            <title><![CDATA[사례 연구: 완전한 협조와 공개]]></title>
+        </page>
+        <page>
+            <title><![CDATA[여러분이 뇌물 수수 및 부패 행위를 방지하는 데 도움을 줄 수 있는 방법]]></title>
+        </page>
+       <page>
+            <title><![CDATA[결과]]></title>
+        </page> 
+        <page>
+            <title><![CDATA[급행료는 어떻습니까?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[요약 및 주요 연락처]]></title>
+        </page>				
+    </module>
+    <module id="4" imgPath="content/images/ltr/menuImages/Module_04.png" imgPopPath="content/images/ltr/menuImages/Module_04_popup.png">
+        <title><![CDATA[개인 데이터의 보안 유지]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<p>우리는 모두는 고객, 직원 및 비즈니스 파트너의 개인 정보를 보호할 책임이 있습니다.</p><p>여러분이 데이터 프라이버시와 소셜 미디어의 책임 있는 사용을 위한 회사의 노력을 어떻게 지원할 수 있는지 알아보십시오.</p><span>소요 시간: 6분</span>]]></overText>
+        <page>
+            <title><![CDATA[시작: 개인 데이터의 보안 유지]]></title>
+        </page>
+        <page>
+            <title><![CDATA[편의성 사례]]></title>
+        </page>
+        <page>
+            <title><![CDATA[개인 데이터 개요]]></title>
+        </page>
+        <page>
+            <title><![CDATA[데이터 프라이버시가 중요한 이유?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[개인 정보 인식]]></title>
+        </page>
+        <page>
+            <title><![CDATA[개인 데이터 보호]]></title>
+        </page>
+        <page>
+            <title><![CDATA[개인 데이터 보호에 대한 이해]]></title>
+        </page>
+        <page>
+            <title><![CDATA[프라이버시와 소셜 미디어]]></title>
+        </page>
+        <page>
+            <title><![CDATA[공공장소에서의 보안 유지]]></title>
+        </page>
+        <page>
+            <title><![CDATA[비밀번호 보호]]></title>
+        </page>
+        <page>
+            <title><![CDATA[여러분은 개인 데이터를 위험에 빠뜨리고 있습니까?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[요약 및 주요 연락처]]></title>
+        </page>				
+    </module>
+    <module id="5" imgPath="content/images/ltr/menuImages/Module_05.png" imgPopPath="content/images/ltr/menuImages/Module_05_popup.png">
+        <title><![CDATA[전 세계적으로 사업을 수행하기 위한 무역 요건 ]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<p>Johnson Controls는 글로벌 기업으로서 국제기구 및 외국 정부에 의해 수립된 매우 다양한 무역 통제의 적용을 받습니다.</p><p>무역 통제가 여러분의 업무에 어떻게 영향을 미치며, 회사의 무역 책임을 지원하기 위해 여러분이 무엇을 할 수 있는지 알아보십시오.</p><span>소요 시간: 6분</span>]]></overText>
+        <page>
+            <title><![CDATA[시작: 전 세계적으로 사업을 수행하기 위한 무역 요건.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[해외 요청]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[해외 요청]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[해외 요청]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[해외 요청]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[해외 요청]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[해외 요청]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[수출을 인식하는 방법]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[이해 수준 확인]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[무역 통제가 존재하는 이유]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[여러분이 해야 할 일]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[여러분의 차례]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[요약 및 주요 연락처]]></title>
+        </page>				
+    </module>
+    <module id="6" imgPath="content/images/ltr/menuImages/Module_06.png" imgPopPath="content/images/ltr/menuImages/Module_06_popup.png">
+        <title><![CDATA[정직하게 판매하기]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<p>Johnson Controls는 정직하게 판매하며 모든 경쟁법을 준수합니다. 이 법은 시장에서 공정성과 자유를 보장하고 기업들이 지배적인 지위를 남용하는 것을 금지합니다.</p><p>공정 경쟁을 위한 우리 회사의 노력과 이 영역에서 우리의 기준을 고수하는 방법에 대해 알아보십시오.</p><span>소요 시간: 6분</span>]]></overText>
+        <page>
+            <title><![CDATA[시작: 정직하게 판매하기.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[경쟁법이 존재하는 이유]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[부적절한 계약 인식]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[불공정 경쟁 인식]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[지배적 지위의 관리]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[지배력 남용 방지]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[사례 연구]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[경쟁법 위반 방지]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[요약 및 주요 연락처]]></title>
+        </page>				
+    </module>
+    <module id="7" imgPath="content/images/ltr/menuImages/Module_07.png" imgPopPath="content/images/ltr/menuImages/Module_07_popup.png">
+        <title><![CDATA[지적 재산 보호하기]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<p>특허, 상표 및 저작권과 같은 지적 재산은 Johnson Controls의 사업에 중요하며 우리는 그것을 보호해야 할 의무가 있습니다. </p><p>여러분의 행동이 회사의 지적 재산을 도난이나 오용으로부터 보호하는 데 어떻게 도움이 되는지 알아보십시오.</p><span>소요 시간: 6분</span>]]></overText>
+        <page>
+            <title><![CDATA[시작: 우리의 지적 재산 보호하기.]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[지적 재산이란 무엇인가?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[이해 수준 점검]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[지적 재산의 유형]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[지적 재산 손실에 따른 비용]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[여러분의 차례]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[여러분의 역할]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[상표 사용]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[여러분은 어떻게 하시겠습니까?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[요약 및 주요 연락처]]></title>
+        </page>				
+    </module>
+    <module id="8" imgPath="content/images/ltr/menuImages/Module_08.png" imgPopPath="content/images/ltr/menuImages/Module_08_popup.png">
+        <title><![CDATA[기밀 정보 보호]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<p>직장에서 여러분은 우리 회사, 고객 또는 비즈니스에 대한 기밀 정보를 알게 될 수 있습니다.</p><p>그런 정보를 취급하고 보호하기 위한 Johnson Controls의 요건에 대해 알아보십시오.</p><span>소요 시간: 6분</span>]]></overText>
+        <page>
+            <title><![CDATA[시작: 기밀 정보 보호.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[위험한 상황]]></title>
+        </page>
+		<page>
+            <title><![CDATA[위험한 상황]]></title>
+        </page>
+        <page>
+            <title><![CDATA[위험한 상황]]></title>
+        </page>
+        <page>
+            <title><![CDATA[위험한 상황]]></title>
+        </page>
+        <page>
+            <title><![CDATA[일상 업무에서 정보를 갖고 작업하기]]></title>
+        </page>
+        <page>
+            <title><![CDATA[무엇을 기밀로 유지해야 하는가?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[제한, 보호, 삭제]]></title>
+        </page>
+        <page>
+            <title><![CDATA[기밀 정보를 보호하기 위해 여러분이 할 수 있는 일]]></title>
+        </page>
+        <page>
+            <title><![CDATA[여러분의 차례]]></title>
+        </page>
+        <page>
+            <title><![CDATA[비밀 유지 협약을 사용하여 보호 수준 강화]]></title>
+        </page>
+        <page>
+            <title><![CDATA[요약 및 주요 연락처]]></title>
+        </page>
+    </module>
+    <module id="9" imgPath="content/images/ltr/menuImages/Module_09.png" imgPopPath="content/images/ltr/menuImages/Module_09_popup.png">
+        <title><![CDATA[경쟁 정보의 공정한 입수]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<p>경쟁 정보는 우리가 비즈니스 환경을 더 잘 이해하는 데 도움이 되지만 그런 정보를 얻는 방법에 대한 엄격한 윤리적 기준이 있습니다.</p><p>Johnson Controls 정책 및 법률을 준수하는 방식으로 경쟁 정보를 수집하고 사용하는 방법에 대해 알아보십시오.</p><span>소요 시간: 6분</span>]]></overText>
+        <page>
+            <title><![CDATA[시작: 경쟁 정보의 공정한 입수.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[잘못된 방법으로 정보 수집]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[어떤 정보가 기밀입니까?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[무엇이 잘못될 수 있습니까?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[기만, 불충실 또는 속임수 피하기]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[이해 수준 확인]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[요약 및 주요 연락처]]></title>
+        </page>				
+    </module>
+    <module id="10" imgPath="content/images/ltr/menuImages/Module_10.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup.png">
+        <title><![CDATA[2018 윤리 강령 도전]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<p>학습한 내용을 실제적인 도전에 적용해 보십시오. 비즈니스 목표를 달성하고 피해가 발생하지 않도록 올바른 의사 결정을 하십시오.</p><span>소요 시간: 10분</span>]]></overText>
+        <page>
+            <title><![CDATA[]]></title>
+        </page>					
+    </module>
+    <module id="11" imgPath="content/images/ltr/menuImages/Module_10_1.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup1.png">
+        <title><![CDATA[사무실, 마케팅 및 판매 환경]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+		<overText><![CDATA[<span class="subMenuStart">"시작"을 클릭하여 도전에 참가하십시오.</span>]]></overText>
+        <page>
+            <title><![CDATA[긴급 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[긴급 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[긴급 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[긴급 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[긴급 요청]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[핵심 교훈]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[핵심 교훈]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[감사하는 공급업자]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[핵심 교훈]]></title>
+        </page>				
+    </module>
+    <module id="12" imgPath="content/images/ltr/menuImages/Module_10_2.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup2.png">
+        <title><![CDATA[고객 지원]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+         <overText><![CDATA[<span class="subMenuStart">"시작"을 클릭하여 도전에 참가하십시오.</span>]]></overText>
+        <page>
+            <title><![CDATA[충돌하는 의무]]></title>
+        </page>
+        <page>
+            <title><![CDATA[충돌하는 의무]]></title>
+        </page>
+        <page>
+            <title><![CDATA[충돌하는 의무]]></title>
+        </page>
+        <page>
+            <title><![CDATA[충돌하는 의무]]></title>
+        </page>
+        <page>
+            <title><![CDATA[충돌하는 의무]]></title>
+        </page>
+        <page>
+            <title><![CDATA[충돌하는 의무]]></title>
+        </page>
+        <page>
+            <title><![CDATA[충돌하는 의무]]></title>
+        </page>
+        <page>
+            <title><![CDATA[충돌하는 의무]]></title>
+        </page>
+        <page>
+            <title><![CDATA[핵심 교훈]]></title>
+        </page>
+        <page>
+            <title><![CDATA[동료 직원 돕기]]></title>
+        </page>
+        <page>
+            <title><![CDATA[동료 직원 돕기]]></title>
+        </page>
+        <page>
+            <title><![CDATA[동료 직원 돕기]]></title>
+        </page>
+        <page>
+            <title><![CDATA[동료 직원 돕기]]></title>
+        </page>
+        <page>
+            <title><![CDATA[동료 직원 돕기]]></title>
+        </page>
+        <page>
+            <title><![CDATA[동료 직원 돕기]]></title>
+        </page>
+        <page>
+            <title><![CDATA[동료 직원 돕기]]></title>
+        </page>
+        <page>
+            <title><![CDATA[핵심 교훈]]></title>
+        </page>
+        <page>
+            <title><![CDATA[이례적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[이례적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[이례적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[이례적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[이례적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[이례적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[핵심 교훈]]></title>
+        </page>
+    </module>
+    <module id="13" imgPath="content/images/ltr/menuImages/Module_10_3.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup3.png">
+        <title><![CDATA[외부 환경]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[<span class="subMenuStart">"시작"을 클릭하여 도전에 참가하십시오.</span>]]></overText>
+        <page>
+            <title><![CDATA[놀라운 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[놀라운 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[놀라운 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[놀라운 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[놀라운 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[놀라운 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[놀라운 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[놀라운 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[놀라운 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[놀라운 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[핵심 교훈]]></title>
+        </page>
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[핵심 교훈]]></title>
+        </page>
+        <page>
+            <title><![CDATA[야간 외출]]></title>
+        </page>
+        <page>
+            <title><![CDATA[야간 외출]]></title>
+        </page>
+        <page>
+            <title><![CDATA[비정상적인 요청]]></title>
+        </page>
+        <page>
+            <title><![CDATA[야간 외출]]></title>
+        </page>
+        <page>
+            <title><![CDATA[야간 외출]]></title>
+        </page>
+        <page>
+            <title><![CDATA[야간 외출]]></title>
+        </page>
+        <page>
+            <title><![CDATA[야간 외출]]></title>
+        </page>
+        <page>
+            <title><![CDATA[야간 외출]]></title>
+        </page>
+        <page>
+            <title><![CDATA[야간 외출]]></title>
+        </page>
+        <page>
+            <title><![CDATA[핵심 교훈]]></title>
+        </page>
+    </module>
+    <module id="14" imgPath="content/images/ltr/menuImages/Module_11.png" imgPopPath="content/images/ltr/menuImages/Module_11_popup.png">
+        <title><![CDATA[지식 수준 확인]]></title>
+        <altText><![CDATA[Johnson Controls 직원]]></altText>
+        <overText><![CDATA[귀하가 배운 내용을 입증하고 과정 수료증에 액세스하십시오.<span>소요 시간:
+ 5-10분</span>]]></overText>
+        <page>
+            <title><![CDATA[지식 수준 확인]]></title>
+        </page>
+        <page>
+            <title><![CDATA[지식 수준 확인]]></title>
+        </page>
+        <page>
+            <title><![CDATA[결과]]></title>
+        </page>
+    </module>
+    <module id="15" imgPath="content/images/ltr/menuImages/Module_12.png" imgPopPath="content/images/ltr/menuImages/Module_12_popup.png">
+        <title><![CDATA[수료증]]></title>
+        <altText><![CDATA[PC를 사용 중인 남자]]></altText>
+        <overText><![CDATA[과정 수료증에 액세스하십시오.]]></overText>
+        <page>
+            <title><![CDATA[수료증]]></title>
+        </page>
+    </module>
+	
+    <tootTip>
+        <element button=".btn_Next" location="top" gap="8" width="60"><![CDATA[다음]]></element>
+        <element button=".nextBlink" location="top" gap="8" width="60"><![CDATA[다음]]></element>
+        <element button=".btn_Back" location="top" gap="8" width="60"><![CDATA[뒤로]]></element>
+        <element button=".replayPage" location="top" gap="10" width="60"><![CDATA[재생]]></element>
+        <element button=".transcriptOn" location="top" gap="10" width="100"><![CDATA[자막 끄기]]></element>
+        <element button=".transcriptOff" location="top" gap="10" width="100"><![CDATA[자막 켜기]]></element>
+        <element button=".audioOn" location="top" gap="10" width="80"><![CDATA[오디오 끄기]]></element>
+        <element button=".audioOff" location="top" gap="10" width="80"><![CDATA[오디오 켜기]]></element>
+        <element button=".btn_Menu" location="top" gap="10" width="60"><![CDATA[홈]]></element>
+        <element button=".fw_CloseTranscript" location="bottom" gap="10" width="60"><![CDATA[닫기]]></element>
+        <element button=".fw_MenuClose" location="top" gap="10" width="60"><![CDATA[닫기]]></element>
+        <element button=".menuBlink" location="top" gap="10" width="60"><![CDATA[다음]]></element> 
+        <element button=".fw_GlossaryClose" location="top" gap="10" width="60"><![CDATA[닫기]]></element> 
+        <element button=".btn_Exit" location="top" gap="10" width="60"><![CDATA[닫기]]></element> 
+    </tootTip>
+	
+    <transcriptGlobalText>
+	  <text><![CDATA[끌어가기 상자]]></text>
+    </transcriptGlobalText>
+	
+    <reEntryProfilerPopup>
+        <text><![CDATA[프로필 선택을 변경하면 모든 과정 진행 데이터가 손실됩니다. 즉, 이미 완료한 모듈을 포함하여 배정된 모든 모듈을 다시 이수해야 할 수 있습니다. 지식 수준 확인을 이미 성공적으로 완료한 경우, 이 완료 데이터는 계속 유지됩니다. 그래도 계속하시겠습니까?]]></text>
+        <text><![CDATA[예]]></text>
+        <text><![CDATA[아니요]]></text>
+    </reEntryProfilerPopup>
+ 
+</course>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="formativeMCQ" className="m04s02">
+	<transcript>
+		<text path="audio/module4/m04s02" id="0" ><![CDATA[What would you do if someone sent you personal data you weren’t supposed to see?]]></text>
+		<text path="" id="1" ><![CDATA[]]></text>
+		<text path="" id="2" ><![CDATA[]]></text>
+	</transcript>
+	<contentText >
+		<text style="margin-bottom: 5px;font-size:15px; font-weight: bold;"><![CDATA[What would you do? ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[You’ve been tasked with notifying contractors of a new billing process. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[You ask an employee in another department to send you the list of email addresses but the spreadsheet he sends you also includes personal information used to secure their account, such as birth date, mother’s name and Social Security number. ]]></text>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[What do you do?]]></text>
+	</contentText>
+	<contentBackground >		
+		<img path="content/images/ltr/module4/m04s02/contentBackground.jpg" minwidth="769" ><![CDATA[Business people]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;" ></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText >
+		<text><![CDATA[Select one option and then submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent answer="1,0,0,0" height="auto" style="padding:5px 15px 17px">
+		<option ><![CDATA[Delete the email and report to the Data Privacy Team by emailing privacy@jci.com]]></option>
+		<option ><![CDATA[Forward it to your colleagues at work as an example of what not to send by email]]></option>
+		<option ><![CDATA[Take only what you need from the spreadsheet and securely dispose of the rest]]></option>
+		<option ><![CDATA[Email all of the contractors to tell them their personal data may have been exposed]]></option>	
+	</optionContent>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback >
+		<correct transcriptId="1" style="font-size:15px; height:126px;" fcStyle="top:-151px" >
+			<text style="font-size:17px;"><![CDATA[Correct.]]></text>
+			<text><![CDATA[Data privacy laws, and the Johnson Controls data privacy policy, apply to the personal information of employees as well as customers and business partners. Make sure you understand your responsibilities and follow Johnson Controls’ privacy policy and all relevant data protection and privacy laws.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;height:126px;" fcStyle="top:-151px">
+			<text style="font-size:17px;"><![CDATA[Incorrect.]]></text>
+			<text><![CDATA[Data privacy laws, and the Johnson Controls data privacy policy, apply to the personal information of employees as well as customers and business partners. Make sure you understand your responsibilities and follow Johnson Controls’ privacy policy and all relevant data protection and privacy laws.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

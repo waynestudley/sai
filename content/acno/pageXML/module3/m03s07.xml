@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="accordion" className="m03s07">
+	<transcript>
+		<text path="audio/module3/m03s07" id="0"><![CDATA[Es responsabilidad de todos evitar que el soborno y la corrupción tengan lugar en nuestra empresa. Haga clic en cada título para confirmar lo que puede hacer.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[En Johnson Controls, estamos comprometidos con el cumplimiento de todas las leyes antisoborno y anticorrupción. En la práctica, esto se traduce en las siguientes pautas:]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s07/contentBackground.jpg" minwidth="769"><![CDATA[Lista de verificación]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Seleccione cada título para saber más.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">			
+			<buttonText style=""><![CDATA[No ofrezca sobornos]]></buttonText>
+			<popText style="">
+				<text style="line-height:20px;"><![CDATA[Nunca ofrezca a un contacto comercial ningún elemento de valor con la intención de influir en su criterio.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="134">			
+			<buttonText style=""><![CDATA[Mantenga registros precisos ]]></buttonText>			
+			<popText style="">
+				<text style="line-height:20px;"><![CDATA[No intente ocultar o tergiversar los gastos en entretenimiento o regalos, registre todas las transacciones de forma precisa y honesta. Consulte nuestra <a href="content/acno/pdf/Third_Party_Travel_Gifts_and_Entertainment_Policy.pdf" target="_blank" class="aLinkColor">Política de regalos, entretenimiento y viajes de terceros</a> para obtener más información.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="136">
+			<buttonText style=""><![CDATA[Haga responsables a los socios comerciales]]></buttonText>
+			<popText style="">
+				<text style="line-height:20px;"><![CDATA[Deje en claro nuestros estándares antisoborno a cualquier tercero con el que trabajemos. Controle la actividad de dichos terceros e informe cualquier sospecha de corrupción. No trabaje con socios comerciales que participen en prácticas corruptas.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="113">
+			<buttonText style=""><![CDATA[Conozca a sus terceros]]></buttonText>
+			<popText style="">
+				<text style="line-height:20px;"><![CDATA[Si es responsable de administrar a terceros, asegúrese de que estén completamente aprobados según los requisitos del Programa de Terceros de Johnson Controls.]]></text>			
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

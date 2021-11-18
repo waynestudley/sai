@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s03">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s03" id="0"><![CDATA[Sabendo que passará várias horas esperando no hospital, Jian considera levar seu trabalho com ele. O que você acha que ele deveria fazer? Selecione uma opção e clique em OK.]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_3" id="2"><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text path="audio/module10/m10_fd_4" id="3"><![CDATA[Clique em Próximo para continuar.]]></text>
+		
+	</transcript>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Jian precisa sair para se encontrar com sua esposa no hospital, mas há projetos urgentes que precisam de sua atenção. Ele pode levar seu laptop para o hospital, mas Jian sabe que trabalhar remotamente não é tão seguro quanto trabalhar na rede da empresa.]]></text>
+		<text style="line-height:18px;"><![CDATA[Qual a melhor maneira para Jian ter certeza de que seu trabalho seja concluído até o prazo?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s03/contentBackground.jpg" minwidth="769"><![CDATA[Ambiente do escritório]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:13px;line-height:20px;">
+		<text><![CDATA[Escolha uma opção e selecione OK.]]></text>
+		<text><![CDATA[Clique em Avançar para descobrir o que aconteceu.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian faz o upload das informações do projeto da Texela, incluindo o arquivo principal do fornecedor, para sua conta pessoal do Dropbox. Assim, ele pode acessá-las usando seu laptop no hospital, mas não serão enviadas pela internet e nem baixadas para seu computador.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian coloca as informações e o arquivo principal do fornecedor em um pen drive e o criptografa. Ele acha que isso é mais seguro do que acessar as informações eletronicamente.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian renegocia uma prorrogação do projeto em que estava trabalhando inicialmente e conclui o trabalho do projeto da Texela antes de ir para o hospital.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[A decisão de Jian coloca em risco a privacidade dos dados da empresa, do cliente e do fornecedor.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Jian adotou medidas para proteger as informações da empresa e do fornecedor, mas ele criou um outro problema?]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="top: -205px;">
+			<text style="padding-top:25px;"><![CDATA[Jian renegocia uma prorrogação do projeto em que estava trabalhando inicialmente e conclui o trabalho do projeto da Texela antes de ir para o hospital.]]></text>
+			<text><![CDATA[Jian consegue entregar as recomendações do fornecedor antes de ir embora do trabalho, não sendo necessário levar com ele uma cópia das informações confidenciais do fornecedor e nem seu arquivo principal. Ao negociar uma prorrogação do prazo de entrega do outro projeto, ele garantiu que o projeto geral não seja afetado de forma negativa.]]></text>
+			<text><![CDATA[Melhor ainda: Jian consegue ficar com sua esposa sem se distrair com prazos urgentes.]]></text>
+		</correct>
+	</feedback>
+</contents>

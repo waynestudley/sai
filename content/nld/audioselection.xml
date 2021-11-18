@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[Kies uw weergavevoorkeur:]]></text>		
+		<text><![CDATA[In deze cursus wordt audio- en videomateriaal gebruikt om het leren te ondersteunen. We bevelen u aan de cursus in audio-/videomodus te bekijken. Als u er echter voor kiest de cursus met louter tekst en afbeeldingen te bekijken, worden er een transcript en afbeeldingen weergegeven in plaats van al het audio- en videomateriaal.]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[Geluidsgolven]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[Doorgaan]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[Weergavevoorkeur selecteren]]></option>
+			<option id="A1"><![CDATA[Audio-/videomodus]]></option>
+			<option id="A2"><![CDATA[Tekst en afbeeldingen]]></option>
+	</dropDownMenu>
+</contents>

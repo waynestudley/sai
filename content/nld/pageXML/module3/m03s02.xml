@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[Hoe goed kunt u risicosituaties herkennen? Lees dit scenario en duid voor iedere optie 'Eens' of 'Oneens' aan en klik dan op 'Indienen'.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[Gang van functionaris]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Een consultant waarmee u samenwerkt in het Midden-Oosten vertelt u dat de invoerrechten voor een zending duur waren, maar dat hij 'een goedkopere oplossing' heeft gevonden en de zending werd vrijgegeven. Met welke van deze beweringen bent u het eens?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Duid voor iedere optie 'Eens' of 'Oneens' aan en klik vervolgens op 'Indienen'. ]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[Dokken]]></img>
+			<text style="width: 450px;"><![CDATA[Deze 'goedkopere oplossing' impliceert mogelijk dat iemand werd omgekocht ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[Dokken]]></img>
+			<text style="width: 450px;"><![CDATA[U moet uw vermoeden aan uw manager of de juridische afdeling melden   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[Dokken]]></img>	
+			<text style="width: 450px;"><![CDATA[U moet afwachten en kijken wat er gebeurt en dit vervolgens met uw manager bespreken]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[Dokken]]></img>	
+			<text style="width:450px;"><![CDATA[Als de consultant namens ons bedrijf een steekpenning heeft betaald, wordt hij en niet Johnson Controls hiervoor aansprakelijk gesteld]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[Dokken]]></img>	
+			<text style="width:450px;"><![CDATA[U moet de consultant bedanken omdat hij geld heeft uitgespaard en in de toekomst meer werk naar hem doorsluizen]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Eens]]></text>
+		<text><![CDATA[Oneens]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 22px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 18px;"><![CDATA[Dat klopt.]]></text>			
+			<text style="font-size: 13px;"><![CDATA[De 'goedkopere oplossing' zou een steekpenning kunnen zijn. Soms zijn steekpenningen erg subtiel. In zulke situaties moet u uw vermoeden onmiddellijk kenbaar maken aan uw manager en een lid van de juridische of complianceafdeling of uw zorg melden aan de Integrity Helpline. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Als een derde namens Johnson Controls een steekpenning betaalt, zijn we daar alsnog voor aansprakelijk.]]></text>			
+		</correct>
+		<incorrect style="top: 22px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 18px;"><![CDATA[Dat klopt niet.]]></text>	
+			<text style="font-size: 13px;"><![CDATA[De 'goedkopere oplossing' zou een steekpenning kunnen zijn. Soms zijn steekpenningen erg subtiel. In zulke situaties moet u uw vermoeden onmiddellijk kenbaar maken aan uw manager en een lid van de juridische of complianceafdeling of uw zorg melden aan de Integrity Helpline. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Als een derde namens Johnson Controls een steekpenning betaalt, zijn we daar alsnog voor aansprakelijk.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

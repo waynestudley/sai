@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m06s02">
+	<transcript>
+		<text path="audio/module6/m06s02" id="0"><![CDATA[O que as leis de concorrência promovem? Selecione todas as opções que você acha que são verdadeiras e clique em Enviar.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:20px;"><![CDATA[Essas leis da concorrência atendem a qual finalidade?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module6/m06s02/contentBackground.jpg" minwidth="769"><![CDATA[Balança da justiça]]></img>
+	</contentBackground>
+	<contentBg style="width: 545px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Selecione todas as que se aplicam.]]></text>
+		<text><![CDATA[Clique em Próximo para continuar.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Pode haver mais de uma resposta correta.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,0,0,1,1,0" height="auto" style="padding:5px 15px 17px;line-height:20px;">
+		<option><![CDATA[Promovem a possibilidade de escolha do consumidor]]></option>	
+		<option><![CDATA[Introduzem barreiras comerciais]]></option>	
+		<option><![CDATA[Desmotivam o crescimento em certos setores]]></option>	
+		<option><![CDATA[Incentivam negociações justas]]></option>	
+		<option><![CDATA[Recompensam a inovação e a melhoria contínua]]></option>	
+		<option><![CDATA[Punem empresas que são bem-sucedidas demais]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="" fcStyle="top:-235px">
+			<text><![CDATA[Está correto.]]></text>
+			<text><![CDATA[As leis da concorrência servem para garantir que as empresas obtenham sucesso pelos motivos certos: porque oferecem os melhores produtos, serviços e preços. As leis antitruste não têm a finalidade de punir o sucesso, desencorajar o crescimento ou introduzir barreiras comerciais.]]></text>
+			<text><![CDATA[As leis de concorrência afetam a forma como interagimos com o mundo externo, incluindo concorrentes, fornecedores, distribuidores e clientes.]]></text>
+			<text><![CDATA[É muito importante saber como as leis de concorrência se aplicam a você e que você cumpra essas leis em qualquer lugar em que trabalhar e fizer negócios. Neste módulo, vamos apresentar os princípios e as práticas das leis de concorrência.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="" fcStyle="top:-235px">
+			<text><![CDATA[Não está correto.]]></text>
+			<text><![CDATA[As leis da concorrência servem para garantir que as empresas obtenham sucesso pelos motivos certos: porque oferecem os melhores produtos, serviços e preços. As leis antitruste não têm a finalidade de punir o sucesso, desencorajar o crescimento ou introduzir barreiras comerciais.]]></text>
+			<text><![CDATA[As leis de concorrência afetam a forma como interagimos com o mundo externo, incluindo concorrentes, fornecedores, distribuidores e clientes.]]></text>
+			<text><![CDATA[É muito importante saber como as leis de concorrência se aplicam a você e que você cumpra essas leis em qualquer lugar em que trabalhar e fizer negócios. Neste módulo, vamos apresentar os princípios e as práticas das leis de concorrência.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

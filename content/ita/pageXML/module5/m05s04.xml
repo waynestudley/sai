@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[Mark pensa a come rispondere all’e-mail del cliente. Sapresti che cosa fare in questa situazione? Seleziona un’opzione e poi inoltra la tua risposta.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[Se rispondi a un cliente chiedendogli maggiori informazioni, come il nome della società e il suo ruolo, la tua e-mail è considerata un’esportazione? Sapresti il perché?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[Dipendente]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Seleziona un’opzione e poi inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Sì, ogni e-mail è potenzialmente un’esportazione poiché i server possono essere in paesi differenti e dunque la tua e-mail può attraversare molti confini internazionali]]></option>	
+		<option><![CDATA[Sì, qualsiasi e-mail che richiede informazioni da qualcuno in un altro paese è sempre un'esportazione perché stai ricevendo informazioni personali]]></option>	
+		<option><![CDATA[No, il solo rispondere a un cliente per richiedere maggiori informazioni non è un’esportazione]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Risposta corretta.]]></text>
+			<text><![CDATA[Per assicurarti di ottemperare ai controlli commerciali, dovresti scrivere al cliente per avere maggiori informazioni.]]></text>
+			<text><![CDATA[Comunque, il solo invio di questa e-mail non costituisce un’esportazione, a meno che tu non condividi o alleghi anche disegni di progetti, tecnologie o altre informazioni su prodotti controllati.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[Risposta errata.]]></text>
+			<text><![CDATA[Per assicurarti di ottemperare ai controlli commerciali, dovresti scrivere al cliente per avere maggiori informazioni.]]></text>
+			<text><![CDATA[Comunque, il solo invio di questa e-mail non costituisce un’esportazione, a meno che tu non condividi o alleghi anche disegni di progetti, tecnologie o altre informazioni su prodotti controllati.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

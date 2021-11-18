@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents className="m07s06">
+	<transcript>
+		<text path="audio/module7/m07s06" id="0"><![CDATA[These employees have each made a statement about Intellectual Property. Select all the statements you agree with and then click on Submit.]]></text>		
+	</transcript>
+	 <contentBackground cName="" >		
+		<img path="content/images/ltr/module7/m07s06/contentBackground.jpg"  minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 580px;right: 430px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText >
+		<text style=""><![CDATA[Do you agree or disagree with each of these statements about Intellectual Property?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Select whether you agree or disagree with these statements and then click on Submit.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<optionContent style="width:582px;">
+		<option answer="0,1" >
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img01.png" ><![CDATA[Male employee]]></img>
+			<text style="width: 312px;"><![CDATA[If I create something while working for Johnson Controls, I have the right to use my creation as I wish]]></text>			
+		</option>
+		<option answer="0,1" >
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img02.png" ><![CDATA[Male employee]]></img>
+			<text style="width: 312px;" ><![CDATA[Once something is trademarked or copyrighted, it is always protected]]></text>
+		</option>
+		<option answer="1,0" >
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img03.png" ><![CDATA[Female employee]]></img>	
+			<text style="width: 312px;" ><![CDATA[Releasing Johnson Controls’ Intellectual Property can damage our business]]></text>	
+		</option>
+		<option answer="0,1" >
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img04.png" ><![CDATA[Female employee]]></img>	
+			<text style="width:312px;" ><![CDATA[If information or pictures are available for free online, I can use them for business purposes]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Agree]]></text>
+		<text><![CDATA[Disagree]]></text>
+	</optionAnswer>
+	<buttonText >		
+		<text><![CDATA[SUBMIT]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -114px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[That’s correct.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Anything you create, invent or refine in your work at Johnson Controls typically belongs to Johnson Controls and not to you. Once you leave the company, all IP continues to belong to Johnson Controls and you may not use it independently, at another company or share it with others.</li> <li>IP rights, including trademarks and copyrights, can be weakened or lost through inappropriate use or carelessness. While Johnson Controls lawyers work hard to defend our IP rights, each of us also has a role to play. We must be careful to protect our Intellectual Property in our day-to-day business activities.</li> <li>Johnson Controls’ IP is vital to the business. Misusing it or releasing it to unauthorized recipients can create serious problems for the company. In some cases, IP protections can be lost through misuse, while disclosing Johnson Controls’ trade secrets or designs can hurt us competitively in the marketplace.</li> <li>We have easy access to incredible amounts of information online but just because something is publicly available, it doesn’t mean we have the right to use it. Most of what you can find on the Internet is protected, including writing, photos, cartoons, code and software. Never use something you find online for Johnson Controls business unless you’re sure we have permission from the owner to do so.</li> </ul>]]></text>
+		</correct>
+		<incorrect style="top: -114px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[That’s not correct.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Anything you create, invent or refine in your work at Johnson Controls typically belongs to Johnson Controls and not to you. Once you leave the company, all IP continues to belong to Johnson Controls and you may not use it independently, at another company or share it with others.</li> <li>IP rights, including trademarks and copyrights, can be weakened or lost through inappropriate use or carelessness. While Johnson Controls lawyers work hard to defend our IP rights, each of us also has a role to play. We must be careful to protect our Intellectual Property in our day-to-day business activities.</li> <li>Johnson Controls’ IP is vital to the business. Misusing it or releasing it to unauthorized recipients can create serious problems for the company. In some cases, IP protections can be lost through misuse, while disclosing Johnson Controls’ trade secrets or designs can hurt us competitively in the marketplace.</li> <li>We have easy access to incredible amounts of information online but just because something is publicly available, it doesn’t mean we have the right to use it. Most of what you can find on the Internet is protected, including writing, photos, cartoons, code and software. Never use something you find online for Johnson Controls business unless you’re sure we have permission from the owner to do so.</li> </ul>]]></text>	
+		</incorrect>		
+	</feedback>
+	
+</contents>

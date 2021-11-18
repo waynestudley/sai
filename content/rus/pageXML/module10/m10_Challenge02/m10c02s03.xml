@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s03">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+		
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Эмма устроилась на вторую работу в качестве брокера в новую компанию своего зятя, но это негативно сказывается на ее работе в Johnson Controls.]]></text>
+		<text style="line-height:18px;"><![CDATA[Как вы считаете, какой из перечисленного ниже сценариев будет наилучшим вариантом действий для Эммы?]]></text>
+	</contentText>
+	
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s03/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:8px; line-height:20px;">
+		<text><![CDATA[Выберите один из вариантов и щелкните «ОК».]]></text>
+		<text><![CDATA[Чтобы узнать о дальнейших событиях, щелкните «Далее».]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[Эмма продолжает трудиться на двух работах. Если она получает много работы на должности брокера, она просит коллег заменить ее и берет отпуск по болезни в Johnson Controls.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Эмма продолжает трудиться на двух работах и делает все возможное, чтобы справляться со своими обязанностями. Когда в Johnson Controls немного работы, она принимает звонки от лица брокера и отправляет электронные письма со своего смартфона.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Эмма рассказывает своему менеджеру о работе брокером в компании своего зятя, и они обсуждают способы разделения ее должностных обязанностей этой должности от работы в Johnson Controls.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ОК]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Решение Эммы работать в риэлторской компании зятя может привести к потенциальному конфликту интересов, особенно если учитывать тот факт, что ее подработка начинает требовать больше времени и внимания.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Эмма все же считает, что может справляться с заданиями таким образом, чтобы ее новая работа не влияла на ее обязанности в Johnson Controls. Но реалистично ли она мыслит? На всякий случай она решает обсудить это с менеджером.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:270px" fcStyle="top: -222px;">
+			<text style="padding-top:25px;"><![CDATA[Эмма обсуждает со своим менеджером дополнительную работу.]]></text>
+			<text><![CDATA[Ее менеджер обсуждает ее потенциальные рабочие обязанности, а также то, что работа по совместительству не запрещена, однако:<ul> <li>она не должна препятствовать работе в Johnson Controls; </li> <li>ей не следует использовать какие-либо ресурсы компании, включая рабочее время Johnson Controls, для выполнения работы по совместительству.</li> </ul>]]></text>
+			<text><![CDATA[Они договариваются о том, что она не будет выполнять свои дела в рабочие часы в Johnson Controls, а также о необходимости вернуться к этой теме в случае, если на ее работу будет оказано негативное влияние.]]></text>
+		</correct>
+	</feedback>
+</contents>

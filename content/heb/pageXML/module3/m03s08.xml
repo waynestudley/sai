@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[גופים ממשלתיים ורגולטוריים מתייחסים לשוחד בחומרה בה. לכן חשוב כל כך שכולנו נמלא תפקיד פעיל למניעתו. האם תוכל להתאים את הפעולה בעמודה השמאלית להשלכות בעמודה הימנית?]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[מה יקרה לחברות שיהיו מעורבות בשוחד ושחיתות?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/rtl/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[משרד]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;left: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;right:892px;top:0px;"><![CDATA[שלח]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[בחר פריט מתוך העמודה הראשונה ולאחר מכן גרור את החצים כדי לקשר אותו להשלכה המתאימה בעמודה השנייה. כשתסיים, לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[הפעולה]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 530px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/rtl/module3/m03s08/img01.png" style=""><![CDATA[עובד מעניק למישהו התמחות ]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[משקיעים באזור אסיה-פסיפיק של JP Morgan ניהלו תכנית שהעניקה עבודה והתמחויות לבני משפחה וחברים של לקוחות פוטנציאליים, כולל נציגי ממשל. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:530px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/rtl/module3/m03s08/img02.png" style=""><![CDATA[נציג ממשל מקבל שוחד ]]></leftIcon>
+				<dragIcon path="content/images/rtl/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[חברות בת של חברה בינלאומית ענקית שמייצרת נחושת, אלומיניום וסיבים אופטיים שילמה מיליוני דולרים לסוכני צד שלישי ומפיצים. חלק מהכסף שימש כדי לשחד נציגי ממשל במטרה לזכות בעסקים, והשוחד הניב לחברה רווח של 51 מיליון דולר.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[ההשלכות]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 432px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[החברה נדרשה לשלם 76 מיליון דולר, ושני מנהלים בכירים שידעו על השוחד, היו צריכים להחזיר מיליונים. ]]></text>
+				<rightIcon path="content/images/rtl/module3/m03s08/img04.png" style=""><![CDATA[שופט עם פטיש יושב ראש]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 432px;top: 149px;height: 130px;">
+				<text><![CDATA[ ממשלת ארצות הברית מצאה שהחברה "הייתה מעורבת באופן עקבי במזימות שוחד" שהניבו תגמולים עסקיים משמעותיים. החברה נדרשה לשלם 264 מיליון דולר.]]></text>
+				<rightIcon path="content/images/rtl/module3/m03s08/img03.png" style=""><![CDATA[בניין הקפיטול של ארצות הברית נראה דרך מדרגות בית משפט]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[ההשלכות של שוחד ושחיתות עלולות להיות חמורות - הן לאדם והן לחברה, והן יכולות לכלול קנסות וישיבה בכלא.  Johnson Controls סומכת עליך - בכל שלב לאורך הדרך - שתמנע שוחד כל הזמן ותדווח באופן מידי על כל פעילות חשודה בתחום זה.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[ההשלכות של שוחד ושחיתות עלולות להיות חמורות - הן לאדם והן לחברה, והן יכולות לכלול קנסות וישיבה בכלא.  Johnson Controls סומכת עליך - בכל שלב לאורך הדרך - שתמנע שוחד כל הזמן ותדווח באופן מידי על כל פעילות חשודה בתחום זה.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

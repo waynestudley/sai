@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[单击“下一步”继续。]]></text>
+		
+	</transcript>
+	<contentBg style="width:580px;right: 15px;top:10px;padding: 0;" wtbgStyle="padding-top:10px"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[艾玛正尽力不让她的副业干扰到她在 Johnson Controls 的工作。 但是，办公室流言四起，现在有三位同事对艾玛手上掌握的最新房源非常感兴趣！  艾玛在接听客户电话时，收到了会计部珊迪发来的一条即时消息。]]></text>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[<i>“你好，艾玛。 我十分想看看位于纽伯里大道上的那栋房子。 从你发来的链接上看，那房子真是好极了。 这简直就是我们一直想找的地方。 我在想你今天可以早点下班，避开车流高峰，然后带我去看看房子？”</i>]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="margin-top: 5px;padding-bottom:8px;line-height:20px;">
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>
+	<optionContent style="padding-bottom:13px;line-height:18px;">
+		<option answer="0" feedbackId="1"><![CDATA[艾玛答应珊迪提早下班，带她去看房。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[艾玛告诉珊迪她还有一些工作电话要接，还要完成一些文书工作，因此无法提前下班。 但她表示自己的笔记本电脑里有更多照片和视频，所以今天珊迪可以在她的办公桌前看看这些资料，然后进一步谈谈。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[艾玛告诉珊迪她今晚无法带她去看房，但是她与客户通话之后会给珊迪再发一些照片。 她让珊迪今晚给她家打电话，商讨更多细节。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height: 140px;" fcStyle="top: -150px;">
+			<text style="padding-top:12px;"><![CDATA[这是最危险的选择。 让我们看看艾玛如果做此决定会发生什么。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="height: 140px;" fcStyle="top: -150px;">
+			<text style="padding-top:25px;"><![CDATA[尽管艾玛没有早退，但她还是利用 Johnson Controls 的资产和公司工作时间处理外部业务，这属于不当行为，并且也会让其他有意看房的同事分心。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height: 140px;" fcStyle="top: -150px;">
+			<text style="padding-top:25px;"><![CDATA[艾玛正采取措施让这两份工作不相互影响。 然而，她不应该使用工作笔记本电脑、即时信息或工作邮箱处理外部业务，而且她还让其他有意看房的同事分心。]]></text>
+		</correct>
+	</feedback>
+</contents>

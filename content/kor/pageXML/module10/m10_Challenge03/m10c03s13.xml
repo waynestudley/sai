@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[고객이 Carlos에게 추가 작업을 요청했습니다. 그가 어떻게 대응해야 한다고 생각하십니까? 보기를 하나 선택한 후 확인을 클릭하십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Carlos는 어떻게 해야 할까요?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[한 가지 보기를 선택한 후 확인을 선택하십시오.]]></text>
+		<text><![CDATA[다음을 클릭하여 무슨 일이 일어났는지 알아보십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[해당 작업에 동의하고 David에게 비밀을 지키겠다는 맹세를 받고 함께 작업을 끝낸 후에 떠납니다.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[David에게 원한다면 그 작업을 하라고 하되, 자신은 참여하지 않겠다고 말합니다.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[고객이 Johnson Controls의 사업을 철회할지도 모르기 때문에 고객에게 그 제안을 받아들일 수 없다고 정중하게 설명합니다.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[확인]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos와 David는 작업을 끝낸 후에 떠납니다. 작업은 간단합니다! 그리고 이들은 항상 여분의 센서를 가지고 다니기 때문에 Johnson Controls는 이 사실을 알아내지 못합니다.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[David는 부수적인 작업을 한다는 데 동의합니다.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos는 상사에게 연락하고 상사는 영업 팀에 알려서 추가 작업에 대한 견적을 처리합니다. 해당 작업은 Carlos나 David에게 개인적으로 돌아가지 않고 Johnson Controls에 배당됩니다.]]></text>
+		</correct>
+	</feedback>
+</contents>

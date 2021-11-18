@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[هيا نلقِ نظرةً على بعض المواقف اليومية. هل هؤلاء الأشخاص يجازفون بمعلوماتهم الشخصية؟]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[أي مما يلي يمكن أن يمثل مخاطر على خصوصية البيانات؟]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[مكتب حافل بالنشاط، وموظف يعمل على كمبيوتر]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;left: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[حدد كل السيناريوهات التي تعتقد أنها تضع البيانات الشخصية في خطر.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[قد تكون هناك أكثر من إجابة صحيحة واحدة.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[الانضمام إلى شبكة Wi-Fi عامة]]></option>	
+		<option><![CDATA[استخدام كلمة المرور نفسها في مكانين]]></option>	
+		<option><![CDATA[نشر صورة من اجتماع فريق العمل وفي الخلفية لوحة معلومات على مواقع التواصل الاجتماعي]]></option>	
+		<option><![CDATA[مناقشة المعلومات المالية مع عميل على الهاتف في مكان عام]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[إرسال]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[صحيح.]]></text>
+			<text><![CDATA[جميع هذه النماذج تمثل خطرًا على خصوصية بياناتك.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[غير صحيح.]]></text>
+			<text><![CDATA[جميع هذه النماذج تمثل خطرًا على خصوصية بياناتك.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="accordion" className="m10c02s15">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>		
+	</transcript>
+	<contentText >
+		<text style=""><![CDATA[]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module10/m10c02/m10c02s15/contentBackground.jpg"  minwidth="769"><![CDATA[Checklist]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width:623px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Click on each stage of the story.]]></text>
+		<text><![CDATA[Select Next to reconsider your selection and try again.]]></text>
+	</instructionText>	
+	<accordionContent width="230px">
+		
+		<accordion style="width: 619px;" iconparDefHt="44"  iconparHeight="107">			
+			<buttonText style=""><![CDATA[Dan sends an email]]></buttonText>			
+			<popText style="">
+				<text style=""><![CDATA[Dan sends a company-wide email containing the link to Emma’s real estate blog to everyone on the employee list.]]></text>				
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44" iconparHeight="126">
+			<buttonText style=""><![CDATA[Emma sends a follow-up email]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Emma follows up with a group email thanking people for their support and letting them know how Sandy is doing. Many people offer get well messages for Sandy in the comments section of the blog. Quite a few donate to her fund.]]></text>			
+			</popText>
+		</accordion>		
+		<accordion style="width: 619px;" iconparDefHt="44"  iconparHeight="129">
+			<buttonText style=""><![CDATA[Emma sends a second email for her real estate blog]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[A month later, Emma sends another group email with a link to her blog, which highlights her newest property that is for sale, and offers to provide early showings to any Johnson Controls employee that is interested.]]></text>			
+			</popText>
+		</accordion>	
+		<accordion style="width: 619px;" iconparDefHt="44"  iconparHeight="151">			
+			<buttonText style=""><![CDATA[Consequences]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[Both Emma and Dan are reprimanded for improper use of the employee email list and for violating employee privacy. Emma should not have provided any information about Sandy’s medical condition on her blog. And she should not be trying to solicit business by using company-wide email communication.]]></text>				
+			</popText>
+		</accordion>		
+	</accordionContent>	
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[信封里装有 250 美元现金。 卡洛斯已经拒绝接收这个礼品，但供应商始终坚持。 他应该怎么做？]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[选择一个选项，然后选择“确定”。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+		<text><![CDATA[单击“下一步”，了解后续情况。]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[收下现金，但与团队成员平分，这样就不会有人收到大额现金。]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[再次拒绝收下现金。  作为回谢，克里斯邀请卡洛斯及其团队在大型赛事期间一起去运动酒吧，卡洛斯接受了邀约。]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[再次拒收现金，并<span class="fontBoldItalic" >拒绝</span>克里斯在大型赛事期间一起去运动酒吧的提议。]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[确定]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[卡洛斯与团队成员平分现金，托词说没有人收到超过 Johnson Controls 礼品限额的现金。 但是，数月之后，另一家公司展开调查，指控该分包商提供不当礼品，获取回头生意。]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[在卡洛斯再次拒收现金后，克里斯意识到他是认真的，并改变了提议。 他邀请卡洛斯及其团队成员在大型赛事期间一起去运动酒吧。]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[在卡洛斯再次拒收现金，并拒绝克里斯邀请其团队共进晚餐的邀请后，克里斯意识到他是认真的，便不再坚持了。]]></text>
+		</correct>
+	</feedback>
+</contents>

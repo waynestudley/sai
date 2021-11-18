@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s09">
+	<transcript>
+		<text path="audio/module10/m10c01/m10c01s09" id="0"><![CDATA[طلب مورد رئيسي الحصول على مدفوعات فورية. ما الذي ينبغي على جيان فعله من وجهة نظرك؟ حدد خيارًا واحدًا ثم انقر على "موافق".]]></text>
+		<text path="audio/module10/m10_fd_3" id="1"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_3" id="3"><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		
+	</transcript>
+	<contentText>
+		<text><![CDATA[يتم إقناع جيان بالموافقة على دفع مبلغ فوري بموجب فاتورة لبائع، ويمكن أن يكون نجاح أحد المشروعات معتمدًا على ذلك المبلغ.]]></text>
+		<text><![CDATA[ما الذي ينبغي عليه فعله؟]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c01/m10c01s09/contentBackground.jpg" minwidth="769"><![CDATA[جيان يتحدث عبر الهاتف مع نولان في مطبخ منزله]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[حدد خيارًا، ثم انقر على "موافق".]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+		<text><![CDATA[انقر على زر "التالي" لتكتشف ما حدث.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[مطالبة نولان بالموافقة على المبلغ يبدو أنه من المعقول أن يتم إنفاق 1000 دولار لتجنب دفع مبالغ أكبر بكثير كعقوبات تنجم عن التأخر في التسليم.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[إخبار نولان بعدم الموافقة على الدفع حتى يمكنهم التعرف على المزيد من المعلومات حول كيفية استخدام الأموال فيما يتعلق بالتصاريح.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[حسنًا]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[يطلب جيان من قسم الحسابات دفع الفاتورة. يبدو أن ذلك هو أفضل طريقة للحفاظ على تسليم المشروع وفقًا للجدول الزمني المحدد له، كما أن ذلك يعد أقل ثمنًا من العقوبات التي يمكن أن يفرضها العميل.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[بعد التحدث إلى نولان، يشعر جيان بالقلق حيال طلب المورد.]]></text>
+		</correct>
+	</feedback>
+</contents>

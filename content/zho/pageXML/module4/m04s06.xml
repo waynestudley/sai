@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m04s06">
+	<transcript>
+		<text path="audio/module4/m04s06" id="0"><![CDATA[关于个人信息保护，请谨记： 限制、保护和删除。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[我们的供应商、客户和员工重视其隐私，并希望我们保护其好数据。 处理个人数据（例如收集、复制、修改、保存、删除、或对其采取任何其他措施）时，我们必须秉承三项重要原则： 限制、保护和删除。 查看下列面板以了解更多信息。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[单击每个“显示”按钮，了解更多信息。 您可能需要滑动以查看完整答案。]]></text>
+		<text><![CDATA[单击“下一步”继续。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[显示]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img1.png" style=""><![CDATA[使用电话和笔记本电脑处理个人数据的员工]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[限制]]></buttonText>
+			<popText style="height:188px;">
+				<text style=""><![CDATA[仅在征得当事人同意或出于合法业务目的必须了解数据的情况下，方可对个人数据进行处理。 <ul><li>若无明确和合法的相关业务目的，不得收集个人数据。</li><li>确保您所收集的所有个人数据皆充分、相关且不超出业务目的。 仅收集您所需的个人数据，切勿超出需要范围。</li><li>仅将个人数据用于收集该数据的规定目的。</li></ul>]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">			
+			<buttonImg path="content/images/ltr/module4/m04s06/img2.png" style=""><![CDATA[加密图标]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[保护]]></buttonText>	
+			<popText style="height:188px;">
+				<text><![CDATA[确保个人数据得以恰当保护，不会遭到未经授权使用、意外丢失、损坏或破坏。<ul><li>只有经授权的员工和承包商基于有效的工作相关需求，才可访问个人数据。</li><li>尽可能仅保存电子版数据，使用安全程度强的密码对其进行加密或保护，以避免他人未经授权使用任何文件。 纸质复印件可能会错置、且更容易拿到；应该将数量降到最小或尽可能避免。</li><li>切勿将个人数据储存在共享文件或文件夹内；这样没有必要或权限知晓此数据的人员可在这些位置获取此数据。</li><li>切勿制成储存于多处且维护方式不相同的电子记录。</li></ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="width:315px;height: 320px;">
+			<buttonImg path="content/images/ltr/module4/m04s06/img3.png" style=""><![CDATA[键盘上的垃圾箱图标]]></buttonImg>
+			<buttonText style="height:90px;width:294px;"><![CDATA[删除]]></buttonText>
+			<popText style="height:188px;">
+				<text><![CDATA[个人数据保存时长完全遵照法律要求，或符合其最初收集该数据的业务目的。<ul><li>定期审查数据，确保其处于最新状态、准确且符合最初收集该数据的业务目的。</li><li>不再需要该数据时，以安全方式进行销毁处理 - 可撕毁或将其放入机密垃圾箱（如有）。</li></ul>]]></text>		
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

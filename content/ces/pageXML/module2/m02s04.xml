@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m02s04">
+	<transcript>
+		<text path="audio/module2/m02s04" id="0"><![CDATA[Před poskytnutím či přijetím daru je nutné zvážit celou řadu věcí. Kliknutím na jednotlivé nadpisy se dozvíte více.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 655px;margin-bottom:0px"><![CDATA[Když uvažujete o darech a pohoštění, vždy byste měli zvážit tyto aspekty: ]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module2/m02s04/contentBackground.jpg" minwidth="769"><![CDATA[Zamyšlený zaměstnanec]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 655px;"></pageTitle>
+	<instructionText style="width: 655px;">
+		<text><![CDATA[Vyberte jednotlivé nadpisy. Chcete-li zobrazit další, zavřete textové pole kliknutím na X.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:170px;">
+		<revealCallOut width="220px" height="190px" top="0px" left="288px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module2/m02s04/btn1.png" minwidth="769"><![CDATA[Zamyšlený zaměstnanec]]></img>
+			<buttonText style="height: 60px;"><![CDATA[Hodnota]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="90px" style="height: 220px;top: -230px;left:288px;width:690px;">
+				<text><![CDATA[Položte si následující otázky: „Jak drahé to bylo?“]]></text>						
+				<text><![CDATA[Přehnané či výstřední dary mohou způsobit nedorozumění, jsou tedy prakticky vždy nevhodné.]]></text>						
+				<text><![CDATA[Dary by měly být v mezích běžných zvyklostí a přiměřené okolnostem. Dále pak je třeba veškeré dary přesně a pravdivě zdokumentovat.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="220px" height="190px" top="0px" left="524px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module2/m02s04/btn2.png" minwidth="769"><![CDATA[Zamyšlený zaměstnanec]]></img>
+			<buttonText style="height: 60px;"><![CDATA[Častost]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="400px" style="height: 220px;top: -230px;left:288px;width:690px;">
+				<text><![CDATA[Položte si následující otázky: „Děje se toto poprvé nebo už poněkolikáté?“]]></text>					
+				<text><![CDATA[Nezapomeňte, že i malé dary mohou mít v součtu velkou hodnotu.]]></text>					
+				<text><![CDATA[Dbejte na to, abyste dary ani pohoštění nepřijímali/nenabízeli příliš často, zvláště pokud by šlo o stále stejného zákazníka či obchodního partnera.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="220px" height="190px" top="0px" left="758px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module2/m02s04/btn3.png" minwidth="769"><![CDATA[Zamyšlený zaměstnanec]]></img>
+			<buttonText style="height: 60px;"><![CDATA[Úmysl a zdání]]></buttonText>
+			<popupArrow style="" />
+			<popText showHeader="true" arrowleft="760px" style="height: 220px;top: -230px;left:288px;width:690px;">
+				<text><![CDATA[Položte si následující otázky: „Jak to asi vypadá z pohledu nezaujatého pozorovatele?“]]></text>			
+				<text><![CDATA[Dary a pohoštění by měly vyjadřovat dobrou vůli a posilovat důvěru v obchodním vztahu. Nikdy nemají sloužit k tomu, aby ovlivnily objektivní úsudek příjemce.]]></text>			
+				<text><![CDATA[Dar či pohoštění poskytnuté se záměrem zajistit si obchodní výhodu jsou vždy nevhodné, bez ohledu na jejich hodnotu.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

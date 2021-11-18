@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s06" id="0"><![CDATA[各事例について贈答品または接待を選択して、「送信」をクリックします。]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s06/contentBackground.jpg" minwidth="769"><![CDATA[オフィスで働いている人]]></img>
+	</contentBackground>
+	<contentBg style="width: 719px;right: 288px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:13px;line-height:18px;"><![CDATA[各事例が、贈答品に該当するのか接待に該当するのかをあなたが認識できているかを確認しましょう。]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[各オプションについて、贈答品か接待かを答え「送信」をクリックしてください。]]></text>
+		<text><![CDATA[先に進むには「次へ」をクリックします。]]></text>
+	</instructionText>
+	<optionContent style="width:720px;" tickSt="right:12px;" crossSt="right:18px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img01.png"><![CDATA[サプライヤーとチームで会食をしている従業員]]></img>
+			<text style="width: 406px;"><![CDATA[サプライヤーが、大きなプロジェクトの完了を祝うためにプロジェクトチーム全体を食事に招待してくれました]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img02.png"><![CDATA[思慮深い従業員]]></img>
+			<text style="width: 406px;"><![CDATA[お客様が、あなたの仕事に「感謝します」という意味で、地元のリゾートでマッサージを受けられる引換券をくれました]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img03.png"><![CDATA[思慮深い従業員]]></img>	
+			<text style="width: 406px;"><![CDATA[あなたは会社の代理として展示会に出席しており、主催者が出席者を夜のイベントに招待しています]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img04.png"><![CDATA[思慮深い従業員]]></img>	
+			<text style="width:406px;"><![CDATA[サプライヤーが、現地でのミーティング後に地元のレストランであなたのチームに食事を奢ってくれると言いますが、そのサプライヤーは同席しません]]></text>	
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module2/m02s06/img05.png"><![CDATA[思慮深い従業員]]></img>	
+			<text style="width:406px;"><![CDATA[サプライヤーが、スポーツのイベントにあなたを誘っていますが、本人は体調が悪いのであなただけで行ってくれと言っています]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer styleWidth="width:207px;">
+		<text styleWidth="width:100px;"><![CDATA[贈答品]]></text>
+		<text styleWidth="width:100px;"><![CDATA[接待]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[送信]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[正解です。]]></text>			
+			<text style="font-size: 14px;line-height:20px;"><![CDATA[贈答品と接待の報告の場合には、異なる規則が適用されます。 接待の場合には、接待する側も利益を共有することを覚えているでしょうか – 接待する側も夕食に参加し、イベントに同行する…等です。]]></text>			
+			<text style="font-size: 14px;line-height:20px;"><![CDATA[サプライヤーがチームを食事に招待する、または展示会の夜のイベントに参加する、というのは接待です。両方とも、ビジネスについて話し合うチャンスを提供し、接待する側もそのチャンスを共有するからです。 ]]></text>			
+			<text style="font-size: 14px;line-height:20px;"><![CDATA[ギフト券、および招待する側が参加しないイベントは、贈答品とみなされます。 ]]></text>			
+		</correct>
+		<incorrect style="top: -90px;width: 230px;height: 413px;padding-top: 20px;right: -265px;">
+			<text style="padding-top:0px;font-size: 20px;"><![CDATA[不正解です。]]></text>	
+			<text style="font-size: 14px;line-height:20px;"><![CDATA[贈答品と接待の報告の場合には、異なる規則が適用されます。 接待の場合には、接待する側も利益を共有することを覚えているでしょうか – 接待する側も夕食に参加し、イベントに同行する…等です。]]></text>			
+			<text style="font-size: 14px;line-height:20px;"><![CDATA[サプライヤーがチームを食事に招待する、または展示会の夜のイベントに参加する、というのは接待です。両方とも、ビジネスについて話し合うチャンスを提供し、接待する側もそのチャンスを共有するからです。 ]]></text>			
+			<text style="font-size: 14px;line-height:20px;"><![CDATA[ギフト券、および招待する側が参加しないイベントは、贈答品とみなされます。 ]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="flipCard" className="m07s07">
+	<transcript>
+		<text path="audio/module7/m07s07" id="0" ><![CDATA[You wouldn’t let someone from outside the company walk out with one of our computers or other physical property, right? Well, our intellectual property is far more valuable than our physical property, and usually much easier to steal or lose. Click on each reveal button to learn more.]]></text>		
+	</transcript>
+	<contentText >
+		<text style=""><![CDATA[We’re all responsible for protecting Johnson Controls’ intellectual property.]]></text>
+	</contentText>
+	
+	<contentBackground >
+		<img path="content/images/ltr/module7/m07s07/contentBackground.jpg"  minwidth="769"><![CDATA[Two Employees talking]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;" ></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;" >
+		<text><![CDATA[Click on each reveal button to learn more. You may need to scroll to read the full answer.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<buttonText >
+		<text><![CDATA[REVEAL]]></text>
+	</buttonText>	
+	<flipCardContent >
+		<flipCard style="width:230px;height: 360px;" >	
+			<buttonImg path="content/images/ltr/module7/m07s07/img1.png" ><![CDATA[Copyright Symbol]]></buttonImg>
+			<buttonText  style="height:90px;width:210px;"><![CDATA[Be mindful of copyright]]></buttonText>
+			<popText  style="height:228px;">
+				<text><![CDATA[<ul> <li>Copyrights give their owners the right to control how the work is reproduced, distributed, or displayed.</li> <li>Copyrighted work is sometimes, but not always, marked with a &copy;.</li> <li>Most written works, as well as software created at Johnson Controls, should be considered copyrighted: add copyright notices as appropriate.</li> <li>Respect copyrighted material that belongs to others: do not copy, download, distribute, use or display materials unless you have the owner’s express permission – otherwise, you and Johnson Controls could face legal action.</li> </ul>]]></text>						
+			</popText>	
+		</flipCard>		
+		<flipCard style="width:230px;height: 360px;">			
+			<buttonImg path="content/images/ltr/module7/m07s07/img2.png"  ><![CDATA[Trademark symbol]]></buttonImg>
+			<buttonText style="height:90px;width:210px;"><![CDATA[Use Johnson Controls trademarks properly]]></buttonText>
+			<popText style="height:228px;">
+				<text><![CDATA[<ul> <li>Always use Johnson Controls’ trademarks appropriately: Johnson Controls’ Law department can advise on this.</li> <li>Consumers identify a product by its trademark which denotes a known quality and a particular brand: confusion in the market over brand names could cost a trademark owner some of its rightful sales.</li> <li>If a trademark is not properly used – for instance if it is used as a generic term by the public, then the right to enforce the trademark may be lost, even if the mark is registered. By being used as a generic term, the trademark becomes the name of the product instead of denoting the brand.</li> <li>In order to protect Johnson Controls’ IP, as well as the IP that belongs to others, always trigger patent and trademark searches before using a new technical or aesthetic design or a new brand.</li> </ul>]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:230px;height: 360px;">
+			<buttonImg path="content/images/ltr/module7/m07s07/img3.png"  ><![CDATA[People Negotiating a contract]]></buttonImg>
+			<buttonText style="height:90px;width:210px;"><![CDATA[If you negotiate contracts, protect our IP Rights]]></buttonText>
+			<popText  style="height:228px;">
+				<text><![CDATA[<ul> <li>IP rights sometimes come up for discussion during contract negotiations.</li> <li>Johnson Controls must retain ownership of its IP in all contractual relationships with customers, suppliers and other third parties.</li> <li>Getting these protections can be complicated, so consult the Law department if needed.</li> </ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:230px;height: 360px;">
+			<buttonImg path="content/images/ltr/module7/m07s07/img4.png"  ><![CDATA[Employees brainstorming ideas in the Innovation space]]></buttonImg>
+			<buttonText style="height:90px;width:210px;"><![CDATA[If you invent products, keep appropriate notes]]></buttonText>			
+			<popText  style="height:228px;">
+				<text><![CDATA[<ul> <li>Patents are granted for any new and non-obvious item, process or machine, including improvements.</li> <li>If you invent things for Johnson Controls, keep accurate, confidential records of your work and ideas.</li> </ul>]]></text>			
+			</popText>
+		</flipCard>		
+	</flipCardContent>	
+</contents>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m08s10" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module8/m08s10"><![CDATA[자, 이것을 실제 생활에 적용해 봅시다. 여러분은 다음 상황에 어떻게 대처하겠습니까? 왼쪽의 각 상황을 오른쪽에 있는 올바른 해결책에 연결하고 '제출'을 클릭하십시오.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[다음의 각 상황에서 여러분이 해야 할 일을 알고 있는지 보여주십시오. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module8/m08s10/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top: -15px;"><![CDATA[제출]]></text>
+	</buttonText>
+	<instructionText>
+		<text><![CDATA[첫 번째 열에서 항목을 선택한 후 화살표를 두 번째 열의 적절한 해결책으로 끌어가십시오. 완료되면 '제출'을 클릭하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="990" lineHolderH="250">
+		<leftSideTabs>
+			<heder><![CDATA[상황]]></heder>
+			
+			<tab id="1" style="height:100px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 100px;">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img01.png"><![CDATA[부품을 갖고 작업하는 사람]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[여러분은 신제품을 위한 부품을 공급하기 위해 입찰에 참여한 잠재적 공급업자와 함께 일하고 있습니다. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:100px" dragPosition="left:430px; top:119px;z-index:5;height:100px">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img02.png"><![CDATA[이메일을 열기 위해 아이콘을 선택하는 사람]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[여러분은 끝내야 할 문서 작업이 있어서 집에 가서 작업하려고 그 문서를 이메일로 보낼 생각입니다.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[해결책]]></heder>
+			<tab id="2" style="height:100px" dropPosition="left: 528px;top: 8px;height: 100px;">
+				<text style=""><![CDATA[이메일은 잃어버리거나 해킹되거나 잘못 전달될 수 있으므로 문서에 액세스하는 다른 방법을 찾으십시오.]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img04.png"><![CDATA[폴더 아이콘]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:100px" dropPosition="left: 528px;top: 119px;height: 100px;">
+				<text><![CDATA[신제품 정보를 공유하기 전에 그들에게 비밀 유지 협약에 서명하라고 요청하고, 그 정보에 기밀 표시를 하십시오. ]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img03.png"><![CDATA[비밀 유지 협약에 서명하는 사람]]></rightIcon>
+			</tab>	
+		</rightSideTabs>		
+		<feedback type="normal">
+			<correct id="1" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[다 됐습니다. 모두 정확하게 짝지어졌습니다. ]]></text>
+			</correct>			
+			<incorrect id="2" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[정답이 아닙니다.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

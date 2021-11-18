@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="revealCallOut2" className="m10c02s20">
+	<transcript>
+		<text path="" id="0" ><![CDATA[]]></text>		
+	</transcript>
+	<contentText >
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module10/m10c02/m10c02s20/contentBackground.jpg"  minwidth="769" ><![CDATA[Co-workers in conversation]]></img>
+	</contentBackground>	
+	 <contentBg style="" ></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;" >
+		<text><![CDATA[Click on each person to learn more.]]></text>
+		<text><![CDATA[Click on Next to reconsider your deicsion and try again.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:139px">
+		<revealCallOut width="230px" height="225px" top="0px" left="20px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module10/m10c02/m10c02s20/btn1.png" minwidth="769" ><![CDATA[]]></img>
+			<buttonText style="height:45px;" ><![CDATA[Tom]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="90px" style="height: 90px;top:-20px;width: 959px;">
+				<text><![CDATA[I am so glad I was able to get my hands on those addresses. I was able to get some great photos and made a lot of money.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="225px" top="0px" left="263px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module10/m10c02/m10c02s20/btn2.png" minwidth="769" ><![CDATA[]]></img>
+			<buttonText style="height:45px;"><![CDATA[Anastasia, Celebrity customer]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="400px" style="height: 90px;top:-20px;width: 959px;">
+				<text><![CDATA[Since yesterday, there are paparazzi at my door, this is my home! I wonder what triggered this interest?]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="225px" top="0px" left="505px" ticktop="5px" tickleft="3px" >
+			<img path="content/images/ltr/module10/m10c02/m10c02s20/btn3.png" minwidth="769" ><![CDATA[]]></img>
+			<buttonText style="height:45px;"><![CDATA[Harry, Private Investigator]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="760px" style="height: 90px;top:-20px;width: 959px;">
+				<text><![CDATA[We were retained to find out who sold those pictures of my client, and were able to trace it back to a Johnson Controls employee. The privacy of some very high profile customers was violated. Our client is considering suing Johnson Controls, and the privacy team is considering whether the regulators need to be contacted. ]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="225px" top="0px" left="749px" ticktop="5px" tickleft="3px" >
+			<img path="content/images/ltr/module10/m10c02/m10c02s20/btn4.png" minwidth="769" ><![CDATA[]]></img>
+			<buttonText style="height:45px;"><![CDATA[Carmen, Compliance Officer]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="760px" style="height: 90px;top:-20px;width: 959px;">
+				<text><![CDATA[Tom and Emma are in the spotlight and could both face disciplinary action up to and including dismissal.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

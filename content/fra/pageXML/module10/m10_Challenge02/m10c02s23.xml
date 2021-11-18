@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s23">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Emma signale la situation à Roger, son responsable, mais celui-ci ne fait rien. Que doit faire Emma dans ce cas ?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c02/m10c02s23/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Sélectionnez votre réponse, puis cliquez sur « OK ».]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour découvrir ce qu’il s’est passé.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="1" feedbackId="2"><![CDATA[Rien. Emma l’a signalé et il incombe à Roger d’effectuer un suivi à ce stade.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[En parler à un membre du service juridique ou conformité, ou contacter la ligne d’assistance Intégrité à propos de ses inquiétudes.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text><![CDATA[]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:18px;"><![CDATA[Emma a pris la bonne décision ici en parlant à Roger, son responsable. Mais Emma n’est pas convaincue que Roger agisse. Elle doit donc faire remonter ses préoccupations. Elle devrait contacter un membre des services juridique ou conformité, son représentant RH ou faire part de ses préoccupations grâce à la ligne d’assistance Intégrité.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Emma a pris la bonne décision ici en parlant à Roger, son responsable. Mais Emma pense que Roger ne prendra pas de mesures supplémentaires afin de traiter ses préoccupations. Emma a donc à nouveau pris la bonne décision en allant plus loin et en s’adressant à d’autres membres de l’entreprise capables de traiter et de résoudre de façon appropriée le problème.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s08" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module3/m03s08"><![CDATA[Kerajaan dan pengawal selia melayan rasuah dengan keras. Itulah sebabnya penting untuk kita mengambil peranan yang aktif dalam menghalangnya. Bolehkah anda padankan tindakan dalam lajur di sebelah kiri dengan keadaan di sebelah kanan?]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px"><![CDATA[Apakah yang berlaku kepada syarikat yang terlibat dalam rasuah dan sogokan?]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s08/contentBackground.jpg" minwidth="769"><![CDATA[Pejabat]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px"></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top:0px;"><![CDATA[SERAH]]></text>
+	</buttonText>
+	<instructionText style="line-height:20px;height:40px">
+		<text><![CDATA[Pilih item dari lajur pertama, kemudian seret anak panah untuk menyambung ke keadaan yang sepadan di bahagian kedua. Setelah anda selesai, klik Serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;">
+		<leftSideTabs>
+			<heder><![CDATA[TINDAKAN]]></heder>
+			
+			<tab id="1" style="height:130px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 130px;">
+				<leftIcon path="content/images/ltr/module3/m03s08/img01.png" style=""><![CDATA[Pekerja menganugerahkan latihan amali kepada seseorang ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Pemilik bank pelaburan di rantau Asia Pasifik JP Morgan menjalankan program yang menganugerahkan kerja dan latihan amali kepada ahli keluarga dan rakan pelanggan berpotensi, termasuk pegawai kerajaan. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:130px" dragPosition="left:430px; top:149px;z-index:5;height:130px">
+				<leftIcon path="content/images/ltr/module3/m03s08/img02.png" style=""><![CDATA[Pegawai Kerajaan menerima rasuah ]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Subsidiari syarikat antarabangsa yang besar membuat tembaga, aluminium dan wayar optik gentian, telah membayar jutaan dolar kepada ejen dan pengedar pihak ketiga. Sesetengah wang tersebut telah digunakan untuk merasuah pegawai kerajaan bagi mendapatkan perniagaan, keuntungan bersih syarikat ialah USD $51 juta.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[AKIBAT]]></heder>
+			<tab id="2" style="height:130px" dropPosition="left: 528px;top: 8px;height: 130px;">
+				<text style=""><![CDATA[Syarikat telah diarahkan untuk membayar USD $76 juta dan dua orang eksekutif yang tahu tentang rasuah tersebut perlu membayar balik jutaan wang. ]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img04.png" style=""><![CDATA[Adili dengan tukul kayu]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:130px" dropPosition="left: 528px;top: 149px;height: 130px;">
+				<text><![CDATA[ Kerajaan A.S telah mendapati syarikat tersebut "terlibat dalam skim rasuah sistematik" yang membawa kepada ganjaran perniagaan penting. Syarikat telah diarahkan untuk membayar USD $264 juta.]]></text>
+				<rightIcon path="content/images/ltr/module3/m03s08/img03.png" style=""><![CDATA[Bangunan US Capital dilihat melalui tangga mahkamah]]></rightIcon>
+			</tab>	
+					
+			
+				
+		</rightSideTabs>		
+		<feedback type="semiBlack">
+			<correct id="1" style="">
+				<text style=""><![CDATA[Akibat rasuah dan sogokan boleh menjadi teruk – kedua-duanya kepada individu dan syarikat serta boleh berkisar daripada denda hingga penjara.  Johnson Controls mengharapkan anda – setiap langkah perjalanan – untuk mengelakkan rasuah pada setiap masa dan untuk melaporkan sebarang aktiviti yang mencurigakan dalam bidang ini dengan segera.]]></text>
+			</correct>			
+			<incorrect id="2" style="">
+				<text style=""><![CDATA[Akibat rasuah dan sogokan boleh menjadi teruk – kedua-duanya kepada individu dan syarikat serta boleh berkisar daripada denda hingga penjara.  Johnson Controls mengharapkan anda – setiap langkah perjalanan – untuk mengelakkan rasuah pada setiap masa dan untuk melaporkan sebarang aktiviti yang mencurigakan dalam bidang ini dengan segera.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

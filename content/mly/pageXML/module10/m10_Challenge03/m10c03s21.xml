@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s21">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text path="audio/module10/m10_fd_1" id="3"><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 625px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Sampul surat yang mengandungi wang tunai $250. Carlos menolak hadiah tersebut dan pembekal berkeras. Apakah yang patut dia lakukan?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s21/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="">
+		<text><![CDATA[Pilih satu pilihan, kemudian pilih OK.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk mengetahui perkara yang terjadi.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[Terima dan agihkan wang tunai dengan pasukannya, supaya tiada sesiapa yang mendapat jumlah besar.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Tolak wang tunai tersebut sekali lagi.  Apabila Chris membalas dengan menjemput Carlos untuk menyertai dia dan pasukan di bar sukan semasa perlawanan besar, Carlos bersetuju.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Menolak wang tunai sekali lagi dan juga <span class="fontBoldItalic" >menolak</span> tawaran Chris untuk menyertai dia dan pasukan di bar sukan semasa perlawanan besar.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos membahagikan wang tunai kepada pasukannya, dengan alasan bahawa tiada sesiapa yang akan menerima jumlah melebihi had hadiah Johnson Controls. Tetapi beberapa bulan kemudian, syarikat lain telah melancarkan penyiasatan dalam pertuduhan bahawa subkontraktor telah menggunakan hadiah tidak wajar untuk menggalakkan perniagaan yang berulang.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Kali kedua selepas Carlos menolak wang tunai, Chris sedar yang dia serius dan menukar tawaran tersebut. Sebaliknya, dia menjemput Carlos untuk menyertai dia dan pasukan semasa perlawanan besar di bar sukan.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Kali kedua selepas Carlos menolak wang tunai, dan menolak tawaran Chris untuk membawa pasukannya makan malam, Chris sedar bahawa dia serius dan berhenti mendesak.]]></text>
+		</correct>
+	</feedback>
+</contents>

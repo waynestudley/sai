@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m03s03">
+	<transcript>
+		<text path="audio/module3/m03s03" id="0"><![CDATA[賄賂並不總像是金錢往來。 按一下每個「顯示」按鈕以瞭解詳情。]]></text>		
+	</transcript>
+	<contentText>
+		<text style="margin-bottom:0px"><![CDATA[測驗您對賄賂的理解程度。]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module3/m03s03/contentBackground.jpg" minwidth="769"><![CDATA[朦朧的圖像]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[按一下每個「顯示」按鈕以瞭解詳情。 請捲動閱讀完整答案。]]></text>
+		<text><![CDATA[按「下一步」繼續。]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[顯示]]></text>
+	</buttonText>	
+	<flipCardContent width="230px">
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img1.png" style=""><![CDATA[賄賂何時發生？]]></buttonImg>
+			<buttonText style=""><![CDATA[賄賂何時發生？]]></buttonText>
+			<popText style="">
+				<text style=""><![CDATA[若贈送某人任何有價之物以不當影響其決策或行為，即屬於賄賂。]]></text>			
+			</popText>
+		</flipCard>		
+		<flipCard style="">			
+			<buttonImg path="content/images/ltr/module3/m03s03/img2.png" style=""><![CDATA[某人交給另一人一個棕色信封]]></buttonImg>
+			<buttonText style=""><![CDATA[何謂「有價之物」？]]></buttonText>		
+			<popText style="">
+				<text><![CDATA[可以是現金，但也可以包括：<ul> <li>公司股票</li> <li>禮品或贈物</li> <li>高價的招待或款待</li> <li>觀光或度假，包含利用正當的出差機會</li> <li>未經授權的折扣或過高的佣金</li> <li>政治獻金或慈善捐款</li> <li>提供工作給客戶或其親友</li> <li>異常或巧立名目的補貼、開支</li> <li>其他對收禮者而言有價值的任何物品</li> </ul>]]></text>				
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img3.png" style=""><![CDATA[某人交給另一人一個棕色信封]]></buttonImg>
+			<buttonText style=""><![CDATA[每個地方都禁止賄賂嗎？]]></buttonText>
+			<popText style="">
+				<text><![CDATA[<ul> <li>全球有許多國家施行反賄賂法，即使是素有賄賂歪風的國家也是。</li> <li>我們的政策禁止在所有我們做生意的國家賄賂；作為一家跨國公司，我們在某個國家從事的行為，可能在我們營運據點所在的其他任何地區受到審查。</li> <li>在全世界許多司法管轄區，賄賂也屬於犯罪行為，個人若涉及圖謀賄賂，有可能因此遭到指控、審訊以及判刑。</li> </ul>]]></text>		
+			</popText>
+		</flipCard>		
+		<flipCard style="">
+			<buttonImg path="content/images/ltr/module3/m03s03/img4.png" style=""><![CDATA[某人交給另一人一個棕色信封]]></buttonImg>
+			<buttonText style=""><![CDATA[行賄或收賄有關係嗎？]]></buttonText>
+			<popText style="">
+				<text><![CDATA[幾乎在所有司法管轄區，行賄和收賄同樣違法。 Johnson Controls 政策禁止任何形式的行賄和收賄。]]></text>			
+			</popText>
+		</flipCard>		
+	</flipCardContent>	
+</contents>

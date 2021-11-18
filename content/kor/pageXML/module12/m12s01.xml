@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="certificate">
+	<transcript>
+		<text path="audio/conclusion" id="0"><![CDATA[잘하셨습니다. 귀하는 이 과정을 성공적으로 완료했습니다. 이제 수료증을 인쇄할 수 있습니다. ]]></text>
+	</transcript>
+	 <contentBackground>		
+		<img path="content/images/ltr/module12/m12s01/contentBackground.jpg" minwidth="769"><![CDATA[PC를 사용 중인 남자]]></img>
+	</contentBackground>
+	<pageTitle style="width: 410px;"></pageTitle>
+	  <contentBg style=""></contentBg>
+    <panelText>
+		<text width="450px" height="auto" top="0px" left="0px" position="relative" padding="0"><![CDATA[귀하는 <span style="color:#00539E;font-weight:bold;font-size:17px;" >윤리 강령 적용 과정을 성공적으로 이수했습니다. 정직한 사업 수행</span> 과정.]]></text>
+		<text width="450px" height="120px" top="10px" left="0px" position="relative" padding="0"><![CDATA['수료증 인쇄'를 클릭한 후 '홈'을 클릭하여 기본 메뉴로 돌아가거나 '닫기'를 클릭하여 이 과정에서 나가십시오.]]></text>
+	</panelText>
+	<buttonText>
+		<text top="160px" left="20px"><![CDATA[수료증 인쇄]]></text>
+	</buttonText>	
+	<instructionText>
+		<text><![CDATA['수료증 인쇄'를 클릭하십시오.]]></text>
+	</instructionText>
+</contents>

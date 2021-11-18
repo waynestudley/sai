@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s03">
+	<transcript>
+		<text path="audio/module4/m04s03" id="0"><![CDATA[Wat zijn persoonsgegevens juist? Laten we eens kijken.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[Wat zijn persoonsgegevens?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s03/contentBackground.jpg" minwidth="769"><![CDATA[Nadenkende werknemer aan computer]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Selecteer iedere titel.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:160px;">
+		<revealCallOut width="300px" height="174px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn1.png" minwidth="769"><![CDATA[Persoonsgegevens]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Persoonsgegevens]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 80px;top: -30px;width: 958px;">
+				<text><![CDATA[Persoonsgegevens zijn gegevens die kunnen worden gebruikt om een persoon te identificeren, zoals de naam of het adres van een persoon.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="350px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn2.png" minwidth="769"><![CDATA[Gevoelige persoonsgegevens]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Gevoelige persoonsgegevens]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 120px;top: -30px;width: 958px;">
+				<text><![CDATA[Gevoelige persoonsgegevens zijn gegevens over een persoon die aanzienlijke schade, schaamte, ongemak of onrechtvaardigheid kunnen veroorzaken als ze verloren gaan, in gevaar worden gebracht of zonder toestemming worden vrijgegeven, zoals de gezondheidstoestand of religieuze overtuigingen van een persoon.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s03/btn3.png" minwidth="769"><![CDATA[Gegevensbescherming]]></img>
+			<buttonText style="height: 40px;"><![CDATA[Gegevensbescherming]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -30px;width: 958px;">
+				<text><![CDATA[Alle persoonsgegevens van onze werknemers, klanten en zakenpartners moeten worden beschermd. Dit is een van uw voornaamste verantwoordelijkheden als werknemer van Johnson Controls.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

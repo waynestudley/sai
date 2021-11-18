@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="flipCard" className="m06s03">
+	<transcript>
+		<text path="audio/module6/m06s03" id="0"><![CDATA[Che cosa proibiscono le leggi sulla concorrenza? Fai clic su ogni pulsante mostra per approfondire l’argomento.]]></text>		
+	</transcript>
+	<contentText>
+		<text style=""><![CDATA[Le leggi sulla concorrenza proibiscono quegli accordi tra i concorrenti che hanno un effetto sui prezzi o che limitano la scelta del cliente.]]></text>
+	</contentText>
+	
+	<contentBackground>
+		<img path="content/images/ltr/module6/m06s03/contentBackground.jpg" minwidth="769"><![CDATA[Incontro tra concorrenti]]></img>
+	</contentBackground>	
+	 <contentBg style="padding:0px;width: 990px;right: 10px;top: 10px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<instructionText style="min-height:auto;">
+		<text><![CDATA[Fai clic su ogni pulsante mostra per approfondire l’argomento. Puoi aver bisogno di scorrere per leggere l’intera risposta.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>	
+	<buttonText>
+		<text><![CDATA[MOSTRA]]></text>
+	</buttonText>	
+	<flipCardContent>
+		<flipCard style="width:187px;height: 362px;">	
+			<buttonImg path="content/images/ltr/module6/m06s03/img1.png"><![CDATA[Immagine che mostra dei prezzi scontati]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Fissazione dei prezzi]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Con fissazione dei prezzi si intende un accordo tra due o più concorrenti per definire i prezzi di beni o servizi. Tali accordi sono sempre illegali.]]></text>						
+				<text><![CDATA[La fissazione dei prezzi si verifica se tu e il concorrente vi accordate per: <ul> <li>mantenere fissi i prezzi</li> <li>adottare una formula conosciuta per calcolare i prezzi</li> <li>attenervi a una tabella per compensi o prezzi minimi</li> <li>eliminare o ridurre gli sconti</li> </ul>]]></text>						
+			</popText>
+			
+			
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">			
+			<buttonImg path="content/images/ltr/module6/m06s03/img2.png"><![CDATA[Concorrenti che concludono un accordo]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Controllo delle offerte]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Con manipolazione delle offerte si intende un accordo fra due o più concorrenti per decidere quale concorrente vincerà una particolare trattativa o gara d’appalto.]]></text>					
+				<text><![CDATA[La manipolazione delle offerte si verifica se tu e il concorrente vi accordate per: <ul> <li>non partecipare a un’offerta o per ritirare un’offerta già presentata in modo che l’offerta del tuo concorrente (o la tua) possa vincere</li> <li>presentare delle offerte che sono intenzionalmente troppo alte per vincere, ma che appaiono legittime; le offerte non sono infatti presentate per vincere, ma per perdere, quindi le vincite del tuo concorrente sono prepianificate</li> <li>presentare delle offerte, ma essere a turno l’offerente più basso</li> </ul>]]></text>					
+			</popText>
+		</flipCard>		
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img3.png"><![CDATA[Concorrenti che si accordano per non trattare con un fornitore specifico]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Boicottaggi di gruppo]]></buttonText>
+			<popText style="height:230px;">
+				<text><![CDATA[Per boicottaggi di gruppo si intendono degli accordi tra due o più concorrenti in cui viene deciso di non trattare con un determinato fornitore o cliente allo scopo di castigarlo, punirlo o arrecargli un altro tipo di danno per le sue azioni.]]></text>
+				<text><![CDATA[I boicottaggi di gruppo si verificano quando tu e il tuo concorrente vi accordate per non lavorare con un determinato cliente per punirlo per aver scelto un altro concorrente per un grande progetto precedente.]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img4.png"><![CDATA[Concorrenti che si accordano per dividere i clienti]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Allocazione del mercato]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Per allocazione del mercato si intende un accordo tra due o più concorrenti per dividersi i clienti o i mercati.]]></text>			
+				<text><![CDATA[L’allocazione del mercato si può verificare se tu e il tuo concorrente vi accordate per lavorare con clienti specifici, ad esempio:<ul><li>“Io prendo il cliente A, tu prendi il cliente B”</li><li>“Io prendo i clienti al nord, tu prendi i clienti al sud”</li></ul>]]></text>			
+			</popText>
+		</flipCard>	
+		<flipCard style="width:187px;height: 362px;">
+			<buttonImg path="content/images/ltr/module6/m06s03/img5.png"><![CDATA[Due persone che stringono un accordo]]></buttonImg>
+			<buttonText style="height:90px;width:167px;"><![CDATA[Accordi]]></buttonText>			
+			<popText style="height:230px;">
+				<text><![CDATA[Le violazioni dell’antitrust o della legge sulla concorrenza necessitano di un “accordo”, ma cosa significa?]]></text>			
+				<text><![CDATA[Per infrangere la legge, un accordo non deve essere messo per iscritto. Può trattarsi di un accordo verbale. Infatti, affinché sia classificato come accordo è sufficiente che vi sia una pratica o uno schema di comportamento condiviso.]]></text>			
+			</popText>
+		</flipCard>			
+	</flipCardContent>	
+</contents>

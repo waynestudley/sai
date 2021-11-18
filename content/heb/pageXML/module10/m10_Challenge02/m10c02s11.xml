@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c02s11">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;left: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[חנה מרגישה נורא מהמצב של שלומית. היא חושבת לערב אנשים אחרים כדי לגייס עזרה. כיצד חנה יכולה לעזור לחברתה לעבודה?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module10/m10c02/m10c02s11/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText style="padding-bottom:10px;">
+		<text><![CDATA[בחר אפשרות אחת ולאחר מכן בחר 'אישור'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי לברר מה קרה.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<optionContent>
+		<option answer="0" feedbackId="1"><![CDATA[להפתיע את שלומית על-ידי פתיחת אתר לגיוס המונים באינטרנט, שבו היא תתעד את ההחלמה של שלומית ואת המאבקים הכספיים שלה, כדי לגייס תרומות שיעזרו לשלם את ההוצאות הרפואיות.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[להשתמש בבלוג הנדל"ן שלה כדי לנסות לגייס תרומות מאנשים נוספים, פרט למאמצי הגיוס של בני משפחתה.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[לבקש משלומית אישור לפני שהיא פונה למישהו או כותבת ברשתות חברתיות כלשהן על התאונה ועל מאמצי ההחלמה של שלומית.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[אישור]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[חנה יוצרת אתר לגיוס כספים עבור שלומית, ומציינת בו מידע בנוגע לפציעות של שלומית ולפרוגנוזה הנוכחית שלה.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[באתר האינטרנט ובבלוג של חנה יש תנועה רבה של מבקרים, לכן היא חושבת שזו דרך מצוינת להפיץ את מצבה של שלומית ואת בקשתה לתרומות לאנשים רבים יותר. היא מחליטה להוסיף מידע על התאונה של שלומית ועל המאמצים של משפחתה לגייס כספים באתר האינטרנט ובבלוג שלה העוסקים בנדל"ן.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="height:220px;" fcStyle="top:-190px;">
+			<text style="padding-top:25px;"><![CDATA[חנה מבקשת אישור משלומית לכתוב על התאונה ולפרסם את הסיפור בבלוג שלה כדי לגייס תרומות לטיפול הרפואי של שלומית.]]></text>
+			<text><![CDATA[שלומית מסכימה, אך היא מבקשת שהתרומות יועברו לקרן שמיועדת למוסד הרפואי.]]></text>
+			<text><![CDATA[כאשר חנה מבקשת משלומית אישור לגבי מה היא יכולה לשתף וכיצד היא תשתמש בפרטים האישיים, חנה מבטיחה שהיא לא מנצלת לרעה את הפרטים האישיים של שלומית ומכבדת כראוי את פרטיותה.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contents type="revealCallOut2" className="m04s04">
+	<transcript>
+		<text path="audio/module4/m04s04" id="0" ><![CDATA[We all want our personal data to be safe.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[What’s at stake if we don’t keep personal data protected?]]></text>
+	</contentText>
+	<contentBackground >
+		<img path="content/images/ltr/module4/m04s04/contentBackground.jpg"  minwidth="769"><![CDATA[Office Background]]></img>
+	</contentBackground>	
+	 <contentBg style="padding: 20px 20px 20px 20px;" ></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;" >
+		<text><![CDATA[Click on each person to hear their perspective.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top: 168px;" >
+		<revealCallOut width="180px" height="184px" top="15px" left="20px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module4/m04s04/btn1.png" minwidth="769" ><![CDATA[]]></img>
+			<buttonText style="height: 50px;" ><![CDATA[Johnson Controls Employee]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="90px" style="height: 80px;top: -15px;">
+				<text><![CDATA[Our customers trust us to keep their personal data secure. A security breach could damage our reputation and undermine our customers’ trust.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="214px" ticktop="5px" tickleft="3px" >			
+			<img path="content/images/ltr/module4/m04s04/btn2.png" minwidth="769" ><![CDATA[Customer]]></img>
+			<buttonText style="height: 50px;" ><![CDATA[Customer]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="400px" style="height: 80px;top: -15px;">
+				<text><![CDATA[I don’t need any more marketing calls or spam emails in my life. If I give a company my contact information, I expect them to<br /> keep it secure and not let it fall into the wrong hands or use it for anything other than what I signed up for.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="409px" ticktop="5px" tickleft="3px" >
+			<img path="content/images/ltr/module4/m04s04/btn3.png" minwidth="769" ><![CDATA[Johnson Controls Manager]]></img>
+			<buttonText style="height: 50px;" ><![CDATA[Johnson Controls Manager]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="760px" style="height: 80px;top: -15px;">
+				<text><![CDATA[I’m actively involved in political organizations, but I don’t want my beliefs to influence my team at work or my relationship with customers. That information should be kept private.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="603px" ticktop="5px" tickleft="3px" >
+			<img path="content/images/ltr/module4/m04s04/btn4.png" minwidth="769" ><![CDATA[Johnson Controls Employee]]></img>
+			<buttonText style="height: 50px;" ><![CDATA[Johnson Controls Employee]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="760px" style="height: 80px;top: -15px;">
+				<text><![CDATA[I keep my medical issues private and don’t want them shared with other employees who don’t need to know.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="180px" height="184px" top="15px" left="798px" ticktop="5px" tickleft="3px" >
+			<img path="content/images/ltr/module4/m04s04/btn5.png" minwidth="769" ><![CDATA[Contractor]]></img>
+			<buttonText style="height: 50px;" ><![CDATA[Contractor]]></buttonText>
+			<popupArrow style=""/>
+			<popText arrowleft="760px" style="height: 80px;top: -15px;">
+				<text><![CDATA[A couple of years ago, someone stole my bank account information. It was a huge, expensive hassle. I understand that the companies I do business with need certain financial information about my business, but I expect them to keep it safe and private.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m04s11">
+	<transcript>
+		<text path="audio/module4/m04s11" id="0"><![CDATA[Poďme sa pozrieť na niektoré každodenné situácie. Vystavujú tieto osoby osobné údaje riziku?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Ktoré z nasledujúcich prípadov by mohli predstavovať riziko pre ochranu osobných údajov?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module4/m04s11/contentBackground.jpg" minwidth="769"><![CDATA[Rušná kancelária, zamestnanec pracujúci na počítači]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Vyberte všetky scenáre, o ktorých si myslíte, že ohrozujú osobné údaje.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Správnych môže byť viac odpovedí.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Pripojenie sa k verejnej sieti Wi-Fi]]></option>	
+		<option><![CDATA[Používanie rovnakého hesla na dvoch miestach]]></option>	
+		<option><![CDATA[Uverejnenie obrázku zo stretnutia tímu s pracovnou tabuľou v pozadí na sociálnej sieti]]></option>	
+		<option><![CDATA[Diskusia o finančných informáciách s klientom po telefóne na verejnosti]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ODOSLAŤ]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Správne.]]></text>
+			<text><![CDATA[Všetky tieto príklady predstavujú riziko pre ochranu vašich osobných údajov.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Nesprávne.]]></text>
+			<text><![CDATA[Všetky tieto príklady predstavujú riziko pre ochranu vašich osobných údajov.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

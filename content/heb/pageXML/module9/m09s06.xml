@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="" className="m09s06" maxAttempt="2">
+	<transcript>
+		<text path="audio/module9/m09s06" id="0"><![CDATA[בדוק אם אתה יכול לזהות מה הולם ומה לא. גרור כל פריט לתיבה 'מתאים' או 'לא מתאים', ולאחר מכן לחץ על 'שלח'.]]></text>
+	</transcript>
+	<contentText>
+		<text style="width:588px"><![CDATA[קרא את המצבים הבאים והחלט אם יהיה זה מתאים או לא לקבל מודיעין תחרותי בנסיבות הרלוונטיות.]]></text>
+	</contentText>
+	<iconText>
+		<text><![CDATA[]]></text>
+	</iconText>
+	 <contentBackground>		
+		<img path="content/images/rtl/module9/m09s06/contentBackground.jpg" minwidth="769"><![CDATA[עובדים שעובדים עם מסמכי החברה]]></img>
+	</contentBackground>
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 588px;"></pageTitle>
+	<instructionText style="width: 588px;">
+		<text><![CDATA[גרור כל פריט אל אחת משתי התיבות ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+		<text><![CDATA[לחץ על לחצן 'נסה שוב' כדי לנסות שוב.]]></text>
+		<text><![CDATA[לחץ על לחצן 'הצג תשובה'.]]></text>
+		
+	</instructionText>
+ 	<optionContent>
+		<lable style="position: absolute;right:0;background-color: #ffffff;width: 291px; padding: 0px 10px; text-align: center; font-size: 14px;"><![CDATA[מצבים]]></lable> 	
+		<option>			
+			<option height="68px" right="0" top="21px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[מתחרה פרסם הצעות עבודה למומחיות שמעידה על שינוי באסטרטגיה שלו]]></option>
+		</option>
+		<option>			
+			<option height="68px" right="0" top="99px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[אתה מקבל תסריט של נאום של מנכ"ל החברה המתחרה שדיבר בכנס מקצועי בשנה שעברה ושיתף פרטים על השיפורים האחרונים בייצור.]]></option>
+		</option>
+		<option>			
+			<option height="68px" right="0" top="177px" width="287px" padding="2px 10px" fontSize="14px" dropId="0"><![CDATA[אתה חוקר את השרטוטים של המוצר בבקשת הפטנט האחרונה של המתחרה]]></option>
+		</option>
+		<option>			
+			<option height="68px" right="0" top="255px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[עמית לשעבר עובד כעת עבור מתחרה ומעביר לך מידע על החוזים האחרונים של החברה המתחרה ]]></option>
+		</option>
+		<option>			
+			<option height="68px" right="0" top="334px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[קבלן שעובד גם הוא עבור המתחרה שלך מציע להציג לך כמה שרטוטים של המוצר שיש לו בטלפון]]></option>
+		</option>
+		<option>			
+			<option height="68px" right="0" top="413px" width="287px" padding="2px 10px" fontSize="14px" dropId="1"><![CDATA[עובד חדש עבד בעבר עבור חברה מתחרה, לכן אתה מבקש ממנו פרטי מחירים על שירות חדש של חברה זו]]></option>
+		</option>
+	</optionContent>
+	
+	<dropContainer style="" leftGap="0" topGap="149" bottomGap="37">
+		<dropArea maxDrop="3" style="width:312px;right: 331px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+		<dropArea maxDrop="3" style="width:312px;right: 648px;top: 35px; height:232px"><![CDATA[ ]]></dropArea>
+	</dropContainer>
+
+ 	<labelText style="">		
+		<text style="width:301px;height:25px;right:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[מתאים]]></text>
+		<text style="width:301px;height:25px;right:0;top:0px;font-weight:bold;font-size:14px;background-color:#D5D537;padding: 4px 0 4px 0;color:#333740&#xD;&#xA;"><![CDATA[לא מתאים]]></text>
+		<text style="width:301px;right: 277px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[גרור לכאן]]></text>
+		<text style="width:301px;right: 277px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[גרור לכאן]]></text>
+		<text style="width:301px;right: 277px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[גרור לכאן]]></text>
+		<text style="width:301px;right: 593px;top: 160px; height:72px;background-color:#DFE0DE;"><![CDATA[גרור לכאן]]></text>
+		<text style="width:301px;right: 593px;top: 226px; height:72px;background-color:#DFE0DE;"><![CDATA[גרור לכאן]]></text>
+		<text style="width:301px;right: 593px;top: 292px; height:72px;background-color:#DFE0DE;"><![CDATA[גרור לכאן]]></text>
+	</labelText>
+	
+	<buttonText>		
+		<text style="position:absolute;top: 428px;left: 58px;z-index: 10;"><![CDATA[שלח]]></text>
+		<text style="position:absolute;top: 428px;left: 58px;z-index: 10;"><![CDATA[נסה שוב]]></text>	
+		<text style="position:absolute;top: 428px;left: 58px;z-index: 10; width: 125px;"><![CDATA[הצג תשובה]]></text>
+	</buttonText>
+		
+	<feedback popUpWithClose="true">
+		<correct> 
+			<text style="font-size:17px;"><![CDATA[נכון.]]></text>
+			<text><![CDATA[מתאים לקבל מודיעין תחרותי כאשר מדובר במקורות שזמינים לכלל הציבור.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[לעולם אין להציב אף אחד בעמדה שבה עליו להפר את חובת הסודיות לחברה אחרת.]]></text>
+			
+		</correct>
+		<incorrect> 
+			<text style="font-size:17px;"><![CDATA[מצטער, זה לא נכון.]]></text>
+			<text><![CDATA[מתאים לקבל מודיעין תחרותי כאשר מדובר במקורות שזמינים לכלל הציבור.]]></text>
+			<text style="margin-bottom:0;"><![CDATA[לעולם אין להציב אף אחד בעמדה שבה עליו להפר את חובת הסודיות לחברה אחרת.]]></text>
+		</incorrect>
+		
+	</feedback>
+</contents>

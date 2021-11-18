@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m09s02">
+	<transcript>
+		<text path="audio/module9/m09s02" id="0"><![CDATA[Im Folgenden stellen wir Ihnen einige Personen vor, die ihrem Unternehmen eigentlich helfen wollten, es aber in Wirklichkeit in ernsthafte Gefahr gebracht haben. Klicken Sie jede Person an, um mehr zu erfahren.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px;font-size:15px;"><![CDATA[Ihnen ist klar, warum Wettbewerbsinformationen wertvoll sein könnten! Doch ganz gleich, wie nützlich sie sein mögen: Wir sollten niemals Wettbewerbsinformationen akzeptieren, die durch illegale oder unethische Handlungen (siehe unten) erlangt wurden.]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module9/m09s02/contentBackground.jpg" minwidth="769" />
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[Wählen Sie die einzelnen Personen aus.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>	
+	<revealCallOutContent>
+		<revealCallOut width="230px" height="190px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn1.png" minwidth="769"><![CDATA[Mitarbeiter]]></img>
+			<buttonText style="height: 58px;font-size: 14px;line-height: 18px;"><![CDATA[Falsche Identität angeben]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 75px;top: 0px;">
+				<text><![CDATA[Ich habe einen Wettbewerber angerufen und mich als Kunde ausgegeben. Ich dachte, wenn ich etwas über ihre Preisgestaltung erfahre, könnte mir das im Wettbewerb helfen.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="263px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module9/m09s02/btn2.png" minwidth="769"><![CDATA[Mitarbeiter]]></img>
+			<buttonText style="height: 58px;font-size: 14px;line-height: 18px;"><![CDATA[Abfall durchsuchen]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 75px;top: 0px;">
+				<text><![CDATA[Eines Abends nach der Arbeit habe ich die Abfallbehälter vor dem Bürogebäude eines Wettbewerbers durchsucht. Gewiss würde ich darin Informationen zu neuen Produkten finden.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="505px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn3.png" minwidth="769"><![CDATA[Mitarbeiterin]]></img>
+			<buttonText style="height: 58px;font-size: 14px;line-height: 18px;"><![CDATA[Erhalt von Insiderinformationen gegen eine Zahlung]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 75px;top: 0px;">
+				<text><![CDATA[Ich habe einen ehemaligen Mitarbeiter dafür bezahlt, dass er mir die Passwörter für das Netzwerk eines Unternehmens nennt. Ich bin dort auf sehr interessante Informationen gestoßen und niemand hat es bemerkt.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="230px" height="190px" top="15px" left="749px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module9/m09s02/btn4.png" minwidth="769"><![CDATA[Mitarbeiterin]]></img>
+			<buttonText style="height: 58px;font-size: 14px;line-height: 18px;"><![CDATA[Absprache mit einem unethisch handelnden Kunden]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 120px;top: 0px;">
+				<text><![CDATA[Ich traf mich mit einem Kunden, bevor wir ein Angebot für ein bevorstehendes Projekt einreichten. Während der Besprechung verließ er kurz den Raum und meinte, ich solle einen Blick in seine Mappe werfen, die auf seinem Schreibtisch lag. Als ich sie öffnete, fand ich dort das Angebot eines unserer Konkurrenten, mit Angaben zu dessen Preisen. Ich nutzte die Informationen, um dem Kunden ein besseres Angebot zu unterbreiten. ]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

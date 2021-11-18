@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:18px;"><![CDATA[Zákrok u Jianovej ženy bol úspešný, ale lekári ju nechajú v nemocnici cez noc na pozorovanie. Nasledujúci deň, pretože oddelenie IT do konca pracovného dňa nezohnalo pre neho náhradný prenosný počítač, používa Jian svoj súkromný prenosný počítač a pracuje z izby svojej ženy. Na svojom prenosnom počítači si dokáže pozerať informácie v hlavnom súbore dodávateľa.]]></text>
+		<text><![CDATA[Aký je najlepší spôsob, ako dostať tieto zmeny k Holly?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[Nemocničná izba Jianovej ženy]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Zvoľte jednu možnosť a potom vyberte tlačidlo OK.]]></text>
+		<text><![CDATA[Kliknutím na tlačidlo Ďalej zistíte, čo sa stalo.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačidlo Ďalej.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Jian sa prihlási cez verejnú sieť Wi-Fi a e-mailom zašle aktualizovaný súbor z prenosného disku pomocou svojho súkromného e-mailového účtu.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian si uvedomuje, že posielanie aktualizovaného hlavného súboru Holly za účelom jeho nahratia môže spôsobiť problémy, pretože ostatní mohli v jeho neprítomnosti pozmeniť pôvodný hlavný súbor a jeho aktualizácie ich môžu prepísať. Takže počas obeda v nemocničnom bufete jej zavolá a prechádzajú zmenami, zatiaľ čo ich ona zadáva do hlavného súboru v systéme spoločnosti.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian požiada Holly, aby od neho vyzdvihla šifrovaný prenosný disk v nemocnici.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:280px;" fcStyle="top: -223px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[Jian pošle informácie Holly, ale pri preberaní súboru vznikne kolidujúca kópia s aktuálnou databázou dodávateľov a tím musí tráviť mnoho hodín aktualizáciou a potvrdzovaním informácií.]]></text>
+			<text style="font-size:15px;"><![CDATA[Jianovej spoločnosti sú zasielané fiktívne faktúry, ktoré sa tvária, že sú od legitímnych dodávateľov, ale obsahujú informácie o bankových účtoch osôb, ktoré sa pokúšajú spáchať podvod na spoločnosti. O niekoľko mesiacov schému odhalia a výsledky vyšetrovania ukazujú na porušenie bezpečnosti v databáze dodávateľov približne v rovnakom čase, ako bol Jian v nemocnici. Jian má čo vysvetľovať!]]></text>
+			<text style="font-size:15px;"><![CDATA[Najbezpečnejšia možnosť by bola, keby Jian požiadala Holly, aby vyzdvihla šifrovaný prenosný disk. Hoci to nezabráni tomu, aby tím strávil hodiny kombináciou Jianových úprav s tými v databáze dodávateľov, zabezpečí sa tým ochrana citlivých údajov.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:220px;" fcStyle="top: -223px;">
+			<text style="padding-top:25px;"><![CDATA[Holly dokáže aktualizovať hlavný súbor dodávateľa a urobí len zopár chýb, na ktoré sa neskôr príde a odstránia sa.]]></text>
+			<text><![CDATA[Avšak ostatní ľudia, ktorí jedia v nemocničnom bufete, môžu počuť každé Jianovo slovo, čím dochádza k zbytočnému odhaľovaniu informácií dodávateľa.]]></text>
+			<text><![CDATA[Najbezpečnejšia možnosť by bola, keby Jian požiadala Holly, aby vyzdvihla šifrovaný prenosný disk. Tým by sa zabezpečila ochrana citlivých údajov.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:250px;" fcStyle="top: -223px;">
+			<text style="padding-top:25px;"><![CDATA[Holly zoberie disk typu Flash, ale zatiaľ, čo Jian pracoval na diaľku na svojej kópii, jeho kolegovia upravili originál. Keď Holly nahrá Jianovu verziu, zmeny jeho kolegov sa prepíšu. Tím musí stráviť mnoho hodín aktualizáciou a potvrdzovaním informácií.]]></text>
+			<text><![CDATA[Jian je pokarhaný za prevzatie hlavného súboru, ale aspoň sú informácie v bezpečí. Holly by nemala nahrať revidovaný súbor bez toho, aby si u iných autorov overila, či neurobili nejaké aktualizácie, ktoré by to mohlo ovplyvniť.]]></text>
+			<text><![CDATA[Toto je najbezpečnejší výber činnosti, pretože zabezpečuje ochranu citlivých údajov.]]></text>
+		</correct>
+	</feedback>
+</contents>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m08s10" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module8/m08s10"><![CDATA[Pojďme tato pravidla uplatnit v reálném životě. Jak byste si poradili v následujících situacích? Každou ze situací vlevo spojte se správným řešením vpravo a klikněte na tlačítko Odeslat.]]></text>
+	</transcript>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Ukažte, že víte, jak v každé z těchto situací postupovat. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module8/m08s10/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="line-height:25px;"></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:892px;top: -15px;"><![CDATA[ODESLAT]]></text>
+	</buttonText>
+	<instructionText style = "line-height:20px;width:100%;height:40px;">
+		<text><![CDATA[Vyberte jednu z položek v prvním sloupci a poté ji přetažením šipek spojte s odpovídajícím řešením v druhém sloupci. Jakmile budete hotovi, klikněte na tlačítko Odeslat.]]></text>
+		<text><![CDATA[Pokračujte kliknutím na tlačítko Další.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="990" lineHolderH="250">
+		<leftSideTabs>
+			<heder><![CDATA[SITUACE]]></heder>
+			
+			<tab id="1" style="height:100px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 100px;">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img01.png"><![CDATA[Osoba pracuje na součástech]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Pracujete s potenciálními dodavateli, kteří se ucházejí o zakázku na díly pro nový produkt. ]]></text>				
+			</tab>			
+			<tab id="2" style="height:100px" dragPosition="left:430px; top:119px;z-index:5;height:100px">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img02.png"><![CDATA[Osoba volící ikonu k otevření e-mailu]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Pracujete na dokumentu, který potřebujete dokončit, a proto uvažujete o tom, že jej sami sobě pošlete e-mailem a budete pokračovat doma.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[ŘEŠENÍ]]></heder>
+			<tab id="2" style="height:100px" dropPosition="left: 528px;top: 8px;height: 100px;">
+				<text style=""><![CDATA[Najděte jiný způsob, jak k dokumentu získat přístup, protože e-maily se mohou ztratit, mohou být nesprávně přesměrovány nebo mohou být napadeny hackery.]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img04.png"><![CDATA[Ikona složky]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:100px" dropPosition="left: 528px;top: 119px;height: 100px;">
+				<text><![CDATA[Vyžadujte, aby před poskytnutím nových informací o produktech podepsali dohodu o mlčenlivosti, a informace označte jako důvěrné. ]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img03.png"><![CDATA[Osoba podepisující dohodu o mlčenlivosti]]></rightIcon>
+			</tab>	
+		</rightSideTabs>		
+		<feedback type="normal">
+			<correct id="1" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[Hotovo – všechny položky jste přiřadili správně. ]]></text>
+			</correct>			
+			<incorrect id="2" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[To není správně.]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s03">
+	<transcript>
+		<text path="audio/module2/m02s03" id="0"><![CDATA[In che misura ti è famigliare la nostra politica aziendale sui regali e divertimenti? Seleziona Vero o Falso per ciascuna ipotesi, quindi fai clic su Inoltra.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module2/m02s03/contentBackground.jpg" minwidth="769"><![CDATA[Dipendenti]]></img>
+	</contentBackground>
+	<contentBg style="width: 720px;right: 10px;top: 30px;padding: 0;right:282px;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Queste affermazioni sui regali e divertimenti sono vere o false?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Seleziona Vero o Falso per ciascuna ipotesi, quindi fai clic su Inoltra.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img01.png"><![CDATA[Persona che riceve un regalo con scena di intrattenimento sullo sfondo]]></img>
+			<text style="width: 390px;"><![CDATA[Le politiche di Johnson Controls coprono qualsiasi situazione correlata a regali e divertimenti: Non ci sono ambiguità]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img02.png"><![CDATA[Dipendente pensieroso]]></img>
+			<text style="width: 390px;"><![CDATA[Nel momento in cui stai ricevendo una forma di intrattenimento o un regalo, dovresti sempre chiederti: “Si aspettano qualcosa in cambio da me?” ]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img03.png"><![CDATA[Dipendente pensieroso]]></img>	
+			<text style="width: 390px;"><![CDATA[Se la persona alla quale stai offrendo un regalo o divertimenti potrebbe pensare che ti aspetti qualcosa in cambio, dovresti evitare di procedere]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="150px" height="70px" path="content/images/ltr/module2/m02s03/img04.png"><![CDATA[Dipendente pensieroso]]></img>	
+			<text style="width:390px;"><![CDATA[È meglio non offrire o accettare regali e divertimenti: È semplicemente troppo rischioso]]></text>	
+		</option>
+		
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[Vero]]></text>
+		<text><![CDATA[Falso]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[Risposta corretta.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Offrire e ricevere divertimenti e regali è accettabile nelle circostanze giuste, richiede però buonsenso e la conoscenza delle direttive di Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Le nostre politiche non possono prevedere qualsiasi possibile situazione, pertanto dovrai considerare attentamente le circostanze, usare il buonsenso o, in caso di incertezza, consultarti con qualcuno prima di procedere.]]></text>			
+		</correct>
+		<incorrect style="top: 6px;width: 220px;height: 341px;right: -256px;">
+			<text style="padding-top: 20px;font-size: 20px;"><![CDATA[Risposta errata.]]></text>	
+			<text style="font-size: 15px;"><![CDATA[Offrire e ricevere divertimenti e regali è accettabile nelle circostanze giuste, richiede però buonsenso e la conoscenza delle direttive di Johnson Controls.]]></text>			
+			<text style="font-size: 15px;"><![CDATA[Le nostre politiche non possono prevedere qualsiasi possibile situazione, pertanto dovrai considerare attentamente le circostanze, usare il buonsenso o, in caso di incertezza, consultarti con qualcuno prima di procedere.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

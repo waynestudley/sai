@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m03s02">
+	<transcript>
+		<text path="audio/module3/m03s02" id="0"><![CDATA[Savez-vous reconnaître les situations risquées ? Lisez ce scénario, sélectionnez D’accord ou Pas d’accord pour chaque option, puis cliquez sur Valider.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module3/m03s02/contentBackground.jpg" minwidth="769"><![CDATA[Couloir d’un bureau]]></img>
+	</contentBackground>
+	<contentBg style="width: 1000px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Un consultant avec lequel vous travaillez au Moyen-Orient vous affirme que les droits d’importation d’une commande sont très élevés mais qu’il a trouvé « une solution moins chère » pour faire passer la marchandise. Avec lesquelles de ces affirmations êtes-vous d’accord ?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Pour chaque proposition, sélectionnez « D’accord » ou « Pas d’accord », puis cliquez sur Valider. ]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent style="width:720px;">
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img01.png"><![CDATA[Quais de chargement]]></img>
+			<text style="width: 450px;"><![CDATA[La « solution moins chère » pourrait consister à verser un pot-de-vin à quelqu’un ]]></text>			
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img02.png"><![CDATA[Quais de chargement]]></img>
+			<text style="width: 450px;"><![CDATA[Vous devez immédiatement faire part de vos soupçons à votre responsable ou à la direction des affaires juridiques   ]]></text>
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img03.png"><![CDATA[Quais de chargement]]></img>	
+			<text style="width: 450px;"><![CDATA[Vous devez attendre de voir ce qui va se passer, puis en discuter avec votre responsable]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img04.png"><![CDATA[Quais de chargement]]></img>	
+			<text style="width:450px;"><![CDATA[Si le consultant a versé un pot-de-vin pour le compte de notre entreprise, c’est lui qui sera tenu responsable, et pas Johnson Controls]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module3/m03s02/img05.png"><![CDATA[Quais de chargement]]></img>	
+			<text style="width:450px;"><![CDATA[Vous devez remercier le consultant de vous avoir fait gagner de l’argent et lui confier davantage de travail à l’avenir]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[D’accord]]></text>
+		<text><![CDATA[Pas d’accord]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: 40px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[C’est exact.]]></text>			
+			<text style="font-size: 13px;"><![CDATA[La « solution moins chère » pourrait être un pot-de-vin. La corruption peut parfois être très subtile. Dans cette situation, vous devez immédiatement signaler vos soupçons à votre responsable et à un membre de la direction des affaires juridiques ou de l’équipe chargée de la conformité, ou signaler vos doutes à la ligne d’assistance Intégrité. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Si un tiers verse un pot-de-vin au nom de Johnson Controls, nous sommes responsables.]]></text>			
+		</correct>
+		<incorrect style="top: 40px;width: 235px;height: auto;padding-top: 20px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[C’est faux.]]></text>	
+			<text style="font-size: 13px;"><![CDATA[La « solution moins chère » pourrait être un pot-de-vin. La corruption peut parfois être très subtile. Dans cette situation, vous devez immédiatement signaler vos soupçons à votre responsable et à un membre de la direction des affaires juridiques ou de l’équipe chargée de la conformité, ou signaler vos doutes à la ligne d’assistance Intégrité. ]]></text>			
+			<text style="font-size: 13px;"><![CDATA[Si un tiers verse un pot-de-vin au nom de Johnson Controls, nous sommes responsables.]]></text>				
+		</incorrect>		
+	</feedback>
+	
+</contents>

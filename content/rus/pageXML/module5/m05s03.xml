@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="graphicReveal1" className="m05s03">
+	<transcript>
+		<text path="audio/module5/m05s03" id="0"><![CDATA[Марк замечает, что в почтовом ящике появилось новое электронное письмо с пометкой «Срочно». Чтобы просмотреть электронное письмо, щелкните его заголовок.]]></text>		
+	</transcript>
+	<pageTitle style="width: 484px;line-height:25px;"></pageTitle>
+	<contentBg style="width: 591px;right: 30px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<contentText>
+		<text style="line-height:18px;"><![CDATA[Пришло новое электронное письмо с пометкой «Срочно».]]></text>	
+		
+	</contentText>	
+	 <contentBackground>		
+		<img path="content/images/ltr/module5/m05s03/contentBackground.jpg" minwidth="769"><![CDATA[Новое электронное письмо]]></img>
+		<img path="content/images/ltr/module5/m05s03/img_01.png" style="top:10px;left:0px;width:590px;" minwidth="769"><![CDATA[Заголовок электронного письма]]></img>
+	</contentBackground>
+	
+	<revelCollOut style="width: 584px;left: 2px;top: 206px;font-size: 15px;line-height:17px;">		
+		<img path="" minwidth="769"><![CDATA[Электронное письмо]]></img>	
+		<text style="margin-bottom:3px"><![CDATA[Отправитель: arichter_8888@gmail.com]]></text> 				
+		<text style="margin-bottom:10px"><![CDATA[Тема: Нужна ваша помощь]]></text> 	
+		<text style=""><![CDATA[Здравствуйте!]]></text> 				
+		<text style=""><![CDATA[Я живу в Марселе (Франция) и являюсь клиентом компании Johnson Controls. У меня возникли трудности в ходе встраивания одного из ваших устройств пожаротушения в имеющуюся систему.]]></text> 				
+		<text style=""><![CDATA[Я позвонил в службу поддержки вашей компании, и ее сотрудники порекомендовали мне запросить у вас технические чертежи и руководство по интеграции оборудования, которые должны помочь мне разрешить возникшую проблему.]]></text> 				
+		<text style=""><![CDATA[Пожалуйста, отправьте мне эти документы в ответном электронном письме как можно скорее.]]></text> 				
+		<text style="margin-bottom:0px"><![CDATA[Спасибо! С наилучшими пожеланиями,]]></text> 		
+		<text style="margin-bottom:0px"><![CDATA[А. Рихтер]]></text> 		
+	</revelCollOut>
+	
+	<instructionText style="line-height:20px;">
+		<text><![CDATA[Щелкните заголовок электронного письма.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<RevealButton style="">
+		<buttonImg path=""><![CDATA[]]></buttonImg>
+		<buttonText style="background-color: transparent;color: #444850;top: 67px;font-size: 11px;left: 97px; width: 475px;"><![CDATA[<span style="padding-right: 32px;">arichter_8888@gmail.com</span><span>Нужна ваша помощь</span>]]></buttonText>		
+	</RevealButton>	
+	<tickCross left="145px" bottom="284px"></tickCross>
+</contents>

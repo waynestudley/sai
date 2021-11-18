@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s06">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+		<text path="" id="3"><![CDATA[]]></text>
+		
+	</transcript>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Die Operation von Jians Frau verläuft erfolgreich, aber die Ärzte behalten sie zur Beobachtung noch eine Nacht im Krankenhaus. Da die IT-Abteilung erst am Ende des Geschäftstages einen Ersatz-Laptop bereitstellen kann, nutzt Jian seinen privaten Laptop und arbeitet vom Zimmer seiner Frau aus. Mit seinem Laptop kann er die Informationen in der Lieferanten-Masterdatei anzeigen.]]></text>
+		<text style="font-size:15px;line-height:18px"><![CDATA[Wie sollte er Holly die Änderungen am besten mitteilen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s06/contentBackground.jpg" minwidth="769"><![CDATA[Krankenhauszimmer von Jians Frau]]></img>
+	</contentBackground>
+	<contentBg style="width: 655px;right: 20px;top: 20px;padding: 0;" wtbgStyle="padding: 15px 15px 2px;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="padding-bottom:8px;">
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="line-height:18px;font-size:15px;">
+		<option answer="0" feedbackId="1"><![CDATA[Jian meldet sich beim öffentlichen WLAN an und versendet die aktualisierte Datei von seinem USB-Stick aus über sein privates E-Mail-Konto.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Jian erkennt, dass Probleme auftreten könnten, wenn er Holly seine aktualisierte Masterdatei schickt, damit sie diese hochlädt. Seine Änderungen würden alle Bearbeitungen der Original-Masterdatei überschreiben, die andere möglicherweise in seiner Abwesenheit vorgenommen haben. Also ruft er Holly während seinem Mittagessen in der Krankenhaus-Cafeteria an und gibt die Änderungen durch, während Holly sie zeitgleich in die Masterdatei im Unternehmenssystem eingibt.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Jian bittet Holly, den verschlüsselten USB-Stick bei ihm im Krankenhaus abzuholen.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="height:280px;" fcStyle="top: -220px;">
+			<text style="padding-top:12px;font-size:15px;"><![CDATA[Jian schickt die Informationen an Holly, doch durch das Herunterladen der Datei entsteht eine in Konflikt stehende Kopie der aktuellen Lieferantendatenbank und das Team muss viele Stunden damit zubringen, Informationen zu aktualisieren und bestätigen.]]></text>
+			<text style="font-size:15px;"><![CDATA[Jians Unternehmen erhält falsche Rechnungen, die dem Anschein nach von vertrauenswürdigen Lieferanten stammen, jedoch Bankverbindungen von Betrügern enthalten. Monate später wird der Betrug aufgedeckt, und die Untersuchungsergebnisse deuten auf einen Sicherheitsverstoß bezüglich der Lieferantendatenbank hin, der sich in etwa zum Zeitpunkt von Jians Krankenhausbesuch ereignete. Jian ist ein paar Erklärungen schuldig!]]></text>
+			<text style="font-size:15px;"><![CDATA[Am sichersten wäre es gewesen, wenn Jian Holly gebeten hätte, den verschlüsselten USB-Stick abzuholen. Das Team hätte zwar trotzdem Stunden damit zubringen müssen, Jians Änderungen in die Lieferantendatenbank einzuarbeiten, aber der Schutz der sensiblen Daten wäre gewährleistet gewesen.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="font-size:15px;height:220px;" fcStyle="top: -206px;">
+			<text style="padding-top:25px;"><![CDATA[Holly kann die Lieferanten-Masterdatei aktualisieren und macht nur ein paar Fehler, die später gefunden und korrigiert werden.]]></text>
+			<text><![CDATA[Jian gibt jedoch unnötig Lieferanteninformationen preis, da die Leute, die in der Cafeteria zu Mittag essen, jedes Wort mithören können.]]></text>
+			<text><![CDATA[Am sichersten wäre es gewesen, wenn Jian Holly gebeten hätte, den verschlüsselten USB-Stick abzuholen. Dies hätte den Schutz der sensiblen Daten gewährleistet.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="font-size:15px;height:280px;" fcStyle="top: -220px;">
+			<text style="padding-top:25px;"><![CDATA[Holly holt den USB-Stick ab, doch während Jian remote an seiner Kopie arbeitete, haben seine Kollegen das Original bearbeitet. Als Holly Jians Version hochlädt, werden alle Änderungen seiner Kollegen überschrieben. Das Team muss viele Stunden damit zubringen, Informationen zu aktualisieren und bestätigen.]]></text>
+			<text><![CDATA[Jian erhält eine Verwarnung, weil er die Masterdatei heruntergeladen hat, aber zumindest sind die Daten sicher. Vor dem Hochladen der geänderten Datei hätte Holly überprüfen müssen, ob andere Autoren Änderungen vorgenommen haben, die betroffen sein könnten.]]></text>
+			<text><![CDATA[Dies ist die sicherste Vorgehensweise, da so der Schutz der sensiblen Daten gewährleistet ist.]]></text>
+		</correct>
+	</feedback>
+</contents>

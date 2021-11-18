@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m05s12" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module5/m05s12"><![CDATA[Tocca a te dimostrare che sai come applicare le norme relative alla conformità commerciale. Collega ogni situazione a sinistra alla soluzione corretta a destra e fai clic su Inoltra.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Dimostra che sai che cosa fare in ognuna di queste situazioni. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module5/m05s12/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 931px;right: 45px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style="margin-bottom: 5px;"></pageTitle>	
+	<buttonText>		
+		<text style="position: relative;left:836px;top:0px;"><![CDATA[INOLTRA]]></text>
+	</buttonText>
+	<instructionText style="height:40px;margin-top: 5px;">
+		<text><![CDATA[Seleziona un elemento nella prima colonna, poi trascina le frecce per collegarlo alla soluzione corrispondente nella seconda colonna. Quando sei pronto, fai clic su Inoltra.]]></text>
+		<text><![CDATA[Fai clic sui punti interrogativi per saperne di più.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="880" lineHolderH="295" boundingRectStyle="height: 320px;position: absolute;width: 120px;left: 553px;top: 5px;">
+		<leftSideTabs style="width: 580px;">
+			<heder><![CDATA[LA SITUAZIONE]]></heder>
+			
+			<tab id="1" style="height:60px" dragPosition="left: 553px;top: 8px;z-index: 5;height: 60px;">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img01.png"><![CDATA[Pechino]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Ti stai dirigendo a Pechino per lavoro. Un collega ti chiede di portare un campione di un prodotto a un contatto in loco.]]></text>				
+			</tab>			
+			<tab id="2" style="height:60px" dragPosition="left:553px; top:79px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img02.png"><![CDATA[Primo piano di un cittadino siriano]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Sei un cittadino britannico in visita ad alcuni clienti all’interno dell’Unione Europea. Incontri un distributore che è cittadino siriano e che ti chiede il campione di un prodotto.]]></text>
+			</tab>	
+			<tab id="3" style="height:60px" dragPosition="left:553px; top:150px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img03.png"><![CDATA[Rappresentante del cliente in Arabia Saudita]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Il rappresentante di un cliente in Arabia Saudita telefona per porre delle domande riguardanti il protocollo di prova e la tecnologia di progettazione di uno dei nostri prodotti.]]></text>
+			</tab>
+			<tab id="4" style="height:60px" dragPosition="left:553px; top:221px;z-index:5;height:60px">
+				<leftIcon style="height:60px" path="content/images/ltr/module5/m05s12/img04.png"><![CDATA[Team aziendale]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[Il tuo team collabora con un cliente globale utilizzando OneDrive. Il responsabile di progetto ti chiede di caricarvi le informazioni tecniche, dato che non gli è consentito inviare una copia cartacea nel paese del cliente.]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs style="width: 285px;left: 640px;">		
+			<heder><![CDATA[LA SOLUZIONE]]></heder>
+			<tab id="1,1" style="height:60px" dropPosition="left: 643px;top: 8px;height: 60px;">
+				<text style="font-size: 13px;"><![CDATA[Controlla se è consentito e se hai bisogno di un’autorizzazione prima di procedere]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img05.png"><![CDATA[Dipendente al telefono ]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 79px;height: 60px;">
+				<text><![CDATA[Rifiuta educatamente. ]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img06.png"><![CDATA[Primo piano di un uomo serio]]></rightIcon>
+			</tab>	
+			<tab id="3,3" style="height:60px" dropPosition="left: 643px;top: 150px;height: 60px;">
+				<text><![CDATA[Domanda di posticipare la conversazione.]]></text>
+				<rightIcon style="height:60px" path="content/images/ltr/module5/m05s12/img07.png"><![CDATA[Dipendente al telefono]]></rightIcon>
+			</tab>	
+			<tab id="2,4" style="height:60px" dropPosition="left: 643px;top: 221px;height: 60px;">
+				<text><![CDATA[Rifiutati di farlo.]]></text>
+				<rightIcon style="height:60px;" path="content/images/ltr/module5/m05s12/img08.png"><![CDATA[Dipendente al telefono]]></rightIcon>
+			</tab>	
+		</rightSideTabs>	
+		<feedback type="normal">
+			<correct id="1" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[Questo è tutto, li hai abbinati tutti correttamente.]]></text>
+			</correct>			
+			<incorrect id="2" style="padding: 10px;position: relative;width: 906px;top: -4px;margin:0;">
+				<text style=""><![CDATA[Risposta errata. Ora fai di nuovo clic su ciascuna soluzione per approfondire l'argomento.]]></text>
+			</incorrect>			
+		</feedback>			
+		<optfeedbacks type="normal">
+			<optfeedback id="1" style="top: 200px;left: 688px;width: 285px;">
+				<text style=""><![CDATA[Se consentito, in questa situazione sarebbe meglio inviare il campione in anticipo. Se il personale commerciale consente il trasporto a mano, quando entri in un paese o ne esci devi debitamente mostrare alla dogana ciò che trasporti.]]></text>
+			</optfeedback>			
+			<optfeedback id="1" style="top: 200px;left: 688px;width: 285px;">
+				<text style=""><![CDATA[Non puoi condividere il campione di un prodotto con qualcuno di un paese sanzionato come la Siria, quindi in questa situazione devi gentilmente rifiutarti.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top: 200px;left: 688px;width: 285px;">
+				<text style=""><![CDATA[Hai bisogno di maggiori dati prima di poter condividere tale informazione. Fai una doppia verifica con gli esperti aziendali in fatto di conformità commerciale per sapere se puoi condividerla con quella persona.]]></text>
+			</optfeedback>	
+			<optfeedback id="1" style="top: 200px;left: 688px;width: 285px;">
+				<text style=""><![CDATA[Dovresti declinare la richiesta. Se non ti è consentito esportare la versione fisica di un documento, le stesse restrizioni si applicano alla versione elettronica dello stesso.]]></text>
+			</optfeedback>	
+			
+		</optfeedbacks>		
+	</matchingActivity>
+</contents>

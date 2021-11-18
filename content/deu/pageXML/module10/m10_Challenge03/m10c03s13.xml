@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c03s13">
+	<transcript>
+		<text path="audio/module10/m10c03/m10c03s13" id="0"><![CDATA[Eine Kundin hat Carlos gebeten, zusätzliche Arbeiten zu verrichten. Wie sollte Carlos Ihrer Meinung nach reagieren? Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text path="audio/module10/m10_fd_1" id="1"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_1" id="2"><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text path="audio/module10/m10_fd_2" id="3"><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+		
+	</transcript>
+	<contentBg style="width: 655px;right: 20px;top: 30px;padding: 0;" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<contentText>
+		<text><![CDATA[Wie sollte Carlos vorgehen?]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c03/m10c03s13/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<instructionText>
+		<text><![CDATA[Wählen Sie eine Option aus und klicken Sie auf „OK“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um herauszufinden, was passiert ist.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<optionContent style="">
+		<option answer="0" feedbackId="1"><![CDATA[Er sollte zusagen, David zur Geheimhaltung verpflichten, mit ihm zusammen die Arbeiten durchführen und dann gehen.]]></option>
+		<option answer="1" feedbackId="2"><![CDATA[Er sollte David sagen, dass er die Arbeiten durchführen kann, wenn er möchte, er sich selbst aber nicht beteiligen wird.]]></option>
+		<option answer="2" feedbackId="3"><![CDATA[Er sollte dem Kunden höflich erklären, dass sie nicht zusagen können, da sie ansonsten Johnson Controls Aufträge wegnehmen würden.]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[OK]]></text>
+	</buttonText>
+	<feedback>
+		<incorrect id="1" transcriptId="1" style="" fcStyle="">
+			<text style="padding-top:12px;"><![CDATA[Carlos and David schließen die Arbeiten ab und gehen dann. Es ist kinderleicht! Außerdem sind immer ein paar Ersatzsensoren vorhanden, also wird Johnson Controls nichts davon mitbekommen.]]></text>
+		</incorrect>
+		<partial id="2" transcriptId="2" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[David nimmt die Schwarzarbeit an.]]></text>
+		</partial>
+		<correct id="3" transcriptId="3" style="" fcStyle="">
+			<text style="padding-top:25px;"><![CDATA[Carlos ruft seinen Vorgesetzten an, der das Vertriebsteam benachrichtigt, und es wird ein Kostenvoranschlag für die zusätzlichen Arbeiten erstellt. Der Auftrag geht so nicht an Carlos oder David persönlich, sondern an Johnson Controls.]]></text>
+		</correct>
+	</feedback>
+</contents>

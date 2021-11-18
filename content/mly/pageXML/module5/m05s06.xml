@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m05s06">
+	<transcript>
+		<text path="audio/module5/m05s06" id="0"><![CDATA[Adakah anda nampak tanda amaran di sini? Pilih mana-mana yang anda nampak dan kemudian, klik serah.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Apakah tanda amaran yang berkaitan dengan e-mel ini?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s06/contentBackground.jpg" minwidth="769"><![CDATA[Peti Masuk E-mel]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[Pilih semua tanda amaran dan kemudian, klik serah.]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Mungkin terdapat lebih daripada satu jawapan yang betul.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[Pengirim mendakwa sebagai pelanggan Johnson Controls]]></option>	
+		<option><![CDATA[Pelanggan menulis tentang perniagaan tetapi menggunakan akaun Gmail]]></option>	
+		<option><![CDATA[Pelanggan meminta maklumat yang mungkin dikawal tanpa memberikan maklumat diri mereka dengan lebih lanjut]]></option>	
+		<option><![CDATA[Pelanggan mengatakan dia berada di Perancis tetapi anda tidak boleh mengesahkannya daripada e-mel]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[Itu betul.]]></text>
+			<text><![CDATA[Pelanggan meminta maklumat teknikal yang mungkin dilarang daripada dieksport dan mereka sendiri tidak memberikan banyak maklumat tentang diri mereka.]]></text>
+			<text><![CDATA[Dan paling kurang, anda perlu mengetahui lebih lanjut tentang identiti dan lokasi mereka serta sebarang sekatan dagangan yang berkenaan sebelum memberikan apa-apa sokongan teknikal.]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[Maaf, itu tidak betul.]]></text>
+			<text><![CDATA[Pelanggan meminta maklumat teknikal yang mungkin dilarang daripada dieksport dan mereka sendiri tidak memberikan banyak maklumat tentang diri mereka.]]></text>
+			<text><![CDATA[Dan paling kurang, anda perlu mengetahui lebih lanjut tentang identiti dan lokasi mereka serta sebarang sekatan dagangan yang berkenaan sebelum memberikan apa-apa sokongan teknikal.]]></text>
+		</incorrect>
+	</feedback>
+</contents>

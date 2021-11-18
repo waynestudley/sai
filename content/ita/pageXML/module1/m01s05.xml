@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m01s05">
+	<transcript>
+		<text path="audio/module1/m01s05" id="0"><![CDATA[Molti casi di conflitti di interesse si verificano su piccola scala e a livello personale. Ma alcuni conflitti sono abbastanza grossi da essere una notizia da prima pagina.]]></text>
+	</transcript>
+	<contentText>
+		<text position="relative" width="648px" height="auto" left="0" top="0px"><![CDATA[La maggior parte dei conflitti di interesse sono di scala più piccola e più personali, ma alcuni sono abbastanza grossi da fare notizia.]]></text>
+	</contentText>
+	<contentBg style=""></contentBg>
+	<contentBackground>
+		<img path="content/images/ltr/module1/m01s05/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<pageTitle style="width: 648px;"></pageTitle>
+	<instructionText style="width: 648px;">
+		<text><![CDATA[Fai clic sulla freccia per saperne di più.]]></text>
+		<text><![CDATA[Fai clic su Avanti per proseguire.]]></text>
+	</instructionText>
+	
+	<comicStrip imgWidth="">
+		<strip id="1">
+			<stripBackground>			
+				<img path="content/images/ltr/module1/m01s05/Strip_01.png" minwidth="700" minheight="550"><![CDATA[Gestore di portafoglio che parla con investigatore SEC]]></img>			
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:380px;" />
+				<text style="font-weight:bold;font-size:14px;line-height: 18px;"><![CDATA[Testata: Società di gestione patrimoniale versa 12 milioni di dollari USA per regolare spese di conflitti]]></text>
+				<text style="font-size:14px;line-height: 18px;"><![CDATA[Blackrock, grossa società di gestione patrimoniale, ha versato 12 milioni di dollari USA per regolare conti di conflitti di interesse dovuti alle operazioni di uno dei suoi gestori di portafoglio.]]></text>
+				<text style="font-size:14px;line-height: 18px;"><![CDATA[La U.S. Securities and Exchange Commission degli Stati Uniti ha sporto denuncia dopo aver scoperto che un broker che aveva gestito alcuni fondi per l'energia di Blackrock aveva fondato, nello stesso periodo, anche una società petrolifera a conduzione famigliare. La società famigliare si è associata con una compagnia carbonifera e le quote di quest’ultima erano le maggiori partecipazioni di un fondo gestito dal broker.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_02.png" minwidth="700" minheight="550"><![CDATA[Membro del Consiglio dell'ospedale in conferenza stampa]]></img>	
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:300px;" />
+				<text style="font-weight:bold;font-size:14px;line-height: 16px;"><![CDATA[Testata: Il membro del Consiglio dell'ospedale è stato personalmente sanzionato per 13.500 dollari USA]]></text>
+				<text style="font-size:14px;line-height: 16px;"><![CDATA[Un membro del Consiglio del sistema ospedaliero pubblico di New York è stato personalmente sanzionato per conflitti scoperti tra il suo ruolo del consiglio e la sua posizione alla scuola di medicina a Grenada.]]></text>
+				<text style="font-size:14px;line-height: 16px;"><![CDATA[Il Consiglio per il conflitto di interessi scoprì che il medico si sarebbe servito indebitamente della propria posizione all’interno del consiglio per influenzare gli ospedali della città al fine di incrementare il numero di posti disponibili agli studenti presso la scuola di medicina per la quale lavorava.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripBackground>				
+				<img path="content/images/ltr/module1/m01s05/Strip_03.png" minwidth="700" minheight="550"><![CDATA[Persona che guarda delle azioni ]]></img>		
+			</stripBackground>
+			<stripCallOut style="">
+				<callOut style="width:350px;" />
+				<text style="font-weight:bold;font-size:15px;"><![CDATA[Testata: JP Morgan paga 35 milioni di dollari USA per aver dato un parere viziato durante una trattativa]]></text>
+				<text style="font-size:14px;line-height: 18px;"><![CDATA[La grande banca d’investimento JP Morgan pagò 35 milioni di dollari USA per comporre le vertenze derivanti dalle sue azioni durante la vendita di Good Technology a BlackBerry, alla fine del 2015. ]]></text>
+				<text style="font-size:14px;line-height: 18px;"><![CDATA[Gli azionisti di Good Technology avevano denunciato che la società era stata venduta a un valore inferiore rispetto al quello di mercato e che JP Morgan aveva spinto Good Technology a concludere l’affare perché voleva aggiudicarsi futuri investimenti come banca d’affari da parte di BlackBerry. La corte acconsentì e promulgò una sentenza ampiamente favorevole agli azionisti.]]></text>
+			</stripCallOut>
+		</strip>
+		
+	</comicStrip>
+</contents>

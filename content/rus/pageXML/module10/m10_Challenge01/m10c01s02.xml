@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m10c01s02">
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="" wtbgStyle=""></contentBg>
+	<pageTitle style=""></pageTitle>
+	 <contentBackground>		
+		<img path="content/images/ltr/module10/m10c01/m10c01s02/contentBackground.jpg" minwidth="769"><![CDATA[Офисное помещение ]]></img>
+	</contentBackground>
+	<contentText>
+		<text style=""><![CDATA[Цзян работает над завершением задачи в рамках важного проекта, когда Холли заходит в офис. ]]></text>
+	</contentText>
+	<instructionText>
+		<text><![CDATA[Щелкните каждый этап истории.]]></text>
+		<text><![CDATA[Чтобы продолжить, щелкните «Далее».]]></text>
+	</instructionText>
+	<comicStrip imgWidth="126">
+		<strip id="1">
+			<stripThumImg numberText="1">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_01.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>	
+			<stripBackground>			
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_01.png" minwidth="700" minheight="550"><![CDATA[Мужчина и женщина в офисе]]></img>			
+			</stripBackground>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="573" y="248" width="245" />
+				<text><![CDATA[<span style="font-weight: bold;">Цзян</span>, менеджер по закупкам, Johnson Controls]]></text>
+			</stripCallOut>
+			<stripCallOut align="" isThoughtbubble="" stripNonBg="true" showArrow="false" bColor="#00539E" color="#FFFFFF" textAlign="center">
+				<callOut minwidth="700" minheight="550" x="10" y="243" width="218" />
+				<text><![CDATA[<span style="font-weight: bold;">Холли</span>, менеджер проекта, Johnson Controls]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="2">
+			<stripThumImg numberText="2">
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_02.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_02.png" minwidth="700" minheight="550"><![CDATA[]]></img>	
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="45" y="10" width="170" />
+				<text><![CDATA[Цзян, срок сдачи проекта Texela перенесен. Мы должны выбрать поставщика до конца недели.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="606" y="10" width="140" />
+				<text><![CDATA[Не уверен, что это возможно. Моя жена будет проходить медицинскую процедуру, поэтому следующие два дня меня не будет на работе. Вообще я уже через час уезжаю к ней в больницу.]]></text>
+			</stripCallOut>
+		</strip>
+		
+		<strip id="3">
+			<stripThumImg numberText="3">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_03.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_03.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="45" y="10" width="170" arrowStyle="top:10px" />
+				<text><![CDATA[Но разве ты не можешь просмотреть информацию о поставщиках до того, как уйдешь? Ты сказал, что получил их финансовую информацию на прошлой неделе. К тому же, ты можешь проверить предлагаемые ими цены в главном файле поставщиков.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="606" y="10" width="140" arrowStyle="top:10px" />
+				<text><![CDATA[Да, но сначала я хотел бы закончить другой проект. Его тоже нужно выполнить в сжатые сроки. ]]></text>			
+			</stripCallOut>
+		</strip>
+		
+		<strip id="4">
+			<stripThumImg numberText="4">	
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Tumb_04.png" minwidth="700" minheight="550" />
+				<title><![CDATA[]]></title>
+			</stripThumImg>
+			<stripBackground>				
+				<img path="content/images/ltr/module10/m10c01/m10c01s02/Page_02_Strip_04.png" minwidth="700" minheight="550"><![CDATA[]]></img>		
+			</stripBackground>
+			<stripCallOut align="right" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="45" y="10" width="170" arrowStyle="top:10px" />
+				<text><![CDATA[Но только ты занимаешься этим проектом с самого начала. Уже поздно подключать кого-то нового к процессу.]]></text>
+			</stripCallOut>
+			<stripCallOut align="left" isThoughtbubble="false">
+				<callOut minwidth="700" minheight="550" x="606" y="10" width="140" arrowStyle="top:10px" />
+				<text><![CDATA[Я знаю. Подумаю, что можно сделать. В больнице я буду ждать примерно пару часов. Возможно, я смогу закончить это там.]]></text>			
+			</stripCallOut>
+		</strip>
+	</comicStrip>
+</contents>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contents type="reveal2">
+	<transcript>
+		<text path="audio/module8/m08s07"  id="0" ><![CDATA[What kind of information do you need to keep confidential? Here are some examples, although there are other types of confidential information not listed here. Click on each heading to confirm your understanding.]]></text>		
+	</transcript>
+	<contentText >
+		<text style="width:635px;margin-bottom:0px;font-size:15px;" ><![CDATA[Confidential information can take many forms. It can be written down, communicated verbally or stored in a database. What matters is the content that is being communicated.]]></text>			
+	</contentText>
+	<pageTitle style="width: 635px;margin-bottom: 5px;"></pageTitle>
+	<instructionText style="width: 635px;" >
+		<text><![CDATA[Select each heading.]]></text>
+		<text><![CDATA[Click on Next (bottom right arrow) to continue.]]></text>
+	</instructionText>
+	<contentBg style="" ></contentBg>
+	<contentBackground >
+		<img path="content/images/ltr/module8/m08s07/contentBackground.jpg" minwidth="769" ><![CDATA[Digital Information]]></img>
+	</contentBackground>
+	<popupBackground>
+		<img path="content/images/ltr/module8/m08s07/img_01.png" ><![CDATA[]]></img>
+	</popupBackground>
+	<tabHolder style=""></tabHolder>
+	<tabs style="" >
+		<tab id="1" type="callOut" style="" >
+			<tabName><![CDATA[Business plans or strategy]]></tabName>
+			<buttonImg path="" ><![CDATA[]]></buttonImg>
+			<backgroungImg >				
+				<img path="content/images/ltr/module8/m08s07/popup1.png" ><![CDATA[]]></img>
+			</backgroungImg>
+			<tabText style="width: 268px;">
+				<text style="font-size:15px;"><![CDATA[Protect any forward-looking information about our business. If competitors learn what we are planning, it could give them a significant advantage.]]></text>
+			</tabText>
+		</tab>		
+		<tab id="2" type="planeText" style="top: 32px;">
+			<tabName><![CDATA[Unreleased financial information]]></tabName>
+			<buttonImg path="" ><![CDATA[]]></buttonImg>
+			<backgroungImg >				
+				<img path="content/images/ltr/module8/m08s07/popup2.png" ><![CDATA[Employee following approval process]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[Treat any non-public information about Johnson Controls' financial performance or pricing as confidential. This includes information about potential acquisitions. Our company must follow strict rules in how we release and share financial information, since it can change how investors view the company.]]></text>
+				</tabText>
+		</tab>		
+		<tab id="3" type="planeText" style="top: 59px;">
+			<tabName><![CDATA[Customer or market information]]></tabName>
+			<buttonImg path="" ><![CDATA[]]></buttonImg>
+			<backgroungImg >				
+				<img path="content/images/ltr/module8/m08s07/popup3.png"><![CDATA[Government Official]]></img>
+			</backgroungImg>
+			<tabText style="">
+				 <text style="font-size:15px;"><![CDATA[Protect customer lists, customer agreements, market share data, supplier agreements and similar information. These contain significant inside knowledge of our business and, if someone else learned them, it could compromise our competitive advantages.]]></text>
+				</tabText>
+		</tab>	
+		<tab id="4" type="planeText" style="top: 82px;">
+			<tabName><![CDATA[Product or technical information]]></tabName>
+			<buttonImg path="" ><![CDATA[]]></buttonImg>
+			<backgroungImg >				
+				<img path="content/images/ltr/module8/m08s07/popup4.png"><![CDATA[Employee filling out approval forms]]></img>
+			</backgroungImg>
+			<tabText style="width:255px;">
+				 <text style="font-size:15px;"><![CDATA[Our value as a company comes from our products and know-how. Software source code, product drawings, technical manuals and research and development materials must be carefully guarded.]]></text>
+				</tabText>
+		</tab>
+	</tabs>	
+</contents>

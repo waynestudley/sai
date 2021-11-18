@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/knowledgeCheck/knowledge_check_intro" id="0"><![CDATA[現在您已完成此課程，請回答下列問題以檢驗您的學習成果。 若您能夠通過，就可以列印課程成績證書。 按一下「下一步」，開始「知識檢核」。]]></text>
+	</transcript>
+	<contentBg style="padding: 0;top: 70px;width: 430px;right: 20px;"></contentBg>
+	<pageTitle style="padding:15px 20px 10px 25px;width: 360px;margin-bottom:0px;"></pageTitle>
+	<contentText>
+		<text><![CDATA[藉由回答一系列的問題，查看您學到的知識。]]></text>
+		<text><![CDATA[問題：]]></text>
+		<text><![CDATA[通過分數：]]></text>
+		<text width="auto" height="auto" top="0px" fontSize="17px" left="0px" bgColor="transparent" color="#0080B6" padding="0px" position="relative"><![CDATA[<i>請按「下一步」按鈕 <span class="nexticon" >[ <img src="content/images/ltr/preAssessment/Next_icon.png" /> ]</span> 開始。</i>]]></text>
+	</contentText>
+    <contentBackground>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentIntro.jpg" minwidth="800" minheight="600"><![CDATA[Johnson Controls 員工正在工作]]></img>
+	</contentBackground>
+	
+</contents>

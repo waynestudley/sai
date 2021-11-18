@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<contentText>		
+		<text><![CDATA[Выберите режим просмотра.]]></text>		
+		<text><![CDATA[В процессе обучения в рамках этого курса используются аудио- и видеозаписи. Рекомендуем вам пройти этот курс в режиме воспроизведения аудио- и видеозаписей. Если вы выберете режим просмотра текста и изображений, вместо аудио- и видеозаписей на экране будут отображаться субтитры и иллюстрации.]]></text>
+	</contentText>
+	 <contentBackground>		
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/audioSelection.jpg" minwidth="769"><![CDATA[Звуковые волны]]></img>
+	</contentBackground>
+	<buttonText>
+		<text><![CDATA[Продолжить]]></text>
+	</buttonText>
+	<dropDownMenu>
+			<option id="A0"><![CDATA[Выбор режима просмотра]]></option>
+			<option id="A1"><![CDATA[Режим воспроизведения аудио- и видеозаписей]]></option>
+			<option id="A2"><![CDATA[Режим просмотра текста и изображений]]></option>
+	</dropDownMenu>
+</contents>

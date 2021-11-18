@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <transcript>
+        <text path="" id="0"><![CDATA[]]></text>        
+        <text path="" id="1"><![CDATA[]]></text>        
+    </transcript>
+	<contentBg style="top:10px;right:17px;padding:0px;width:992px;" chanStyle="width:846px;margin: 0 auto;right:0;float:none;"></contentBg>
+	<pageTitle style="margin-bottom:5px;padding:15px 15px 0;"></pageTitle>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/menuBg.jpg" minwidth="769"><![CDATA[Сотрудники компании Johnson Controls]]></img>	
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/submenuBg.jpg" minwidth="769"><![CDATA[Сотрудники компании Johnson Controls]]></img>	
+	</contentBackground>
+	<nextLockAlertPopupText>
+        <text><![CDATA[Для продолжения необходимо щелкнуть все разделы.]]></text>
+        <text><![CDATA[Чтобы продолжить, выберите ответ и щелкните «ОК».]]></text>
+        <text><![CDATA[Прежде чем продолжить, полностью просмотрите видео.]]></text>
+        <buttonText>
+            <text><![CDATA[ОК]]></text>
+        </buttonText>
+    </nextLockAlertPopupText>	
+    <closeCourse>
+        <text><![CDATA[Вы действительно хотите выйти из курса?]]></text>
+        <buttonText>
+            <text><![CDATA[Да]]></text>
+            <text><![CDATA[Нет]]></text>
+        </buttonText>
+    </closeCourse>	
+    <title>
+        <text><![CDATA[Главное меню ]]></text>
+        <text><![CDATA[Задачи]]></text>
+        <text><![CDATA[«Соблюдение кодекса этики: добросовестное ведение бизнеса»]]></text>
+        <text><![CDATA[Кодекс этики: задачи]]></text>
+    </title>	
+    <instructionText style="margin-bottom:0px;padding:0px 15px 15px;">
+        <text><![CDATA[Выберите модуль.]]></text>
+        <text><![CDATA[Выберите задачу.]]></text>		
+        <text><![CDATA[Выберите модуль для повторения пройденного материала или щелкните «Закрыть».]]></text>		
+        <text><![CDATA[Чтобы вернуться в главное меню, щелкните кнопку «Главная».]]></text>		
+        <text><![CDATA[Чтобы вернуться в главное меню и завершить свое обучение, щелкните кнопку «ГЛАВНАЯ». ]]></text>		
+    </instructionText>
+	
+    <contentText>
+        <text><![CDATA[Добро пожаловать на курс «Применение кодекса этики: Добросовестное ведение бизнеса».]]></text>
+        <text><![CDATA[Чтобы получить зачет по этому курсу, а также сертификат о завершении курса, необходимо успешно пройти все выделенные модули курса. Они отображаются в насыщенном цвете. ]]></text>
+        <text><![CDATA[Вы также можете видеть модули, которые отображаются серым цветом и отмечены как «Необязательные» ввиду вашей роли или в связи с вашими результатами предварительного оценивания. У вас есть доступ к этим модулям, но вы не обязаны их проходить, если не хотите.]]></text>			
+        <text><![CDATA[]]></text>			
+    </contentText>
+	
+    <buttonText>
+        <text><![CDATA[Начать]]></text>
+    </buttonText>
+	<optionalText>
+        <text><![CDATA[Необязательно]]></text>
+    </optionalText>
+    <bookMark>
+        <text><![CDATA[Продолжить<br />с последней посещенной страницы?]]></text>
+        <buttonText>
+            <text><![CDATA[Продолжить]]></text>
+            <text><![CDATA[Начать заново]]></text>
+        </buttonText>
+    </bookMark>
+    <monthArr>
+        <text><![CDATA[Январь]]></text>
+        <text><![CDATA[Февраль]]></text>
+        <text><![CDATA[Март]]></text>
+        <text><![CDATA[Эйприл]]></text>
+        <text><![CDATA[Май]]></text>
+        <text><![CDATA[Июнь]]></text>
+        <text><![CDATA[Июль]]></text>
+        <text><![CDATA[Август]]></text>
+        <text><![CDATA[Сентябрь]]></text>
+        <text><![CDATA[Октябрь]]></text>
+        <text><![CDATA[Ноябрь]]></text>
+        <text><![CDATA[Декабрь]]></text>
+    </monthArr>
+    <module id="1" imgPath="content/images/ltr/menuImages/Module_01.png" imgPopPath="content/images/ltr/menuImages/Module_01_popup.png">
+        <title><![CDATA[Конфликты интересов]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Конфликты интересов возникают в тех случаях, когда ваши личные интересы могут противоречить интересам компании, что может подорвать вашу способность принимать правильные деловые решения.</p><p>Узнайте, как распознавать конфликты интересов и избегать из возникновения, работая в компании Johnson Controls.</p><span>Требуемое время: 6 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[Добро пожаловать на курс: Предотвращение конфликтов интересов.]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Потенциальные конфликты в типичных ситуациях]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Распознавание конфликтов интересов]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Распознавание конфликтов интересов]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Примеры из практики. Конфликты интересов могут наносить ущерб компаниям]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Последствия конфликтов]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Как разрешать конфликты]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Краткие итоги и ключевые контактные лица]]></title>
+        </page>			
+    </module>
+    <module id="2" imgPath="content/images/ltr/menuImages/Module_02.png" imgPopPath="content/images/ltr/menuImages/Module_02_popup.png">
+        <title><![CDATA[Надлежащее использование подарков и развлекательных мероприятий]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Обмен подарками и приглашениями на развлекательные мероприятия может не только способствовать построению деловых отношений, но и создавать проблемы, если соответствующие сотрудники не принимают надлежащих мер предосторожности.</p><p>Узнайте, как гарантировать приемлемость предлагаемых и принимаемых подарков и приглашений на развлекательные мероприятия.</p><span>Требуемое время: 6 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[Добро пожаловать на курс: Надлежащее использование подарков и развлекательных мероприятий.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Требуется рассудительность]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Верно ли следующее утверждение?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Рекомендации относительно подарков и развлекательных мероприятий]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Подарки или развлекательные мероприятия]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ваша очередь]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Подробнее о подарках]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Контрольный список по подаркам]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ваша очередь]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Подробнее о развлекательных мероприятиях]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Контрольный список по развлекательным мероприятиям]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ваша очередь]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Сотрудничество с государственными служащими]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Краткие итоги и ключевые контактные лица]]></title>
+        </page>				
+    </module>
+    <module id="3" imgPath="content/images/ltr/menuImages/Module_03.png" imgPopPath="content/images/ltr/menuImages/Module_03_popup.png">
+        <title><![CDATA[Недопущение взяточничества в нашем бизнесе]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Наша репутация основывается на честном и добросовестном ведении коммерческой деятельности. Взяточничество и коррупция являются незаконными практиками, и они неприемлемы в нашем бизнесе.</p><p>Узнайте, как распознавать даже неявные формы взяточничества и коррупции и принимать меры против вовлечения в потенциально преступную деятельность.</p><span>Требуемое время: 6 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[Добро пожаловать на курс: Недопущение взяточничества в нашем бизнесе.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Распознавание рискованных ситуаций]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Распознавание взяточничества]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Распознавание коррупции]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ваша очередь]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Пример из практики. Всестороннее сотрудничество и раскрытие информации]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Как вы можете помочь в предотвращении взяточничества и коррупции]]></title>
+        </page>
+       <page>
+            <title><![CDATA[Последствия]]></title>
+        </page> 
+        <page>
+            <title><![CDATA[Что насчет стимулирующих платежей?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Краткие итоги и ключевые контактные лица]]></title>
+        </page>				
+    </module>
+    <module id="4" imgPath="content/images/ltr/menuImages/Module_04.png" imgPopPath="content/images/ltr/menuImages/Module_04_popup.png">
+        <title><![CDATA[Обеспечение безопасности персональных данных]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Все мы обязаны защищать персональные данные клиентов, сотрудников и деловых партнеров компании.</p><p>Узнайте, как вы можете помочь нашей компании выполнять обязательства по защите конфиденциальности данных и ответственному использованию социальных сетей.</p><span>Требуемое время: 6 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[Добро пожаловать на курс: Обеспечение безопасности персональных данных]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Случай удобства]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Обзор персональных данных]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Почему конфиденциальность данных так важна?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Распознавание персональной информации]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Защита персональных данных]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Понимание защиты персональных данных]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Конфиденциальность и социальные медиа]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Безопасность в общественных местах]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Защита паролем]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Подвергаете ли вы персональные данные риску?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Краткие итоги и ключевые контактные лица]]></title>
+        </page>				
+    </module>
+    <module id="5" imgPath="content/images/ltr/menuImages/Module_05.png" imgPopPath="content/images/ltr/menuImages/Module_05_popup.png">
+        <title><![CDATA[Торговые требования при ведении бизнеса на международном уровне ]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Johnson Controls является международной компанией, поэтому на нее распространяется целый ряд торговых норм, установленных международными организациями и государственными органами различных стран.</p><p>Узнайте, как торговые нормы могут влиять на вашу работу и как вы можете помочь нашей компании в соблюдении обязательств, связанных с торговыми нормами.</p><span>Требуемое время: 6 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[Добро пожаловать на курс: Торговые требования при ведении бизнеса на международном уровне.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Запрос из-за рубежа]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Запрос из-за рубежа]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Запрос из-за рубежа]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Запрос из-за рубежа]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Запрос из-за рубежа]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Запрос из-за рубежа]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Как распознать экспортную операцию]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Убедитесь в правильности понимания]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Зачем существуют нормы регулирования торговли]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Что вы должны делать]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Ваша очередь]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Краткие итоги и ключевые контактные лица]]></title>
+        </page>				
+    </module>
+    <module id="6" imgPath="content/images/ltr/menuImages/Module_06.png" imgPopPath="content/images/ltr/menuImages/Module_06_popup.png">
+        <title><![CDATA[Добросовестные продажи]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<p>В компании Johnson Controls мы осуществляем продажи добросовестно и соблюдаем все законы о защите конкуренции. Эти законы обеспечивают справедливость и свободу на рынке, а также запрещают компаниям злоупотреблять доминирующим положением.</p><p>Узнайте о стремлении компании нашей компании к ведению добросовестной конкуренции, а также о том, как поддерживать наши стандарты в этой сфере.</p><span>Требуемое время: 6 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[Добро пожаловать на курс: Добросовестные продажи.]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Зачем существуют законы о защите конкуренции]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Распознавание неправомерных соглашений]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Распознавание недобросовестной конкуренции]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Управление доминирующим положением]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Недопущение злоупотребления доминирующим положением]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Пример из практики]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Недопущение нарушений антимонопольного законодательства]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Краткие итоги и ключевые контактные лица]]></title>
+        </page>				
+    </module>
+    <module id="7" imgPath="content/images/ltr/menuImages/Module_07.png" imgPopPath="content/images/ltr/menuImages/Module_07_popup.png">
+        <title><![CDATA[Защита интеллектуальной собственности]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Интеллектуальная собственность, в том числе патенты, товарные знаки и авторские права, чрезвычайно важна для компании Johnson Controls, поэтому мы обязаны защищать ее. </p><p>Узнайте, как ваши действия могут поспособствовать защите нашей интеллектуальной собственности от хищения или ненадлежащего использования.</p><span>Требуемое время: 6 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[Добро пожаловать на курс: Защита нашей интеллектуальной собственности.]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Что такое интеллектуальная собственность?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Проверьте свое понимание материала]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Типы интеллектуальной собственности]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Цена утерянной интеллектуальной собственности]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Ваша очередь]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Ваша роль]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Использование товарных знаков]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Как, по-вашему, лучше поступить?]]></title>
+        </page>				
+        <page>
+            <title><![CDATA[Краткие итоги и ключевые контактные лица]]></title>
+        </page>				
+    </module>
+    <module id="8" imgPath="content/images/ltr/menuImages/Module_08.png" imgPopPath="content/images/ltr/menuImages/Module_08_popup.png">
+        <title><![CDATA[Защита конфиденциальной информации]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<p>На работе вы можете узнать конфиденциальную информацию о нашей компании, клиентах или бизнесе.</p><p>Узнайте о требованиях компании Johnson Controls в отношении обработки и защиты такой информации.</p><span>Требуемое время: 6 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[Добро пожаловать на курс: Защита конфиденциальной информации.]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Рискованная ситуация]]></title>
+        </page>
+		<page>
+            <title><![CDATA[Рискованная ситуация]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Рискованная ситуация]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Рискованная ситуация]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ежедневная работа с информацией]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Что должно оставаться конфиденциальным?]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ограничение, защита, удаление]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Что вы можете сделать для защиты конфиденциальной информации]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ваша очередь]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Используйте NDA для увеличения степени защиты]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Краткие итоги и ключевые контактные лица]]></title>
+        </page>
+    </module>
+    <module id="9" imgPath="content/images/ltr/menuImages/Module_09.png" imgPopPath="content/images/ltr/menuImages/Module_09_popup.png">
+        <title><![CDATA[Получение конкурентной информации добросовестным путем]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Благодаря ведению конкурентной разведки мы можем лучше понимать свою деловую среду, однако существуют строгие этические стандарты относительно того, как можно собирать такую информацию.</p><p>Узнайте, как собирать и использовать информацию о рынке и конкурентах в соответствии с политикой компании Johnson Controls и законодательством.</p><span>Требуемое время: 6 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[Добро пожаловать на курс: Получение конкурентной информации добросовестным путем]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Сбор информации ненадлежащим путем]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Какая информация является конфиденциальной?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Что может пойти не так?]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Избегайте обмана, предательства и мошенничества]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Убедитесь в правильности понимания]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Краткие итоги и ключевые контактные лица]]></title>
+        </page>				
+    </module>
+    <module id="10" imgPath="content/images/ltr/menuImages/Module_10.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup.png">
+        <title><![CDATA[Кодекс этики 2018 года: задача]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<p>Пришло время применить полученные знания при решении практической задачи. Принимайте правильные решения, которые обеспечат достижение деловых целей и помогут избежать негативных последствий.</p><span>Требуемое время: 10 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[]]></title>
+        </page>					
+    </module>
+    <module id="11" imgPath="content/images/ltr/menuImages/Module_10_1.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup1.png">
+        <title><![CDATA[Офисная, маркетинговая и торговая среда]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+		<overText><![CDATA[<span class="subMenuStart">Чтобы открыть задачу, щелкните «Начать».</span>]]></overText>
+        <page>
+            <title><![CDATA[Срочный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Срочный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Срочный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Срочный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Срочный запрос]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Основные извлеченные уроки]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Основные извлеченные уроки]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>	
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Благодарный поставщик]]></title>
+        </page>		
+        <page>
+            <title><![CDATA[Основные извлеченные уроки]]></title>
+        </page>				
+    </module>
+    <module id="12" imgPath="content/images/ltr/menuImages/Module_10_2.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup2.png">
+        <title><![CDATA[Поддержка клиентов]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+         <overText><![CDATA[<span class="subMenuStart">Чтобы открыть задачу, щелкните «Начать».</span>]]></overText>
+        <page>
+            <title><![CDATA[Конфликтующие обязательства]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Конфликтующие обязательства]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Конфликтующие обязательства]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Конфликтующие обязательства]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Конфликтующие обязательства]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Конфликтующие обязательства]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Конфликтующие обязательства]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Конфликтующие обязательства]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Основные извлеченные уроки]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Помощь коллеге]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Помощь коллеге]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Помощь коллеге]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Помощь коллеге]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Помощь коллеге]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Помощь коллеге]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Помощь коллеге]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Основные извлеченные уроки]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Необычный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Необычный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Необычный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Необычный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Необычный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Необычный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Основные извлеченные уроки]]></title>
+        </page>
+    </module>
+    <module id="13" imgPath="content/images/ltr/menuImages/Module_10_3.png" imgPopPath="content/images/ltr/menuImages/Module_10_popup3.png">
+        <title><![CDATA[Работа на выезде]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[<span class="subMenuStart">Чтобы открыть задачу, щелкните «Начать».</span>]]></overText>
+        <page>
+            <title><![CDATA[Удивительный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Удивительный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Удивительный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Удивительный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Удивительный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Удивительный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Удивительный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Удивительный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Удивительный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Удивительный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Основные извлеченные уроки]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Основные извлеченные уроки]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ночь вне дома]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ночь вне дома]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Нестандартный запрос]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ночь вне дома]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ночь вне дома]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ночь вне дома]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ночь вне дома]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ночь вне дома]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ночь вне дома]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Основные извлеченные уроки]]></title>
+        </page>
+    </module>
+    <module id="14" imgPath="content/images/ltr/menuImages/Module_11.png" imgPopPath="content/images/ltr/menuImages/Module_11_popup.png">
+        <title><![CDATA[Проверка знаний]]></title>
+        <altText><![CDATA[Сотрудник компании Johnson Controls]]></altText>
+        <overText><![CDATA[Продемонстрируйте полученные знания и получите доступ к своему сертификату о завершении курса.<span>Требуемое время: 5–10 минут.</span>]]></overText>
+        <page>
+            <title><![CDATA[Проверка знаний]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Проверка знаний]]></title>
+        </page>
+        <page>
+            <title><![CDATA[Ваши результаты]]></title>
+        </page>
+    </module>
+    <module id="15" imgPath="content/images/ltr/menuImages/Module_12.png" imgPopPath="content/images/ltr/menuImages/Module_12_popup.png">
+        <title><![CDATA[Ваш сертификат]]></title>
+        <altText><![CDATA[Мужчина использует ПК]]></altText>
+        <overText><![CDATA[Получите доступ к своему сертификату о завершении курса.]]></overText>
+        <page>
+            <title><![CDATA[Ваш сертификат]]></title>
+        </page>
+    </module>
+	
+    <tootTip>
+        <element button=".btn_Next" location="top" gap="8" width="60"><![CDATA[Далее]]></element>
+        <element button=".nextBlink" location="top" gap="8" width="60"><![CDATA[Далее]]></element>
+        <element button=".btn_Back" location="top" gap="8" width="60"><![CDATA[Джек]]></element>
+        <element button=".replayPage" location="top" gap="10" width="60"><![CDATA[Повторить]]></element>
+        <element button=".transcriptOn" location="top" gap="10" width="100"><![CDATA[Выключить субтитры]]></element>
+        <element button=".transcriptOff" location="top" gap="10" width="100"><![CDATA[Включить субтитры]]></element>
+        <element button=".audioOn" location="top" gap="10" width="80"><![CDATA[Выключить звук]]></element>
+        <element button=".audioOff" location="top" gap="10" width="80"><![CDATA[Включить звук]]></element>
+        <element button=".btn_Menu" location="top" gap="10" width="60"><![CDATA[Главная страница]]></element>
+        <element button=".fw_CloseTranscript" location="bottom" gap="10" width="60"><![CDATA[Закрыть]]></element>
+        <element button=".fw_MenuClose" location="top" gap="10" width="60"><![CDATA[Закрыть]]></element>
+        <element button=".menuBlink" location="top" gap="10" width="60"><![CDATA[Далее]]></element> 
+        <element button=".fw_GlossaryClose" location="top" gap="10" width="60"><![CDATA[Закрыть]]></element> 
+        <element button=".btn_Exit" location="top" gap="10" width="60"><![CDATA[Закрыть]]></element> 
+    </tootTip>
+	
+    <transcriptGlobalText>
+	  <text><![CDATA[Поле для перетаскивания]]></text>
+    </transcriptGlobalText>
+	
+    <reEntryProfilerPopup>
+        <text><![CDATA[При изменении профиля все данные о прохождении курса будут утеряны. Это означает, что вам придется заново пройти все назначенные модули, включая уже пройденные. Если вы уже успешно прошли проверку знаний, то эти данные о прохождении сохранятся. Продолжить?]]></text>
+        <text><![CDATA[Да]]></text>
+        <text><![CDATA[Нет]]></text>
+    </reEntryProfilerPopup>
+ 
+</course>

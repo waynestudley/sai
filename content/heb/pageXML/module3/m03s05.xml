@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m03s05">
+	<transcript>
+		<text path="audio/module3/m03s05" id="0"><![CDATA[אילו מהתרחישים הבאים עלולים להיות בעייתיים לדעתך?]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[האם אתה חושב שדוגמאות אלה עלולות להיראות כשוחד?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/rtl/module3/m03s05/contentBackground.jpg" minwidth="769"><![CDATA[אנשי עסקים]]></img>
+	</contentBackground>
+	<contentBg style="width: 665px;left: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[בחר את <span class="fontBold">כל</span> התרחישים הבעייתיים ולאחר מכן לחץ על 'שלח'.]]></text>
+		<text><![CDATA[לחץ על 'הבא' כדי להמשיך.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[ייתכן שיש יותר מתשובה אחת נכונה.]]></text>
+	</extraInstructionText>
+	<optionContent answer="1,1,1,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[אתה מבטיח ללקוח מתנה במזומן בתמורה להחלקה עסקית רצויה]]></option>
+		<option><![CDATA[קבל משנה שרוצה לעשות אתך עסה מזמין אותך לכמה ארוחות ערב ואירועי ספורט]]></option>
+		<option><![CDATA[אתה תורם לקמפיין של נציג ממשל שהוא לקוח פוטנציאלי]]></option>
+		<option><![CDATA[המנהל שלך מעסיק בת של לקוח בתמורה להסכמת הלקוח להאריך את החוזה הנוכחי שלו]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[שלח]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="">
+			<text><![CDATA[נכון.]]></text>
+			<text><![CDATA[למעשה, כל התרחישים הללו עלולים להיחשב לשוחד, תלוי בנסיבות. הכוונה להשפיע היא גורם מרכזי, אך חשוב גם לזכור שגם מראית עין לשוחד עלולה להיות בעייתית עבורך ועבור Johnson Controls, לכן זכור, סוף מעשה במחשבה תחילה!]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="">
+			<text><![CDATA[לא נכון.]]></text>
+			<text><![CDATA[למעשה, כל התרחישים הללו עלולים להיחשב לשוחד, תלוי בנסיבות. הכוונה להשפיע היא גורם מרכזי, אך חשוב גם לזכור שגם מראית עין לשוחד עלולה להיות בעייתית עבורך ועבור Johnson Controls, לכן זכור, סוף מעשה במחשבה תחילה!]]></text>
+		</incorrect>
+	</feedback>
+</contents>

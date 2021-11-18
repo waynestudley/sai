@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m08s10" type="multiTab" defaultTab="1" isRandom="true" onlySticksCorrect="false">
+	<transcript>
+		<text id="0" path="audio/module8/m08s10"><![CDATA[Laten we dit toepassen op het echte leven. Hoe zou u omgaan met de volgende situaties? Verbind iedere situatie links met de juiste oplossing rechts en klik op 'Indienen'.]]></text>
+	</transcript>
+	<contentText>
+		<text><![CDATA[Bewijs dat u weet hoe u in elk van deze situaties moet handelen. ]]></text>
+	</contentText>
+	<contentBackground cName="">		
+		<img path="content/images/ltr/module8/m08s10/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 990px;right: 10px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<buttonText>		
+		<text style="position: relative;left:865px;top: -15px;"><![CDATA[INDIENEN]]></text>
+	</buttonText>
+	<instructionText style="height:34px;">
+		<text><![CDATA[Selecteer een element in de eerste kolom en versleep de pijlen vervolgens naar de bijhorende oplossing in de tweede kolom. Als u klaar bent, klikt u op 'Indienen'.]]></text>
+		<text><![CDATA[Klik op Volgende om door te gaan.]]></text>
+	</instructionText>
+	<matchingActivity style="margin:35px auto 0 auto;" lineHolderW="990" lineHolderH="250">
+		<leftSideTabs>
+			<heder><![CDATA[DE SITUATIE]]></heder>
+			
+			<tab id="1" style="height:100px" dragPosition="left: 430px;top: 8px;z-index: 5;height: 100px;">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img01.png"><![CDATA[Persoon die aan onderdelen werkt]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[U werkt met potentiële leveranciers die offertes indienen om onderdelen voor een nieuw product te leveren ]]></text>				
+			</tab>			
+			<tab id="2" style="height:100px" dragPosition="left:430px; top:119px;z-index:5;height:100px">
+				<leftIcon style="height:100px" path="content/images/ltr/module8/m08s10/img02.png"><![CDATA[Persoon die op pictogram klikt om e-mail te openen]]></leftIcon>
+				<dragIcon path="content/images/ltr/arrow.png" style=""><![CDATA[]]></dragIcon>
+				<text style=""><![CDATA[U bent bezig met een document dat u moet afronden, dus u overweegt het naar uw persoonlijk e-mailadres te sturen ]]></text>
+			</tab>
+		</leftSideTabs>	
+		<rightSideTabs>		
+			<heder><![CDATA[DE OPLOSSING]]></heder>
+			<tab id="2" style="height:100px" dropPosition="left: 528px;top: 8px;height: 100px;">
+				<text style=""><![CDATA[Zoek een andere manier om het document te raadplegen, want e-mails kunnen verloren raken, worden gehackt of foutief worden verzonden]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img04.png"><![CDATA[Pictogram map]]></rightIcon>
+			</tab>	
+			<tab id="1" style="height:100px" dropPosition="left: 528px;top: 119px;height: 100px;">
+				<text><![CDATA[Laat hen geheimhoudingsovereenkomsten ondertekenen alvorens nieuwe productinformatie te delen en geef aan dat de informatie vertrouwelijk is ]]></text>
+				<rightIcon style="height:100px" path="content/images/ltr/module8/m08s10/img03.png"><![CDATA[Persoon die een NDA ondertekent]]></rightIcon>
+			</tab>	
+		</rightSideTabs>		
+		<feedback type="normal">
+			<correct id="1" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[Dit klopt. U hebt ze allemaal juist met elkaar verbonden. ]]></text>
+			</correct>			
+			<incorrect id="2" style="padding:10px;position: relative;width: 960px;top: -15px;">
+				<text style=""><![CDATA[Dat klopt niet]]></text>
+			</incorrect>			
+		</feedback>		
+	</matchingActivity>
+</contents>

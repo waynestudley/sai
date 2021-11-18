@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s03">
+	<transcript>
+		<text path="audio/module4/m04s03" id="0"><![CDATA[개인 데이터란 정확히 무엇입니까? 함께 살펴봅시다.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[개인 데이터란 무엇입니까?]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/ltr/module4/m04s03/contentBackground.jpg" minwidth="769"><![CDATA[컴퓨터 앞에서 생각에 잠긴 직원]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[각 제목을 선택하십시오.]]></text>
+		<text><![CDATA[계속하려면 '다음'을 클릭하십시오.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:160px;">
+		<revealCallOut width="300px" height="174px" top="15px" left="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn1.png" minwidth="769"><![CDATA[개인 데이터]]></img>
+			<buttonText style="height: 40px;"><![CDATA[개인 데이터]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: -30px;width: 958px;">
+				<text><![CDATA[개인 데이터란 개인의 이름이나 주소와 같이 개인을 식별하는 데 사용할 수 있는 모든 정보입니다.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="350px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/ltr/module4/m04s03/btn2.png" minwidth="769"><![CDATA[민감한 개인 데이터]]></img>
+			<buttonText style="height: 40px;"><![CDATA[민감한 개인 데이터]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 100px;top: -30px;width: 958px;">
+				<text><![CDATA[민감한 개인 데이터란 개인의 건강 상태, 종교적 신념과 같이 허가 없이 분실, 훼손 또는 공개될 경우에 심각한 피해, 당혹감, 불편함 또는 불공정을 초래할 수 있는 개인에 대한 정보를 말합니다.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" left="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/ltr/module4/m04s03/btn3.png" minwidth="769"><![CDATA[데이터 보호]]></img>
+			<buttonText style="height: 40px;"><![CDATA[데이터 보호]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -30px;width: 958px;">
+				<text><![CDATA[직원, 고객 및 비즈니스 파트너의 모든 개인 정보는 보호되어야 합니다. 이것은 Johnson Controls의 직원으로서 여러분의 가장 중요한 책임 중 하나입니다.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

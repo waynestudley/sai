@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeMCQ" className="m05s04">
+	<transcript>
+		<text path="audio/module5/m05s04" id="0"><![CDATA[มาร์กไตร่ตรองว่าจะตอบอีเมลของผู้ซื้ออย่างไร คุณจะทราบหรือไม่ว่าจะจัดการกับสถานการณ์นี้อย่างไร เลือกตัวเลือกหนึ่งตัวและส่งคำตอบ]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:15px;"><![CDATA[หากคุณเขียนอีเมลกลับไปยังผู้ซื้อเพื่อขอข้อมูลเพิ่ม เช่นชื่อของบริษัทและตำแหน่ง อีเมลของคุณถือว่าเป็นการส่งออกหรือไม่แล้วคุณจะรู้ได้ยังไง]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module5/m05s04/contentBackground.jpg" minwidth="769"><![CDATA[พนักงาน]]></img>
+	</contentBackground>
+	<contentBg style="width: 695px;right: 30px;top: 30px;padding: 0;" whbgStyle="padding:15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText>
+		<text><![CDATA[เลือกหนึ่งตัวเลือกแล้วส่ง]]></text>
+		<text><![CDATA[คลิกถัดไปเพื่อดำเนินการต่อ]]></text>
+	</instructionText>
+	<optionContent answer="0,0,1" height="auto" style="padding:5px 15px 17px">
+		<option><![CDATA[ใช่ อีเมลทุกฉบับมีโอกาสเป็นการส่งออกทั้งหมด เพราะเซิร์ฟเวอร์นั้นตั้งอยู่ในประเทศที่ต่างกันออกไป ดังนั้นอีเมลของคุณอาจข้ามพรมแดนไปแล้วหลายประเทศ]]></option>	
+		<option><![CDATA[ใช่ อีเมลที่ขอข้อมูลจากใครสักคนจากประเทศอื่นนั้นคือการส่งออกตลอดเพราะคุณกำลังรับข้อมูลส่วนบุคคลอยู่]]></option>	
+		<option><![CDATA[ไม่ การส่งคำขอข้อมูลกลับไปที่ทางผู้ซื้อเพื่อขอข้อมูลเพิ่มเติมนั้นไม่ใช่การส่งออก]]></option>
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ส่ง]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[ถูกต้อง]]></text>
+			<text><![CDATA[เพื่อที่คุณจะทำตามข้อจำกัดทางการค้า คุณจะต้องส่งอีเมลไปเพื่อสอบถามเพิ่มเติมกับผู้ซื้อ]]></text>
+			<text><![CDATA[แต่ว่าเพียงแค่ส่งการส่งอีเมลนั้นไม่ใช่การส่งออก เว้นแต่ว่าคุณจะแบ่งปันแบบแปลนผลิตภัณฑ์ เทคโนโลยีหรือข้อมูลผลิตภัณฑ์อื่น ๆ ที่ถูกควบคุม]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="font-size:15px;" fcStyle="">
+			<text style="font-size:17px;"><![CDATA[ขอโทษ คำตอบนี้ไม่ถูกต้อง]]></text>
+			<text><![CDATA[เพื่อที่คุณจะทำตามข้อจำกัดทางการค้า คุณจะต้องส่งอีเมลไปเพื่อสอบถามเพิ่มเติมกับผู้ซื้อ]]></text>
+			<text><![CDATA[แต่ว่าเพียงแค่ส่งการส่งอีเมลนั้นไม่ใช่การส่งออก เว้นแต่ว่าคุณจะแบ่งปันแบบแปลนผลิตภัณฑ์ เทคโนโลยีหรือข้อมูลผลิตภัณฑ์อื่น ๆ ที่ถูกควบคุม]]></text>
+		</incorrect>
+	</feedback>
+</contents>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="audio/profile"><![CDATA[]]></text>
+	</transcript>
+	<contentBg style="top: 12px;right:20px;height: 500px;width: 960px;padding:10px 15px;"></contentBg>
+	<pageTitle style="width: 360px;margin-bottom: 5px;"></pageTitle>
+	<contentTitle>
+		<text><![CDATA[あなたの役割]]></text>		
+	</contentTitle>
+	<contentText>
+		<text><![CDATA[あなたの役割についてこれらの質問に回答してください。]]></text>
+	</contentText>
+	<profilerQuestions>		
+		<text id="1"><![CDATA[Johnson Controlsと競合する人物や組織とつながりがありますか？]]></text>
+		<text id="2"><![CDATA[Johnson Controlsに対して、購入決定を行う責任がありますか？]]></text>
+		<text id="3"><![CDATA[あなたの職務には、マーケティング、営業、顧客または潜在的な顧客との交渉が含まれますか？]]></text>
+		<text id="4"><![CDATA[Johnson Controlsの顧客、契約業者、サプライヤー、ビジネスパートナーに関する情報や、彼らとともに働く個人に関する情報にアクセス権がありますか？]]></text>
+		<text id="5"><![CDATA[Johnson Controlsの従業員に関する情報へアクセス権がありますか？]]></text>
+		<text id="6"><![CDATA[海外を拠点にするJohnson Controlsの従業員、顧客、サプライヤーと直接取引しますか？または技術情報へのアクセス権がありますか？]]></text>
+		<text id="7"><![CDATA[あなたの職務は、海外への出張、海外のビジターのもてなし、Johnson Controlsの製品、人物、情報の海外輸送に関わりますか？]]></text>
+		<text id="8"><![CDATA[産業貿易協会に参加していますか？または産業会議に参加していますか？]]></text>
+		<text id="9"><![CDATA[贈答品を顧客やサプライヤーなど、サードパーティに送ったり、受け取ったりしたことがありますか？]]></text>
+		<text id="10"><![CDATA[顧客やサプライヤーなど、サードパーティをもてなしたり、サードパーティからもてなしを受けたことがありますか？]]></text>
+		<text id="11"><![CDATA[あなたの職務は、Johnson Controlsの製品やサービスの、研究、開発、エンジニアリングに関わっていますか？]]></text>
+		<text id="12"><![CDATA[新しい場所や新しい産業で、新規または既存顧客とのビジネスを発展していく責任がありますか？]]></text>
+	</profilerQuestions>
+	<contentBackground> 
+		<img style="" className="bg-pos-right-center" path="content/images/ltr/profileSelection.jpg" minwidth="769"><![CDATA[Johnson Controls従業員]]></img>	
+	</contentBackground>
+	<profilerAnswer>
+		<text><![CDATA[はい]]></text>
+		<text><![CDATA[いいえ]]></text>
+	</profilerAnswer>
+    <buttonText>		
+		<text><![CDATA[継続]]></text>
+	</buttonText>
+	<instructionText style="top: -5px;width: 630px;">
+		<text><![CDATA[それぞれの質問に「はい」か「いいえ」を選択して、「続行」をクリックします。]]></text>
+	</instructionText>
+	
+</contents>

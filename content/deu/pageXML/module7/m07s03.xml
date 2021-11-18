@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[Was wissen Sie bereits über Risiken in Bezug auf geistiges Eigentum? Erkunden Sie Marias Situation, wählen Sie alle angemessenen Reaktionen aus und klicken Sie anschließend auf „Übermitteln“.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[Maria hat vor ein paar Monaten eine Stelle bei Johnson Controls angetreten und ist an der Einführung eines neuen Produkts beteiligt, das die Branche in Aufruhr versetzt.]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[Marias Freund Pete, der in einer ähnlichen Branche arbeitet, fragt Maria, wie es bei der Arbeit läuft und beginnt, spezifische Fragen zu dem neuen Produkt zu stellen.]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[Wie sollte Maria darauf reagieren?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA[Maria und Pete]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;">
+		<text><![CDATA[Wählen Sie alle angemessenen Reaktionen aus und klicken Sie anschließend auf „Übermitteln“.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um fortzufahren.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Es ist möglich, dass mehrere Antworten richtig sind.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px;font-size:14px;">
+		<option><![CDATA[Sie sollte Pete das Versprechen abnehmen, nichts zu verraten, bevor sie ihm Einzelheiten zu dem Produkt und der Einführung berichtet.]]></option>	
+		<option><![CDATA[Sie sollte Pete erzählen, was sie über ihre Arbeit denkt (z. B. sie ist aufregend, anspruchsvoll usw.), ohne Details zum Produkt oder der Einführung zu nennen.]]></option>	
+		<option><![CDATA[Sie sollte Pete erklären, dass ihre Arbeit vertraulich ist und dass sie keine Einzelheiten preisgeben darf.]]></option>	
+		<option><![CDATA[Sie sollte ihre Projekte und Details, die der breiten Öffentlichkeit nicht bekannt sind, nur mit engen Freunden oder Familienmitgliedern, denen sie vertraut, besprechen.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ÜBERMITTELN]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-214px">
+			<text><![CDATA[Das ist richtig.]]></text>
+			<text><![CDATA[Maria darf Pete erzählen, was sie über ihre Arbeit denkt, jedoch keine vertraulichen Informationen des Unternehmens preisgeben – das betrifft auch Details zum neuen Produkt oder dessen Einführung.]]></text>
+			<text><![CDATA[Der wesentliche Punkt besteht darin, NIEMALS und aus keinem Grund Handelsgeheimnisse oder sonstige vertrauliche Informationen gegenüber unbefugten Personen außerhalb des Unternehmens offenzulegen.]]></text>
+			<text><![CDATA[Auch enge Freunde und Familienangehörige dürfen unter keinen Umständen von Handelsgeheimnissen oder geistigem Eigentum erfahren, die/das Johnson Controls einsetzt bzw. entwickelt. ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-214px">
+			<text><![CDATA[Das stimmt leider nicht.]]></text>
+			<text><![CDATA[Maria darf Pete erzählen, was sie über ihre Arbeit denkt, jedoch keine vertraulichen Informationen des Unternehmens preisgeben – das betrifft auch Details zum neuen Produkt oder dessen Einführung.]]></text>
+			<text><![CDATA[Der wesentliche Punkt besteht darin, NIEMALS und aus keinem Grund Handelsgeheimnisse oder sonstige vertrauliche Informationen gegenüber unbefugten Personen außerhalb des Unternehmens offenzulegen.]]></text>
+			<text><![CDATA[Auch enge Freunde und Familienangehörige dürfen unter keinen Umständen von Handelsgeheimnissen oder geistigem Eigentum erfahren, die/das Johnson Controls einsetzt bzw. entwickelt. ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

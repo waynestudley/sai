@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s06">
+	<transcript>
+		<text path="audio/module7/m07s06" id="0"><![CDATA[Ces salariés ont tous fait une proposition sur la propriété intellectuelle. Sélectionnez toutes les propositions avec lesquelles vous êtes d’accord puis cliquez sur Soumettre.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module7/m07s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 580px;right: 430px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Êtes-vous d’accord ou non avec chacune des propositions sur la propriété intellectuelle ?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[Dites si vous êtes d'accord ou non avec ces propositions puis cliquez sur Soumettre.]]></text>
+		<text><![CDATA[Cliquez sur Suivant pour continuer.]]></text>
+	</instructionText>
+	<optionContent style="width:582px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img01.png"><![CDATA[Salarié de sexe masculin]]></img>
+			<text style="width: 312px;"><![CDATA[Si je crée quelque chose dans le cadre de mon travail chez Johnson Controls, j’ai le droit d’utiliser ma création comme je le souhaite]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img02.png"><![CDATA[Salarié de sexe masculin]]></img>
+			<text style="width: 312px;"><![CDATA[Une fois qu’un élément est déposé ou protégé par des droits d’auteur, il est toujours protégé]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img03.png"><![CDATA[Salarié de sexe féminin]]></img>	
+			<text style="width: 312px;"><![CDATA[La divulgation de la propriété intellectuelle de Johnson Controls peut nuire à notre entreprise]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img04.png"><![CDATA[Salarié de sexe féminin]]></img>	
+			<text style="width:312px;"><![CDATA[Si des informations ou images sont disponibles gratuitement en ligne, je peux les utiliser à des fins professionnelles]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer style = "font-size:12px;">
+		<text style = "font-size:12px;"><![CDATA[D’accord]]></text>
+		<text style = "font-size:12px;"><![CDATA[Pas d’accord]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[VALIDER]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -116px;width: 378px;height: 430px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[C’est exact.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Tout ce que vous créez, inventez ou améliorez dans le cadre de votre travail chez Johnson Controls appartient généralement à Johnson Controls ; vous n'en êtes pas propriétaire. Lorsque vous quittez l’entreprise, toute la PI reste la propriété de Johnson Controls, et vous ne pouvez pas l’utiliser indépendamment, dans une autre entreprise ou la communiquer à d’autres personnes.</li> <li>Une utilisation inappropriée ou une négligence peut entraîner une restriction ou une annulation des droits de PI, y compris des marques de commerce et droits d’auteur. Même si les avocats de Johnson Controls travaillent dur pour défendre nos droits de PI, chacun d’entre nous a également un rôle à jouer. Nous devons bien protéger notre propriété intellectuelle dans nos activités professionnelles quotidiennes.</li> <li>La PI de Johnson Controls est essentielle à ses activités. Une utilisation abusive ou une divulgation à des personnes non autorisées peut entraîner des problèmes graves pour l'entreprise. Dans certains cas, une utilisation abusive peut entraîner une annulation des droits de PI, et le fait de divulguer les secrets commerciaux ou les dessins de Johnson Controls peut nuire à notre compétitivité sur le marché.</li> <li>Nous pouvons accéder facilement à de grandes quantités d’informations en ligne, mais le fait qu’une information soit disponible publiquement ne signifie pas que nous avons le droit de l’utiliser. Une grande partie de ce que vous pouvez trouver sur Internet est protégée, y compris les textes, les photos, les bandes dessinées, les codes et les logiciels. N’utilisez jamais quelque chose que vous avez trouvé en ligne dans le cadre de votre travail pour Johnson Controls, à moins d’être certain(e) que nous avons reçu l’autorisation du propriétaire.</li> </ul>]]></text>
+		</correct>
+		<incorrect style="top: -116px;width: 378px;height: 430px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[C’est faux.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Tout ce que vous créez, inventez ou améliorez dans le cadre de votre travail chez Johnson Controls appartient généralement à Johnson Controls ; vous n'en êtes pas propriétaire. Lorsque vous quittez l’entreprise, toute la PI reste la propriété de Johnson Controls, et vous ne pouvez pas l’utiliser indépendamment, dans une autre entreprise ou la communiquer à d’autres personnes.</li> <li>Une utilisation inappropriée ou une négligence peut entraîner une restriction ou une annulation des droits de PI, y compris des marques de commerce et droits d’auteur. Même si les avocats de Johnson Controls travaillent dur pour défendre nos droits de PI, chacun d’entre nous a également un rôle à jouer. Nous devons bien protéger notre propriété intellectuelle dans nos activités professionnelles quotidiennes.</li> <li>La PI de Johnson Controls est essentielle à ses activités. Une utilisation abusive ou une divulgation à des personnes non autorisées peut entraîner des problèmes graves pour l'entreprise. Dans certains cas, une utilisation abusive peut entraîner une annulation des droits de PI, et le fait de divulguer les secrets commerciaux ou les dessins de Johnson Controls peut nuire à notre compétitivité sur le marché.</li> <li>Nous pouvons accéder facilement à de grandes quantités d’informations en ligne, mais le fait qu’une information soit disponible publiquement ne signifie pas que nous avons le droit de l’utiliser. Une grande partie de ce que vous pouvez trouver sur Internet est protégée, y compris les textes, les photos, les bandes dessinées, les codes et les logiciels. N’utilisez jamais quelque chose que vous avez trouvé en ligne dans le cadre de votre travail pour Johnson Controls, à moins d’être certain(e) que nous avons reçu l’autorisation du propriétaire.</li> </ul>]]></text>	
+		</incorrect>		
+	</feedback>
+	
+</contents>

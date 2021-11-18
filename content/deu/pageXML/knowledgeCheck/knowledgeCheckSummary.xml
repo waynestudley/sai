@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents>
+	<transcript>
+		<text path="" id="0"><![CDATA[]]></text>		
+		<text path="audio/knowledgeCheck/quizPass" id="1"><![CDATA[Herzlichen Glückwunsch, Sie haben den abschließenden Wissenstest bestanden.  ]]></text>		
+		<text path="audio/knowledgeCheck/quizFail" id="2"><![CDATA[Leider haben Sie den abschließenden Wissenstest noch nicht bestanden. ]]></text>		
+	</transcript>
+	<contentBg style="width: 420px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text><![CDATA[Herzlichen Glückwunsch!]]></text>		
+	</contentText>
+    <contentImagePass>		
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Mitarbeiter von Johnson Controls]]></img>
+	</contentImagePass>
+	 <contentImageFail>
+		<img path="content/images/ltr/knowledgeCheck/assessmentsummary.jpg" minwidth="800" minheight="600"><![CDATA[Mitarbeiter von Johnson Controls]]></img>
+	</contentImageFail>
+	<instructionText>		
+		<text><![CDATA[Klicken Sie auf „Weiter“, um zum Hauptmenü zurückzukehren. Von hier aus können Sie auf Ihren Leistungsnachweis für diesen Kurs zugreifen.]]></text>
+		<text><![CDATA[Klicken Sie auf „Weiter“, um zum Hauptmenü zurückzukehren.]]></text>
+	</instructionText>
+	<feedbackPass transcriptId="1">
+		<text><![CDATA[Mit einem Ergebnis von <b>## %</b> haben Sie den Test zur Schulung <span class="courseTitleAss" >Anwendung des Verhaltenskodexes: Integre Geschäftsführung</span> erfolgreich abgeschlossen.]]></text>
+	</feedbackPass>
+	<feedbackFail transcriptId="2">
+		<text><![CDATA[Mit einem Ergebnis von <b>##%</b> haben Sie den Test nicht bestanden.]]></text>
+		<text><![CDATA[Zum Bestehen brauchen Sie mindestens <span>#%</span>. Bitte arbeiten Sie die Schulung nochmals durch und versuchen Sie den Test dann erneut.]]></text>
+	</feedbackFail>
+</contents>

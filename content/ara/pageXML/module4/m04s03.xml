@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="revealCallOut2" className="m04s03">
+	<transcript>
+		<text path="audio/module4/m04s03" id="0"><![CDATA[ما المقصود بدقة إذن بالبيانات الشخصية؟ دعونا نلقِ نظرة.]]></text>		
+	</transcript>
+	<contentText>
+		<text style="width: 924px;margin-bottom:0px"><![CDATA[ما المقصود بالبيانات الشخصية؟]]></text>
+	</contentText>
+	<contentBackground>
+		<img path="content/images/rtl/module4/m04s03/contentBackground.jpg" minwidth="769"><![CDATA[موظف مستغرق في التفكير على كمبيوتر]]></img>
+	</contentBackground>	
+	 <contentBg style=""></contentBg>
+	<pageTitle style="width: 924px;"></pageTitle>
+	<instructionText style="width: 924px;">
+		<text><![CDATA[حدد كل عنوان.]]></text>
+		<text><![CDATA[انقر فوق "التالي" للمتابعة.]]></text>
+	</instructionText>	
+	<revealCallOutContent style="top:160px;">
+		<revealCallOut width="300px" height="174px" top="15px" right="20px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/rtl/module4/m04s03/btn1.png" minwidth="769"><![CDATA[البيانات الشخصية]]></img>
+			<buttonText style="height: 40px;"><![CDATA[البيانات الشخصية]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="90px" style="height: 55px;top: -25px;width: 958px;">
+				<text><![CDATA[البيانات الشخصية هي أي معلومات يمكن استخدامها لتحديد هوية شخص، مثل اسم الشخص أو عنوانه.]]></text>						
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" right="350px" ticktop="5px" tickleft="3px">			
+			<img path="content/images/rtl/module4/m04s03/btn2.png" minwidth="769"><![CDATA[البيانات الشخصية الحساسة]]></img>
+			<buttonText style="height: 40px;"><![CDATA[البيانات الشخصية الحساسة]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="400px" style="height: 100px;top: -25px;width: 958px;">
+				<text><![CDATA[البيانات الشخصية الحساسة هي أي بيانات عن شخص يمكن استخدامها لتسبب ضررًا جسيمًا أو إحراجًا أو إزعاجًا أو ظلمًا له إذا فُقدت أو كُشفت أو تم الإفصاح عنها بدون إذن منه، مثل حالة الشخص الصحية أو معتقداته الدينية.]]></text>					
+			</popText>
+		</revealCallOut>
+		
+		<revealCallOut width="300px" height="174px" top="15px" right="678px" ticktop="5px" tickleft="3px">
+			<img path="content/images/rtl/module4/m04s03/btn3.png" minwidth="769"><![CDATA[حماية البيانات]]></img>
+			<buttonText style="height: 40px;"><![CDATA[حماية البيانات]]></buttonText>
+			<popupArrow style="" />
+			<popText arrowleft="760px" style="height: 80px;top: -25px;width: 958px;">
+				<text><![CDATA[جميع المعلومات الشخصية لموظفينا وعملائنا وشركائنا في العمل يجب أن تخضع للحماية. وهذه واحدة من أهم مسؤولياتك بصفتك أحد موظفي شركة Johnson Controls.]]></text>			
+			</popText>
+		</revealCallOut>
+		
+	</revealCallOutContent>	
+</contents>

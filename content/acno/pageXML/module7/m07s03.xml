@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents type="formativeTawa" className="m07s03">
+	<transcript>
+		<text path="audio/module7/m07s03" id="0"><![CDATA[¿Qué sabe ya sobre los riesgos relacionados con la propiedad intelectual? Explore la situación de María, seleccione todas las respuestas adecuadas y, luego, haga clic en Enviar.]]></text>
+		<text path="" id="1"><![CDATA[]]></text>
+		<text path="" id="2"><![CDATA[]]></text>
+	</transcript>
+	<contentText>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[María comenzó a trabajar en Johnson Controls hace unos meses y ha estado involucrada en el lanzamiento de un nuevo producto que está generando entusiasmo en la industria.]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[El amigo de María, Peter, que trabaja en una industria similar, le pregunta cómo va su trabajo y comienza a hacerle preguntas específicas sobre el nuevo producto.]]></text>
+		<text style="margin-bottom: 5px;font-size:14px;"><![CDATA[¿Cómo debería responder María?]]></text>
+	</contentText>
+	<contentBackground>		
+		<img path="content/images/ltr/module7/m07s03/contentBackground.jpg" minwidth="769"><![CDATA[María y Peter]]></img>
+	</contentBackground>
+	<contentBg style="width: 620px;right: 30px;top: 40px;padding: 0;" whbgStyle="padding: 15px 15px 0;"></contentBg>
+	<pageTitle style=""></pageTitle>	
+	<instructionText style="margin-top: 0px;padding-bottom: 5px;">
+		<text><![CDATA[Seleccione todas las respuestas adecuadas y, luego, haga clic en Enviar.]]></text>
+		<text><![CDATA[Haga clic en Siguiente para continuar.]]></text>
+	</instructionText>
+	<extraInstructionText>
+		<text><![CDATA[Es posible que haya más de una respuesta correcta.]]></text>
+	</extraInstructionText>
+	<optionContent answer="0,1,1,0" height="auto" style="padding:5px 15px 17px;font-size:14px;">
+		<option><![CDATA[Debe hacerle prometer a Peter que no relevará nada de lo que está a punto de decirle antes de hablar sobre los detalles del producto y del lanzamiento.]]></option>	
+		<option><![CDATA[Debe decirle a Peter cómo se siente respecto del trabajo (por ejemplo, si es emocionante, desafiante, etc.) sin revelar ningún detalle sobre el producto o el lanzamiento.]]></option>	
+		<option><![CDATA[Debería decirle a Peter que el trabajo que está haciendo es confidencial y que no puede revelar ningún detalle.]]></option>	
+		<option><![CDATA[Solo debe hablar sobre sus proyectos y compartir detalles que no estén a disposición del público en general con amigos cercanos y familiares en los que pueda confiar.]]></option>	
+	</optionContent>
+	<buttonText>		
+		<text><![CDATA[ENVIAR]]></text>
+	</buttonText>
+	<feedback>
+		<correct transcriptId="1" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-214px">
+			<text><![CDATA[La respuesta es correcta.]]></text>
+			<text><![CDATA[María puede decirle a Peter cómo se siente respecto del trabajo, pero no debe revelar ningún tipo de información confidencial de la empresa, incluidos los detalles sobre el nuevo producto o el lanzamiento.]]></text>
+			<text><![CDATA[El punto clave para recordar es que NUNCA debe revelar secretos comerciales ni ningún otro tipo de información confidencial a personas no autorizadas, ajenas a nuestra empresa, por ningún motivo.]]></text>
+			<text><![CDATA[En ningún caso se deben dar a conocer secretos comerciales que Johnson Controls esté utilizando o PI que Johnson Controls esté desarrollando, ni siquiera a familiares y amigos de confianza. ]]></text>
+		</correct>
+		<incorrect transcriptId="2" style="top: 0px;position: absolute;height: 250px;" fcStyle="top:-214px">
+			<text><![CDATA[La respuesta no es correcta.]]></text>
+			<text><![CDATA[María puede decirle a Peter cómo se siente respecto del trabajo, pero no debe revelar ningún tipo de información confidencial de la empresa, incluidos los detalles sobre el nuevo producto o el lanzamiento.]]></text>
+			<text><![CDATA[El punto clave para recordar es que NUNCA debe revelar secretos comerciales ni ningún otro tipo de información confidencial a personas no autorizadas, ajenas a nuestra empresa, por ningún motivo.]]></text>
+			<text><![CDATA[En ningún caso se deben dar a conocer secretos comerciales que Johnson Controls esté utilizando o PI que Johnson Controls esté desarrollando, ni siquiera a familiares y amigos de confianza. ]]></text>
+		</incorrect>
+	</feedback>
+</contents>

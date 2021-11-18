@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contents className="m07s06">
+	<transcript>
+		<text path="audio/module7/m07s06" id="0"><![CDATA[Setiap pekerja ini telah membuat pernyataan tentang Harta Intelektual. Pilih semua pernyataan yang anda setuju dan kemudian, klik Serah.]]></text>		
+	</transcript>
+	 <contentBackground cName="">		
+		<img path="content/images/ltr/module7/m07s06/contentBackground.jpg" minwidth="769"><![CDATA[]]></img>
+	</contentBackground>
+	<contentBg style="width: 580px;right: 430px;top: 30px;padding: 0;" wtbgStyle="padding: 15px 15px;"></contentBg>
+	<pageTitle style=""></pageTitle>
+	<contentText>
+		<text style=""><![CDATA[Adakah anda bersetuju atau tidak dengan setiap pernyataan tentang Harta Intelektual?]]></text>
+	</contentText>
+	<instructionText style="">
+		<text><![CDATA[<span style="font-size:13px">Pilih sama ada anda bersetuju atau tidak dengan pernyataan ini dan kemudian, klik Serah.</span>]]></text>
+		<text><![CDATA[Klik pada Seterusnya untuk teruskan.]]></text>
+	</instructionText>
+	<optionContent style="width:582px;">
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img01.png"><![CDATA[Pekerja lelaki]]></img>
+			<text style="width: 312px;"><![CDATA[Jika saya mencipta sesuatu ketika bekerja untuk Johnson Controls, saya berhak untuk menggunakan ciptaan saya sesuka hati]]></text>			
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img02.png"><![CDATA[Pekerja lelaki]]></img>
+			<text style="width: 312px;"><![CDATA[Setelah sesuatu telah ditanda dagangan atau di hak ciptakan, ia sentiasa dilindungi]]></text>
+		</option>
+		<option answer="1,0">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img03.png"><![CDATA[Pekerja wanita]]></img>	
+			<text style="width: 312px;"><![CDATA[Melepaskan Harta Intelektual Johnson Controls boleh merosakkan perniagaan kita]]></text>	
+		</option>
+		<option answer="0,1">
+			<img width="80px" height="70px" path="content/images/ltr/module7/m07s06/img04.png"><![CDATA[Pekerja wanita]]></img>	
+			<text style="width:312px;"><![CDATA[Jika maklumat atau gambar tersedia dalam talian secara percuma, saya boleh menggunakannya untuk tujuan perniagaan]]></text>	
+		</option>
+	</optionContent>
+	<optionAnswer>
+		<text><![CDATA[<span style="font-size:12px;">Setuju</span>]]></text>
+		<text><![CDATA[<span style="font-size:12px;">Tidak Setuju</span>]]></text>
+	</optionAnswer>
+	<buttonText>		
+		<text><![CDATA[SERAH]]></text>
+	</buttonText>
+	<feedback>
+		<correct style="top: -114px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Itu betul.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Apa sahaja yang anda cipta, reka atau perhalusi dalam kerja anda di Johnson Controls biasanya milik Johnson Controls dan bukan milik anda. Setelah anda meninggalkan syarikat, semua IP terus menjadi milik Johnson Controls dan anda tidak boleh menggunakannya secara bebas, di syarikat lain atau kongsikannya dengan orang lain.</li> <li>Hak IP, termasuk tanda dagangan dan hak cipta, boleh dilemahkan atau hilang melalui penggunaan atau kecuaian yang tidak wajar. Sementara peguam Johnson Controls bekerja keras untuk mempertahankan hak IP kami, kita semua mempunyai peranan untuk dimainkan. Kita mesti berhati-hati untuk melindungi Harta Intelektual kita dalam aktiviti perniagaan seharian.</li> <li>IP Johnson Controls adalah penting kepada perniagaan. Penyalahgunaannya atau melepaskannya kepada penerima yang tidak dibenarkan boleh mewujudkan masalah serius untuk syarikat. Dalam sesetengah kes, perlindungan IP boleh hilang melalui penyalahgunaan, apabila mendedahkan rahsia dagangan atau rekaan Johnson Controls, ia boleh memudaratkan kami dalam pasaran secara persaingan.</li> <li>Kita mempunyai akses mudah ke jumlah maklumat dalam talian yang menakjubkan tetapi disebabkan oleh sesuatu dijadikan tersedia secara umum, ia tidak bermaksud kita berhak untuk menggunakannya. Kebanyakan daripada apa yang anda jumpa di Internet adalah dilindungi, termasuk tulisan, foto, kartun, kod dan perisian. Jangan gunakan sesuatu yang anda jumpa dalam talian untuk perniagaan Johnson Controls kecuali anda pasti bahawa kita mempunyai kebenaran pemilik untuk berbuat demikian.</li> </ul>]]></text>
+		</correct>
+		<incorrect style="top: -114px;width: 378px;height: 444px;padding-top: 20px;right: -410px;line-height:17px;">
+			<text style="padding-top: 0;font-size: 20px;"><![CDATA[Itu salah.]]></text>
+			<text style="font-size: 13px;"><![CDATA[<ul> <li>Apa sahaja yang anda cipta, reka atau perhalusi dalam kerja anda di Johnson Controls biasanya milik Johnson Controls dan bukan milik anda. Setelah anda meninggalkan syarikat, semua IP terus menjadi milik Johnson Controls dan anda tidak boleh menggunakannya secara bebas, di syarikat lain atau kongsikannya dengan orang lain.</li> <li>Hak IP, termasuk tanda dagangan dan hak cipta, boleh dilemahkan atau hilang melalui penggunaan atau kecuaian yang tidak wajar. Sementara peguam Johnson Controls bekerja keras untuk mempertahankan hak IP kami, kita semua mempunyai peranan untuk dimainkan. Kita mesti berhati-hati untuk melindungi Harta Intelektual kita dalam aktiviti perniagaan seharian.</li> <li>IP Johnson Controls adalah penting kepada perniagaan. Penyalahgunaannya atau melepaskannya kepada penerima yang tidak dibenarkan boleh mewujudkan masalah serius untuk syarikat. Dalam sesetengah kes, perlindungan IP boleh hilang melalui penyalahgunaan, apabila mendedahkan rahsia dagangan atau rekaan Johnson Controls, ia boleh memudaratkan kami dalam pasaran secara persaingan.</li> <li>Kita mempunyai akses mudah ke jumlah maklumat dalam talian yang menakjubkan tetapi disebabkan oleh sesuatu dijadikan tersedia secara umum, ia tidak bermaksud kita berhak untuk menggunakannya. Kebanyakan daripada apa yang anda jumpa di Internet adalah dilindungi, termasuk tulisan, foto, kartun, kod dan perisian. Jangan gunakan sesuatu yang anda jumpa dalam talian untuk perniagaan Johnson Controls kecuali anda pasti bahawa kita mempunyai kebenaran pemilik untuk berbuat demikian.</li> </ul>]]></text>	
+		</incorrect>		
+	</feedback>
+	
+</contents>
